@@ -131,6 +131,9 @@
             "TOAS Injury Lawyers - Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -220,6 +223,11 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -314,6 +322,11 @@
             "Young Lawyers Association, 2023 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -444,6 +457,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -544,6 +560,11 @@
             "American Association of Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights",
+        "Criminal Defense"
       ]
     },
     {
@@ -698,6 +719,13 @@
             "American Bar Association (Trial Tech Commission)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Personal Injury Defense",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Construction"
       ]
     },
     {
@@ -832,6 +860,10 @@
             "South Dakota Association Criminal Defense Lawyers, Member, Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -951,6 +983,15 @@
             "American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Law",
+        "Real Estate",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Wills"
       ]
     },
     {
@@ -999,6 +1040,10 @@
           "type": "text",
           "content": "Elliot focuses his practice on estate planning, estate administration, agriculture law, and general civil litigation. Elliot grew up on a ranch near Rapid City, South Dakota. While competing in collegiate athletics at Augustana College, he obtained a B.A. in Biochemistry in 2011. For the next three years, Elliot worked in the chemical industry where he designed and manufactured cleaning chemicals for food processing facilities. Elliot went on to graduate with Sterling Honors from the University of South Dakota School of Law in 2017. While in law school, he was vice-president of the USD Trial Team, a member of the Moot Court Board, and on the Transactional Law Team. After graduation, Elliot served as a law clerk for the South Dakota Supreme Court. Elliot joined Beardsley Jensen & Lee in 2018. Now back in his hometown, Elliot enjoys spending time with his wife, Bethany, and working outdoors on the family ranch.\n\nLanguages\n\nEnglish"
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -1145,6 +1190,19 @@
             "South Dakota Trial Lawyers Association, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Criminal Defense",
+        "Class Actions",
+        "Native Peoples",
+        "Civil Rights",
+        "Constitutional Law",
+        "Contracts",
+        "Ethics and Professional Responsibility",
+        "Tax Law",
+        "Legal Malpractice",
+        "Professional Malpractice"
       ]
     },
     {
@@ -1224,6 +1282,12 @@
             "South Dakota, 1973"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -1371,6 +1435,12 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Ethics and Professional Responsibility"
       ]
     },
     {
@@ -1467,6 +1537,12 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Personal Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -1544,6 +1620,10 @@
             "South Dakota, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Social Security"
       ]
     },
     {
@@ -1639,6 +1719,9 @@
             "South Dakota Trial Lawyers Association, 1992 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1794,6 +1877,14 @@
             "Wealth Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Real Estate",
+        "Debtor and Creditor",
+        "Probate",
+        "Tax Law",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -1890,6 +1981,12 @@
             "Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -1976,6 +2073,9 @@
             "South Dakota"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -2039,7 +2139,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "danny-ellis",
@@ -2155,6 +2256,10 @@
             "Tennessee State Bar Association - Member (2000 - Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Defense"
       ]
     },
     {
@@ -2270,6 +2375,13 @@
             "American Bar Association, Member, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Professional Malpractice",
+        "Contracts"
       ]
     },
     {
@@ -2365,6 +2477,11 @@
             "Sioux Falls Estate Planning Council, 2006 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -2478,6 +2595,12 @@
             "National Criminal Defense Lawyers Association, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Elder Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -2584,6 +2707,10 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -2686,6 +2813,18 @@
             "The State Bar of South Dakota (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Sexual Harassment",
+        "DUI and DWI",
+        "Sexual Abuse",
+        "Personal Injury",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)",
+        "Family Law",
+        "Sex Crime",
+        "Domestic Violence"
       ]
     },
     {
@@ -2766,6 +2905,10 @@
             "Criminal Trial Attorney , National Board of Legal Specialty Certification , 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Domestic Violence",
+        "Internet"
       ]
     },
     {
@@ -2879,6 +3022,12 @@
             "South Dakota Criminal Defense Lawyers Association - Vice President 2026"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -3054,6 +3203,9 @@
             "S.D. Judicial Qualifications Commission, 2012 - 2016 (Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -3182,6 +3334,11 @@
             "U.S. Court of Appeals 8th Circuit, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Civil Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -3305,6 +3462,9 @@
             "Phi Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -3397,6 +3557,9 @@
             "South Dakota, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -3513,6 +3676,12 @@
             "American College of Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Bad Faith Insurance",
+        "Car Accidents",
+        "DUI and DWI"
       ]
     },
     {
@@ -3604,6 +3773,14 @@
             "Phi Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -3713,6 +3890,12 @@
             "Academy of Truck Accident Attorneys."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Bad Faith Insurance",
+        "Car Accidents",
+        "DUI and DWI"
       ]
     },
     {
@@ -3847,6 +4030,15 @@
             "Kansas Bar Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Real Estate",
+        "DUI and DWI",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -4015,6 +4207,18 @@
             "Professional Fellowship American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Health Care Law",
+        "Litigation and Appeals",
+        "Construction",
+        "Business and Commercial Law",
+        "Professional Malpractice",
+        "Native Peoples",
+        "Debtor and Creditor",
+        "Banking and Finance Law",
+        "Family Law"
       ]
     },
     {
@@ -4148,6 +4352,10 @@
             "U.S. District Court District of South Dakota"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -4253,6 +4461,10 @@
             "Delta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Criminal Defense"
       ]
     },
     {
@@ -4352,6 +4564,10 @@
             "South Dakota Trial Lawyers Board of Governors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -4485,6 +4701,15 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Construction",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Environmental Law",
+        "Real Estate"
       ]
     },
     {
@@ -4624,6 +4849,11 @@
             "Workers’ Injury Law & Advocacy Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights",
+        "Civil Rights"
       ]
     },
     {
@@ -4711,6 +4941,10 @@
             "South Dakota Association of Criminal Defense, 2024 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -4785,7 +5019,8 @@
             "U.S. District Court District of South Dakota, 2023"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-mcintosh",
@@ -4860,6 +5095,14 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Family Law",
+        "Workers' Compensation",
+        "Insurance Defense",
+        "Criminal Defense"
       ]
     },
     {
@@ -4949,6 +5192,13 @@
             "South Dakota, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business Organizations",
+        "Estate Planning",
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -5042,6 +5292,13 @@
             "Certified Parental Coordinator"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Bad Faith Insurance",
+        "Premises Liability"
       ]
     },
     {
@@ -5081,7 +5338,8 @@
       "practice_areas": [
         "Business & Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3431953_1",
@@ -5120,7 +5378,10 @@
       "practice_areas": [
         "Personal Injury Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "4487472_1",
@@ -5159,7 +5420,10 @@
       "practice_areas": [
         "Personal Injury Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5198533_1",
@@ -5198,7 +5462,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "5198510_1",
@@ -5237,7 +5504,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "1080367_1",
@@ -5276,7 +5546,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "5198484_1",
@@ -5315,7 +5588,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "1084715_1",
@@ -5354,7 +5630,10 @@
       "practice_areas": [
         "Age Discrimination"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Discrimination"
+      ]
     },
     {
       "slug": "4876249_1",
@@ -5392,7 +5671,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4963920_1",
@@ -5430,7 +5710,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1522704_1",
@@ -5468,7 +5749,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4971300_1",
@@ -5506,7 +5788,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3433083_1",
@@ -5544,7 +5827,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1180390_1",
@@ -5582,7 +5866,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "george-j-nelson",
@@ -5627,7 +5912,14 @@
         "Divorce",
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense",
+        "Personal Injury",
+        "Divorce and Separation",
+        "Family Law"
+      ]
     },
     {
       "slug": "janet-olson",
@@ -5703,6 +5995,10 @@
             "South Dakota Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -5803,7 +6099,8 @@
             "State Bar of South Dakota, Judicial Liaison Committee, Law School Committee, Patterned Jury Instructions Committee (Present)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "martin-p-oyos",
@@ -5908,6 +6205,11 @@
             "State Bar of South Dakota"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -6006,6 +6308,12 @@
             "Sioux Falls Estate Planning Council, 2001 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Landlord and Tenant",
+        "Estate Planning",
+        "Securities"
       ]
     },
     {
@@ -6085,6 +6393,12 @@
             "Sixth Judicial Circuit of South Dakota, Law Clerk"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -6216,6 +6530,9 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -6326,6 +6643,9 @@
             "State Bar of South Dakota, Strategic Planning Committee, Member (Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -6412,6 +6732,9 @@
             "South Dakota Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6520,6 +6843,10 @@
             "South Dakota Criminal Defense Lawyers Association, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -6589,6 +6916,10 @@
             "Iowa, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -6669,6 +7000,12 @@
             "Attorney General’s Office in Sioux Falls, Intern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -6730,6 +7067,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -6839,6 +7179,11 @@
             "Association of Trial Lawyers of America (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -6933,6 +7278,9 @@
             "South Dakota Bar Association, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7027,6 +7375,10 @@
             "Pennington County Bar Association, 1995 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -7129,6 +7481,11 @@
             "South Dakota, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -7221,6 +7578,10 @@
             "South Dakota, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -7301,6 +7662,10 @@
             "South Dakota, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -7412,6 +7777,11 @@
             "South Dakota Criminal Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -7489,6 +7859,11 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Father's Rights"
       ]
     },
     {
@@ -7602,6 +7977,9 @@
             "Past President of the Young Lawyers Section of the South Dakota State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -7704,6 +8082,9 @@
             "State Bar of South Dakota, Law School Committee (Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -7794,6 +8175,9 @@
             "Honorable Roberto A. Lange, Federal District Judge for the District of South Dakota, Law Clerk"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -7887,6 +8271,16 @@
             "South Dakota State Bar Association, 2019 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury",
+        "Family Law",
+        "Divorce and Separation",
+        "Business and Commercial Law",
+        "Assault and Battery (Plaintiff)",
+        "Sexual Abuse"
       ]
     },
     {
@@ -7975,6 +8369,9 @@
             "State Bar of South Dakota (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -8107,6 +8504,10 @@
             "South Dakota Association Criminal Defense Lawyers, 2013 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -8244,6 +8645,10 @@
             "Lambda Chi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8351,6 +8756,13 @@
             "Lutheran Social Services Foundation"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Estate Planning",
+        "Probate",
+        "Litigation and Appeals"
       ]
     }
   ],
@@ -8407,15 +8819,12 @@
         "Michael S. Beardsley"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Construction",
-        "Criminal Defense",
-        "Family Law",
-        "Insurance Defense",
-        "Insurance Law",
         "Personal Injury",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Insurance Defense",
+        "Criminal Defense",
+        "Business and Commercial Law",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -8466,13 +8875,11 @@
         "Jeffrey Beck"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Car Accidents",
+        "Divorce and Separation",
+        "Litigation and Appeals"
       ],
       "additional_locations": []
     },
@@ -8571,10 +8978,10 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
-        "Business and Commercial Law",
         "Criminal Defense",
         "DUI and DWI",
         "Estate Planning",
+        "Business and Commercial Law",
         "Probate",
         "Real Estate"
       ],
@@ -8625,11 +9032,8 @@
       ],
       "official_practice_area": [
         "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Social Security",
-        "Social Security Disability",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -8671,8 +9075,6 @@
         "William D. Sims"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -8722,8 +9124,6 @@
         "Shannon R. Falon"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Trusts"
       ],
       "additional_locations": []
@@ -8782,16 +9182,11 @@
         "Allison R. Sanner"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Assault and Battery (Plaintiff)",
-        "Criminal Defense",
         "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
         "Divorce and Separation",
-        "Drug Crime",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Same Sex",
-        "Sex Crime"
+        "ADR Arbitration and Mediation",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -8898,16 +9293,11 @@
         "Michael H. Paulson"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Business Organizations",
         "Business and Commercial Law",
-        "Elder Law",
         "Estate Planning",
-        "Insurance Defense",
-        "Landlord and Tenant",
-        "Litigation and Appeals",
         "Real Estate",
-        "State Local and Municipal Law"
+        "Landlord and Tenant",
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -8958,10 +9348,7 @@
         "Natalia Stys"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
-        "Father's Rights",
-        "Real Estate"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -9014,8 +9401,6 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Sex Crime"
       ],
       "additional_locations": []
@@ -9075,15 +9460,12 @@
         "Matthew Tysdal"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
         "Animal and Dog Bites",
         "Bad Faith Insurance",
-        "Car Accidents",
-        "Insurance Defense",
         "Insurance Law",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Probate",
-        "Wrongful Death"
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -9138,15 +9520,9 @@
         "Erin B. Oster"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Contracts",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
         "Trusts",
-        "Wills"
+        "Probate",
+        "Contracts"
       ],
       "additional_locations": []
     },
@@ -9198,18 +9574,13 @@
         "J. Scott James"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
         "Criminal Defense",
-        "DUI and DWI",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Probate",
         "Real Estate",
-        "Traffic Ticket",
-        "Wills"
+        "DUI and DWI",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -9315,10 +9686,8 @@
         "Ryan Kolbeck"
       ],
       "official_practice_area": [
-        "Cannabis Law",
-        "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime"
+        "Cannabis Law"
       ],
       "additional_locations": []
     },
@@ -9372,9 +9741,6 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
-        "Family Law",
-        "Sex Crime",
         "Sexual Abuse"
       ],
       "additional_locations": []
@@ -9428,14 +9794,11 @@
         "Becky Schmit"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Cannabis Law",
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Assault and Battery (Plaintiff)",
+        "Personal Injury",
+        "Cannabis Law"
       ],
       "additional_locations": []
     },
@@ -9533,15 +9896,13 @@
         "Tucker J. Volesky"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Business and Commercial Law",
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Divorce and Separation",
-        "Family Law",
         "Personal Injury",
-        "Sex Crime",
+        "Family Law",
+        "Divorce and Separation",
+        "Business and Commercial Law",
+        "Assault and Battery (Plaintiff)",
         "Sexual Abuse"
       ],
       "additional_locations": [
@@ -9601,11 +9962,9 @@
         "Max J. Walter"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime",
-        "Sex Crime"
+        "Assault and Battery (Plaintiff)"
       ],
       "additional_locations": []
     },
@@ -9654,7 +10013,9 @@
         "Steven M. Johnson",
         "Kimberly J. Lanham"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -9703,7 +10064,13 @@
         "Paul Eisenbraun",
         "Ellery R. Grey"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Domestic Violence",
+        "Internet"
+      ],
       "additional_locations": []
     },
     {
@@ -9749,7 +10116,13 @@
       "attorneys": [
         "George J. Nelson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense",
+        "Personal Injury",
+        "Divorce and Separation",
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -9797,7 +10170,9 @@
         "Paul Van Olson",
         "Sheila S. Woodward"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     }
   ]

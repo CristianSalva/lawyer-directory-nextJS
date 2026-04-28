@@ -104,6 +104,12 @@
             "Massachusetts, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Elder Law"
       ]
     },
     {
@@ -228,6 +234,10 @@
             "Delaware Trial Lawyer’s Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Child Custody"
       ]
     },
     {
@@ -305,7 +315,8 @@
             "U.S. District Court District of Delaware"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bonnie-m-benson",
@@ -378,6 +389,13 @@
             "Delaware, 1983"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Estate Planning",
+        "Elder Law",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -471,6 +489,11 @@
             "Delta Mu Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -559,6 +582,9 @@
             "Supreme Court of Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -654,7 +680,8 @@
             "Pennsylvania Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "melanie-c-burke",
@@ -744,6 +771,11 @@
             "Delaware State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Elder Law"
       ]
     },
     {
@@ -837,6 +869,12 @@
             "Delaware Board of Bar Examiners (Past Associate Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Contracts",
+        "Estate Planning",
+        "Elder Law"
       ]
     },
     {
@@ -923,6 +961,10 @@
             "Pro Bono Assistance Program, 2005 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -1001,6 +1043,14 @@
             "U.S. District Court District of Delaware"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Truck Accident",
+        "Employment Rights",
+        "Landlord and Tenant",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -1039,7 +1089,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "patrick-a-costello",
@@ -1150,7 +1203,8 @@
             "Delaware Contractors Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rachelle-r-cutrona-esq",
@@ -1264,6 +1318,12 @@
             "Pennsylvania State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -1341,7 +1401,8 @@
             "Pennsylvania"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-c-dalton",
@@ -1394,6 +1455,10 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Sexual Abuse"
       ]
     },
     {
@@ -1512,6 +1577,9 @@
             "Member of the Superior Court’s Committee on Jury Instructions in Civil Cases"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1598,6 +1666,10 @@
             "Federal District Court for the Eastern District of Pennsylvania under Honorable Gerald McHugh and with the Delaware Public Defenders office, Intern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Medical Malpractice"
       ]
     },
     {
@@ -1708,6 +1780,10 @@
             "U.S. District Court District of Delaware, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Civil Rights"
       ]
     },
     {
@@ -1798,6 +1874,11 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Collections",
+        "Real Estate"
       ]
     },
     {
@@ -1870,6 +1951,12 @@
             "U.S. District Court District of Delaware, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Landlord and Tenant",
+        "Collections"
       ]
     },
     {
@@ -1966,6 +2053,9 @@
             "Delaware State Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -2137,6 +2227,9 @@
             "Phi Alpha Delta Legal Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2274,6 +2367,10 @@
             "American Bar Association, Business Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -2366,6 +2463,9 @@
             "Boy Scouts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -2500,6 +2600,15 @@
             "Alpha Tau Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Class Actions",
+        "Construction",
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Car Accidents",
+        "Medical Malpractice"
       ]
     },
     {
@@ -2616,6 +2725,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Bankruptcy",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -2732,6 +2847,11 @@
             "Delaware County (PA) Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Family Law"
       ]
     },
     {
@@ -2842,6 +2962,10 @@
             "Southern Delaware Estate Planning Council (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -2942,6 +3066,9 @@
             "Randy J. Holland Worker’s Compensation Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -2996,6 +3123,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -3094,6 +3224,12 @@
             "U.S. District Court District of Delaware"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -3182,6 +3318,11 @@
             "Gamma Sigma Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Elder Law"
       ]
     },
     {
@@ -3310,6 +3451,11 @@
             "Section on the Law and the Elderly (Delaware State Bar), 2007 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3424,6 +3570,9 @@
             "Kappa Delta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3540,6 +3689,20 @@
             "Delaware Trial Lawyers Association (DTLA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Disability Insurance",
+        "Discrimination",
+        "Contracts",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Civil Rights",
+        "Sexual Harassment",
+        "Class Actions",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Family Law"
       ]
     },
     {
@@ -3632,6 +3795,9 @@
             "Phi Sigma Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3786,6 +3952,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Construction",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -3897,6 +4069,9 @@
             "New Castle County Chamber of Commerce (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3961,7 +4136,8 @@
             "The Moot Court Honor Society of Widener University (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kathleen-m-jennings",
@@ -4114,6 +4290,14 @@
             "Member of the Board of Directors of Wesley College, 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -4194,6 +4378,10 @@
             "Delaware, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -4283,7 +4471,8 @@
             "Delaware Trial Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jamie-c-king",
@@ -4395,6 +4584,10 @@
             "Sussex County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Collections"
       ]
     },
     {
@@ -4477,6 +4670,9 @@
             "Marshall Dennehey Warner Coleman & Goggin"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Abuse"
       ]
     },
     {
@@ -4561,6 +4757,9 @@
             "Board of the Montgomery County Advocacy Project (MCAP)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Abuse"
       ]
     },
     {
@@ -4687,6 +4886,10 @@
             "Million Dollar Advocates Forum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -4801,6 +5004,11 @@
             "Alpha Kappa Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Termination",
+        "Employment Rights",
+        "Discrimination"
       ]
     },
     {
@@ -4926,6 +5134,9 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5015,6 +5226,13 @@
             "Delaware Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Lemon Law"
       ]
     },
     {
@@ -5107,6 +5325,16 @@
             "New Jersey, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -5204,6 +5432,11 @@
             "IWIRC (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -5298,6 +5531,16 @@
             "Pennsylvania Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Contracts",
+        "Medical Malpractice",
+        "DUI and DWI",
+        "Wrongful Death",
+        "Immigration",
+        "Class Actions"
       ]
     },
     {
@@ -5398,6 +5641,13 @@
             "Aircraft Owners and Pilot Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Real Estate",
+        "Business and Commercial Law",
+        "DUI and DWI",
+        "Immigration"
       ]
     },
     {
@@ -5502,6 +5752,14 @@
             "Melson-Arsht Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "Domestic Violence"
       ]
     },
     {
@@ -5585,6 +5843,13 @@
             "New York, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Elder Law",
+        "Probate",
+        "Real Estate",
+        "Business Organizations"
       ]
     },
     {
@@ -5692,6 +5957,11 @@
             "Virginia State Bar, 1984 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5729,7 +5999,10 @@
       "practice_areas": [
         "Plaintiff's Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5075354_1",
@@ -5764,7 +6037,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057180_1",
@@ -5799,7 +6073,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057267_1",
@@ -5834,7 +6109,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5076758_1",
@@ -5869,7 +6145,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5062222_1",
@@ -5904,7 +6181,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057268_1",
@@ -5939,7 +6217,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057181_1",
@@ -5974,7 +6253,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1944209_1",
@@ -6009,7 +6289,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5064587_1",
@@ -6046,7 +6327,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5073354_1",
@@ -6083,7 +6365,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5087807_1",
@@ -6120,7 +6403,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5117450_1",
@@ -6157,7 +6441,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5081328_1",
@@ -6194,7 +6479,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2964905_1",
@@ -6233,7 +6519,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5073769_1",
@@ -6268,7 +6557,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5081373_1",
@@ -6303,7 +6593,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5111522_1",
@@ -6338,7 +6629,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1027247_1",
@@ -6375,7 +6667,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "1646338_1",
@@ -6412,7 +6707,10 @@
       "practice_areas": [
         "Commercial Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "1062128_1",
@@ -6449,7 +6747,10 @@
       "practice_areas": [
         "Personal Injury, Plaintiff"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "1966181_1",
@@ -6486,7 +6787,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "1274324_1",
@@ -6523,7 +6827,10 @@
       "practice_areas": [
         "Commercial Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "5104415_1",
@@ -6558,7 +6865,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1718366_1",
@@ -6596,7 +6904,10 @@
       "practice_areas": [
         "Environmental Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Environmental Law"
+      ]
     },
     {
       "slug": "1053663_1",
@@ -6633,7 +6944,10 @@
       "practice_areas": [
         "Arbitration and Mediation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
+      ]
     },
     {
       "slug": "5070395_1",
@@ -6668,7 +6982,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5062738_1",
@@ -6703,7 +7018,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1085637_1",
@@ -6740,7 +7056,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5144165_1",
@@ -6777,7 +7096,10 @@
       "practice_areas": [
         "Construction Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "3332465_1",
@@ -6814,7 +7136,8 @@
       "practice_areas": [
         "Civil Trial Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4275642_1",
@@ -6851,7 +7174,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "4152357_1",
@@ -6888,7 +7214,8 @@
       "practice_areas": [
         "Civil defense litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2181252_1",
@@ -6925,7 +7252,8 @@
       "practice_areas": [
         "Alternative Dispute Resolution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3867525_1",
@@ -6962,7 +7290,8 @@
       "practice_areas": [
         "Alternative Dispute Resolution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057413_1",
@@ -6999,7 +7328,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5057414_1",
@@ -7036,7 +7366,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3432032_1",
@@ -7075,7 +7406,10 @@
       "practice_areas": [
         "Plaintiff's Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5080820_1",
@@ -7112,7 +7446,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1224611_1",
@@ -7151,7 +7486,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "5055137_1",
@@ -7188,7 +7526,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5070625_1",
@@ -7225,7 +7564,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1251777_1",
@@ -7264,7 +7604,8 @@
       "practice_areas": [
         "Insurance Coverage"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "gwendolyn-osborn-gustavson-esq",
@@ -7354,6 +7695,12 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Medical Malpractice",
+        "Veteran's Benefits"
       ]
     },
     {
@@ -7444,6 +7791,12 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Medical Malpractice",
+        "Veteran's Benefits"
       ]
     },
     {
@@ -7481,7 +7834,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jessica-l-needles",
@@ -7584,6 +7938,10 @@
             "Delaware Trial Lawyer’s Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -7713,6 +8071,11 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Motor Vehicle Defects",
+        "Workers' Compensation",
+        "Premises Liability"
       ]
     },
     {
@@ -7830,6 +8193,9 @@
             "Delaware Trial Lawyers Association, 2011 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7921,6 +8287,14 @@
             "U.S. District Court District of Delaware, 1983"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Estate Planning",
+        "Health Care Law",
+        "Probate",
+        "Tax Law",
+        "Real Estate"
       ]
     },
     {
@@ -8020,6 +8394,10 @@
             "Pennsylvania Bar Association, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -8142,6 +8520,10 @@
             "Delaware Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -8232,6 +8614,12 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Medical Malpractice",
+        "Veteran's Benefits"
       ]
     },
     {
@@ -8355,6 +8743,11 @@
             "Delaware Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Medical Malpractice"
       ]
     },
     {
@@ -8468,6 +8861,9 @@
             "Melson-Arsht Inn of Court, Librarian (Executive Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -8608,6 +9004,11 @@
             "Alpha Phi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -8712,6 +9113,13 @@
             "Association of Trial Lawyers of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Cannabis Law",
+        "Domestic Violence"
       ]
     },
     {
@@ -8805,6 +9213,18 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Criminal Defense",
+        "Animal and Dog Bites",
+        "DUI and DWI",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Premises Liability",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -8933,6 +9353,13 @@
             "Multi-Million Dollar Advocates Forum (Lifetime Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -9039,6 +9466,9 @@
             "U.S. District Court District of Delaware"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -9116,6 +9546,11 @@
             "Delaware"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9251,6 +9686,15 @@
             "Delaware Supreme Court (Arm)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Defamation",
+        "Criminal Defense",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -9365,6 +9809,12 @@
             "Sigma Pi Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "ADR Arbitration and Mediation",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -9474,6 +9924,10 @@
             "Delaware Claims Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -9585,6 +10039,9 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -9669,6 +10126,12 @@
             "Leadership Delaware, Alum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Civil Rights"
       ]
     },
     {
@@ -9757,6 +10220,14 @@
             "House Minority Caucus in the Delaware House of Representatives, Legislative Fellow, - 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Criminal Defense",
+        "Medical Malpractice",
+        "Contracts",
+        "Civil Rights",
+        "Construction Accident"
       ]
     },
     {
@@ -9850,6 +10321,10 @@
             "American Association of Justice, 2016 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9952,6 +10427,14 @@
             "Supreme Court of the United States of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury",
+        "Wrongful Death",
+        "Traffic Ticket",
+        "Contracts"
       ]
     },
     {
@@ -10034,6 +10517,9 @@
             "Reilly, Janiczek & McDevitt, Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10125,6 +10611,10 @@
             "Delaware, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -10296,6 +10786,10 @@
             "American Bar Association ( Subcommittee on Corporate Counseling and Litigation, Past Chair; Task Force on Litigation Reform and Rules Revision, Past Co-Chair and Task Force on Stockholder Meetings, Current Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Class Actions"
       ]
     },
     {
@@ -10394,6 +10888,10 @@
             "Delaware Bar Association, 1995 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Family Law"
       ]
     }
   ],
@@ -10441,10 +10939,7 @@
         "Matthew Conrad"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Construction"
       ],
       "additional_locations": [
         {
@@ -10512,8 +11007,7 @@
         "Megan N. Kinley"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -10702,9 +11196,7 @@
         "Angela Scott"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "DUI and DWI",
-        "Traffic Ticket"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -10759,10 +11251,8 @@
         "Gwendolyn Osborn-Gustavson Esq."
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Criminal Defense"
       ],
       "additional_locations": [
         {
@@ -10837,11 +11327,9 @@
         "Tiffany A. Poole Esq."
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Estate Planning",
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -10885,7 +11373,6 @@
         "Andres Gutierrez De Cos"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -10932,8 +11419,6 @@
       ],
       "official_practice_area": [
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -10981,7 +11466,6 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": [
@@ -11149,7 +11633,6 @@
         "Michelle R. Skoranski"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
         "Family Law"
       ],
       "additional_locations": [
@@ -11210,15 +11693,13 @@
         "Shauna T. Hagan"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Child Support",
         "Divorce and Separation",
-        "Elder Law",
+        "Child Custody",
         "Father's Rights",
-        "Military",
+        "Adoption",
         "Military Divorce",
-        "Real Estate"
+        "Elder Law",
+        "Child Support"
       ],
       "additional_locations": []
     },
@@ -11260,7 +11741,6 @@
         "Martin D. Haverly"
       ],
       "official_practice_area": [
-        "Employment Law (Employer)",
         "Employment Rights"
       ],
       "additional_locations": []
@@ -11353,10 +11833,8 @@
         "Michael C. Heyden"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -11404,11 +11882,8 @@
         "Peter Janczyk"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Dangerous Products",
-        "Insurance Law",
-        "Personal Injury",
-        "Premises Liability"
+        "Premises Liability",
+        "Insurance Law"
       ],
       "additional_locations": [
         {
@@ -11472,16 +11947,15 @@
         "Dave Skoranski"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Professional Malpractice",
+        "Car Accidents",
         "Truck Accident",
+        "Construction Accident",
+        "Premises Liability",
+        "Nursing Home Abuse",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Medical Malpractice"
       ],
       "additional_locations": [
         {
@@ -11537,10 +12011,8 @@
       ],
       "official_practice_area": [
         "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Whistleblower and Qui Tam",
-        "Wrongful Termination"
+        "Wrongful Termination",
+        "Whistleblower and Qui Tam"
       ],
       "additional_locations": []
     },
@@ -11628,9 +12100,7 @@
         "Steven F. Mones Esq.",
         "Timothy H. Rohs"
       ],
-      "official_practice_area": [
-        "Professional Malpractice"
-      ],
+      "official_practice_area": [],
       "additional_locations": [
         {
           "city": "Philadelphia",
@@ -11808,18 +12278,16 @@
         "Sheldon S. Saints"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
+        "Personal Injury",
         "Car Accidents",
+        "Truck Accident",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence",
+        "Sex Crime",
+        "Premises Liability",
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Personal Injury",
-        "Premises Liability",
-        "Sex Crime",
-        "Traffic Ticket",
-        "Truck Accident"
+        "Traffic Ticket"
       ],
       "additional_locations": [
         {
@@ -11878,7 +12346,13 @@
         "Julie M. Jopp",
         "Jay N. Moffitt"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Elder Law",
+        "Probate",
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -11921,7 +12395,10 @@
       "attorneys": [
         "Amanda L.H. Brinton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -11960,7 +12437,9 @@
         "John I. Ellis",
         "Gerald I. Street"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Elder Law"
+      ],
       "additional_locations": []
     },
     {
@@ -11998,7 +12477,9 @@
       "attorneys": [
         "Keith Horner"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -12041,7 +12522,10 @@
         "Kevin A O'Brien",
         "Paul Anthony O'Brien"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
+      ],
       "additional_locations": []
     },
     {
@@ -12080,7 +12564,9 @@
       "attorneys": [
         "Kevin P O'Neill"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -12124,7 +12610,10 @@
       "attorneys": [
         "Joseph A. Wahl"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Child Custody",
+        "Family Law"
+      ],
       "additional_locations": []
     }
   ]

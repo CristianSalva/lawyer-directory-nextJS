@@ -696,6 +696,15 @@
             "Birmingham Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Admiralty and Maritime",
+        "Wrongful Death"
       ]
     },
     {
@@ -731,7 +740,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "barbara-barbi-h-agricola",
@@ -887,6 +897,20 @@
             "Alpha Omicron Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Election Campaign and Political Law",
+        "Premises Liability",
+        "Federal and White Collar Crimes",
+        "Employment Rights",
+        "Civil Rights",
+        "Estate Planning",
+        "Constitutional Law",
+        "Administrative Law",
+        "Family Law",
+        "Education"
       ]
     },
     {
@@ -1028,6 +1052,20 @@
             "Lee County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Election Campaign and Political Law",
+        "Constitutional Law",
+        "Employment Rights",
+        "Premises Liability",
+        "Administrative Law",
+        "Federal and White Collar Crimes",
+        "Family Law",
+        "Personal Injury",
+        "Criminal Defense",
+        "Civil Rights",
+        "Estate Planning",
+        "Education"
       ]
     },
     {
@@ -1138,6 +1176,10 @@
             "Alabama State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -1199,6 +1241,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -1306,6 +1351,9 @@
             "Mobile Bar’s Strategic Planning Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1370,6 +1418,9 @@
             "Rotaract Club of Birmingham"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1459,6 +1510,12 @@
             "District Simplified Grant Committee (Chairman, 2008-2010)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -1557,6 +1614,10 @@
             "Alabama Center for Law and Civic Education"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Real Estate"
       ]
     },
     {
@@ -1697,6 +1758,12 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "ADR Arbitration and Mediation",
+        "Criminal Defense"
       ]
     },
     {
@@ -1879,6 +1946,14 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Personal Injury Defense",
+        "Insurance Defense",
+        "Car Accidents",
+        "Wrongful Death",
+        "Contracts"
       ]
     },
     {
@@ -1992,6 +2067,10 @@
             "Alabama State Bar Association, Young Lawyers Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury"
       ]
     },
     {
@@ -2113,6 +2192,11 @@
             "International Women’s Insolvency and Restructuring Confederation (IWIRC)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business Organizations",
+        "Patents"
       ]
     },
     {
@@ -2196,6 +2280,11 @@
             "Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate",
+        "Tax Law"
       ]
     },
     {
@@ -2304,6 +2393,10 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Class Actions"
       ]
     },
     {
@@ -2398,6 +2491,14 @@
             "The Exceptional Foundation, Junior Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Brain Injury",
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -2525,6 +2626,23 @@
             "Active within various chambers inside St. Clair County"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Bad Faith Insurance",
+        "Consumer Protection",
+        "Class Actions",
+        "Adoption",
+        "Child Support",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Truck Accident",
+        "Assault and Battery (Plaintiff)",
+        "Collaborative Law"
       ]
     },
     {
@@ -2641,6 +2759,19 @@
             "Lee County Bar Association -Present (Former President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Elder Law",
+        "Estate Planning",
+        "Family Law",
+        "Divorce and Separation",
+        "Adoption",
+        "ADR Arbitration and Mediation",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -2771,6 +2902,9 @@
             "Alabama Education Association, 2012 - 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -2833,6 +2967,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Transportation"
       ]
     },
     {
@@ -2936,6 +3074,11 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Insurance Law"
       ]
     },
     {
@@ -3051,7 +3194,8 @@
             "Alabama Defense Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "johnny-baxley",
@@ -3097,7 +3241,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-b-beers",
@@ -3200,6 +3345,11 @@
             "Alabama Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Federal and White Collar Crimes",
+        "Class Actions"
       ]
     },
     {
@@ -3297,6 +3447,10 @@
             "American Association for Justice, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Personal Injury"
       ]
     },
     {
@@ -3424,7 +3578,8 @@
             "International Association of Defense Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "aaron-e-bern",
@@ -3485,6 +3640,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3550,6 +3715,10 @@
             "Alabama, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -3615,6 +3784,10 @@
             "Alabama, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -3688,6 +3861,14 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Collaborative Law",
+        "Trusts"
       ]
     },
     {
@@ -3803,6 +3984,15 @@
             "Alabama, 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Family Law",
+        "Elder Law",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -3929,6 +4119,15 @@
             "Zeta Beta Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes",
+        "Health Care Law",
+        "Personal Injury",
+        "Administrative Law",
+        "DUI and DWI",
+        "Sexual Harassment"
       ]
     },
     {
@@ -3969,7 +4168,10 @@
         "Corporate Governance",
         "Mergers and Acquisitions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
+      ]
     },
     {
       "slug": "jesse-h-blount",
@@ -4009,7 +4211,10 @@
         "Corporate Governance",
         "Mergers and Acquisitions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
+      ]
     },
     {
       "slug": "ralph-bohanan-jr",
@@ -4114,6 +4319,11 @@
             "AV Peer Review Rated by Martindale Hubbell"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -4286,6 +4496,9 @@
             "Birmingham Bar Association, ADR Section, 2011 - 2012 (Chair, Membership Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -4370,6 +4583,14 @@
             "U.S. Court of Appeals 11th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Class Actions",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -4487,6 +4708,16 @@
             "Chairman of the Jackson County Charitable Trust, 2010 - 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Probate",
+        "Social Security Disability",
+        "Wills",
+        "Trusts",
+        "Tax Law",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -4577,6 +4808,10 @@
             "Georgia Bar Association, 2013 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -4615,7 +4850,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "blake-brantley",
@@ -4696,6 +4932,9 @@
             "Georgia, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -4738,7 +4977,15 @@
         "Probate",
         "DUI"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Divorce and Separation",
+        "Personal Injury",
+        "Probate",
+        "DUI and DWI"
+      ]
     },
     {
       "slug": "katie-boyd-britt",
@@ -4779,7 +5026,8 @@
         "Organization and Capital Formation",
         "Public-Private Partnerships & Public Facilities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-brogden",
@@ -4814,7 +5062,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "mr-warren-brooks",
@@ -4882,6 +5131,11 @@
             "Alabama, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident"
       ]
     },
     {
@@ -4974,6 +5228,10 @@
             "U.S. District Court Southern District of Alabama, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -5042,6 +5300,10 @@
             "U.S. Supreme Court, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -5128,6 +5390,12 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5209,6 +5477,10 @@
             "English"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -5284,6 +5556,12 @@
             "Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident"
       ]
     },
     {
@@ -5385,6 +5663,17 @@
             "Calhoun County Republican Executive Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Traffic Ticket",
+        "DUI and DWI",
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -5495,6 +5784,10 @@
             "Birmingham Bar Association, 2007 - 2008 (Community Education Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Class Actions"
       ]
     },
     {
@@ -5535,7 +5828,11 @@
         "Real Estate Development and Finance",
         "Governmental Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law",
+        "Real Estate"
+      ]
     },
     {
       "slug": "david-a-busby",
@@ -5659,6 +5956,13 @@
             "Sigma Alpha Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Collections",
+        "Class Actions"
       ]
     },
     {
@@ -5758,6 +6062,9 @@
             "Alabama Circuit Judge’s Association, 2005 - 2006 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -5851,6 +6158,9 @@
             "Montgomery County Bar, 2025 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -5956,6 +6266,12 @@
             "Defense Research Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Bad Faith Insurance",
+        "Disability Insurance",
+        "Agriculture"
       ]
     },
     {
@@ -6043,6 +6359,9 @@
             "Delta Delta Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -6126,6 +6445,10 @@
             "Fairhope Arts and Crafts Festival Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Environmental Law"
       ]
     },
     {
@@ -6239,6 +6562,14 @@
             "Alabama Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Social Security"
       ]
     },
     {
@@ -6324,6 +6655,10 @@
             "Alabama State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Insurance Defense"
       ]
     },
     {
@@ -6424,6 +6759,12 @@
             "Member, Litigation Section, American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Airplane Bus and Helicopter Accidents",
+        "Class Actions",
+        "Wrongful Death"
       ]
     },
     {
@@ -6532,6 +6873,9 @@
             "State of Alabama Bar Association, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Disability Insurance"
       ]
     },
     {
@@ -6627,6 +6971,11 @@
             "American Immigration Lawyers Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business Organizations",
+        "Criminal Defense"
       ]
     },
     {
@@ -6711,6 +7060,11 @@
             "State Tax Law, University of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "ADR Arbitration and Mediation",
+        "Construction"
       ]
     },
     {
@@ -6774,7 +7128,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andy-citrin",
@@ -6904,6 +7259,10 @@
             "National Board of Trial Advocacy"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6955,7 +7314,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stephen-e-clements",
@@ -7034,6 +7394,11 @@
             "Mobile County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Contracts",
+        "Probate"
       ]
     },
     {
@@ -7145,6 +7510,10 @@
             "Good Samaritan Health Clinic, Board of Directors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -7233,6 +7602,11 @@
             "Leadership Tuscaloosa, Class, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Probate",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -7330,6 +7704,12 @@
             "Alabama State Bar Association, 1989 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -7400,6 +7780,9 @@
             "U.S. District Court Southern District of Alabama, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -7484,6 +7867,10 @@
             "Lee County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Child Custody"
       ]
     },
     {
@@ -7540,6 +7927,11 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Social Security",
+        "Personal Injury"
       ]
     },
     {
@@ -7589,6 +7981,12 @@
           "type": "text",
           "content": "Benjamin H. Cooper brings over 20 years of experience working with private and public Fortune 500 companies to his practice of the law. He held executive retail and management positions within the companies, focusing on Corporate Human Resources and Labor and Employment issues, including policy development, training and oversight related to hiring, employment reductions, employment agreements, WARN ACT, organizational reductions in force, and diversity management.\n\nHe earned his undergraduate degree from Florida State University and Juris Doctor from the Birmingham School of Law. Benjamin H. Cooper is admitted to practice in the State of Alabama, the U.S. Northern District Court of Alabama and the U.S. Middle District Court of Alabama, and the U.S. District Appeals Court, Eleventh Circuit. He has served as a state-wide mentor working to prepare students for the Alabama Bar Examination, and on the Faculty at the Birmingham School of Law as a Professor of Senior Legal Writing.\n\nBenjamin H. Cooper is a member of The Alabama State Bar, Birmingham Bar Association, The Alabama State Bar Volunteer Lawyers Program, Birmingham Bar Volunteer Lawyers Program, The American Bar Association Labor and Employment Advisory Committee and Equality Alabama, Workplace Chairman, State of Alabama, Jefferson County Mentoring Committee, and other organizations within the Birmingham, Alabama area and surrounding communities.\n\nBenjamin H. Cooper founded the Cooper Law Group LLC and his firm focuses on Labor and Employment litigation, representing the Plaintiff in related issues including the Fair Labor Standards Act, Employment Agreements, Severance Agreements, Non-Compete Agreements, Equal Employment Opportunity Commission, Wrongful Termination, Discrimination, Workplace Harassment, Retaliation, Family Medical Leave Act (FMLA), Collective Bargaining Agreements (Labor Unions) and State Department appeals and hearing processes to include Unemployment Compensation.\n\nWanting to bring the wealth of knowledge and insight his education and experience has afforded him to a new legal arena, Mr. Cooper has recently announced his candidacy for the position of Executive Director of the ACLU, State of Alabama.\n\nBenjamin H. Cooper was listed among the “Faces of Labor and Employment Law”, and his firm has been featured in numerous publications among the “Top Attorney’s” within the Birmingham, Alabama metro and surround areas."
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Labor Law",
+        "Contracts",
+        "Estate Planning"
       ]
     },
     {
@@ -7676,6 +8074,10 @@
             "Alabama Volunteer Lawyers Program"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -7782,6 +8184,17 @@
             "Alabama Center for Dispute Resolution, 2011 - Present (Arbitrator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Divorce and Separation",
+        "Probate",
+        "Criminal Defense",
+        "Child Custody",
+        "Personal Injury",
+        "Contracts",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -7867,6 +8280,9 @@
             "U.S. District Court for the Middle District of Alabama, pro hac vice, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7928,6 +8344,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -8069,6 +8495,20 @@
             "Alabama Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Divorce and Separation",
+        "Adoption",
+        "Insurance Defense",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -8157,7 +8597,8 @@
             "Baldwin County Bar Association (Past President)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christina-d-crow",
@@ -8296,6 +8737,10 @@
             "Southeastern Chapters of the American Board of Trial Advocates (SEABOTA) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8443,6 +8888,15 @@
             "Alabama Criminal Defense Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Family Law",
+        "Elder Law",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -8557,7 +9011,8 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-l-dean-jr",
@@ -8682,6 +9137,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Wrongful Death"
       ]
     },
     {
@@ -8805,6 +9265,11 @@
             "Huntsville Madison County Bar Association, Member, 1987 – Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -8851,7 +9316,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-kevin-diver",
@@ -8955,6 +9421,10 @@
             "North Alabama International Trade Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Criminal Defense"
       ]
     },
     {
@@ -9056,6 +9526,9 @@
             "Delta Kappa Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -9209,6 +9682,13 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Securities",
+        "Mergers and Acquisitions",
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -9322,7 +9802,8 @@
             "Birmingham Bar Association Women Lawyers Section , - 2000 (President)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jessica-kirk-drennan",
@@ -9440,6 +9921,9 @@
             "Alabama Women in Business, 2012 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9566,6 +10050,9 @@
             "Alabama Criminal Defense Lawyers Association, 1996 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9606,7 +10093,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "aimee-a-dugas",
@@ -9710,6 +10198,10 @@
             "National Organization of Social Security Claimants’ Representatives (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Disability Insurance"
       ]
     },
     {
@@ -9747,7 +10239,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "g-john-durward-jr",
@@ -9860,6 +10353,10 @@
             "International Academy of Family Lawyers, 2020 - Present (Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Family Law"
       ]
     },
     {
@@ -9968,6 +10465,12 @@
             "Alabama State Bar Family Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Adoption"
       ]
     },
     {
@@ -10082,6 +10585,15 @@
             "Alpha Delta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Brain Injury",
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -10138,7 +10650,8 @@
             "Alabama, 1998"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rachel-eidson",
@@ -10235,6 +10748,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10317,6 +10833,10 @@
             "Birmingham Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Family Law"
       ]
     },
     {
@@ -10409,6 +10929,9 @@
             "Alabama Bar Association, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Disability Insurance"
       ]
     },
     {
@@ -10455,7 +10978,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "j-kaz-espy",
@@ -10560,7 +11084,8 @@
             "Sigma Nu"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "terry-underwood-evans",
@@ -10631,6 +11156,9 @@
             "U.S. Federal Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -10751,6 +11279,11 @@
             "Academy of Rail Labor Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Railroad Worker Injury and FELA",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -10812,6 +11345,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -10921,6 +11464,13 @@
             "Capitol Area Bar Association, 2015 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Business and Commercial Law",
+        "Car Accidents",
+        "ADR Arbitration and Mediation",
+        "Personal Injury"
       ]
     },
     {
@@ -11061,6 +11611,12 @@
             "Defense Research Institute, 1997 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Bad Faith Insurance",
+        "Transportation",
+        "Class Actions"
       ]
     },
     {
@@ -11172,6 +11728,12 @@
             "Kappa Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Nursing Home Abuse",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -11209,7 +11771,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "erby-johnson-fischer",
@@ -11314,6 +11877,13 @@
             "Alabama State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Brain Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -11403,6 +11973,13 @@
             "Alabama Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "State Local and Municipal Law",
+        "Estate Planning",
+        "Elder Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -11441,7 +12018,8 @@
         "Appellate and Written Advocacy",
         "Products, Catastrophic & Industrial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "michael-fondren",
@@ -11541,7 +12119,8 @@
             "The Association of Trial Lawyers of America (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "j-ben-ford",
@@ -11645,6 +12224,11 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -11682,7 +12266,10 @@
       "practice_areas": [
         "Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "mrs--stacey-gantt",
@@ -11759,6 +12346,13 @@
             "Alabama, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -11874,6 +12468,10 @@
             "Tau Epsilon Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -11956,6 +12554,18 @@
             "Florida Department of Children and Families, Intern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Estate Planning",
+        "Adoption",
+        "Child Custody",
+        "Child Support",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Landlord and Tenant",
+        "Wills"
       ]
     },
     {
@@ -12077,6 +12687,9 @@
             "Escambia-Santa Rosa Bar Association (Treasurer, Executive Committee and CLE Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection"
       ]
     },
     {
@@ -12126,7 +12739,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dennis-goldasich-jr",
@@ -12242,6 +12856,9 @@
             "Alabama Association of Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12372,6 +12989,11 @@
             "Huntsville –Madison County Veterans Memorial Foundation (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Bad Faith Insurance",
+        "Disability Insurance"
       ]
     },
     {
@@ -12499,6 +13121,15 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Collections",
+        "Trusts",
+        "Banking and Finance Law",
+        "Foreclosure and Alternatives",
+        "Business Organizations",
+        "Contracts"
       ]
     },
     {
@@ -12589,6 +13220,9 @@
             "Junior League of Birmingham Sustaining Member, 1999 – present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -12678,7 +13312,8 @@
             "Appointed Aide-de-Camp, State of Louisiana by Governor John J. McKeithan, 1971"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-grow-esq",
@@ -12762,6 +13397,17 @@
             "Alabama, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Bankruptcy",
+        "Family Law",
+        "Domestic Violence",
+        "Father's Rights",
+        "Military Divorce",
+        "Child Support",
+        "Divorce and Separation",
+        "DUI and DWI"
       ]
     },
     {
@@ -12852,6 +13498,13 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -12952,6 +13605,9 @@
             "Mobile County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -13049,6 +13705,19 @@
             "Houston County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Social Security",
+        "Social Security Disability",
+        "Criminal Defense",
+        "Child Custody",
+        "Child Support",
+        "Adoption"
       ]
     },
     {
@@ -13164,6 +13833,11 @@
             "Sigma Alpha Iota"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -13281,6 +13955,13 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Bad Faith Insurance",
+        "Bankruptcy",
+        "Admiralty and Maritime"
       ]
     },
     {
@@ -13381,6 +14062,9 @@
             "Alabama Family Law Section (Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -13475,6 +14159,16 @@
             "U.S. District Court Southern District of Alabama, 2000"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Business Organizations",
+        "Construction",
+        "Wills",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -13571,6 +14265,10 @@
             "Shelby County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Collections"
       ]
     },
     {
@@ -13632,6 +14330,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -13714,6 +14422,9 @@
             "Phi Alpha Delta Legal Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -13816,7 +14527,8 @@
             "Alabama Defense Lawyers Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tara-helms",
@@ -13912,6 +14624,9 @@
             "Alabama Association for Justice (Chair, Women's Caucus)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14068,6 +14783,14 @@
             "Public Legal Service Volunteer , 2015 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Car Accidents",
+        "Discrimination",
+        "Employment Rights",
+        "Elder Law",
+        "Estate Planning"
       ]
     },
     {
@@ -14148,6 +14871,10 @@
             "U.S. District Court Northern District of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Criminal Defense"
       ]
     },
     {
@@ -14223,7 +14950,8 @@
             "U.S. Court of Appeals 11th Circuit, 1983"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jeffrey-grant-hester",
@@ -14395,6 +15123,24 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Criminal Defense",
+        "Family Law",
+        "Child Custody",
+        "Personal Injury",
+        "Drug Crime",
+        "Asbestos Mesothelioma",
+        "Collections",
+        "Defamation",
+        "Domestic Violence",
+        "Federal and White Collar Crimes",
+        "Father's Rights",
+        "Drugs and Medical Devices",
+        "Railroad Worker Injury and FELA",
+        "Premises Liability"
       ]
     },
     {
@@ -14472,6 +15218,10 @@
             "Alabama Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Wills"
       ]
     },
     {
@@ -14566,6 +15316,13 @@
             "U.S. Court of Appeals 11th Circuit, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Business and Commercial Law",
+        "Wills",
+        "Real Estate"
       ]
     },
     {
@@ -14643,6 +15400,11 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Probate"
       ]
     },
     {
@@ -14696,7 +15458,8 @@
             "English"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-ralph-holberg",
@@ -14794,6 +15557,10 @@
             "South Alabama Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -14883,6 +15650,10 @@
             "Mobile Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -14976,6 +15747,9 @@
             "Zeta Tau Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -15034,6 +15808,16 @@
           "type": "text",
           "content": "Jay Holloway's professional life as a lawyer, professor, and author is evidence of his passion for the law. He has been practicing law in Alabama for over 32 years and has tried over 140 civil cases to verdict. In addition to his courtroom experience, Jay served as an Adjunct Professor of Law at Cumberland School of Law, Samford University (teaching Alabama Civil Procedure) and is the current author of Alabama Civil Practice Forms, Fourth Edition. After defending insurance companies and their insureds for 27 years, Jay realized his talents and experience were wasted by helping the powerful game the system in their favor at the expense of the average person. He became aware that insurance companies are solely in the business of making money, and they make the most money by paying injured people as little as possible. An injured individual is at a severe disadvantage when seeking fairness from multi-million dollar corporations with the money to hire lawyers, lobbyists, and to influence lawmakers. The rights of the average person are being trampled upon, and this is a perversion of our American legal system of \"justice for all.\" Morgan & Morgan and Jay are devoted to restoring balance to the system by providing protection and advice to individuals seeking justice from the rich and powerful. They will provide the resources, skill, and fortitude to battle the system and help you navigate the confusing and intimidating legal process. They will level the playing field for you."
         }
+      ],
+      "official_practice_area": [
+        "Brain Injury",
+        "Car Accidents",
+        "Collections",
+        "Animal and Dog Bites",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -15172,6 +15956,14 @@
             "Southern Trial Lawyers Association, 1987 - Present (Member, Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability",
+        "Nursing Home Abuse",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -15285,6 +16077,17 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Constitutional Law",
+        "Civil Rights",
+        "Employment Rights",
+        "Contracts",
+        "Sexual Harassment",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Support"
       ]
     },
     {
@@ -15359,7 +16162,8 @@
             "Jefferson County, Circuit Court Judge, 1996 - 2010"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "allwin-e-horn-iv",
@@ -15451,7 +16255,8 @@
             "Alabama Association for Justice, 1998 - Present"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "clay-hornsby",
@@ -15527,7 +16332,8 @@
             "U.S. Federal Courts, 1990"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "melissa-boles-horner",
@@ -15600,6 +16406,9 @@
             "U.S. District Court Southern District of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -15674,6 +16483,12 @@
             "U.S. Court of Appeals 11th Circuit, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Landlord and Tenant",
+        "Collections",
+        "Real Estate",
+        "Construction"
       ]
     },
     {
@@ -15782,6 +16597,14 @@
             "Alabama State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate",
+        "Adoption",
+        "Tax Law",
+        "Premises Liability",
+        "Eminent Domain"
       ]
     },
     {
@@ -15895,6 +16718,11 @@
             "Mississippi Bar Association, 1994 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Workers' Compensation",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -15990,6 +16818,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Premises Liability",
+        "Housing and Construction Defects",
+        "Medical Malpractice"
       ]
     },
     {
@@ -16110,6 +16944,14 @@
             "National Trial Lawyers, January 1, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business Organizations",
+        "Criminal Defense",
+        "Military",
+        "Military Divorce",
+        "Personal Injury"
       ]
     },
     {
@@ -16210,6 +17052,9 @@
             "Alabama State Bar, Young Lawyers Section, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -16247,7 +17092,8 @@
       "practice_areas": [
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "russell-l-irby",
@@ -16366,6 +17212,10 @@
             "Best Lawyers in America (Taxation)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -16474,6 +17324,11 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Class Actions"
       ]
     },
     {
@@ -16520,6 +17375,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -16573,6 +17431,11 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives",
+        "Real Estate"
       ]
     },
     {
@@ -16661,6 +17524,10 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -16767,6 +17634,14 @@
             "Alabama Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Truck Accident",
+        "Premises Liability",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -16901,6 +17776,12 @@
             "Madison County Bar Association, 2009 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -16942,7 +17823,8 @@
           "type": "text",
           "content": "TOMMY JAMES\n\nTommy’s practice focuses on cases where children, the elderly, the mentally ill and those with special needs have died or been seriously injured as the result of abuse or neglect. These cases have been against state agencies, local government agencies, private entities and their employees. By focusing primarily on these types of cases, Tommy has gained expertise in this very specialized area of the law involving difficult immunity, coverage and other issues. Tommy’s efforts have resulted in recoveries, both settlements and verdicts, totaling over $15 million during the last few years. In addition to his abuse and neglect cases, Tommy also handles other types of wrongful death and personal injury cases against government and corporate entities. Mr. James was previously a partner in the firm of Jemison, Mendelsohn & James in Montgomery, Alabama.\n\nTommy received his Bachelor of Arts degree from Auburn University in 1993. He later graduated from the University of Alabama School of Law in 1997, where he was a Senior Editor of the Alabama Law Review. He is a member of the Alabama State Bar, the Birmingham Bar Association, and the Alabama and American Associations for Justice. Tommy is also on the Advisory Board of the Alabama Family Trust."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "w-kendrick-james",
@@ -17040,6 +17922,11 @@
             "Alabama Center for Dispute Resolution (Member/Mediator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -17080,7 +17967,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "lynn-w-jinks-iii",
@@ -17204,6 +18094,12 @@
             "YMCA Board, Union Springs (Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Airplane Bus and Helicopter Accidents",
+        "Class Actions",
+        "Wrongful Death"
       ]
     },
     {
@@ -17310,6 +18206,9 @@
             "Judge James Edwin Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -17422,7 +18321,8 @@
             "National Academy of Recording Arts and Sciences (Associate Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ryan-jones",
@@ -17489,6 +18389,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -17590,6 +18493,12 @@
             "First Judicial Circuit, 2017 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Wrongful Death"
       ]
     },
     {
@@ -17661,6 +18570,17 @@
             "Keahey Law Office, Partner, - 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Personal Injury",
+        "Real Estate",
+        "Disability Insurance",
+        "Probate",
+        "Wrongful Death",
+        "Wrongful Termination"
       ]
     },
     {
@@ -17772,6 +18692,9 @@
             "Mobile Bar Association, 1996 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -17877,6 +18800,10 @@
             "Florida Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -17929,7 +18856,8 @@
             "Retired"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "foster-d-key",
@@ -18053,6 +18981,14 @@
             "Shelby County Bar Association, 1994 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Child Custody",
+        "Adoption",
+        "Probate",
+        "Personal Injury",
+        "Credit Repair"
       ]
     },
     {
@@ -18150,6 +19086,12 @@
             "Mobile County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -18264,6 +19206,16 @@
             "South Alabama Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury",
+        "Workers' Compensation",
+        "Premises Liability",
+        "Wrongful Death",
+        "Construction Accident",
+        "Nursing Home Abuse",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -18364,6 +19316,10 @@
             "Alabama State Bar (Vice Chairman of the Judicial Liaison Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -18399,7 +19355,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "r-kyle-kornegay",
@@ -18488,6 +19445,11 @@
             "Member of 2020 National Mediation Team, Cumberland School of Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Business and Commercial Law",
+        "Probate"
       ]
     },
     {
@@ -18574,6 +19536,9 @@
             "Birmingham Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -18635,6 +19600,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -18674,7 +19649,10 @@
         "Mergers and Acquisitions",
         "Organization and Capital Formation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
+      ]
     },
     {
       "slug": "leia-leonard",
@@ -18720,7 +19698,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "morris-lilienthal",
@@ -18851,6 +19830,12 @@
             "Alabama Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Wrongful Death",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -18936,6 +19921,11 @@
             "U.S. District Court Middle District of Alabama, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection",
+        "Real Estate",
+        "Construction"
       ]
     },
     {
@@ -19049,6 +20039,12 @@
             "Member, Alabama Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Airplane Bus and Helicopter Accidents",
+        "Class Actions",
+        "Wrongful Death"
       ]
     },
     {
@@ -19148,6 +20144,9 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -19189,7 +20188,14 @@
         "Personal Injury -- Plaintiff",
         "Products Liability Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Social Security Disability",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "katherine-erika-luders",
@@ -19224,7 +20230,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "amanda-leigh-luker",
@@ -19273,7 +20280,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kallie-chambers-lunsford",
@@ -19381,6 +20389,12 @@
             "Alabama State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Securities",
+        "Probate"
       ]
     },
     {
@@ -19425,7 +20439,12 @@
         "Credit Unions",
         "Bankruptcy Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Landlord and Tenant",
+        "Credit Repair",
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "david-h-marsh",
@@ -19533,6 +20552,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -19628,6 +20653,9 @@
             "Alabama, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -19732,6 +20760,10 @@
             "Alabama Board of Court Reporting, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -19868,6 +20900,9 @@
             "Madison County Inns of Court (Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -20054,6 +21089,11 @@
             "Alabama State Bar Task Force (Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Class Actions",
+        "Disability Insurance"
       ]
     },
     {
@@ -20186,6 +21226,11 @@
             "Alabama State Bar Association, 1991 - 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Contracts",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -20349,6 +21394,11 @@
             "Phi Gamma Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -20418,6 +21468,11 @@
             "Illinois, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Credit Repair",
+        "Bankruptcy"
       ]
     },
     {
@@ -20509,6 +21564,14 @@
             "Kappa Alpha Order"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Personal Injury",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -20629,6 +21692,9 @@
             "American Bar Association, Young Lawyers Division, 2007 - 2009 (Chair of Litigation Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -20732,6 +21798,10 @@
             "Alabama Association for Justice, Member, 2012 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -20860,6 +21930,10 @@
             "Birmingham Tax Forum Director , 2006 - 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -20969,6 +22043,14 @@
             "Alabama State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Antitrust",
+        "Bad Faith Insurance",
+        "Class Actions",
+        "Disability Insurance",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -21057,6 +22139,9 @@
             "Alpha Beta Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -21161,6 +22246,11 @@
             "Vestavia Hills Chamber of Commerce (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Bad Faith Insurance",
+        "Securities"
       ]
     },
     {
@@ -21324,6 +22414,11 @@
             "Birmingham Bar Association, - 2003 (Chairman-Library Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "State Local and Municipal Law",
+        "Tax Law"
       ]
     },
     {
@@ -21409,6 +22504,11 @@
             "U.S. District Court Northern District of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -21455,7 +22555,12 @@
         "Drug Violations",
         "Traffic Violations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Domestic Violence"
+      ]
     },
     {
       "slug": "angie-godwin-mcewen",
@@ -21579,6 +22684,9 @@
             "Leadership Vestavia Hills Graduate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -21660,6 +22768,12 @@
             "Member, Georgia State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Airplane Bus and Helicopter Accidents",
+        "Class Actions",
+        "Wrongful Death"
       ]
     },
     {
@@ -21711,7 +22825,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-d-mckibben",
@@ -21835,6 +22950,12 @@
             "Samford University Paralegal Studies Professional Advisory Board"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Health Care Law",
+        "Litigation and Appeals",
+        "Medical Malpractice"
       ]
     },
     {
@@ -21928,6 +23049,10 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -22039,6 +23164,13 @@
             "Alabama Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Family Law",
+        "Criminal Defense",
+        "Insurance Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -22140,6 +23272,15 @@
             "Alabama Criminal Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Social Security Disability"
       ]
     },
     {
@@ -22234,6 +23375,10 @@
             "Alabama Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Workers' Compensation"
       ]
     },
     {
@@ -22279,7 +23424,8 @@
           "type": "text",
           "content": "Mary Leah obtained her undergraduate degree from Duke University. She then entered Cumberland School of Law at Samford University, where she obtained her law degree in 2007, with a Certificate in Trial Advocacy. While at Cumberland, Mary Leah was extremely active in the trial advocacy program. She was a member of the National Trial Advocacy Team and served on the Trial Advocacy Board. Mary Leah was also a member of the American Journal of Trail Advocacy and was elected to the Honor Court. She was selected as a Who’s Who Among Students In National College and Universities, and is a national member of the Oder of Barristers.\n\nUpon graduating from law school, Mary Leah began practicing law with Tom Willingham. Mary Leah has focused her legal career exclusively on representing individuals who have been injured. While she has handled a variety of personal injury cases, Mary Leah’s practice is now primarily focused on product liability actions, with an emphasis on automotive crashworthiness. She has represented individuals who have been catastrophically injured or killed against foreign and domestic manufacturers of various products, including, vehicles, motorcycles, prescription drugs, medical devices, and tires. Mary Leah’s knowledge and experience has enabled her to obtain millions of dollars in settlements for her clients, and over thirty million dollars in judgments for those who have been wrongfully killed. Mary Leah considers it an honor and privilege to represent and to be a voice for injury victims.\n\nMary Leah is an active member of the Alabama Association for Justice, the American Association for Justice, the Birmingham Bar Association, the Attorneys Information Exchange Group, and the Alabama and Mississippi Bar Associations. She is on the Junior Board of Directors of the Alabama Civil Justice Foundation. Mary Leah is admitted to practice law in all State and Federal courts in Alabama and Mississippi."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "derrick-a-mills",
@@ -22391,6 +23537,10 @@
             "Kappa Alpha Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -22514,6 +23664,12 @@
             "Mobile Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Probate"
       ]
     },
     {
@@ -22613,6 +23769,9 @@
             "Member, American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -22653,7 +23812,12 @@
         "Insurance",
         "Tort, Transportation & Specialized Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights",
+        "Bad Faith Insurance",
+        "Transportation"
+      ]
     },
     {
       "slug": "patrick-g-montgomery",
@@ -22733,6 +23897,12 @@
             "U.S. Court of Appeals 11th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Medical Malpractice",
+        "Asbestos Mesothelioma",
+        "Personal Injury"
       ]
     },
     {
@@ -22824,6 +23994,11 @@
             "Pi Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Personal Injury Defense",
+        "Professional Malpractice"
       ]
     },
     {
@@ -22940,6 +24115,11 @@
             "Federalist Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -23089,6 +24269,11 @@
             "Pi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -23151,7 +24336,8 @@
             "Alabama, 1968"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-h-morrow",
@@ -23253,6 +24439,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Class Actions"
       ]
     },
     {
@@ -23290,7 +24480,10 @@
       "practice_areas": [
         "Estate & Trust Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "3215198_1",
@@ -23327,7 +24520,10 @@
       "practice_areas": [
         "Estate Planning & Wealth Preservation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "5224508_1",
@@ -23364,7 +24560,10 @@
       "practice_areas": [
         "Business & Commercial Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "3359318_1",
@@ -23401,7 +24600,8 @@
       "practice_areas": [
         "Insurance Coverage"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3215200_1",
@@ -23438,7 +24638,10 @@
       "practice_areas": [
         "Banking and Financial Services Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Banking and Finance Law"
+      ]
     },
     {
       "slug": "2389971_1",
@@ -23475,7 +24678,8 @@
       "practice_areas": [
         "Business and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3084668_1",
@@ -23510,7 +24714,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2752464_1",
@@ -23547,7 +24752,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5224493_1",
@@ -23584,7 +24790,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3355801_1",
@@ -23621,7 +24828,10 @@
       "practice_areas": [
         "Business & Commercial Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "1371741_1",
@@ -23658,7 +24868,10 @@
       "practice_areas": [
         "Banking and Financial Services Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Banking and Finance Law"
+      ]
     },
     {
       "slug": "4888558_1",
@@ -23699,7 +24912,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "2752864_1",
@@ -23740,7 +24956,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "2089267_1",
@@ -23781,7 +25000,10 @@
       "practice_areas": [
         "False Claims Act (FCA) | Qui Tam"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Whistleblower and Qui Tam"
+      ]
     },
     {
       "slug": "4515178_1",
@@ -23822,7 +25044,10 @@
       "practice_areas": [
         "Labor and Employment"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "1696250_1",
@@ -23863,7 +25088,8 @@
       "practice_areas": [
         "Construction & Procurement"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4884395_1",
@@ -23904,7 +25130,10 @@
       "practice_areas": [
         "Construction"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "5042244_1",
@@ -23945,7 +25174,10 @@
       "practice_areas": [
         "Corporate & Securities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "3907130_1",
@@ -23986,7 +25218,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "4884388_1",
@@ -24027,7 +25262,10 @@
       "practice_areas": [
         "Class Action Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions"
+      ]
     },
     {
       "slug": "4269276_1",
@@ -24068,7 +25306,10 @@
       "practice_areas": [
         "Corporate and Securities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "3165118_1",
@@ -24109,7 +25350,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "3284870_1",
@@ -24150,7 +25394,10 @@
       "practice_areas": [
         "Tax"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law"
+      ]
     },
     {
       "slug": "3361866_1",
@@ -24188,7 +25435,8 @@
       "practice_areas": [
         "Business Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3361859_1",
@@ -24226,7 +25474,10 @@
       "practice_areas": [
         "Securities Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "2387674_1",
@@ -24264,7 +25515,8 @@
       "practice_areas": [
         "Business Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2016983_1",
@@ -24303,7 +25555,10 @@
       "practice_areas": [
         "Oil and Gas Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "4262182_1",
@@ -24341,7 +25596,10 @@
       "practice_areas": [
         "Employment"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "1568888_1",
@@ -24380,7 +25638,10 @@
       "practice_areas": [
         "Admiralty and Maritime"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Admiralty and Maritime"
+      ]
     },
     {
       "slug": "3804598_1",
@@ -24418,7 +25679,10 @@
       "practice_areas": [
         "Aviation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Aviation"
+      ]
     },
     {
       "slug": "1856616_1",
@@ -24456,7 +25720,10 @@
       "practice_areas": [
         "Oil & Gas"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "1391034_1",
@@ -24494,7 +25761,10 @@
       "practice_areas": [
         "Employment and Labor"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "1654013_1",
@@ -24532,7 +25802,8 @@
       "practice_areas": [
         "Business Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2484392_1",
@@ -24570,7 +25841,10 @@
       "practice_areas": [
         "Medical Malpractice Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "4262048_1",
@@ -24608,7 +25882,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4869258_1",
@@ -24648,7 +25923,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "4844950_1",
@@ -24686,7 +25964,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3061016_1",
@@ -24726,7 +26005,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3020866_1",
@@ -24766,7 +26046,8 @@
       "practice_areas": [
         "Homicide"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5122737_1",
@@ -24804,7 +26085,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4711554_1",
@@ -24844,7 +26126,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "3424367_1",
@@ -24884,7 +26169,8 @@
       "practice_areas": [
         "Civil disputes"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4225748_1",
@@ -24924,7 +26210,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "emily-hornsby--nelson",
@@ -25000,7 +26289,8 @@
             "Alabama, 1994"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chip-nix",
@@ -25056,6 +26346,16 @@
             "Of Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -25163,6 +26463,11 @@
             "Birmingham Bar Association Young Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Contracts",
+        "Employment Rights"
       ]
     },
     {
@@ -25262,7 +26567,8 @@
             "American Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-t-paine",
@@ -25338,6 +26644,11 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Business Organizations",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -25426,6 +26737,13 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "Mergers and Acquisitions",
+        "Tax Law"
       ]
     },
     {
@@ -25493,6 +26811,11 @@
             "Alabama State Bar, 1994 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -25578,6 +26901,11 @@
             "Alabama, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -25669,6 +26997,12 @@
             "Alabama State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Family Law",
+        "Child Support"
       ]
     },
     {
@@ -25837,6 +27171,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Criminal Defense"
       ]
     },
     {
@@ -25940,6 +27278,10 @@
             "Leadership Barbour (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -26032,6 +27374,13 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Estate Planning",
+        "Probate",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -26166,6 +27515,10 @@
             "Bethel Masonic Lodge #123"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -26242,6 +27595,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -26317,6 +27673,10 @@
             "Alabama, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -26381,6 +27741,12 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Bad Faith Insurance",
+        "Transportation",
+        "Class Actions"
       ]
     },
     {
@@ -26448,7 +27814,8 @@
             "Alabama, 1979"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "will-pylant",
@@ -26505,6 +27872,12 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate",
+        "Elder Law"
       ]
     },
     {
@@ -26610,6 +27983,14 @@
             "Tallapoosa County Bar Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Car Accidents",
+        "Child Custody",
+        "Personal Injury",
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -26729,7 +28110,8 @@
             "Sigma Nu"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-t-ray",
@@ -26818,6 +28200,11 @@
             "DeKalb County Bar Association​​"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -26904,6 +28291,15 @@
             "Montgomery County Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Federal and White Collar Crimes",
+        "DUI and DWI",
+        "Internet",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -27011,6 +28407,10 @@
             "Delta Sigma Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -27123,6 +28523,14 @@
             "Member of Public Affairs Committee 2010-present, Former State Delegate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Truck Accident"
       ]
     },
     {
@@ -27229,6 +28637,15 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Family Law",
+        "Criminal Defense",
+        "Domestic Violence",
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -27346,7 +28763,8 @@
             "Birmingham Bar Association, 1998 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mr-kevin-ritchey",
@@ -27421,6 +28839,11 @@
             "Alabama, 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability"
       ]
     },
     {
@@ -27458,7 +28881,10 @@
       "practice_areas": [
         "Real Estate Development and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "jon-roberts",
@@ -27541,6 +28967,11 @@
             "Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -27643,6 +29074,11 @@
             "Mobile Bar Association – Young Lawyers Division (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Aviation",
+        "Insurance Defense"
       ]
     },
     {
@@ -27739,6 +29175,23 @@
             "U.S. District Court Southern District of Alabama, 1981"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business Organizations",
+        "Contracts",
+        "Workers' Compensation",
+        "Divorce and Separation",
+        "Business and Commercial Law",
+        "Education",
+        "Estate Planning",
+        "Social Security Disability",
+        "Insurance Defense",
+        "Labor Law",
+        "State Local and Municipal Law",
+        "Probate",
+        "Real Estate",
+        "Tax Law"
       ]
     },
     {
@@ -27863,6 +29316,13 @@
             "Alpha Xi Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption",
+        "Wills"
       ]
     },
     {
@@ -27989,6 +29449,15 @@
             "Duke Alumni Club of Central Alabama (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Federal and White Collar Crimes",
+        "Securities",
+        "Trusts",
+        "Probate",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -28080,6 +29549,9 @@
             "Delta Delta Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -28175,6 +29647,13 @@
             "National Board of Trial Advocacy, 2015 - Present (Certified Family Law Specialist)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Criminal Defense",
+        "Probate",
+        "Child Custody"
       ]
     },
     {
@@ -28256,6 +29735,15 @@
             "U.S. District Court Southern District of Alabama, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Collaborative Law",
+        "Divorce and Separation",
+        "Estate Planning",
+        "Family Law",
+        "Contracts"
       ]
     },
     {
@@ -28306,7 +29794,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lisa-salsman",
@@ -28376,6 +29865,9 @@
             "Junior Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -28492,6 +29984,10 @@
             "Sigma Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -28530,7 +30026,10 @@
         "Corporate Governance",
         "Mergers and Acquisitions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
+      ]
     },
     {
       "slug": "jonathan-coleman-sapp-sr",
@@ -28668,6 +30167,17 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Motor Vehicle Defects",
+        "Truck Accident",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Social Security Disability"
       ]
     },
     {
@@ -28770,6 +30280,16 @@
             "Alabama Bar Association, Federal Court Practice Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Wrongful Termination",
+        "Wage and Hour",
+        "Personal Injury",
+        "Wrongful Death",
+        "Premises Liability",
+        "Civil Rights",
+        "Workers' Compensation"
       ]
     },
     {
@@ -28896,6 +30416,13 @@
             "Phi Gamma Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Family Law",
+        "Child Custody",
+        "Personal Injury",
+        "Business Organizations"
       ]
     },
     {
@@ -28942,6 +30469,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -29042,6 +30572,10 @@
             "Editorial board of Alabama Association for Justice Journal (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -29199,6 +30733,14 @@
             "American Bar Association, Criminal Defense Chapter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -29289,6 +30831,9 @@
             "Mobile County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -29354,6 +30899,11 @@
             "U.S. District Court Southern District of Alabama, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -29425,6 +30975,11 @@
             "U.S. District Court Northern District of Alabama, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -29562,6 +31117,11 @@
             "American Civil Liberties Union of Alabama, 2005 - Present (Legal Committee Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Constitutional Law",
+        "Sexual Harassment"
       ]
     },
     {
@@ -29635,7 +31195,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "susan-j-silvernail",
@@ -29799,6 +31360,11 @@
             "Legal Marketing Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Science and Technology Law"
       ]
     },
     {
@@ -29883,6 +31449,11 @@
             "Madison County Bar Association, 2017 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction Accident",
+        "Workers' Compensation",
+        "Premises Liability"
       ]
     },
     {
@@ -29973,7 +31544,8 @@
             "Montgomery County Bar Association, 2010 - Present"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "clifton-e-slaten",
@@ -30092,6 +31664,12 @@
             "Georgia State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Housing and Construction Defects",
+        "Transportation",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -30131,7 +31709,11 @@
         "Tax Credits",
         "Real Estate Development and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law",
+        "Real Estate"
+      ]
     },
     {
       "slug": "brandon-n-smith",
@@ -30233,6 +31815,9 @@
             "National Association Of Consumer Bankruptcy Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -30356,6 +31941,13 @@
             "Madison County Bar Association, 2005 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Probate",
+        "Immigration"
       ]
     },
     {
@@ -30462,6 +32054,11 @@
             "Kappa Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Business and Commercial Law",
+        "Professional Malpractice"
       ]
     },
     {
@@ -30500,7 +32097,10 @@
         "Commercial Litigation",
         "Tort, Transportation & Specialized Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Transportation"
+      ]
     },
     {
       "slug": "john-r-spade",
@@ -30546,7 +32146,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-r-stokes-jr",
@@ -30615,6 +32216,12 @@
             "U.S. Federal Courts, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -30716,6 +32323,24 @@
             "Oxford Round Table, Civil Rights Law, Oxford University, 2001 (Attorney Participant)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business Organizations",
+        "Contracts",
+        "Workers' Compensation",
+        "Divorce and Separation",
+        "Business and Commercial Law",
+        "Education",
+        "Estate Planning",
+        "Social Security Disability",
+        "Insurance Defense",
+        "Labor Law",
+        "State Local and Municipal Law",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Tax Law"
       ]
     },
     {
@@ -30836,6 +32461,10 @@
             "American Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents"
       ]
     },
     {
@@ -30925,6 +32554,10 @@
             "Alabama Association of Arson Investigators , 2003 - 2011 (Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -30980,6 +32613,13 @@
             "The National College of DUI Defense"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "DUI and DWI",
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -31075,6 +32715,11 @@
             "Mobile Bar Association, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Disability Insurance",
+        "Personal Injury"
       ]
     },
     {
@@ -31175,6 +32820,11 @@
             "Alpha Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -31268,6 +32918,9 @@
             "U.S. Bankruptcy Court Northern District of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -31361,6 +33014,14 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Family Law",
+        "Father's Rights"
       ]
     },
     {
@@ -31448,6 +33109,9 @@
             "National Employment Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law"
       ]
     },
     {
@@ -31485,7 +33149,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "john-clay-tinney",
@@ -31557,6 +33222,11 @@
             "Alabama, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -31661,6 +33331,12 @@
             "Montgomery County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Disability Insurance",
+        "Premises Liability",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -31737,6 +33413,11 @@
             "Alabama, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -31836,6 +33517,9 @@
             "Birmingham Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -31929,7 +33613,8 @@
             "Theta Xi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "zeb-h-vaughn",
@@ -32033,6 +33718,11 @@
             "Lee County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Landlord and Tenant",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -32132,6 +33822,9 @@
             "Alabama Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -32202,6 +33895,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Family Law"
       ]
     },
     {
@@ -32240,7 +33937,8 @@
         "Drug and Device Litigation",
         "Products, Catastrophic & Industrial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "j-barton-warren",
@@ -32320,6 +34018,10 @@
             "Alabama Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction Accident",
+        "Workers' Compensation"
       ]
     },
     {
@@ -32381,6 +34083,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -32503,6 +34215,9 @@
             "Pi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -32538,7 +34253,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "william-c-white-ii",
@@ -32675,6 +34391,10 @@
             "Alpha Lambda Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -32795,6 +34515,11 @@
             "Cahaba River Society Tributary Board (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions",
+        "Patents"
       ]
     },
     {
@@ -32893,6 +34618,11 @@
             "U.S. Court of Appeals 11th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Estate Planning"
       ]
     },
     {
@@ -33009,6 +34739,14 @@
             "Mobile Bar Association, 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate",
+        "Personal Injury",
+        "Criminal Defense",
+        "Social Security Disability",
+        "Bankruptcy"
       ]
     },
     {
@@ -33070,6 +34808,16 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -33105,7 +34853,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "frank-m-wilson",
@@ -33258,6 +35007,12 @@
             "Alabama Association for Justice, Amicus Brief Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Airplane Bus and Helicopter Accidents",
+        "Class Actions",
+        "Wrongful Death"
       ]
     },
     {
@@ -33376,6 +35131,14 @@
             "Member, American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Family Law",
+        "Father's Rights"
       ]
     },
     {
@@ -33427,7 +35190,8 @@
             "Managing Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "melonie-s-wright",
@@ -33466,7 +35230,10 @@
         "Data Security and Privacy",
         "Employment Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "sarah-dowdy-young",
@@ -33558,6 +35325,10 @@
             "Alabama Association of School Boards (Council of School Attorneys, Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Education",
+        "Employment Rights"
       ]
     },
     {
@@ -33604,6 +35375,10 @@
           "type": "text",
           "content": "Mr. Zanaty was born in Birmingham, Alabama to Judge and Mrs. Edward S. Zanaty. Raised in the legal community, Mr. Zanaty knew that law was in his blood. Starting young, he was mentored in the Jefferson County Courthouse. Working directly under Judge Gary Pate, Judge Donald Cruise, and Judge Houston Brown, Mr. Zanaty was directly involved in thousands of cases. Through this training, Mr. Zanaty was able to work with the top legal minds Nationwide. Utilizing this legal knowledge, Mr. Zanaty was able to determine which member of the legal community that he was most impressed with in order to mentor his legal career. The choice was clear and obvious, R.D. Pitts. Mr. Zanaty's move to the private sector coupled with great loyalty and became partners with his mentor. Mr. Zanaty utilizes his judicial clerk experience and the guidance of Mr. Pitts to produce extremely effective representation beyond his years."
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Social Security"
       ]
     },
     {
@@ -33683,6 +35458,9 @@
             "U.S. Court of Appeals 11th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     }
   ],
@@ -33737,13 +35515,9 @@
         "Sam David Knight"
       ],
       "official_practice_area": [
-        "Banking and Finance Law",
-        "Business and Commercial Law",
-        "Class Actions",
+        "Personal Injury",
         "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Class Actions"
       ],
       "additional_locations": []
     },
@@ -33796,13 +35570,8 @@
         "Caleb W. Ballew"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Dangerous Products",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Probate",
+        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -33851,11 +35620,9 @@
         "Joseph L. Dean Jr."
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Criminal Defense",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -33919,20 +35686,11 @@
         "Craig Shirley"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
         "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Dangerous Products",
-        "Drugs and Medical Devices",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
+        "Construction Accident",
         "Premises Liability",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Workers' Compensation"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -34040,28 +35798,17 @@
         "Phillip B. Price Sr."
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Criminal Defense",
-        "DUI and DWI",
         "Defamation",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Sex Crime",
         "Sexual Abuse",
-        "Traffic Ticket",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -34134,19 +35881,15 @@
         "Alyson M. Hood"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Child Custody",
-        "Child Support",
-        "Civil Rights",
         "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Drug Crime",
-        "Family Law",
-        "Federal and White Collar Crimes",
+        "Civil Rights",
         "Internet",
         "Sex Crime",
-        "State Local and Municipal Law"
+        "DUI and DWI",
+        "Administrative Law",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support"
       ],
       "additional_locations": []
     },
@@ -34185,10 +35928,7 @@
       "attorneys": [
         "Robert G. Boliek Jr."
       ],
-      "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -34228,7 +35968,6 @@
         "Melanie Bean Bradford"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Tax Law"
       ],
       "additional_locations": []
@@ -34298,25 +36037,17 @@
         "Miss.  Chrissy Tubbs"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Brain Injury",
-        "Car Accidents",
-        "Dangerous Products",
-        "Drugs and Medical Devices",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
+        "Medical Malpractice",
         "Premises Liability",
-        "Professional Malpractice",
-        "Railroad Worker Injury and FELA",
+        "Brain Injury",
         "Sexual Abuse",
-        "Social Security",
-        "Social Security Disability",
         "Truck Accident",
+        "Wrongful Death",
+        "Nursing Home Abuse",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Social Security Disability",
+        "Railroad Worker Injury and FELA"
       ],
       "additional_locations": [
         {
@@ -34376,13 +36107,10 @@
         "Dwayne L. Brown"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
         "Car Accidents",
-        "Construction",
-        "Construction Accident",
         "Personal Injury",
-        "Truck Accident",
+        "Brain Injury",
+        "Construction Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -34435,8 +36163,7 @@
         "Raymond C. Bryan"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Family Law"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -34491,18 +36218,14 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
+        "Family Law",
+        "Divorce and Separation",
+        "Probate",
+        "Personal Injury",
         "Criminal Defense",
         "DUI and DWI",
-        "Divorce and Separation",
-        "Estate Planning",
-        "Family Law",
-        "Personal Injury",
-        "Probate",
-        "Real Estate",
-        "Social Security",
         "Social Security Disability",
-        "Trusts",
-        "Wills"
+        "Real Estate"
       ],
       "additional_locations": []
     },
@@ -34546,8 +36269,7 @@
         "Emily A. Butler"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law"
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -34602,8 +36324,7 @@
         "Anne Knox Averitt"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law"
+        "Insurance Defense"
       ],
       "additional_locations": [
         {
@@ -34731,12 +36452,10 @@
         "Gregory A. Eldridge"
       ],
       "official_practice_area": [
-        "Dangerous Products",
-        "Personal Injury",
-        "Premises Liability",
-        "Social Security",
         "Social Security Disability",
-        "Veteran's Benefits",
+        "Social Security",
+        "Premises Liability",
+        "Personal Injury",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -34792,14 +36511,10 @@
         "Kijana Mitchell"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Class Actions",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Premises Liability",
-        "Wrongful Death"
+        "Car Accidents",
+        "Wrongful Death",
+        "Class Actions"
       ],
       "additional_locations": [
         {
@@ -34864,18 +36579,13 @@
         "James R. Markham Sr."
       ],
       "official_practice_area": [
-        "Adoption",
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "Child Custody",
-        "Criminal Defense",
-        "Debtor and Creditor",
-        "Divorce and Separation",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Bankruptcy",
         "Probate",
+        "Child Custody",
+        "Adoption",
         "Real Estate"
       ],
       "additional_locations": [
@@ -35029,8 +36739,7 @@
         "Stephen E. Clements"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law"
+        "Business Organizations"
       ],
       "additional_locations": []
     },
@@ -35074,9 +36783,8 @@
         "Patrick B. Collins"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Probate",
-        "Real Estate"
+        "Real Estate",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -35223,8 +36931,6 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -35328,13 +37034,12 @@
         "Amanda Rucks Duncan"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Divorce and Separation",
+        "Criminal Defense",
         "Estate Planning",
-        "Federal and White Collar Crimes",
-        "Probate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -35377,11 +37082,7 @@
         "Britton E. Turner II"
       ],
       "official_practice_area": [
-        "Disability Insurance",
-        "Estate Planning",
-        "Social Security",
-        "Social Security Disability",
-        "Veteran's Benefits"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -35428,11 +37129,10 @@
         "G. John Durward Jr."
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Child Support",
+        "Family Law",
         "Divorce and Separation",
-        "Family Law"
+        "Child Support",
+        "Adoption"
       ],
       "additional_locations": []
     },
@@ -35612,7 +37312,6 @@
         "Kristi C. Fuller"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -35659,11 +37358,11 @@
         "Dustin A. Garris Esq."
       ],
       "official_practice_area": [
+        "Family Law",
         "Child Custody",
-        "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
-        "Family Law"
+        "Criminal Defense",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -35769,23 +37468,14 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
-        "Child Custody",
-        "Child Support",
         "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Domestic Violence",
-        "Drug Crime",
         "Family Law",
+        "Domestic Violence",
         "Father's Rights",
-        "Federal and White Collar Crimes",
-        "Foreclosure and Alternatives",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Military",
         "Military Divorce",
-        "Sex Crime",
-        "Traffic Ticket"
+        "Child Support",
+        "Divorce and Separation",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -35876,13 +37566,10 @@
         "David Carroll Hannan"
       ],
       "official_practice_area": [
-        "Construction",
-        "Criminal Defense",
+        "Personal Injury",
         "Divorce and Separation",
-        "Housing and Construction Defects",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Construction",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -35925,9 +37612,8 @@
         "Jessie Keating Hardy Esq."
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Child Custody"
       ],
       "additional_locations": []
     },
@@ -36016,16 +37702,11 @@
         "William D. Montgomery Jr."
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business Organizations",
-        "Dangerous Products",
-        "Employment Rights",
-        "Estate Planning",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
         "Probate",
-        "Real Estate"
+        "Bad Faith Insurance",
+        "Bankruptcy",
+        "Real Estate",
+        "Employment Rights"
       ],
       "additional_locations": [
         {
@@ -36087,13 +37768,8 @@
         "Tara Helms"
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Car Accidents",
-        "Medical Malpractice",
-        "Mergers and Acquisitions",
         "Personal Injury",
-        "Premises Liability",
-        "Workers' Compensation",
+        "Brain Injury",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -36199,12 +37875,10 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
-        "Real Estate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Real Estate",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -36270,23 +37944,13 @@
         "Matthew Joseph Hornsby"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Collections",
-        "Construction",
-        "Elder Law",
-        "Eminent Domain",
-        "Estate Planning",
-        "Foreclosure and Alternatives",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Premises Liability",
-        "Probate",
         "Real Estate",
+        "Estate Planning",
+        "Probate",
+        "Adoption",
         "Tax Law",
-        "Wills"
+        "Premises Liability",
+        "Eminent Domain"
       ],
       "additional_locations": []
     },
@@ -36333,13 +37997,10 @@
         "Mitchell J. Howie"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Military",
-        "Military Divorce"
+        "Divorce and Separation",
+        "Military Divorce",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -36382,7 +38043,6 @@
         "Mark Scott"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": [
@@ -36440,8 +38100,6 @@
         "Miller Jackson"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -36532,12 +38190,10 @@
         "Whittney C. Thompson"
       ],
       "official_practice_area": [
+        "Family Law",
         "Adoption",
-        "Child Custody",
         "Child Support",
         "Divorce and Separation",
-        "Family Law",
-        "Military",
         "Military Divorce"
       ],
       "additional_locations": []
@@ -36597,20 +38253,14 @@
         "Ryan Jones"
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Car Accidents",
-        "DUI and DWI",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Motor Vehicle Defects",
-        "Nursing Home Abuse",
-        "Personal Injury",
-        "Premises Liability",
-        "Toxic Torts",
         "Truck Accident",
+        "Wrongful Death",
+        "Personal Injury",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Premises Liability",
+        "Nursing Home Abuse",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -36660,14 +38310,10 @@
         "Robert D. Keahey"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Dangerous Products",
-        "Divorce and Separation",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Real Estate",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Criminal Defense",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -36798,8 +38444,6 @@
       "official_practice_area": [
         "Criminal Defense",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Wills"
       ],
       "additional_locations": []
@@ -36939,9 +38583,7 @@
         "Miles Clayborn Williams"
       ],
       "official_practice_area": [
-        "ERISA",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "ERISA"
       ],
       "additional_locations": [
         {
@@ -37009,22 +38651,14 @@
         "Richard Edward Mather"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Personal Injury",
+        "Divorce and Separation",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Child Custody",
-        "Construction",
         "Construction Accident",
-        "Divorce and Separation",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
         "Sexual Abuse",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -37122,10 +38756,7 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Traffic Ticket"
+        "Domestic Violence"
       ],
       "additional_locations": []
     },
@@ -37169,10 +38800,9 @@
         "Anthony D. Michel"
       ],
       "official_practice_area": [
-        "Discrimination",
         "Employment Rights",
         "Sexual Harassment",
-        "Wage and Hour",
+        "Discrimination",
         "Whistleblower and Qui Tam"
       ],
       "additional_locations": []
@@ -37215,9 +38845,7 @@
       "attorneys": [
         "Mary Leah Miller"
       ],
-      "official_practice_area": [
-        "Motor Vehicle Defects"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -37267,13 +38895,12 @@
         "Christopher A. Pankey"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Car Accidents",
         "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
-        "Drug Crime",
-        "Personal Injury"
+        "Car Accidents",
+        "DUI and DWI",
+        "Personal Injury",
+        "Assault and Battery (Plaintiff)"
       ],
       "additional_locations": []
     },
@@ -37384,8 +39011,7 @@
         "William C. White II"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Federal and White Collar Crimes"
+        "Criminal Defense"
       ],
       "additional_locations": [
         {
@@ -37447,11 +39073,8 @@
         "Shane Seaborn"
       ],
       "official_practice_area": [
-        "Construction",
-        "Construction Accident",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
+        "Construction Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -37566,16 +39189,12 @@
         "Robert T. Ray"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
         "Sexual Abuse",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -37621,8 +39240,8 @@
         "Xavier M. Thomas"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Personal Injury"
+        "Personal Injury",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -37666,8 +39285,8 @@
         "Clyde Riley"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Divorce and Separation"
+        "Divorce and Separation",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -37710,8 +39329,8 @@
         "Ralph K. Strawn Jr."
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Personal Injury"
+        "Personal Injury",
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -37762,12 +39381,10 @@
         "Jennifer G. Rose"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption",
         "Wills"
       ],
       "additional_locations": []
@@ -37814,14 +39431,13 @@
         "Ronald Wayne Russell"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Business Organizations",
         "Business and Commercial Law",
+        "Business Organizations",
         "Collaborative Law",
-        "Contracts",
         "Divorce and Separation",
         "Estate Planning",
-        "Family Law"
+        "Family Law",
+        "Contracts"
       ],
       "additional_locations": [
         {
@@ -37970,8 +39586,8 @@
         "Jeremy Schatz"
       ],
       "official_practice_area": [
-        "Employment Rights",
-        "Personal Injury"
+        "Personal Injury",
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -38058,9 +39674,7 @@
         "Hank Sherrod"
       ],
       "official_practice_area": [
-        "Civil Rights",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Civil Rights"
       ],
       "additional_locations": []
     },
@@ -38103,12 +39717,11 @@
         "Mitzi G. Johnson Theodoro"
       ],
       "official_practice_area": [
-        "Child Custody",
         "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
         "Drug Crime",
-        "Family Law"
+        "DUI and DWI",
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -38148,8 +39761,7 @@
         "Charles Thompson"
       ],
       "official_practice_area": [
-        "Banking and Finance Law",
-        "Consumer Protection"
+        "Banking and Finance Law"
       ],
       "additional_locations": []
     },
@@ -38245,7 +39857,19 @@
       "attorneys": [
         "Stephanie Renee Bain"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Adoption",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Truck Accident",
+        "Probate",
+        "Collaborative Law"
+      ],
       "additional_locations": []
     },
     {
@@ -38283,7 +39907,9 @@
       "attorneys": [
         "Shelley L. Bilbrey"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Divorce and Separation"
+      ],
       "additional_locations": []
     },
     {
@@ -38321,7 +39947,9 @@
       "attorneys": [
         "Ralph Bohanan Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -38360,7 +39988,9 @@
       "attorneys": [
         "John Brasfield"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -38399,7 +40029,9 @@
         "Joseph Brogden",
         "William R. Stokes Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -38447,7 +40079,13 @@
         "Terry Michael Carey",
         "Steven Rogers Hamner"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Social Security Disability",
+        "Medical Malpractice",
+        "Workers' Compensation"
+      ],
       "additional_locations": []
     },
     {
@@ -38484,7 +40122,9 @@
         "David P. Condon",
         "Lauren Malbrough"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -38526,7 +40166,9 @@
         "Mary McGowan Esq.",
         "Amye von Seebach"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ],
       "additional_locations": []
     },
     {
@@ -38564,7 +40206,9 @@
       "attorneys": [
         "R. Champ Crocker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -38605,7 +40249,9 @@
         "Cameron Anthony Metcalf",
         "Christopher Keith Richardson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -38643,7 +40289,9 @@
       "attorneys": [
         "Celeste C. Grenier"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -38684,7 +40332,9 @@
       "attorneys": [
         "Jeffrey Grant Hester"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -38727,7 +40377,10 @@
         "Michael Ralph Holberg",
         "Ralph Gans Holberg III"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -38768,7 +40421,11 @@
       "attorneys": [
         "Lorren Bailey Jackson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -38812,7 +40469,9 @@
         "James Edward Murrill Jr.",
         "Robert R. Riley Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -38854,7 +40513,9 @@
         "Scott Thomas McArdle",
         "Misha Mullins Whitman"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -38896,7 +40557,9 @@
         "Eric D. Hoaglund",
         "Charles A. McCallum III"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Consumer Protection"
+      ],
       "additional_locations": []
     },
     {
@@ -38940,7 +40603,14 @@
         "Michael T. Paine",
         "Peter L. Paine"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "Tax Law",
+        "Mergers and Acquisitions"
+      ],
       "additional_locations": []
     },
     {
@@ -38979,7 +40649,9 @@
       "attorneys": [
         "Ken L. Scheinert"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -39024,7 +40696,11 @@
         "Kenneth Shelton Jr.",
         "Greg Shelton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
+      ],
       "additional_locations": []
     },
     {
@@ -39105,7 +40781,9 @@
       "attorneys": [
         "John Clay Tinney"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     }
   ]

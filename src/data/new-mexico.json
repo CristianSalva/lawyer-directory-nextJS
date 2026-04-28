@@ -111,6 +111,9 @@
             "U.S. Court of Appeals 7th Circuit, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -219,6 +222,9 @@
             "NMDL"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -305,6 +311,9 @@
             "U.S. District Court District of New Mexico, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -442,6 +451,12 @@
             "Albuquerque Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Employment Rights",
+        "Estate Planning"
       ]
     },
     {
@@ -530,6 +545,11 @@
             "U.S. Court of Appeals 10th Circuit, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -628,7 +648,8 @@
             "Harvard College Admissions Committee, 1999 - Present (Alumni Interviewer)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "caela-j-baker",
@@ -727,6 +748,13 @@
             "AAJ Nursing Home Litigation Group (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -774,6 +802,10 @@
           "type": "text",
           "content": "Dennis has practiced law since 2000, and has achieved a great reputation among the courts and the legal community in New Mexico. He has been awarded the Silver Client Champion Award from Martindale Hubbell.\n\nDennis practices Bankruptcy Law, Family Law, and Probate Law.\n\nDennis is particularly well regarded among the bankruptcy court and bankruptcy legal community in New Mexico for his practice of debtor/creditor law representing debtors and creditors. Most of his representation focused on individuals and businesses needing debt relief under the bankruptcy code. Dennis has had success representing banks and landlords as well.\n\nDuring his career representing individuals and businesses, Dennis has filed over 1300 bankruptcies covering Chapters 7, 11, and 13.\n\nAcross all of his practice areas, Dennis is extraordinarily compassionate and focuses on getting the best outcome for his clients.\n\nDennis graduated from the University of New Mexico with a B.A. in History and from the University of New Mexico School of Law."
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Probate"
       ]
     },
     {
@@ -821,7 +853,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mr-jay--bell-esq",
@@ -867,7 +900,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lori-m-bencoe",
@@ -971,6 +1005,12 @@
             "New Mexico Trial Lawyers Association, 2007 - 2008 (Secretary/Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -1080,6 +1120,9 @@
             "Allegheny County Bar Association (ACBA) (Member, Bench Bar Conference Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1126,7 +1169,8 @@
             "Senior Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "allegra-c-carpenter",
@@ -1255,6 +1299,12 @@
             "Past member of NM Judicial Nominating Commission and Federal Rules Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Wrongful Death"
       ]
     },
     {
@@ -1380,7 +1430,8 @@
             "Sigma Phi Epsilon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "daisy-chaparro-cavazos",
@@ -1434,6 +1485,10 @@
             "Spanish"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -1510,7 +1565,8 @@
             "Certified Specialist in Natural Resources Law (Oil and Gas), New Mexico Board of Legal Specialization, 2013 - 2019"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-cervantes",
@@ -1596,6 +1652,10 @@
             "New Mexico on the Uniform Law Commission (ULC) (Commissioner)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Personal Injury"
       ]
     },
     {
@@ -1693,6 +1753,11 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -1812,7 +1877,8 @@
             "New Mexico Hispanic Bar Association (Past President)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "thomas-matthew-clark",
@@ -1915,6 +1981,12 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights",
+        "Personal Injury",
+        "DUI and DWI"
       ]
     },
     {
@@ -2012,6 +2084,11 @@
             "New Mexico Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation"
       ]
     },
     {
@@ -2115,6 +2192,18 @@
             "Indiana Department of Child Services, Local Office Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Birth Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -2206,6 +2295,13 @@
             "New Mexico Supreme Court Committee on Uniform Jury Instructions on Civil Cases (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -2359,6 +2455,10 @@
             "American Immigration Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Immigration"
       ]
     },
     {
@@ -2452,6 +2552,9 @@
             "U.S. Court of Appeals 10th Circuit, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice"
       ]
     },
     {
@@ -2529,6 +2632,10 @@
             "New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights"
       ]
     },
     {
@@ -2623,6 +2730,10 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights"
       ]
     },
     {
@@ -2688,6 +2799,13 @@
             "Illinois, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Patents",
+        "Contracts",
+        "Internet",
+        "Trademarks"
       ]
     },
     {
@@ -2761,6 +2879,12 @@
             "New Mexico, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -2857,6 +2981,24 @@
             "U.S. Court of Appeals 10th Circuit, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Business Organizations",
+        "Child Support",
+        "Consumer Protection",
+        "Contracts",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Estate Planning",
+        "Labor Law",
+        "Landlord and Tenant",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Wills"
       ]
     },
     {
@@ -2993,7 +3135,8 @@
             "New Mexico Trial Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-fine",
@@ -3032,7 +3175,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "david-fine",
@@ -3071,7 +3215,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-m-fine",
@@ -3125,6 +3270,11 @@
             "Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -3235,6 +3385,12 @@
             "New Mexico, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Sexual Abuse",
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -3332,6 +3488,13 @@
             "AAJ Nursing Home Litigation Group (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Personal Injury",
+        "Premises Liability",
+        "Health Care Law"
       ]
     },
     {
@@ -3380,6 +3543,11 @@
           "type": "text",
           "content": "Kat Fox, J.D., has a well-earned reputation for being self-driven and extremely dedicated, both in the legal profession and in her own professional development in general. Her main focus is providing a great client experience, guiding them through each step of the legal process so as to feel in control of their own outcomes. Her experience with mediation also means she can help clients and their families accomplish much outside of the stressors of the courtroom setting.\n\nOf her practice, Kat emphasizes \"I enjoy the interaction with clients and providing one-on-one assistance and counsel, with the knowledge that, although I may have many cases, for my clients, their case is the most important and stressful thing happening in their life.\"\n\nA New Mexico native, Kat graduated high school early at age 15 to pursue a degree in sociology from the University of New Mexico in Albuquerque. She then obtained her Juris Doctor from Drake University Law School. As a student, she worked for the Radiation Exposure Screening and Education Program (RESEP), a federally funded organization that monitors the health of former coal miners and provides them with periodic screenings. She then served as a legal intern for the U.S. Department of Agriculture's Office of Tribal Relations in coordination with Food Policy Councils stationed in reservations throughout the country. During this time, she also served as a Student Leader on the Indigenous Food and Agricultural initiative, all while simultaneously pursuing her J.D. In her last years of Law School, Kat acted as a Certified Student Attorney for the Drake University Legal Clinic and the Polk County Attorney's Office in Des Moines, Iowa. All this, accomplished before she had even completed law school.\n\nAfter obtaining her license, Kat worked as an associate corporate council for Century Automotive Service Corp., then as an associate attorney for Mccarthy & Holthus, a firm focused on finance and banking, before moving on to serve as a public defender in Gallup, New Mexico. While serving as an associate, Kat juggled upwards of 500 cases at a time while also pursuing her Executive Masters in Business Administration.\n\nOverall, Kat's hard work in the courtroom and the office has marked her as someone prepared to take on nearly anything that comes her way. She joins New Mexico Financial & Family Law to lend her expertise to Family Law and Estate Planning cases."
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Family Law",
+        "Probate"
       ]
     },
     {
@@ -3513,6 +3681,9 @@
             "National College for DUI Defense (Founding Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -3625,6 +3796,9 @@
             "National College for DUI Defense (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -3718,6 +3892,13 @@
             "New Mexico State Bar, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -3842,6 +4023,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Law (Employer)",
+        "Legal Malpractice",
+        "Health Care Law"
       ]
     },
     {
@@ -3947,6 +4134,13 @@
             "Topeka Association of Retarded Citizens, 2006 - 2008 (President, Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Employment Rights",
+        "Environmental Law",
+        "Health Care Law",
+        "Medical Malpractice"
       ]
     },
     {
@@ -4054,6 +4248,13 @@
             "New Mexico Trial Lawyers Association, 2012 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Criminal Defense",
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -4093,7 +4294,12 @@
         "Civil Rights",
         "Employment"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Civil Rights",
+        "Employment Rights"
+      ]
     },
     {
       "slug": "peter-d-grueninger",
@@ -4195,6 +4401,9 @@
             "NMTLA, 2017 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4303,6 +4512,10 @@
             "New Mexico Trial Lawyers Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -4420,7 +4633,8 @@
             "Phi Beta Kappa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "don-f-harris-esq",
@@ -4503,6 +4717,12 @@
             "States’ Association of Bankruptcy Attorneys (First President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Bankruptcy",
+        "Divorce and Separation",
+        "Probate"
       ]
     },
     {
@@ -4604,6 +4824,10 @@
             "University of New Mexico Student Bar Association, 2006 - 2007 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Contracts"
       ]
     },
     {
@@ -4816,6 +5040,20 @@
             "Pi Beta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Elder Law",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Drugs and Medical Devices",
+        "Railroad Worker Injury and FELA",
+        "Premises Liability",
+        "Trademarks",
+        "Health Care Law",
+        "Motor Vehicle Defects",
+        "Toxic Torts",
+        "Sexual Abuse"
       ]
     },
     {
@@ -4935,6 +5173,9 @@
             "American Association of Professional Landmen (Associate Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -5018,6 +5259,11 @@
             "U.S. District Court District of New Mexico, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -5105,6 +5351,13 @@
             "U.S. Court of Appeals 10th Circuit, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Whistleblower and Qui Tam",
+        "Sexual Abuse",
+        "Personal Injury",
+        "Legal Malpractice"
       ]
     },
     {
@@ -5144,7 +5397,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "laura-schauer-ives",
@@ -5320,6 +5574,11 @@
             "New Mexico Women's Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Discrimination",
+        "Civil Rights"
       ]
     },
     {
@@ -5416,6 +5675,15 @@
             "New York State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Discrimination",
+        "Lemon Law",
+        "Civil Rights",
+        "Sexual Abuse",
+        "Wrongful Death",
+        "Employment Rights"
       ]
     },
     {
@@ -5516,6 +5784,10 @@
             "American Association for Justice, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -5599,6 +5871,10 @@
             "Adjunct Faculty, Stanford University Primary Care Associate Program"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -5690,6 +5966,9 @@
             "Speaker at numerous Bar Conventions and CLE seminars, including topics such as Bad Faith Insurance Claims, Jury Trials, Civil Litigation, Appellate Procedures, and Court of Appeals Case Update."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5793,6 +6072,9 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5879,6 +6161,12 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Sexual Abuse",
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -5989,6 +6277,32 @@
             "U.S. Court of Appeals 10th Circuit, 1976"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Civil Rights",
+        "Construction",
+        "Consumer Protection",
+        "Contracts",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Elder Law",
+        "Eminent Domain",
+        "Employment Law (Employer)",
+        "Estate Planning",
+        "Insurance Law",
+        "Land Use and Zoning",
+        "Landlord and Tenant",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Probate",
+        "Professional Malpractice",
+        "Real Estate",
+        "Trusts",
+        "Federal and White Collar Crimes",
+        "Wills"
       ]
     },
     {
@@ -6089,6 +6403,9 @@
             "New Mexico, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights"
       ]
     },
     {
@@ -6227,6 +6544,9 @@
             "Association of Trial Lawyers of America (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death"
       ]
     },
     {
@@ -6343,6 +6663,14 @@
             "United States District Court for the District of New Mexico, Criminal Justice Act Panel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Employment Rights",
+        "Entertainment Sports and Leisure Law",
+        "Real Estate",
+        "Probate",
+        "Criminal Defense"
       ]
     },
     {
@@ -6447,6 +6775,12 @@
             "State Bar Quality of Life Task Force and Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Constitutional Law",
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6494,7 +6828,8 @@
             "Managing Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "cherie-l-lacour",
@@ -6593,6 +6928,12 @@
             "New Mexico Trial Lawyers Association, 2007 - 2008 (Secretary/Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Brain Injury"
       ]
     },
     {
@@ -6726,6 +7067,14 @@
             "Albuquerque Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Employment Rights",
+        "Entertainment Sports and Leisure Law",
+        "Real Estate",
+        "Probate",
+        "Criminal Defense"
       ]
     },
     {
@@ -6858,6 +7207,18 @@
             "New Mexico Trial Lawyers Student Association, 2014 - 2016 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Birth Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -6970,6 +7331,9 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -7081,6 +7445,13 @@
             "New Mexico, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Legal Malpractice",
+        "Premises Liability",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -7131,7 +7502,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "david-link",
@@ -7222,6 +7594,20 @@
             "Attorney at Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Aviation",
+        "Birth Injury",
+        "Brain Injury",
+        "Construction Accident",
+        "Defamation",
+        "Medical Malpractice",
+        "Sexual Abuse"
       ]
     },
     {
@@ -7309,6 +7695,10 @@
             "Law Office of Peter Cubra, Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Criminal Defense"
       ]
     },
     {
@@ -7430,6 +7820,11 @@
             "Lambda Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "Real Estate",
+        "Education"
       ]
     },
     {
@@ -7480,7 +7875,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kathy-love",
@@ -7638,6 +8034,13 @@
             "New Mexico Trial Lawyers Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Civil Rights"
       ]
     },
     {
@@ -7767,6 +8170,12 @@
             "Inn of Courts, 1999 - 2003 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Sexual Abuse",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -7858,6 +8267,18 @@
             "Attorney at Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Birth Injury",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -7942,6 +8363,10 @@
             "Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -8056,6 +8481,12 @@
             "La Familia, 1993 - 1995 (Member, Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Health Care Law",
+        "Insurance Defense",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -8134,6 +8565,14 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Birth Injury",
+        "Truck Accident",
+        "Premises Liability",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -8273,6 +8712,12 @@
             "State Bar of New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Birth Injury",
+        "Truck Accident"
       ]
     },
     {
@@ -8389,6 +8834,9 @@
             "Order of the Coif (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights"
       ]
     },
     {
@@ -8435,7 +8883,8 @@
             "Senior Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-m-molera",
@@ -8473,7 +8922,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "levi-a-monagle",
@@ -8595,6 +9045,11 @@
             "Common Cause New Mexico, Board Chair"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Abuse",
+        "Personal Injury",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -8710,6 +9165,11 @@
             "New Mexico State District Courts (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8823,6 +9283,12 @@
             "Georgia Association of Women Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8908,6 +9374,13 @@
             "New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Probate",
+        "Business and Commercial Law",
+        "Contracts",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -8965,6 +9438,12 @@
             "New Mexico, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9063,6 +9542,20 @@
             "New York, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Aviation",
+        "Birth Injury",
+        "Brain Injury",
+        "Construction Accident",
+        "Defamation",
+        "Medical Malpractice",
+        "Sexual Abuse"
       ]
     },
     {
@@ -9100,7 +9593,10 @@
       "practice_areas": [
         "Real Estate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "4929214_1",
@@ -9137,7 +9633,10 @@
       "practice_areas": [
         "Business and Corporate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "3286465_1",
@@ -9174,7 +9673,10 @@
       "practice_areas": [
         "Business and Corporate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "4870085_1",
@@ -9211,7 +9713,10 @@
       "practice_areas": [
         "Bankruptcy and Creditors' Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "1067430_1",
@@ -9248,7 +9753,8 @@
       "practice_areas": [
         "Catastrophic Injury Cases"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4191348_1",
@@ -9285,7 +9791,10 @@
       "practice_areas": [
         "Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "3375789_1",
@@ -9322,7 +9831,10 @@
       "practice_areas": [
         "Divorce and Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "2983470_1",
@@ -9359,7 +9871,10 @@
       "practice_areas": [
         "Employment Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "5154883_1",
@@ -9396,7 +9911,10 @@
       "practice_areas": [
         "Bankruptcy and Creditors' Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "4912568_1",
@@ -9433,7 +9951,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3609587_1",
@@ -9470,7 +9989,10 @@
       "practice_areas": [
         "Tax Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law"
+      ]
     },
     {
       "slug": "3309977_1",
@@ -9507,7 +10029,10 @@
       "practice_areas": [
         "Bankruptcy and Creditors' Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "5094244_1",
@@ -9542,7 +10067,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4939297_1",
@@ -9577,7 +10103,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1924756_1",
@@ -9614,7 +10141,8 @@
       "practice_areas": [
         "Defense of Lawyers and Related Professional Issues"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2218853_1",
@@ -9651,7 +10179,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "4740315_1",
@@ -9686,7 +10217,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1555049_1",
@@ -9721,7 +10253,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4297745_1",
@@ -9758,7 +10291,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1573253_1",
@@ -9795,7 +10329,10 @@
       "practice_areas": [
         "Contract Law, Construction Law and Commercial Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "4209181_1",
@@ -9832,7 +10369,8 @@
       "practice_areas": [
         "Government Relations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2854314_1",
@@ -9869,7 +10407,8 @@
       "practice_areas": [
         "Water Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1573813_1",
@@ -9906,7 +10445,10 @@
       "practice_areas": [
         "Oil & Gas Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "4350234_1",
@@ -9942,7 +10484,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1555113_1",
@@ -9979,7 +10522,10 @@
       "practice_areas": [
         "Oil, Gas and Natural Resources"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Natural Resources"
+      ]
     },
     {
       "slug": "1683407_1",
@@ -10015,7 +10561,10 @@
       "practice_areas": [
         "Business Organizations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "1820856_1",
@@ -10052,7 +10601,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1619942_1",
@@ -10089,7 +10639,8 @@
       "practice_areas": [
         "Civil Litigation and Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4500740_1",
@@ -10124,7 +10675,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1130808_1",
@@ -10160,7 +10712,10 @@
       "practice_areas": [
         "Tort Litigation/Civil Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Civil Rights"
+      ]
     },
     {
       "slug": "2222462_1",
@@ -10197,7 +10752,10 @@
       "practice_areas": [
         "Oil and Gas"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "4957372_1",
@@ -10234,7 +10792,10 @@
       "practice_areas": [
         "Oil and Gas Title Examination"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "1412493_1",
@@ -10269,7 +10830,8 @@
       "practice_areas": [
         "Complex Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4147043_1",
@@ -10302,7 +10864,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1747771_1",
@@ -10337,7 +10900,10 @@
       "practice_areas": [
         "Federal Workers Compensation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Workers' Compensation"
+      ]
     },
     {
       "slug": "1692321_1",
@@ -10370,7 +10936,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4195668_1",
@@ -10405,7 +10972,8 @@
       "practice_areas": [
         "Business and Regulatory Issues"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3441221_1",
@@ -10440,7 +11008,8 @@
       "practice_areas": [
         "Business and Regulatory Issues"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jonas-nahoum",
@@ -10516,7 +11085,8 @@
             "Howard Rice Nemerovski Canady Falk & Rabkin (currently Arnold & Porter), Litigation associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mr-nghiem--nguyen-esq",
@@ -10562,7 +11132,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "carlos-obrey-espinoza",
@@ -10651,6 +11222,9 @@
             "New Mexico Bar, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10778,6 +11352,13 @@
             "Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Premises Liability",
+        "Truck Accident"
       ]
     },
     {
@@ -10869,6 +11450,12 @@
             "United States District Court for the District of New Mexico, Judicial Clerkship"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Discrimination",
+        "Assault and Battery (Plaintiff)",
+        "Wrongful Death"
       ]
     },
     {
@@ -10939,6 +11526,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -11033,6 +11624,9 @@
             "Regular Volunteer for Houston Bar Association LegalLines Program"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -11114,7 +11708,8 @@
             "New Mexico"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lydia-pizzonia",
@@ -11199,6 +11794,10 @@
             "New Mexico, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -11295,6 +11894,10 @@
             "Albuquerque Bar Association, 2017 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -11347,6 +11950,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -11424,6 +12032,12 @@
             "Coyte Law, P.C., Law Clerk"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Sexual Abuse",
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -11556,6 +12170,11 @@
             "New Mexico Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Employment Law (Employer)",
+        "Real Estate"
       ]
     },
     {
@@ -11654,6 +12273,9 @@
             "Young Lawyers Division"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -11739,6 +12361,11 @@
             "U.S. Federal Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Estate Planning",
+        "Criminal Defense"
       ]
     },
     {
@@ -11894,6 +12521,14 @@
             "American Association of Justice (Governor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Motor Vehicle Defects",
+        "Professional Malpractice"
       ]
     },
     {
@@ -12040,7 +12675,8 @@
             "State of New Mexico, State Board of Dental Health, 2001 - 2002"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ms-brittany-m-sayer-esq",
@@ -12086,7 +12722,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-sievers",
@@ -12192,6 +12829,13 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Civil Rights"
       ]
     },
     {
@@ -12255,7 +12899,8 @@
             "Houston Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "quentin-smith",
@@ -12373,6 +13018,9 @@
             "Defense Research Institute, 2009 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -12468,6 +13116,10 @@
             "New Mexico Trial Lawyers Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -12562,6 +13214,11 @@
             "State Bar of New Mexico Client Protection Fund Commission"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Real Estate",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -12652,6 +13309,10 @@
             "New Mexico Trial Lawyer's Association, 2016 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -12750,6 +13411,11 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -12847,6 +13513,9 @@
             "New Mexico Trial Lawyers Association, 2006 - 2007 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death"
       ]
     },
     {
@@ -12958,6 +13627,9 @@
             "State Bar of Texas Leadership Class, 2014 - 2015 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13044,6 +13716,9 @@
             "Illinois"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13152,6 +13827,9 @@
             "Criminal Justice Reform Subcommittee, Co-chair, 2013 - 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -13246,6 +13924,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13284,7 +13965,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "arslan-umarov",
@@ -13356,6 +14038,12 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Birth Injury",
+        "Medical Malpractice",
+        "Brain Injury"
       ]
     },
     {
@@ -13435,6 +14123,9 @@
             "U.S. District Court District of New Mexico, 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -13520,6 +14211,9 @@
             "New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13622,6 +14316,11 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -13739,6 +14438,9 @@
             "National Association of Counsel for Children"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights"
       ]
     },
     {
@@ -13825,6 +14527,9 @@
             "Louisiana"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13931,6 +14636,13 @@
             "New Mexico Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Bad Faith Insurance",
+        "Truck Accident",
+        "Premises Liability",
+        "Car Accidents"
       ]
     },
     {
@@ -14040,6 +14752,12 @@
             "U.S. District Court District of New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Birth Injury",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -14180,6 +14898,12 @@
             "New Mexico Board of Legal Specialization, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Birth Injury",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -14278,6 +15002,12 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -14353,6 +15083,10 @@
             "NM State Bar for Professional Associations, Bankruptcy Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law"
       ]
     }
   ],
@@ -14462,17 +15196,13 @@
         "Cameron B. Bell"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability",
         "Assault and Battery (Plaintiff)",
         "Birth Injury",
-        "Brain Injury",
-        "Car Accidents",
-        "Dangerous Products",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Brain Injury"
       ],
       "additional_locations": []
     },
@@ -14526,10 +15256,7 @@
         "Joseph Turner"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -14576,11 +15303,11 @@
         "Cherie L. LaCour"
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Medical Malpractice",
+        "Birth Injury",
+        "Wrongful Death",
+        "Brain Injury"
       ],
       "additional_locations": []
     },
@@ -14624,11 +15351,8 @@
         "Allegra C. Carpenter"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Truck Accident"
+        "Medical Malpractice"
       ],
       "additional_locations": [
         {
@@ -14695,10 +15419,9 @@
         "Mark J. Caruso"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Truck Accident"
       ],
       "additional_locations": [
         {
@@ -14753,8 +15476,6 @@
         "Scott S. Morgan"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Natural Resources",
         "Oil Gas and Energy"
       ],
@@ -14801,9 +15522,8 @@
         "Joseph Cervantes"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
+        "Medical Malpractice",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -14856,16 +15576,10 @@
         "Samuel Paul Ruyle"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
-        "DUI and DWI",
         "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
         "Federal and White Collar Crimes",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Mergers and Acquisitions"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -14910,13 +15624,10 @@
         "Nathan A. Cobb"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
+        "Wrongful Death",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -14965,10 +15676,7 @@
         "Scott M. Davidson"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Federal and White Collar Crimes",
-        "Immigration",
-        "Litigation and Appeals"
+        "Immigration"
       ],
       "additional_locations": []
     },
@@ -15007,7 +15715,6 @@
         "William Gilchrist"
       ],
       "official_practice_area": [
-        "Insurance Defense",
         "Litigation and Appeals"
       ],
       "additional_locations": []
@@ -15102,8 +15809,7 @@
         "Britany J. Passalaqua"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": [
         {
@@ -15168,12 +15874,9 @@
         "Charlotte Itoh"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Dangerous Products",
         "Medical Malpractice",
         "Nursing Home Abuse",
         "Personal Injury",
-        "Professional Malpractice",
         "Truck Accident",
         "Wrongful Death"
       ],
@@ -15279,16 +15982,9 @@
         "Roderick T. Frechette II"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "DUI and DWI",
         "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Internet",
-        "Litigation and Appeals",
-        "Sex Crime",
-        "Traffic Ticket"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -15338,10 +16034,9 @@
         "Brandon Kyle Muns"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Car Accidents",
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
         "Truck Accident",
         "Workers' Compensation"
       ],
@@ -15389,10 +16084,8 @@
         "Jeff Grandjean"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Estate Planning",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -15438,7 +16131,6 @@
         "Donald Clark Trigg"
       ],
       "official_practice_area": [
-        "Insurance Defense",
         "Litigation and Appeals"
       ],
       "additional_locations": []
@@ -15490,8 +16182,7 @@
         "Richard E. Olson"
       ],
       "official_practice_area": [
-        "Natural Resources",
-        "Oil Gas and Energy"
+        "Natural Resources"
       ],
       "additional_locations": [
         {
@@ -15554,12 +16245,11 @@
         "Levi A. Monagle"
       ],
       "official_practice_area": [
-        "Civil Rights",
-        "Health Care Law",
-        "Personal Injury",
         "Sexual Abuse",
-        "Whistleblower and Qui Tam",
-        "Wrongful Death"
+        "Personal Injury",
+        "Wrongful Death",
+        "Civil Rights",
+        "Whistleblower and Qui Tam"
       ],
       "additional_locations": []
     },
@@ -15688,29 +16378,19 @@
         "Nathan Pederson"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Criminal Defense",
+        "Personal Injury",
+        "Civil Rights",
+        "DUI and DWI",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Civil Rights",
-        "Construction",
         "Construction Accident",
-        "Criminal Defense",
-        "DUI and DWI",
         "Defamation",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
         "Medical Malpractice",
-        "Personal Injury",
         "Premises Liability",
-        "Professional Malpractice",
-        "Sex Crime",
         "Sexual Abuse",
-        "Traffic Ticket",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -15771,10 +16451,10 @@
         "Shannon L. Kennedy"
       ],
       "official_practice_area": [
-        "Civil Rights",
-        "Personal Injury",
         "Sexual Abuse",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Personal Injury",
+        "Civil Rights"
       ],
       "additional_locations": [
         {
@@ -15887,17 +16567,10 @@
         "Chris Lee"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Bad Faith Insurance",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Dangerous Products",
-        "Insurance Law",
         "Personal Injury",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Construction Accident",
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -15942,11 +16615,10 @@
         "Amalia Skogen Lucero Esq."
       ],
       "official_practice_area": [
-        "Birth Injury",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Birth Injury"
       ],
       "additional_locations": []
     },
@@ -16002,13 +16674,13 @@
         "Stephen R. Marshall"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Professional Malpractice",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Birth Injury",
         "Truck Accident",
-        "Wrongful Death"
+        "Premises Liability",
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -16053,8 +16725,8 @@
         "Joel Simon"
       ],
       "official_practice_area": [
-        "Oil Gas and Energy",
-        "Personal Injury"
+        "Personal Injury",
+        "Oil Gas and Energy"
       ],
       "additional_locations": [
         {
@@ -16120,10 +16792,8 @@
         "Lydia Pizzonia"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -16171,9 +16841,9 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Probate",
         "Trusts",
-        "Wills"
+        "Wills",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -16219,9 +16889,9 @@
         "Nick Stiver"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
         "Workers' Compensation",
+        "Car Accidents",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -16269,9 +16939,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
-        "Sex Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -16324,12 +16992,10 @@
         "Ty Wood"
       ],
       "official_practice_area": [
-        "Birth Injury",
-        "Brain Injury",
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Brain Injury",
+        "Birth Injury"
       ],
       "additional_locations": []
     },
@@ -16377,7 +17043,12 @@
         "Kat Fox",
         "Dennis Banning Esq"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Probate",
+        "Estate Planning"
+      ],
       "additional_locations": []
     },
     {
@@ -16422,7 +17093,12 @@
       "attorneys": [
         "Kenneth G Egan"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death",
+        "Animal and Dog Bites"
+      ],
       "additional_locations": []
     },
     {
@@ -16487,7 +17163,32 @@
         "Shane A. English",
         "John E. Keithly"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Consumer Protection",
+        "Contracts",
+        "Business Organizations",
+        "Sexual Harassment",
+        "Discrimination",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Social Security Disability",
+        "Labor Law",
+        "Personal Injury",
+        "Probate",
+        "Medical Malpractice",
+        "Real Estate",
+        "Landlord and Tenant",
+        "State Local and Municipal Law"
+      ],
       "additional_locations": []
     },
     {
@@ -16534,7 +17235,12 @@
         "Tammy M. Jasionowski",
         "Patrick W. Sullivan"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Nursing Home Abuse",
+        "Wrongful Death"
+      ],
       "additional_locations": []
     },
     {
@@ -16577,7 +17283,9 @@
       "attorneys": [
         "Glenn Smith Valdez"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -16618,7 +17326,9 @@
         "Nephi D. Hardman",
         "Andrea D.s Woody"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     }
   ]

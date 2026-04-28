@@ -119,6 +119,10 @@
             "Nevada Attorneys for Criminal Justice, 2011 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -238,6 +242,9 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -348,6 +355,10 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -456,6 +467,9 @@
             "American Bar Association, January 1, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -540,7 +554,8 @@
             "Nevada Trial Lawyers Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nicholas-m-adams",
@@ -617,6 +632,10 @@
             "Nevada, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -776,6 +795,11 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Collections",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -935,6 +959,16 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Business Organizations",
+        "Insurance Law",
+        "Estate Planning",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -1183,6 +1217,27 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Probate",
+        "Foreclosure and Alternatives",
+        "Trusts",
+        "Landlord and Tenant",
+        "Contracts",
+        "Housing and Construction Defects",
+        "Banking and Finance Law",
+        "Insurance Defense",
+        "Collections",
+        "Business and Commercial Law",
+        "Debtor and Creditor",
+        "Class Actions",
+        "Legal Malpractice",
+        "Personal Injury",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -1334,6 +1389,18 @@
             "American Bar Association (Past Member, Trial Evidence Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Defense",
+        "Wrongful Death",
+        "Brain Injury",
+        "Construction Accident",
+        "Premises Liability",
+        "Aviation",
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Contracts"
       ]
     },
     {
@@ -1462,6 +1529,15 @@
             "Association of Defense Counsel of Northern Nevada, 2011 - 2012 (Presindent)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Airplane Bus and Helicopter Accidents",
+        "Animal and Dog Bites",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -1571,6 +1647,9 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -1648,6 +1727,9 @@
             "Nevada, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1707,6 +1789,9 @@
             "Nevada, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -1838,6 +1923,12 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Civil Rights",
+        "Employment Rights",
+        "Insurance Defense"
       ]
     },
     {
@@ -1882,7 +1973,8 @@
           "type": "text",
           "content": "Kurt Anderson\n\nLitigation Attorney\n\nKurt is an experienced litigation attorney at Shook & Stone law firm, who brings over 25 years of dedicated expertise.\n\nSpecializing in complex legal matters, Kurt is known for resolving challenging cases with precision. As part of Shook & Stone, a firm valued for integrity and success, Kurt advocates for injured individuals, ensuring they receive deserved justice and compensation. With a compassionate client approach, Kurt strives to make a meaningful impact beyond the courtroom."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marco-angioni-ii",
@@ -1982,6 +2074,12 @@
             "Lambda Chi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Contracts",
+        "Probate"
       ]
     },
     {
@@ -2080,6 +2178,11 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Patents",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -2181,6 +2284,14 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Gaming",
+        "Real Estate",
+        "Tax Law",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -2297,6 +2408,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -2448,6 +2562,11 @@
             "U.S. District Court Eastern District of Texas, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Litigation and Appeals",
+        "Transportation"
       ]
     },
     {
@@ -2568,6 +2687,10 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Health Care Law"
       ]
     },
     {
@@ -2649,6 +2772,12 @@
             "Nevada, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Tax Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -2746,6 +2875,10 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury"
       ]
     },
     {
@@ -2840,6 +2973,9 @@
             "Utah, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -2938,6 +3074,11 @@
             "Young Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -3041,6 +3182,13 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Trademarks",
+        "Class Actions",
+        "Personal Injury",
+        "Construction"
       ]
     },
     {
@@ -3191,6 +3339,13 @@
             "The National Academy of Family Law Attorneys, - 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Domestic Violence",
+        "Adoption",
+        "Family Law"
       ]
     },
     {
@@ -3292,6 +3447,17 @@
             "Better Business Bureau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death",
+        "Brain Injury",
+        "Construction Accident",
+        "Workers' Compensation",
+        "Bad Faith Insurance",
+        "Motor Vehicle Defects"
       ]
     },
     {
@@ -3435,6 +3601,14 @@
             "Nevada State Bar, 2000 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Airplane Bus and Helicopter Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -3548,6 +3722,9 @@
             "Supreme Court of Nevada, 1977"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3687,6 +3864,16 @@
             "Nevada State Bar #7280, 2000 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Animal and Dog Bites",
+        "Airplane Bus and Helicopter Accidents",
+        "Premises Liability",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -3766,6 +3953,10 @@
             "Nevada, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Probate"
       ]
     },
     {
@@ -3863,6 +4054,13 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "ADR Arbitration and Mediation",
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -3961,6 +4159,11 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -4077,6 +4280,14 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Insurance Defense",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -4162,6 +4373,12 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Personal Injury",
+        "Premises Liability",
+        "Insurance Defense"
       ]
     },
     {
@@ -4289,6 +4506,10 @@
             "National Academy of Elder Law Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -4344,6 +4565,13 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -4459,6 +4687,15 @@
             "American Inns of Court - Bruce R. Thompson Chapter (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Airplane Bus and Helicopter Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -4556,6 +4793,9 @@
             "Montana State Bar Association, 2007 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law"
       ]
     },
     {
@@ -4650,6 +4890,12 @@
             "Nevada, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -4775,7 +5021,8 @@
             "Nevada State Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "steven-m-burris",
@@ -4915,6 +5162,15 @@
             "Nevada \"One Day Jury Trial\" Program (Co-Founder)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Animal and Dog Bites",
+        "Construction Accident"
       ]
     },
     {
@@ -5019,6 +5275,9 @@
             "J. Reuben Clark Law Society (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability"
       ]
     },
     {
@@ -5125,6 +5384,9 @@
             "American Immigration Lawyers Association, 2009 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration"
       ]
     },
     {
@@ -5246,6 +5508,14 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Construction",
+        "Real Estate",
+        "Civil Rights",
+        "Environmental Law"
       ]
     },
     {
@@ -5340,7 +5610,8 @@
             "State Bar of Nevada, Southern Nevada Disciplinary Board (Former Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brandi-k-cassady-esq",
@@ -5415,6 +5686,9 @@
             "National Academy of Elder Law Attorneys, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -5502,6 +5776,9 @@
             "Clark County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -5580,6 +5857,11 @@
             "Washoe County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Elder Law"
       ]
     },
     {
@@ -5639,6 +5921,10 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -5750,6 +6036,9 @@
             "Clark County Bar Association (Nevada Attorneys for Criminal Justice), 1992 - 2003 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5894,6 +6183,10 @@
             "Sigma Alpha Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -5967,6 +6260,9 @@
             "Nevada Attorneys For Criminal Justice (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6058,6 +6354,10 @@
             "State Bar of Nevada, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -6183,6 +6483,10 @@
             "State Bar of Nevada, Appellate Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Patents"
       ]
     },
     {
@@ -6256,6 +6560,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Car Accidents"
       ]
     },
     {
@@ -6341,6 +6650,12 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -6447,6 +6762,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Housing and Construction Defects",
+        "Personal Injury"
       ]
     },
     {
@@ -6558,6 +6878,12 @@
             "Federal Pro Bono Pilot Committee Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Constitutional Law",
+        "Employment Rights",
+        "Civil Rights"
       ]
     },
     {
@@ -6640,6 +6966,10 @@
             "Nevada, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Constitutional Law"
       ]
     },
     {
@@ -6710,6 +7040,17 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Truck Accident",
+        "Construction Accident",
+        "Class Actions",
+        "Animal and Dog Bites",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -6754,7 +7095,8 @@
           "type": "text",
           "content": "Gabriel Czop\n\nWorkers’ Compensation Attorney\n\nGabe is an alumnus of the William S. Boyd School of Law in Las Vegas, Nevada. There, he earned a Cali award (highest grade in the class) in Trial Advocacy and was on the Dean’s List. In 2015, throughout law school, Gabe was a student editor for the nationally recognized textbook Law and Religion, Cases, and Materials.\n\nGabe worked for a Personal Injury law firm and a Civil Rights law firm, learning and honing the skills he uses every day for his clients in court. After graduating and passing the bar exam, Gabe began his career as an Insurance Defense attorney. In this role, he learned how insurance companies litigate cases in various state and federal courts throughout Nevada.\n\nThe insight he gained made the transition to a plaintiff’s attorney easier. As a plaintiff’s attorney, Gabe has had tremendous success both in and out of the courtroom. Gabe is an experienced trial attorney as well as a zealous advocate in nonbinding arbitrations. As a Workers’ Compensation attorney at Shook & Stone, Gabe brings the same determination and keen attention to detail that made him so successful in his trials. Gabe is currently licensed before all Nevada state courts, the Federal District Court for the District of Nevada, and the Ninth Circuit Court of Appeals."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "hunter-s-davidson",
@@ -6794,7 +7136,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "christian-l-delgado",
@@ -6883,6 +7226,11 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Landlord and Tenant",
+        "Personal Injury"
       ]
     },
     {
@@ -6985,6 +7333,13 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Workers' Compensation",
+        "DUI and DWI",
+        "Domestic Violence",
+        "Personal Injury"
       ]
     },
     {
@@ -7033,7 +7388,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sarah-disalvo",
@@ -7102,6 +7458,9 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7211,6 +7570,9 @@
             "UNLV Foundation (Advisor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -7264,7 +7626,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brian-p-eagan",
@@ -7383,6 +7746,10 @@
             "Las Vegas Metro Chamber of Commerce, Leadership of Las Vegas, Member, Class of 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -7490,6 +7857,10 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Eminent Domain"
       ]
     },
     {
@@ -7592,6 +7963,13 @@
             "Probate and Trust Section Nevada State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -7729,6 +8107,11 @@
             "Regional Directory of Litigation for APITLA for Nevada, Utah, Arizona and Colorado"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -7827,7 +8210,8 @@
             "United Way (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christy-brad-escobar",
@@ -7911,6 +8295,24 @@
             "U.S. Federal Courts, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Business Organizations",
+        "DUI and DWI",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Elder Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -7997,6 +8399,10 @@
             "Clark County Bar Association, 1999 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -8106,6 +8512,10 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Business Organizations"
       ]
     },
     {
@@ -8204,6 +8614,11 @@
             "U.S. Tax Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -8272,7 +8687,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "troy-k-flake",
@@ -8351,6 +8767,10 @@
             "California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -8442,6 +8862,12 @@
             "Old Vegas Ranch Homeowners Association. (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -8608,6 +9034,15 @@
             "Pi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Domestic Violence",
+        "Personal Injury"
       ]
     },
     {
@@ -8693,6 +9128,9 @@
             "Current: Nevada Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -8773,6 +9211,9 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -8873,6 +9314,13 @@
             "Delta Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Litigation and Appeals",
+        "State Local and Municipal Law",
+        "Constitutional Law",
+        "Health Care Law"
       ]
     },
     {
@@ -8978,6 +9426,10 @@
             "National Association of Subrogation Professionals"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Criminal Defense"
       ]
     },
     {
@@ -9066,6 +9518,12 @@
             "Million Dollar Advocates Forum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -9201,6 +9659,14 @@
             "Alpha Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Elder Law",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Trusts"
       ]
     },
     {
@@ -9309,6 +9775,11 @@
             "Client Security Fund, Nevada State Bar, 2009 - 2012 (Investigator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Drug Crime",
+        "Domestic Violence"
       ]
     },
     {
@@ -9433,7 +9904,8 @@
             "Gift Planning Advisors (Founding Chair)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-graves",
@@ -9523,6 +9995,10 @@
             "Nevada, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Probate"
       ]
     },
     {
@@ -9622,6 +10098,12 @@
             "Probate and Trust Section Nevada State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -9735,6 +10217,13 @@
             "Who's Who and National Association of Professional Women (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Family Law",
+        "Elder Law"
       ]
     },
     {
@@ -9837,6 +10326,12 @@
             "WealthCounsel Estate and Business Law (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -9929,6 +10424,16 @@
             "Nevada, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Truck Accident",
+        "Premises Liability"
       ]
     },
     {
@@ -10027,6 +10532,14 @@
             "Nevada State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Elder Law",
+        "Business Organizations",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -10155,6 +10668,13 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Personal Injury",
+        "Collections",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -10251,6 +10771,9 @@
             "Defense Research Institute (Member, Special Committee on Trademarks and the Internet)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10324,6 +10847,11 @@
             "Nevada, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Law",
+        "Health Care Law"
       ]
     },
     {
@@ -10458,6 +10986,13 @@
             "State Bar of Nevada, Intellectual Property Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Constitutional Law",
+        "Eminent Domain",
+        "Patents",
+        "Administrative Law"
       ]
     },
     {
@@ -10551,7 +11086,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marjorie-hauf",
@@ -10669,6 +11205,13 @@
             "Southern Nevada Association of Women Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -10760,6 +11303,11 @@
             "State Bar of Nevada, 2001 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -10867,6 +11415,12 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Tax Law",
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -10907,7 +11461,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "k-ryan-helmick",
@@ -10997,6 +11552,13 @@
             "Police Fatality Fact-Finding Review Board, Ombudsman"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Assault and Battery (Plaintiff)",
+        "DUI and DWI",
+        "Domestic Violence",
+        "Drug Crime"
       ]
     },
     {
@@ -11093,7 +11655,8 @@
             "American Association of Justice"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "catherine-hernandez",
@@ -11171,6 +11734,11 @@
             "U.S. District Court District of Nevada, 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -11291,6 +11859,9 @@
             "Certified Commercial Investment Member (Counsel Liaison) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -11362,6 +11933,17 @@
           "type": "text",
           "content": "Lynna was born in Evanston, Illinois. She received her bachelor of Science degree from the University of Phoenix. Lynna is a licensed CPA in Nevada and a member of the Nevada Society of CPAs. Lynna provides forensic accounting services in criminal and civil litigation matters, has been designated an expert, and testified as such in the Nevada state and federal courts. She has extensive experience in corporate, gaming industry, local government and tax exempt organization audits and represents clients before the Internal Revenue Service and the Nevada Department of Taxation. Lynna assists clients seeking their Nevada Gaming License as well as those wishing to form new businesses or tax exempt entities. Ms. Hodgin is an integral part of our transactional team; her unique skills are often relied upon in reaching Ken R. Ashworth & Associates business clients' needs."
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Elder Law",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Gaming",
+        "Tax Law",
+        "Real Estate"
       ]
     },
     {
@@ -11447,6 +12029,12 @@
             "Nevada, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Probate"
       ]
     },
     {
@@ -11525,6 +12113,14 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Real Estate",
+        "Medical Malpractice",
+        "Immigration"
       ]
     },
     {
@@ -11619,6 +12215,12 @@
             "Board-Certified Neurologist Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -11738,6 +12340,11 @@
             "Barrister, American Inns of Court; (Howard D. McKibben Chapter)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -11810,6 +12417,9 @@
             "Nevada, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -11857,7 +12467,8 @@
             "California, 1976"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-m-jimmerson-esq",
@@ -11950,7 +12561,8 @@
             "U.S. District Court District of Nevada"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-j-jimmerson",
@@ -12026,6 +12638,15 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Entertainment Sports and Leisure Law",
+        "Gaming",
+        "Construction",
+        "Health Care Law",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -12149,6 +12770,11 @@
             "National Planned Giving Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -12251,6 +12877,12 @@
             "GPC-Gift Planning Council Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Tax Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -12350,6 +12982,11 @@
             "Clark County Bar Association, 1998 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -12463,6 +13100,11 @@
             "J. Reuben Clark Law Society - Whittier Law School Student Chapter, 2015 - 2016 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -12559,6 +13201,12 @@
             "State Bar of Nevada, 2006 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -12607,7 +13255,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "josef-m-karacsonyi-esq",
@@ -12655,7 +13304,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-s-katz",
@@ -12748,6 +13398,11 @@
             "U.S. Tax Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -12856,6 +13511,10 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -12929,7 +13588,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "cedric-a-kerns",
@@ -13033,6 +13693,10 @@
             "Nevada Supreme Court Judicial Council Education Funding Committee - termed out, 2015 - 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -13130,6 +13794,13 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Entertainment Sports and Leisure Law",
+        "Tax Law",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -13284,6 +13955,13 @@
             "Clark County Bar Association, 1990 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Probate",
+        "Business Organizations",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13379,6 +14057,9 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -13463,6 +14144,9 @@
             "Nevada, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -13546,6 +14230,13 @@
             "Clark County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -13658,6 +14349,15 @@
             "State Bar of Nevada # 15256"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Airplane Bus and Helicopter Accidents",
+        "Animal and Dog Bites",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -13759,6 +14459,11 @@
             "Clark County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -13803,7 +14508,13 @@
         "Negligence Security",
         "Products Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death",
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "dan-laird",
@@ -13841,7 +14552,10 @@
       "practice_areas": [
         "Medical Malpractice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "avery-j-laub-esq",
@@ -13911,7 +14625,8 @@
             "State Bar of Nevada, Member"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joe-laub",
@@ -13972,6 +14687,10 @@
             "Nevada, 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bankruptcy"
       ]
     },
     {
@@ -14063,6 +14782,13 @@
             "Litigation Counsel of America (The Litigation Counsel of America, Fellow (The Litigation Counsel is a trial lawyer honorary society composed of less than one-half of one percent of American lawyers)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Trademarks",
+        "Class Actions",
+        "Personal Injury",
+        "Construction"
       ]
     },
     {
@@ -14173,6 +14899,10 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -14270,6 +15000,10 @@
             "American Subcontractors Association, Inc."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Franchising",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -14369,6 +15103,12 @@
             "American Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption"
       ]
     },
     {
@@ -14440,6 +15180,9 @@
             "Nevada, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14530,6 +15273,10 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -14616,6 +15363,9 @@
             "Idaho, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14708,6 +15458,10 @@
             "Nevada Justice Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Social Security Disability"
       ]
     },
     {
@@ -14793,7 +15547,8 @@
             "Member of the Nevada Clark County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "martin-manke",
@@ -14894,6 +15649,13 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Litigation and Appeals",
+        "Construction",
+        "Elder Law",
+        "Probate"
       ]
     },
     {
@@ -14974,6 +15736,10 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -15011,7 +15777,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "albert-g-marquis",
@@ -15084,7 +15851,8 @@
             "Founding Partner-Retired"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "scott-a-marquis",
@@ -15199,6 +15967,9 @@
             "Nevada Justice Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -15251,6 +16022,11 @@
           "type": "text",
           "content": "In 1999, Leah graduated summa cum laude from UNLV with a Bachelor of Arts degree in Environmental Studies and Political Science. In law school, she was Editor-in-Chief of the Nevada Law Journal and judicial extern to United States District Court Judge Phillip Pro. She graduated summa cum laude from UNLV's law school in 2002. At graduation, she was recognized as the William S. Boyd Outstanding Graduate.\n\nFollowing her graduation from law school, she immediately began employment at Lionel Sawyer & Collins, at the time the largest law firm in the state, which specializes in a variety of business matters. While at that firm, and subsequently at Bailey Kennedy, she gained experience on complex matters while being mentored by a variety of top professionals in Nevada.\n\nIn 2011, she made the choice to establish her own firm. She brings to her firm many years of experience in all areas of business law, including preparing formation documents; drafting operating and shareholder agreements, partnership agreements, purchase and finance agreements, leases, surrender agreements, non-compete and non-disclosure agreements, and employment agreements; contract litigation; shareholder derivative suits; business dissolutions; and appellate matters.\n\nDuring the course of her practice of law, she has also been involved in many areas of legal education and service. She was an associate editor of the Nevada Civil Practice Manual from 2004-2010. She was a teaching assistant for the Nevada Civil Practice class at UNLV's law school from 2006-2008. She has been a grader for the Nevada Bar Exam since 2008. She has chaired the Clark County Law Foundation Community Service Committee, having served on the committee since 2007. In addition to maintaining her own cases, she has also been an arbitrator on the Court Annexed Arbitration Program Panel since 2012.\n\nShe is currently licensed with the State Bars of Nevada and Arizona. She is also certified to practice Law in the United States District Court for the District of Nevada and the Ninth Circuit Court of Appeals. She is a member of the American Bar Association, State Bar of Nevada, Clark County Bar Association, and Southern Nevada Association of Women Attorneys.\n\nShe currently lives with her husband Scot and two daughters. She is involved in numerous community organizations, including UNLV Alumni Association (lifetime member), Sigma Kappa Sorority Alumni Association, CARE Complex Board of Director, Commercial Real Estate Women, National Association of Women Business Owners, and Leadership Henderson Class of 2017 Alumni.\n\nLeah has continued to achieve her success and goals while being the managing partner of her own law firm."
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Contracts",
+        "Estate Planning"
       ]
     },
     {
@@ -15297,7 +16073,8 @@
           "type": "text",
           "content": "Tye Masters graduated cum laude from the University of Southern California in 2013 with dual majors in Political Science and Philosophy, Politics, and Law, along with a minor in Business Law. He then returned to his hometown of Las Vegas and earned his law degree from the UNLV William S. Boyd School of Law as a Dean’s Merit Scholarship recipient in 2017. After passing the bar on his first attempt, he served as in-house counsel for University Medical Center of Southern Nevada, where he handled complex regulatory matters involving Medicare, Medicaid, insurance billing, and hospital accreditation. He also litigated claims related to medical malpractice, premises liability, physician credentialing, and patient accounting disputes. In 2025, Tye joined Benson & Bingham, bringing his extensive legal expertise to advocate for personal injury clients and maximize their recoveries.\n\nAs the son of a U.S. Air Force pilot, Tye grew up in diverse environments, including Germany, Texas, and Arkansas, before settling in Southern Nevada in 2001. He proudly calls Nevada home and is committed to passionately representing his clients while serving his community. Outside of his legal practice, Tye enjoys attending Vegas Golden Knights games, cheering on the USC Trojans, golfing, and taking afternoon walks with his two dogs.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nTye D. Masters Esq. included in a Super Lawyers® list\n\nOther Sources of Feedback About Tye D. Masters Esq.\n\nIncluded on the 2026Mountain States Super Lawyers list"
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "amanda-mateer",
@@ -15339,7 +16116,8 @@
           "type": "text",
           "content": "Amanda Mateer practices in the areas of trust administration, probate, special needs planning, and elder law. Ms. Mateer earned her law degree from the University of Arizona James E. Rogers School of Law and her Bachelor of Arts Degree in English Literature from the University of Arizona. Before transitioning to elder law, she served as a prosecutor, gaining extensive experience with hundreds of trials. Outside of work, she enjoys outdoor adventures with her toddler, watching hockey and football, and playing chess and poker."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kimberly-maxson-rushton",
@@ -15454,7 +16232,8 @@
             "Livery Operators Association of Southern NevadaExecutive Director (Executive Director)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "alicia-s-may",
@@ -15569,6 +16348,9 @@
             "Clark County Bar Association, 2021 - 2023 (Chair of Community Service Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -15714,6 +16496,9 @@
             "Martindale-Hubbell , 2017 - Present (AV Rated Preeminent Attorney)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -15830,6 +16615,9 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -15899,6 +16687,9 @@
             "Nevada, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -15973,6 +16764,10 @@
             "Nevada, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -16050,6 +16845,10 @@
             "Member of the Nevada Justice Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -16144,6 +16943,9 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -16188,7 +16990,8 @@
           "type": "text",
           "content": "Jacquie Merritt\n\nSocial Security Disability Attorney\n\nJacquie can help you navigate the complexities of obtaining the benefits you deserve so you can rest assured knowing that your case is in capable hands. She specializes in assisting individuals in need of Social Security Disability benefits, guiding them through the process with care and expertise. Jacquie is dedicated to advocating for your rights and ensuring that you receive the support you need during this challenging time. Let Jacquie Merritt ease your burden and fight for the benefits you're entitled to."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-j-miceli",
@@ -16270,6 +17073,9 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -16382,6 +17188,14 @@
             "Southern Nevada Estate Planning Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Litigation and Appeals",
+        "Tax Law",
+        "Estate Planning",
+        "Elder Law",
+        "Probate"
       ]
     },
     {
@@ -16490,6 +17304,10 @@
             "Elder Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -16585,6 +17403,9 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -16670,6 +17491,9 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -16748,7 +17572,8 @@
             "U.S. District Court District of Nevada, 2017"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jordan-w-montet",
@@ -16866,6 +17691,11 @@
             "Junior League of Las Vegas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Health Care Law"
       ]
     },
     {
@@ -17004,6 +17834,10 @@
             "Building Owners and Managers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -17069,6 +17903,9 @@
             "Board of Governors for the American Association of Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -17190,6 +18027,11 @@
             "Dean's Associate, College of Liberal Arts, UNLV, 2019-Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -17304,6 +18146,10 @@
             "Las Gaviotas Public Charity (Board Member and Officer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Trusts"
       ]
     },
     {
@@ -17408,6 +18254,14 @@
             "Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Family Law",
+        "Criminal Defense",
+        "Administrative Law",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -17531,6 +18385,11 @@
             "Probate and Trust Law, Nevada State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -17611,6 +18470,12 @@
             "Nevada, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Estate Planning",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -17753,6 +18618,11 @@
             "Howard D. McKibben Chapter of the American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -17810,6 +18680,13 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Class Actions"
       ]
     },
     {
@@ -17917,6 +18794,11 @@
             "Clark County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Defense",
+        "Real Estate"
       ]
     },
     {
@@ -18006,7 +18888,8 @@
             "Heelan High School (Board Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "allison-k-mungaray-esq",
@@ -18092,6 +18975,12 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption"
       ]
     },
     {
@@ -18163,7 +19052,8 @@
             "U.S. District Court District of Nevada"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bradley-j-myers",
@@ -18285,6 +19175,13 @@
             "Member, American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -18375,6 +19272,16 @@
             "Nevada, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Truck Accident",
+        "Premises Liability"
       ]
     },
     {
@@ -18410,7 +19317,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4727866_1",
@@ -18445,7 +19353,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4447430_1",
@@ -18480,7 +19389,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2067167_1",
@@ -18515,7 +19425,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4447429_1",
@@ -18552,7 +19463,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "3445116_1",
@@ -18589,7 +19503,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3853994_1",
@@ -18626,7 +19541,8 @@
       "practice_areas": [
         "Business & Corporate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4920939_1",
@@ -18663,7 +19579,10 @@
       "practice_areas": [
         "Business & Corporate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "5243756_1",
@@ -18701,7 +19620,8 @@
       "practice_areas": [
         "Business & Corporate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5204578_1",
@@ -18738,7 +19658,8 @@
       "practice_areas": [
         "Chemical Arts"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4148791_1",
@@ -18775,7 +19696,10 @@
       "practice_areas": [
         "Copyrights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Copyrights"
+      ]
     },
     {
       "slug": "5204599_1",
@@ -18812,7 +19736,8 @@
       "practice_areas": [
         "Business & Corporate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2329312_1",
@@ -18849,7 +19774,10 @@
       "practice_areas": [
         "Contracts"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Contracts"
+      ]
     },
     {
       "slug": "3875258_1",
@@ -18886,7 +19814,10 @@
       "practice_areas": [
         "General, Corporate and Real Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "3427554_1",
@@ -18923,7 +19854,10 @@
       "practice_areas": [
         "Business & Corporate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "4715661_1",
@@ -18960,7 +19894,10 @@
       "practice_areas": [
         "Copyrights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Copyrights"
+      ]
     },
     {
       "slug": "1753904_1",
@@ -18997,7 +19934,8 @@
       "practice_areas": [
         "Business & Corporate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4922758_1",
@@ -19034,7 +19972,10 @@
       "practice_areas": [
         "Trust and Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "3360161_1",
@@ -19071,7 +20012,8 @@
       "practice_areas": [
         "Asset Protection"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3280244_1",
@@ -19108,7 +20050,10 @@
       "practice_areas": [
         "Trust & Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "3698169_1",
@@ -19145,7 +20090,10 @@
       "practice_areas": [
         "Trust & Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "5186300_1",
@@ -19182,7 +20130,10 @@
       "practice_areas": [
         "Trust & Estate Administration"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "5272407_1",
@@ -19219,7 +20170,10 @@
       "practice_areas": [
         "Trust & Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "5186295_1",
@@ -19256,7 +20210,10 @@
       "practice_areas": [
         "Trust & Estate Litigation (including Appeals)"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "5290909_1",
@@ -19293,7 +20250,8 @@
       "practice_areas": [
         "Business Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5218170_1",
@@ -19330,7 +20288,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "5186299_1",
@@ -19367,7 +20328,8 @@
       "practice_areas": [
         "Asset Protection"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5272407_1",
@@ -19404,7 +20366,10 @@
       "practice_areas": [
         "Trust & Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trusts"
+      ]
     },
     {
       "slug": "tabetha-j-nakagawa",
@@ -19511,6 +20476,13 @@
             "Alpha Kappa Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Employment Rights",
+        "Litigation and Appeals",
+        "State Local and Municipal Law",
+        "Real Estate"
       ]
     },
     {
@@ -19609,6 +20581,9 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -19690,6 +20665,13 @@
             "U.S. District Court District of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Criminal Defense",
+        "Bankruptcy",
+        "Traffic Ticket"
       ]
     },
     {
@@ -19806,6 +20788,10 @@
             "State Bar of Nevada, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -19882,6 +20868,12 @@
             "Nevada, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -19979,6 +20971,13 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Foreclosure and Alternatives",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -20073,6 +21072,12 @@
             "Asian Pacific American Law Student Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bankruptcy",
+        "DUI and DWI",
+        "Car Accidents"
       ]
     },
     {
@@ -20167,6 +21172,13 @@
             "U.S. Court of Appeals 9th Circuit, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Estate Planning",
+        "Real Estate",
+        "Construction"
       ]
     },
     {
@@ -20264,6 +21276,13 @@
             "Utah State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Probate",
+        "Immigration",
+        "Elder Law"
       ]
     },
     {
@@ -20391,6 +21410,15 @@
             "American Institute of Certified Public Accountants, 1991 - 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Tax Law",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Health Care Law",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -20510,6 +21538,10 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -20605,6 +21637,11 @@
             "Nevada Justice Association, 2016 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -20753,6 +21790,15 @@
             "Delta Sigma Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Business and Commercial Law",
+        "Construction",
+        "Contracts",
+        "Employment Rights",
+        "Insurance Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -20852,6 +21898,13 @@
             "California State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -20924,6 +21977,9 @@
             "Nevada, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -20998,6 +22054,9 @@
             "Clark County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -21087,6 +22146,16 @@
             "Nevada, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Truck Accident",
+        "Premises Liability"
       ]
     },
     {
@@ -21197,6 +22266,10 @@
             "State Bar of Nevada, Family Law Division"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -21320,6 +22393,15 @@
             "Northern Nevada Women Lawyers (Collaborative Practitioners)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Elder Law",
+        "Father's Rights"
       ]
     },
     {
@@ -21366,7 +22448,16 @@
         "Motor Vehicle Accidents -- Plaintiff",
         "Products Liability Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "c-michael-rasmussen",
@@ -21443,6 +22534,14 @@
             "Nevada, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Business Organizations",
+        "Contracts",
+        "Business and Commercial Law",
+        "Immigration"
       ]
     },
     {
@@ -21535,6 +22634,9 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -21598,6 +22700,9 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -21669,6 +22774,9 @@
             "Nevada, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -21795,7 +22903,8 @@
             "California, 2005"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "maury-rygg",
@@ -21863,6 +22972,12 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Trusts",
+        "Real Estate"
       ]
     },
     {
@@ -21914,7 +23029,8 @@
             "Retired"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lina-sadovnikaite-esq",
@@ -21985,7 +23101,8 @@
             "State Bar of Oregon (2015)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joe-schmitt",
@@ -22080,6 +23197,12 @@
             "State Bar of Nevada, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Real Estate"
       ]
     },
     {
@@ -22183,6 +23306,12 @@
             "Multi-Million Dollar Advocates Forum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Brain Injury",
+        "Animal and Dog Bites",
+        "Medical Malpractice"
       ]
     },
     {
@@ -22268,6 +23397,11 @@
             "Nevada, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -22463,6 +23597,9 @@
             "State Bar of Nevada; Clark County Bar Association; American Bar Association, Family Law Section; Clark County Community College (Speaker)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -22546,6 +23683,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Estate Planning"
       ]
     },
     {
@@ -22644,6 +23785,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -22750,6 +23894,10 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -22846,6 +23994,10 @@
             "Nevada, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -22918,6 +24070,11 @@
             "Nevada, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -23013,6 +24170,15 @@
             "U.S. District Court District of Nevada, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Elder Law",
+        "Probate",
+        "Real Estate",
+        "Tax Law",
+        "Trusts"
       ]
     },
     {
@@ -23098,6 +24264,9 @@
             "U.S. District Court District of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -23174,6 +24343,17 @@
             "Attorney, since February 14, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Truck Accident",
+        "Construction Accident",
+        "Class Actions",
+        "Animal and Dog Bites",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -23232,6 +24412,13 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Trademarks",
+        "Class Actions",
+        "Personal Injury",
+        "Construction"
       ]
     },
     {
@@ -23356,6 +24543,11 @@
             "State Bar of Nevada, Member, Probate and Trust Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -23428,6 +24620,10 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Contracts"
       ]
     },
     {
@@ -23542,7 +24738,8 @@
             "Southern Nevada Association of Women Attorneys"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-h-bud-stoddard",
@@ -23677,6 +24874,17 @@
             "U.S. District Court District of Nevada, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Contracts",
+        "Land Use and Zoning",
+        "Gaming",
+        "ADR Arbitration and Mediation",
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -23860,6 +25068,20 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Construction",
+        "Real Estate",
+        "Business Organizations",
+        "Mergers and Acquisitions",
+        "Land Use and Zoning",
+        "Natural Resources",
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -23958,6 +25180,9 @@
             "Consumer Attorneys of California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -24029,6 +25254,10 @@
             "Nevada, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -24180,6 +25409,11 @@
             "Delta Sigma Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -24284,6 +25518,12 @@
             "Probate and Trust Law Section - NV Bar, 2022 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Tax Law"
       ]
     },
     {
@@ -24373,6 +25613,10 @@
             "Nevada State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Construction"
       ]
     },
     {
@@ -24452,6 +25696,12 @@
             "California, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -24531,6 +25781,12 @@
             "California, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -24603,6 +25859,9 @@
             "Nevada Crohn’s and Colitis Foundation, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -24690,6 +25949,9 @@
             "Nevada Justice Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -24786,6 +26048,10 @@
             "Nevada Justice Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -24904,6 +26170,13 @@
             "Clark County Bar Association, 1995 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Probate",
+        "Business Organizations",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -24985,6 +26258,9 @@
             "The National Association of Professional Women"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -25077,6 +26353,9 @@
             "Nevada, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -25201,6 +26480,13 @@
             "Southern Nevada Estate Planning Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Litigation and Appeals",
+        "Probate",
+        "Tax Law",
+        "Trusts"
       ]
     },
     {
@@ -25301,6 +26587,14 @@
             "State Bar of Nevada (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Bankruptcy",
+        "Estate Planning",
+        "Elder Law",
+        "Family Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -25407,6 +26701,10 @@
             "Nevada Board Certified Family Law Specialist , 2016 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate"
       ]
     },
     {
@@ -25483,6 +26781,9 @@
             "Nevada, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -25586,6 +26887,9 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -25659,6 +26963,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Elder Law"
       ]
     },
     {
@@ -25728,6 +27036,9 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -25832,7 +27143,8 @@
             "North Las Vegas Chamber of Commerce (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "whitney-b-warnick",
@@ -25989,6 +27301,19 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Litigation and Appeals",
+        "Family Law",
+        "Probate",
+        "Contracts",
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning",
+        "Trusts",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -26086,6 +27411,13 @@
             "WealthCounsel Estate and Business Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law",
+        "Business Organizations"
       ]
     },
     {
@@ -26205,6 +27537,15 @@
             "State Bar of California, 2019 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Airplane Bus and Helicopter Accidents",
+        "Animal and Dog Bites",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -26282,6 +27623,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Social Security Disability"
       ]
     },
     {
@@ -26387,6 +27732,11 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -26488,6 +27838,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -26566,6 +27920,10 @@
             "Nevada, 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Debtor and Creditor",
+        "Bankruptcy"
       ]
     },
     {
@@ -26683,6 +28041,10 @@
             "U.S. Court of Appeals 9th Circuit, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Real Estate"
       ]
     },
     {
@@ -26807,6 +28169,9 @@
             "State Bar of Nevada, 1995 - Present (Board of Bar Examiners/Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -26855,6 +28220,11 @@
           "type": "text",
           "content": "Attorney George O West III opened first opened his practice in 1992 and currently has law offices in both Las Vegas, Nevada and Phoenix, Arizona. Attorney West’s EXCLUSIVELY PRACTICES in the field of auto fraud, lemon law and other auto related areas, including :\n\nNon disclosure of frame or unibody damage\n\nNew Car Lemon Law\n\nCertified Pre Owned Vehicles -- non disclosure.\n\nInability to pass smog after you purchased used vehicle from a dealership\n\nA dealer's failure to pay off your trade within 30 days of the contract.\n\nNon-disclosure of salvaged/rebuilt title.\n\nNon-disclosure of a “lemon law” buyback.\n\nOdometer Fraud or odometer Rollback.\n\nImproper Certification of a \"certified pre-owned\" vehicle.\n\nNon-disclosed prior accidents or collisions involving a certified pre-owned vehicle.\n\nMisrepresentations on the VEHICLE INSPECTION REPORT on any used vehicle sold by a dealership with over 75,000 miles on it at time of sale.\n\nSigning multiple contracts.\n\nNot using an installment sale contract when you are making more than one payment to the dealer.\n\nNon-disclosed financed charges or other non disclosed charges.\n\nFORGED DOCUMENTS.\n\nMr. West is admitted to Nevada, Arizona and California. *\n\n* Currently Inactive in California"
         }
+      ],
+      "official_practice_area": [
+        "Auto Dealer Fraud",
+        "Consumer Protection",
+        "Class Actions"
       ]
     },
     {
@@ -26947,6 +28317,9 @@
             "Michigan"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -27037,6 +28410,9 @@
             "American Bar Association – Tort, Trial, & Insurance Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -27110,6 +28486,9 @@
             "Nevada, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -27264,6 +28643,9 @@
             "Los Angeles County Bar Association, 1993 - 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -27358,6 +28740,10 @@
             "Southern Nevada Association of Women Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Airplane Bus and Helicopter Accidents",
+        "Personal Injury"
       ]
     },
     {
@@ -27413,6 +28799,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -27508,6 +28897,11 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -27592,6 +28986,13 @@
             "Semester Student Teaching at Topeka West High School"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -27677,6 +29078,11 @@
             "Nevada, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -27784,6 +29190,15 @@
             "State Bar of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Airplane Bus and Helicopter Accidents",
+        "Truck Accident",
+        "Workers' Compensation",
+        "Wrongful Death",
+        "Animal and Dog Bites"
       ]
     }
   ],
@@ -27855,18 +29270,15 @@
         "Ken R. Ashworth"
       ],
       "official_practice_area": [
-        "Business Organizations",
         "Business and Commercial Law",
-        "Elder Law",
         "Estate Planning",
-        "Gaming",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Elder Law",
         "Probate",
-        "Real Estate",
-        "Tax Law",
         "Trusts",
-        "Wills"
+        "Wills",
+        "Gaming",
+        "Tax Law",
+        "Real Estate"
       ],
       "additional_locations": [
         {
@@ -28158,15 +29570,11 @@
         "Katrina Stark"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Class Actions",
-        "Construction",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Trademarks"
+        "Trademarks",
+        "Construction",
+        "Class Actions",
+        "Business and Commercial Law"
       ],
       "additional_locations": [
         {
@@ -28393,16 +29801,10 @@
       ],
       "official_practice_area": [
         "ADR Arbitration and Mediation",
-        "Business Organizations",
-        "Business and Commercial Law",
         "Contracts",
-        "Elder Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
         "Real Estate",
-        "Trusts"
+        "Estate Planning",
+        "Probate"
       ],
       "additional_locations": [
         {
@@ -28457,7 +29859,6 @@
         "George T. Bochanis"
       ],
       "official_practice_area": [
-        "Personal Injury",
         "Premises Liability"
       ],
       "additional_locations": []
@@ -28506,8 +29907,6 @@
         "Julie M. Throop"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -28561,12 +29960,11 @@
         "Sunny Valencia"
       ],
       "official_practice_area": [
+        "Probate",
         "Elder Law",
         "Estate Planning",
-        "Probate",
-        "Trusts",
-        "Veteran's Benefits",
-        "Wills"
+        "Wills",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -28619,9 +30017,8 @@
         "Arun Luckoor"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Car Accidents",
         "Personal Injury",
+        "Car Accidents",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -28680,22 +30077,18 @@
         "Bradley T. Wibicki"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
         "Bankruptcy",
-        "Business Organizations",
         "Business and Commercial Law",
-        "Dangerous Products",
+        "Business Organizations",
         "Employment Law (Employer)",
-        "Employment Rights",
-        "Estate Planning",
-        "Insurance Defense",
         "Insurance Law",
         "Legal Malpractice",
         "Litigation and Appeals",
         "Medical Malpractice",
         "Probate",
         "Professional Malpractice",
-        "Real Estate"
+        "Real Estate",
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -28753,13 +30146,12 @@
         "Matthew Whittaker"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Elder Law",
         "Estate Planning",
+        "Business and Commercial Law",
         "Family Law",
-        "Insurance Defense",
+        "Probate",
         "Litigation and Appeals",
-        "Probate"
+        "Elder Law"
       ],
       "additional_locations": [
         {
@@ -28823,12 +30215,10 @@
         "Andrew J. Thomas"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Nursing Home Abuse",
         "Personal Injury",
+        "Car Accidents",
         "Premises Liability",
+        "Nursing Home Abuse",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -28911,11 +30301,6 @@
         "Hector J. Carbajal II"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate"
       ],
       "additional_locations": []
@@ -29018,8 +30403,8 @@
         "Delwyn E. Webber Esq."
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Family Law"
+        "Family Law",
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -29076,12 +30461,12 @@
         "Nathan Grubin Esq."
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Elder Law",
         "Estate Planning",
         "Probate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Elder Law",
+        "Business and Commercial Law"
       ],
       "additional_locations": [
         {
@@ -29149,11 +30534,10 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
+        "Sex Crime",
         "DUI and DWI",
         "Domestic Violence",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -29198,8 +30582,6 @@
         "Zachary Clayton"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": [
@@ -29255,14 +30637,9 @@
         "Gerald I Gillock Esq."
       ],
       "official_practice_area": [
-        "Birth Injury",
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Mergers and Acquisitions",
-        "Personal Injury",
-        "Professional Malpractice"
+        "Birth Injury",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -29313,11 +30690,11 @@
         "Hunter S. Davidson"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Car Accidents",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Premises Liability"
+        "Car Accidents",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -29358,11 +30735,7 @@
         "Martin I. Melendrez",
         "Britannica D'Aja Collins"
       ],
-      "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -29412,17 +30785,13 @@
         "Natalie E. Karacsonyi, Esq."
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
         "Divorce and Separation",
-        "Legal Malpractice",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Legal Malpractice",
+        "Wrongful Death",
+        "Brain Injury",
+        "Construction Accident",
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -29465,13 +30834,7 @@
         "Araceli (Salli) Ortiz"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "DUI and DWI",
-        "Domestic Violence",
-        "Family Law",
-        "Personal Injury",
-        "Workers' Compensation",
-        "Wrongful Death"
+        "Workers' Compensation"
       ],
       "additional_locations": []
     },
@@ -29526,11 +30889,9 @@
         "Robert L. Morris"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Elder Law",
-        "Estate Planning",
         "Probate",
-        "Trusts",
+        "Estate Planning",
+        "Elder Law",
         "Wills"
       ],
       "additional_locations": [
@@ -29731,16 +31092,13 @@
         "Troy K. Flake"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Drug Crime",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Probate",
         "Trusts",
         "Wills",
-        "Wrongful Death"
+        "Car Accidents",
+        "Wrongful Death",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -29790,11 +31148,9 @@
         "Jennifer  Poynter-Willis"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Divorce and Separation",
         "Family Law",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -29890,8 +31246,8 @@
         "Avery J. Laub Esq."
       ],
       "official_practice_area": [
-        "Bankruptcy",
         "Estate Planning",
+        "Bankruptcy",
         "Probate",
         "Trusts"
       ],
@@ -29949,9 +31305,6 @@
         "DUI and DWI",
         "Domestic Violence",
         "Drug Crime",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Sex Crime"
       ],
       "additional_locations": []
@@ -30041,8 +31394,8 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Probate",
         "Trusts",
+        "Probate",
         "Wills"
       ],
       "additional_locations": []
@@ -30097,26 +31450,17 @@
         "James M. Jimmerson Esq."
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Construction",
+        "Housing and Construction Defects",
         "Entertainment Sports and Leisure Law",
         "Environmental Law",
         "Estate Planning",
         "Family Law",
         "Gaming",
         "Health Care Law",
-        "Housing and Construction Defects",
-        "Insurance Defense",
-        "Insurance Law",
         "Litigation and Appeals",
         "Medical Malpractice",
         "Personal Injury",
-        "Probate",
-        "Professional Malpractice",
-        "Real Estate",
-        "State Local and Municipal Law"
+        "Real Estate"
       ],
       "additional_locations": []
     },
@@ -30224,19 +31568,16 @@
         "Joel Hengstler"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Birth Injury",
-        "Business and Commercial Law",
+        "Personal Injury",
         "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Birth Injury",
+        "Dangerous Products",
+        "Animal and Dog Bites",
         "Medical Malpractice",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Traffic Ticket",
         "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -30288,11 +31629,10 @@
         "Radford J. Smith"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Child Support",
+        "Family Law",
         "Divorce and Separation",
-        "Education",
-        "Family Law"
+        "Child Custody",
+        "Child Support"
       ],
       "additional_locations": []
     },
@@ -30339,8 +31679,8 @@
         "Paul H. Janda Esq."
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury"
+        "Personal Injury",
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -30407,12 +31747,10 @@
         "Kurt A. Johnson Esq."
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
         "Estate Planning",
         "Probate",
-        "Trusts",
-        "Wills"
+        "Business Organizations",
+        "Trusts"
       ],
       "additional_locations": [
         {
@@ -30478,13 +31816,11 @@
         "Tekla Modebadze"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Entertainment Sports and Leisure Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate",
-        "Tax Law"
+        "Entertainment Sports and Leisure Law",
+        "Tax Law",
+        "Business and Commercial Law",
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -30551,15 +31887,12 @@
         "Danielle J. Richardson"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
-        "Car Accidents",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Premises Liability",
+        "Car Accidents",
+        "Airplane Bus and Helicopter Accidents",
         "Workers' Compensation",
+        "Premises Liability",
+        "Animal and Dog Bites",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -30612,8 +31945,7 @@
         "Dan Laird"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -30810,7 +32142,6 @@
         "Business Organizations",
         "Business and Commercial Law",
         "Contracts",
-        "Insurance Defense",
         "Litigation and Appeals"
       ],
       "additional_locations": [
@@ -30923,9 +32254,8 @@
         "Farhan R. Naqvi"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
-        "Truck Accident"
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -30984,14 +32314,14 @@
         "Jonathan K. Nelson"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Divorce and Separation",
+        "Probate",
         "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Divorce and Separation",
         "Family Law",
         "Personal Injury",
-        "Probate",
-        "Trusts",
-        "Wills"
+        "Bankruptcy"
       ],
       "additional_locations": [
         {
@@ -31043,7 +32373,6 @@
         "Robert B. Noggle"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -31260,11 +32589,10 @@
         "Jordan Schnitzer"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice"
+        "Brain Injury",
+        "Animal and Dog Bites",
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -31312,11 +32640,10 @@
       ],
       "official_practice_area": [
         "Business Organizations",
-        "Business and Commercial Law",
         "Estate Planning",
-        "Probate",
         "Trusts",
-        "Wills"
+        "Wills",
+        "Probate"
       ],
       "additional_locations": [
         {
@@ -31373,9 +32700,9 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Probate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -31427,14 +32754,11 @@
         "Sander S. Straus"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
         "Estate Planning",
-        "Family Law",
-        "Probate",
-        "Tax Law",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Probate",
+        "Tax Law"
       ],
       "additional_locations": []
     },
@@ -31482,12 +32806,12 @@
         "David Alexander Straus"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
+        "Trusts",
         "Estate Planning",
         "Probate",
-        "Tax Law",
-        "Trusts",
-        "Wills"
+        "Wills",
+        "Business and Commercial Law",
+        "Tax Law"
       ],
       "additional_locations": []
     },
@@ -31532,8 +32856,8 @@
         "Marissa Temple"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury"
+        "Personal Injury",
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -31589,9 +32913,7 @@
         "Sarah M. Quigley",
         "Mark C. Wenzel"
       ],
-      "official_practice_area": [
-        "Personal Injury"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -31636,8 +32958,8 @@
       ],
       "official_practice_area": [
         "Auto Dealer Fraud",
-        "Consumer Protection",
-        "Lemon Law"
+        "Lemon Law",
+        "Consumer Protection"
       ],
       "additional_locations": []
     },
@@ -31741,7 +33063,14 @@
         "Jerome R. Bowen",
         "Aneta Mackovski"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Military Divorce",
+        "Child Support",
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Car Accidents"
+      ],
       "additional_locations": []
     },
     {
@@ -31788,7 +33117,9 @@
         "Corey J. Schmutz",
         "Jason C. Walker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -31829,7 +33160,9 @@
       "attorneys": [
         "Christy Brad Escobar"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -31871,7 +33204,11 @@
       "attorneys": [
         "Trevor James Hatfield Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Termination",
+        "Discrimination"
+      ],
       "additional_locations": []
     },
     {
@@ -31918,7 +33255,14 @@
         "Larson A. Welsh",
         "Martin L. Welsh"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Collections",
+        "Construction",
+        "Land Use and Zoning",
+        "Litigation and Appeals",
+        "Tax Increment Financing"
+      ],
       "additional_locations": []
     },
     {
@@ -31958,7 +33302,9 @@
         "Ramzy Ladah",
         "Dina Romaya-Ladah Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -31997,7 +33343,9 @@
         "Jeremy R. Beasley",
         "Donn Prokopius"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -32039,7 +33387,9 @@
         "Leland K. Faux",
         "Willi H. Siepmann"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Construction"
+      ],
       "additional_locations": []
     },
     {
@@ -32079,7 +33429,9 @@
         "Jeremy Wood",
         "John Henry Wright Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     }
   ]

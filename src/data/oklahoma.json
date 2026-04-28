@@ -166,6 +166,11 @@
             "Pi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -275,6 +280,11 @@
             "Gamma Phi Beta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Medical Malpractice"
       ]
     },
     {
@@ -354,6 +364,10 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -454,6 +468,10 @@
             "Zeta Tau Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime"
       ]
     },
     {
@@ -565,6 +583,14 @@
             "Oklahoma Bar Association, 1998 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Bad Faith Insurance",
+        "Probate",
+        "Bankruptcy",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -638,7 +664,8 @@
             "Oklahoma, 1981"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "douglas-f-aldridge",
@@ -701,6 +728,13 @@
             "U.S. District Court Western District of Oklahoma, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate",
+        "Bankruptcy",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -797,7 +831,8 @@
             "Oklahoma Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "cindy-allen",
@@ -886,6 +921,11 @@
             "Oklahoma County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -1058,6 +1098,11 @@
             "Oklahoma Bar Association, Estate Planning, Probate and Trust Section (Past chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Elder Law",
+        "Probate"
       ]
     },
     {
@@ -1166,6 +1211,12 @@
             "Kappa Beta Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -1257,6 +1308,12 @@
             "U.S. Bankruptcy Court Western District of Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Insurance Defense",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -1384,6 +1441,10 @@
             "Alpha Gamma Rho"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Insurance Defense"
       ]
     },
     {
@@ -1488,7 +1549,8 @@
             "American Association of Professional Landmen"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "scott-t-banks",
@@ -1588,6 +1650,9 @@
             "Juvenile Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -1680,6 +1745,16 @@
             "U.S. District Court Western District of Oklahoma, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Personal Injury",
+        "Wrongful Death",
+        "Father's Rights",
+        "Child Support",
+        "Elder Law"
       ]
     },
     {
@@ -1775,6 +1850,10 @@
             "American Association for Justice, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -1915,6 +1994,12 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Natural Resources",
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -2017,6 +2102,11 @@
             "National Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Sexual Abuse",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -2105,7 +2195,8 @@
             "Phi Delta Phi Honor Society"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "eugene-bertman",
@@ -2231,6 +2322,17 @@
             "Osage Nation Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Gaming",
+        "Native Peoples",
+        "Education",
+        "Employment Rights",
+        "Criminal Defense",
+        "Election Campaign and Political Law",
+        "Estate Planning",
+        "Tax Law"
       ]
     },
     {
@@ -2325,7 +2427,8 @@
             "Oklahoma State University Alumni Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kelly-bishop",
@@ -2452,6 +2555,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -2579,6 +2687,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Environmental Law",
+        "Estate Planning"
       ]
     },
     {
@@ -2651,7 +2764,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "richard-j-borg",
@@ -2735,6 +2849,13 @@
             "U.S. District Court Northern District of Oklahoma, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Health Care Law"
       ]
     },
     {
@@ -2864,6 +2985,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Legal Malpractice",
+        "Personal Injury",
+        "Civil Rights",
+        "Environmental Law"
       ]
     },
     {
@@ -3073,6 +3201,14 @@
             "Alpha Tau Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Employment Law (Employer)",
+        "Transportation",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -3182,6 +3318,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption"
       ]
     },
     {
@@ -3303,6 +3445,12 @@
             "Oklahoma Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Medical Malpractice"
       ]
     },
     {
@@ -3406,6 +3554,9 @@
             "Phi Delta Phi Honor Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -3497,6 +3648,12 @@
             "Alpha Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Elder Law",
+        "Child Custody"
       ]
     },
     {
@@ -3578,6 +3735,11 @@
             "U.S. District Court Eastern District of Oklahoma, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Business and Commercial Law",
+        "Environmental Law"
       ]
     },
     {
@@ -3622,7 +3784,8 @@
           "type": "text",
           "content": "Raised in rural Dibble Oklahoma, Austin knew at an early age he wanted to be involved in law and politics. Austin attended Southwestern Oklahoma State University where he was a Cum Laude honors graduate, president of the criminal justice club, and scholar of the year in 2017 for both the Political and Social Science departments.\n\nFrom there he attended Oklahoma City School of Law, where he was awarded membership into the Board of Barristers for outstanding trial advocacy, and was also a contributing editor to the Oklahoma County Judges Bench Book.\n\nAustin began his professional career as a licensed legal intern in the Cleveland County District Attorney’s Office where he was assigned to a felony docket, assisted with misdemeanor as well as juvenile deprived cases. He then served District 6 in Grady and Caddo Counties as an Assistant District Attorney and handled a plethora of different cases including criminal and juvenile matters, tried multiple cases to a jury and received convictions. Including 3 counts of life in an aggravated child abuse case.\n\nAustin most recently worked as an Assistant Tribal Prosecutor for the Choctaw Nation of Oklahoma where he handled felony and juvenile deprived cases, led training for Lighthorse officers & observed numerous forensic interviews. Austin’s trial experience includes achieving a conviction in one of the first jury trials held by a sovereign native nation since the McGirt decision was made by the U.S. Supreme Court."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "courtney-bru",
@@ -3749,6 +3912,12 @@
             "U.S. Court of Appeals 10th Circuit, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Labor Law",
+        "Litigation and Appeals",
+        "Class Actions"
       ]
     },
     {
@@ -3840,6 +4009,11 @@
             "Phi Alpha Delta - OU Harlan Chapter, 2002 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Personal Injury"
       ]
     },
     {
@@ -3929,6 +4103,12 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Mergers and Acquisitions",
+        "Trademarks",
+        "Criminal Defense"
       ]
     },
     {
@@ -4024,6 +4204,12 @@
             "Pi Beta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Medical Malpractice",
+        "Employment Rights",
+        "Transportation"
       ]
     },
     {
@@ -4111,6 +4297,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -4262,6 +4452,13 @@
             "Johnson-Sontag Council Oak American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Real Estate",
+        "Employment Rights",
+        "Contracts"
       ]
     },
     {
@@ -4375,6 +4572,11 @@
             "Oklahoma County Bar Association Delegate to the American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Health Care Law",
+        "Aviation"
       ]
     },
     {
@@ -4471,6 +4673,12 @@
             "Southeastern Foundation, Board of Directors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Banking and Finance Law",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -4563,6 +4771,12 @@
             "Choctaw Indian Tribe"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Bad Faith Insurance",
+        "Insurance Law"
       ]
     },
     {
@@ -4695,6 +4909,17 @@
             "Oklahoma Supreme Court Committee for Civil Jury Instructions (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Wrongful Death",
+        "Native Peoples",
+        "Securities",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Nursing Home Abuse",
+        "Oil Gas and Energy",
+        "Class Actions"
       ]
     },
     {
@@ -4829,6 +5054,9 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -4944,6 +5172,11 @@
             "The Alumni Association of Phi Delta Phi (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Medical Malpractice"
       ]
     },
     {
@@ -4974,7 +5207,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "nick--callaway",
@@ -5071,7 +5305,8 @@
             "Phi Delta Phi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-e-campbell-jr",
@@ -5159,6 +5394,11 @@
             "Oklahoma, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Business Organizations"
       ]
     },
     {
@@ -5305,6 +5545,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -5400,7 +5645,8 @@
             "Oklahoma Cannabis Industry Association (2020-Present), President, Board of Directors"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "devon-cantrell",
@@ -5477,6 +5723,11 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -5604,6 +5855,15 @@
             "Oklahoma Association for Justice (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Aviation",
+        "Criminal Defense",
+        "Oil Gas and Energy",
+        "Environmental Law"
       ]
     },
     {
@@ -5689,7 +5949,8 @@
             "American Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lawrence-t-chambers-jr",
@@ -5789,6 +6050,13 @@
             "Tulsa United Way, 2003 - 2009 (Director)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Natural Resources",
+        "Oil Gas and Energy",
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -5889,6 +6157,9 @@
             "Oklahoma Criminal Defense Lawyer's Association, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -5991,6 +6262,10 @@
             "Oklahoma Bar Association, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -6064,6 +6339,10 @@
             "Attorney at Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -6156,6 +6435,9 @@
             "Delta Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6257,6 +6539,12 @@
             "OBA & TCBA Estate Planning, Probate & Trust Sections"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Estate Planning",
+        "Criminal Defense"
       ]
     },
     {
@@ -6349,6 +6637,10 @@
             "Tulsa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -6443,6 +6735,10 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -6511,6 +6807,13 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Sex Crime"
       ]
     },
     {
@@ -6614,7 +6917,8 @@
             "Golden Key Honor Society"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jeffrey-h-contreras",
@@ -6726,6 +7030,12 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -6846,6 +7156,12 @@
             "Tulsa County Bar Association, Corporate Counsel Section (Past Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Securities",
+        "Natural Resources",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -6949,6 +7265,10 @@
             "Robert J. Turner Inn of Court, 2006 - 2014 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -7048,6 +7368,9 @@
             "Cleveland County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -7115,6 +7438,12 @@
             "Oklahoma, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Construction"
       ]
     },
     {
@@ -7203,6 +7532,9 @@
             "Women In Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -7304,6 +7636,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -7409,6 +7748,13 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -7497,6 +7843,21 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Military Divorce",
+        "Elder Law",
+        "Father's Rights",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Wills",
+        "Probate",
+        "Trusts",
+        "Estate Planning"
       ]
     },
     {
@@ -7604,6 +7965,19 @@
             "Mediator with Tulsa County Early Settlement Mediation Program"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Father's Rights",
+        "Child Custody",
+        "Elder Law",
+        "Adoption",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death",
+        "Workers' Compensation"
       ]
     },
     {
@@ -7670,7 +8044,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "amy-e-davies",
@@ -7793,6 +8168,17 @@
             "Oklahoma County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Wrongful Death",
+        "Native Peoples",
+        "Securities",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Nursing Home Abuse",
+        "Oil Gas and Energy",
+        "Class Actions"
       ]
     },
     {
@@ -7889,6 +8275,10 @@
             "Trial Lawyer Association, 1977 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8012,6 +8402,11 @@
             "Alpha Tau Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Banking and Finance Law",
+        "Personal Injury"
       ]
     },
     {
@@ -8052,7 +8447,8 @@
           "type": "text",
           "content": "Jake Denne is a dedicated attorney who discovered his passion for law and justice at a young age while growing up in Tulsa, Oklahoma.\n\nIn 2018, he became a first-generation college graduate after earning his Bachelor’s Degree in Political Science from the University of Arkansas. He went on to earn his Juris Doctor from the University of Oklahoma College of Law in 2022. While attending OU Law, Jake developed strong foundations in legal theory and practice. Jake passed the Uniform Bar Exam shortly after earning his Juris Doctor, and is licensed to practice in every jurisdiction in Oklahoma.\n\nThroughout his academic career, Jake demonstrated a commitment to excellence and a passion for advocating for others. While attending the University of Arkansas, he was a member of the Associated Student Government and a recruitment chairman for the Sigma Phi Epsilon fraternity. He was also a member of the National Political Science Honor Society, and graduated with a 4.0 GPA in the field. From 2019 to 2022, Jake was the sole recipient of the prestigious Cherokee Nation Foundation Businesses Scholarship due to his advocacy for the needs of underprivileged Native American communities in Oklahoma. While attending the OU Law, Jake sat as a member of both the Federalist Society and Constitutional Society, and received specialized, hands-on training in developing the attorney-client relationship.\n\nJake’s legal career has given him a uniquely diverse set of skills. He began his professional work in the fields of Criminal and Family law, which gave him the opportunity to help those in his community when they were at their most vulnerable. He then practiced Civil Defense—specializing in the complex field of Civil Rights—which gave him the opportunity to develop professional discipline and a strong work ethic. Now, he proudly has the privilege to represent individuals across Oklahoma who have been treated unjustly. With a strong ethical foundation and a commitment to ongoing professional growth, Jake is poised to continue developing as a trusted advocate for his clients."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gregory-james-denney",
@@ -8232,6 +8628,9 @@
             "American Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -8330,6 +8729,10 @@
             "Fallin Commission on Workers' Compensation Reform (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8423,6 +8826,9 @@
             "The Oklahoma Academy for State Goals, Board of Directors, Executive Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -8558,6 +8964,13 @@
             "Oklahoma County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Birth Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -8660,6 +9073,11 @@
             "Phi Alpha Delta, Member, 2021 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Immigration"
       ]
     },
     {
@@ -8775,6 +9193,21 @@
             "Pottawatomie County Bar Association, 2013 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Adoption",
+        "Probate",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Real Estate",
+        "Contracts",
+        "Personal Injury",
+        "Car Accidents",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8919,6 +9352,10 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Employment Rights"
       ]
     },
     {
@@ -9006,6 +9443,9 @@
             "Oklahoma Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9110,6 +9550,11 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Whistleblower and Qui Tam",
+        "Bankruptcy"
       ]
     },
     {
@@ -9257,6 +9702,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Tax Law"
       ]
     },
     {
@@ -9397,6 +9848,11 @@
             "Zeta Tau Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Trusts",
+        "Estate Planning"
       ]
     },
     {
@@ -9457,6 +9913,9 @@
             "Staff Attorney for Judge Gary L. Lumpkin – Oklahoma Court of Criminal Appeals"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9581,6 +10040,9 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Eminent Domain"
       ]
     },
     {
@@ -9670,6 +10132,9 @@
             "U.S. District Court Eastern District of Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -9760,6 +10225,9 @@
             "Osage Nation Tribal Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9835,6 +10303,9 @@
             "Family Law Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9924,6 +10395,9 @@
             "McClain County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -10019,6 +10493,13 @@
             "Oklahoma Legal Aid Clinic"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Adoption",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -10118,6 +10599,9 @@
             "Oklahoma Bar Association, 2011 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -10221,6 +10705,10 @@
             "Mineral Lawyers Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -10290,6 +10778,10 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -10370,6 +10862,10 @@
             "U.S. District Court Western District of Oklahoma, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Probate"
       ]
     },
     {
@@ -10470,6 +10966,14 @@
             "Oklahoma Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Auto Dealer Fraud",
+        "Bad Faith Insurance",
+        "Consumer Protection",
+        "Debtor and Creditor",
+        "Lemon Law",
+        "Insurance Law"
       ]
     },
     {
@@ -10623,6 +11127,10 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Business Organizations"
       ]
     },
     {
@@ -10758,6 +11266,10 @@
             "American Institute of Certified Public Accountants (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Administrative Law"
       ]
     },
     {
@@ -10850,6 +11362,11 @@
             "Lawyers for Working Oklahomans, 1997 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Criminal Defense"
       ]
     },
     {
@@ -10946,6 +11463,15 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Cannabis Law",
+        "Health Care Law",
+        "Probate",
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Native Peoples"
       ]
     },
     {
@@ -11036,6 +11562,15 @@
             "State Bar of Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Cannabis Law",
+        "Health Care Law",
+        "Probate",
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Native Peoples"
       ]
     },
     {
@@ -11074,7 +11609,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "mike-d-gray",
@@ -11175,6 +11711,13 @@
             "Oklahoma Bar Association, 1985 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Premises Liability",
+        "Employment Rights",
+        "Discrimination",
+        "Construction"
       ]
     },
     {
@@ -11269,6 +11812,12 @@
             "Defense Research Institute, 2004 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -11400,6 +11949,11 @@
             "McClain County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Domestic Violence"
       ]
     },
     {
@@ -11487,7 +12041,8 @@
             "Command Paralegal Manager (Andrews AFB and Langley AFB)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chris-hammons",
@@ -11577,6 +12132,13 @@
             "Oklahoma Bar Association, 2004 - 2009 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Criminal Defense"
       ]
     },
     {
@@ -11694,6 +12256,14 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Bankruptcy",
+        "Oil Gas and Energy",
+        "Gaming",
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -11752,7 +12322,8 @@
             "Oklahoma, 1963"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-harris",
@@ -11841,6 +12412,9 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -11934,6 +12508,13 @@
             "U.S. District Court Southern District of Texas, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Oil Gas and Energy",
+        "Debtor and Creditor",
+        "Bankruptcy",
+        "Contracts"
       ]
     },
     {
@@ -12032,6 +12613,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -12113,6 +12698,9 @@
             "Oklahoma Bar Association, 1978 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12203,6 +12791,9 @@
             "Oklahoma Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12317,6 +12908,10 @@
             "Oklahoma Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law"
       ]
     },
     {
@@ -12364,7 +12959,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "blake-a-hayes",
@@ -12460,6 +13056,16 @@
             "Oklahoma Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Oil Gas and Energy",
+        "Real Estate",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption"
       ]
     },
     {
@@ -12576,6 +13182,11 @@
             "Oklahoma Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -12659,6 +13270,9 @@
             "Oklahoma Bar Association (District 1 Director for Young Lawyers Division)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -12804,6 +13418,9 @@
             "Robert J. Turner American Inn of Court, 1999 - 2001 (Master)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -12917,6 +13534,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -13030,6 +13652,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -13098,6 +13725,14 @@
             "Oklahoma, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Personal Injury"
       ]
     },
     {
@@ -13185,6 +13820,9 @@
             "Bankruptcy Section, Oklahoma Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -13271,6 +13909,11 @@
             "U.S. District Court Western District of Oklahoma, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Natural Resources",
+        "Environmental Law"
       ]
     },
     {
@@ -13418,6 +14061,11 @@
             "Tau Kappa Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "Contracts",
+        "Railroad Worker Injury and FELA"
       ]
     },
     {
@@ -13497,6 +14145,9 @@
             "Oklahoma, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13581,6 +14232,10 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -13670,6 +14325,10 @@
             "Oklahoma, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -13761,6 +14420,11 @@
             "Oklahoma, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Adoption"
       ]
     },
     {
@@ -13853,6 +14517,9 @@
             "Oklahoma Mineral Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -13944,6 +14611,9 @@
             "Robert J. Turner American Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14014,7 +14684,8 @@
             "Black Law Student Association Executive Board, 2019 - 2021"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sidney-jones-esq",
@@ -14106,6 +14777,10 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -14211,6 +14886,13 @@
             "Ignite OKC, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Criminal Defense",
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -14304,6 +14986,15 @@
             "State Bar of Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Cannabis Law",
+        "Health Care Law",
+        "Probate",
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Native Peoples"
       ]
     },
     {
@@ -14367,7 +15058,8 @@
             "Arizona, 1988"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kaia-kennedy",
@@ -14456,6 +15148,9 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -14541,6 +15236,11 @@
             "United States Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -14638,6 +15338,10 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Law (Employer)",
+        "Real Estate"
       ]
     },
     {
@@ -14749,6 +15453,14 @@
             "Phi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Estate Planning",
+        "ADR Arbitration and Mediation",
+        "Probate",
+        "Adoption",
+        "Trusts"
       ]
     },
     {
@@ -14861,6 +15573,15 @@
             "United States District Court for the Western District of Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Estate Planning",
+        "Family Law",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -14955,6 +15676,10 @@
             "U.S. District Court Northern District of Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -15091,6 +15816,12 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Assault and Battery (Plaintiff)",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -15194,6 +15925,14 @@
             "Oklahoma Association of Collaborative Attorney's"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Family Law",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -15337,6 +16076,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -15472,6 +16215,13 @@
             "Tulsa County Bar Association, 2007 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Social Security Disability",
+        "Trusts",
+        "Employment Rights"
       ]
     },
     {
@@ -15568,6 +16318,11 @@
             "Million Dollar Advocates Forum (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -15655,7 +16410,8 @@
             "U.S. Supreme Court Bar"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "alex-lane",
@@ -15767,6 +16523,10 @@
             "Sigma Alpha Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -15874,6 +16634,9 @@
             "Lambda Chi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -15976,6 +16739,12 @@
             "Tulsa County Bar Association (Workers’ Compensation Section & Lawyer’s Referral Panel, Family Law Section)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -16071,6 +16840,9 @@
             "U.S. Bankruptcy Court Eastern District of New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -16192,6 +16964,11 @@
             "Phi Delta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -16272,6 +17049,9 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -16367,7 +17147,8 @@
             "Delta Delta Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "randy-j-long",
@@ -16476,6 +17257,12 @@
             "Garfield County Bar, 1982 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate",
+        "Estate Planning",
+        "Criminal Defense"
       ]
     },
     {
@@ -16592,6 +17379,11 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -16653,7 +17445,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "haidee-macedo",
@@ -16733,6 +17526,9 @@
             "Texas, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -16815,6 +17611,10 @@
             "U.S. District Court Western District of Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -16909,6 +17709,12 @@
             "Cleveland County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Education",
+        "Employment Rights"
       ]
     },
     {
@@ -17006,6 +17812,10 @@
             "Oklahoma County Bar Association, 2007 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Contracts"
       ]
     },
     {
@@ -17185,6 +17995,14 @@
             "Litigation Counsel of America, Fellow in Trial Lawyer Honorary Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Business Organizations",
+        "ADR Arbitration and Mediation",
+        "Contracts",
+        "Mergers and Acquisitions",
+        "Class Actions"
       ]
     },
     {
@@ -17283,6 +18101,13 @@
             "Bryan County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Bad Faith Insurance",
+        "Insurance Law"
       ]
     },
     {
@@ -17360,7 +18185,8 @@
             "Oklahoma Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "melissa--p-martin",
@@ -17452,7 +18278,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ariel--mathis",
@@ -17544,6 +18371,10 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Trusts"
       ]
     },
     {
@@ -17610,7 +18441,8 @@
             "Oklahoma, 1989"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "katherine-r-mazaheri",
@@ -17743,6 +18575,15 @@
             "Board of Trustees for Youth Services for Oklahoma County"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights",
+        "Divorce and Separation",
+        "Sexual Harassment",
+        "Discrimination",
+        "Wage and Hour",
+        "Real Estate"
       ]
     },
     {
@@ -17884,6 +18725,11 @@
             "Kappa Alpha Order"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -17993,6 +18839,9 @@
             "​Alternative Dispute Resolution Section Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -18132,6 +18981,10 @@
             "U.S. District Court Western District of Oklahoma, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -18224,6 +19077,9 @@
             "U.S. District Court-Western District of Oklahoma, 2013 - Present (Admitted)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -18340,6 +19196,9 @@
             "Oklahoma County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -18453,6 +19312,10 @@
             "Commercial Law League of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -18562,6 +19425,10 @@
             "North Carolina Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -18647,6 +19514,9 @@
             "Oklahoma, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -18740,6 +19610,11 @@
             "U.S. Court of Appeals Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Trademarks",
+        "Copyrights"
       ]
     },
     {
@@ -18829,6 +19704,9 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -18924,6 +19802,16 @@
             "Defense Research Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Collections",
+        "Construction",
+        "Insurance Defense",
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -19014,6 +19902,15 @@
             "East Texas Food Bank, Nutrition Education Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Custody",
+        "Child Support",
+        "Elder Law",
+        "Adoption"
       ]
     },
     {
@@ -19097,6 +19994,12 @@
             "U.S. District Court Western District of Oklahoma, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Workers' Compensation",
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -19199,6 +20102,10 @@
             "Tennessee Bar Association, 2021 to 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Real Estate"
       ]
     },
     {
@@ -19290,6 +20197,11 @@
             "Durant Education and Service Sorority (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Estate Planning",
+        "Family Law"
       ]
     },
     {
@@ -19413,6 +20325,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Probate"
       ]
     },
     {
@@ -19451,7 +20367,10 @@
       "practice_areas": [
         "Real Estate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "2027590_1",
@@ -19489,7 +20408,8 @@
       "practice_areas": [
         "Commercial Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3969328_1",
@@ -19527,7 +20447,10 @@
       "practice_areas": [
         "Banking"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Banking and Finance Law"
+      ]
     },
     {
       "slug": "3531331_1",
@@ -19563,7 +20486,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4467669_1",
@@ -19601,7 +20525,8 @@
       "practice_areas": [
         "Business Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4706563_1",
@@ -19637,7 +20562,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1416267_1",
@@ -19675,7 +20601,10 @@
       "practice_areas": [
         "Mediation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
+      ]
     },
     {
       "slug": "2877411_1",
@@ -19714,7 +20643,10 @@
       "practice_areas": [
         "Banking & Finance Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Banking and Finance Law"
+      ]
     },
     {
       "slug": "5127226_1",
@@ -19751,7 +20683,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3723683_1",
@@ -19790,7 +20723,10 @@
       "practice_areas": [
         "Plaintiffs' Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "4967429_1",
@@ -19827,7 +20763,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1184129_1",
@@ -19867,7 +20804,10 @@
       "practice_areas": [
         "Nursing Home Negligence"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Nursing Home Abuse"
+      ]
     },
     {
       "slug": "5037689_1",
@@ -19906,7 +20846,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5135848_1",
@@ -19947,7 +20890,10 @@
       "practice_areas": [
         "Birth Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Birth Injury"
+      ]
     },
     {
       "slug": "3422481_1",
@@ -19988,7 +20934,10 @@
       "practice_areas": [
         "Personal Injury Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "5000620_1",
@@ -20029,7 +20978,10 @@
       "practice_areas": [
         "Medical Malpractice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "4751400_1",
@@ -20070,7 +21022,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "4734818_1",
@@ -20105,7 +21060,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5054318_1",
@@ -20140,7 +21096,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3619839_1",
@@ -20177,7 +21134,8 @@
       "practice_areas": [
         "Mineral Title Examination"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3416686_1",
@@ -20214,7 +21172,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "4902370_1",
@@ -20249,7 +21210,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1408721_1",
@@ -20287,7 +21249,10 @@
       "practice_areas": [
         "Estate and Charitable Tax Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law"
+      ]
     },
     {
       "slug": "4072104_1",
@@ -20324,7 +21289,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1563213_1",
@@ -20361,7 +21327,8 @@
       "practice_areas": [
         "All types of title opinions- lease acquisition opinions, drilling title opinions, division order title opinions, and surface opinions."
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2356954_1",
@@ -20398,7 +21365,10 @@
       "practice_areas": [
         "Creditor Representation including Foreclosure & Collection"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Foreclosure and Alternatives"
+      ]
     },
     {
       "slug": "3674839_1",
@@ -20435,7 +21405,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4986495_1",
@@ -20470,7 +21441,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1115795_1",
@@ -20505,7 +21477,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "4849509_1",
@@ -20540,7 +21515,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "4439411_1",
@@ -20575,7 +21553,8 @@
       "practice_areas": [
         "Legal Research and Writing in all areas of Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2067802_1",
@@ -20610,7 +21589,10 @@
       "practice_areas": [
         "Insurance Defense Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "1035849_1",
@@ -20645,7 +21627,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "4461399_1",
@@ -20682,7 +21667,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "3717983_1",
@@ -20719,7 +21707,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "3373143_1",
@@ -20756,7 +21747,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "4398177_1",
@@ -20793,7 +21787,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "4258494_1",
@@ -20829,7 +21826,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4411465_1",
@@ -20866,7 +21864,8 @@
       "practice_areas": [
         "Advertising Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5219490_1",
@@ -20903,7 +21902,8 @@
       "practice_areas": [
         "Business Transactions and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4254709_1",
@@ -20940,7 +21940,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "1092448_1",
@@ -20977,7 +21980,10 @@
       "practice_areas": [
         "Class Actions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions"
+      ]
     },
     {
       "slug": "1373914_1",
@@ -21014,7 +22020,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "4934559_1",
@@ -21051,7 +22060,8 @@
       "practice_areas": [
         "Employee Benefits and Executive Compensation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1902058_1",
@@ -21087,7 +22097,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4861510_1",
@@ -21123,7 +22134,10 @@
       "practice_areas": [
         "Civil Rights & Governmental Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Civil Rights"
+      ]
     },
     {
       "slug": "1720774_1",
@@ -21160,7 +22174,10 @@
       "practice_areas": [
         "Bad Faith Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ]
     },
     {
       "slug": "4356455_1",
@@ -21196,7 +22213,8 @@
       "practice_areas": [
         "Products Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4301257_1",
@@ -21233,7 +22251,8 @@
       "practice_areas": [
         "Auto Accidents"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5205243_1",
@@ -21270,7 +22289,8 @@
       "practice_areas": [
         "Insurance and Risk Management"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3918053_1",
@@ -21307,7 +22327,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5123630_1",
@@ -21344,7 +22365,10 @@
       "practice_areas": [
         "Energy and Environmental Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Environmental Law"
+      ]
     },
     {
       "slug": "3239070_1",
@@ -21380,7 +22404,10 @@
       "practice_areas": [
         "Workers Compensation Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Workers' Compensation"
+      ]
     },
     {
       "slug": "4248633_1",
@@ -21416,7 +22443,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "1514078_1",
@@ -21453,7 +22483,10 @@
       "practice_areas": [
         "Workers Compensation Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Workers' Compensation"
+      ]
     },
     {
       "slug": "ismail-calhoun",
@@ -21501,6 +22534,9 @@
             "Criminal Defense Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -21540,7 +22576,10 @@
       "practice_areas": [
         "Corporate / Securities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "4055868_1",
@@ -21579,7 +22618,10 @@
       "practice_areas": [
         "Corporate / Securities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "2212130_1",
@@ -21618,7 +22660,8 @@
       "practice_areas": [
         "Appellate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3331574_1",
@@ -21657,7 +22700,10 @@
       "practice_areas": [
         "Construction"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "2096025_1",
@@ -21696,7 +22742,10 @@
       "practice_areas": [
         "Energy / Natural Resources"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Natural Resources"
+      ]
     },
     {
       "slug": "1870629_1",
@@ -21736,7 +22785,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "3065987_1",
@@ -21775,7 +22827,8 @@
       "practice_areas": [
         "Business Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1936706_1",
@@ -21814,7 +22867,8 @@
       "practice_areas": [
         "Appellate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4582867_1",
@@ -21853,7 +22907,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "ismail-calhoun",
@@ -21901,6 +22958,9 @@
             "Criminal Defense Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -21942,7 +23002,10 @@
       "practice_areas": [
         "Personal Injury Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "sheila-j-naifeh",
@@ -22047,6 +23110,10 @@
             "Tulsa County Bar Association, 2018 - 2019 (CLE chairperson)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Ethics and Professional Responsibility",
+        "Criminal Defense"
       ]
     },
     {
@@ -22120,6 +23187,14 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Bankruptcy",
+        "Child Support",
+        "Criminal Defense",
+        "Child Custody",
+        "DUI and DWI"
       ]
     },
     {
@@ -22205,6 +23280,10 @@
             "Ruth Bader Ginsburg Inn of Court, Oklahoma Chapter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Civil Rights"
       ]
     },
     {
@@ -22283,6 +23362,12 @@
             "U.S. Court of Appeals 10th Circuit, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Probate",
+        "Adoption"
       ]
     },
     {
@@ -22382,6 +23467,10 @@
             "American Board of Trial Advocates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury"
       ]
     },
     {
@@ -22487,6 +23576,9 @@
             "Rocky Mountain Mineral Law Foundation, 2014 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -22587,6 +23679,20 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Child Support",
+        "Contracts",
+        "Divorce and Separation",
+        "Elder Law",
+        "Family Law",
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Probate",
+        "Social Security Disability",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -22670,7 +23776,8 @@
             "Cheyenne Sioux Tribal Court, 2023"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "donald-b-nevard",
@@ -22790,6 +23897,13 @@
             "Phi Epsilon Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Contracts",
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -22900,6 +24014,12 @@
             "Oklahoma Trial Lawyers, 2014 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Landlord and Tenant",
+        "Probate",
+        "Bankruptcy",
+        "Personal Injury"
       ]
     },
     {
@@ -23008,6 +24128,11 @@
             "Supreme Court for the Chickasaw Nation (Member )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -23173,6 +24298,13 @@
             "American Association for Justice, Birth Injury Litigation Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Personal Injury",
+        "Birth Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -23248,7 +24380,8 @@
             "U.S. Court of Appeals 10th Circuit, 1989"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "samantha--oard",
@@ -23343,6 +24476,9 @@
             "Phi Mu Fraternity (Epsilon Nu Chapter)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -23470,6 +24606,14 @@
             "Oklahoma Disability Law Center-Advisory Council, 2018-2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Bad Faith Insurance",
+        "Construction",
+        "Transportation",
+        "Personal Injury",
+        "Civil Rights"
       ]
     },
     {
@@ -23590,6 +24734,11 @@
             "Thomas Trails Homeowners Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Trademarks",
+        "Copyrights"
       ]
     },
     {
@@ -23696,6 +24845,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -23779,7 +24932,8 @@
             "California, 2023"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "douglas-l-parr",
@@ -23854,6 +25008,10 @@
             "Oklahoma, 1979"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Constitutional Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -23951,6 +25109,9 @@
             "Oklahoma Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -24048,6 +25209,13 @@
             "Oklahoma Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Eminent Domain",
+        "Construction",
+        "Land Use and Zoning",
+        "Aviation",
+        "Business Organizations"
       ]
     },
     {
@@ -24182,6 +25350,22 @@
             "Appalachian Trail Conference (Life Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody",
+        "Adoption",
+        "Father's Rights",
+        "Military Divorce",
+        "Estate Planning",
+        "Patents",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation",
+        "Collaborative Law",
+        "Collections",
+        "Criminal Defense"
       ]
     },
     {
@@ -24274,6 +25458,9 @@
             "Oklahoma, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -24354,7 +25541,8 @@
             "Oklahoma County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "scott--david-porter",
@@ -24409,6 +25597,14 @@
             "Attorney, since October 5, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Car Accidents",
+        "Brain Injury",
+        "Birth Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -24503,6 +25699,10 @@
             "The Choctaw Nation of Oklahoma, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -24593,6 +25793,11 @@
             "U.S. District Court Western District of Oklahoma (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Social Security",
+        "Securities"
       ]
     },
     {
@@ -24714,6 +25919,12 @@
             "Fannie Mae Advisory Board"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -24783,6 +25994,9 @@
             "Mayes County Bar Association, President, 1987 - 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -24883,6 +26097,17 @@
             "Beta Sigma Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Elder Law",
+        "Probate",
+        "Wills",
+        "Estate Planning"
       ]
     },
     {
@@ -24977,6 +26202,13 @@
             "Oklahoma Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Real Estate",
+        "Contracts",
+        "Personal Injury"
       ]
     },
     {
@@ -25091,6 +26323,17 @@
             "Oklahoma Association for Justice, CLE Committee, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Wrongful Death",
+        "Native Peoples",
+        "Securities",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Nursing Home Abuse",
+        "Oil Gas and Energy",
+        "Class Actions"
       ]
     },
     {
@@ -25258,6 +26501,24 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Assault and Battery (Plaintiff)",
+        "Contracts",
+        "ERISA",
+        "Employment Rights",
+        "Housing and Construction Defects",
+        "Motor Vehicle Defects",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Sexual Harassment",
+        "Premises Liability",
+        "State Local and Municipal Law",
+        "Wage and Hour",
+        "Whistleblower and Qui Tam",
+        "Wrongful Death",
+        "Wrongful Termination"
       ]
     },
     {
@@ -25466,6 +26727,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Eminent Domain",
+        "Construction",
+        "Real Estate",
+        "Probate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -25549,6 +26817,9 @@
             "Oklahoma County District Attorney's Office, Intern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -25665,6 +26936,12 @@
             "Cherokee Nation Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Divorce and Separation",
+        "Criminal Defense",
+        "Probate"
       ]
     },
     {
@@ -25750,6 +27027,9 @@
             "U.S. District Court Western District of Oklahoma, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -25858,6 +27138,10 @@
             "Mineral Lawyers Society of Oklahoma City in Oklahoma City, Oklahoma (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -26033,6 +27317,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Contracts",
+        "Real Estate",
+        "Employment Rights",
+        "Government Agencies and Programs"
       ]
     },
     {
@@ -26131,6 +27422,14 @@
             "U.S. District Court Northern District of Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Estate Planning",
+        "Family Law",
+        "Divorce and Separation",
+        "Debtor and Creditor",
+        "Bankruptcy"
       ]
     },
     {
@@ -26201,6 +27500,9 @@
             "Oklahoma Association of Defense Counsel (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -26262,7 +27564,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "patricia-sawyer",
@@ -26375,6 +27678,13 @@
             "Choctaw Nation Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Native Peoples",
+        "Employment Rights",
+        "Health Care Law",
+        "Bad Faith Insurance",
+        "Gaming"
       ]
     },
     {
@@ -26446,6 +27756,9 @@
             "Oklahoma, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -26593,6 +27906,12 @@
             "Varsity Club/Phillips University"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Environmental Law",
+        "Business and Commercial Law",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -26686,6 +28005,10 @@
             "Phi Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Estate Planning"
       ]
     },
     {
@@ -26782,6 +28105,10 @@
             "Lambda Chi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning"
       ]
     },
     {
@@ -26880,6 +28207,17 @@
             "Washington, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Wills",
+        "Adoption",
+        "Estate Planning",
+        "Criminal Defense",
+        "Personal Injury",
+        "Collections",
+        "Bankruptcy",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -27046,6 +28384,9 @@
             "Kappa Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -27161,6 +28502,14 @@
             "Zeta Beta Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Collections",
+        "Contracts",
+        "Debtor and Creditor",
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -27267,6 +28616,9 @@
             "Defense Research Institute, January 17, 2007 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -27357,7 +28709,8 @@
             "Leader: Membership and New Attorney Orientation Committees"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "adam-j-singer",
@@ -27446,6 +28799,13 @@
             "U.S. District Court Northern District of Oklahoma, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Administrative Law",
+        "Employment Rights",
+        "Housing and Construction Defects",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -27550,6 +28910,11 @@
             "Oklahoma Bar Association Family Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Father's Rights"
       ]
     },
     {
@@ -27654,6 +29019,9 @@
             "Tulsa County Bar Association, Court Operations Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -27748,6 +29116,9 @@
             "Oklahoma Criminal Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -27843,6 +29214,11 @@
             "U.S. District Court Western District of Oklahoma, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -27955,6 +29331,12 @@
             "Cleveland County Bar Association, October 1, 1990 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -28079,6 +29461,15 @@
             "Christian Legal Society, 2023 - 2025 (Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Estate Planning",
+        "Probate",
+        "Bankruptcy",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -28178,6 +29569,11 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Family Law"
       ]
     },
     {
@@ -28225,7 +29621,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stacey-steiner",
@@ -28309,7 +29706,8 @@
             "Ruth Bader Ginsburg Inn of Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "steve-stice",
@@ -28419,6 +29817,12 @@
             "Choctaw Nation Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Education",
+        "Employment Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -28486,7 +29890,8 @@
             "U.S. Federal Courts, 1957"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jack-stipe-esq",
@@ -28580,6 +29985,9 @@
             "Oklahoma Association for Justice, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -28668,6 +30076,13 @@
             "U.S. District Court Northern District of Illinois"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -28742,6 +30157,9 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -28840,6 +30258,17 @@
             "Cleveland County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Wrongful Death",
+        "Native Peoples",
+        "Securities",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Nursing Home Abuse",
+        "Oil Gas and Energy",
+        "Class Actions"
       ]
     },
     {
@@ -28939,6 +30368,12 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Contracts",
+        "Real Estate",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -29036,6 +30471,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Oil Gas and Energy",
+        "Environmental Law"
       ]
     },
     {
@@ -29136,6 +30577,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Banking and Finance Law",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -29233,6 +30680,9 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -29335,6 +30785,10 @@
             "Cleveland County Bar Association, 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -29503,6 +30957,15 @@
             "Alpha Tau Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Probate",
+        "Estate Planning",
+        "Family Law",
+        "Employment Rights",
+        "Constitutional Law",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -29610,6 +31073,12 @@
             "Chickasaw Nation Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Education",
+        "Employment Rights"
       ]
     },
     {
@@ -29694,6 +31163,12 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Labor Law"
       ]
     },
     {
@@ -29784,6 +31259,10 @@
             "National Employment Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Probate"
       ]
     },
     {
@@ -29881,6 +31360,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption"
       ]
     },
     {
@@ -29966,6 +31451,11 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -30016,6 +31506,9 @@
             "Oklahoma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -30109,6 +31602,9 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -30206,7 +31702,8 @@
             "Inns of Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "j-eric-turner",
@@ -30334,6 +31831,10 @@
             "OAEC Attorneys Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Contracts"
       ]
     },
     {
@@ -30433,6 +31934,9 @@
             "Cleveland County Bar Association, Young Lawyers Division (Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -30510,6 +32014,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -30586,6 +32095,10 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -30676,6 +32189,9 @@
             "U.S. District Court Western District of Oklahoma, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -30727,7 +32243,8 @@
             "Shareholder"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-wade",
@@ -30842,6 +32359,11 @@
             "American Association for Justice, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -30872,7 +32394,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jay-b-watkins",
@@ -30964,6 +32487,10 @@
             "Phi Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -31039,6 +32566,10 @@
             "America Board of Trial Advocates (ABOTA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -31123,6 +32654,13 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Adoption",
+        "Family Law",
+        "Father's Rights",
+        "Elder Law"
       ]
     },
     {
@@ -31225,6 +32763,10 @@
             "Outstanding Lawyer of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -31319,6 +32861,10 @@
             "Oklahoma Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -31411,6 +32957,13 @@
             "Tulsa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Insurance Defense",
+        "Bad Faith Insurance",
+        "Employment Rights",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -31491,6 +33044,9 @@
             "Chi Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -31552,7 +33108,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "reggie-whitten",
@@ -31683,6 +33240,17 @@
             "American College of Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Wrongful Death",
+        "Native Peoples",
+        "Securities",
+        "Personal Injury",
+        "Whistleblower and Qui Tam",
+        "Nursing Home Abuse",
+        "Oil Gas and Energy",
+        "Class Actions"
       ]
     },
     {
@@ -31778,6 +33346,10 @@
             "Oklahoma County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -31867,6 +33439,15 @@
             "Sigma Tau Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Insurance Defense",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -31960,6 +33541,9 @@
             "City of Tulsa Sales Tax Oversight Committee , 2014 - 2018 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -32065,6 +33649,11 @@
             "Alpha Omicron Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -32107,7 +33696,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "randall-j-wood",
@@ -32241,6 +33831,19 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Banking and Finance Law",
+        "Civil Rights",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Employment Rights",
+        "Environmental Law",
+        "Gaming",
+        "Medical Malpractice",
+        "Transportation",
+        "Workers' Compensation"
       ]
     },
     {
@@ -32349,6 +33952,10 @@
             "OKC Ignite (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     }
   ],
@@ -32397,9 +34004,7 @@
         "Harrison J. DuPont"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals"
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -32466,20 +34071,17 @@
         "Matthew Fornof"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Child Custody",
-        "Child Support",
-        "Criminal Defense",
-        "Divorce and Separation",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Oil Gas and Energy",
-        "Probate",
-        "Real Estate",
+        "Divorce and Separation",
+        "Child Support",
+        "Estate Planning",
         "Trusts",
-        "Wills"
+        "Wills",
+        "Oil Gas and Energy",
+        "Real Estate",
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Criminal Defense"
       ],
       "additional_locations": [
         {
@@ -32581,20 +34183,19 @@
         "Austin Browning"
       ],
       "official_practice_area": [
-        "Car Accidents",
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Truck Accident",
+        "Wrongful Death",
         "Child Custody",
         "Child Support",
-        "Criminal Defense",
         "DUI and DWI",
-        "Divorce and Separation",
         "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Personal Injury",
         "Sex Crime",
-        "Truck Accident",
-        "Wrongful Death"
+        "Federal and White Collar Crimes",
+        "Divorce and Separation",
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -32669,22 +34270,18 @@
         "Lauren A. Snapp"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "Contracts",
-        "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Drug Crime",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Oil Gas and Energy",
+        "Criminal Defense",
         "Personal Injury",
+        "Business and Commercial Law",
+        "Bankruptcy",
         "Real Estate",
-        "Sex Crime",
-        "Wills"
+        "Wills",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Oil Gas and Energy",
+        "Contracts"
       ],
       "additional_locations": []
     },
@@ -32734,15 +34331,9 @@
         "Stephen D. Beam"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
-        "Contracts",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Oil Gas and Energy",
         "Personal Injury",
-        "Real Estate"
+        "Oil Gas and Energy",
+        "Construction"
       ],
       "additional_locations": []
     },
@@ -32787,8 +34378,7 @@
         "Jack Stipe Esq."
       ],
       "official_practice_area": [
-        "Personal Injury",
-        "Truck Accident"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -32842,8 +34432,6 @@
         "Scott R. Verplank Jr."
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Oil Gas and Energy"
       ],
       "additional_locations": []
@@ -32902,18 +34490,16 @@
         "Jayna Cox"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Car Accidents",
-        "Child Custody",
         "Criminal Defense",
         "DUI and DWI",
-        "Divorce and Separation",
         "Domestic Violence",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Sex Crime",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption",
+        "Personal Injury",
+        "Car Accidents",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -33056,14 +34642,11 @@
         "Richard J Borg"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Elder Law",
         "Estate Planning",
-        "Health Care Law",
-        "Probate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Probate",
+        "Health Care Law"
       ],
       "additional_locations": []
     },
@@ -33161,9 +34744,7 @@
         "Robert J. Clougherty",
         "Mary Quinn Cooper"
       ],
-      "official_practice_area": [
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": [
         {
           "city": "Oklahoma City",
@@ -33265,11 +34846,9 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Mergers and Acquisitions",
-        "Trademarks"
+        "Trademarks",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -33360,8 +34939,7 @@
         "Jerrod S. Geiger"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": [
         {
@@ -33435,15 +35013,15 @@
         "Sajani “Ann” Zachariah"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Child Support",
         "Criminal Defense",
         "DUI and DWI",
-        "Divorce and Separation",
+        "Federal and White Collar Crimes",
         "Domestic Violence",
         "Family Law",
-        "Federal and White Collar Crimes"
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption"
       ],
       "additional_locations": [
         {
@@ -33502,9 +35080,8 @@
         "Drew Palmer"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Real Estate",
+        "Patents",
+        "Consumer Protection",
         "Science and Technology Law"
       ],
       "additional_locations": []
@@ -33556,14 +35133,12 @@
         "Avery Mitchen Morrison"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Bad Faith Insurance",
         "Business and Commercial Law",
-        "Criminal Defense",
-        "Estate Planning",
         "Family Law",
-        "Insurance Law",
-        "Personal Injury",
-        "Probate"
+        "Probate",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -33668,14 +35243,13 @@
         "Devon Cantrell"
       ],
       "official_practice_area": [
-        "Business Organizations",
         "Business and Commercial Law",
-        "Employment Rights",
-        "Estate Planning",
-        "Franchising",
-        "Mergers and Acquisitions",
         "Oil Gas and Energy",
-        "Probate"
+        "Probate",
+        "Estate Planning",
+        "Mergers and Acquisitions",
+        "Employment Rights",
+        "Franchising"
       ],
       "additional_locations": []
     },
@@ -33721,8 +35295,7 @@
         "Joe S. Carson"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury"
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -33770,8 +35343,7 @@
         "Deborah A Sterkel"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": []
     },
@@ -33815,10 +35387,8 @@
         "Ryan Childress"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -33904,7 +35474,6 @@
         "Mary J. Clement"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Probate"
       ],
       "additional_locations": []
@@ -33953,10 +35522,10 @@
         "John P. Seidenberger"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Probate",
-        "Trusts",
-        "Wills"
+        "Estate Planning",
+        "Wills",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -34005,14 +35574,11 @@
         "Dustin L. Compton"
       ],
       "official_practice_area": [
-        "Car Accidents",
+        "Personal Injury",
+        "Wrongful Death",
         "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Personal Injury",
-        "Sex Crime",
-        "Wrongful Death"
+        "Sex Crime"
       ],
       "additional_locations": [
         {
@@ -34085,16 +35651,13 @@
         "Stacey Steiner"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "DUI and DWI",
         "Estate Planning",
-        "Insurance Law",
+        "Administrative Law",
+        "DUI and DWI",
         "Personal Injury",
-        "Probate",
+        "Insurance Law",
         "Real Estate",
-        "State Local and Municipal Law",
+        "Bankruptcy",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -34143,10 +35706,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -34190,7 +35751,7 @@
         "Mr. Christian Cox"
       ],
       "official_practice_area": [
-        "Business and Commercial Law"
+        "Business Organizations"
       ],
       "additional_locations": []
     },
@@ -34243,16 +35804,14 @@
         "Gracelyn Porras Dillingham"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Child Support",
         "Divorce and Separation",
-        "Estate Planning",
-        "Family Law",
-        "Military",
+        "Adoption",
+        "Child Support",
+        "Child Custody",
         "Military Divorce",
-        "Probate",
-        "Same Sex"
+        "Family Law",
+        "Estate Planning",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -34308,17 +35867,14 @@
         "Ambre Weston"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Car Accidents",
-        "Child Custody",
         "Divorce and Separation",
-        "Elder Law",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Father's Rights",
+        "Elder Law",
         "Medical Malpractice",
+        "Adoption",
         "Personal Injury",
-        "Professional Malpractice"
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -34363,8 +35919,6 @@
         "Craig Dawkins"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Mergers and Acquisitions",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -34458,10 +36012,8 @@
         "Pepper DeVaughn"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Truck Accident"
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -34511,8 +36063,7 @@
         "Shea Bracken"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -34570,22 +36121,19 @@
         "Amanda C. Dockrey"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Car Accidents",
-        "Child Custody",
-        "Child Support",
-        "Contracts",
-        "Divorce and Separation",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
+        "Divorce and Separation",
+        "Child Support",
+        "Adoption",
         "Probate",
-        "Real Estate",
-        "Truck Accident",
+        "Estate Planning",
         "Trusts",
         "Wills",
+        "Real Estate",
+        "Contracts",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Car Accidents",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -34689,12 +36237,12 @@
         "Graham Fishburn"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
         "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "Sex Crime",
+        "Assault and Battery (Plaintiff)",
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": [
         {
@@ -34751,12 +36299,8 @@
         "Haidee Macedo"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -34852,15 +36396,12 @@
         "Kevin Brian Joyce"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Health Care Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Native Peoples",
-        "Personal Injury",
         "Probate",
-        "Real Estate"
+        "Business and Commercial Law",
+        "Real Estate",
+        "Native Peoples",
+        "Health Care Law",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -34945,25 +36486,17 @@
         "Clyde Stipe"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Brain Injury",
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Criminal Defense",
-        "Dangerous Products",
-        "Insurance Law",
-        "Nursing Home Abuse",
-        "Oil Gas and Energy",
         "Personal Injury",
-        "Real Estate",
-        "Social Security",
-        "Social Security Disability",
-        "Toxic Torts",
-        "Truck Accident",
+        "Brain Injury",
+        "Construction Accident",
+        "Wrongful Death",
+        "Birth Injury",
+        "Nursing Home Abuse",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Car Accidents",
+        "Bad Faith Insurance",
+        "Criminal Defense",
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -35187,12 +36720,7 @@
         "Lindsay Kistler"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
         "Employment Law (Employer)",
-        "Employment Rights",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate"
       ],
       "additional_locations": []
@@ -35291,17 +36819,10 @@
         "Tim D. Kuykendall"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
+        "Assault and Battery (Plaintiff)",
         "DUI and DWI",
-        "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Personal Injury",
-        "Real Estate",
-        "Sex Crime",
-        "Wrongful Death"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -35439,14 +36960,11 @@
         "Ray Lahann"
       ],
       "official_practice_area": [
-        "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Workers' Compensation",
         "Personal Injury",
-        "Social Security",
         "Social Security Disability",
-        "Trusts",
-        "Workers' Compensation"
+        "Employment Rights",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -35493,12 +37011,10 @@
         "Hans Otto Lehr"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Workers' Compensation",
         "Personal Injury",
-        "Workers' Compensation"
+        "ADR Arbitration and Mediation"
       ],
       "additional_locations": []
     },
@@ -35636,14 +37152,8 @@
         "Terry McBride"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Child Custody",
-        "Criminal Defense",
         "Divorce and Separation",
-        "Elder Law",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -35688,10 +37198,7 @@
         "Shelly McCorkle"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Traffic Ticket"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -35734,9 +37241,7 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Business Organizations"
       ],
       "additional_locations": []
     },
@@ -35782,12 +37287,10 @@
         "Julia L. Neftzger"
       ],
       "official_practice_area": [
-        "Civil Rights",
         "Estate Planning",
+        "Probate",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate"
+        "Civil Rights"
       ],
       "additional_locations": []
     },
@@ -35874,9 +37377,9 @@
         "L. Todd Nalagan"
       ],
       "official_practice_area": [
-        "Bankruptcy",
         "Criminal Defense",
-        "Family Law"
+        "Family Law",
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -35922,9 +37425,8 @@
       ],
       "official_practice_area": [
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -35980,25 +37482,19 @@
       ],
       "official_practice_area": [
         "Adoption",
-        "Car Accidents",
         "Child Support",
         "Contracts",
         "Debtor and Creditor",
         "Divorce and Separation",
         "Elder Law",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
         "Insurance Law",
         "Litigation and Appeals",
         "Nursing Home Abuse",
-        "Personal Injury",
         "Personal Injury Defense",
+        "Personal Injury",
         "Probate",
-        "Social Security",
-        "Social Security Disability",
-        "Trusts",
-        "Wills"
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -36043,11 +37539,8 @@
         "Douglas L. Parr"
       ],
       "official_practice_area": [
-        "Civil Rights",
         "Criminal Defense",
-        "Drug Crime",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Constitutional Law"
       ],
       "additional_locations": []
     },
@@ -36094,8 +37587,6 @@
         "Kate C. White"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
         "Wrongful Death"
       ],
@@ -36238,18 +37729,12 @@
         "Bryan A. Rock"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Child Custody",
+        "Eminent Domain",
+        "Probate",
         "Criminal Defense",
         "Divorce and Separation",
-        "Eminent Domain",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
-        "Real Estate",
-        "Trusts",
-        "Wills"
+        "Child Custody",
+        "Real Estate"
       ],
       "additional_locations": []
     },
@@ -36342,10 +37827,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
-        "Sex Crime",
-        "Traffic Ticket"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -36484,14 +37966,11 @@
       ],
       "official_practice_area": [
         "Adoption",
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Land Use and Zoning",
-        "Litigation and Appeals",
-        "Mergers and Acquisitions",
         "Probate",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Family Law",
+        "Mergers and Acquisitions",
         "Real Estate"
       ],
       "additional_locations": []
@@ -36539,10 +38018,11 @@
         "Jeffrey A Taylor"
       ],
       "official_practice_area": [
-        "Discrimination",
         "Employment Rights",
+        "Discrimination",
+        "Wrongful Termination",
         "Sexual Harassment",
-        "Wrongful Termination"
+        "Wage and Hour"
       ],
       "additional_locations": []
     },
@@ -36605,11 +38085,10 @@
       "official_practice_area": [
         "Criminal Defense",
         "Family Law",
-        "Immigration",
+        "Workers' Compensation",
         "Personal Injury",
-        "Social Security",
-        "Social Security Disability",
-        "Workers' Compensation"
+        "Immigration",
+        "Social Security Disability"
       ],
       "additional_locations": [
         {
@@ -36657,7 +38136,9 @@
         "James Travis Barnett",
         "Sean R. Hood"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -36699,7 +38180,9 @@
         "George H. Brown",
         "Tony Gould"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ],
       "additional_locations": []
     },
     {
@@ -36760,7 +38243,22 @@
         "Joshua A. Creekmore",
         "Patrick D. Sullivan"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Real Estate",
+        "Business Organizations",
+        "Banking and Finance Law",
+        "Personal Injury",
+        "Probate",
+        "Estate Planning",
+        "Oil Gas and Energy",
+        "Divorce and Separation",
+        "DUI and DWI",
+        "Environmental Law",
+        "Child Custody",
+        "Bad Faith Insurance"
+      ],
       "additional_locations": []
     },
     {
@@ -36811,7 +38309,9 @@
         "Matthew T. Crook",
         "Nathan S. Cross"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ],
       "additional_locations": []
     },
     {
@@ -36857,7 +38357,9 @@
         "Alan J. Oxford II",
         "Randall S. Pickard"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Banking and Finance Law"
+      ],
       "additional_locations": []
     },
     {
@@ -36903,7 +38405,12 @@
         "Hal WM. Ellis",
         "LeAnn Drummond Ellis"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Tax Law"
+      ],
       "additional_locations": []
     },
     {
@@ -36944,7 +38451,9 @@
       "attorneys": [
         "Richard M Glasgow"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Auto Dealer Fraud"
+      ],
       "additional_locations": []
     },
     {
@@ -36992,7 +38501,9 @@
         "Gary G. Prochaska",
         "Laura Sams"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -37034,7 +38545,9 @@
         "Juliana K. Reimer",
         "Heidi L. Shaddix"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Child Support"
+      ],
       "additional_locations": []
     },
     {
@@ -37120,7 +38633,9 @@
         "Christopher C. Lind",
         "Drew Nichols"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -37161,7 +38676,9 @@
         "Andrew J. Maloney",
         "Gil Pilkington"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -37204,7 +38721,9 @@
         "Kelly Ann Smakal",
         "Jill Walker-Abdoveis"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -37241,7 +38760,9 @@
       "attorneys": [
         "Corrinna Tate"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Contracts"
+      ],
       "additional_locations": []
     },
     {
@@ -37325,7 +38846,11 @@
       "attorneys": [
         "Richard Wilson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Oil Gas and Energy",
+        "Estate Planning"
+      ],
       "additional_locations": []
     }
   ]

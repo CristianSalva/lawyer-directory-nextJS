@@ -159,6 +159,9 @@
             "American Bar Association (Chair, Committee on Child Custody)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -279,6 +282,10 @@
             "Multnomah County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -378,6 +385,9 @@
             "Linn-Benton Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -543,6 +553,12 @@
             "Milne Construction Co., Board Member, 2012 - 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -615,7 +631,8 @@
             "Oregon, 1987"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-m-altschul",
@@ -728,6 +745,13 @@
             "U.S. District Court of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Labor Law",
+        "Sexual Harassment"
       ]
     },
     {
@@ -780,7 +804,8 @@
             "Washington, 1995"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kelly-l-andersen",
@@ -888,6 +913,17 @@
             "Oregon State Bar, Product Liability Section (Past Executive Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection",
+        "Sexual Harassment",
+        "Class Actions",
+        "Elder Law",
+        "Insurance Law",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Toxic Torts",
+        "Wrongful Death"
       ]
     },
     {
@@ -983,6 +1019,13 @@
             "Jackson County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Termination",
+        "Discrimination",
+        "Whistleblower and Qui Tam",
+        "Wage and Hour"
       ]
     },
     {
@@ -1076,6 +1119,11 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Discrimination",
+        "Personal Injury"
       ]
     },
     {
@@ -1156,6 +1204,10 @@
             "Oregon, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -1263,6 +1315,11 @@
             "Member, Missouri State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Elder Law"
       ]
     },
     {
@@ -1309,7 +1366,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "david-r-auxier",
@@ -1379,6 +1437,12 @@
             "Idaho, 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Real Estate",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -1432,7 +1496,8 @@
             "Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "aaron-w-baker",
@@ -1523,6 +1588,9 @@
             "Oregon Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -1654,6 +1722,13 @@
             "Oregon State Bar, 2006 - 2007 (Chair, Legal Ethics Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights",
+        "Cannabis Law",
+        "Sexual Harassment",
+        "Wage and Hour"
       ]
     },
     {
@@ -1749,6 +1824,11 @@
             "U.S. District Court Eastern District of California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Eminent Domain",
+        "Environmental Law",
+        "Employment Rights"
       ]
     },
     {
@@ -1850,6 +1930,15 @@
             "Oregon Trial Lawyers Association, New Lawyer Section, Co-chair"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Divorce and Separation",
+        "Child Support",
+        "Probate",
+        "ADR Arbitration and Mediation",
+        "Collaborative Law"
       ]
     },
     {
@@ -1925,7 +2014,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-r-barzda",
@@ -2020,6 +2110,13 @@
             "Washington County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military Divorce",
+        "Child Support",
+        "Divorce and Separation",
+        "Elder Law",
+        "Child Custody"
       ]
     },
     {
@@ -2103,6 +2200,11 @@
             "Oregon, 1972"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Birth Injury"
       ]
     },
     {
@@ -2210,6 +2312,9 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -2286,6 +2391,9 @@
             "Oregon Trial Lawyers Association (President Elect)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -2383,7 +2491,8 @@
             "Uniform Trial Court Rules Committee (Member, 2024)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "courtney-bellio",
@@ -2429,7 +2538,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "paul-ac-berg",
@@ -2550,6 +2660,11 @@
             "Oregon State Bar, - 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Environmental Law",
+        "Personal Injury"
       ]
     },
     {
@@ -2659,6 +2774,10 @@
             "Oregon Women Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Personal Injury"
       ]
     },
     {
@@ -2792,6 +2911,11 @@
             "Washington State Bar Association, 1989 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Real Estate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -2880,6 +3004,9 @@
             "Oregon Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -2963,6 +3090,9 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -3063,6 +3193,14 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Father's Rights"
       ]
     },
     {
@@ -3141,6 +3279,10 @@
             "Oregon, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -3287,6 +3429,11 @@
             "Portland Homebuilders Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Environmental Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3382,6 +3529,10 @@
             "Oregon State Bar - Family Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -3420,7 +3571,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-arthur-casper",
@@ -3526,6 +3678,9 @@
             "NACBA (Member )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -3636,6 +3791,13 @@
             "Pro-temp Judge, 2006 - 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Real Estate",
+        "Estate Planning",
+        "Administrative Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -3698,6 +3860,15 @@
             "Oregon, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Civil Rights",
+        "Constitutional Law",
+        "Military",
+        "Native Peoples",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -3759,6 +3930,9 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -3899,6 +4073,14 @@
             "Owen M. Panner Inn of Court, 1997 - 2010 (Barrister)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Bad Faith Insurance",
+        "Real Estate",
+        "Land Use and Zoning",
+        "Personal Injury",
+        "Construction"
       ]
     },
     {
@@ -3996,6 +4178,9 @@
             "Oregon, 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability"
       ]
     },
     {
@@ -4049,7 +4234,8 @@
             "Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-coleman",
@@ -4175,6 +4361,11 @@
             "Washington State Bar Assoc. , 1993 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -4287,6 +4478,12 @@
             "American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Bad Faith Insurance",
+        "Admiralty and Maritime",
+        "Railroad Worker Injury and FELA"
       ]
     },
     {
@@ -4340,7 +4537,8 @@
             "Oregon, 2025"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kim-covington",
@@ -4424,6 +4622,9 @@
             "Worked at ASOSU Student Legal Advising Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -4512,6 +4713,10 @@
             "Oregon, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Environmental Law"
       ]
     },
     {
@@ -4664,6 +4869,13 @@
             "Communication and Entertainment Law Journal (COMM-ENT), UC Hastings (Senior Managing Editor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Entertainment Sports and Leisure Law",
+        "Patents",
+        "Trademarks",
+        "Contracts",
+        "Antitrust"
       ]
     },
     {
@@ -4762,6 +4974,11 @@
             "Stanford Alumni Association, 2017 - 2021 (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -4839,6 +5056,9 @@
             "• Washington, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -4922,6 +5142,9 @@
             "Washington, 2000"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -5008,6 +5231,11 @@
             "U.S. District Court District of Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Civil Rights"
       ]
     },
     {
@@ -5097,6 +5325,10 @@
             "In addition to his trial practice, Jason has successfully mediated or arbitrated hundreds of other cases throughout the Pacific Northwest."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Personal Injury"
       ]
     },
     {
@@ -5244,7 +5476,8 @@
             "Delta Theta Phi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jack-g-dekovich",
@@ -5334,6 +5567,10 @@
             "Oregon Trial Lawyers Association, Family Law Section (Co-Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Education"
       ]
     },
     {
@@ -5454,6 +5691,12 @@
             "Member, Legislative Committee 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military Divorce",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody"
       ]
     },
     {
@@ -5539,6 +5782,11 @@
             "Oregon, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Discrimination",
+        "Personal Injury"
       ]
     },
     {
@@ -5625,6 +5873,10 @@
             "Washington, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -5726,6 +5978,11 @@
             "Former Board Member of the Human Services Counsel, 1998-2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody"
       ]
     },
     {
@@ -5811,6 +6068,9 @@
             "Trial Lawyer Magazine (published author)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5888,6 +6148,11 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Discrimination",
+        "Personal Injury"
       ]
     },
     {
@@ -5985,6 +6250,14 @@
             "Clackamas County Bar Association, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Nursing Home Abuse",
+        "Criminal Defense",
+        "Probate"
       ]
     },
     {
@@ -6081,7 +6354,8 @@
             "Member, OWLS"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "zoraida-diaz-espinoza",
@@ -6165,7 +6439,8 @@
             "Oregon, 2025"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brooke-l-ferris",
@@ -6250,6 +6525,10 @@
             "Oregon Women's Lawyers (OWLS), Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -6297,6 +6576,9 @@
           "type": "text",
           "content": "“Chance is the type of attorney who immediately rolls up his sleeves and gets his hands dirty”, notes Managing Attorney Colin Amos. “He is not afraid to take on the most complicated case and follow it through to conclusion. This is why he has had such success in child custody cases which are often the most contentious types of cases in family law.” Having litigated numerous Trials gives him a decisive advantage in both negotiations and trial if necessary. His clients appreciate his compassionate, direct and decisive advice when making tough decisions. “Once a decision has been made, his clients take comfort in knowing they have an attorney that will follow through.”\n\nChance gets that family law is about helping people when they need help. He further notes that “there is nothing more important than your children and their safety. “I have the ability to provide outstanding personal and professional support during this highly emotional process. I have the experience to take cases the distance to trial, but am progressive enough to take advantage of alternative dispute resolution methods such as Mediation.”"
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -6444,6 +6726,11 @@
             "Maude Kerns Art Center, 1989 - 1990 (Member, Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sex Crime",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence"
       ]
     },
     {
@@ -6576,6 +6863,12 @@
             "Multnomah Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -6647,6 +6940,9 @@
             "Deschutes County District Attorney, 2011 - 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6764,6 +7060,12 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Personal Injury",
+        "Employment Rights",
+        "Environmental Law"
       ]
     },
     {
@@ -6904,6 +7206,13 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody",
+        "Same Sex",
+        "Family Law"
       ]
     },
     {
@@ -6964,7 +7273,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nathan-m-ford",
@@ -7010,7 +7320,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sierra-a-fotos",
@@ -7104,6 +7415,11 @@
             "OGALLA (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Same Sex"
       ]
     },
     {
@@ -7193,6 +7509,10 @@
             "OWLS Advanced Sheet Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -7330,6 +7650,11 @@
             "Alpha Phi Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -7433,7 +7758,8 @@
             "Defense Research Institute (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "aaron-d-frishman",
@@ -7546,6 +7872,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -7621,7 +7950,8 @@
             "Oregon State Bar, Family Law Section"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "zachary-j-fruchtengarten",
@@ -7762,6 +8092,11 @@
             "Past Modest Means Program, Oregon State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Family Law"
       ]
     },
     {
@@ -7809,6 +8144,11 @@
             "Oregon, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Bankruptcy",
+        "Consumer Protection"
       ]
     },
     {
@@ -7945,6 +8285,18 @@
             "Washington County Bar Association (Member & Former Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Domestic Violence",
+        "Assault and Battery (Plaintiff)",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Family Law",
+        "Adoption",
+        "Personal Injury",
+        "Premises Liability",
+        "Father's Rights"
       ]
     },
     {
@@ -8055,6 +8407,12 @@
             "WealthCounsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -8169,6 +8527,10 @@
             "Oregon Academy of Family Law Practitioners, 2004 - 2008 (Vice President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -8265,7 +8627,8 @@
             "Oregon Trial Lawyers Association, Legislative Committee & Leadership Academy, 2015 - Present"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kevin-c-gage",
@@ -8416,6 +8779,10 @@
             "Marion County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -8499,6 +8866,12 @@
             "Laws Offices of Melinda M. Brown, Court Certified Law Clerk, 2015 - 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Land Use and Zoning",
+        "Business and Commercial Law",
+        "Family Law"
       ]
     },
     {
@@ -8546,6 +8919,9 @@
           "type": "text",
           "content": "“Divorce, custody and modification proceedings have far more to do with strategy than drafting or filing documents” states managing attorney Colin Amos. “Brad’s background as a former professional poker player gives him a decisive advantage in the practice of family law. Any attorney can prepare general documents but when your relationship with your children or financial future is on the line it is comforting to have a passionate strategist.”\n\n“You have to be willing to change gears in any case,” says Brad. “Each case requires a different approach, and during a case, as the case changes, so should your approach. I try to create game plans with clients that address their needs. There are certainly cases where the best results will come by being aggressive early, but there are other cases where finesse is a better route - the key is in knowing the difference.”\n\nBrad is experienced in all phases of litigation including Depositions, negotiation and Trial. Prior experience as a City Prosecutor has assisted Brad in an extensive understanding of FAPA cases."
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -8628,6 +9004,9 @@
             "Oregon, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -8721,6 +9100,12 @@
             "U.S. District Court Eastern District of Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Housing and Construction Defects",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -8815,6 +9200,11 @@
             "Oregon Women Lawyers, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Family Law"
       ]
     },
     {
@@ -8887,7 +9277,8 @@
             "U.S. District Court District of Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-c-grady",
@@ -8984,6 +9375,10 @@
             "Multnomah Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Personal Injury"
       ]
     },
     {
@@ -9104,6 +9499,12 @@
             "Lewis & Clark Law School Recent Grad Council, 2016 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Assault and Battery (Plaintiff)",
+        "Divorce and Separation"
       ]
     },
     {
@@ -9181,6 +9582,9 @@
             "Oregon, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -9291,6 +9695,9 @@
             "Association of Federal Defense Attorneys and Capital Defenders"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9380,6 +9787,11 @@
             "U.S. District Court Western District of Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Environmental Law",
+        "Real Estate"
       ]
     },
     {
@@ -9455,7 +9867,8 @@
             "U.S. District Court District of Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "julia-m-hagan",
@@ -9495,7 +9908,8 @@
           "type": "text",
           "content": "For Julia, children are the foundation, not just of the family structure, but of her approach to family law. Grounded in a positive family life, she knows the importance of stability and consistency for children. Julia's prior experience in juvenile court and in criminal cases gives her insight in approaching difficult family matters. She is creative in crafting solutions for families so they can move forward in a healthy way.\n\nAs a family law attorney, Julia is also committed to assisting families in restructuring their lives financially. Julia sees her relationship with clients as a partnership, one where she assists them in defining their goals and developing their options. She is tenacious in advocating for their interests and protecting clients financially.\n\nJulia loves living in the Pacific Northwest, hiking, and traveling with family."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shannon-l-hall",
@@ -9591,6 +10005,9 @@
             "Prior Chair, Family Law Section of the Lane County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -9674,6 +10091,9 @@
             "Multnomah Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -9753,6 +10173,11 @@
             "Oregon, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Disability Insurance",
+        "Probate"
       ]
     },
     {
@@ -9846,6 +10271,9 @@
             "U.S. District Court District of Oregon, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9968,6 +10396,36 @@
             "Phi Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Adoption",
+        "Bad Faith Insurance",
+        "Business and Commercial Law",
+        "Civil Rights",
+        "Constitutional Law",
+        "Debtor and Creditor",
+        "DUI and DWI",
+        "Elder Law",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Estate Planning",
+        "Legal Malpractice",
+        "Mergers and Acquisitions",
+        "Military",
+        "Native Peoples",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Professional Malpractice",
+        "Railroad Worker Injury and FELA",
+        "Real Estate",
+        "Trusts",
+        "Whistleblower and Qui Tam",
+        "Workers' Compensation",
+        "Bankruptcy",
+        "Child Support",
+        "Criminal Defense",
+        "Divorce and Separation"
       ]
     },
     {
@@ -10047,6 +10505,13 @@
             "Founder"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Real Estate",
+        "Child Custody",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -10161,6 +10626,24 @@
             "Oregon Women Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Nursing Home Abuse",
+        "Insurance Law",
+        "Probate",
+        "Premises Liability",
+        "Military",
+        "Real Estate"
       ]
     },
     {
@@ -10266,6 +10749,9 @@
             "2011 Oregon Child Support Guidelines Advisory Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -10375,6 +10861,9 @@
             "Oregon Women Lawyers Association, 2007 - 2012 (Past Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -10485,6 +10974,9 @@
             "Oregon State Bar Disciplinary Trial Panel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -10621,6 +11113,9 @@
             "American Association for Justice, member, 1995 - present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -10690,7 +11185,8 @@
             "Oregon, 1969"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chester-d-hill",
@@ -10826,7 +11322,8 @@
             "American Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "steven-l-hill",
@@ -10927,6 +11424,9 @@
             "6th Judicial Bar District Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -11017,6 +11517,13 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Real Estate",
+        "Housing and Construction Defects",
+        "Construction",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -11103,6 +11610,10 @@
             "Oregon Attorneys with Disabilities Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Civil Rights"
       ]
     },
     {
@@ -11171,7 +11682,8 @@
             "Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-j-howe-iii",
@@ -11253,6 +11765,9 @@
             "U.S. Supreme Court, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -11319,6 +11834,10 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -11420,6 +11939,10 @@
             "Oregon Association of Defense Counsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Real Estate"
       ]
     },
     {
@@ -11517,6 +12040,13 @@
             "Jackson County Circuit Court Judge Pro Tem 1998 to 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business Organizations",
+        "Estate Planning",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -11583,6 +12113,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -11703,6 +12236,9 @@
             "Kappa Kappa Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -11830,6 +12366,10 @@
             "Women Lawyer's Alliance"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -11964,6 +12504,11 @@
             "Best Lawyers in America, 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Medical Malpractice"
       ]
     },
     {
@@ -12049,6 +12594,13 @@
             "Oregon, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "Wills",
+        "Trusts"
       ]
     },
     {
@@ -12117,6 +12669,9 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12218,6 +12773,10 @@
             "Multnomah County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -12318,6 +12877,11 @@
             "Federal Court Certified"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Bankruptcy"
       ]
     },
     {
@@ -12378,6 +12942,9 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12481,6 +13048,11 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Estate Planning",
+        "Family Law"
       ]
     },
     {
@@ -12528,7 +13100,14 @@
         "Family Law",
         "Father's Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Family Law",
+        "Father's Rights"
+      ]
     },
     {
       "slug": "kelly-d-jones",
@@ -12614,6 +13193,10 @@
             "Oregon State Bar Consumer Law Section, Executive Committee (Past Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Bankruptcy"
       ]
     },
     {
@@ -12719,7 +13302,8 @@
             "Numerous Civic Organizations and Activities"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jared-justice",
@@ -12802,6 +13386,13 @@
             "Washtenaw County Public Defenders office, Extern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Sex Crime",
+        "Drug Crime",
+        "Domestic Violence"
       ]
     },
     {
@@ -12866,6 +13457,10 @@
             "Of Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -12956,6 +13551,9 @@
             "OTLA Medical Negligence Committee (Co-Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -13047,6 +13645,10 @@
             "Oregon Trial Lawyers Association, October 1, 2019 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Sexual Abuse"
       ]
     },
     {
@@ -13169,6 +13771,10 @@
             "Oregon Association of Defense Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Real Estate"
       ]
     },
     {
@@ -13258,6 +13864,12 @@
             "Idaho, 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -13347,6 +13959,9 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13429,6 +14044,9 @@
             "Oregon, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -13527,6 +14145,11 @@
             "Oregon Trial Lawyers Association (President-Elect)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Abuse",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -13601,6 +14224,9 @@
             "Oregon, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -13723,6 +14349,12 @@
             "Intertribal Court of Southern California Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "Constitutional Law",
+        "Employment Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -13824,6 +14456,12 @@
             "JR Campbell Inns of Court, 2013 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Brain Injury",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -13925,6 +14563,9 @@
             "Oregon Criminal Defense Lawyer's Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -14057,6 +14698,9 @@
             "American Institute of Certified Public Accountants"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -14143,7 +14787,8 @@
             "Tennessee, 1995"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sean-d-lanz",
@@ -14216,7 +14861,8 @@
             "U.S. District Court Western District of Washington"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "eric-c-larson",
@@ -14334,6 +14980,10 @@
             "Circuit Court Judge Pro Tempore - Domestic Relations cases"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -14458,6 +15108,9 @@
             "Court of Appeals Appellate Rules Committee, 2010 - 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -14572,7 +15225,8 @@
             "National Association of Criminal Defense Lawyers (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-c-lewton",
@@ -14688,6 +15342,11 @@
             "Oregon State Bar’s State Lawyer’s Assistance Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Environmental Law",
+        "Personal Injury"
       ]
     },
     {
@@ -14787,6 +15446,9 @@
             "Oregon Trial Lawyers Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -14881,6 +15543,13 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Employment Rights",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -15000,6 +15669,10 @@
             "Federal Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Civil Rights"
       ]
     },
     {
@@ -15091,7 +15764,8 @@
             "Oregon, 2006"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "daniel-j-lounsbury",
@@ -15220,6 +15894,13 @@
             "Oregon Trial Lawyers, 1995 - 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -15259,7 +15940,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "scott-c-lucas",
@@ -15378,6 +16060,9 @@
             "Member, American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -15416,7 +16101,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "james-a-markin-iv",
@@ -15469,7 +16155,8 @@
             "Oregon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-g-martin",
@@ -15509,7 +16196,12 @@
         "Probate and Estate Administration",
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "thomas-martin-jr-retired",
@@ -15607,6 +16299,12 @@
             "Washington, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Trusts",
+        "Nursing Home Abuse",
+        "Employment Rights"
       ]
     },
     {
@@ -15765,6 +16463,12 @@
             "Alpha Tau Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law",
+        "Debtor and Creditor",
+        "Civil Rights"
       ]
     },
     {
@@ -15876,6 +16580,9 @@
             "Washington County Bar Association, 1974 - Present (Member, Past Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -15915,7 +16622,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "robert-j-mcgaughey",
@@ -16073,7 +16781,8 @@
             "National Futures Association (Arbitrator/Mediator)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-mchenry",
@@ -16177,7 +16886,8 @@
             "OCDLA Education Committee (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-r-mcmillen",
@@ -16231,7 +16941,8 @@
             "Washington"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "albert-a-menashe",
@@ -16370,6 +17081,10 @@
             "Annual Facilitator at Willamette University College of Law Program on Professionalism (2001 - Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -16513,6 +17228,13 @@
             "Mid-size Firm Liaison, Campaign for Equal Justice, 2004 to 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Same Sex",
+        "Family Law",
+        "Father's Rights"
       ]
     },
     {
@@ -16581,6 +17303,11 @@
             "Oregon, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -16698,6 +17425,10 @@
             "Appointed by Senator Merkley to serve on the Federal Judicial Selection Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Civil Rights"
       ]
     },
     {
@@ -16790,6 +17521,9 @@
             "American College of Trial Lawyers, October 23, 2004 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -16870,6 +17604,12 @@
             "Oregon, 1973"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death",
+        "Birth Injury"
       ]
     },
     {
@@ -16950,6 +17690,12 @@
             "Oregon, 1973"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death",
+        "Birth Injury"
       ]
     },
     {
@@ -17053,6 +17799,10 @@
             "Children of Incarcerated Parents Bill of Rights Implementation Team (former)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -17172,6 +17922,16 @@
             "Elder Law Section of the Oregon State Bar (current)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Elder Law",
+        "Trusts",
+        "Probate",
+        "Wills",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -17263,6 +18023,14 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Personal Injury",
+        "Sexual Harassment",
+        "Discrimination"
       ]
     },
     {
@@ -17354,6 +18122,14 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Personal Injury",
+        "Sexual Harassment",
+        "Discrimination"
       ]
     },
     {
@@ -17433,6 +18209,9 @@
             "Oregon, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -17542,6 +18321,11 @@
             "National Association of Counsel for Children"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Elder Law"
       ]
     },
     {
@@ -17579,7 +18363,8 @@
       "practice_areas": [
         "Complex Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5101049_1",
@@ -17614,7 +18399,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5005501_1",
@@ -17651,7 +18437,8 @@
       "practice_areas": [
         "Business Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3419372_1",
@@ -17688,7 +18475,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5085536_1",
@@ -17723,7 +18511,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4415486_1",
@@ -17760,7 +18549,10 @@
       "practice_areas": [
         "Business and Corporate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ]
     },
     {
       "slug": "1559633_1",
@@ -17797,7 +18589,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jeff-s-napoli",
@@ -17879,6 +18672,9 @@
             "Oregon, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -17970,6 +18766,13 @@
             "United States Attorney's Office, Seattle, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Discrimination",
+        "Franchising",
+        "ADR Arbitration and Mediation",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -18076,6 +18879,9 @@
             "Oregon Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction"
       ]
     },
     {
@@ -18211,6 +19017,10 @@
             "ALFA International Insurance Practice Group Steering Committee, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -18307,6 +19117,12 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Elder Law",
+        "Same Sex"
       ]
     },
     {
@@ -18408,6 +19224,9 @@
             "Oregon State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -18535,6 +19354,15 @@
             "Oregon Bar, Family Law Section, 2009 - Present (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Father's Rights"
       ]
     },
     {
@@ -18608,7 +19436,8 @@
             "Oregon Criminal Defense Lawyer Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lars-h-olsen",
@@ -18710,6 +19539,9 @@
             "Oregon, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -18820,6 +19652,11 @@
             "Oregon's two American Trial Lawyer Association Delegates, 2000 - 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -18919,6 +19756,9 @@
             "Women to Women Network"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -19010,6 +19850,11 @@
             "OWLS (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -19119,6 +19964,10 @@
             "Alpha Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Environmental Law"
       ]
     },
     {
@@ -19253,7 +20102,8 @@
             "Multnomah County Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "d-neal-peton-esq",
@@ -19381,6 +20231,11 @@
             "Oregon State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -19490,6 +20345,14 @@
             "U.S. District Court District of Oregon, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Real Estate",
+        "Employment Rights",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -19636,6 +20499,9 @@
             "National Utility Contractors Association of Oregon and SW Washington (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -19675,7 +20541,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "ralph-f-rayburn",
@@ -19808,6 +20675,27 @@
             "Oregon State Bar, Civil Rights Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Bad Faith Insurance",
+        "Consumer Protection",
+        "Sexual Harassment",
+        "Discrimination",
+        "Employment Rights",
+        "Nursing Home Abuse",
+        "Insurance Law",
+        "Labor Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Professional Malpractice",
+        "Medical Malpractice",
+        "Railroad Worker Injury and FELA",
+        "Whistleblower and Qui Tam",
+        "Animal and Dog Bites",
+        "Construction Accident",
+        "Brain Injury",
+        "Birth Injury"
       ]
     },
     {
@@ -19917,6 +20805,9 @@
             "Oregon Women Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -20024,6 +20915,9 @@
             "2009-Present Michael Redden PC"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -20130,6 +21024,11 @@
             "Oregon, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -20224,6 +21123,11 @@
             "Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Discrimination",
+        "Personal Injury"
       ]
     },
     {
@@ -20305,6 +21209,10 @@
             "U.S. Court of Appeals 9th Circuit, 1977"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate"
       ]
     },
     {
@@ -20344,7 +21252,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "emily-t-roberts",
@@ -20447,6 +21356,11 @@
             "Alfred Arraj Inns of Court, 2011 - 2014 (Executive Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -20552,6 +21466,9 @@
             "Law Student Outreach Coordinator for Oregon State Bar New Tax Lawyer Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -20646,6 +21563,10 @@
             "OADC Product Liability Group (Vice President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -20780,6 +21701,12 @@
             "Oregon State Bar, Military Assistance Panel, Family Law, Member 2014-Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military Divorce",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody"
       ]
     },
     {
@@ -20945,6 +21872,11 @@
             "Oregon State Bar, 2012 - 2021 (House of Delegates)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -21040,6 +21972,10 @@
             "Clark County Bar Association, 2024 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Construction"
       ]
     },
     {
@@ -21137,6 +22073,10 @@
             "Oregon Criminal Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -21207,6 +22147,9 @@
             "Lane County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -21293,6 +22236,10 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -21390,6 +22337,11 @@
             "US District Court for the District of Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -21478,6 +22430,11 @@
             "Oregon State Bar, Access to Justice Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Wrongful Death",
+        "Personal Injury"
       ]
     },
     {
@@ -21556,6 +22513,11 @@
             "Oregon, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Estate Planning"
       ]
     },
     {
@@ -21662,6 +22624,9 @@
             "Lane County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -21763,6 +22728,10 @@
             "Oregon Trial Lawyers (OTLA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Immigration"
       ]
     },
     {
@@ -21847,6 +22816,28 @@
           "type": "text",
           "content": "PAUL F. SHERMAN II - Portland, Oregon, Trial Attorney\n\nAttorney Paul F. Sherman II graduated from the University of Santa Clara School of Law. Mr. Sherman has over 30 years of legal experience in practicing law in Oregon, Washington, and California. He is a lifetime member of the national directory of \"Who's Who.\" Mr. Sherman is a member of the Oregon State Bar, the Washington State Bar Association and the California State Bar. He is admitted to practice in the United States Court for the Districts of Oregon and Northern California. Mr. Sherman is a litigator, a mediator, a trial lawyer, and an effective legal advocate for his clients during times of crisis and family transitions.\n\nFor more information call the Law Offices of Paul F. Sherman at (503) 223-8441 or Contact us for a free legal consultation.\n\nOWNER OF THE LAW OFFICES OF PAUL F. SHERMAN\n\nPaul has excelled in his role as the principal attorney of the Law Offices of Paul F. Sherman. He possesses a tireless work ethic and commitment to his clients and their families. Paul's infectious enthusiasm has been a major factor in making the Law Offices of Paul F. Sherman and elite litigation firm specializing personal injury, divorce and family law, real estate and business law matters\n\nPaul takes a practical and pragmatic approach to practice of law. He firmly believes that there are very few events in life as important to our clients as a Divorce or Custody matter. He is dedicated to obtaining the best possible results for our clients.\n\nPaul spends the majority of his free time with his two children. He participates in their academic and athletic interests on a daily basis, and is extremely proud of their accomplishments. Paul is an avid tennis player. He enjoys golf, fly fishing and skiing with his children."
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Personal Injury",
+        "Wrongful Death",
+        "Truck Accident",
+        "Construction Accident",
+        "Housing and Construction Defects",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Business Organizations",
+        "Contracts",
+        "Employment Rights",
+        "Discrimination",
+        "Insurance Law",
+        "Sexual Harassment"
       ]
     },
     {
@@ -21935,7 +22926,8 @@
             "Recipient of the \"Liani J. Reeves Inspiration Award\" by the Asian Pacific American Law Students Association from Willamette University College of Law, (2016)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jason-short",
@@ -22056,6 +23048,9 @@
             "National Association of Criminal Defense Lawyers, 2009 - 2017 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -22174,6 +23169,15 @@
             "Oregon Trial Lawyer’s Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Housing and Construction Defects",
+        "Construction",
+        "Mergers and Acquisitions",
+        "Environmental Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -22301,6 +23305,22 @@
             "West Linn Chamber of Commerce (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Contracts",
+        "Debtor and Creditor",
+        "Business Organizations",
+        "Collections",
+        "Construction",
+        "Employment Law (Employer)",
+        "Estate Planning",
+        "Patents",
+        "Mergers and Acquisitions",
+        "Probate",
+        "Real Estate",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -22443,7 +23463,8 @@
             "Uniform Civil Jury Instructions Committee, 2011 - 2013"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "keri-j-smith",
@@ -22538,6 +23559,10 @@
             "Linn County Arbitration Commission, 2018 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -22634,6 +23659,13 @@
             "Washington County Bar Association, 1988 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Real Estate",
+        "Elder Law"
       ]
     },
     {
@@ -22730,6 +23762,10 @@
             "Oregon Criminal Defense Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -22844,6 +23880,14 @@
             "American College of Trial Lawyers, 2016 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Employment Rights",
+        "Wrongful Death",
+        "Professional Malpractice",
+        "Sexual Harassment",
+        "Sexual Abuse"
       ]
     },
     {
@@ -22959,6 +24003,10 @@
             "Washington County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -23055,6 +24103,10 @@
             "OTLA, 2007 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -23177,6 +24229,12 @@
             "Oregon Criminal Defense Lawyers Association (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Child Support",
+        "Child Custody"
       ]
     },
     {
@@ -23279,6 +24337,10 @@
             "American Association for Justice - Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -23318,7 +24380,12 @@
         "Trusts",
         "Wills"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Wills"
+      ]
     },
     {
       "slug": "gwyndolyn-styarfyr",
@@ -23414,6 +24481,9 @@
             "Oregon Criminal Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -23471,7 +24541,8 @@
             "U.S. District Court District of Oregon, 1997"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brittany-sumner",
@@ -23553,6 +24624,11 @@
             "Willamette Valley Inns of Court, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Estate Planning"
       ]
     },
     {
@@ -23651,6 +24727,10 @@
             "Oregon Criminal Defense Lawyers’ Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -23758,6 +24838,11 @@
             "Oregon Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Employment Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -23849,6 +24934,9 @@
             "Washington Bar Creditor-Debtor Section, 2002 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -23990,6 +25078,9 @@
             "Campaign for Equal Justice (Large Firm Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -24034,7 +25125,8 @@
           "type": "text",
           "content": "Robert Taylor joined the Oregon bar in 2018 after graduating from the University of Oregon College of Law. While in law school, Robert clerked with the Public Defender Services of Lane County and interned with the Umpqua Valley Public Defender’s office. After law school, Robert thru-hiked the Pacific Crest Trail, passed the bar, and began work as an attorney specializing in criminal law. He has experience both as a defense attorney and prosecutor.\n\nRobert is an Oregonian from birth, and is committed to serving his community. While not at work, Robert can be found exploring the backcountry, playing guitar, or working on his critter identification skills."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "todd-a-taylor",
@@ -24129,6 +25221,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -24260,6 +25356,11 @@
             "American Immigration Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Collections",
+        "Immigration"
       ]
     },
     {
@@ -24415,6 +25516,11 @@
             "Board of Directors, Lane Blood Center (2011-2012)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -24507,6 +25613,9 @@
             "Oregon Women Lawyers, 2022 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -24638,6 +25747,9 @@
             "OWLS Board 2015 to 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -24708,7 +25820,8 @@
             "Oregon, 2023"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jana-triska",
@@ -24761,6 +25874,12 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -24854,6 +25973,11 @@
             "Multnomah County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents"
       ]
     },
     {
@@ -24919,6 +26043,10 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -25001,6 +26129,10 @@
             "New York State Bar, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -25098,6 +26230,10 @@
             "U.S. District Court Southern District of New York, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Constitutional Law"
       ]
     },
     {
@@ -25180,6 +26316,10 @@
             "U.S. District Court District of Oregon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -25247,6 +26387,11 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Estate Planning"
       ]
     },
     {
@@ -25348,6 +26493,10 @@
             "Oregon State Bar, Family Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Probate"
       ]
     },
     {
@@ -25427,6 +26576,10 @@
             "Oregon State Bar Association, 1984 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Personal Injury Defense"
       ]
     },
     {
@@ -25466,7 +26619,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "charles-j-weber",
@@ -25567,6 +26721,11 @@
             "Board Member, Multnomah County Bar, YLS Section, Entrepreneur Committee (2015-2017)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody"
       ]
     },
     {
@@ -25662,6 +26821,10 @@
             "Deschutes County Bar, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -25766,6 +26929,17 @@
             "Oregon Women Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Wills",
+        "Bad Faith Insurance",
+        "Medical Malpractice"
       ]
     },
     {
@@ -25872,6 +27046,16 @@
             "Washington County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Estate Planning",
+        "Elder Law",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -25976,7 +27160,8 @@
             "Jackson County Bar Association (Acting Vice President)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-w-wilkinson",
@@ -26122,6 +27307,11 @@
             "Washington State Bar Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -26264,6 +27454,9 @@
             "J.R. Campbell Inns of Court, 2008 - 2009 (Secretary/Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -26350,6 +27543,11 @@
             "California State Bar (Inactive Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -26433,6 +27631,9 @@
             "Washington, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -26554,6 +27755,9 @@
             "Kappa Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -26645,6 +27849,9 @@
             "Washington State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -26762,6 +27969,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Contracts"
       ]
     },
     {
@@ -26898,6 +28109,12 @@
             "Oregon Law Senate Bill 1092 Work Group, 2008 - 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Litigation and Appeals",
+        "Elder Law"
       ]
     },
     {
@@ -27004,6 +28221,9 @@
             "Oregon, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -27075,7 +28295,8 @@
             "Oregon, 2001"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-a-yates",
@@ -27192,6 +28413,11 @@
             "Multnomah County Circuit Court Judicial Settlement Conference Program (Judge pro tem)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Family Law"
       ]
     },
     {
@@ -27291,6 +28517,11 @@
             "National Police Accountability Project"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -27370,6 +28601,11 @@
             "Local Animal Rescue Animal Aid, Inc."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Estate Planning"
       ]
     },
     {
@@ -27409,7 +28645,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "steven-m-zipper",
@@ -27502,6 +28739,9 @@
             "Oregon State Bar, Estate Planning and Administration Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     }
   ],
@@ -27548,10 +28788,7 @@
         "Andrew G. Martin"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate"
       ],
       "additional_locations": [
@@ -27606,9 +28843,7 @@
         "Serena L. Liss"
       ],
       "official_practice_area": [
-        "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -27653,9 +28888,9 @@
         "Lauren M. Barnhart"
       ],
       "official_practice_area": [
+        "Family Law",
         "Divorce and Separation",
         "Estate Planning",
-        "Family Law",
         "Probate"
       ],
       "additional_locations": []
@@ -27706,11 +28941,7 @@
         "Blake L. Van Zile",
         "Jana Triska"
       ],
-      "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -27764,17 +28995,14 @@
         "Cameron  R.  Tinker"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Business and Commercial Law",
-        "Construction",
-        "Elder Law",
         "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
         "Real Estate",
-        "State Local and Municipal Law"
+        "Probate",
+        "Elder Law",
+        "Family Law",
+        "Construction",
+        "Business and Commercial Law",
+        "Administrative Law"
       ],
       "additional_locations": [
         {
@@ -27936,9 +29164,8 @@
         "Karly M. Charbonneau"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -27997,15 +29224,10 @@
         "Alexander S. Wylie"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
+        "Personal Injury",
         "Assault and Battery (Plaintiff)",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -28070,12 +29292,10 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
-        "Birth Injury",
-        "Brain Injury",
-        "Car Accidents",
         "Personal Injury",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Brain Injury",
+        "Birth Injury"
       ],
       "additional_locations": [
         {
@@ -28182,11 +29402,8 @@
         "Jane Paulson"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Dangerous Products",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -28283,12 +29500,10 @@
         "Aaron J. Cronan"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
+        "Trademarks",
         "Contracts",
         "Copyrights",
-        "Real Estate",
-        "Trademarks"
+        "Patents"
       ],
       "additional_locations": []
     },
@@ -28328,7 +29543,6 @@
         "Michelle D. Da Rosa"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -28385,17 +29599,13 @@
         "Kevin Yolken"
       ],
       "official_practice_area": [
-        "Dangerous Products",
-        "Discrimination",
-        "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
+        "Medical Malpractice",
+        "Discrimination",
+        "Wrongful Death",
         "Truck Accident",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -28441,8 +29651,8 @@
         "Samantha Hazel"
       ],
       "official_practice_area": [
-        "Education",
-        "Family Law"
+        "Family Law",
+        "Education"
       ],
       "additional_locations": []
     },
@@ -28543,17 +29753,14 @@
         "Thomas Martin Jr. (Retired)"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Criminal Defense",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Probate",
-        "Real Estate",
+        "Estate Planning",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Criminal Defense",
+        "Real Estate",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -28640,8 +29847,7 @@
         "Patrick Flaherty"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Sex Crime"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -28687,10 +29893,10 @@
         "Charles H. Vincent"
       ],
       "official_practice_area": [
+        "Probate",
         "Criminal Defense",
-        "Divorce and Separation",
         "Family Law",
-        "Probate"
+        "Divorce and Separation"
       ],
       "additional_locations": [
         {
@@ -28791,14 +29997,10 @@
       ],
       "official_practice_area": [
         "ADR Arbitration and Mediation",
-        "Business and Commercial Law",
-        "Child Custody",
-        "Child Support",
         "Divorce and Separation",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Child Support",
+        "Child Custody",
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -28851,12 +30053,10 @@
         "Shelley L. Fuller"
       ],
       "official_practice_area": [
-        "Adoption",
         "Criminal Defense",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Adoption"
       ],
       "additional_locations": []
     },
@@ -28902,8 +30102,7 @@
       ],
       "official_practice_area": [
         "Family Law",
-        "Land Use and Zoning",
-        "Natural Resources"
+        "Land Use and Zoning"
       ],
       "additional_locations": []
     },
@@ -28951,10 +30150,7 @@
         "Jacqueline K. Swanson"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -29112,17 +30308,12 @@
         "Joseph M. Harder"
       ],
       "official_practice_area": [
-        "Child Custody",
+        "Real Estate",
         "Child Support",
         "Divorce and Separation",
         "Domestic Violence",
-        "Estate Planning",
         "Family Law",
-        "Father's Rights",
-        "Military",
-        "Military Divorce",
-        "Real Estate",
-        "Same Sex"
+        "Military Divorce"
       ],
       "additional_locations": []
     },
@@ -29298,16 +30489,13 @@
         "Melissa Hopkins"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Civil Rights",
-        "Criminal Defense",
-        "Employment Rights",
-        "Legal Malpractice",
         "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
         "Wrongful Death",
-        "Wrongful Termination"
+        "Employment Rights",
+        "Wrongful Termination",
+        "Sexual Harassment",
+        "Civil Rights",
+        "Legal Malpractice"
       ],
       "additional_locations": []
     },
@@ -29350,12 +30538,7 @@
         "Robert A. Miller"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -29408,12 +30591,12 @@
         "Robert Taylor"
       ],
       "official_practice_area": [
+        "Family Law",
         "Adoption",
-        "Child Custody",
-        "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
-        "Family Law"
+        "Child Custody",
+        "DUI and DWI",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -29457,9 +30640,7 @@
         "Jerry A. Jacobson"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -29553,14 +30734,9 @@
         "Melissa Young"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Elder Law",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Probate"
+        "Estate Planning",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -29645,10 +30821,8 @@
         "Kelly D. Jones"
       ],
       "official_practice_area": [
-        "Bankruptcy",
         "Class Actions",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -29703,10 +30877,9 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
+        "Sex Crime",
         "Drug Crime",
-        "Family Law",
-        "Sex Crime"
+        "Domestic Violence"
       ],
       "additional_locations": [
         {
@@ -29759,8 +30932,7 @@
         "Laura B. Kalur"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -29819,21 +30991,19 @@
         "Chloe Thompson"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
-        "Assault and Battery (Plaintiff)",
+        "Personal Injury",
+        "Wrongful Death",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
+        "Truck Accident",
+        "Animal and Dog Bites",
+        "Premises Liability",
+        "Airplane Bus and Helicopter Accidents",
+        "Assault and Battery (Plaintiff)",
         "Construction Accident",
         "Dangerous Products",
         "Motor Vehicle Defects",
-        "Personal Injury",
-        "Premises Liability",
         "Railroad Worker Injury and FELA",
-        "Sexual Abuse",
-        "Truck Accident",
-        "Wrongful Death"
+        "Sexual Abuse"
       ],
       "additional_locations": []
     },
@@ -29888,13 +31058,10 @@
         "Robert C. Kline Jr."
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Birth Injury",
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -29949,13 +31116,12 @@
         "Matthew McHenry"
       ],
       "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "Sex Crime",
         "Assault and Battery (Plaintiff)",
         "Cannabis Law",
-        "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -30009,12 +31175,11 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Contracts",
-        "Employment Rights",
-        "Estate Planning",
         "Mergers and Acquisitions",
+        "Tax Law",
+        "Employment Rights",
         "Real Estate",
-        "Tax Law"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -30069,16 +31234,15 @@
         "Daniel J. Lounsbury"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Child Custody",
         "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Domestic Violence",
-        "Drug Crime",
         "Family Law",
-        "Personal Injury",
-        "Premises Liability"
+        "Car Accidents",
+        "Premises Liability",
+        "Divorce and Separation",
+        "Child Custody",
+        "DUI and DWI",
+        "Drug Crime",
+        "Domestic Violence"
       ],
       "additional_locations": []
     },
@@ -30122,8 +31286,7 @@
         "Clay McCaslin"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury"
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -30169,10 +31332,10 @@
         "Dean C. Werst"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
         "Estate Planning",
+        "Real Estate",
         "Probate",
-        "Real Estate"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -30237,12 +31400,10 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Discrimination",
         "Drug Crime",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Sexual Harassment"
+        "Sexual Harassment",
+        "Discrimination"
       ],
       "additional_locations": [
         {
@@ -30300,9 +31461,7 @@
         "Benjamin C. Stoller"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -30391,8 +31550,7 @@
         "Kathryn Pawlick"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Probate"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -30443,9 +31601,8 @@
       ],
       "official_practice_area": [
         "Car Accidents",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Truck Accident",
+        "Nursing Home Abuse",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -30577,9 +31734,6 @@
         "Robyn M. Rebers"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -30623,10 +31777,7 @@
       "attorneys": [
         "Anna Pervukhin Sammons"
       ],
-      "official_practice_area": [
-        "Criminal Defense",
-        "Sex Crime"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -30762,10 +31913,8 @@
         "Alexis Shimada"
       ],
       "official_practice_area": [
-        "Elder Law",
         "Estate Planning",
-        "Probate",
-        "Trusts"
+        "Probate"
       ],
       "additional_locations": [
         {
@@ -30824,13 +31973,9 @@
         "Dave Smith"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
         "Construction",
+        "Business Organizations",
         "Employment Rights",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate"
       ],
       "additional_locations": []
@@ -30998,8 +32143,7 @@
         "Linda Weimar"
       ],
       "official_practice_area": [
-        "Personal Injury",
-        "Real Estate"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -31047,9 +32191,7 @@
         "Natalie M. Wetenhall"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Real Estate",
-        "Wills"
+        "Patents"
       ],
       "additional_locations": []
     },
@@ -31086,7 +32228,9 @@
       "attorneys": [
         "Wendy J. Baker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Discrimination"
+      ],
       "additional_locations": []
     },
     {
@@ -31168,7 +32312,12 @@
         "Brent Barton",
         "William A. Barton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Birth Injury",
+        "Medical Malpractice",
+        "Sexual Abuse"
+      ],
       "additional_locations": []
     },
     {
@@ -31207,7 +32356,9 @@
         "Megan Halley",
         "Robert Beatty-Walters"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ],
       "additional_locations": []
     },
     {
@@ -31247,7 +32398,9 @@
         "Barbara P. McFarland",
         "James B. Richardson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -31285,7 +32438,9 @@
       "attorneys": [
         "Kevin C. Gage"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -31363,7 +32518,9 @@
       "attorneys": [
         "Terry Ray Hansen"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Admiralty and Maritime"
+      ],
       "additional_locations": []
     },
     {
@@ -31404,7 +32561,9 @@
         "Andrew Kohlmetz",
         "Jason Alan Steen"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -31444,7 +32603,9 @@
       "attorneys": [
         "Jet Harris"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -31485,7 +32646,9 @@
         "Victoria L. Norris",
         "Roger D. Scarbrough"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -31530,7 +32693,9 @@
         "Ronald L Ridehalgh",
         "John-Michael Thiesen"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -31572,7 +32737,9 @@
       "attorneys": [
         "Daniel R Kruse"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -31614,7 +32781,9 @@
         "Jessica K. Meyer",
         "William R. Thomas"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business Organizations"
+      ],
       "additional_locations": []
     },
     {
@@ -31655,7 +32824,9 @@
         "David K. Miller",
         "Robert S. Wagner"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ],
       "additional_locations": []
     },
     {
@@ -31695,7 +32866,9 @@
       "attorneys": [
         "Ralph F Rayburn"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Admiralty and Maritime"
+      ],
       "additional_locations": []
     },
     {
@@ -31769,7 +32942,26 @@
       "attorneys": [
         "Paul F. Sherman"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Child Support",
+        "Contracts",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Discrimination",
+        "Divorce and Separation",
+        "Employment Rights",
+        "Family Law",
+        "Insurance Law",
+        "Personal Injury",
+        "Sexual Harassment",
+        "Wrongful Death",
+        "Truck Accident",
+        "Housing and Construction Defects",
+        "Child Custody",
+        "Father's Rights"
+      ],
       "additional_locations": []
     },
     {
@@ -31817,7 +33009,10 @@
         "Randall Snow",
         "James Usera"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -31857,7 +33052,11 @@
       "attorneys": [
         "Sandra G. Stone"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Wills"
+      ],
       "additional_locations": []
     },
     {
@@ -31893,7 +33092,9 @@
       "attorneys": [
         "Owyhee Weikel-Magden"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     }
   ]

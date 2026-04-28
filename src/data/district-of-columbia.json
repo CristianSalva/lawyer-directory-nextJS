@@ -69,6 +69,9 @@
             "Maryland, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -112,7 +115,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "babak-akhlaghi",
@@ -203,6 +207,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -279,6 +286,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -357,7 +367,8 @@
             "District of Columbia"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peter-anderson",
@@ -433,6 +444,11 @@
             "Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Personal Injury"
       ]
     },
     {
@@ -582,6 +598,11 @@
             "National ERISA Fiduciary Institute (JCEB), co-chair and speaker (2019 – 2023)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Mergers and Acquisitions",
+        "Employment Rights"
       ]
     },
     {
@@ -663,6 +684,11 @@
             "U.S. District Court for the District of Columbia, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Landlord and Tenant",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -746,7 +772,8 @@
             "PBGC Alumni Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jamie-aziz",
@@ -827,6 +854,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -870,7 +900,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tamara-fishman-barago",
@@ -956,6 +987,9 @@
             "U.S. Bankruptcy Court Western District of Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -1030,6 +1064,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -1112,6 +1149,9 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -1188,7 +1228,8 @@
             "Member, Independent SALT Alliance"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stephen-becker",
@@ -1279,6 +1320,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -1327,7 +1371,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "elizabeth-bellar",
@@ -1409,6 +1454,9 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -1554,6 +1602,12 @@
             "American Arbitration Association (\"AAA\")"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Discrimination",
+        "Employment Rights",
+        "Contracts"
       ]
     },
     {
@@ -1666,6 +1720,10 @@
             "National Student Legal Defense Network (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Sexual Harassment"
       ]
     },
     {
@@ -1709,7 +1767,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "julie-a-blum",
@@ -1800,6 +1859,10 @@
             "U.S. District Court of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -1914,6 +1977,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military"
       ]
     },
     {
@@ -1978,6 +2044,9 @@
             "U.S. Court of Appeals Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -2062,6 +2131,9 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -2150,7 +2222,8 @@
             "U.S. District Court Southern District of New York, 2003"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bryan-j-braunel",
@@ -2240,6 +2313,9 @@
             "New York Intellectual Property Law Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -2366,6 +2442,9 @@
             "Advisory Board of BNA's Antitrust & Trade Regulation Report (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection"
       ]
     },
     {
@@ -2457,6 +2536,10 @@
             "Master of Laws, Taxation, Georgetown University Law School, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -2543,6 +2626,10 @@
             "Fairfax Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Probate"
       ]
     },
     {
@@ -2643,6 +2730,13 @@
             "Elder Law Attorney, National Elder Law Foundation"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Nursing Home Abuse",
+        "Elder Law",
+        "Disability Insurance",
+        "Veteran's Benefits"
       ]
     },
     {
@@ -2718,6 +2812,9 @@
             "District of Columbia, 2000"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination"
       ]
     },
     {
@@ -2831,6 +2928,10 @@
             "U.S. District Court for the District of Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -2920,7 +3021,8 @@
             "U.S. District Court Northern District of Illinois"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-c-casady",
@@ -2998,7 +3100,8 @@
             "Maryland"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "camille-castro",
@@ -3110,6 +3213,10 @@
             "District of Columbia, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -3206,6 +3313,13 @@
             "Community Advocates For Family & Youth (2017 – present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -3281,6 +3395,9 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -3382,7 +3499,8 @@
             "New York, 2021"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "wonsuck-choi",
@@ -3458,6 +3576,9 @@
             "English"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -3559,7 +3680,8 @@
             "Executive Committee of the Asian Pacific American Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "denise-clark",
@@ -3690,6 +3812,12 @@
             "The College of Labor and Employment Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights",
+        "ERISA",
+        "Wage and Hour"
       ]
     },
     {
@@ -3733,7 +3861,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-j-cople-iii",
@@ -3845,6 +3974,11 @@
             "U.S. Court of International Trade"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Government Contracts",
+        "Drugs and Medical Devices",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -3945,6 +4079,9 @@
             "U.S. District Court Western District of New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -4035,6 +4172,10 @@
             "U.S. District Court District of Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -4117,6 +4258,9 @@
             "Baltimore/Washington Clemson Club"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -4237,6 +4381,9 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -4314,6 +4461,9 @@
             "District of Columbia, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts"
       ]
     },
     {
@@ -4442,6 +4592,9 @@
             "Metropolitan Washington Employment Lawyers Association (MWELA), July 8, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -4555,6 +4708,11 @@
             "Member of the Chapin Society of Beloit College"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Natural Resources",
+        "Native Peoples",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -4665,6 +4823,13 @@
             "Alpha Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate",
+        "Estate Planning",
+        "Health Care Law",
+        "Elder Law"
       ]
     },
     {
@@ -4744,7 +4909,8 @@
             "Teamsters Disaster Relief Fund (2018-2022)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "justine-k-donahue",
@@ -4837,7 +5003,8 @@
             "Women's Bar Association of the District of Columbia"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ann-marie-duffy",
@@ -4927,6 +5094,9 @@
             "U.S. District Court Western District of Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -5026,6 +5196,11 @@
             "National Hispanic Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Whistleblower and Qui Tam",
+        "Discrimination"
       ]
     },
     {
@@ -5124,6 +5299,9 @@
             "International Intellectual Property Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -5167,7 +5345,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ann-czyzewski-farr",
@@ -5210,7 +5389,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "omer-n-farukhi",
@@ -5297,6 +5477,11 @@
             "U.S. District Court District of New Jersey"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -5816,6 +6001,9 @@
             "Trial Lawyers Association of Metropolitan, Washington, D.C., 1976 - 1977 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5930,6 +6118,13 @@
             "District of Columbia Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Real Estate",
+        "Contracts"
       ]
     },
     {
@@ -6016,6 +6211,15 @@
             "District of Columbia, 1977"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "ADR Arbitration and Mediation",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -6059,7 +6263,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "arina-filippenko",
@@ -6171,6 +6376,13 @@
             "Alaska Bar Technology, AI, and Cyber Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Securities",
+        "State Local and Municipal Law",
+        "Criminal Defense",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -6235,6 +6447,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -6358,6 +6574,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration"
       ]
     },
     {
@@ -6475,6 +6694,11 @@
             "Massachusetts, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Litigation and Appeals",
+        "Employment Rights"
       ]
     },
     {
@@ -6564,7 +6788,8 @@
             "U.S. Patent and Trademark Office"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peter--godwin",
@@ -6628,7 +6853,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peter-f-gold",
@@ -6711,6 +6937,10 @@
             "U.S. District Court Eastern District of New York, 1972"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -6846,7 +7076,8 @@
             "Georgetown University Law Center, Washington, D.C., Adjunct Professor (1991-present)."
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-goldstein",
@@ -6933,6 +7164,9 @@
             "Washington Council of Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -7032,7 +7266,8 @@
             "ITC Trial Lawyer's Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jonathan-l-gould",
@@ -7155,6 +7390,12 @@
             "National Employment Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Harassment",
+        "Discrimination",
+        "Employment Rights",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -7231,6 +7472,9 @@
             "Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -7326,6 +7570,10 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -7408,6 +7656,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA"
       ]
     },
     {
@@ -7490,6 +7741,9 @@
             "U.S. Court of Appeals 4th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7563,6 +7817,9 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military"
       ]
     },
     {
@@ -7606,7 +7863,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-hannaway",
@@ -7706,7 +7964,8 @@
             "District of Columbia, 2019"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rick-hauptman",
@@ -7749,7 +8008,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shannon-henris",
@@ -7835,7 +8095,8 @@
             "Volunteered with the Georgetown University Health Justice Alliance"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joanne-roney-hepworth",
@@ -7922,6 +8183,9 @@
             "Board of Trustees the Crossings Property Owners Association, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7965,7 +8229,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "grant-w-hollingsworth",
@@ -8049,6 +8314,10 @@
             "U.S. District Court District of Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -8163,6 +8432,12 @@
             "National Association of Railroad Trial Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Environmental Law",
+        "Government Contracts",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -8304,6 +8579,11 @@
             "District of Columbia Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Mergers and Acquisitions",
+        "Natural Resources"
       ]
     },
     {
@@ -8350,7 +8630,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kelly-e-hutchinson",
@@ -8393,7 +8674,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kathryn-sacco-jensen",
@@ -8475,6 +8757,9 @@
             "U.S. District Court Eastern District of Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -8581,6 +8866,10 @@
             "National Association of Railroad Trial Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -8624,7 +8913,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "alan-kabat",
@@ -8748,6 +9038,9 @@
             "D.C. Bar Association's Publications Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -8828,6 +9121,12 @@
             "U.S. District Court of the District of Columbia, 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Consumer Protection",
+        "Probate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -8920,6 +9219,13 @@
             "National Conference of Commissioners on Uniform State Laws, 1989 - Present (Commissioner (from D.C.))"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Landlord and Tenant",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -9132,6 +9438,11 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Employment Rights",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -9206,6 +9517,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -9289,6 +9603,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -9375,6 +9692,13 @@
             "Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Transportation",
+        "Aviation",
+        "Antitrust",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -9464,6 +9788,11 @@
             "U.S. Court of Federal Claims"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Government Contracts",
+        "Bad Faith Insurance",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -9561,6 +9890,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military"
       ]
     },
     {
@@ -9677,6 +10009,11 @@
             "Board of Professional Responsibility, District of Columbia Bar Association (past Hearing Committee Chair and Board member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Health Care Law",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -9769,6 +10106,9 @@
             "Washington Area Lawyers for the Arts (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -9862,6 +10202,10 @@
             "U.S. District Court District of Colorado"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -9937,6 +10281,10 @@
             "Maryland, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Landlord and Tenant",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -10024,7 +10372,8 @@
             "U.S. District Court Eastern District of Texas"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brandon-j-levine",
@@ -10106,6 +10455,9 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10213,6 +10565,11 @@
             "Family Division Trial Lawyers Association, 1986 - December 31, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Business Organizations",
+        "Family Law"
       ]
     },
     {
@@ -10248,7 +10605,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "steffanie-jones-lewis",
@@ -10393,6 +10751,11 @@
             "American Society of Association Executives (\"ASAE\") Legal Publication (Trustee & Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Aviation",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -10496,6 +10859,10 @@
             "Federal Communications Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Natural Resources",
+        "Bankruptcy"
       ]
     },
     {
@@ -10571,6 +10938,10 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Criminal Defense"
       ]
     },
     {
@@ -10656,7 +11027,8 @@
             "New York"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "vanessa-carpenter-lourie",
@@ -10769,6 +11141,10 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -10852,6 +11228,13 @@
             "U.S. District Court of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Landlord and Tenant",
+        "Personal Injury"
       ]
     },
     {
@@ -10936,6 +11319,9 @@
             "Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -11024,6 +11410,9 @@
             "U.S. District Court for the District of Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -11150,6 +11539,11 @@
             "Virginia Bar Association, 1996 - Present (Estate & Trust Section)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business Organizations"
       ]
     },
     {
@@ -11232,7 +11626,8 @@
             "North Carolina"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "h-vincent-mcknight-jr",
@@ -11341,7 +11736,8 @@
             "Taxpayers Against Fraud Education Fund Conference Committee (2017, 2018)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-mcknight",
@@ -11439,6 +11835,9 @@
             "District of Columbia, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -11535,6 +11934,10 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -11616,6 +12019,10 @@
             "English"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -11725,6 +12132,10 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Ethics and Professional Responsibility"
       ]
     },
     {
@@ -11768,7 +12179,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-f-mihalich",
@@ -11870,6 +12282,9 @@
             "Metropolitan Washington Employment Lawyers Association (MWELA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -11968,6 +12383,10 @@
             "U.S. Court of Federal Claims"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -12050,6 +12469,9 @@
             "District of Columbia CAI Chapter (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -12093,7 +12515,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gregory-montone",
@@ -12180,6 +12603,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -12262,6 +12688,10 @@
             "District of Columbia, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Family Law"
       ]
     },
     {
@@ -12343,6 +12773,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -12434,6 +12867,11 @@
             "District of Columbia, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Whistleblower and Qui Tam",
+        "Sexual Harassment"
       ]
     },
     {
@@ -12538,7 +12976,8 @@
             "Virginia, 1979"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kate-mueting",
@@ -12646,6 +13085,9 @@
             "U.S. District Court of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination"
       ]
     },
     {
@@ -12683,7 +13125,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5149012_1",
@@ -12720,7 +13163,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5169033_1",
@@ -12757,7 +13201,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5198178_1",
@@ -12794,7 +13239,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4095535_1",
@@ -12831,7 +13277,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4938900_1",
@@ -12870,7 +13317,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "5048306_1",
@@ -12909,7 +13359,10 @@
       "practice_areas": [
         "Immigration Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Immigration"
+      ]
     },
     {
       "slug": "1469783_1",
@@ -12944,7 +13397,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4333011_1",
@@ -12981,7 +13435,8 @@
       "practice_areas": [
         "Food and Drug Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4830292_1",
@@ -13016,7 +13471,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3381120_1",
@@ -13053,7 +13509,10 @@
       "practice_areas": [
         "Agriculture Risk Management"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Agriculture"
+      ]
     },
     {
       "slug": "1019694_1",
@@ -13088,7 +13547,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4661942_1",
@@ -13125,7 +13585,10 @@
       "practice_areas": [
         "Agriculture Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Agriculture"
+      ]
     },
     {
       "slug": "3885972_1",
@@ -13162,7 +13625,8 @@
       "practice_areas": [
         "Litigation and Appellate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4831396_1",
@@ -13197,7 +13661,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3381091_1",
@@ -13232,7 +13697,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1411077_1",
@@ -13269,7 +13735,8 @@
       "practice_areas": [
         "Consumer Product Safety"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4569433_1",
@@ -13306,7 +13773,10 @@
       "practice_areas": [
         "Environmental Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Environmental Law"
+      ]
     },
     {
       "slug": "errin-nebbia",
@@ -13349,7 +13819,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "steven--l-nichols",
@@ -13431,6 +13902,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -13474,7 +13948,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "laurie-pyne-oreilly",
@@ -13566,6 +14041,10 @@
             "Women's Bar Association of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -13663,6 +14142,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -13753,6 +14235,9 @@
             "Kentucky"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -13796,7 +14281,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gerard-p-panaro",
@@ -13929,6 +14415,9 @@
             "Alpha Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -14011,6 +14500,9 @@
             "The North Carolina Advocates for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -14094,6 +14586,9 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -14177,7 +14672,8 @@
             "U.S. Patent and Trademark Office"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mallory-ann-phares",
@@ -14220,7 +14716,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "heather-a-pigman",
@@ -14308,6 +14805,9 @@
             "United States District Court for the Middle District of Florida"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -14389,7 +14889,8 @@
             "New York Intellectual Property Law Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-poerio",
@@ -14593,6 +15094,11 @@
             "Anne Arundel County Department of Social Services, 1998 - Present (Director and Past Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA",
+        "Tax Law",
+        "Bankruptcy"
       ]
     },
     {
@@ -14636,7 +15142,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shannon-n-proctor",
@@ -14679,7 +15186,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stephanie-rapp-tully",
@@ -14778,6 +15286,11 @@
             "U.S. Court of Appeals Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Whistleblower and Qui Tam",
+        "Military"
       ]
     },
     {
@@ -14929,6 +15442,9 @@
             "ABA Tax Section meetings and conferences and with other industry organizations, 1992 - Present (Frequent invited speaker)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ERISA"
       ]
     },
     {
@@ -15013,6 +15529,9 @@
             "United States Court of Appeals for the Eleventh Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -15103,6 +15622,10 @@
             "University of Texas Immigration Clinic"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Civil Rights"
       ]
     },
     {
@@ -15177,6 +15700,9 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -15282,7 +15808,8 @@
             "District of Columbia"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "george-a-rose",
@@ -15380,6 +15907,12 @@
             "Federal Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Immigration",
+        "Business and Commercial Law",
+        "Whistleblower and Qui Tam"
       ]
     },
     {
@@ -15443,7 +15976,8 @@
             "Virginia, 1988"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "linda-e-rosenzweig",
@@ -15542,7 +16076,8 @@
             "U.S. Supreme Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "david-g-ross",
@@ -15653,6 +16188,11 @@
             "Bar Association of Montgomery County, Maryland (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Franchising",
+        "Employment Rights"
       ]
     },
     {
@@ -15748,6 +16288,9 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Communications and Media Law"
       ]
     },
     {
@@ -15854,6 +16397,12 @@
             "District of Columbia, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Whistleblower and Qui Tam",
+        "Discrimination",
+        "Sexual Harassment",
+        "Wage and Hour"
       ]
     },
     {
@@ -15955,6 +16504,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -16065,6 +16618,11 @@
             "National Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Criminal Defense",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -16108,7 +16666,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "aleksandra-rybicki",
@@ -16151,7 +16710,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "olivia-n-sacks",
@@ -16194,7 +16754,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "a-thomas-s-safford",
@@ -16299,6 +16860,9 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trademarks"
       ]
     },
     {
@@ -16382,6 +16946,9 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -16479,6 +17046,9 @@
             "Northern Virginia Pro Bono Law Center (Volunteer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -16522,7 +17092,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "samantha-b-scully",
@@ -16565,7 +17136,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "patrick-senftle",
@@ -16638,6 +17210,11 @@
             "Maryland, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Brain Injury",
+        "Insurance Law"
       ]
     },
     {
@@ -16775,6 +17352,20 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Discrimination",
+        "Sexual Harassment",
+        "Wage and Hour",
+        "Wrongful Termination",
+        "Whistleblower and Qui Tam",
+        "Class Actions",
+        "Civil Rights",
+        "Immigration",
+        "Assault and Battery (Plaintiff)",
+        "Securities",
+        "ERISA"
       ]
     },
     {
@@ -16860,6 +17451,9 @@
             "U.S. Court of Federal Claims"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -16931,6 +17525,9 @@
             "Kentucky"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -17017,7 +17614,8 @@
             "U.S. Patent and Trademark Office"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "awa-sowe",
@@ -17060,7 +17658,8 @@
             "Staff Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-m-sullivan",
@@ -17153,6 +17752,10 @@
             "U.S. District Court for the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -17246,6 +17849,11 @@
             "District of Columbia, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Whistleblower and Qui Tam",
+        "Sexual Harassment"
       ]
     },
     {
@@ -17374,7 +17982,8 @@
             "Maryland Association of Certified Public Accountants, Tax Section"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jamison-b-taylor",
@@ -17499,6 +18108,16 @@
             "Alpha Phi Alpha Fraternity, Inc."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Estate Planning",
+        "Probate",
+        "Real Estate",
+        "Tax Law",
+        "Land Use and Zoning",
+        "Elder Law",
+        "Construction"
       ]
     },
     {
@@ -17596,7 +18215,8 @@
             "U.S. Patent and Trademark Office"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jennifer-teng",
@@ -17705,6 +18325,9 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -17788,7 +18411,8 @@
             "Maryland State Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "carter-f-thurman",
@@ -17864,6 +18488,9 @@
             "Georgia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
       ]
     },
     {
@@ -17960,6 +18587,14 @@
             "Women’s Bar Association of the District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -18003,7 +18638,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "blake-trueblood",
@@ -18078,7 +18714,8 @@
             "U.S. District Court Southern District of Florida"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nathan-jd-veldhuis",
@@ -18161,7 +18798,8 @@
             "U.S. Federal Courts"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "laura-vincent-esq",
@@ -18257,6 +18895,11 @@
             "Washington, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -18332,6 +18975,9 @@
             "Tom Henderson Civil Rights Fellow"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -18420,6 +19066,9 @@
             "West Virginia, 1980"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -18517,7 +19166,8 @@
             "U.S. District Court District of Massachusetts"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marc-wilhite",
@@ -18570,6 +19220,13 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Termination",
+        "Sexual Harassment",
+        "Whistleblower and Qui Tam",
+        "Workers' Compensation"
       ]
     },
     {
@@ -18653,6 +19310,10 @@
             "U.S. District Court Middle District of Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Military"
       ]
     },
     {
@@ -18792,6 +19453,10 @@
             "U.S. District Court Western District of Michigan"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Criminal Defense"
       ]
     },
     {
@@ -18876,6 +19541,9 @@
             "Maryland"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -18976,7 +19644,8 @@
             "Certified Information Privacy Professional - U.S. (CIPP/US), International Association of Privacy Professionals (IAPP), 2025"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joanne-young",
@@ -19087,6 +19756,11 @@
             "Export-Import Bank (Member of Advisory Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Aviation",
+        "Antitrust"
       ]
     },
     {
@@ -19168,6 +19842,10 @@
             "Frequently represents clients before service Boards for Correction of Military and Naval Records, as well as Discharge Review Boards to upgrade discharge characterization, to challenge unjust officer grade determinations, to secure military medical retirement benefits and to obtain missing awards and decorations, such as the Purple Heart. See BCMR Docket No.  AR20140019067 (http://boards.law.af.mil/ARMY/BCMR/CY2014/20140019067.txt)."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Military",
+        "Criminal Defense"
       ]
     },
     {
@@ -19256,7 +19934,8 @@
             "District of Columbia"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     }
   ],
   "firms": [
@@ -19301,7 +19980,6 @@
         "Andrew J. Lavin"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -19341,9 +20019,7 @@
         "Donald A. Barnes"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Tax Law"
+        "Business Organizations"
       ],
       "additional_locations": []
     },
@@ -19440,10 +20116,7 @@
         "Stephanie Eileen Tait"
       ],
       "official_practice_area": [
-        "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Whistleblower and Qui Tam"
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -19528,21 +20201,18 @@
         "Christine Dunn"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Banking and Finance Law",
-        "Civil Rights",
-        "Class Actions",
-        "Discrimination",
-        "ERISA",
         "Employment Rights",
-        "Immigration",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Securities",
+        "Discrimination",
         "Sexual Harassment",
         "Wage and Hour",
+        "Wrongful Termination",
         "Whistleblower and Qui Tam",
-        "Wrongful Termination"
+        "Class Actions",
+        "Civil Rights",
+        "Immigration",
+        "Assault and Battery (Plaintiff)",
+        "Securities",
+        "ERISA"
       ],
       "additional_locations": []
     },
@@ -19667,8 +20337,8 @@
         "Rosemary Dettling Esq."
       ],
       "official_practice_area": [
-        "Discrimination",
-        "Employment Rights"
+        "Employment Rights",
+        "Discrimination"
       ],
       "additional_locations": []
     },
@@ -19706,7 +20376,6 @@
         "Dorothy Simpson Dickerson"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Probate"
       ],
       "additional_locations": []
@@ -19855,13 +20524,11 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
+        "Litigation and Appeals",
         "DUI and DWI",
-        "Drug Crime",
         "Federal and White Collar Crimes",
         "Health Care Law",
-        "Litigation and Appeals",
-        "Sex Crime",
-        "Traffic Ticket"
+        "Drug Crime"
       ],
       "additional_locations": []
     },
@@ -19940,9 +20607,8 @@
         "Vanessa Carpenter Lourie"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Probate",
-        "Real Estate"
+        "Real Estate",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -20001,26 +20667,23 @@
         "Lloyd A. Malech"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
         "Adoption",
         "Business Organizations",
-        "Business and Commercial Law",
         "Child Support",
         "Contracts",
         "Criminal Defense",
         "DUI and DWI",
         "Divorce and Separation",
-        "Employment Law (Employer)",
         "Employment Rights",
+        "Employment Law (Employer)",
         "Estate Planning",
         "Family Law",
-        "Federal and White Collar Crimes",
         "Immigration",
         "Personal Injury",
         "Probate",
         "Real Estate",
         "Sexual Harassment",
-        "Traffic Ticket"
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -20103,7 +20766,6 @@
         "John E. McCullough"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Probate"
       ],
       "additional_locations": []
@@ -20200,12 +20862,9 @@
         "David G. Ross"
       ],
       "official_practice_area": [
-        "Business Organizations",
         "Business and Commercial Law",
-        "Employment Rights",
         "Franchising",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -20376,7 +21035,9 @@
       "attorneys": [
         "Christopher D. Brown"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ],
       "additional_locations": []
     },
     {
@@ -20421,7 +21082,10 @@
         "Robert S. Bullock Esq., CELA, CAP",
         "Abigail L. Wolf Stanton Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Elder Law",
+        "Probate"
+      ],
       "additional_locations": []
     },
     {
@@ -20468,7 +21132,9 @@
         "Roger Taylor",
         "Jing Zhao"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Patents"
+      ],
       "additional_locations": []
     },
     {
@@ -20514,7 +21180,9 @@
         "Caragh Glenn Fay",
         "Thomas Fortune Fay"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -20553,7 +21221,9 @@
       "attorneys": [
         "Kenneth R Feinberg"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
+      ],
       "additional_locations": []
     },
     {
@@ -20589,7 +21259,9 @@
       "attorneys": [
         "Jonathan L. Gould"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Sexual Harassment"
+      ],
       "additional_locations": []
     },
     {
@@ -20631,7 +21303,9 @@
         "Joanne Roney Hepworth",
         "Reita P. Pendry"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -20669,7 +21343,10 @@
         "David Kirstein",
         "Joanne Young"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Transportation",
+        "Aviation"
+      ],
       "additional_locations": []
     },
     {
@@ -20708,7 +21385,9 @@
         "Brandon J. Levine",
         "Jennifer Levine"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Drugs and Medical Devices"
+      ],
       "additional_locations": []
     },
     {
@@ -20753,7 +21432,9 @@
         "R. Brooke Lewis",
         "Steffanie Jones Lewis"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Immigration"
+      ],
       "additional_locations": []
     }
   ]

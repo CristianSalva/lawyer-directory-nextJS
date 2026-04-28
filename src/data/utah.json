@@ -93,6 +93,9 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -178,6 +181,13 @@
             "Utah Construction Law Section of Utah State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Construction",
+        "Transportation",
+        "Adoption",
+        "Traffic Ticket"
       ]
     },
     {
@@ -260,6 +270,13 @@
             "Japanese"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Contracts",
+        "Business and Commercial Law",
+        "Construction",
+        "Real Estate"
       ]
     },
     {
@@ -355,6 +372,12 @@
             "Colorado"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Construction",
+        "Bad Faith Insurance",
+        "Employment Rights"
       ]
     },
     {
@@ -474,6 +497,10 @@
             "University of Utah National Intellectual Property Moot Court team"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "International Law"
       ]
     },
     {
@@ -612,6 +639,10 @@
             "Phi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Credit Repair"
       ]
     },
     {
@@ -712,6 +743,17 @@
             "United States Marine Corps, 1999 - 2003 (Sergeant)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Personal Injury",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -750,7 +792,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "nan-t-bassett",
@@ -786,7 +829,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "marlon-l-bates",
@@ -912,6 +956,13 @@
             "American Legal and Financial Network (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Real Estate",
+        "Litigation and Appeals",
+        "Business Organizations",
+        "Contracts"
       ]
     },
     {
@@ -1021,6 +1072,10 @@
             "Transportation Lawyers Association and the Transportation Intermediaries Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Contracts"
       ]
     },
     {
@@ -1090,6 +1145,9 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1182,6 +1240,10 @@
             "David K. Watkiss-Sutherland II Inn of Court, 2010 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Construction"
       ]
     },
     {
@@ -1301,6 +1363,13 @@
             "Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Bankruptcy",
+        "Landlord and Tenant",
+        "Real Estate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -1414,6 +1483,13 @@
             "Transportation Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Construction",
+        "Transportation",
+        "Litigation and Appeals",
+        "Contracts"
       ]
     },
     {
@@ -1534,6 +1610,15 @@
             "U.S. District Court District of Utah, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Health Care Law",
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Trusts",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -1625,6 +1710,14 @@
             "Women Lawyers of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "Estate Planning",
+        "Family Law",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -1709,6 +1802,9 @@
             "Utah Employment Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration"
       ]
     },
     {
@@ -1811,6 +1907,13 @@
             "Utah State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Employment Rights",
+        "Business and Commercial Law",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -1929,6 +2032,14 @@
             "JMLS Fair Housing Association, President & Member, 2005 - 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Landlord and Tenant",
+        "Real Estate",
+        "Entertainment Sports and Leisure Law"
       ]
     },
     {
@@ -2011,6 +2122,12 @@
             "Psi Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Business and Commercial Law",
+        "Family Law",
+        "Adoption"
       ]
     },
     {
@@ -2059,7 +2176,8 @@
             "Managing Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "edward-l-carter",
@@ -2169,7 +2287,8 @@
             "U.S. Supreme Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "edgar-r-cataxinos",
@@ -2288,6 +2407,10 @@
             "Advisory Board member - Law and Biomedical Sciences (LABS) Center at the University of Utah Law School"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "International Law"
       ]
     },
     {
@@ -2374,6 +2497,12 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Construction",
+        "Business and Commercial Law",
+        "Probate"
       ]
     },
     {
@@ -2464,7 +2593,8 @@
             "Pi Sigma Alpha"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "halston-t-davis",
@@ -2590,6 +2720,9 @@
             "Sutherland Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -2723,6 +2856,12 @@
             "Utah Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Criminal Defense"
       ]
     },
     {
@@ -2832,6 +2971,10 @@
             "Colorado State Bar (Member (Inactive))"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Real Estate"
       ]
     },
     {
@@ -2949,7 +3092,8 @@
             "U.S. Supreme Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "steven-dubreuil",
@@ -3017,6 +3161,15 @@
           "type": "text",
           "content": "Steven DuBreuil is originally from Chino Hills, California. He completed his undergraduate studies at the University of Utah, where he graduated at the top of his class with a degree in Political Science. Shortly after, Steven attended law school and graduated three years later with his juris doctorate. Mr. DuBreuil worked for a criminal defense firm before starting his own practice to better serve his clients."
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Domestic Violence",
+        "Drug Crime",
+        "DUI and DWI",
+        "Sex Crime",
+        "Federal and White Collar Crimes",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -3106,6 +3259,15 @@
             "Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Administrative Law",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -3180,7 +3342,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "daniel-p-elliot",
@@ -3271,6 +3434,12 @@
             "U.S. District Court District of Utah, 1985"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Labor Law"
       ]
     },
     {
@@ -3347,6 +3516,15 @@
             "English"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Business and Commercial Law",
+        "Securities",
+        "Real Estate",
+        "Trademarks",
+        "State Local and Municipal Law",
+        "Discrimination"
       ]
     },
     {
@@ -3422,6 +3600,12 @@
             "U.S. District Court District of Utah, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Business Organizations",
+        "Trusts",
+        "Contracts"
       ]
     },
     {
@@ -3678,6 +3862,30 @@
             "U.S. District Court District of Utah, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation",
+        "Assault and Battery (Plaintiff)",
+        "Aviation",
+        "Real Estate",
+        "Eminent Domain",
+        "Copyrights",
+        "Credit Repair",
+        "Defamation",
+        "Housing and Construction Defects",
+        "Entertainment Sports and Leisure Law",
+        "Banking and Finance Law",
+        "Internet",
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Oil Gas and Energy",
+        "Railroad Worker Injury and FELA",
+        "Securities",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -3764,7 +3972,8 @@
             "American College of Trial Lawyers (Fellow)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "darin-s-featherstone",
@@ -3855,6 +4064,9 @@
             "U.S. District Court District of Utah, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3986,6 +4198,11 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -4061,6 +4278,12 @@
             "Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Landlord and Tenant",
+        "Family Law",
+        "Construction"
       ]
     },
     {
@@ -4149,6 +4372,14 @@
             "American Inns of Court, Sutherland Inn II (Associate Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Insurance Law",
+        "Real Estate",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Toxic Torts"
       ]
     },
     {
@@ -4197,6 +4428,9 @@
           "type": "text",
           "content": "Kayla M. Gothard is a dedicated attorney with a background in municipal law, HOA law, real property, and litigation. Known for her unwavering commitment to providing exemplary legal services, Kayla has become a trusted advocate for her clients, offering sound advice and strategic solutions.\n\nProfessional Background: Kayla earned her Juris Doctorate from Brigham Young University (BYU) Law School in 2022. She has since gained experience in municipal law, HOA law, real property matters, and litigation.\n\nAreas of Expertise:\n\nMunicipal Law: Kayla possesses an understanding of municipal regulations and laws, and navigates complex issues with finesse to ensure compliance and to protect her clients' interests.\n\nHOA Law: As an HOA law practitioner, Kayla has successfully guided clients through the unique challenges of homeowners' association matters, providing effective solutions tailored to their specific needs.\n\nReal Property: Kayla's expertise in real property law extends from transactional matters to dispute resolution, allowing her to assist clients in maximizing the value and security of their real estate investments.\n\nLitigation: Kayla is a formidable advocate in the courtroom, combining legal acumen with a strategic approach to achieve favorable outcomes for her clients.\n\nPassions Beyond the Courtroom: Outside the legal arena, Kayla finds joy in spending time with her beloved horses and her Pomeranian, Pookie. Her love for animals reflects her compassionate nature, both in and out of the office.\n\nPersonal Background: Originally hailing from Las Vegas, Kayla has found a home in the picturesque landscapes of Utah. She embraces the unique lifestyle and values the close-knit community that Utah offers.\n\nPhilosophy: Kayla is not just an attorney; she is a dedicated advocate who believes in the power of legal counsel to make a positive impact on individuals and communities. Her passion for helping clients navigate legal complexities shines through in every case she takes on.\n\nFor Kayla, the practice of law is not just a profession; it's a calling to make a difference in the lives of those she serves."
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4256,6 +4490,14 @@
             "Utah, 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence",
+        "Federal and White Collar Crimes",
+        "DUI and DWI"
       ]
     },
     {
@@ -4373,6 +4615,13 @@
             "Utah State Bar Association, 1992 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Family Law",
+        "Father's Rights"
       ]
     },
     {
@@ -4463,6 +4712,12 @@
             "Phi Alpha Delta Legal Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate",
+        "Personal Injury"
       ]
     },
     {
@@ -4529,6 +4784,12 @@
             "Attorney at Law"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Sexual Abuse",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence"
       ]
     },
     {
@@ -4631,6 +4892,10 @@
             "Adjunct Instructor at S.J. Quinney College of Law, Arbitration (2016), Trial Advocacy (2021-present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Environmental Law"
       ]
     },
     {
@@ -4694,6 +4959,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4792,7 +5060,8 @@
             "Utah Association for Justice"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "preston-l-handy",
@@ -4889,6 +5158,9 @@
             "Utah Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4972,6 +5244,9 @@
             "Judge Pamela T. Greenwood of the Utah Court of Appeals, Summer Intern"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5041,6 +5316,10 @@
             "Utah State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -5158,6 +5437,15 @@
             "Board of Directors for the Federal Bar Association, 2009 - 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Banking and Finance Law",
+        "Securities",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Estate Planning",
+        "Entertainment Sports and Leisure Law"
       ]
     },
     {
@@ -5279,6 +5567,11 @@
             "Utah Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -5376,6 +5669,9 @@
             "Utah State Bar, Young Lawyer's Division, Veterans Pro Bono Clinic, Committee Member, 2018 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5468,6 +5764,12 @@
             "United States Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Contracts",
+        "Personal Injury",
+        "Business Organizations"
       ]
     },
     {
@@ -5576,6 +5878,13 @@
             "Aldon J. Anderson American Inns of Court, Secretary-Treasurer, 2006, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Estate Planning",
+        "Real Estate",
+        "Personal Injury",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -5676,6 +5985,13 @@
             "Litigation Section of the Utah State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Construction",
+        "Business and Commercial Law",
+        "Contracts",
+        "Employment Rights"
       ]
     },
     {
@@ -5856,6 +6172,11 @@
             "Community Association Institute (Utah), 2002 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Collections",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -5899,7 +6220,8 @@
           "type": "text",
           "content": "Aspen M. Jensen grew up in American Fork, Utah. There she worked as a stone mason hod tender in the family business and acquired a passion for construction law. Ms. Jensen earned her Bachelor of Arts in English with a minor in Political Science from BYU-Idaho in 2016. She attended Sandra Day O'Connor College of Law at Arizona State University earning her Juris Doctor in 2021. While in law school she was a member of the Law Journal for Social Justice, as well as the Native American Law Student Association where she gained a specialty in Indian Law. Ms. Jensen became a member of the Utah State Bar in 2022. She was honored to be one of twelve lawyers chosen to be part of the Utah State Bar Leadership Academy of 2024. She currently serves as Chair of the Board of Directors for the Urban Indian Center of Salt Lake, and also serves as Chair of the Indian Law Section of the Utah State Bar. Ms. Jensen joined Scalley Reading in 2025 where she practices in construction disputes, business law, contracts, insurance defense, and federal Indian law. As a civil litigator who prioritizes her clients' needs, Ms. Jensen has saved her clients millions of dollars by promoting negotiations and creative solutions. Ms. Jensen is a member of the Navajo Nation (Dine) and continues to serve the greater Native American population in Utah. Ms. Jensen enjoys spending time with family, watching movies, reading, gardening, and making stained glass."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-g-jessop",
@@ -6038,6 +6360,13 @@
             "U.S. Court of Appeals 10th Circuit, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Eminent Domain",
+        "Contracts",
+        "Employment Rights",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -6144,6 +6473,10 @@
             "Real Property Law Section of the Utah State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Real Estate"
       ]
     },
     {
@@ -6195,7 +6528,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jeremy-b-johnson",
@@ -6295,6 +6629,10 @@
             "Past President of Habitat for Humanity, Utah County"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "Eminent Domain"
       ]
     },
     {
@@ -6392,6 +6730,9 @@
             "Williamson County Criminal Defense Lawyer Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -6492,6 +6833,12 @@
             "Utah Bankruptcy Lawyers Forum, Vice-President, 2007 - 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Family Law",
+        "Contracts"
       ]
     },
     {
@@ -6639,6 +6986,10 @@
             "AILA, 2010 - 2011 (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Criminal Defense"
       ]
     },
     {
@@ -6748,6 +7099,9 @@
             "Utah Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6837,6 +7191,10 @@
             "Utah, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Securities"
       ]
     },
     {
@@ -6912,6 +7270,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -6990,6 +7351,12 @@
             "Utah, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Probate",
+        "Business Organizations"
       ]
     },
     {
@@ -7083,6 +7450,11 @@
             "J. Reuben Clark Law Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Family Law"
       ]
     },
     {
@@ -7136,6 +7508,9 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7230,6 +7605,11 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Construction",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -7275,7 +7655,8 @@
             "Utah, 2025"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-p-lowrance",
@@ -7377,6 +7758,13 @@
             "American Association for Justice (AAJ)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Animal and Dog Bites",
+        "Wrongful Death"
       ]
     },
     {
@@ -7451,6 +7839,11 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -7634,6 +8027,15 @@
             "U.S. Supreme Court, 2000"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Patents",
+        "Construction",
+        "Contracts",
+        "Copyrights",
+        "Trademarks",
+        "Securities"
       ]
     },
     {
@@ -7729,7 +8131,8 @@
             "Association for Transportation Law, Logistics and Policy (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "r-scott-marshall",
@@ -7833,6 +8236,9 @@
             "West Virginia Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -7898,6 +8304,9 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7984,6 +8393,9 @@
             "Utah State Bar Member: Real Property Section and Community Association Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -8089,6 +8501,9 @@
             "Utah Association for Justice (Utah Trial Lawyers Association), 2002 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -8176,6 +8591,15 @@
             "U.S. Federal Courts, 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Estate Planning",
+        "Family Law",
+        "Real Estate",
+        "Business Organizations"
       ]
     },
     {
@@ -8227,7 +8651,8 @@
             "Founding Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "anthony-c-mcmullin",
@@ -8319,6 +8744,10 @@
             "Southern Utah Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Personal Injury"
       ]
     },
     {
@@ -8425,6 +8854,10 @@
             "Alpha Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -8515,6 +8948,9 @@
             "Treasurer/Secretary Wyoming Bankruptcy Bar Committee, 2021 - 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction"
       ]
     },
     {
@@ -8618,6 +9054,10 @@
             "Utah Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Transportation"
       ]
     },
     {
@@ -8694,6 +9134,14 @@
             "Tooele County Bar (Member / President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Probate",
+        "Adoption",
+        "Real Estate"
       ]
     },
     {
@@ -8788,6 +9236,9 @@
             "Texas Trial Lawyers Association (Board of Advocates Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -8833,7 +9284,12 @@
         "Avoiding Foreclosure",
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "jared-l-mortenson",
@@ -8926,6 +9382,9 @@
             "Utah Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -9024,6 +9483,10 @@
             "Community Association Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -9065,7 +9528,10 @@
         "Motor Vehicle Accidents -- Plaintiff",
         "Animal Bites - Plaintiff"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "1337834_1",
@@ -9104,7 +9570,8 @@
       "practice_areas": [
         "Construction Industry Group"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5162265_1",
@@ -9141,7 +9608,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3381291_1",
@@ -9180,7 +9648,8 @@
       "practice_areas": [
         "Business & Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5199011_1",
@@ -9219,7 +9688,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "1261257_1",
@@ -9258,7 +9730,8 @@
       "practice_areas": [
         "Business Transactions & Corporate Governance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1752026_1",
@@ -9297,7 +9770,8 @@
       "practice_areas": [
         "Business Transactions & Corporate Governance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3571579_1",
@@ -9336,7 +9810,10 @@
       "practice_areas": [
         "Business Bankruptcy and Creditor Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "3913002_1",
@@ -9375,7 +9852,8 @@
       "practice_areas": [
         "Construction Industry Group"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1130696_1",
@@ -9414,7 +9892,10 @@
       "practice_areas": [
         "Insurance Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Law"
+      ]
     },
     {
       "slug": "1940282_1",
@@ -9453,7 +9934,8 @@
       "practice_areas": [
         "Business & Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4969319_1",
@@ -9492,7 +9974,8 @@
       "practice_areas": [
         "Business Transactions & Corporate Governance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4341378_1",
@@ -9531,108 +10014,9 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
-    },
-    {
-      "slug": "ruth-hackford-peer",
-      "type": "attorney",
-      "name": "Ruth Hackford",
-      "firm_name": "James Dodge Russell & Stephens, P.C.",
-      "firm_slug": "james-dodge-russell-stephens-p-c",
-      "practice_type": "Business/Commercial Litigation Lawyers in Salt Lake City, UT",
-      "years_experience": null,
-      "free_consultation": true,
-      "super_lawyers": null,
-      "photo": "/photos/attorneys/ruth-hackford-peer.jpg",
-      "bio": "Ruth Hackford-Peer is Of Counsel with the firm and concentrates her practice on both civil and criminal matters, from complex commercial litigation to internal investigations, and is uniquely situated to do so.\n\nMs. Hackford-Peer is a seasoned trial lawyer and former Assistant United States Attorney in the District of Utah with more than a decade of litigation experience, primarily focused on complex financial crimes litigation in federal court. Recently, Ms. Hackford-Peer moved from the prosecution side to help defend companies and individuals in the most complex financial and white-collar cases, and her experience as a former prosecutor provides a unique perspective of the legal process those navigating potential criminal investigations. Ms. Hackford-Peer has a known track record of resolving high-stakes issues at the investigative stage, often before formal proceedings are initiated, but is always ready to take a matter to trial.\n\nAwards and Honors\n\nHonors\n\nS.J. Quinney College of Law Young Alumna of the Year Award 2022\n\nU.S. Attorney’s Award for Excellent Performance by a Litigative Team in U.S. v. Koerber, 2020",
-      "location": {
-        "state": "Utah",
-        "state_abbr": "UT",
-        "city": "Salt Lake City",
-        "address": "545 East 300 South",
-        "address2": null,
-        "zip": "84102"
-      },
-      "contact": {
-        "phones": [
-          "801-363-6363"
-        ],
-        "fax": null,
-        "websites": [
-          "https://www.jdrslaw.com"
-        ],
-        "hours": "Monday to Friday - 8AM–5:30PM, Saturday & Sunday - Closed",
-        "features": [
-          "Free Consultations"
-        ]
-      },
-      "practice_areas": [
-        "Business/Commercial Litigation",
-        "White-Collar Defense",
-        "Independent & Internal Investigations",
-        "Cryptocurrency & Blockchain",
-        "Environmental Regulation"
-      ],
-      "sections": [
-        {
-          "title": "Overview",
-          "type": "text",
-          "content": "Ruth Hackford-Peer is Of Counsel with the firm and concentrates her practice on both civil and criminal matters, from complex commercial litigation to internal investigations, and is uniquely situated to do so.\n\nMs. Hackford-Peer is a seasoned trial lawyer and former Assistant United States Attorney in the District of Utah with more than a decade of litigation experience, primarily focused on complex financial crimes litigation in federal court. Recently, Ms. Hackford-Peer moved from the prosecution side to help defend companies and individuals in the most complex financial and white-collar cases, and her experience as a former prosecutor provides a unique perspective of the legal process those navigating potential criminal investigations. Ms. Hackford-Peer has a known track record of resolving high-stakes issues at the investigative stage, often before formal proceedings are initiated, but is always ready to take a matter to trial.\n\nAwards and Honors\n\nHonors\n\nS.J. Quinney College of Law Young Alumna of the Year Award 2022\n\nU.S. Attorney’s Award for Excellent Performance by a Litigative Team in U.S. v. Koerber, 2020"
-        },
-        {
-          "title": "Education",
-          "type": "grouped_list",
-          "content": [
-            {
-              "label": "Legal Education",
-              "items": [
-                "The S.J. Quinney College of Law at The University of Utah, Salt Lake City, Utah, 2013",
-                "J.D.",
-                "Honors: Order of the Coif, Highest Honors, Rank #3, 3rd place in Regional Mediation Team Competition"
-              ]
-            },
-            {
-              "label": "Non Legal Education",
-              "items": [
-                "University of Massachusetts, Amherst, Utah, 2000",
-                "Master of Education",
-                "Honors: cum laude",
-                "Honors: 4.0 GPA",
-                "Utah State University, Logan, Utah, 1996",
-                "B.S.",
-                "Honors: magna cum laude",
-                "Honors: 3.9 GPA"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Current Employment Position(s)",
-          "type": "list",
-          "content": [
-            "Of Counsel"
-          ]
-        },
-        {
-          "title": "Bar Admissions",
-          "type": "list",
-          "content": [
-            "Utah, 2014",
-            "U.S. District Court District of Utah",
-            "U.S. Court of Appeals 10th Circuit"
-          ]
-        },
-        {
-          "title": "Other Affiliations",
-          "type": "list",
-          "content": [
-            "Deputy Section Chief of Securities Fraud Section USAO",
-            "Utah State Bar Leadership Academy, 2019",
-            "Utah Supreme Court Ethics and Discipline Committee, 2021-2024",
-            "David K. Watkiss-Sutherland Inns of Court, 2012 – present (President 2020)",
-            "Adjunct Instructor at S.J. Quinney College of Law, Arbitration (2016), Trial Advocacy (2021-present)"
-          ]
-        }
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -9735,6 +10119,116 @@
             "Adjunct Instructor at S.J. Quinney College of Law, Arbitration (2016), Trial Advocacy (2021-present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Environmental Law"
+      ]
+    },
+    {
+      "slug": "ruth-hackford-peer",
+      "type": "attorney",
+      "name": "Ruth Hackford",
+      "firm_name": "James Dodge Russell & Stephens, P.C.",
+      "firm_slug": "james-dodge-russell-stephens-p-c",
+      "practice_type": "Business/Commercial Litigation Lawyers in Salt Lake City, UT",
+      "years_experience": null,
+      "free_consultation": true,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/ruth-hackford-peer.jpg",
+      "bio": "Ruth Hackford-Peer is Of Counsel with the firm and concentrates her practice on both civil and criminal matters, from complex commercial litigation to internal investigations, and is uniquely situated to do so.\n\nMs. Hackford-Peer is a seasoned trial lawyer and former Assistant United States Attorney in the District of Utah with more than a decade of litigation experience, primarily focused on complex financial crimes litigation in federal court. Recently, Ms. Hackford-Peer moved from the prosecution side to help defend companies and individuals in the most complex financial and white-collar cases, and her experience as a former prosecutor provides a unique perspective of the legal process those navigating potential criminal investigations. Ms. Hackford-Peer has a known track record of resolving high-stakes issues at the investigative stage, often before formal proceedings are initiated, but is always ready to take a matter to trial.\n\nAwards and Honors\n\nHonors\n\nS.J. Quinney College of Law Young Alumna of the Year Award 2022\n\nU.S. Attorney’s Award for Excellent Performance by a Litigative Team in U.S. v. Koerber, 2020",
+      "location": {
+        "state": "Utah",
+        "state_abbr": "UT",
+        "city": "Salt Lake City",
+        "address": "545 East 300 South",
+        "address2": null,
+        "zip": "84102"
+      },
+      "contact": {
+        "phones": [
+          "801-363-6363"
+        ],
+        "fax": null,
+        "websites": [
+          "https://www.jdrslaw.com"
+        ],
+        "hours": "Monday to Friday - 8AM–5:30PM, Saturday & Sunday - Closed",
+        "features": [
+          "Free Consultations"
+        ]
+      },
+      "practice_areas": [
+        "Business/Commercial Litigation",
+        "White-Collar Defense",
+        "Independent & Internal Investigations",
+        "Cryptocurrency & Blockchain",
+        "Environmental Regulation"
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "type": "text",
+          "content": "Ruth Hackford-Peer is Of Counsel with the firm and concentrates her practice on both civil and criminal matters, from complex commercial litigation to internal investigations, and is uniquely situated to do so.\n\nMs. Hackford-Peer is a seasoned trial lawyer and former Assistant United States Attorney in the District of Utah with more than a decade of litigation experience, primarily focused on complex financial crimes litigation in federal court. Recently, Ms. Hackford-Peer moved from the prosecution side to help defend companies and individuals in the most complex financial and white-collar cases, and her experience as a former prosecutor provides a unique perspective of the legal process those navigating potential criminal investigations. Ms. Hackford-Peer has a known track record of resolving high-stakes issues at the investigative stage, often before formal proceedings are initiated, but is always ready to take a matter to trial.\n\nAwards and Honors\n\nHonors\n\nS.J. Quinney College of Law Young Alumna of the Year Award 2022\n\nU.S. Attorney’s Award for Excellent Performance by a Litigative Team in U.S. v. Koerber, 2020"
+        },
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "The S.J. Quinney College of Law at The University of Utah, Salt Lake City, Utah, 2013",
+                "J.D.",
+                "Honors: Order of the Coif, Highest Honors, Rank #3, 3rd place in Regional Mediation Team Competition"
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "University of Massachusetts, Amherst, Utah, 2000",
+                "Master of Education",
+                "Honors: cum laude",
+                "Honors: 4.0 GPA",
+                "Utah State University, Logan, Utah, 1996",
+                "B.S.",
+                "Honors: magna cum laude",
+                "Honors: 3.9 GPA"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Of Counsel"
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Utah, 2014",
+            "U.S. District Court District of Utah",
+            "U.S. Court of Appeals 10th Circuit"
+          ]
+        },
+        {
+          "title": "Other Affiliations",
+          "type": "list",
+          "content": [
+            "Deputy Section Chief of Securities Fraud Section USAO",
+            "Utah State Bar Leadership Academy, 2019",
+            "Utah Supreme Court Ethics and Discipline Committee, 2021-2024",
+            "David K. Watkiss-Sutherland Inns of Court, 2012 – present (President 2020)",
+            "Adjunct Instructor at S.J. Quinney College of Law, Arbitration (2016), Trial Advocacy (2021-present)"
+          ]
+        }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Environmental Law"
       ]
     },
     {
@@ -9774,7 +10268,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "barrett-naman",
@@ -9861,6 +10358,9 @@
             "American Association for Justice (AAJ) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -9923,6 +10423,9 @@
             "Completed Training for National Highway Traffic Safety Administration (NHTSA) for DUI Detection and Standardized Field Sobriety Testing"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -10010,6 +10513,9 @@
             "Utah, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -10108,6 +10614,9 @@
             "ABA, 2000 - 2001 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -10214,6 +10723,12 @@
             "Litigation and Construction Law sections of the Utah State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Collections",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -10320,6 +10835,13 @@
             "Utah Valley Sport Fencing, 2002 - Present (Director)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Employment Law (Employer)",
+        "Estate Planning"
       ]
     },
     {
@@ -10400,6 +10922,9 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -10491,6 +11016,10 @@
             "Utah, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -10580,6 +11109,9 @@
             "Medical Recovery Services, LLC v. Gepford, 468 P.3d 312 (Idaho Ct. App. 2020) (affirming dismissal and award of attorney fees to client)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -10676,6 +11208,10 @@
             "American Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law"
       ]
     },
     {
@@ -10747,6 +11283,11 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -10885,6 +11426,19 @@
             "Alpha Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Credit Repair",
+        "Collections",
+        "Bankruptcy",
+        "Contracts",
+        "Tax Law",
+        "Housing and Construction Defects",
+        "Elder Law",
+        "Trusts",
+        "Wills",
+        "Adoption",
+        "Real Estate"
       ]
     },
     {
@@ -10981,6 +11535,11 @@
             "Utah, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -11032,7 +11591,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chip-parker",
@@ -11127,6 +11687,9 @@
             "Founding Member, Bankruptcy Law Network"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -11224,6 +11787,10 @@
             "U.S. Court of Appeals Federal Circuit, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Constitutional Law"
       ]
     },
     {
@@ -11309,6 +11876,9 @@
             "Megan Mahoney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -11348,7 +11918,8 @@
           "type": "text",
           "content": "Ms. Pruetz received her B.S. in Sociology from Southern Utah University in 2017, her Master of Public Administration from the University of York in 2019, and her Juris Doctorate from the University of Oregon School of Law in 2023.\n\nPrior to law school, Ms. Pruetz worked with nonprofit organizations in various capacities, including grant writing and coordinating mental health departments. During law school, she clerked with the Oregon Department of Justice’s child advocacy division and participated in a nonprofit clinic that provided legal and governance advice to small, local nonprofit organizations. Ms. Pruetz also clerked with Gardner Beckley Meadows, a civil litigation firm in Eugene, Oregon, which she joined as an attorney upon bar passage. In that capacity, Ms. Pruetz represented individuals and entities in various legal matters, including estate planning, complex probate, adult protective proceedings, and civil litigation. Owing in large part to her years of experience in the nonprofit sector, Ms. Pruetz provides each of her clients with competent and compassionate representation."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-c-purcell",
@@ -11423,7 +11994,8 @@
             "Judge D. Michael Fisher of the United States Third Circuit Court of Appeals, Judicial intern"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sarah-puzzo",
@@ -11459,7 +12031,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "scott-n-rasmussen",
@@ -11549,6 +12122,11 @@
             "New York, 1983"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -11702,6 +12280,13 @@
             "Chi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Construction",
+        "Family Law",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -11789,6 +12374,12 @@
             "Church of Jesus Christ of Latter Day Saints in Roseville, California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -11833,7 +12424,8 @@
           "type": "text",
           "content": "Maycee Redfearn was born and raised in St. George, Utah. She earned her bachelor’s degree in Political Science, with a minor in Chemistry, from the University of Utah. During her undergraduate studies, Maycee worked for one of Utah’s leading mortgage companies, where she managed the compliance department. This experience sparked her passion for the law, particularly in the area of property law.\n\nMaycee went on to earn her Juris Doctor from Texas Tech University School of Law. While in law school, she strengthened her legal writing skills as an Articles Editor for The Texas Tech Law Review and refined her advocacy abilities through national mock trial competitions. She also served as Vice Chair of Judges for the law school’s esteemed Board of Barristers advocacy organization. During her summers, Maycee gained practical experience as a Law Clerk at JBS, assisting with legal research, governing document amendments, and litigation preparation.\n\nNow based in the firm’s Salt Lake City office, Maycee is dedicated to growing her expertise and contributing to the firm’s work. Outside of the office, she enjoys reading, traveling, paddleboarding, and spending time with her loved ones.\n\nEducation: J.D., Texas Tech School of Law at Texas Tech University; B.S., Political Science, University of Utah."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-reichardt",
@@ -11931,6 +12523,11 @@
             "U.S. District Court District of Utah, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Disability Insurance",
+        "Social Security"
       ]
     },
     {
@@ -11968,7 +12565,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-ross",
@@ -12047,6 +12645,11 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -12144,6 +12747,14 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning",
+        "Personal Injury",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -12265,6 +12876,9 @@
             "President, Aldon J. Anderson American Inn of Court, 2018-2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -12349,6 +12963,11 @@
             "Member, Board of Directors for the Himmelsburg Foundation"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction",
+        "Insurance Law"
       ]
     },
     {
@@ -12455,6 +13074,15 @@
             "Utah State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Divorce and Separation",
+        "DUI and DWI",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Bankruptcy"
       ]
     },
     {
@@ -12540,6 +13168,11 @@
             "U.S. District Court District of Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -12661,6 +13294,11 @@
             "Utah State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -12767,6 +13405,9 @@
             "J. Reuben Clark Law Society (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -12862,7 +13503,8 @@
             "U.S. Army Reserve, 1977 - Present (LTC, Judge Advocate)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ford-g-scalley",
@@ -12973,6 +13615,13 @@
             "Beta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Workers' Compensation",
+        "Housing and Construction Defects",
+        "Trusts",
+        "Personal Injury"
       ]
     },
     {
@@ -13073,6 +13722,11 @@
             "Utah, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -13192,6 +13846,11 @@
             "State Bar of Nevada, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Contracts"
       ]
     },
     {
@@ -13303,6 +13962,13 @@
             "American Inns of Court, 1990 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Professional Malpractice",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -13431,6 +14097,15 @@
             "Salt Lake Estate Planning Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Business Organizations",
+        "Probate",
+        "Real Estate",
+        "Wills",
+        "Adoption"
       ]
     },
     {
@@ -13517,6 +14192,13 @@
             "U.S. District Court District of Utah, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice",
+        "Criminal Defense",
+        "Professional Malpractice",
+        "Assault and Battery (Plaintiff)",
+        "DUI and DWI"
       ]
     },
     {
@@ -13615,6 +14297,14 @@
             "Young Lawyers of Utah, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Employment Rights",
+        "Mergers and Acquisitions",
+        "Banking and Finance Law",
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -13705,6 +14395,10 @@
             "The Central Utah Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law"
       ]
     },
     {
@@ -13760,6 +14454,10 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -13879,6 +14577,10 @@
             "Community Associations Institute (CAI) (2010-Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13985,6 +14687,11 @@
             "Aldon J. Anderson American Inns of Court (Participant)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -14028,7 +14735,8 @@
             "Attorney and Counselor at Law"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-s-swan",
@@ -14106,6 +14814,13 @@
             "U.S. Tax Court, 1983"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Collections"
       ]
     },
     {
@@ -14224,6 +14939,11 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Patents",
+        "Trademarks"
       ]
     },
     {
@@ -14331,6 +15051,9 @@
             "Federal Circuit Bar Association, 2021 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -14402,6 +15125,9 @@
             "Utah, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -14545,6 +15271,17 @@
             "U.S. Court of Appeals 10th Circuit, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "ADR Arbitration and Mediation",
+        "Bankruptcy",
+        "Collections",
+        "Real Estate",
+        "Contracts",
+        "Credit Repair",
+        "Housing and Construction Defects",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -14616,7 +15353,8 @@
             "Construction Law Section of the Utah State Bar"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peggy-a-tomsic",
@@ -14789,6 +15527,15 @@
             "Salt Lake Chamber of Commerce, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Contracts",
+        "Eminent Domain",
+        "Copyrights",
+        "Patents",
+        "Trademarks",
+        "Securities"
       ]
     },
     {
@@ -14899,7 +15646,8 @@
             "U.S. Federal Courts, 1978"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-b-warner",
@@ -15001,6 +15749,14 @@
             "Colorado State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "Estate Planning",
+        "Family Law",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -15072,6 +15828,11 @@
             "Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -15177,6 +15938,12 @@
             "U.S. District Court District of Utah, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Real Estate",
+        "Personal Injury"
       ]
     },
     {
@@ -15267,6 +16034,11 @@
             "Utah"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -15388,6 +16160,9 @@
             "Founding Member, Bankruptcy Law Network"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -15466,6 +16241,10 @@
             "Spanish"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -15557,6 +16336,12 @@
             "Fullmer v. Fullmer, 2015 UT App 60, 347 P.3d 14. (This is a divorce case)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Bad Faith Insurance",
+        "Transportation",
+        "Professional Malpractice"
       ]
     },
     {
@@ -15596,7 +16381,8 @@
           "type": "text",
           "content": "Ms. Cody Winchester has extensive experience in intellectual property litigation and licensing. Representing Fortune 500 companies, she has successfully litigated numerous trademark infringement, copyright infringement, and cyberpiracy matters, including matters culminating in opinions recognized as “Trademark Opinion of the Year” by the International Trademark Association – in 2006, representing Volkswagen on and after appeal in Au-Tomotive Gold, Inc. v. Volkswagen of America, and in 2002, representing Ford in Ford Motor Company v. Lloyd Design Corp.\n\nShe has been repeatedly recognized by her peers as one of Utah’s “Legal Elite” in the category of Intellectual Property as determined by an annual survey of members of the Utah bar conducted by Utah Business Magazine.\n\nMs. Winchester served as an Adjunct Professor of Law at the University of Utah S. J. Quinney College of Law, teaching Pretrial Practice and Procedure, from 2011 to 2015 and again from 2021 to 2022. She also served on the Legislation Committee of the Business Law Section of the Utah State Bar, reviewing proposed legislation and regulations for impacts on Utah businesses and advocating for improvements to laws and regulations to support business development and business law in Utah.\n\nRecognizing the shortcomings of traditional estate planning and seeking to employ her legal skills in a more personal setting, Ms. Winchester creates estate plans that are specifically designed to meet the needs of entrepreneurs, investors, and their families. She is a graduate of Yale Law School, was the Yale Law Journal Book Reviews Editor, and clerked for United States Federal District."
         }
-      ]
+      ],
+      "official_practice_area": []
     }
   ],
   "firms": [
@@ -15660,21 +16446,18 @@
       ],
       "official_practice_area": [
         "Antitrust",
-        "Business Organizations",
         "Business and Commercial Law",
+        "Business Organizations",
         "Collections",
         "Construction",
         "Contracts",
         "Eminent Domain",
         "Employment Law (Employer)",
-        "Employment Rights",
-        "Estate Planning",
-        "Insurance Defense",
+        "Patents",
         "Land Use and Zoning",
         "Litigation and Appeals",
         "Real Estate",
-        "Securities",
-        "Trademarks"
+        "Securities"
       ],
       "additional_locations": []
     },
@@ -15728,10 +16511,9 @@
         "Aaron Pacini"
       ],
       "official_practice_area": [
+        "Real Estate",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Real Estate"
+        "Litigation and Appeals"
       ],
       "additional_locations": [
         {
@@ -15796,14 +16578,13 @@
         "Michael F Skolnick"
       ],
       "official_practice_area": [
-        "Banking and Finance Law",
-        "Business and Commercial Law",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Insurance Law",
         "Litigation and Appeals",
-        "Real Estate"
+        "Real Estate",
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Insurance Law"
       ],
       "additional_locations": []
     },
@@ -15866,11 +16647,9 @@
       ],
       "official_practice_area": [
         "Business Organizations",
-        "Business and Commercial Law",
         "Construction",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
         "Insurance Law",
         "Litigation and Appeals",
         "Personal Injury",
@@ -15928,10 +16707,10 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Estate Planning",
         "Real Estate",
-        "Trusts",
-        "Wills"
+        "Estate Planning",
+        "Wills",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -16065,8 +16844,6 @@
         "Mark J. Sanchez"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Workers' Compensation"
       ],
       "additional_locations": [
@@ -16142,15 +16919,10 @@
         "Sarah Puzzo"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
+        "Patents",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Oil Gas and Energy",
-        "Personal Injury",
         "Real Estate",
-        "Trusts",
-        "Wills"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -16214,23 +16986,21 @@
         "Anthony P. Werrett"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Animal and Dog Bites",
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "Car Accidents",
+        "Business Organizations",
         "Construction",
-        "Construction Accident",
+        "Land Use and Zoning",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Adoption",
+        "Bankruptcy",
         "Criminal Defense",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Land Use and Zoning",
-        "Litigation and Appeals",
+        "Workers' Compensation",
         "Personal Injury",
         "Premises Liability",
-        "Real Estate",
-        "Workers' Compensation"
+        "Animal and Dog Bites",
+        "Construction Accident"
       ],
       "additional_locations": []
     },
@@ -16283,16 +17053,9 @@
         "Donald Reay"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
-        "Contracts",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
         "Probate",
-        "Securities",
-        "Wills"
+        "Securities"
       ],
       "additional_locations": [
         {
@@ -16516,7 +17279,6 @@
         "Preston L. Handy"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -16620,14 +17382,10 @@
         "David N. Jardine"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
+        "Real Estate",
         "Contracts",
-        "Estate Planning",
-        "Insurance Defense",
-        "Land Use and Zoning",
-        "Litigation and Appeals",
-        "Real Estate"
+        "Construction",
+        "Land Use and Zoning"
       ],
       "additional_locations": []
     },
@@ -16684,11 +17442,10 @@
         "Jantz Johnson"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
-        "Truck Accident",
-        "Workers' Compensation",
-        "Wrongful Death"
+        "Car Accidents",
+        "Wrongful Death",
+        "Workers' Compensation"
       ],
       "additional_locations": [
         {
@@ -16745,9 +17502,9 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
+        "Foreclosure and Alternatives",
         "Criminal Defense",
-        "DUI and DWI",
-        "Foreclosure and Alternatives"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -16864,7 +17621,6 @@
         "E. Craig McAllister"
       ],
       "official_practice_area": [
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -16912,8 +17668,6 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Probate"
       ],
       "additional_locations": []
@@ -16966,9 +17720,7 @@
         "Tyler Dever",
         "Claire Bradford Di Caro"
       ],
-      "official_practice_area": [
-        "Business and Commercial Law"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -17008,11 +17760,8 @@
         "Frank T. Mohlman"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Probate",
         "Real Estate",
-        "Trusts",
-        "Wills"
+        "Probate"
       ],
       "additional_locations": [
         {
@@ -17119,8 +17868,7 @@
         "Eric S. Olson"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Insurance Law"
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -17259,7 +18007,6 @@
         "Andrew Reichardt"
       ],
       "official_practice_area": [
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -17314,16 +18061,11 @@
         "Spencer"
       ],
       "official_practice_area": [
-        "Child Custody",
         "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
-        "Drug Crime",
+        "DUI and DWI",
         "Family Law",
-        "Federal and White Collar Crimes",
-        "Military",
-        "Military Divorce",
-        "Sex Crime"
+        "Military Divorce"
       ],
       "additional_locations": [
         {
@@ -17376,9 +18118,7 @@
       "attorneys": [
         "Gregory B. Smith"
       ],
-      "official_practice_area": [
-        "Agriculture"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -17426,12 +18166,11 @@
       "official_practice_area": [
         "Banking and Finance Law",
         "Bankruptcy",
-        "Business Organizations",
         "Business and Commercial Law",
+        "Business Organizations",
         "Collections",
-        "Contracts",
-        "Estate Planning",
-        "Real Estate"
+        "Real Estate",
+        "Contracts"
       ],
       "additional_locations": []
     },
@@ -17563,7 +18302,9 @@
       "attorneys": [
         "Brandon Lee Baker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -17605,7 +18346,9 @@
         "Jesse S. Brar",
         "Sharon L. Preston"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Immigration"
+      ],
       "additional_locations": []
     },
     {
@@ -17644,7 +18387,9 @@
       "attorneys": [
         "Steven DuBreuil"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Assault and Battery (Plaintiff)"
+      ],
       "additional_locations": []
     },
     {
@@ -17717,7 +18462,9 @@
       "attorneys": [
         "Paul Grant"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -17766,7 +18513,13 @@
         "Jaycee Webb",
         "David  Overson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate",
+        "Personal Injury",
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -17852,7 +18605,9 @@
         "Ronald E. Dalby",
         "John P. Lowrance"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -17894,7 +18649,9 @@
         "Theron D. Morrison",
         "Jesse P. Murff"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -17933,7 +18690,9 @@
       "attorneys": [
         "Matthew L. Nebeker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -17971,7 +18730,9 @@
       "attorneys": [
         "Matthew L. Nielson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Social Security Disability"
+      ],
       "additional_locations": []
     },
     {
@@ -18008,7 +18769,9 @@
         "Allison Limb",
         "Graham H. Norris Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -18050,7 +18813,11 @@
         "James R. Tanner",
         "Richard J. Tanner"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Employment Rights",
+        "Family Law",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     }
   ]

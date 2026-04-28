@@ -123,6 +123,14 @@
             "Native Hawaiian Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Animal and Dog Bites",
+        "Brain Injury"
       ]
     },
     {
@@ -211,6 +219,9 @@
             "Chair of Laws and Rules Committee, Hawai‘i Real Estate Commission, 2014 - 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -256,7 +267,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ryan-g-s-au",
@@ -359,6 +371,12 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction",
+        "Landlord and Tenant",
+        "Real Estate"
       ]
     },
     {
@@ -487,6 +505,11 @@
             "Massachusetts State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Trusts",
+        "Real Estate"
       ]
     },
     {
@@ -569,6 +592,9 @@
             "U.S. District Court Central District of California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -630,7 +656,8 @@
             "Hawaii, 2017"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "johnathan-c-bolton",
@@ -779,6 +806,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Construction",
+        "Landlord and Tenant",
+        "Real Estate"
       ]
     },
     {
@@ -870,6 +903,10 @@
             "State Bar of Texas, 1982 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Death"
       ]
     },
     {
@@ -980,6 +1017,20 @@
             "Hawaii Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Premises Liability",
+        "Employment Rights",
+        "Civil Rights",
+        "Discrimination",
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights",
+        "Wrongful Death",
+        "Workers' Compensation",
+        "Criminal Defense"
       ]
     },
     {
@@ -1103,6 +1154,26 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Employment Rights",
+        "Personal Injury",
+        "Discrimination",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Sexual Harassment",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Social Security Disability",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Assault and Battery (Plaintiff)",
+        "Bankruptcy",
+        "Civil Rights"
       ]
     },
     {
@@ -1195,6 +1266,9 @@
             "ABA Forum on the Construction Industry (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -1311,6 +1385,13 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Construction",
+        "Land Use and Zoning",
+        "Employment Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -1416,6 +1497,13 @@
             "Family Law Section , 2014 - Present (Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -1519,7 +1607,8 @@
             "Board of Immigration Appeals (BIA)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "daniel-chen",
@@ -1638,6 +1727,12 @@
             "Member of the University of Pennsylvania Alumni Ambassador Program"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Real Estate",
+        "Business and Commercial Law",
+        "Personal Injury"
       ]
     },
     {
@@ -1737,7 +1832,8 @@
             "Hawaii State Bar Association, 2012 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jennifer-ching-agena",
@@ -1799,7 +1895,8 @@
             "Family Law Section, Hawai'i State Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jennifer-f-chin",
@@ -1897,6 +1994,10 @@
             "Hawai‘i State Bar Association Real Property and Financial Services Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -2013,6 +2114,14 @@
             "Defense Research Institute, Hawaii Defense Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law",
+        "Construction",
+        "Environmental Law",
+        "Patents",
+        "Toxic Torts"
       ]
     },
     {
@@ -2111,6 +2220,10 @@
             "Hawaii Certified Public Accountant (not in public practice)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -2247,6 +2360,9 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -2331,6 +2447,10 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -2375,7 +2495,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jennifer-cook-clark",
@@ -2453,7 +2574,8 @@
             "U.S. District Court District of Hawaii"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bradley-a-coates",
@@ -2582,6 +2704,13 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -2639,7 +2768,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gail-y-cosgrove",
@@ -2737,6 +2867,10 @@
             "Hawai‘i Women Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Medical Malpractice"
       ]
     },
     {
@@ -2815,6 +2949,10 @@
             "Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury"
       ]
     },
     {
@@ -2908,6 +3046,11 @@
             "Hawaii, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -2963,7 +3106,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "paul-j-cunney",
@@ -3011,6 +3155,9 @@
             "Senior Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -3099,6 +3246,12 @@
             "Honolulu Family Law Section (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Child Custody",
+        "Military"
       ]
     },
     {
@@ -3201,6 +3354,11 @@
             "American Bar Association Sections on Business Law, Taxation, and Real Property, Trusts and Estates (Vice Chair, Committee on Partnerships and Limited Liability Companies)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Real Estate"
       ]
     },
     {
@@ -3296,6 +3454,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Immigration"
       ]
     },
     {
@@ -3426,6 +3588,10 @@
             "Association of European Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Family Law"
       ]
     },
     {
@@ -3509,6 +3675,11 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Employment Rights",
+        "Estate Planning"
       ]
     },
     {
@@ -3610,6 +3781,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -3734,6 +3909,13 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Custody",
+        "Child Support",
+        "Family Law"
       ]
     },
     {
@@ -3834,7 +4016,8 @@
             "U.S. District Court District of Hawaii"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lani-l-ewart",
@@ -3937,6 +4120,9 @@
             "National Conference of Commissioners on Uniform State Laws"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -4024,7 +4210,8 @@
             "U.S. District Court Southern District of California"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stuart-t-feeley",
@@ -4124,6 +4311,10 @@
             "HBSA Litigation Section, 2014 - 2019 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Real Estate"
       ]
     },
     {
@@ -4205,6 +4396,9 @@
             "U.S. District Court District of Hawaii, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -4347,6 +4541,13 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -4571,6 +4772,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Admiralty and Maritime",
+        "Airplane Bus and Helicopter Accidents",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -4679,6 +4886,10 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Immigration"
       ]
     },
     {
@@ -4772,6 +4983,11 @@
             "Hawai'i State Bar Association Probate and Estate Planning Section (2025 Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -4894,6 +5110,10 @@
             "Sigma Xi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4982,6 +5202,11 @@
             "New York, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law",
+        "Real Estate"
       ]
     },
     {
@@ -5067,6 +5292,12 @@
             "U.S. District Court District of Hawaii, 1976"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Medical Malpractice",
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -5160,6 +5391,9 @@
             "Psi Upsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5242,6 +5476,10 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Real Estate"
       ]
     },
     {
@@ -5323,6 +5561,9 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5378,6 +5619,9 @@
             "Hawaii, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5491,6 +5735,12 @@
             "Hawai‘i Board of Certified Shorthand Reporters, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Premises Liability",
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -5618,7 +5868,8 @@
             "Fairfax Bar Association, Young Lawyers Section, 2011 - Present"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shannon-kim-hackett",
@@ -5718,6 +5969,13 @@
             "Member of the Young Lawyers Division"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption",
+        "Father's Rights"
       ]
     },
     {
@@ -5796,7 +6054,8 @@
             "Hawaii"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "catherine-l-m-hall",
@@ -5876,6 +6135,10 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -5906,7 +6169,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "bryan-m-harada",
@@ -6010,6 +6274,11 @@
             "Hawaii State and American Bar Associations"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -6150,6 +6419,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes",
+        "Drug Crime",
+        "Sex Crime",
+        "Personal Injury"
       ]
     },
     {
@@ -6290,6 +6566,9 @@
             "Hawaii Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6383,7 +6662,8 @@
             "U.S. District Court District of Hawaii, 2019"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "janice-d-heidt",
@@ -6452,6 +6732,10 @@
             "Hawaii, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -6529,7 +6813,8 @@
             "Hawaii, 2001"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "naomi-hirayasu",
@@ -6683,6 +6968,18 @@
             "The Hague (Den Haag), Academy of International Law (Attendee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Child Support",
+        "Divorce and Separation",
+        "Real Estate",
+        "Father's Rights",
+        "Military Divorce",
+        "Trusts",
+        "Family Law",
+        "Wills"
       ]
     },
     {
@@ -6774,6 +7071,11 @@
             "Hawaii, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Domestic Violence",
+        "Criminal Defense"
       ]
     },
     {
@@ -6860,6 +7162,12 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Patents",
+        "Environmental Law",
+        "Premises Liability"
       ]
     },
     {
@@ -7041,6 +7349,15 @@
             "Hawaii Island Portugese Chamber of Commerce"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Civil Rights",
+        "Employment Rights",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -7157,6 +7474,15 @@
             "American Bar Association, Labor and Family Law Sections (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Support",
+        "Domestic Violence",
+        "Adoption",
+        "Elder Law"
       ]
     },
     {
@@ -7264,6 +7590,15 @@
             "Volunteer Legal Services of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Medical Malpractice",
+        "Landlord and Tenant",
+        "ADR Arbitration and Mediation",
+        "Real Estate",
+        "Employment Rights",
+        "Environmental Law"
       ]
     },
     {
@@ -7374,6 +7709,12 @@
             "American Immigration Lawyers Association (President, Hawaii Chapter)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate",
+        "ADR Arbitration and Mediation",
+        "Immigration"
       ]
     },
     {
@@ -7473,6 +7814,9 @@
             "Hawaii State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -7560,6 +7904,11 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction Accident",
+        "Aviation"
       ]
     },
     {
@@ -7657,6 +8006,9 @@
             "Hawai‘i State Bar Association Probate and Estate Planning Section (Current Vice Chair, Past Treasurer and Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -7728,6 +8080,11 @@
             "Founding member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Traffic Ticket",
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -7777,6 +8134,9 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7818,7 +8178,8 @@
           "type": "text",
           "content": "Born and raised in Honolulu, Mr. Kobayashi received his Bachelor of Art degree in Business and Administrative Studies from Lewis & Clark College in Portland, Oregon and his Juris Doctor degree from Seattle University School of Law.\n\nIn 1995, Mr. Kobayashi started his practice with the Honolulu law firm of Kobayashi, Sugita & Goda. In 2007, then a partner with the firm handling complex commercial litigation and construction litigation matters, Mr. Kobayashi left the island and his practice to serve as General Manager for hotel and restaurant in Washington state’s Orcas Island. There he was responsible for all aspects of the day-to-day business operations for both the transient accommodations and the food & beverage/catering services.\n\nAdditionally, he handled all short and long term financial and organizational planning, marketing, communications, human resources, business development, contract negotiations, drafting and administration, payroll and corporate filings.\n\nIn 2014, Mr. Kobayashi returned to Honolulu to serve as President and CEO of Ahahui Koa Anuenue, a designated fundraising non-profit corporation supporting the University of Hawaii Athletic Department, responsible for raising over six million dollars annually through premium ticket and parking sales and booster club contributions.\n\nIn 2017, Mr. Kobayashi returned to his law practice with Kobayashi Sugita & Goda, initially as an Of Counsel and eventually as partner, where he resumed his focus on commercial litigation.\n\nIn 2024, Mr. Kobayashi decided to shift the focus of his law practice and joined Greg Ryan & Associates where he now handles all aspects of family law. He is an experienced and skilled litigator and an effective agent for resolution, whether advocating on your behalf, or working collaboratively with both parties towards a mediated agreement."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kamrie-j-koi",
@@ -7899,6 +8260,9 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -8023,6 +8387,16 @@
             "Task Force on Civil Justice Improvements, Supreme Court of Hawai`i"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Aviation",
+        "Bad Faith Insurance",
+        "Class Actions",
+        "Medical Malpractice",
+        "Motor Vehicle Defects",
+        "Personal Injury",
+        "Environmental Law"
       ]
     },
     {
@@ -8124,6 +8498,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Defense",
+        "Insurance Law"
       ]
     },
     {
@@ -8214,6 +8593,10 @@
             "James S. Burns Aloha Chapter, American Inns of Court IV"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Trusts"
       ]
     },
     {
@@ -8313,6 +8696,10 @@
             "Think Entrepreneur Hawai'i (Co-Founder and Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Securities"
       ]
     },
     {
@@ -8411,6 +8798,11 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -8518,6 +8910,9 @@
             "Automotive Information Exchange Group (AIEG) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -8653,6 +9048,9 @@
             "Hawaii Institute of Continuing Legal Education (Program Chair, 1995 Annual Financial and Estate Planning Seminar)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -8734,6 +9132,14 @@
             "Hawaii, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Adoption",
+        "Child Custody",
+        "Elder Law",
+        "Military Divorce"
       ]
     },
     {
@@ -8812,6 +9218,10 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Administrative Law"
       ]
     },
     {
@@ -8904,6 +9314,9 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9005,6 +9418,10 @@
             "Ninth Circuit Lawyer Representative for Hawaii, 2020-2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Premises Liability"
       ]
     },
     {
@@ -9096,6 +9513,9 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -9188,7 +9608,8 @@
             "Hawaii Women Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-marx",
@@ -9283,6 +9704,12 @@
             "Hawaii Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Construction Accident"
       ]
     },
     {
@@ -9383,6 +9810,12 @@
             "Consultant on Products Liability for the Manufacturers' Association of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Copyrights",
+        "Personal Injury",
+        "Toxic Torts",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9504,6 +9937,10 @@
             "John H. Burns School of Medicine (Adjunct Professor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -9601,6 +10038,12 @@
             "Aviation Law Section of the American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Aviation",
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -9686,6 +10129,10 @@
             "California, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law"
       ]
     },
     {
@@ -9725,7 +10172,10 @@
       "practice_areas": [
         "Real Estate Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "4974507_1",
@@ -9762,7 +10212,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3369760_1",
@@ -9801,7 +10252,10 @@
       "practice_areas": [
         "Real Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "4995389_1",
@@ -9838,7 +10292,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2140159_1",
@@ -9877,7 +10332,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1875563_1",
@@ -9916,7 +10374,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "3781101_1",
@@ -9955,7 +10416,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "5128867_1",
@@ -9992,7 +10456,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1272703_1",
@@ -10031,7 +10496,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "3370067_1",
@@ -10070,7 +10538,10 @@
       "practice_areas": [
         "Real Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "3370076_1",
@@ -10109,7 +10580,10 @@
       "practice_areas": [
         "Real Estate Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "jennifer-ching-agena",
@@ -10171,7 +10645,8 @@
             "Family Law Section, Hawai'i State Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "1575238_1",
@@ -10209,107 +10684,9 @@
       "practice_areas": [
         "Aviation"
       ],
-      "sections": []
-    },
-    {
-      "slug": "sheree-a-kon-herrera",
-      "type": "attorney",
-      "name": "Sheree A. Kon",
-      "firm_name": "Fukunaga Matayoshi Ching & Kon-Herrera",
-      "firm_slug": "fukunaga-matayoshi-ching-kon-herrera",
-      "practice_type": "Civil Litigation Lawyers in Honolulu, HI",
-      "years_experience": null,
-      "free_consultation": false,
-      "super_lawyers": null,
-      "photo": "/photos/attorneys/sheree-a-kon-herrera.jpg",
-      "bio": "",
-      "location": {
-        "state": "Hawaii",
-        "state_abbr": "HI",
-        "city": "Honolulu",
-        "address": "Topa Financial Tower. Bishop Street Tower",
-        "address2": "700 Bishop Street Suite 2003",
-        "zip": "96813"
-      },
-      "contact": {
-        "phones": [
-          "808-533-4300",
-          "808-531-7585"
-        ],
-        "fax": "808-531-7585",
-        "websites": [
-          "https://www.fmhc-law.com",
-          "http://www.fmhc-law.com"
-        ],
-        "hours": null,
-        "features": []
-      },
-      "practice_areas": [
-        "Civil Litigation",
-        "Products Liability",
-        "Commercial Litigation",
-        "Construction Litigation",
-        "Insurance Coverage",
-        "Insurance Defense",
-        "Construction Law",
-        "Insurance Law",
-        "Products liability"
-      ],
-      "sections": [
-        {
-          "title": "Education",
-          "type": "grouped_list",
-          "content": [
-            {
-              "label": "Legal Education",
-              "items": [
-                "Santa Clara University School of Law, Santa Clara, California, 1997",
-                "J.D.",
-                "Honors: summa cum laude"
-              ]
-            },
-            {
-              "label": "Non Legal Education",
-              "items": [
-                "University of Hawaii-Manoa, 1994",
-                "B.A.",
-                "Honors: Highest Honors",
-                "Major: English"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Current Employment Position(s)",
-          "type": "list",
-          "content": [
-            "Member"
-          ]
-        },
-        {
-          "title": "Past Positions",
-          "type": "list",
-          "content": [
-            "Honorable Karen N. Blondin, Circuit Court of the First Circuit, State of Hawaii, Law Clerk, 1997-1998",
-            "Office of the Attorney General, State of Hawaii, Summer intern"
-          ]
-        },
-        {
-          "title": "Bar Admissions",
-          "type": "list",
-          "content": [
-            "Hawaii, 1997"
-          ]
-        },
-        {
-          "title": "Other Affiliations",
-          "type": "list",
-          "content": [
-            "Hawaii State Bar Association",
-            "Fraternities and Sororities",
-            "Phi Delta Phi"
-          ]
-        }
+      "sections": [],
+      "official_practice_area": [
+        "Aviation"
       ]
     },
     {
@@ -10411,6 +10788,117 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Defense",
+        "Insurance Law"
+      ]
+    },
+    {
+      "slug": "sheree-a-kon-herrera",
+      "type": "attorney",
+      "name": "Sheree A. Kon",
+      "firm_name": "Fukunaga Matayoshi Ching & Kon-Herrera",
+      "firm_slug": "fukunaga-matayoshi-ching-kon-herrera",
+      "practice_type": "Civil Litigation Lawyers in Honolulu, HI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/sheree-a-kon-herrera.jpg",
+      "bio": "",
+      "location": {
+        "state": "Hawaii",
+        "state_abbr": "HI",
+        "city": "Honolulu",
+        "address": "Topa Financial Tower. Bishop Street Tower",
+        "address2": "700 Bishop Street Suite 2003",
+        "zip": "96813"
+      },
+      "contact": {
+        "phones": [
+          "808-533-4300",
+          "808-531-7585"
+        ],
+        "fax": "808-531-7585",
+        "websites": [
+          "https://www.fmhc-law.com",
+          "http://www.fmhc-law.com"
+        ],
+        "hours": null,
+        "features": []
+      },
+      "practice_areas": [
+        "Civil Litigation",
+        "Products Liability",
+        "Commercial Litigation",
+        "Construction Litigation",
+        "Insurance Coverage",
+        "Insurance Defense",
+        "Construction Law",
+        "Insurance Law",
+        "Products liability"
+      ],
+      "sections": [
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "Santa Clara University School of Law, Santa Clara, California, 1997",
+                "J.D.",
+                "Honors: summa cum laude"
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "University of Hawaii-Manoa, 1994",
+                "B.A.",
+                "Honors: Highest Honors",
+                "Major: English"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Member"
+          ]
+        },
+        {
+          "title": "Past Positions",
+          "type": "list",
+          "content": [
+            "Honorable Karen N. Blondin, Circuit Court of the First Circuit, State of Hawaii, Law Clerk, 1997-1998",
+            "Office of the Attorney General, State of Hawaii, Summer intern"
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Hawaii, 1997"
+          ]
+        },
+        {
+          "title": "Other Affiliations",
+          "type": "list",
+          "content": [
+            "Hawaii State Bar Association",
+            "Fraternities and Sororities",
+            "Phi Delta Phi"
+          ]
+        }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Defense",
+        "Insurance Law"
       ]
     },
     {
@@ -10473,7 +10961,8 @@
             "Family Law Section, Hawai'i State Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dara-sayuri-nakagawa",
@@ -10570,6 +11059,11 @@
             "U.S. District Court District of Hawaii, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Construction",
+        "Personal Injury"
       ]
     },
     {
@@ -10652,6 +11146,12 @@
             "U.S. Federal Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Construction",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -10745,6 +11245,10 @@
             "Hawaiʻi State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -10894,6 +11398,10 @@
             "Oahu Economic Development Board (Director)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -10935,7 +11443,8 @@
           "type": "text",
           "content": "Mr. Okamoto grew up in Waipahu, where he attended public school through high school. He received his undergraduate degree in Political Science from the University of Hawai‘i at Mānoa in 2001, and his Juris Doctor from the University of Hawai‘i William S. Richardson School of Law in 2005. Following his graduation from law school, Mr. Okamoto served as law clerk to Circuit Court Judge Steven S. Alm (Ret.).\n\nAfter devoting five years to attending to family matters, Mr. Okamoto began his career in 2013 as a solo practitioner specializing in criminal defense, personal injury, and family law.\n\nIn 2021, Mr. Okamoto decided to focus exclusively on family law and joined the law firm of Kleintop & Luria, LLP. While at Kleintop & Luria, he specialized in complex divorce litigation.\n\nMr. Okamoto joined Greg Ryan and Associates in 2025 as a skilled practitioner in all aspects of family law. He is a zealous advocate and takes pride in providing effective and efficient representation to all clients. He excels at balancing a client’s needs with legal strategy to achieve the best possible outcome for his clients.\n\nMr. Okamoto is also committed to giving back to the community, and serves as a volunteer with the Kapolei Access to Justice Room.\n\nMr. Okamoto is licensed to practice law in the State of Hawai‘i, the United States District Court for the District of Hawai‘i, and the United States Court of Appeals for the Ninth Circuit. Mr. Okamoto is also a member of the Family Law Section of the Hawai‘i State Bar Association."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "raymond-k-okada",
@@ -11078,6 +11587,9 @@
             "American Bar Association, Committee on Estate and Gift Tax (Past Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -11187,6 +11699,10 @@
             "Hawaii Nippon Club"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Immigration"
       ]
     },
     {
@@ -11237,7 +11753,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "wayne-d-parsons",
@@ -11353,7 +11870,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "vincent-a-piekarski",
@@ -11471,6 +11989,11 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "ADR Arbitration and Mediation",
+        "Construction"
       ]
     },
     {
@@ -11514,7 +12037,8 @@
           "type": "text",
           "content": "Stefanie Prinsloo is an invaluable addition to our firm. At Coates Frey & Hackett, AAL LLLC, Stefanie concentrates on family law litigation including divorce, child custody and support, post-decree enforcement, and paternity matters. Stefanie obtained her undergraduate degree from Florida State University, and graduated with magna cum laude honors. Stefanie was admitted into Phi Beta Kappa Honor Society as well as Omicron Delta Kappa Honor Society. Along with her academics, Stefanie worked as a research assistant for Professor Jenifer Copp, assisting in research that focused on the impact of parental visitation rights on incarcerated parents. Stefanie’s passion for helping individuals also led her to work at Lifeline (a suicide hotline) and United Way, where she here she logged over 250 hours of service as a crisis counselor, helping individuals dealing with severe crisis (including abuse, mental health episodes, houselessness, etc.). Stefanie’s almost rabid desire “to help and to guide” will fit in very well here at CFH. After graduating from FSU, Stefanie attended the University of Hawaii at Manoa William S. Richardson School of Law, where she interned with a variety of entities, including the City and County of Honolulu Department of the Corporation Counsel and the Hawai’i Innocence Project. Prior to joining Coates Frey & Hackett, AAL LLLC, Stefanie worked as a law clerk at the famed Hamilton & Chan family law firm. While at Hamilton & Chan, Stefanie was mentored by Geoffrey Hamilton, one of family law’s most famous and longest practicing attorneys in our state. Under Mr. Hamilton’s direction and guidance, Stefanie assisted in several cases involving novel child custody issues and multi-million dollar property division issues."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lisa-t-redell",
@@ -11600,7 +12124,8 @@
             "Hawaii State Bar Association Real Property Financial Services Section (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "maegan-a-ruggles",
@@ -11692,6 +12217,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -11805,6 +12333,10 @@
             "California State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -11907,6 +12439,10 @@
             "Member, Federation of Defense and Corporate Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -11992,6 +12528,9 @@
             "Hawaii State Bar Association, 1987 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -12116,6 +12655,11 @@
             "Consumer Lawyers of Hawaii, 1996 - 1999 (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Bad Faith Insurance",
+        "Personal Injury"
       ]
     },
     {
@@ -12159,7 +12703,8 @@
           "type": "text",
           "content": "JEFFERY L. SALES; graduate of Metropolitan State University of Denver, with a major in Political Science and a minor in Art History. He attended The University of Hawaii at Manoa William S. Richardson School of Law, was awarded his Juris Doctor in 2021, and was thereafter admitted to the Hawaii State Bar. While attending Richardson, Jeffery performed countless pro bono hours at the Family Court in Kapolei, working extensively behind the scenes with Judges and staff, as well as being regularly involved in the Kapolei Access to Justice Room. Based largely upon his many meaningful experiences and important connections made as a dedicated law student volunteer at First Circuit Family Court, Jeffery ultimately chose to take the Family Law route and to devote himself to this important if not essential practice area. The decision was a rather easy one for Jeffery because he genuinely and honestly believes the opportunity he has been given to help those in need is best served protecting children, their future and their families. Jeffery truly believes the basis of a stable and strong society depends upon the family, and if he can help these families, it’s the type of work he was and is destined to do. Jeffery has three sisters, five nieces, three nephews, and is ecstatic about entering the “frey” which is ever present as a “full-time” divorce and Family Law lawyer and litigator. Jeffery’s practice will include divorce, child custody and support, post-decree enforcement, military, and domestic violence/TROs."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rosemarie-sj-sam",
@@ -12284,6 +12829,9 @@
             "Committee on Uniform Probate Code and Probate Court Practices, Appointed Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -12376,6 +12924,10 @@
             "Hawaiʻi State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -12473,6 +13025,11 @@
             "Hawaii State Bar Association, 2012 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Real Estate",
+        "Securities"
       ]
     },
     {
@@ -12579,6 +13136,12 @@
             "Hawaii State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Land Use and Zoning",
+        "Environmental Law",
+        "Employment Rights"
       ]
     },
     {
@@ -12674,7 +13237,8 @@
             "Hawaii State Bar Association, Member"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "elbridge-w-smith",
@@ -12810,6 +13374,12 @@
             "National Employment Lawyers Association - Hawaii Chapter, President"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Whistleblower and Qui Tam",
+        "Disability Insurance",
+        "Sexual Harassment"
       ]
     },
     {
@@ -12900,6 +13470,9 @@
             "Federal Bar Association, Hawaii Chapter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -13033,6 +13606,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -13126,6 +13705,9 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13228,6 +13810,10 @@
             "Make-A-Wish Hawaiʻi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -13353,7 +13939,8 @@
             "Beta Gamma Sigma"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-p-st-sure",
@@ -13455,6 +14042,10 @@
             "Make-A-Wish Hawaiʻi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -13542,7 +14133,8 @@
             "‘Iolani Alumni Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jason-m-tani",
@@ -13660,6 +14252,11 @@
             "CLSA (Fellow, Construction Lawyers Society of America)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -13746,6 +14343,9 @@
             "Child Support Task Force"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -13868,6 +14468,11 @@
             "Hawaii Tort Law Study Committee, 1997 - 1999 (Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -13971,6 +14576,9 @@
             "Supreme Court of the United States of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drug Crime"
       ]
     },
     {
@@ -14062,6 +14670,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14141,6 +14752,11 @@
             "Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Employment Rights",
+        "Estate Planning"
       ]
     },
     {
@@ -14235,6 +14851,10 @@
             "Hawaii Bankruptcy Bar Association, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Bankruptcy"
       ]
     },
     {
@@ -14307,6 +14927,12 @@
             "Hawaii State Bar, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Custody",
+        "Divorce and Separation",
+        "Criminal Defense"
       ]
     },
     {
@@ -14407,6 +15033,9 @@
             "International Legal Honor Society Phi Delta Phi, Richardson Inn."
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -14544,6 +15173,10 @@
             "American Bar Association (Member, TIPS Council)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -14643,6 +15276,14 @@
             "Hawaii Family Bar Association, 2017 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Family Law",
+        "Military Divorce",
+        "Domestic Violence",
+        "Adoption"
       ]
     },
     {
@@ -14718,6 +15359,9 @@
             "Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -14836,6 +15480,10 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Class Actions"
       ]
     },
     {
@@ -14930,7 +15578,8 @@
             "California, 2018"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lockey-e-white",
@@ -15044,6 +15693,11 @@
             "Mediator Certificate Program from Center for Resolution of Environmental Disputes"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Bankruptcy",
+        "Probate"
       ]
     },
     {
@@ -15104,7 +15758,8 @@
             "U.S. District Court District of Hawaii, 1981"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mehana-witthans",
@@ -15191,6 +15846,10 @@
             "U.S. District Court District of Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Premises Liability"
       ]
     },
     {
@@ -15273,6 +15932,9 @@
             "Hawai‘i State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -15375,7 +16037,8 @@
             "Board of Immigration Appeals (BIA)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "reuben-sf-wong",
@@ -15487,6 +16150,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Litigation and Appeals",
+        "Construction"
       ]
     },
     {
@@ -15575,7 +16243,8 @@
             "Hawaii Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shawn-h-yamada",
@@ -15653,6 +16322,10 @@
             "Hawaii"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -15745,6 +16418,10 @@
             "Family Law Section, Hawaii State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -15839,6 +16516,9 @@
             "Hawai‘i Estate Planning Council Board of Directors (2023 Director, 2024 Director, 2025 Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -15939,6 +16619,9 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -16058,7 +16741,8 @@
             "National Asian Pacific American Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert--sn-young",
@@ -16161,6 +16845,12 @@
             "Member of the Hawaii State Bar, 1978"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Custody",
+        "Divorce and Separation",
+        "Father's Rights"
       ]
     },
     {
@@ -16265,6 +16955,9 @@
             "National Association of Industrial and Office Properties, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -16377,6 +17070,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -16456,6 +17153,9 @@
             "California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     }
   ],
@@ -16502,8 +17202,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Traffic Ticket"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -16593,32 +17292,28 @@
         "Lani L. Ewart"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Aviation",
-        "Bankruptcy",
-        "Business Organizations",
         "Business and Commercial Law",
-        "Class Actions",
-        "Construction",
-        "Dangerous Products",
-        "Drugs and Medical Devices",
-        "Employment Rights",
-        "Environmental Law",
-        "Estate Planning",
-        "Immigration",
-        "Insurance Defense",
-        "Insurance Law",
-        "Land Use and Zoning",
-        "Landlord and Tenant",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Mergers and Acquisitions",
-        "Premises Liability",
-        "Probate",
-        "Professional Malpractice",
         "Real Estate",
-        "Securities",
         "Tax Law",
+        "Business Organizations",
+        "Probate",
+        "Estate Planning",
+        "Bankruptcy",
+        "Immigration",
+        "Mergers and Acquisitions",
+        "Securities",
+        "Land Use and Zoning",
+        "Construction",
+        "Environmental Law",
+        "Bad Faith Insurance",
+        "International Law",
+        "Employment Rights",
+        "Aviation",
+        "Class Actions",
+        "Landlord and Tenant",
+        "ADR Arbitration and Mediation",
+        "Medical Malpractice",
+        "Premises Liability",
         "Trusts"
       ],
       "additional_locations": []
@@ -16706,10 +17401,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Employment Rights",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Employment Rights",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -16808,7 +17501,6 @@
         "Bart W. Howk"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": [
@@ -16906,9 +17598,7 @@
         "Norman K.M. Wong"
       ],
       "official_practice_area": [
-        "Immigration",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Immigration"
       ],
       "additional_locations": []
     },
@@ -17000,10 +17690,9 @@
         "Richard Turbin Esq."
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice"
+        "Medical Malpractice",
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -17152,11 +17841,9 @@
         "Dean C.M. Hoe"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "DUI and DWI",
         "Domestic Violence",
-        "Family Law",
-        "Traffic Ticket"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -17247,8 +17934,6 @@
         "Magali V. Sunderland"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": [
@@ -17445,8 +18130,6 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -17490,9 +18173,7 @@
         "Ted H.S. Hong"
       ],
       "official_practice_area": [
-        "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -17618,10 +18299,7 @@
       "attorneys": [
         "Noel Tipon"
       ],
-      "official_practice_area": [
-        "Administrative Law",
-        "Criminal Defense"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -17709,7 +18387,12 @@
       "attorneys": [
         "Ryan G. S. Au"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Landlord and Tenant",
+        "Construction",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -17748,7 +18431,9 @@
       "attorneys": [
         "Charles H. Brower"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -17794,7 +18479,9 @@
         "Jonathan A. Kobayashi",
         "Alan Y. Okamoto"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -17857,7 +18544,18 @@
         "Elizabeth Cuccia",
         "Bernard M. Herren"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Adoption",
+        "Assault and Battery (Plaintiff)",
+        "Bankruptcy",
+        "Child Support",
+        "Contracts",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Drug Crime",
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -17898,7 +18596,9 @@
       "attorneys": [
         "Michael Jay Green"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -17936,7 +18636,9 @@
       "attorneys": [
         "Brook Hart"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -17975,7 +18677,9 @@
       "attorneys": [
         "Naomi Hirayasu"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -18021,7 +18725,9 @@
         "John D. Thomas Jr.",
         "Brian T. Toma"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -18068,7 +18774,11 @@
       "attorneys": [
         "Lockey E. White"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Elder Law"
+      ],
       "additional_locations": []
     },
     {
@@ -18110,7 +18820,9 @@
         "Irwyn H.g. Wong",
         "Reuben S.f. Wong"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Real Estate"
+      ],
       "additional_locations": []
     }
   ]

@@ -175,6 +175,10 @@
             "National Arbitration Forum (Certified Arbitrator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -213,7 +217,8 @@
         "Drug and Device Litigation",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "leah-k-adams",
@@ -328,7 +333,8 @@
             "Delta Theta Phi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "corey-allen-aiken",
@@ -365,7 +371,10 @@
       "practice_areas": [
         "Real Estate Development and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "sterling-aldridge",
@@ -456,6 +465,10 @@
             "U.S. District Court Central District of Illinois"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Personal Injury"
       ]
     },
     {
@@ -551,6 +564,9 @@
             "Capital Area Bar Association , 1991 - 1992 (Board of Commissioners)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -629,6 +645,10 @@
             "U.S. Court of Appeals 5th Circuit, 1965"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -741,6 +761,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Workers' Compensation",
+        "Collections"
       ]
     },
     {
@@ -847,6 +873,12 @@
             "Hancock County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Personal Injury Defense",
+        "Education",
+        "Administrative Law"
       ]
     },
     {
@@ -944,6 +976,18 @@
             "Biloxi County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Estate Planning",
+        "Family Law",
+        "Father's Rights",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -1062,7 +1106,8 @@
             "Phi Beta Kappa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "haley-r-barbour",
@@ -1099,7 +1144,8 @@
       "practice_areas": [
         "Government Relations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "amanda-b-barbour",
@@ -1216,6 +1262,10 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Tax Law"
       ]
     },
     {
@@ -1305,6 +1355,10 @@
             "Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Divorce and Separation"
       ]
     },
     {
@@ -1404,6 +1458,10 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -1511,6 +1569,10 @@
             "Mississippi Community College Attorneys Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Class Actions"
       ]
     },
     {
@@ -1606,6 +1668,13 @@
             "Mississippi Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Contracts",
+        "Oil Gas and Energy",
+        "Class Actions",
+        "Environmental Law"
       ]
     },
     {
@@ -1710,6 +1779,18 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Family Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "State Local and Municipal Law",
+        "Insurance Law",
+        "Employment Rights",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -1802,7 +1883,8 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "p-ryan-beckett",
@@ -1931,6 +2013,12 @@
             "Mississippi Bar, Mock Trial Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Election Campaign and Political Law",
+        "Patents",
+        "Class Actions"
       ]
     },
     {
@@ -2054,6 +2142,11 @@
             "Association of Attendees & Alumni of Hague Academy of Int'l Law, The Netherlands"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Bad Faith Insurance",
+        "Premises Liability"
       ]
     },
     {
@@ -2120,6 +2213,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Environmental Law"
       ]
     },
     {
@@ -2235,6 +2332,9 @@
             "U.S. Court of Appeals 5th Circuit, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -2276,7 +2376,12 @@
         "Real Estate Development and Finance",
         "Economic Development"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions",
+        "Real Estate"
+      ]
     },
     {
       "slug": "jenell-blocher-blum",
@@ -2417,6 +2522,13 @@
             "Alpha Gamma Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning",
+        "Estate Planning",
+        "Contracts",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -2516,6 +2628,12 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma",
+        "Transportation",
+        "Bad Faith Insurance",
+        "Environmental Law"
       ]
     },
     {
@@ -2619,6 +2737,10 @@
             "Tennessee Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Patents"
       ]
     },
     {
@@ -2719,7 +2841,8 @@
             "Mississippi Bar"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "fred-e-bourn-iii",
@@ -2835,6 +2958,10 @@
             "Jackson Young Lawyers, 2003 - 2005 (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -2944,6 +3071,9 @@
             "Harrison County Bar Association, 2008 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -3033,6 +3163,10 @@
             "Delta Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Insurance Defense"
       ]
     },
     {
@@ -3115,6 +3249,9 @@
             "U.S. Court of Appeals 5th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3152,7 +3289,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "brent-m-brumley",
@@ -3232,6 +3370,12 @@
             "Mississippi Trial Lawyer Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "Sex Crime",
+        "DUI and DWI"
       ]
     },
     {
@@ -3328,6 +3472,9 @@
             "Mississippi Wildlife Federation"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -3429,6 +3576,9 @@
             "Capital Area Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -3535,6 +3685,10 @@
             "U.S. Court of Appeals 5th Circuit, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Premises Liability"
       ]
     },
     {
@@ -3574,7 +3728,8 @@
         "Drug and Device Litigation",
         "Health Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "robert-alan-byrd",
@@ -3719,6 +3874,9 @@
             "Mississippi Bankruptcy Conference, 1987 - 1988 (Member, Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -3829,6 +3987,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -3926,6 +4088,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -4031,6 +4197,9 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -4141,6 +4310,10 @@
             "Hinds County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Environmental Law"
       ]
     },
     {
@@ -4245,6 +4418,21 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Admiralty and Maritime",
+        "Civil Rights",
+        "Consumer Protection",
+        "Discrimination",
+        "Employment Rights",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Social Security Disability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -4339,6 +4527,13 @@
             "U.S. District Court Southern District of Mississippi, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Personal Injury",
+        "Transportation",
+        "Premises Liability",
+        "Professional Malpractice"
       ]
     },
     {
@@ -4429,6 +4624,14 @@
             "Mississippi, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability",
+        "Assault and Battery (Plaintiff)",
+        "Birth Injury"
       ]
     },
     {
@@ -4531,7 +4734,8 @@
             "Mississippi Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marcellus-d-chamberlain",
@@ -4572,7 +4776,11 @@
         "Insurance",
         "Labor and Employment"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Employment Rights"
+      ]
     },
     {
       "slug": "mark-chinn",
@@ -4786,6 +4994,10 @@
             "Pi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -4873,7 +5085,8 @@
             "Capital Area Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "elizabeth-lambert-clark",
@@ -4989,7 +5202,8 @@
             "Jackson Young Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "benjamin-z-claxton-sr",
@@ -5028,7 +5242,11 @@
         "Product Liability Litigation",
         "Tort, Transportation & Specialized Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Transportation"
+      ]
     },
     {
       "slug": "madison-e-coburn",
@@ -5066,7 +5284,10 @@
         "Government Relations",
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "john-hartwell-cocke",
@@ -5212,6 +5433,12 @@
             "Section of Healthcare Law (Co-Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Litigation and Appeals",
+        "Professional Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -5263,7 +5490,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "edderek-l-cole",
@@ -5375,7 +5603,8 @@
             "Alpha Phi Alpha"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-g-compton",
@@ -5442,6 +5671,14 @@
             "Mississippi, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Debtor and Creditor",
+        "Family Law",
+        "Personal Injury",
+        "Education",
+        "Insurance Defense"
       ]
     },
     {
@@ -5596,6 +5833,35 @@
             "Mississippi Bankruptcy Conference, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "DUI and DWI",
+        "Wrongful Death",
+        "Estate Planning",
+        "Criminal Defense",
+        "Administrative Law",
+        "Adoption",
+        "Assault and Battery (Plaintiff)",
+        "Bad Faith Insurance",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Collections",
+        "Constitutional Law",
+        "Contracts",
+        "Employment Rights",
+        "Insurance Defense",
+        "Insurance Law",
+        "Landlord and Tenant",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -5760,6 +6026,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Gaming",
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -5799,7 +6072,11 @@
         "Construction and Building Products Litigation",
         "Mergers and Acquisitions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate",
+        "Mergers and Acquisitions"
+      ]
     },
     {
       "slug": "joseph-whit-cooper",
@@ -5888,6 +6165,9 @@
             "U.S. Court of Appeals 5th Circuit, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6005,6 +6285,10 @@
             "Mississippi Bar, Minority Involvement Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Bankruptcy"
       ]
     },
     {
@@ -6098,6 +6382,11 @@
             "Hinds County Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -6201,6 +6490,12 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Family Law",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -6252,6 +6547,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -6336,7 +6634,8 @@
             "American Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "paul-n-davis",
@@ -6431,6 +6730,10 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -6514,6 +6817,12 @@
             "Phi Kappa Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -6650,6 +6959,10 @@
             "President, Board of Directors (2009-2011) - Fifth Circuit Organization of Social Security Claimants' Represenatives"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Social Security Disability"
       ]
     },
     {
@@ -6770,6 +7083,11 @@
             "DeSoto County Bar Association (Treasurer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Immigration",
+        "Real Estate"
       ]
     },
     {
@@ -6939,6 +7257,12 @@
             "Mississippi Bar Association, 2007 - Present (Executive Committee, Business Law Section)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law",
+        "Business Organizations"
       ]
     },
     {
@@ -7049,6 +7373,10 @@
             "American College of Surgeons (Fellow)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Transportation"
       ]
     },
     {
@@ -7163,7 +7491,8 @@
             "Hinds County Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "heath-s-douglas",
@@ -7245,6 +7574,9 @@
             "Board of Mississippi Levee Commissioners (Attorney)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -7359,7 +7691,8 @@
             "Phi Beta Kappa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andre-ducote",
@@ -7454,6 +7787,13 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights",
+        "Environmental Law",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -7649,6 +7989,14 @@
             "Phi Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Premises Liability",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Legal Malpractice",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -7697,7 +8045,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "richard-m-dye",
@@ -7808,6 +8157,11 @@
             "Hinds County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Transportation"
       ]
     },
     {
@@ -7930,6 +8284,9 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -8089,6 +8446,13 @@
             "Pi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Professional Malpractice",
+        "Premises Liability",
+        "Transportation",
+        "Environmental Law"
       ]
     },
     {
@@ -8224,6 +8588,19 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Criminal Defense",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Wrongful Death",
+        "Probate",
+        "Wills",
+        "Real Estate"
       ]
     },
     {
@@ -8328,6 +8705,13 @@
             "American Bar Association Criminal Justice Section, - 2012 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Child Custody",
+        "DUI and DWI"
       ]
     },
     {
@@ -8442,6 +8826,9 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -8565,6 +8952,10 @@
             "Mississippi Bar, Committee on Delivery of Legal Services"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Health Care Law"
       ]
     },
     {
@@ -8606,7 +8997,12 @@
         "Organization and Capital Formation",
         "Corporate Finance & Securities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Antitrust",
+        "Securities"
+      ]
     },
     {
       "slug": "alphonso-michael-espy",
@@ -8699,6 +9095,9 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "International Law"
       ]
     },
     {
@@ -8753,6 +9152,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -8845,6 +9248,11 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Civil Rights"
       ]
     },
     {
@@ -8935,7 +9343,8 @@
             "Mississippi Women Lawyers Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-booth-farese",
@@ -9129,6 +9538,10 @@
             "Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -9226,6 +9639,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -9315,6 +9732,9 @@
             "U.S. Court of Appeals 5th Circuit, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9425,6 +9845,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -9539,6 +9963,10 @@
             "Kappa Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -9639,6 +10067,9 @@
             "North Mississippi Rural Legal Services, 2002 - 2010 (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9742,6 +10173,10 @@
             "U.S. District Court Southern District of Mississippi, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -9815,6 +10250,12 @@
             "Mississippi, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Probate",
+        "Wills",
+        "Real Estate"
       ]
     },
     {
@@ -9911,6 +10352,11 @@
             "Harrison County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Law",
+        "Workers' Compensation"
       ]
     },
     {
@@ -10005,6 +10451,9 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law"
       ]
     },
     {
@@ -10096,6 +10545,9 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -10204,7 +10656,8 @@
             "Omicron Delta Kappa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "w-davis-frye",
@@ -10328,6 +10781,11 @@
             "Defense Research Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Employment Rights",
+        "Transportation"
       ]
     },
     {
@@ -10420,7 +10878,8 @@
             "The Mississippi Bar"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-h-gabriel",
@@ -10491,6 +10950,9 @@
             "Mississippi, 1981"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -10595,7 +11057,8 @@
             "Capital Area Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "philip-w-gaines",
@@ -10675,6 +11138,10 @@
             "Steen Reynolds Dalehite & Currie, Associate and Partner, 1986 - 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -10762,6 +11229,10 @@
             "Harrison County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Real Estate"
       ]
     },
     {
@@ -10861,6 +11332,9 @@
             "Harrison County Bar Association, 1984 - Present (President )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime"
       ]
     },
     {
@@ -10963,6 +11437,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -11072,6 +11550,10 @@
             "Turnaround Management Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -11130,7 +11612,8 @@
             "U.S. District Court Northern District of Mississippi, 1989"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "cody-william-gibson",
@@ -11224,6 +11707,12 @@
             "American Bar Association, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Contracts",
+        "Personal Injury",
+        "Bankruptcy"
       ]
     },
     {
@@ -11362,6 +11851,9 @@
             "Sigma Delta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -11450,6 +11942,12 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -11532,6 +12030,9 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -11636,6 +12137,9 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -11679,7 +12183,12 @@
         "Premises Liability",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions",
+        "Bad Faith Insurance",
+        "Premises Liability"
+      ]
     },
     {
       "slug": "nicholas-t-grillo",
@@ -11786,6 +12295,10 @@
             "Mississippi Bankruptcy Conference"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Social Security Disability"
       ]
     },
     {
@@ -11879,6 +12392,10 @@
             "Mississippi, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Transportation"
       ]
     },
     {
@@ -11918,7 +12435,10 @@
         "Employment Litigation",
         "Drug and Device Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "john-m-harral",
@@ -12016,6 +12536,9 @@
             "Gulfport Chamber of Commerce, 1997 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law"
       ]
     },
     {
@@ -12069,6 +12592,13 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Elder Law",
+        "Family Law"
       ]
     },
     {
@@ -12167,6 +12697,10 @@
             "ABA Young Lawyers Division, Chairman"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -12272,6 +12806,11 @@
             "Mississippi Bar, Business Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Business Organizations",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -12380,6 +12919,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate",
+        "Tax Law"
       ]
     },
     {
@@ -12496,6 +13040,9 @@
             "Charles Clark American Inns of Court, 2004 - 2007 (Barrister)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust"
       ]
     },
     {
@@ -12643,6 +13190,11 @@
             "Phi Delta Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -12731,6 +13283,9 @@
             "Alabama State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -12793,6 +13348,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -12901,7 +13460,8 @@
             "National Guard Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "laura-d-heusel",
@@ -12942,7 +13502,10 @@
         "Environmental Litigation",
         "Government Relations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Environmental Law"
+      ]
     },
     {
       "slug": "david-g-hill",
@@ -13004,7 +13567,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joshua-a-hill",
@@ -13042,7 +13606,8 @@
         "Drug and Device Litigation",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "lindsey-ann-hill",
@@ -13165,6 +13730,21 @@
             "Alpha Omicron Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Elder Law",
+        "Trusts",
+        "Wills",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Personal Injury",
+        "Assault and Battery (Plaintiff)",
+        "Wrongful Death",
+        "Probate"
       ]
     },
     {
@@ -13265,6 +13845,10 @@
             "Mississippi Bar, Gaming Law Section, 1995 - 1996 (Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Gaming",
+        "Securities"
       ]
     },
     {
@@ -13367,6 +13951,10 @@
             "Mississippi Association of County Board Attorneys, 1990 - 1991 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -13480,6 +14068,9 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -13558,6 +14149,9 @@
             "Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -13642,6 +14236,9 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -13758,6 +14355,16 @@
             "Mississippi Prosecutor Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "State Local and Municipal Law",
+        "Family Law",
+        "Contracts",
+        "Land Use and Zoning",
+        "ADR Arbitration and Mediation",
+        "Gaming",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -13850,7 +14457,8 @@
             "Mississippi Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chad-r-hutchinson",
@@ -13972,6 +14580,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Premises Liability"
       ]
     },
     {
@@ -14063,6 +14675,10 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -14158,7 +14774,8 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "selby-a-ireland",
@@ -14257,6 +14874,11 @@
             "National Conference of Commissioners on Uniform State Laws (Commissioner)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Securities",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -14371,7 +14993,8 @@
             "Bar Association of 5th Federal Circuit"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "s-todd-jeffreys",
@@ -14511,6 +15134,27 @@
             "Mississippi Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Motor Vehicle Defects",
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Class Actions",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Social Security Disability",
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Support",
+        "Contracts",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "DUI and DWI"
       ]
     },
     {
@@ -14598,7 +15242,8 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "charles-f-johnson-iii",
@@ -14696,6 +15341,9 @@
             "Mississippi Bar, Health Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law"
       ]
     },
     {
@@ -14771,6 +15419,9 @@
             "California, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law"
       ]
     },
     {
@@ -14837,6 +15488,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Employment Rights"
       ]
     },
     {
@@ -14952,7 +15607,8 @@
             "Lt. Governor’s Legislative Steering Committee"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "alyson-bustamante-jones",
@@ -15061,6 +15717,9 @@
             "Tennessee Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation"
       ]
     },
     {
@@ -15176,7 +15835,8 @@
             "Mid-South Super Lawyer , 2010 - Present"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christy-d-jones",
@@ -15301,7 +15961,8 @@
             "Phi Beta Kappa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "blair-h-jussely",
@@ -15344,7 +16005,12 @@
         "Tax Exempt Organizations",
         "Wealth Transfer Planning (Domestic)"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Probate",
+        "State Local and Municipal Law",
+        "Tax Law"
+      ]
     },
     {
       "slug": "janeah-kerr",
@@ -15435,6 +16101,9 @@
             "Mississippi, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -15542,6 +16211,9 @@
             "Mississippi Municipal Attorneys Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law"
       ]
     },
     {
@@ -15626,6 +16298,9 @@
             "Mississippi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -15726,6 +16401,10 @@
             "Mississippi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -15829,6 +16508,14 @@
             "Mississippi Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Probate",
+        "Estate Planning",
+        "Family Law",
+        "Divorce and Separation",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -15933,6 +16620,11 @@
             "Harrison County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Defense",
+        "Health Care Law"
       ]
     },
     {
@@ -16037,6 +16729,11 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -16174,6 +16871,11 @@
             "Mississippi Defense Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Health Care Law",
+        "Insurance Defense"
       ]
     },
     {
@@ -16261,6 +16963,11 @@
             "U.S. Court of Appeals 5th Circuit, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Workers' Compensation"
       ]
     },
     {
@@ -16358,6 +17065,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -16441,6 +17152,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -16537,6 +17251,11 @@
             "Mississippi Bar Association (Labor and Employment Section) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Contracts",
+        "Workers' Compensation"
       ]
     },
     {
@@ -16630,6 +17349,12 @@
             "U.S. Court of Appeals 5th Circuit, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Lemon Law",
+        "Family Law",
+        "Criminal Defense",
+        "Bankruptcy"
       ]
     },
     {
@@ -16718,6 +17443,9 @@
             "United States Supreme Court, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -16824,6 +17552,10 @@
             "Jackson Tax Forum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Probate"
       ]
     },
     {
@@ -16983,6 +17715,17 @@
             "American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Administrative Law",
+        "Contracts",
+        "Insurance Defense",
+        "State Local and Municipal Law",
+        "Gaming",
+        "Aviation",
+        "Tax Law"
       ]
     },
     {
@@ -17087,6 +17830,13 @@
             "Mississippi Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Family Law",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -17124,7 +17874,10 @@
       "practice_areas": [
         "Tort, Transportation & Specialized Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Transportation"
+      ]
     },
     {
       "slug": "samuel-g-maddox",
@@ -17229,6 +17982,12 @@
             "Washington County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Admiralty and Maritime",
+        "Premises Liability"
       ]
     },
     {
@@ -17322,6 +18081,9 @@
             "American Bankruptcy Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -17437,6 +18199,10 @@
             "Christian Legal Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Tax Law"
       ]
     },
     {
@@ -17533,6 +18299,16 @@
             "Mississippi State Bar Association, 1989 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Federal and White Collar Crimes",
+        "Adoption",
+        "Child Support",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -17656,6 +18432,13 @@
             "Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Collections",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -17748,6 +18531,11 @@
             "U.S. Court of Appeals 5th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Bad Faith Insurance",
+        "Real Estate"
       ]
     },
     {
@@ -17852,6 +18640,11 @@
             "Mississippi Bar Association, Family Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Transportation",
+        "Family Law"
       ]
     },
     {
@@ -17927,6 +18720,10 @@
             "Mississippi Association for Justice, Board of Governors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Personal Injury"
       ]
     },
     {
@@ -18022,6 +18819,15 @@
             "Mississippi, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Wills",
+        "Business Organizations",
+        "Contracts",
+        "Debtor and Creditor",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -18100,6 +18906,20 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Construction",
+        "Business Organizations",
+        "Estate Planning",
+        "Family Law",
+        "Gaming",
+        "Health Care Law",
+        "Professional Malpractice",
+        "Employment Rights",
+        "Environmental Law",
+        "Real Estate",
+        "Criminal Defense"
       ]
     },
     {
@@ -18235,6 +19055,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -18329,6 +19154,12 @@
             "United States Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Bad Faith Insurance",
+        "Environmental Law",
+        "Natural Resources"
       ]
     },
     {
@@ -18463,6 +19294,12 @@
             "Mississippi Defense Lawyer's Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Insurance Defense",
+        "Civil Rights",
+        "Premises Liability"
       ]
     },
     {
@@ -18573,7 +19410,8 @@
             "Phi Beta Lambda"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "trace-d-mcraney",
@@ -18735,6 +19573,12 @@
             "National Retail and Restaurant Defense Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Premises Liability",
+        "Workers' Compensation",
+        "Sexual Harassment"
       ]
     },
     {
@@ -18859,6 +19703,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Class Actions",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -18956,6 +19805,9 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -19122,6 +19974,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Toxic Torts",
+        "Professional Malpractice"
       ]
     },
     {
@@ -19186,6 +20045,12 @@
             "Tennessee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -19298,6 +20163,10 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -19376,6 +20245,11 @@
             "Mississippi Women Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights",
+        "Family Law"
       ]
     },
     {
@@ -19508,7 +20382,8 @@
             "Chairman, Municipal Annexation Commission, NIMLO, 1986 - 1989"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "morgan-g-miranda",
@@ -19549,7 +20424,12 @@
         "Immigration",
         "Drug and Device Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Asbestos Mesothelioma",
+        "Bankruptcy",
+        "Immigration"
+      ]
     },
     {
       "slug": "benjamin-l-mitchell",
@@ -19627,6 +20507,10 @@
             "American Bar Association (Forum on Franchising Corporate Counsel Committee 2012)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -19798,6 +20682,10 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury"
       ]
     },
     {
@@ -19924,6 +20812,12 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Asbestos Mesothelioma",
+        "Environmental Law",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -20065,6 +20959,19 @@
             "Delta Delta Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Business Organizations",
+        "Contracts",
+        "Insurance Defense",
+        "Litigation and Appeals",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Probate",
+        "Wills",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -20151,6 +21058,10 @@
             "Capital Area Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -20340,6 +21251,12 @@
             "Professional Liability Defense Federation (PLDF)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Insurance Defense",
+        "Bad Faith Insurance",
+        "Premises Liability"
       ]
     },
     {
@@ -20464,6 +21381,13 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Civil Rights",
+        "Aviation",
+        "Class Actions",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -20568,7 +21492,8 @@
             "Jackson Young Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "samantha-r-moore",
@@ -20683,6 +21608,10 @@
             "Estate Planning Council of Mississippi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Probate"
       ]
     },
     {
@@ -20721,7 +21650,8 @@
         "Commercial Litigation",
         "Products, Catastrophic & Industrial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "james-r-mozingo",
@@ -20869,6 +21799,9 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -20954,6 +21887,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Bankruptcy",
+        "Personal Injury"
       ]
     },
     {
@@ -21081,7 +22020,8 @@
             "United States Court of Appeals for the Fifth Circuit, 1990 - 2002 (Lawyers’ Advisory Committee)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "paul-s-murphy",
@@ -21184,6 +22124,10 @@
             "Mississippi Bankruptcy Conference"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Transportation"
       ]
     },
     {
@@ -21222,7 +22166,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "andy-lowry",
@@ -21366,6 +22311,10 @@
             "Bar Association of the 5th Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Medical Malpractice"
       ]
     },
     {
@@ -21401,7 +22350,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4062034_1",
@@ -21438,7 +22388,10 @@
       "practice_areas": [
         "Construction Law & Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "2167822_1",
@@ -21475,7 +22428,10 @@
       "practice_areas": [
         "Aviation Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Aviation"
+      ]
     },
     {
       "slug": "3688423_1",
@@ -21512,7 +22468,8 @@
       "practice_areas": [
         "Law Enforcement and Correctional Facilities Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2435177_1",
@@ -21549,7 +22506,10 @@
       "practice_areas": [
         "Construction Law and Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1058471_1",
@@ -21586,7 +22546,10 @@
       "practice_areas": [
         "Education Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Education"
+      ]
     },
     {
       "slug": "1016618_1",
@@ -21623,7 +22586,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1719091_1",
@@ -21660,95 +22624,9 @@
       "practice_areas": [
         "Workers' Compensation Defense"
       ],
-      "sections": []
-    },
-    {
-      "slug": "joseph-whit-cooper",
-      "type": "attorney",
-      "name": "Joseph \"Whit\" Cooper",
-      "firm_name": "Farese, Farese, & Farese, P.A.",
-      "firm_slug": "farese-farese-farese-p-a",
-      "practice_type": "Criminal Lawyers in Ashland, MS",
-      "years_experience": null,
-      "free_consultation": true,
-      "super_lawyers": 1,
-      "photo": "/photos/attorneys/joseph-whit-cooper.jpg",
-      "bio": "Joseph \"Whit\" Cooper is an associate at Farese, Farese & Farese P.A. in Ashland, Mississippi. He received his undergraduate degree from the University of Mississippi in 2009 graduating magna cum laude and his J.D. degree from the University of Mississippi School of Law in 2012 graduating cum laude. He is licensed to practice in the United States Court of Appeals for the Fifth Circuit as well as the United States District Courts for the Northern and Southern Districts of Mississippi. He is a member of the American Bar Association and the Mississippi Bar Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nJoseph \"Whit\" Cooper included in a Super Lawyers® list\n\nHonors\n\nAmerican Jurisprudence Award: Constitutional Law, 2010\n\nAmerican Jurisprudence Award: White Collar Crime, 2011\n\nOther Sources of Feedback About Joseph \"Whit\" Cooper\n\nIncluded on the 2025Mid-South Super Lawyers list\n\nPast Lists\n\n2024 Mid-South Super Lawyers list\n\n2023 Mid-South Super Lawyers list\n\n2022 Mid-South Super Lawyers list\n\n2021 Mid-South Super Lawyers list\n\n2020 Mid-South Super Lawyers list\n\n2019 Mid-South Super Lawyers list",
-      "location": {
-        "state": "Mississippi",
-        "state_abbr": "MS",
-        "city": "Ashland",
-        "address": "122 Church Avenue",
-        "address2": null,
-        "zip": "38603"
-      },
-      "contact": {
-        "phones": [
-          "855-955-3889",
-          "662-308-6600",
-          "662-224-3229"
-        ],
-        "fax": "662-224-3229",
-        "websites": [
-          "https://www.fareselaw.com",
-          "https://www.fareselaw.com/"
-        ],
-        "hours": null,
-        "features": [
-          "Credit Cards Accepted",
-          "Free Consultations"
-        ]
-      },
-      "practice_areas": [
-        "Criminal",
-        "Civil"
-      ],
-      "sections": [
-        {
-          "title": "Overview",
-          "type": "text",
-          "content": "Joseph \"Whit\" Cooper is an associate at Farese, Farese & Farese P.A. in Ashland, Mississippi. He received his undergraduate degree from the University of Mississippi in 2009 graduating magna cum laude and his J.D. degree from the University of Mississippi School of Law in 2012 graduating cum laude. He is licensed to practice in the United States Court of Appeals for the Fifth Circuit as well as the United States District Courts for the Northern and Southern Districts of Mississippi. He is a member of the American Bar Association and the Mississippi Bar Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nJoseph \"Whit\" Cooper included in a Super Lawyers® list\n\nHonors\n\nAmerican Jurisprudence Award: Constitutional Law, 2010\n\nAmerican Jurisprudence Award: White Collar Crime, 2011\n\nOther Sources of Feedback About Joseph \"Whit\" Cooper\n\nIncluded on the 2025Mid-South Super Lawyers list\n\nPast Lists\n\n2024 Mid-South Super Lawyers list\n\n2023 Mid-South Super Lawyers list\n\n2022 Mid-South Super Lawyers list\n\n2021 Mid-South Super Lawyers list\n\n2020 Mid-South Super Lawyers list\n\n2019 Mid-South Super Lawyers list"
-        },
-        {
-          "title": "Education",
-          "type": "grouped_list",
-          "content": [
-            {
-              "label": "Legal Education",
-              "items": [
-                "University of Mississippi School of Law, Mississippi, 2012",
-                "J.D.",
-                "Honors: cum laude"
-              ]
-            },
-            {
-              "label": "Non Legal Education",
-              "items": [
-                "University of Mississippi, Oxford, Mississippi, 2009",
-                "B.A.",
-                "Honors: magna cum laude",
-                "Major: Political Science"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Current Employment Position(s)",
-          "type": "list",
-          "content": [
-            "Partner"
-          ]
-        },
-        {
-          "title": "Bar Admissions",
-          "type": "list",
-          "content": [
-            "Mississippi, 2012",
-            "U.S. District Court Northern District of Mississippi, 2012",
-            "U.S. District Court Southern District of Mississippi, 2012",
-            "U.S. Court of Appeals 5th Circuit, 2012"
-          ]
-        }
+      "sections": [],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -21838,6 +22716,101 @@
             "U.S. Court of Appeals 5th Circuit, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
+    },
+    {
+      "slug": "joseph-whit-cooper",
+      "type": "attorney",
+      "name": "Joseph \"Whit\" Cooper",
+      "firm_name": "Farese, Farese, & Farese, P.A.",
+      "firm_slug": "farese-farese-farese-p-a",
+      "practice_type": "Criminal Lawyers in Ashland, MS",
+      "years_experience": null,
+      "free_consultation": true,
+      "super_lawyers": 1,
+      "photo": "/photos/attorneys/joseph-whit-cooper.jpg",
+      "bio": "Joseph \"Whit\" Cooper is an associate at Farese, Farese & Farese P.A. in Ashland, Mississippi. He received his undergraduate degree from the University of Mississippi in 2009 graduating magna cum laude and his J.D. degree from the University of Mississippi School of Law in 2012 graduating cum laude. He is licensed to practice in the United States Court of Appeals for the Fifth Circuit as well as the United States District Courts for the Northern and Southern Districts of Mississippi. He is a member of the American Bar Association and the Mississippi Bar Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nJoseph \"Whit\" Cooper included in a Super Lawyers® list\n\nHonors\n\nAmerican Jurisprudence Award: Constitutional Law, 2010\n\nAmerican Jurisprudence Award: White Collar Crime, 2011\n\nOther Sources of Feedback About Joseph \"Whit\" Cooper\n\nIncluded on the 2025Mid-South Super Lawyers list\n\nPast Lists\n\n2024 Mid-South Super Lawyers list\n\n2023 Mid-South Super Lawyers list\n\n2022 Mid-South Super Lawyers list\n\n2021 Mid-South Super Lawyers list\n\n2020 Mid-South Super Lawyers list\n\n2019 Mid-South Super Lawyers list",
+      "location": {
+        "state": "Mississippi",
+        "state_abbr": "MS",
+        "city": "Ashland",
+        "address": "122 Church Avenue",
+        "address2": null,
+        "zip": "38603"
+      },
+      "contact": {
+        "phones": [
+          "855-955-3889",
+          "662-308-6600",
+          "662-224-3229"
+        ],
+        "fax": "662-224-3229",
+        "websites": [
+          "https://www.fareselaw.com",
+          "https://www.fareselaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted",
+          "Free Consultations"
+        ]
+      },
+      "practice_areas": [
+        "Criminal",
+        "Civil"
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "type": "text",
+          "content": "Joseph \"Whit\" Cooper is an associate at Farese, Farese & Farese P.A. in Ashland, Mississippi. He received his undergraduate degree from the University of Mississippi in 2009 graduating magna cum laude and his J.D. degree from the University of Mississippi School of Law in 2012 graduating cum laude. He is licensed to practice in the United States Court of Appeals for the Fifth Circuit as well as the United States District Courts for the Northern and Southern Districts of Mississippi. He is a member of the American Bar Association and the Mississippi Bar Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nJoseph \"Whit\" Cooper included in a Super Lawyers® list\n\nHonors\n\nAmerican Jurisprudence Award: Constitutional Law, 2010\n\nAmerican Jurisprudence Award: White Collar Crime, 2011\n\nOther Sources of Feedback About Joseph \"Whit\" Cooper\n\nIncluded on the 2025Mid-South Super Lawyers list\n\nPast Lists\n\n2024 Mid-South Super Lawyers list\n\n2023 Mid-South Super Lawyers list\n\n2022 Mid-South Super Lawyers list\n\n2021 Mid-South Super Lawyers list\n\n2020 Mid-South Super Lawyers list\n\n2019 Mid-South Super Lawyers list"
+        },
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "University of Mississippi School of Law, Mississippi, 2012",
+                "J.D.",
+                "Honors: cum laude"
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "University of Mississippi, Oxford, Mississippi, 2009",
+                "B.A.",
+                "Honors: magna cum laude",
+                "Major: Political Science"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Partner"
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Mississippi, 2012",
+            "U.S. District Court Northern District of Mississippi, 2012",
+            "U.S. District Court Southern District of Mississippi, 2012",
+            "U.S. Court of Appeals 5th Circuit, 2012"
+          ]
+        }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -21954,7 +22927,8 @@
             "Mississippi Bar, 1997 - 1999 (Director)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matt-newman",
@@ -22025,6 +22999,10 @@
             "Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -22128,6 +23106,9 @@
             "Mississippi Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -22245,6 +23226,9 @@
             "Estate Planning Council of Mississippi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -22388,6 +23372,9 @@
             "American Bar Association, Health Law Section (Vice Chair of the Health Law Committee for the YLD)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -22479,6 +23466,12 @@
             "Madison County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -22521,7 +23514,10 @@
         "Governmental Finance",
         "Public-Private Partnerships & Public Facilities"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law"
+      ]
     },
     {
       "slug": "reed-t-nunnelee",
@@ -22560,7 +23556,11 @@
         "Mergers and Acquisitions",
         "Real Estate Development and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
+      ]
     },
     {
       "slug": "ryan-j-obeirne",
@@ -22649,6 +23649,9 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -22747,6 +23750,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Brain Injury",
+        "Car Accidents",
+        "Personal Injury",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -22943,6 +23953,13 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Medical Malpractice",
+        "Health Care Law",
+        "Administrative Law",
+        "Employment Rights"
       ]
     },
     {
@@ -23054,6 +24071,11 @@
             "Ben F. Jones Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Civil Rights"
       ]
     },
     {
@@ -23159,6 +24181,9 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -23258,6 +24283,9 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -23423,6 +24451,13 @@
             "National Association of Consumer Bankruptcy Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense",
+        "Bankruptcy",
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -23526,6 +24561,10 @@
             "Southern Conference of Attorneys General, 1987 (Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -23573,7 +24612,16 @@
         "Motor Vehicle Accidents -- Plaintiff",
         "Products Liability Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "DUI and DWI",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "adam-d-porter",
@@ -23611,7 +24659,8 @@
         "Commercial Litigation",
         "Drug and Device Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "seth-w-pounds",
@@ -23646,7 +24695,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "j-kirkham-povall",
@@ -23865,6 +24915,27 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Motor Vehicle Defects",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Class Actions",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Social Security Disability",
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Support",
+        "Contracts",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "DUI and DWI"
       ]
     },
     {
@@ -23987,6 +25058,11 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Family Law",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -24073,7 +25149,8 @@
             "Mississippi Association for Justice"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kenneth-a-primos-iii",
@@ -24177,6 +25254,10 @@
             "Jackson Young Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -24251,6 +25332,9 @@
             "U.S. Court of Appeals 5th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents"
       ]
     },
     {
@@ -24294,6 +25378,9 @@
           "type": "text",
           "content": "Lydia Quarles is a Senior Policy Analyst at the John C. Stennis Institute of Government, Mississippi State University. She joined the Stennis Institute in 2006, following 13 years of service to the Mississippi Workers Compensation Commission, including five years as the Commissioner of the Mississippi Workers Compensation Commission and eight years as an Administrative Judge. Prior to her work with the MWCC, she spent more than a dozen years in the private practice of law in Alabama and Mississippi.\n\nQuarles is an active member of the bar and serves as co-chair of the Mississippi Supreme Court’s “Gender Fairness Implementation Study Committee.” She is a member of the Mississippi Supreme Court’s “Rule of Law Committee” and acts as the Chief Operating Officer of the Workers’ Compensation Section of the Mississippi Bar. She is a fellow of the Mississippi Bar Foundation, a recipient of the Mississippi Bar’s Distinguished Service Award, and a member of the Mississippi School for Math and Science Foundation Board. Quarles has been honored by the American Bar Association’s Administrative Law and Regulatory Practice Section, receiving the Mary C. Lawton Award for lasting contributions to the Mississippi Workers’ Compensation Commission in the areas of alternative dispute resolution and access for Hispanic workers.\n\nShe spends much of her time in Starkville and Jackson (MS), but widely travels in the course of her work, with clients throughout the state and region. Her zest for law, consulting and dispute resolution and her deep compassion and concern for clients and causes make her seem tireless, with an enthusiasm and optimism that are contagious – warranting her “Expect the Unbelievable” motto."
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -24409,6 +25496,9 @@
             "Society of Trust and Estate Practitioners"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -24506,6 +25596,18 @@
             "Prosecutor for the City of Meridian, Mississippi since, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Child Support",
+        "Business Organizations",
+        "Divorce and Separation",
+        "Estate Planning",
+        "Family Law",
+        "Probate",
+        "Real Estate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -24603,6 +25705,9 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -24685,6 +25790,13 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury",
+        "Personal Injury Defense",
+        "Workers' Compensation"
       ]
     },
     {
@@ -24801,6 +25913,9 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -24903,6 +26018,9 @@
             "Air and Waste Management Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law"
       ]
     },
     {
@@ -24995,6 +26113,11 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wills",
+        "Class Actions"
       ]
     },
     {
@@ -25089,6 +26212,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -25175,6 +26302,10 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Trusts"
       ]
     },
     {
@@ -25255,6 +26386,11 @@
             "Mississippi Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -25368,6 +26504,9 @@
             "Mississippi Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -25406,7 +26545,8 @@
         "Health Law",
         "Appellate and Written Advocacy"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "franklin-d-rosenblatt",
@@ -25448,7 +26588,11 @@
         "Military and National Security Law",
         "White Collar, Compliance and Government Investigations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions",
+        "Federal and White Collar Crimes"
+      ]
     },
     {
       "slug": "paul-s-rosenblatt",
@@ -25510,7 +26654,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "stephen-w-rosenblatt",
@@ -25614,6 +26759,9 @@
             "Jackson Young Lawyers Association, 1981 - 1982 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -25723,6 +26871,10 @@
             "Tennessee Society of Certified Public Accountants (TSCPA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -25762,7 +26914,8 @@
         "Governmental Litigation",
         "Redistricting and Voting Rights"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "william-h-russell",
@@ -25804,7 +26957,11 @@
         "Estate Administration and Probate",
         "Employee Benefits"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law",
+        "Probate"
+      ]
     },
     {
       "slug": "matthew-e-rutherford-jr",
@@ -25915,6 +27072,15 @@
             "Jackson Young Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Transportation",
+        "Premises Liability",
+        "Personal Injury",
+        "Professional Malpractice",
+        "Contracts",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -26046,6 +27212,24 @@
             "Rankin County Bar Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Debtor and Creditor",
+        "Collections",
+        "Estate Planning",
+        "Elder Law",
+        "Trusts",
+        "Wills",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Family Law",
+        "Wrongful Death",
+        "Probate",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -26117,7 +27301,8 @@
             "Law Student Newspaper, Editor"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "corrie-j-schuler",
@@ -26209,6 +27394,9 @@
             "Mississippi Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -26305,6 +27493,11 @@
             "Madison County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Civil Rights"
       ]
     },
     {
@@ -26397,6 +27590,12 @@
             "Ocean Springs Rotary Club, 2014 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Adoption",
+        "Bankruptcy"
       ]
     },
     {
@@ -26485,6 +27684,10 @@
             "American Health Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -26539,6 +27742,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -26574,7 +27780,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "latoyia-j-slay",
@@ -26617,7 +27824,12 @@
         "Intellectual Property Litigation",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Antitrust",
+        "Bad Faith Insurance",
+        "Patents"
+      ]
     },
     {
       "slug": "richard-w-sliman",
@@ -26725,6 +27937,10 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Premises Liability"
       ]
     },
     {
@@ -26763,7 +27979,8 @@
         "Commercial Litigation",
         "Appellate and Written Advocacy"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "craig-d-smith",
@@ -26862,6 +28079,10 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -26939,6 +28160,10 @@
             "Mississippi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Real Estate"
       ]
     },
     {
@@ -27001,6 +28226,10 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Transportation"
       ]
     },
     {
@@ -27109,6 +28338,11 @@
             "Rankin County Bar Association, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -27236,6 +28470,10 @@
             "Mississippi Defense Lawyers Association, 1997 - Present (Mississippi State Representative)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Transportation"
       ]
     },
     {
@@ -27341,6 +28579,11 @@
             "Community Bank and Savings Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -27436,6 +28679,13 @@
             "Mississippi Attorneys for Constitutional Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "Employment Rights",
+        "Sex Crime",
+        "DUI and DWI"
       ]
     },
     {
@@ -27474,7 +28724,10 @@
         "Products, Catastrophic & Industrial Litigation",
         "Class Actions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions"
+      ]
     },
     {
       "slug": "ashley-nader-stubbs",
@@ -27582,6 +28835,9 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation"
       ]
     },
     {
@@ -27667,6 +28923,9 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -27796,7 +29055,8 @@
             "Lafayette County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "phillip-s-sykes",
@@ -27936,6 +29196,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Environmental Law",
+        "Class Actions"
       ]
     },
     {
@@ -28061,6 +29326,15 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma",
+        "Environmental Law",
+        "Toxic Torts",
+        "Insurance Defense",
+        "Gaming",
+        "Construction",
+        "Premises Liability"
       ]
     },
     {
@@ -28151,6 +29425,12 @@
             "Montgomery County Prosecuting Attorney, 2020 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Wrongful Death",
+        "Contracts",
+        "Family Law"
       ]
     },
     {
@@ -28252,6 +29532,10 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Class Actions"
       ]
     },
     {
@@ -28341,6 +29625,10 @@
             "Mississippi Bar, Real Property Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Real Estate"
       ]
     },
     {
@@ -28428,7 +29716,8 @@
             "Capital Area Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lee-thaggard",
@@ -28539,6 +29828,15 @@
             "Kappa Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Family Law",
+        "Real Estate",
+        "Insurance Law",
+        "Employment Rights",
+        "Personal Injury Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -28638,6 +29936,12 @@
             "U.S. District Court Southern District of Mississippi, 1967"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Toxic Torts",
+        "Discrimination"
       ]
     },
     {
@@ -28771,6 +30075,10 @@
             "Warren County Bar Association, 1976 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Environmental Law"
       ]
     },
     {
@@ -28875,6 +30183,10 @@
             "Mississippi Association of County Board Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Health Care Law"
       ]
     },
     {
@@ -28978,6 +30290,9 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -29088,6 +30403,9 @@
             "Capital Area Human Resource Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -29174,6 +30492,11 @@
             "U.S. Federal Courts, 1968"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Banking and Finance Law",
+        "Real Estate"
       ]
     },
     {
@@ -29273,6 +30596,11 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Environmental Law",
+        "Election Campaign and Political Law"
       ]
     },
     {
@@ -29400,6 +30728,11 @@
             "National Association of Assistant U.S. Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Immigration",
+        "Tax Law"
       ]
     },
     {
@@ -29496,6 +30829,11 @@
             "Monticello United Methodist Church (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -29599,6 +30937,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -29643,7 +30985,14 @@
         "Estate Administration / Probate",
         "Social Security Disability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Probate",
+        "Social Security Disability"
+      ]
     },
     {
       "slug": "h-hunter-twiford-iv",
@@ -29678,7 +31027,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "robert-m-tyner-jr",
@@ -29744,6 +31094,13 @@
             "Mississippi, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Legal Malpractice",
+        "Personal Injury",
+        "Car Accidents"
       ]
     },
     {
@@ -29825,6 +31182,14 @@
             "Mississippi, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Estate Planning",
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -29947,6 +31312,10 @@
             "Hinds County Bar Association, Community Grants Committee, 2003 - 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law"
       ]
     },
     {
@@ -30040,6 +31409,9 @@
             "Criminal Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -30126,6 +31498,9 @@
             "Make a Wish Mississippi Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -30217,6 +31592,10 @@
             "Capital Area Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Tax Law"
       ]
     },
     {
@@ -30334,6 +31713,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "State Local and Municipal Law",
+        "Probate"
       ]
     },
     {
@@ -30437,6 +31821,10 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights"
       ]
     },
     {
@@ -30476,7 +31864,8 @@
         "Product Liability Litigation",
         "Military and National Security Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "tracy-buster-walsh",
@@ -30586,6 +31975,12 @@
             "Phi Mu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Bankruptcy",
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -30654,6 +32049,9 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -30760,6 +32158,10 @@
             "Mississippi Representative, Young Lawyers Division"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Aviation"
       ]
     },
     {
@@ -30876,6 +32278,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -30995,6 +32401,15 @@
             "Harrison County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Personal Injury",
+        "Probate",
+        "State Local and Municipal Law",
+        "Contracts",
+        "Gaming",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -31033,7 +32448,8 @@
         "Drug and Device Litigation",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "keishunna-r-webster",
@@ -31134,6 +32550,10 @@
             "John M. Langston Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -31239,6 +32659,9 @@
             "Mississippi Bureau of Narcotics (MBN) (Senior Attorney )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -31390,6 +32813,19 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Litigation and Appeals",
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Employment Rights",
+        "Bankruptcy",
+        "Civil Rights",
+        "Construction",
+        "Gaming",
+        "Premises Liability",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -31428,7 +32864,8 @@
         "Drug and Device Litigation",
         "Product Liability Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "michael-e-whitehead",
@@ -31550,6 +32987,16 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts",
+        "Dangerous Products",
+        "Real Estate",
+        "Asbestos Mesothelioma",
+        "Construction",
+        "Insurance Defense",
+        "Premises Liability",
+        "Contracts"
       ]
     },
     {
@@ -31664,6 +33111,10 @@
             "Mississippi Secretary of State (Partnership/LLCs Law Study Group Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -31762,6 +33213,10 @@
             "American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Probate"
       ]
     },
     {
@@ -31861,7 +33316,8 @@
             "Leadership Mississippi, Class of, - 1995"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "taylor-houston-wilkins",
@@ -31947,7 +33403,8 @@
             "Jackson Young Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rocky-wilkins",
@@ -32040,6 +33497,11 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -32140,6 +33602,10 @@
             "U.S. Court of Appeals 5th Circuit, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Wrongful Death"
       ]
     },
     {
@@ -32212,6 +33678,9 @@
             "Council of State , 1998 - Present (National Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -32309,6 +33778,9 @@
             "Ben F. Jones Chapter of the National Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -32418,6 +33890,9 @@
             "American Association for Justice, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -32510,7 +33985,8 @@
             "Mississippi Defense Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ravonda-griffin-willis",
@@ -32634,6 +34110,11 @@
             "Ben F. Jones Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -32741,6 +34222,9 @@
             "Mississippi Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -32839,6 +34323,10 @@
             "Mississippi Bankruptcy Conference (Former President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Bankruptcy"
       ]
     },
     {
@@ -32909,6 +34397,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability"
       ]
     },
     {
@@ -32984,6 +34475,10 @@
             "U.S. Court of Appeals 5th Circuit, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -33073,6 +34568,11 @@
             "Mississippi, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Truck Accident",
+        "Personal Injury"
       ]
     },
     {
@@ -33113,7 +34613,10 @@
       "practice_areas": [
         "Social Security Disability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Social Security Disability"
+      ]
     },
     {
       "slug": "thomas--alan--womble-jr",
@@ -33211,6 +34714,11 @@
             "Kappa Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Contracts"
       ]
     },
     {
@@ -33337,6 +34845,10 @@
             "Panola Play House Theatre Board"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -33432,6 +34944,19 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Consumer Protection",
+        "Elder Law",
+        "Employment Rights",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Real Estate",
+        "Social Security Disability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -33515,6 +35040,12 @@
             "U.S. Court of Appeals 5th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Eminent Domain",
+        "Personal Injury",
+        "Contracts",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -33619,6 +35150,9 @@
             "U.S. Court of Appeals 5th Circuit, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability"
       ]
     },
     {
@@ -33649,7 +35183,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     }
   ],
   "firms": [
@@ -33693,9 +35228,8 @@
         "Jeffrey Arnold"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Family Law",
-        "Probate"
+        "Probate",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -33787,9 +35321,6 @@
         "Andy Lowry"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Personal Injury Defense"
       ],
       "additional_locations": [
@@ -33889,9 +35420,8 @@
         "Shanda M. Yates"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -33934,7 +35464,6 @@
         "Bobby R. Wood"
       ],
       "official_practice_area": [
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": [
@@ -34008,16 +35537,12 @@
         "Corrie J. Schuler"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Assault and Battery (Plaintiff)",
-        "Birth Injury",
-        "Car Accidents",
-        "Medical Malpractice",
         "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
         "Premises Liability",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Assault and Battery (Plaintiff)",
+        "Birth Injury"
       ],
       "additional_locations": [
         {
@@ -34074,12 +35599,10 @@
         "Janeah Kerr"
       ],
       "official_practice_area": [
-        "Child Custody",
+        "Family Law",
         "Child Support",
         "Divorce and Separation",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Child Custody"
       ],
       "additional_locations": []
     },
@@ -34129,12 +35652,9 @@
         "Amanda Trawick Rainey"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime",
-        "Family Law",
-        "Personal Injury"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -34212,38 +35732,21 @@
         "Steven E. Farese, Sr."
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Criminal Defense",
+        "Family Law",
+        "Personal Injury",
+        "Real Estate",
+        "Workers' Compensation",
+        "DUI and DWI",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Criminal Defense",
-        "DUI and DWI",
         "Defamation",
-        "Divorce and Separation",
-        "Drug Crime",
-        "Estate Planning",
-        "Family Law",
-        "Federal and White Collar Crimes",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Personal Injury",
         "Premises Liability",
-        "Professional Malpractice",
-        "Real Estate",
-        "Sex Crime",
         "Sexual Abuse",
-        "Traffic Ticket",
-        "Truck Accident",
-        "Trusts",
-        "Workers' Compensation",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -34307,16 +35810,13 @@
         "James H. Herring"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Child Custody",
+        "Family Law",
         "Divorce and Separation",
         "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Personal Injury",
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -34361,13 +35861,9 @@
         "Robert W. Davis Jr."
       ],
       "official_practice_area": [
-        "Child Custody",
         "Criminal Defense",
-        "Divorce and Separation",
         "Family Law",
-        "Federal and White Collar Crimes",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Child Custody"
       ],
       "additional_locations": []
     },
@@ -34412,8 +35908,7 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Social Security",
-        "Social Security Disability"
+        "Social Security"
       ],
       "additional_locations": []
     },
@@ -34562,22 +36057,14 @@
         "April D. Robertson"
       ],
       "official_practice_area": [
-        "Admiralty and Maritime",
-        "Agriculture",
-        "Banking and Finance Law",
-        "Business and Commercial Law",
-        "Class Actions",
-        "Dangerous Products",
-        "Estate Planning",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
         "Personal Injury",
         "Premises Liability",
+        "Wrongful Death",
+        "Admiralty and Maritime",
+        "Banking and Finance Law",
         "Real Estate",
-        "Trusts",
-        "Wills",
-        "Wrongful Death"
+        "Estate Planning",
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -34638,11 +36125,7 @@
         "Business and Commercial Law",
         "Estate Planning",
         "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Probate",
-        "Professional Malpractice",
         "Real Estate"
       ],
       "additional_locations": []
@@ -34750,25 +36233,18 @@
         "Ravonda Griffin Willis"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Personal Injury",
+        "Criminal Defense",
+        "Family Law",
+        "Estate Planning",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Criminal Defense",
         "Defamation",
-        "Estate Planning",
-        "Family Law",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
         "Sexual Abuse",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -34813,8 +36289,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Federal and White Collar Crimes"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -34900,7 +36375,6 @@
         "Craig M. Geno"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
         "Bankruptcy"
       ],
       "additional_locations": []
@@ -34989,10 +36463,9 @@
         "William Scott Mullennix"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Criminal Defense",
-        "Estate Planning",
         "Family Law",
+        "Criminal Defense",
+        "Bankruptcy",
         "Personal Injury",
         "Probate"
       ],
@@ -35039,7 +36512,6 @@
       ],
       "official_practice_area": [
         "Bankruptcy",
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -35140,8 +36612,8 @@
         "Margaret W. Holmes"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Family Law",
+        "Criminal Defense",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -35187,8 +36659,8 @@
         "Mark V. Watts"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Family Law"
+        "Family Law",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -35245,15 +36717,12 @@
         "Benjamin N. Philley"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Dangerous Products",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Professional Malpractice",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Car Accidents",
         "Truck Accident",
-        "Workers' Compensation",
-        "Wrongful Death"
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -35568,9 +37037,9 @@
         "Stephen Maggio"
       ],
       "official_practice_area": [
+        "Family Law",
         "Criminal Defense",
-        "DUI and DWI",
-        "Family Law"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -35620,11 +37089,8 @@
         "R. Paul Williams"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Mergers and Acquisitions",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Truck Accident"
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -35685,9 +37151,9 @@
         "James F. Noble III"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Estate Planning",
-        "Immigration",
-        "Personal Injury"
+        "Immigration"
       ],
       "additional_locations": []
     },
@@ -35730,7 +37196,7 @@
         "Jeffrey Grant Pierce"
       ],
       "official_practice_area": [
-        "DUI and DWI"
+        "Credit Repair"
       ],
       "additional_locations": []
     },
@@ -35864,16 +37330,13 @@
         "Kyle Robertson"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Car Accidents",
-        "Child Custody",
-        "Divorce and Separation",
         "Family Law",
+        "Workers' Compensation",
         "Personal Injury",
         "Social Security",
-        "Social Security Disability",
-        "Truck Accident",
-        "Workers' Compensation"
+        "Divorce and Separation",
+        "Car Accidents",
+        "Adoption"
       ],
       "additional_locations": []
     },
@@ -35918,8 +37381,8 @@
         "Rita Nahlik Silin"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Family Law"
+        "Family Law",
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -35969,11 +37432,10 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
         "Employment Rights",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "Drug Crime",
+        "Sex Crime",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -36023,8 +37485,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -36071,12 +37532,9 @@
         "J. Ryan Taylor"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Medical Malpractice",
-        "Mergers and Acquisitions",
         "Personal Injury",
-        "Professional Malpractice",
         "Truck Accident",
+        "Medical Malpractice",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -36125,13 +37583,13 @@
         "Albert H. Turnage"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Family Law",
         "Probate",
-        "Real Estate",
-        "Social Security Disability",
+        "Estate Planning",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Real Estate",
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -36178,13 +37636,10 @@
         "Paulette Turner"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
-        "Elder Law",
-        "Estate Planning",
         "Family Law",
         "Probate",
-        "Social Security",
+        "Divorce and Separation",
+        "Child Custody",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -36229,8 +37684,8 @@
         "Robert M. Tyner Jr."
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Real Estate"
+        "Real Estate",
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -36280,14 +37735,10 @@
         "M. Darin Vance"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
         "Drug Crime",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Military"
+        "Assault and Battery (Plaintiff)"
       ],
       "additional_locations": []
     },
@@ -36339,19 +37790,14 @@
         "Joseph H. Van Every"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Criminal Defense",
-        "Elder Law",
+        "Personal Injury",
+        "Medical Malpractice",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Land Use and Zoning",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Criminal Defense",
+        "Wrongful Death",
+        "Car Accidents",
+        "Truck Accident"
       ],
       "additional_locations": []
     },
@@ -36445,13 +37891,9 @@
         "Lee Watt"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
         "Real Estate",
-        "Wills"
+        "Probate",
+        "Litigation and Appeals"
       ],
       "additional_locations": []
     },
@@ -36543,10 +37985,8 @@
         "Thomas  Alan  Womble, Jr."
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Criminal Defense",
-        "Estate Planning",
         "Personal Injury",
+        "Criminal Defense",
         "Real Estate"
       ],
       "additional_locations": []
@@ -36592,10 +38032,9 @@
         "Gary M. Yarborough Jr."
       ],
       "official_practice_area": [
-        "Antitrust",
-        "Car Accidents",
         "Class Actions",
         "Personal Injury",
+        "Car Accidents",
         "Trusts"
       ],
       "additional_locations": []
@@ -36654,7 +38093,20 @@
         "Lee Thaggard",
         "Rimen B. Singh"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Business and Commercial Law",
+        "Civil Rights",
+        "Contracts",
+        "Business Organizations",
+        "Employment Rights",
+        "Family Law",
+        "Health Care Law",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Real Estate",
+        "Workers' Compensation"
+      ],
       "additional_locations": []
     },
     {
@@ -36702,7 +38154,9 @@
         "Trace D. McRaney",
         "Shannon Ladner Ozerden"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Aviation"
+      ],
       "additional_locations": []
     },
     {
@@ -36741,7 +38195,9 @@
       "attorneys": [
         "Denvil Crowe"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -36792,7 +38248,13 @@
         "Ed Pittman Sr.",
         "John Scanlon"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Land Use and Zoning",
+        "Election Campaign and Political Law",
+        "Criminal Defense",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -36833,7 +38295,9 @@
         "Dianne Ellis",
         "Dawn Smith"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -36872,7 +38336,9 @@
         "David L. Morrow Jr.",
         "Brendan C. Sartin"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Wills"
+      ],
       "additional_locations": []
     },
     {
@@ -36917,7 +38383,12 @@
       "attorneys": [
         "Nathan S. Farmer"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Probate",
+        "Wills",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -36956,7 +38427,9 @@
         "Melissa L. Groover",
         "David G. Hill"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Civil Rights"
+      ],
       "additional_locations": []
     },
     {
@@ -37022,7 +38495,27 @@
         "J. Kirkham Povall",
         "S. Todd Jeffreys"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Motor Vehicle Defects",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Class Actions",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Social Security Disability",
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Support",
+        "Contracts",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -37062,7 +38555,9 @@
       "attorneys": [
         "Heidi S. Milam"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -37103,7 +38598,9 @@
         "Lydia M. Quarles",
         "H. Hunter Twiford IV"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -37184,7 +38681,9 @@
       "attorneys": [
         "Ed Pittman Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Admiralty and Maritime"
+      ],
       "additional_locations": []
     },
     {
@@ -37222,7 +38721,9 @@
         "Kirk Gavin Ladner",
         "James M. Priest Jr."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -37266,7 +38767,11 @@
       "attorneys": [
         "Daniel M. Sorrick"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Probate",
+        "Personal Injury"
+      ],
       "additional_locations": []
     }
   ]

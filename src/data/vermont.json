@@ -132,6 +132,13 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Law",
+        "Construction",
+        "Personal Injury",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -247,6 +254,9 @@
             "Chittenden County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -350,7 +360,8 @@
             "Vermont State, 1997 - Present (Alternate, Democratic Committee)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "evan-barquist",
@@ -385,7 +396,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "douglas-brines",
@@ -420,7 +432,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "amy-k-butler",
@@ -506,6 +519,9 @@
             "Alpha Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -628,6 +644,10 @@
             "U.S. Court of Appeals 1st Circuit, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Civil Rights"
       ]
     },
     {
@@ -724,6 +744,14 @@
             "New York, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Professional Malpractice",
+        "Wrongful Death",
+        "Employment Rights",
+        "Construction",
+        "Premises Liability"
       ]
     },
     {
@@ -831,6 +859,21 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Contracts",
+        "Construction",
+        "Employment Rights",
+        "Family Law",
+        "Labor Law",
+        "Legal Malpractice",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Premises Liability",
+        "Toxic Torts",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -911,6 +954,10 @@
             "American Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -1014,6 +1061,10 @@
             "Vermont Association of Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -1102,6 +1153,11 @@
             "Vermont Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -1221,6 +1277,13 @@
             "United States District Court for the District of Vermont, 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Workers' Compensation",
+        "Family Law",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -1323,6 +1386,9 @@
             "Vermont Trial Lawyers Association, 1991 - 1992 (President Elect)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1417,6 +1483,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Medical Malpractice"
       ]
     },
     {
@@ -1578,7 +1648,8 @@
             "American Judicature Society, 1990 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tristan-larson",
@@ -1682,6 +1753,17 @@
             "Vermont Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Legal Malpractice",
+        "Wrongful Death",
+        "Employment Rights",
+        "Premises Liability",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -1778,6 +1860,10 @@
             "Vermont Association of Criminal Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -1900,6 +1986,11 @@
             "Commonwealth of Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Mergers and Acquisitions",
+        "Securities"
       ]
     },
     {
@@ -2026,6 +2117,9 @@
             "Delta Upsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2124,6 +2218,10 @@
             "Washington County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -2203,6 +2301,9 @@
             "Vermont, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -2315,6 +2416,13 @@
             "U.S. District Court District of Vermont, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wills",
+        "Litigation and Appeals",
+        "State Local and Municipal Law",
+        "Entertainment Sports and Leisure Law",
+        "Employment Rights"
       ]
     },
     {
@@ -2392,6 +2500,11 @@
             "Vermont Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Insurance Law"
       ]
     },
     {
@@ -2461,7 +2574,8 @@
             "U.S. Federal Courts, 1981"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "j-william-obrien",
@@ -2551,7 +2665,8 @@
             "Chittenden County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-e-pelkey",
@@ -2654,6 +2769,10 @@
             "Washington County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -2750,6 +2869,9 @@
             "Vermont Association for Justice, Board of Directors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2888,6 +3010,9 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2955,7 +3080,8 @@
             "U.S. District Court District of Minnesota, 1987"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jack-t-spicer",
@@ -3048,6 +3174,9 @@
             "Vermont Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3127,6 +3256,10 @@
             "Portuguese"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Patents"
       ]
     },
     {
@@ -3236,6 +3369,10 @@
             "Alpha Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -3366,6 +3503,10 @@
             "Vermont Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -3465,6 +3606,10 @@
             "Vermont Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -3583,6 +3728,14 @@
             "Vermont Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Wrongful Death",
+        "DUI and DWI",
+        "Motor Vehicle Defects",
+        "Administrative Law"
       ]
     },
     {
@@ -3691,6 +3844,11 @@
             "Washington County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -3759,6 +3917,11 @@
             "U.S. District Court District of Vermont, 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Discrimination",
+        "Contracts"
       ]
     }
   ],
@@ -3809,11 +3972,10 @@
         "Sarah R. Miller Esq."
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Child Support",
-        "Criminal Defense",
+        "Family Law",
         "Divorce and Separation",
-        "Family Law"
+        "Child Support",
+        "ADR Arbitration and Mediation"
       ],
       "additional_locations": []
     },
@@ -3874,14 +4036,12 @@
         "Linda Fraas"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
         "Workers' Compensation",
+        "Truck Accident",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Premises Liability",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -3989,8 +4149,6 @@
         "Gregory P. Howe"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -4077,8 +4235,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -4196,26 +4354,16 @@
         "Oreste V. Valsangiacomo Jr."
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Personal Injury",
+        "Criminal Defense",
+        "Real Estate",
+        "DUI and DWI",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Criminal Defense",
-        "DUI and DWI",
         "Defamation",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Premises Liability",
-        "Real Estate",
-        "Traffic Ticket",
-        "Truck Accident",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -4347,16 +4495,12 @@
         "Harold B. Stevens Esq."
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
+        "Real Estate",
+        "Family Law",
         "Criminal Defense",
         "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Real Estate",
-        "Trusts",
-        "Wills"
+        "ADR Arbitration and Mediation"
       ],
       "additional_locations": []
     },
@@ -4399,7 +4543,11 @@
         "Richard R. Goldsborough",
         "Mary G. Kirkpatrick"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {

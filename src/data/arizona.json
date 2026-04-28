@@ -124,6 +124,11 @@
             "Arizona Association of Defense Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Legal Malpractice",
+        "Class Actions"
       ]
     },
     {
@@ -213,6 +218,11 @@
             "Arizona, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -297,6 +307,10 @@
             "U.S. Court of Appeals 9th Circuit, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -472,6 +486,13 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Brain Injury",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -559,6 +580,13 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Personal Injury",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -636,6 +664,9 @@
             "Certified Information Privacy Professional (CIPP/US)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -754,6 +785,9 @@
             "National College for DUI Defense, 2020 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -831,6 +865,10 @@
             "Mexico, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Real Estate"
       ]
     },
     {
@@ -929,6 +967,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -1008,6 +1050,9 @@
             "Arizona, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1057,6 +1102,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -1153,6 +1202,13 @@
             "Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Transportation",
+        "Criminal Defense",
+        "Employment Rights",
+        "Estate Planning",
+        "DUI and DWI"
       ]
     },
     {
@@ -1264,6 +1320,10 @@
             "Thurgood Marshall American Inn of Court, 2006 - 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption"
       ]
     },
     {
@@ -1380,6 +1440,12 @@
             "Salt River Brass Board of Directors, 2018 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Contracts",
+        "Family Law"
       ]
     },
     {
@@ -1476,6 +1542,13 @@
             "Pima County Bar Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Domestic Violence",
+        "DUI and DWI",
+        "Drug Crime",
+        "Sex Crime"
       ]
     },
     {
@@ -1601,6 +1674,11 @@
             "Phi Gamma Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "ADR Arbitration and Mediation",
+        "Personal Injury"
       ]
     },
     {
@@ -1638,7 +1716,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "troy-m-anderson",
@@ -1751,7 +1830,8 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tina-aprahamian",
@@ -1819,6 +1899,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents"
       ]
     },
     {
@@ -1921,6 +2004,10 @@
             "U.S. District Court District of Arizona, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -1967,7 +2054,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kathy-aucoin",
@@ -2055,6 +2143,12 @@
             "New Mexico"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -2192,6 +2286,13 @@
             "Customs and Border Patrol Liaison, Arizona Co-Chair"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "Father's Rights",
+        "Litigation and Appeals",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -2298,6 +2399,17 @@
             "West Maricopa County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Civil Rights",
+        "Discrimination",
+        "Wrongful Termination",
+        "Bankruptcy",
+        "Administrative Law",
+        "Landlord and Tenant",
+        "Collections",
+        "Criminal Defense"
       ]
     },
     {
@@ -2407,6 +2519,13 @@
             "Pima County Bar Association, 1991 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Insurance Law",
+        "Medical Malpractice",
+        "Aviation"
       ]
     },
     {
@@ -2502,6 +2621,9 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -2585,6 +2707,12 @@
             "Arizona, 2009"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business Organizations",
+        "Contracts",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -2638,6 +2766,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -2733,6 +2864,9 @@
             "State Bar of Arizona, 2003 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -2838,6 +2972,10 @@
             "U.S. District Court District of Arizona, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -2930,6 +3068,9 @@
             "Arizona, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -3007,6 +3148,10 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -3086,7 +3231,8 @@
             "U.S. District Court District of Arizona"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "falynn-s-baum",
@@ -3191,6 +3337,13 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Custody",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights"
       ]
     },
     {
@@ -3243,7 +3396,8 @@
             "Associate Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "erena-d-baybik",
@@ -3340,6 +3494,9 @@
             "American Bar Association, CEELI, Moscow, Russia (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3434,6 +3591,11 @@
             "Maricopa County Bar Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -3569,6 +3731,9 @@
             "State Bar of Arizona’s Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3681,6 +3846,11 @@
             "Arizona Association of Defense Counsel, Young Lawyers Division, Charity Softball Chair, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Toxic Torts"
       ]
     },
     {
@@ -3808,6 +3978,11 @@
             "Delta Upsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Criminal Defense",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -3846,7 +4021,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "douglas-a-belknap",
@@ -3941,6 +4117,10 @@
             "U.S. Court of Appeals 9th Circuit, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury"
       ]
     },
     {
@@ -4056,7 +4236,8 @@
             "State Bar of Arizona , 2009 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michelle-behan",
@@ -4094,7 +4275,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "thomas-alex-benavidez",
@@ -4191,7 +4373,8 @@
             "State Bar of Arizona"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "elisabeth-lisa-benavidez",
@@ -4293,6 +4476,15 @@
             "Association of Family and Conciliation Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Collaborative Law",
+        "Estate Planning",
+        "ADR Arbitration and Mediation",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Support"
       ]
     },
     {
@@ -4377,6 +4569,9 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4449,7 +4644,8 @@
             "U.S. District Court District of Arizona, 2000"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "erik-c-bergstrom",
@@ -4568,6 +4764,10 @@
             "United States District Court, 2000 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4644,6 +4844,10 @@
             "Arizona, 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -4780,6 +4984,11 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -4831,6 +5040,12 @@
           "type": "text",
           "content": "David Black is a Phoenix criminal lawyer. He has years of experience successfully defending clients charged with a wide array of crimes. As a former prosecutor, he understands how the government puts together a criminal case. With knowledge, intelligence, and an aggressive approach to his cases, he is in a unique position to analyze a criminal case, and provide his clients with an honest, intelligent and accurate strategy for their defense.\n\nMr. Black is an honors graduate of Arizona State University, and received his law degree in 2007 from the UCLA School of Law. From there, he worked at the Maricopa County Attorney's Office. Mr. Black opened his own law firm in 2010, and since that time he has been engaged almost exclusively in the practice of criminal law.\n\nAs an experienced criminal trial attorney, Mr. Black has successfully defended those charged with DUI, domestic violence, drug crimes, white collar crimes, shoplifting and other theft crimes, probation violations, gun crimes, juvenile offenses, campus crimes, and more. He also handles criminal appeals.\n\nYour best defense when charged with a crime is to place your trust in the hands of a veteran criminal attorney with a track record of successful results. You want an attorney who has the willingness to go the extra mile for his clients, and who is compassionate and understanding during this difficult time.\n\nIf you have been charged with a crime, call Mr. Black for a free consultation.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nDavid A. Black included in a Super Lawyers® list\n\nOther Sources of Feedback About David A. Black\n\nIncluded on the 2026Southwest Super Lawyers list\n\nPast Lists\n\n2025 Southwest Super Lawyers list\n\n2024 Southwest Super Lawyers list\n\n2023 Southwest Super Lawyers list\n\n2022 Southwest Super Lawyers list\n\n2020 Southwest Super Lawyers list\n\n2019 Southwest Super Lawyers list\n\n2018 Southwest Super Lawyers list\n\n2017 Southwest Super Lawyers list\n\n2016 Southwest Super Lawyers list\n\n2015 Southwest Super Lawyers list\n\n2014 Southwest Super Lawyers list"
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -4963,6 +5178,9 @@
             "Volunteer Attorney for the Arizona Justice Project, 2003 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5019,6 +5237,9 @@
             "Board Certified Family Law Specialist, Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -5139,6 +5360,10 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -5195,7 +5420,8 @@
             "Arizona, 1971"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brian-l-borrelli",
@@ -5280,6 +5506,11 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -5385,6 +5616,9 @@
             "American Bar Association, 2000 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -5422,7 +5656,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "marlon-branham",
@@ -5547,6 +5782,24 @@
             "Arizona Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Brain Injury",
+        "Animal and Dog Bites",
+        "Premises Liability",
+        "Wrongful Death",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Custody",
+        "Domestic Violence",
+        "Military Divorce",
+        "Father's Rights",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Immigration",
+        "Real Estate"
       ]
     },
     {
@@ -5629,6 +5882,10 @@
             "Certified Specialist in Injury and Wrongful Death Law, State Bar of Arizona, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -5711,6 +5968,10 @@
             "Certified Specialist of Injury and Wrongful Death Law, State Bar of Arizona, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -5802,6 +6063,11 @@
             "Arizona Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Animal and Dog Bites",
+        "Premises Liability"
       ]
     },
     {
@@ -5893,6 +6159,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6057,6 +6326,12 @@
             "Arizona Association of Defense Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Debtor and Creditor",
+        "Ethics and Professional Responsibility",
+        "Employment Rights"
       ]
     },
     {
@@ -6182,6 +6457,10 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Health Care Law"
       ]
     },
     {
@@ -6257,6 +6536,9 @@
             "Pima County Attorney’s Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6398,6 +6680,9 @@
             "Zeta Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -6473,6 +6758,10 @@
             "U.S. District Court District of Arizona, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights"
       ]
     },
     {
@@ -6548,6 +6837,10 @@
             "U.S. District Court District of Arizona, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights"
       ]
     },
     {
@@ -6676,6 +6969,10 @@
             "Phoenix Law Elder Law Symposium (Coordinator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights"
       ]
     },
     {
@@ -6781,6 +7078,11 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -6875,6 +7177,11 @@
             "Board of the Southern Arizona Estate Planning Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -6974,6 +7281,9 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -7028,6 +7338,9 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -7156,6 +7469,9 @@
             "USLAW, 2009 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7186,7 +7502,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "dominic-callese",
@@ -7239,6 +7556,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7292,6 +7612,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7350,6 +7673,10 @@
             "Board Certified Family Law Specialist, Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -7408,6 +7735,10 @@
             "Board Certified Criminal Law Specialist, Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -7503,6 +7834,9 @@
             "New Mexico, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -7585,6 +7919,11 @@
             "Arizona Bar Association, 1998 - 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -7673,6 +8012,9 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -7824,6 +8166,13 @@
             "Arizona Association of Defense Counsel, Board of Directors, 2000-2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Dangerous Products",
+        "Whistleblower and Qui Tam",
+        "Medical Malpractice"
       ]
     },
     {
@@ -7903,6 +8252,10 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8005,6 +8358,9 @@
             "American Association for Justice, Criminal Law Section, 2000 - 2014 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -8112,6 +8468,10 @@
             "Arizona Attorneys For Criminal Justice (AACJ) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -8197,6 +8557,10 @@
             "U.S. District Court District of Arizona, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -8289,6 +8653,11 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -8338,6 +8707,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -8446,6 +8819,13 @@
             "American Bar Association, 2007 - 2010 (Attorney Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Estate Planning",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -8533,6 +8913,10 @@
             "Board of Directors for the Planned Giving Roundtable of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -8648,6 +9032,11 @@
             "Arizona Associations of Realtors, 2001 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -8735,6 +9124,10 @@
             "Delta Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -8850,6 +9243,9 @@
             "United States District Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -8903,6 +9299,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9011,6 +9410,11 @@
             "Federal Bar Association, 2013 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Construction",
+        "Real Estate"
       ]
     },
     {
@@ -9095,7 +9499,8 @@
             "State Bar of Montana"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nathan-cooley",
@@ -9186,6 +9591,12 @@
             "Arizona Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Personal Injury"
       ]
     },
     {
@@ -9297,6 +9708,14 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Probate",
+        "Construction",
+        "Constitutional Law",
+        "Patents"
       ]
     },
     {
@@ -9416,6 +9835,14 @@
             "Maricopa County Bar of Family Law Mediators, 2018 - 2019 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Divorce and Separation",
+        "Family Law",
+        "Elder Law",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -9505,6 +9932,9 @@
             "Member, State Bar of Arizona, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -9634,6 +10064,9 @@
             "Illinois State Bar Association, Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9685,6 +10118,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -9789,6 +10226,9 @@
             "Arizona Association of Lawyers for Injured Workers (Long-Time Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -9873,6 +10313,13 @@
             "Certified Specialist, Real Estate Law, Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Construction",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -9953,6 +10400,13 @@
             "Arizona, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Support",
+        "Adoption"
       ]
     },
     {
@@ -10059,6 +10513,14 @@
             "American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Truck Accident",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -10190,6 +10652,17 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Birth Injury",
+        "Brain Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident"
       ]
     },
     {
@@ -10239,7 +10712,8 @@
             "Legal Paraprofessional"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "zach-dana",
@@ -10310,6 +10784,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -10420,6 +10899,11 @@
             "West Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -10508,6 +10992,9 @@
             "Knochel, Knochel & Darus"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -10599,6 +11086,11 @@
             "Missouri, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -10648,6 +11140,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -10706,6 +11202,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -10801,6 +11301,10 @@
             "Arizona Trial Lawyers Association, Sustaining Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury"
       ]
     },
     {
@@ -10880,7 +11384,8 @@
             "District of Columbia, 1978"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dane-j-dehler",
@@ -10971,6 +11476,11 @@
             "Southern Arizona Estate Planning Counsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -11094,6 +11604,14 @@
             "Sedona Conference, 2007 - 2012 (Volunteer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Construction",
+        "Family Law",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -11130,7 +11648,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "paul-e-deloughery",
@@ -11220,6 +11739,12 @@
             "Maricopa County Bar Association's Lawyer Referral Service (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Trusts"
       ]
     },
     {
@@ -11302,6 +11827,9 @@
             "Arizona, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -11373,6 +11901,14 @@
             "National Association of Criminal Defense Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Criminal Defense"
       ]
     },
     {
@@ -11475,6 +12011,18 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Adoption",
+        "Business and Commercial Law",
+        "Employment Rights",
+        "Elder Law",
+        "ADR Arbitration and Mediation",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -11573,6 +12121,10 @@
             "Arizona Attorneys for Criminal Justice (AACJ) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -11701,6 +12253,10 @@
             "Real Estate Section, State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Employment Rights"
       ]
     },
     {
@@ -11754,6 +12310,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -11875,6 +12434,10 @@
             "Pi Beta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -11927,7 +12490,8 @@
             "Arizona, 1996"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "monica-h-donaldson-stewart",
@@ -12018,6 +12582,14 @@
             "U.S. District Court District of Arizona, 1997"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Collaborative Law",
+        "ADR Arbitration and Mediation",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -12125,6 +12697,15 @@
             "State Bar of Arizona, Family Law Rules and Procedures Committee (Past Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Domestic Violence",
+        "Collaborative Law"
       ]
     },
     {
@@ -12199,7 +12780,8 @@
             "Arizona, 2012"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "virginia-k-draus",
@@ -12306,6 +12888,14 @@
             "Arizona Society of Healthcare Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Truck Accident",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -12422,6 +13012,11 @@
             "Alpha Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Elder Law",
+        "Adoption"
       ]
     },
     {
@@ -12506,6 +13101,16 @@
             "State Bar of Arizona, 2006 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Foreclosure and Alternatives",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -12593,6 +13198,9 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12675,6 +13283,9 @@
             "Arizona Association of Defense Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability"
       ]
     },
     {
@@ -12808,6 +13419,10 @@
             "Sigma Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -12952,6 +13567,11 @@
             "Defense Research Institute (2012-2013)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13032,6 +13652,10 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Social Security"
       ]
     },
     {
@@ -13106,6 +13730,12 @@
             "Alabama"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Construction",
+        "Real Estate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -13186,6 +13816,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13279,6 +13912,11 @@
             "U.S. Patent and Trademark Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Trademarks",
+        "Copyrights"
       ]
     },
     {
@@ -13359,7 +13997,8 @@
             "U.S. District Court District of Arizona, 2013"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "daniel-j-esparza",
@@ -13456,6 +14095,11 @@
             "U.S. District Court District of Arizona, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -13557,6 +14201,11 @@
             "Wealth Counsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -13640,6 +14289,9 @@
             "California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -13692,6 +14344,13 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -13794,6 +14453,11 @@
             "Founding Chairman of Catholic Community Foundation’s Professional Advisory Board"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -13915,6 +14579,9 @@
             "Defense Research Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -14004,6 +14671,10 @@
             "Appointed to a three-year term on the State Bar’s Council on Minorities and Women in the Law, - 2003"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -14135,6 +14806,19 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Construction",
+        "Tax Law",
+        "Land Use and Zoning",
+        "Business and Commercial Law",
+        "Contracts",
+        "Collections",
+        "Bankruptcy",
+        "Estate Planning",
+        "Probate",
+        "Personal Injury"
       ]
     },
     {
@@ -14252,6 +14936,16 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning",
+        "Business and Commercial Law",
+        "State Local and Municipal Law",
+        "Construction",
+        "Collections",
+        "Contracts",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -14341,6 +15035,13 @@
             "West Valley Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -14433,6 +15134,9 @@
             "Sandra Day O’Connor College of Law (Member of the Law Review)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -14597,6 +15301,9 @@
             "Ballet Arizona (Past Treasurer, Past Member of Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -14679,6 +15386,18 @@
             "Deputy County Attorney, Mohave County Attorney’s Office, 2017-2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "DUI and DWI",
+        "Employment Rights",
+        "Estate Planning",
+        "Criminal Defense",
+        "Landlord and Tenant",
+        "Litigation and Appeals",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -14777,6 +15496,13 @@
             "Certified as a Criminal Law Specialist, State Bar of Arizona Board of Legal Specialization, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Domestic Violence",
+        "Criminal Defense",
+        "Military",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -14857,6 +15583,13 @@
             "Arizona Association for Justice (Member and Former Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -14895,7 +15628,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "lowell-w-finson",
@@ -15010,6 +15744,12 @@
             "ACLU Arizona Attorneys Panel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -15083,6 +15823,9 @@
             "U.S. District Court District of Arizona, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -15181,6 +15924,11 @@
             "Phi Alpha Delta Legal Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Drug Crime",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -15325,6 +16073,11 @@
             "Arizona Insurance Claims Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Professional Malpractice",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -15403,6 +16156,10 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Animal and Dog Bites",
+        "Premises Liability"
       ]
     },
     {
@@ -15502,6 +16259,13 @@
             "Scottsdale Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Real Estate",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation",
+        "Personal Injury"
       ]
     },
     {
@@ -15586,7 +16350,8 @@
             "American Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "frank-m-fox",
@@ -15709,6 +16474,13 @@
             "The Harmonie Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Construction",
+        "Transportation"
       ]
     },
     {
@@ -15763,6 +16535,12 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -15859,6 +16637,14 @@
             "Colorado"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Estate Planning",
+        "Premises Liability",
+        "Civil Rights",
+        "Sexual Abuse",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -15956,6 +16742,11 @@
             "Association of Trial Lawyers of America (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Landlord and Tenant",
+        "Personal Injury"
       ]
     },
     {
@@ -16057,6 +16848,15 @@
             "State Bar of Arizona, January 1, 2007 - Present (Member, Practice and Procedure Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Father's Rights",
+        "Elder Law"
       ]
     },
     {
@@ -16166,6 +16966,11 @@
             "Arizona Association of Defense Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Assault and Battery (Plaintiff)",
+        "Wrongful Death"
       ]
     },
     {
@@ -16219,6 +17024,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -16296,6 +17104,9 @@
             "Arizona, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -16373,6 +17184,10 @@
             "East Valley Bar Association Member, 2015 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -16455,6 +17270,19 @@
             "Arizona, 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Nursing Home Abuse",
+        "Social Security Disability",
+        "Insurance Law",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Railroad Worker Injury and FELA",
+        "Toxic Torts",
+        "Whistleblower and Qui Tam",
+        "Workers' Compensation",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -16587,6 +17415,9 @@
             "Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Natural Resources"
       ]
     },
     {
@@ -16740,6 +17571,11 @@
             "Zeta Beta Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -16840,6 +17676,16 @@
             "Colorado, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Patents",
+        "Trademarks",
+        "Bankruptcy",
+        "Estate Planning",
+        "Wills",
+        "Debtor and Creditor",
+        "Business Organizations"
       ]
     },
     {
@@ -16900,6 +17746,10 @@
             "Co-Founder/Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Aviation"
       ]
     },
     {
@@ -16995,6 +17845,11 @@
             "Scottsdale Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Contracts"
       ]
     },
     {
@@ -17076,6 +17931,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -17174,6 +18032,11 @@
             "State Bar of California (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Bankruptcy",
+        "Collections"
       ]
     },
     {
@@ -17273,6 +18136,11 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Professional Malpractice",
+        "Insurance Law",
+        "Personal Injury"
       ]
     },
     {
@@ -17338,6 +18206,15 @@
           "type": "text",
           "content": "Mr. Glazer was a prosecutor for approximately three years before opening his firm. Mr. Glazer has been a criminal defense attorney for the last seven years. As a skilled criminal defense attorney, he has dedicated his practice to serving criminal defendants in Arizona with professionalism, treating a client and their family with dignity and respect.\n\nMr. Glazer is licensed to practice in the following jurisdictions: Arizona State Court, the United States District Court District of Arizona, the 9th Circuit Court of Appeals, Tennessee State Court, and the United States District Court Eastern District of Tennessee. He is a member of the State Bar of Arizona and the State Bar of Tennessee. He is also a member of the National Association of Criminal Defense Lawyers (NACDL).\n\nAreas of Practice:\n\nAll felonies and misdemeanors, including:\n\nDrug offenses\n\nsales, transportation and personal use\n\nmarijuana, methamphetamine and cocaine\n\nDUI\n\nimpaired to the slightest degree\n\nabove a .08\n\nextreme DUI (.15 or more)\n\naggravated DUI\n\nViolent Crimes\n\nmurder\n\naggravated assault\n\nsimple assault\n\nkidnapping\n\ndomestic violence\n\nTheft Related Offenses\n\nfraudulent schemes\n\ntheft\n\nforgery\n\nburglary\n\nrobbery\n\nWeapons Offenses\n\nSex Offenses\n\nsexual assault\n\nsexual abuse\n\nsexual conduct with a minor\n\nAppeals\n\nPost-conviction Relief (Rule 32)\n\nExpungements"
         }
+      ],
+      "official_practice_area": [
+        "Sexual Harassment",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Assault and Battery (Plaintiff)",
+        "Divorce and Separation",
+        "Transportation"
       ]
     },
     {
@@ -17380,7 +18257,8 @@
           "type": "text",
           "content": "Michael W. Goltry holds a chemistry degree from the College of Idaho and a law degree from Brigham Young University. After graduating law school, Michael moved to Washington, D.C, where he was a judicial law clerk for Chief Judge Frank Q. Nebeker of the United States Court of Appeals for Veteran's Claims. Michael is registered to practice before the United States Patent and Trademark Office and since 1995 he has prepared and prosecuted trademark applications, and patent applications relating to a wide variety of technological fields including the communications, chemical, pharmaceutical, cosmetic, mechanical, electrical, electromechanical, computer, computer software, and semiconductor fields. Michael is a frequent lecturer on patents and trademarks, is an active member of the state bar of Arizona, is an affiliate member of the state bar of Idaho, and is an a avid fly-fisherman.\n\nInvoice No."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "antonio-j-gonzales",
@@ -17456,6 +18334,9 @@
             "Arizona, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -17555,6 +18436,9 @@
             "Pima County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -17644,6 +18528,14 @@
             "U.S. District Court District of Arizona, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Nursing Home Abuse",
+        "Bad Faith Insurance",
+        "Premises Liability",
+        "Criminal Defense"
       ]
     },
     {
@@ -17743,7 +18635,8 @@
             "National Academy of Elder Law Attorneys (Member, 1988)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tracy-gordon",
@@ -17841,6 +18734,12 @@
             "Arizona, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -17937,6 +18836,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption"
       ]
     },
     {
@@ -18062,6 +18964,12 @@
             "National Association of Criminal Defense Lawyers, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration",
+        "DUI and DWI",
+        "Criminal Defense",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -18161,6 +19069,11 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Elder Law",
+        "Real Estate"
       ]
     },
     {
@@ -18279,6 +19192,15 @@
             "Scottsdale Bar Association, October, 2025 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Wills",
+        "Trusts",
+        "Probate",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -18358,7 +19280,8 @@
             "Southern Arizona Estate Planning Council (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "caitlyn-e-haitaian",
@@ -18464,6 +19387,14 @@
             "Arizona Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Truck Accident",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -18593,6 +19524,10 @@
             "Maricopa County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -18746,6 +19681,9 @@
             "Local Chamber of Commerce (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -18832,6 +19770,9 @@
             "Willamette Heritage Center (Member, Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -18905,6 +19846,9 @@
             "Arizona, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -19005,6 +19949,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -19107,6 +20055,11 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -19211,6 +20164,12 @@
             "District Court of Arizona, 1995 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Health Care Law",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -19278,6 +20237,9 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -19324,7 +20286,8 @@
           "type": "text",
           "content": "IN REMEMBRANCE\n\nJohn David (Chip) Harris\n\nMarch 29, 1946-July 13, 2006\n\nMay Your Legacy, Your Heart and Your Spirit Live Forever\n\nMr. Harris was a founding partner of the predecessor to Harris, Powers & Cunningham, P.L.L.C. Mr. Harris obtained his Juris Doctor degree from the University of Notre Dame in 1973. Mr. Harris served as a Professor of Law, Adjunct, at the Arizona State University College of Law and as a Judge Pro Tempore for the Maricopa County Superior Court and Town of Paradise Valley. Mr. Harris' tireless devotion to helping those who were seriously injured or who had lost loved ones due to the wrongful conduct or negligence of others earned him admission into the Million Dollar Advocates Forum. A list of Mr. Harris' other professional memberships and honors is lengthy and admirable.\n\nWe miss Chip dearly, but his legacy and his memory will carry on. The firm will continue to honor Mr. Harris through its unceasing commitment to the legal profession and its clients."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-harrison",
@@ -19378,6 +20341,9 @@
             "Washington"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -19478,6 +20444,13 @@
             "State Bar of California"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Ethics and Professional Responsibility",
+        "Personal Injury",
+        "Contracts",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -19571,6 +20544,12 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Securities",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -19645,6 +20624,9 @@
             "U.S. Court of Appeals 10th Circuit, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -19794,6 +20776,13 @@
             "MENSA (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Estate Planning"
       ]
     },
     {
@@ -19880,6 +20869,9 @@
             "Board of Child & Family Resources, Inc. (Current member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -19958,7 +20950,8 @@
             "Arizona, 2014"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "randall-a-hinsch",
@@ -20062,6 +21055,10 @@
             "National Association of Distinguished Counsel, 2015 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -20166,6 +21163,9 @@
             "Arizona Association for Justice, 1993 - Present (Sustaining Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -20270,6 +21270,12 @@
             "Family Law Assistance Program (Volunteer)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Criminal Defense",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -20348,6 +21354,9 @@
             "Arizona, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -20421,6 +21430,10 @@
             "Insurance Defense Litigation Attorney at Lewis, Brisbois, Bisgaard, and Smith"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -20466,7 +21479,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mary-t-hone",
@@ -20590,6 +21604,17 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Bankruptcy",
+        "Business Organizations",
+        "Wills",
+        "Litigation and Appeals",
+        "Probate",
+        "Banking and Finance Law",
+        "Debtor and Creditor",
+        "Real Estate"
       ]
     },
     {
@@ -20665,6 +21690,11 @@
             "Arizona, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Medical Malpractice"
       ]
     },
     {
@@ -20764,6 +21794,13 @@
             "National Trial Lawyers top 100 Civil Plaintiff"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Wrongful Death",
+        "Premises Liability",
+        "Civil Rights"
       ]
     },
     {
@@ -20838,6 +21875,12 @@
             "Arizona, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Child Custody",
+        "Child Support",
+        "Family Law"
       ]
     },
     {
@@ -20997,6 +22040,10 @@
             "Scottsdale Charros (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -21083,6 +22130,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -21166,6 +22217,10 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -21250,6 +22305,14 @@
             "Policy Analyst, New York State Urban Development Company, 1986 - 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Harassment",
+        "Discrimination",
+        "Employment Rights",
+        "Whistleblower and Qui Tam",
+        "Labor Law",
+        "Wage and Hour"
       ]
     },
     {
@@ -21301,7 +22364,8 @@
             "Principal"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "don-g-isaacson",
@@ -21398,6 +22462,9 @@
             "State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law"
       ]
     },
     {
@@ -21520,6 +22587,14 @@
             "Arizona Association of Defense Counsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Personal Injury",
+        "Wrongful Death",
+        "Litigation and Appeals",
+        "Patents",
+        "Trademarks"
       ]
     },
     {
@@ -21648,6 +22723,12 @@
             "Capital District Trial Lawyers Association, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Class Actions"
       ]
     },
     {
@@ -21769,6 +22850,14 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Employment Rights",
+        "Credit Repair",
+        "Communications and Media Law"
       ]
     },
     {
@@ -21873,6 +22962,13 @@
             "Arizona Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury",
+        "Premises Liability",
+        "Bad Faith Insurance",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -21976,6 +23072,10 @@
             "Arizona Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -22057,6 +23157,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -22105,7 +23208,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kevin-jensen",
@@ -22154,6 +23258,10 @@
             "Co-Founder | Managing Attorney - Mesa/Gilbert"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -22253,6 +23361,10 @@
             "Tucson Association of Realtors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Real Estate"
       ]
     },
     {
@@ -22309,6 +23421,12 @@
             "Founder"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -22365,6 +23483,15 @@
             "Colorado, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support",
+        "Divorce and Separation",
+        "Family Law",
+        "Collaborative Law",
+        "Same Sex",
+        "Military Divorce",
+        "Father's Rights"
       ]
     },
     {
@@ -22456,6 +23583,9 @@
             "Arizona Association for Justice, 1993 - Present (Sustaining Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -22556,6 +23686,11 @@
             "Alpha Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -22648,6 +23783,10 @@
             "Certified in Personal Injury and Wrongful Death Litigation, State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Personal Injury"
       ]
     },
     {
@@ -22706,6 +23845,9 @@
             "Associate Attorney - Arizona Law Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -22816,6 +23958,10 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Securities"
       ]
     },
     {
@@ -22922,6 +24068,9 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities"
       ]
     },
     {
@@ -23027,6 +24176,9 @@
             "Arizona Association of Family Law Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -23137,6 +24289,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -23236,6 +24391,9 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -23338,6 +24496,11 @@
             "Certified Specialist in Injury and Wrongful Death Litigation, State Bar of Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -23433,6 +24596,11 @@
             "State Bar of Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -23463,7 +24631,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jason-karpel",
@@ -23509,6 +24678,9 @@
             "Partner/Director of Attorney Development"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -23595,6 +24767,11 @@
             "U.S. Court of Appeals 9th Circuit, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -23689,6 +24866,9 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -23787,6 +24967,13 @@
             "Assyrian American National Federation (AANF), Constitutional Bylaws Chairman"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Nursing Home Abuse",
+        "Bad Faith Insurance",
+        "Construction"
       ]
     },
     {
@@ -23892,6 +25079,9 @@
             "Certified Specialist in Personal Injury and Wrongful Death"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -24013,6 +25203,11 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Entertainment Sports and Leisure Law",
+        "Aviation",
+        "Wrongful Death"
       ]
     },
     {
@@ -24138,6 +25333,9 @@
             "Duke University School of Law, 1992 - 1998 (Board of Visitors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -24229,6 +25427,14 @@
             "U.S. Court of Appeals 9th Circuit, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Birth Injury",
+        "Brain Injury",
+        "Personal Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -24279,6 +25485,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation"
       ]
     },
     {
@@ -24324,7 +25535,8 @@
             "Shareholder"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "katherine-kraus-esq",
@@ -24428,6 +25640,11 @@
             "Association of Family and Conciliation Court, 2013 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Same Sex",
+        "Child Support"
       ]
     },
     {
@@ -24473,7 +25690,10 @@
         "Business Succession Planning",
         "Specialty Trusts"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Tax Law"
+      ]
     },
     {
       "slug": "julio-laboy",
@@ -24570,6 +25790,9 @@
             "National Association of Criminal Defense Attorneys (NACDL)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -24662,6 +25885,9 @@
             "Wisconsin Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -24829,7 +26055,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marc-lamber",
@@ -24924,6 +26151,9 @@
             "Illinois, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -25006,6 +26236,11 @@
             "Southern Arizona Estate Planning Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -25088,6 +26323,9 @@
             "Arizona, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -25258,6 +26496,15 @@
             "American Law Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Insurance Law",
+        "Legal Malpractice",
+        "Litigation and Appeals",
+        "Professional Malpractice",
+        "Toxic Torts"
       ]
     },
     {
@@ -25363,6 +26610,13 @@
             "Chi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Estate Planning",
+        "Probate",
+        "Insurance Law",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -25471,6 +26725,10 @@
             "Damages Research Institute (DRI) Trial Tactics Steering Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -25577,6 +26835,11 @@
             "Maricopa County Bar Association Family Law Section, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -25692,6 +26955,15 @@
             "Top 10 Family Law Attorney - Attorney and Practice Magazine"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Wills",
+        "Trusts",
+        "Employment Rights",
+        "Divorce and Separation",
+        "Credit Repair",
+        "Communications and Media Law"
       ]
     },
     {
@@ -25852,6 +27124,10 @@
             "Tau Kappa Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Truck Accident"
       ]
     },
     {
@@ -25934,6 +27210,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -26076,6 +27355,23 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Probate",
+        "Real Estate",
+        "Land Use and Zoning",
+        "Aviation",
+        "Premises Liability",
+        "Bankruptcy",
+        "Wills",
+        "Family Law",
+        "Collections",
+        "Debtor and Creditor",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -26126,6 +27422,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation"
       ]
     },
     {
@@ -26169,7 +27470,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "amy-m-leonard",
@@ -26272,6 +27574,9 @@
             "U.S. District Court District of Arizona, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -26370,6 +27675,9 @@
             "Antitrust Council, Arizona State Bar, 1977 - 1988 (Vice Chairman)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice"
       ]
     },
     {
@@ -26451,7 +27759,8 @@
             "Arizona"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "debora-levine",
@@ -26500,6 +27809,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -26538,7 +27851,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "melissa-lin",
@@ -26700,6 +28014,10 @@
             "Women’s Metropolitan Arts Council, 2008 - 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Insurance Law"
       ]
     },
     {
@@ -26805,6 +28123,10 @@
             "Arizona Association of Family Law Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -26885,6 +28207,10 @@
             "Governor’s office of General Counsel, Clerk"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -26989,6 +28315,11 @@
             "Arizona Attorneys for Criminal Justice (AACJ)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -27078,6 +28409,9 @@
             "U.S. Federal Courts, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -27147,6 +28481,9 @@
             "Arizona, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -27196,6 +28533,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -27318,6 +28659,9 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -27394,6 +28738,9 @@
             "Spanish"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -27499,6 +28846,9 @@
             "State Bar Personal Injury and Wrongful Death Specialization Advisory Commission"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -27563,7 +28913,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michelle-ray-matheson",
@@ -27638,7 +28989,8 @@
             "U.S. Court of Appeals 9th Circuit, 2000"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "david-p-matheson",
@@ -27719,6 +29071,9 @@
             "Defense Research Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law"
       ]
     },
     {
@@ -27834,6 +29189,15 @@
             "State Bar of Arizona, Civil Practice and Procedure Committee, 1988 - 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Brain Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -27946,6 +29310,10 @@
             "American Bar Association (Sections Real Property, Franchising & Business Law)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Franchising"
       ]
     },
     {
@@ -28033,6 +29401,9 @@
             "Arizona Board of Family Law Specialization Commission, 2020 - Present (Board-elect Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -28120,6 +29491,9 @@
             "Arizona Board of Family Law Specialization Commission, 2020 - Present (Board-elect Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -28157,7 +29531,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jon-paul-mccarty",
@@ -28247,6 +29622,9 @@
             "Arizona, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -28351,6 +29729,11 @@
             "American Association for Justice (Member, 2007)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -28494,6 +29877,11 @@
             "Chi Omega"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -28593,6 +29981,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Personal Injury"
       ]
     },
     {
@@ -28692,6 +30084,12 @@
             "Arizona State Courts (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -28745,6 +30143,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -28818,6 +30219,10 @@
             "United States Air Force"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -28932,6 +30337,12 @@
             "Gila River Indian Community"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Domestic Violence",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -29034,6 +30445,9 @@
             "American Bar Association, Science and Technology Law Section (Council Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration"
       ]
     },
     {
@@ -29129,6 +30543,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -29198,6 +30615,13 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -29292,6 +30716,9 @@
             "State Bar of Arizona, Family Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -29384,6 +30811,13 @@
             "Deputy County Attorney in charge of Arrowhead and Ironwood Justice Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -29489,6 +30923,11 @@
             "Arizona Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Bad Faith Insurance",
+        "Construction Accident"
       ]
     },
     {
@@ -29593,6 +31032,11 @@
             "Arizona State Bar, 2014 - Present (Attorney)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights",
+        "Contracts"
       ]
     },
     {
@@ -29697,6 +31141,10 @@
             "American Academy of Adoption Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Probate"
       ]
     },
     {
@@ -29800,6 +31248,10 @@
             "State Bar of Arizona, Construction Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Contracts"
       ]
     },
     {
@@ -29888,6 +31340,10 @@
             "State Bar of Arizona (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -29971,6 +31427,11 @@
             "U.S. District Court District of Arizona, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -30057,6 +31518,12 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -30110,6 +31577,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -30205,6 +31675,10 @@
             "Kappa Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Administrative Law"
       ]
     },
     {
@@ -30300,6 +31774,9 @@
             "Young Lawyers Division of the Arizona State Bar, - July 1, 2020 (District 4 Representative)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -30399,6 +31876,11 @@
             "Arizona Insurance Claims Association (AICA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Brain Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -30482,6 +31964,10 @@
             "Adjunct professor at Clark Atlanta University and Georgia Gwinnett College"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -30583,6 +32069,10 @@
             "Maricopa County Bar Association, Business Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -30661,6 +32151,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -30711,6 +32205,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -30814,6 +32313,9 @@
             "Arizona State Bar (Arbitrator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -30884,6 +32386,10 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -30978,6 +32484,9 @@
             "Pima County Bar Association (2022)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -31015,7 +32524,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5107617_1",
@@ -31052,7 +32562,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4636117_1",
@@ -31091,7 +32602,10 @@
       "practice_areas": [
         "Immigration"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Immigration"
+      ]
     },
     {
       "slug": "4636118_1",
@@ -31130,7 +32644,10 @@
       "practice_areas": [
         "Immigration Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Immigration"
+      ]
     },
     {
       "slug": "1290666_1",
@@ -31169,7 +32686,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "5028907_1",
@@ -31206,7 +32726,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5082371_1",
@@ -31243,7 +32764,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2359624_1",
@@ -31282,7 +32804,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "5094059_1",
@@ -31319,7 +32844,8 @@
       "practice_areas": [
         "Products Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4886964_1",
@@ -31356,7 +32882,8 @@
       "practice_areas": [
         "Insurance Liability Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4614410_1",
@@ -31393,7 +32920,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1270889_1",
@@ -31430,7 +32958,8 @@
       "practice_areas": [
         "Alternative Dispute Resolution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2016487_1",
@@ -31467,7 +32996,8 @@
       "practice_areas": [
         "Alternate Dispute Resolution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3349931_1",
@@ -31504,7 +33034,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "2111736_1",
@@ -31542,7 +33075,8 @@
       "practice_areas": [
         "Product Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2552646_1",
@@ -31579,7 +33113,10 @@
       "practice_areas": [
         "Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "1866732_1",
@@ -31616,7 +33153,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "1842818_1",
@@ -31653,7 +33193,8 @@
       "practice_areas": [
         "Business and Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4827228_1",
@@ -31690,7 +33231,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "ana-perez-arrieta",
@@ -31810,6 +33354,10 @@
             "Arizona NAELA (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -31847,7 +33395,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1805538_1",
@@ -31886,7 +33435,10 @@
       "practice_areas": [
         "Transactional Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "1921305_1",
@@ -31925,7 +33477,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5253022_1",
@@ -31962,7 +33515,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4961058_1",
@@ -32001,7 +33555,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4582117_1",
@@ -32040,7 +33595,8 @@
       "practice_areas": [
         "Commercial Litigation and Trial Work"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2863299_1",
@@ -32079,7 +33635,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4284550_1",
@@ -32115,7 +33672,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "3862992_1",
@@ -32150,7 +33710,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5074432_1",
@@ -32184,7 +33745,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5102807_1",
@@ -32218,7 +33780,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3868087_1",
@@ -32254,7 +33817,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "4908384_1",
@@ -32291,7 +33857,10 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "3567729_1",
@@ -32328,7 +33897,8 @@
       "practice_areas": [
         "Appellate Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3885559_1",
@@ -32365,7 +33935,10 @@
       "practice_areas": [
         "Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "3312874_1",
@@ -32402,7 +33975,10 @@
       "practice_areas": [
         "Employment"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ]
     },
     {
       "slug": "1155823_1",
@@ -32439,7 +34015,8 @@
       "practice_areas": [
         "Corporate Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3380993_1",
@@ -32476,7 +34053,8 @@
       "practice_areas": [
         "Federal Bar Association"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3312873_1",
@@ -32513,7 +34091,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "1473125_1",
@@ -32550,7 +34131,8 @@
       "practice_areas": [
         "Appellate Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1576307_1",
@@ -32587,7 +34169,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "5171321_1",
@@ -32622,7 +34207,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3430981_1",
@@ -32659,7 +34245,10 @@
       "practice_areas": [
         "Bankruptcy"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "4309891_1",
@@ -32696,7 +34285,10 @@
       "practice_areas": [
         "Intellectual Property Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "4933042_1",
@@ -32734,7 +34326,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4968481_1",
@@ -32772,7 +34365,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2017053_1",
@@ -32810,7 +34404,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4922659_1",
@@ -32848,7 +34443,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3441453_1",
@@ -32888,7 +34484,8 @@
       "practice_areas": [
         "Complex Cases"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4974664_1",
@@ -32926,7 +34523,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1433853_1",
@@ -32966,7 +34564,8 @@
       "practice_areas": [
         "Motor Vehicle Liability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3283335_1",
@@ -33006,7 +34605,10 @@
       "practice_areas": [
         "Medical Malpractice Liability Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "1792436_1",
@@ -33045,7 +34647,10 @@
       "practice_areas": [
         "Construction Law and Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "2052295_1",
@@ -33084,7 +34689,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1874496_1",
@@ -33123,7 +34731,8 @@
       "practice_areas": [
         "Surety & Fidelity Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2385193_1",
@@ -33162,7 +34771,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1489698_1",
@@ -33201,7 +34813,10 @@
       "practice_areas": [
         "Litigation & Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Litigation and Appeals"
+      ]
     },
     {
       "slug": "1014009_1",
@@ -33240,7 +34855,10 @@
       "practice_areas": [
         "Environmental and Natural Resource Matters"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Environmental Law"
+      ]
     },
     {
       "slug": "1609133_1",
@@ -33279,7 +34897,10 @@
       "practice_areas": [
         "Securities Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Securities"
+      ]
     },
     {
       "slug": "1097154_1",
@@ -33318,7 +34939,10 @@
       "practice_areas": [
         "Personal Injury & Wrongful Death"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "1067867_1",
@@ -33357,7 +34981,8 @@
       "practice_areas": [
         "Finance and Leasing"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1264379_1",
@@ -33396,7 +35021,8 @@
       "practice_areas": [
         "Surety & Fidelity Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1873694_1",
@@ -33435,7 +35061,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "1564755_1",
@@ -33472,7 +35101,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1151248_1",
@@ -33509,7 +35141,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "2791378_1",
@@ -33544,7 +35179,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2385840_1",
@@ -33581,7 +35217,8 @@
       "practice_areas": [
         "Complex Civil"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1889816_1",
@@ -33618,7 +35255,8 @@
       "practice_areas": [
         "Complex Civil"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1151245_1",
@@ -33655,7 +35293,8 @@
       "practice_areas": [
         "Taxation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1608463_1",
@@ -33692,7 +35331,10 @@
       "practice_areas": [
         "Real Estate and Business Transactions"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "3766679_1",
@@ -33729,7 +35371,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "1817830_1",
@@ -33766,7 +35411,8 @@
       "practice_areas": [
         "Commercial and Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3750509_1",
@@ -33803,7 +35449,10 @@
       "practice_areas": [
         "Antitrust/Competition"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Antitrust"
+      ]
     },
     {
       "slug": "3251357_1",
@@ -33840,7 +35489,8 @@
       "practice_areas": [
         "Cybersecurity, Data Protection and Privacy"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4637212_1",
@@ -33877,7 +35527,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5176715_1",
@@ -33914,7 +35565,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "3192960_1",
@@ -33951,7 +35605,10 @@
       "practice_areas": [
         "Class Action Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Class Actions"
+      ]
     },
     {
       "slug": "3225742_1",
@@ -33988,7 +35645,8 @@
       "practice_areas": [
         "Commercial Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3341118_1",
@@ -34025,7 +35683,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4227046_1",
@@ -34062,7 +35721,10 @@
       "practice_areas": [
         "Administrative"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "4819915_1",
@@ -34099,7 +35761,8 @@
       "practice_areas": [
         "Business and Finance"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3797507_1",
@@ -34136,7 +35799,10 @@
       "practice_areas": [
         "Intellectual Property and Technology"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "4891506_1",
@@ -34173,7 +35839,10 @@
       "practice_areas": [
         "Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "5093479_1",
@@ -34210,7 +35879,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3810423_1",
@@ -34249,7 +35919,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "3545057_1",
@@ -34288,7 +35961,10 @@
       "practice_areas": [
         "Business"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "4308712_1",
@@ -34327,7 +36003,8 @@
       "practice_areas": [
         "Civil Litigation & Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4832120_1",
@@ -34366,7 +36043,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "1507816_1",
@@ -34405,7 +36085,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "4464381_1",
@@ -34444,7 +36127,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "5019650_1",
@@ -34483,7 +36169,8 @@
       "practice_areas": [
         "Civil Litigation & Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4969251_1",
@@ -34520,7 +36207,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3441025_1",
@@ -34559,7 +36247,10 @@
       "practice_areas": [
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "3420467_1",
@@ -34598,7 +36289,10 @@
       "practice_areas": [
         "DUI/DWI"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ]
     },
     {
       "slug": "3421540_1",
@@ -34637,7 +36331,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "2000631_1",
@@ -34676,7 +36373,8 @@
       "practice_areas": [
         "Civil Litigation & Appeals"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "rachel-caldwell",
@@ -34729,6 +36427,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -34787,6 +36488,9 @@
             "Associate Attorney - Arizona Law Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -34840,6 +36544,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -34898,6 +36605,9 @@
             "Associate Attorney - Arizona Law Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -35018,6 +36728,10 @@
             "Arizona NAELA (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -35057,7 +36771,10 @@
       "practice_areas": [
         "Immigration"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Immigration"
+      ]
     },
     {
       "slug": "renae-a-nachman-esq",
@@ -35140,6 +36857,11 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Housing and Construction Defects",
+        "Insurance Defense"
       ]
     },
     {
@@ -35257,6 +36979,10 @@
             "Maricopa County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -35391,6 +37117,9 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -35512,6 +37241,12 @@
             "U.S. Court of Appeals for the Armed Forces"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Car Accidents",
+        "Elder Law",
+        "Probate"
       ]
     },
     {
@@ -35655,6 +37390,13 @@
             "Arizona Trial Lawyers Association (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -35748,7 +37490,8 @@
             "Maricopa County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ryan-d-oneal",
@@ -35793,7 +37536,8 @@
             "Shareholder"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nichole-oblinger-esq",
@@ -35878,6 +37622,9 @@
             "Hon. Rebecca Simmons, Justice on the Fourth Court of Appeals, Texas, Judicial Internship"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -35970,6 +37717,13 @@
             "Certified Public Accountant, Washington, 1998 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Tax Law",
+        "Contracts",
+        "Wills",
+        "Real Estate"
       ]
     },
     {
@@ -36067,6 +37821,11 @@
             "Arizona, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Cannabis Law"
       ]
     },
     {
@@ -36159,6 +37918,11 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -36271,6 +38035,9 @@
             "Past President of the Tucson Chapter of the American Board of Trial Advocates"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -36361,6 +38128,9 @@
             "Colorado, 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -36410,6 +38180,10 @@
             "Managing Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -36465,6 +38239,9 @@
             "Board Certified Family Law Specialist, Arizona Board of Legal Specialization"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -36549,7 +38326,8 @@
             "Arizona"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "colin-d-osullivan",
@@ -36635,6 +38413,11 @@
             "Arizona State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Car Accidents"
       ]
     },
     {
@@ -36695,6 +38478,12 @@
             "Plaintiffs' Injury Lawyer"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Airplane Bus and Helicopter Accidents"
       ]
     },
     {
@@ -36784,6 +38573,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -36831,7 +38623,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "craig-w-penrod",
@@ -36913,6 +38706,10 @@
             "Criminal Law Advisory Commission of the State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -37033,6 +38830,10 @@
             "Arizona NAELA (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -37123,6 +38924,9 @@
             "Arizona State Bar Association, 1986 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -37228,6 +39032,10 @@
             "Federalist Society, 2005 - 2006 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Tax Law"
       ]
     },
     {
@@ -37336,6 +39144,9 @@
             "Academy of Truck Accident Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -37416,6 +39227,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents"
       ]
     },
     {
@@ -37523,6 +39338,10 @@
             "Arizona Management Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Real Estate"
       ]
     },
     {
@@ -37637,6 +39456,13 @@
             "Zeta Beta Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -38223,6 +40049,10 @@
             "Executive Council CLM Claim College, Extra-Contractual School"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -38392,6 +40222,10 @@
             "American Board of Trial Advocates (ABOTA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -38529,6 +40363,14 @@
             "Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Birth Injury",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Truck Accident",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -38639,6 +40481,9 @@
             "Maricopa County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -38751,7 +40596,8 @@
             "New York County Lawyers’ Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "leslie-m-pugh",
@@ -38860,6 +40706,10 @@
             "Zeta Tau Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Immigration"
       ]
     },
     {
@@ -38906,7 +40756,13 @@
         "Premises Liability",
         "Catastrophic Injuries"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death",
+        "Premises Liability"
+      ]
     },
     {
       "slug": "ryan-reppucci",
@@ -39020,6 +40876,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -39081,6 +40940,9 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -39146,6 +41008,12 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Domestic Violence",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -39271,6 +41139,11 @@
             "Author of CLM’s Extra-Contractual Wiki Project for Arizona, Utah, and Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -39306,7 +41179,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "chris-rike",
@@ -39411,6 +41285,10 @@
             "East Valley Bar Association, Secretary, 2010-2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -39499,6 +41377,10 @@
             "Kansas City Metropolitan Bar Association, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -39587,6 +41469,9 @@
             "Honorable John C. Gemmill at the Arizona Court of Appeals, Judicial Clerkship"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -39688,6 +41573,9 @@
             "National Association of Realtors Phoenix Association of Realtors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -39734,7 +41622,13 @@
         "Premises Liability",
         "Catastrophic Injuries"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death",
+        "Premises Liability"
+      ]
     },
     {
       "slug": "stephen-rogers",
@@ -39817,6 +41711,9 @@
             "Arizona, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -39864,6 +41761,9 @@
             "Arizona, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -39936,6 +41836,9 @@
             "Arizona, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -40057,6 +41960,10 @@
             "Maricopa County Bar Association, 1996 - 1997 (Quality of Life Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Probate"
       ]
     },
     {
@@ -40168,6 +42075,10 @@
             "Arizona Trial Lawyers Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury"
       ]
     },
     {
@@ -40266,6 +42177,14 @@
             "Founding President of West Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Real Estate"
       ]
     },
     {
@@ -40340,7 +42259,8 @@
             "Arizona, 2019"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gary-l-rosser",
@@ -40448,6 +42368,21 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Debtor and Creditor",
+        "Business Organizations",
+        "Collections",
+        "Construction",
+        "Insurance Defense",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Mergers and Acquisitions",
+        "Real Estate",
+        "Foreclosure and Alternatives",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -40563,6 +42498,14 @@
             "Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death",
+        "Premises Liability",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -40690,6 +42633,9 @@
             "Reserver Officer's Association, 1992 - Present (Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -40830,6 +42776,9 @@
             "Nebraska State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -40873,7 +42822,8 @@
             "Of Counsel"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-j-sabo",
@@ -41026,6 +42976,10 @@
             "Energy Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Natural Resources",
+        "Securities"
       ]
     },
     {
@@ -41171,6 +43125,10 @@
             "State Bar of Arizona, 1974 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -41223,6 +43181,9 @@
             "Co-Founder/Partner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -41327,6 +43288,11 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Antitrust",
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -41379,7 +43345,8 @@
             "Retired"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-c-schmitt",
@@ -41478,6 +43445,10 @@
             "Christian Legal Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Probate"
       ]
     },
     {
@@ -41573,6 +43544,14 @@
             "Arizona’s Finest Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Tax Law",
+        "Probate",
+        "Trusts",
+        "Elder Law"
       ]
     },
     {
@@ -41654,6 +43633,9 @@
             "American Academy of Matrimonial Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -41755,7 +43737,8 @@
             "American Bar Association, 2015 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "douglas-settel",
@@ -41841,6 +43824,9 @@
             "Maricopa County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -42029,6 +44015,11 @@
             "University of Arizona Supreme Court, 1996 - 1997 (Chief Justice)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Premises Liability",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -42176,6 +44167,12 @@
             "Alpha Epsilon Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Premises Liability"
       ]
     },
     {
@@ -42277,6 +44274,9 @@
             "Arizona College of Trial Advocacy"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -42358,6 +44358,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -42451,6 +44454,10 @@
             "Maricopa County Bar Association (member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -42521,6 +44528,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -42590,6 +44600,14 @@
             "Arizona, 1979"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Personal Injury",
+        "Legal Malpractice",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -42648,6 +44666,12 @@
             "U.S. Court of Appeals Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Immigration",
+        "Native Peoples"
       ]
     },
     {
@@ -42874,6 +44898,9 @@
             "Arizona Forum for the Improvement of Taxation, 2012 - Present (Board Member, Vice President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law"
       ]
     },
     {
@@ -42915,7 +44942,8 @@
           "type": "text",
           "content": "Steve practices in the areas of insurance bad faith, personal injury, and government liability. He joined the firm in November of 2003 to focus his practice in the area of insurance claims litigation, serious personal injury, and consumer and civil rights cases. He has a varied practice. He is currently representing a family suing State Farm for abuse of process for making bogus arson allegations after their home was torched by firefighters. He is also representing a family suing Walmart for reporting bath time photographs to Child Protective Services, and Child Protective Services and the police for what they did. In the six years he has represented families and small businesses, he has obtained more than $10,000,000 from the country’s biggest insurance companies, including Allstate, Liberty Mutual, Farmers, Safeco, Country Companies, Allied, Hartford, and many others. He represents families and small businesses in a variety of insurance claims disputes, from water and fire cases to income disability claims.\n\nSteve graduated seventh in his class at the University of Arizona in 1995. He was a law clerk to then-Arizona Supreme Court Justice Frederick Martone in 1995-96, and practiced on the defense side until 2003. He was born in Boston, Massachusetts, grew up in California, and has lived in Arizona since 1992."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "scott-simonson",
@@ -42980,6 +45008,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -43074,6 +45105,10 @@
             "Zeta Beta Tau"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning"
       ]
     },
     {
@@ -43127,6 +45162,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -43230,6 +45268,9 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts"
       ]
     },
     {
@@ -43347,6 +45388,10 @@
             "Arizona Women Lawyer's Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Social Security"
       ]
     },
     {
@@ -43474,6 +45519,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Eminent Domain",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -43519,6 +45569,9 @@
           "type": "text",
           "content": "Attorney Steven Slepian, deceased, was a former Social Security Judge. Since 1978, he has represented over 4,500 claimants before the Social Security Administration regarding applications for disability benefits.\n\nHis educational background includes New York Law School LL.B.; with Certificate of Award for Achieving highest grades in Philosophical Jurisprudence, Legal Bibliography and Writing, Equity.\n\nProfessionally, he has been a Member of the Arizona State Bar and the Maricopa County Bar since April 1977, the State Bar of New York since December 22, 1964, the United States District Court for the Southern and Eastern Districts of New York since March 1967, and the United States District Court for the District of Arizona since May 1978.\n\nSteve Slepian served as a Federal Administrative Law Judge, Office of Hearings and Appeals, Social Security Administration, United States Department of Health and Human Services, 1977; Parking Violations Hearing Officer, New York City, Senior Trial Attorney, Legal Aid Society, Criminal Division, New York City, 1965-1967. He defended over 2,000 people accused of criminal conduct prior to his judgeship. He is also a former member of the Professional Advisory Committee of the Multiple Sclerosis Society.\n\nSymposiums regarding Social Security Disability presented to:\n\n1. Physicians at both St. Joseph's Hospital and St. Luke's Hospital\n\n2. Claims representatives at Paul Revere Insurance Company and CNA Insurance Company\n\n3. Multiple Sclerosis; Chronic Fatigue and Behcet's Disease Support Groups."
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -43619,6 +45672,9 @@
             "National Association of Premiere DUI Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -43689,6 +45745,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Social Security"
       ]
     },
     {
@@ -43776,6 +45836,9 @@
             "U.S. District Court District of Arizona, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -43860,6 +45923,10 @@
             "Arizona, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Wills"
       ]
     },
     {
@@ -43951,6 +46018,15 @@
             "Arizona, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Education",
+        "Litigation and Appeals",
+        "Securities",
+        "Employment Rights",
+        "Contracts",
+        "Real Estate",
+        "Construction"
       ]
     },
     {
@@ -44008,6 +46084,11 @@
             "Virginia, 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Education",
+        "Native Peoples"
       ]
     },
     {
@@ -44124,6 +46205,13 @@
             "National Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Domestic Violence",
+        "Assault and Battery (Plaintiff)",
+        "DUI and DWI",
+        "Sex Crime"
       ]
     },
     {
@@ -44215,6 +46303,10 @@
             "Sigma Alpha Mu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -44308,6 +46400,11 @@
             "Arizona Asian American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Premises Liability",
+        "Construction"
       ]
     },
     {
@@ -44536,6 +46633,10 @@
             "Assisted Living Federation of America-Arizona Chapter (Founding Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -44631,7 +46732,8 @@
             "NACDL, 2002 - Present (Member )"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kimberly-staley",
@@ -44729,6 +46831,9 @@
             "Maricopa County Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -44812,7 +46917,8 @@
             "Honorable Joseph W. Howard at the Arizona Court of Appeals, Division Two, Judicial Clerk"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tyler-h-stanton",
@@ -44857,7 +46963,8 @@
             "Shareholder"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "chris-stapley",
@@ -44936,6 +47043,12 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Brain Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -45019,6 +47132,10 @@
             "U.S. District Court District of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -45107,7 +47224,8 @@
             "United States Supreme Court"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kyle-stephenson",
@@ -45160,6 +47278,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -45251,6 +47372,9 @@
             "Lorna Lockwood Inn of Court (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -45345,7 +47469,8 @@
             "National College for DUI Defense (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-r-story",
@@ -45448,6 +47573,14 @@
             "Arizona Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Premises Liability",
+        "Truck Accident",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -45549,6 +47682,10 @@
             "Central Arizona Estate Planning Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -45630,6 +47767,10 @@
             "Association of Family and Conciliation Courts (AFCC) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Collaborative Law"
       ]
     },
     {
@@ -45683,6 +47824,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -45786,6 +47930,10 @@
             "Supreme Court of Nevada"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Gaming"
       ]
     },
     {
@@ -45901,6 +48049,10 @@
             "Maricopa County Bar Foundation (Trustee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -45944,7 +48096,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "amanda-szpakowski",
@@ -45997,6 +48150,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -46127,6 +48283,10 @@
             "Arizona State Bar, 1982 - 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -46209,6 +48369,9 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -46320,6 +48483,11 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Brain Injury"
       ]
     },
     {
@@ -46365,7 +48533,8 @@
             "Shareholder"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tj-tijjani-esq",
@@ -46461,6 +48630,9 @@
             "Wills for Heroes"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -46551,6 +48723,10 @@
             "AACJ"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -46603,7 +48779,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "taylor-w-tondevold",
@@ -46703,6 +48880,11 @@
             "State Bar of Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -46799,6 +48981,11 @@
             "American Board of Trial Advocates, 2017 (Associate Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -46848,6 +49035,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -46928,6 +49119,14 @@
             "Arizona, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Civil Rights",
+        "Federal and White Collar Crimes",
+        "Premises Liability"
       ]
     },
     {
@@ -47030,6 +49229,9 @@
             "National Bankruptcy Forum"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -47067,7 +49269,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "laura-morrison-trujillo",
@@ -47152,6 +49355,13 @@
             "Arizona, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Tax Law",
+        "Probate",
+        "Elder Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -47243,6 +49453,11 @@
             "Maricopa County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -47289,6 +49504,10 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wage and Hour"
       ]
     },
     {
@@ -47386,6 +49605,12 @@
             "State Bar of Arizona, 1987 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Education",
+        "Employment Rights",
+        "Debtor and Creditor",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -47495,6 +49720,10 @@
             "Maricopa County Bar Association, 2007 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -47634,7 +49863,8 @@
             "Arizona Law Review Alumni Association, 1987 - 1989"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kevin-valdez",
@@ -47716,6 +49946,9 @@
             "Louisiana"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -47774,6 +50007,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -47890,6 +50127,9 @@
             "Arizona Chapter of the Association Of Family And Conciliation Courts (AFCC) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -48067,6 +50307,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -48176,6 +50420,10 @@
             "Lambda Chi Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -48238,6 +50486,11 @@
             "Arizona, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -48325,6 +50578,11 @@
             "Arizona State Bar Association, 1999 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -48416,6 +50674,10 @@
             "U.S. Court of Appeals 9th Circuit, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Airplane Bus and Helicopter Accidents",
+        "Personal Injury"
       ]
     },
     {
@@ -48511,7 +50773,8 @@
             "Member of the invitation-only “Society of Trial Lawyers”, and “The Million Dollar and Multi-Million Dollar Advocates Forums”"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "cheyenne-walsh",
@@ -48610,6 +50873,12 @@
             "Arizona, 2012"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Election Campaign and Political Law",
+        "Constitutional Law",
+        "State Local and Municipal Law",
+        "Administrative Law"
       ]
     },
     {
@@ -48707,6 +50976,9 @@
             "Litigation Counsel of America (Fellow Emeritus)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -48756,6 +51028,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -48868,6 +51144,10 @@
             "Phi Kappa Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -48933,7 +51213,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tawnia-wenke",
@@ -48969,7 +51250,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "russell-f-wenk",
@@ -49083,6 +51365,11 @@
             "Arizona State Bar, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -49120,7 +51407,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "christine-whalin",
@@ -49186,6 +51474,9 @@
             "Partner/Managing Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -49235,6 +51526,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -49338,6 +51633,11 @@
             "State Bar of Arizona, 2019 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -49464,6 +51764,16 @@
             "Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business Organizations",
+        "Probate",
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Contracts",
+        "Foreclosure and Alternatives",
+        "Employment Law (Employer)"
       ]
     },
     {
@@ -49504,7 +51814,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "daniel-wilcox",
@@ -49557,6 +51868,9 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -49635,7 +51949,8 @@
             "Wyoming State Bar"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "victoria-wilde",
@@ -49700,7 +52015,8 @@
             "Criminal Defense Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-l-williams",
@@ -49805,6 +52121,9 @@
             "Colorado Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -49906,6 +52225,10 @@
             "Advocates for the Disabled, 2005 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sexual Abuse",
+        "Personal Injury"
       ]
     },
     {
@@ -49979,6 +52302,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -50052,6 +52379,10 @@
             "Arizona"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -50090,7 +52421,11 @@
         "DUI Defense",
         "Personal Injury - Plaintiff"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "adam-wintz",
@@ -50127,7 +52462,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "richard-m-wintory",
@@ -50178,6 +52514,11 @@
             "Owner"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Probate"
       ]
     },
     {
@@ -50270,6 +52611,10 @@
             "Arizona Fiduciaries Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -50315,7 +52660,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "natasha-wrae",
@@ -50391,7 +52737,8 @@
             "U.S. Court of Appeals 9th Circuit, 2003"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-h-wynn",
@@ -50429,7 +52776,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "richard-m-yetwin",
@@ -50578,6 +52926,9 @@
             "Catalina Foothills #10, 1986 - Present (President, 1989 - present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -50649,6 +53000,9 @@
             "Board of Child and Family Resources"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -50722,7 +53076,8 @@
             "Arizona"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-ziton",
@@ -50832,6 +53187,13 @@
             "American Institute Criminal Law Attorneys (10-Best Attorney in Arizona)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Domestic Violence",
+        "Assault and Battery (Plaintiff)",
+        "Federal and White Collar Crimes"
       ]
     }
   ],
@@ -50932,11 +53294,11 @@
         "Allen David Glazer"
       ],
       "official_practice_area": [
+        "Real Estate",
         "Criminal Defense",
         "DUI and DWI",
         "Estate Planning",
-        "Personal Injury",
-        "Real Estate"
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -51083,10 +53445,7 @@
       "attorneys": [
         "Yvette Banker"
       ],
-      "official_practice_area": [
-        "Trusts",
-        "Wills"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -51183,20 +53542,16 @@
         "Megan J Trog"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business and Commercial Law",
-        "Construction",
-        "Domestic Violence",
-        "Employment Rights",
-        "Environmental Law",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Internet",
         "Litigation and Appeals",
-        "Native Peoples",
-        "Natural Resources",
+        "Business and Commercial Law",
+        "Patents",
+        "Internet",
+        "Bankruptcy",
+        "Construction",
         "Real Estate",
+        "Natural Resources",
+        "Employment Rights",
+        "Education",
         "Trusts"
       ],
       "additional_locations": [
@@ -51294,12 +53649,10 @@
         "Falynn S. Baum"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Child Custody",
+        "Family Law",
         "Child Support",
         "Divorce and Separation",
-        "Family Law",
-        "Father's Rights"
+        "ADR Arbitration and Mediation"
       ],
       "additional_locations": []
     },
@@ -51346,12 +53699,9 @@
         "John Bednarz"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Child Support",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Divorce and Separation",
+        "Child Support"
       ],
       "additional_locations": []
     },
@@ -51404,11 +53754,11 @@
         "Jackie Dabney"
       ],
       "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Divorce and Separation",
-        "Domestic Violence",
-        "Family Law"
+        "Domestic Violence"
       ],
       "additional_locations": [
         {
@@ -51522,9 +53872,7 @@
         "James Nesci"
       ],
       "official_practice_area": [
-        "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -51601,16 +53949,13 @@
         "Ms.  Patricia  Lenzner"
       ],
       "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Criminal Defense",
-        "Divorce and Separation",
         "Domestic Violence",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Real Estate"
+        "Criminal Defense",
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -51665,9 +54010,9 @@
         "Thomas Alex Benavidez"
       ],
       "official_practice_area": [
+        "Family Law",
         "Divorce and Separation",
-        "Estate Planning",
-        "Family Law"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -51759,9 +54104,7 @@
         "David N. Horowitz",
         "Daniel L Hulsizer"
       ],
-      "official_practice_area": [
-        "ADR Arbitration and Mediation"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -51814,9 +54157,7 @@
         "Criminal Defense",
         "DUI and DWI",
         "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -52122,7 +54463,6 @@
         "D. Kim Lough"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -52174,12 +54514,9 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Estate Planning",
+        "Real Estate",
         "Health Care Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Mergers and Acquisitions",
-        "Real Estate"
+        "Mergers and Acquisitions"
       ],
       "additional_locations": []
     },
@@ -52288,8 +54625,8 @@
         "Patricia E. Ronan"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Employment Rights"
+        "Employment Rights",
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -52351,14 +54688,10 @@
         "Andrew Q. Everroad"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Nursing Home Abuse",
         "Personal Injury",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -52452,9 +54785,8 @@
         "Don Burris"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Land Use and Zoning",
-        "Probate"
+        "Probate",
+        "Estate Planning"
       ],
       "additional_locations": [
         {
@@ -52523,11 +54855,7 @@
         "Jacob Pierce"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Truck Accident"
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -52581,10 +54909,9 @@
       ],
       "official_practice_area": [
         "DUI and DWI",
-        "Divorce and Separation",
         "Family Law",
-        "Personal Injury",
-        "Wrongful Death"
+        "Divorce and Separation",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -52678,8 +55005,7 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Landlord and Tenant",
-        "Traffic Ticket"
+        "Landlord and Tenant"
       ],
       "additional_locations": []
     },
@@ -52799,16 +55125,12 @@
         "Kip Michael Micuda"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Child Custody",
-        "Child Support",
-        "Divorce and Separation",
-        "Estate Planning",
         "Family Law",
+        "Divorce and Separation",
+        "Child Support",
         "Health Care Law",
-        "Real Estate",
-        "Trusts",
-        "Wills"
+        "Estate Planning",
+        "Father's Rights"
       ],
       "additional_locations": []
     },
@@ -52863,10 +55185,8 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Health Care Law",
         "Probate",
-        "Trusts",
-        "Wills"
+        "Health Care Law"
       ],
       "additional_locations": [
         {
@@ -52923,12 +55243,7 @@
         "Timothy M. Collier"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
         "Contracts",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Real Estate"
       ],
       "additional_locations": []
@@ -53071,13 +55386,9 @@
         "Dorian Eden"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Child Support",
-        "Divorce and Separation",
         "Family Law",
-        "Father's Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Divorce and Separation",
+        "Child Support",
         "Same Sex"
       ],
       "additional_locations": []
@@ -53165,9 +55476,7 @@
         "Tony S. Cullum"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -53272,13 +55581,12 @@
         "Virginia K. Draus"
       ],
       "official_practice_area": [
-        "Birth Injury",
-        "Car Accidents",
         "Medical Malpractice",
+        "Birth Injury",
+        "Wrongful Death",
         "Personal Injury",
-        "Professional Malpractice",
         "Truck Accident",
-        "Wrongful Death"
+        "Car Accidents"
       ],
       "additional_locations": []
     },
@@ -53339,17 +55647,14 @@
         "Matthew R. Story"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
+        "Car Accidents",
+        "Medical Malpractice",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
+        "Animal and Dog Bites",
+        "Premises Liability",
         "Nursing Home Abuse",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
         "Truck Accident",
         "Wrongful Death"
       ],
@@ -53398,11 +55703,9 @@
         "Rita A. Daninger"
       ],
       "official_practice_area": [
-        "Elder Law",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate"
+        "Probate",
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -53471,17 +55774,14 @@
         "TJ Tijjani Esq."
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Criminal Defense",
-        "Immigration",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
-        "Wrongful Death"
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Immigration",
+        "Criminal Defense",
+        "Brain Injury",
+        "Premises Liability"
       ],
       "additional_locations": [
         {
@@ -53592,14 +55892,12 @@
         "Mark Horne"
       ],
       "official_practice_area": [
+        "Real Estate",
         "Business and Commercial Law",
         "Construction",
-        "Estate Planning",
-        "Family Law",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
-        "Real Estate"
+        "Medical Malpractice",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -53689,13 +55987,12 @@
         "Mark D. Dillon"
       ],
       "official_practice_area": [
-        "Administrative Law",
         "Business and Commercial Law",
-        "Employment Law (Employer)",
-        "Employment Rights",
+        "Administrative Law",
         "Ethics and Professional Responsibility",
-        "Labor Law",
-        "State Local and Municipal Law"
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Labor Law"
       ],
       "additional_locations": []
     },
@@ -53746,15 +56043,13 @@
         "Ashley Donovan"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Adoption",
+        "Family Law",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Collaborative Law",
-        "Divorce and Separation",
+        "Adoption",
         "Domestic Violence",
-        "Family Law",
-        "Real Estate"
+        "Collaborative Law"
       ],
       "additional_locations": []
     },
@@ -53851,10 +56146,8 @@
         "Michael Slugocki"
       ],
       "official_practice_area": [
-        "Disability Insurance",
-        "Insurance Law",
-        "Social Security",
-        "Social Security Disability"
+        "Social Security Disability",
+        "Social Security"
       ],
       "additional_locations": []
     },
@@ -53959,12 +56252,12 @@
         "Elizabeth Kamper"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Estate Planning",
         "Personal Injury",
+        "Car Accidents",
         "Truck Accident",
-        "Trusts",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Estate Planning",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -54066,11 +56359,7 @@
         "Jack D. Wilenchik",
         "Jordan C Wolff Esq."
       ],
-      "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -54106,10 +56395,7 @@
       "attorneys": [
         "Helene S. Fenlon"
       ],
-      "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -54159,16 +56445,11 @@
         "Frank A. Fila"
       ],
       "official_practice_area": [
-        "Agriculture",
+        "Personal Injury",
         "Car Accidents",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
+        "Premises Liability",
         "Medical Malpractice",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -54224,12 +56505,9 @@
         "Michael Wilson"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -54286,11 +56564,8 @@
         "Frank M. Fox"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Elder Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -54443,28 +56718,22 @@
         "Kyle A. Israel"
       ],
       "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Construction",
+        "Insurance Defense",
+        "Litigation and Appeals",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Toxic Torts",
+        "Housing and Construction Defects",
         "Animal and Dog Bites",
+        "Patents",
+        "Trademarks",
+        "Contracts",
         "Bankruptcy",
         "Business Organizations",
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Construction",
-        "Contracts",
-        "Dangerous Products",
-        "Debtor and Creditor",
-        "Estate Planning",
-        "Housing and Construction Defects",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Personal Injury Defense",
-        "Premises Liability",
-        "Probate",
-        "Real Estate",
-        "Toxic Torts",
-        "Trademarks",
-        "Trusts"
+        "Debtor and Creditor"
       ],
       "additional_locations": []
     },
@@ -54506,8 +56775,7 @@
         "Jamie A. Glasser"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law"
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -54549,7 +56817,7 @@
         "Robert A. Parsons"
       ],
       "official_practice_area": [
-        "Real Estate"
+        "Patents"
       ],
       "additional_locations": []
     },
@@ -54642,9 +56910,9 @@
         "Paul Schmidt"
       ],
       "official_practice_area": [
+        "Family Law",
         "Child Custody",
-        "Divorce and Separation",
-        "Family Law"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -54798,13 +57066,13 @@
         "James D. Griffith"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Contracts",
         "Estate Planning",
-        "Probate",
-        "Real Estate",
+        "Business and Commercial Law",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Probate",
+        "Contracts",
+        "Real Estate"
       ],
       "additional_locations": []
     },
@@ -54857,10 +57125,8 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Health Care Law",
         "Probate",
-        "Trusts",
-        "Wills"
+        "Health Care Law"
       ],
       "additional_locations": [
         {
@@ -55008,8 +57274,8 @@
         "Kaytlyn Yrun-Duffy"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -55057,8 +57323,8 @@
         "Jack H. Hirsch"
       ],
       "official_practice_area": [
-        "Family Law",
-        "Personal Injury"
+        "Personal Injury",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -55109,11 +57375,8 @@
         "Nick Verderame"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Car Accidents",
-        "Insurance Law",
         "Personal Injury",
-        "Whistleblower and Qui Tam",
+        "Bad Faith Insurance",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -55165,10 +57428,7 @@
       "attorneys": [
         "Mary T. Hone"
       ],
-      "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -55304,10 +57564,7 @@
         "Marie Isaacson",
         "Cheyenne Walsh"
       ],
-      "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -55353,9 +57610,6 @@
         "David Iversen"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -55499,14 +57753,14 @@
         "Michael A. Johnson"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
+        "Family Law",
+        "Same Sex",
         "Child Custody",
         "Divorce and Separation",
-        "Family Law",
-        "Father's Rights",
-        "Military",
         "Military Divorce",
-        "Same Sex"
+        "Father's Rights",
+        "Child Support",
+        "ADR Arbitration and Mediation"
       ],
       "additional_locations": []
     },
@@ -55553,10 +57807,9 @@
         "Kristen Kaffer Esq."
       ],
       "official_practice_area": [
+        "Family Law",
         "Child Custody",
         "Child Support",
-        "Divorce and Separation",
-        "Family Law",
         "Father's Rights"
       ],
       "additional_locations": []
@@ -55602,9 +57855,7 @@
         "Ted A. Schmidt",
         "Dev K. Sethi"
       ],
-      "official_practice_area": [
-        "Personal Injury"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -55763,11 +58014,11 @@
         "Beth Kruchek"
       ],
       "official_practice_area": [
-        "Elder Law",
         "Estate Planning",
-        "Tax Law",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Elder Law",
+        "Tax Law"
       ],
       "additional_locations": []
     },
@@ -55870,7 +58121,6 @@
         "Marc Lamber"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury"
       ],
       "additional_locations": [
@@ -55957,11 +58207,10 @@
         "John P. Leader Esq."
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Brain Injury",
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -56013,15 +58262,9 @@
         "David J. Leonard"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Insurance Law",
         "Legal Malpractice",
-        "Litigation and Appeals",
-        "Professional Malpractice",
-        "Real Estate"
+        "Real Estate",
+        "Bad Faith Insurance"
       ],
       "additional_locations": [
         {
@@ -56085,18 +58328,13 @@
         "Matthew L. McClellan"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Car Accidents",
+        "Wrongful Death",
+        "Brain Injury",
+        "Construction Accident",
+        "Medical Malpractice",
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -56144,8 +58382,6 @@
         "Jon Paul McCarty"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Family Law",
         "Personal Injury"
       ],
       "additional_locations": [
@@ -56247,9 +58483,9 @@
         "Garrick McFadden Esq."
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
         "Car Accidents",
         "Personal Injury",
+        "Animal and Dog Bites",
         "Premises Liability"
       ],
       "additional_locations": []
@@ -56293,7 +58529,6 @@
         "Michelle S. Michelson"
       ],
       "official_practice_area": [
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": []
@@ -56339,8 +58574,7 @@
         "Kevin J Tucker"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -56522,15 +58756,11 @@
         "Francis J. Slavin"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
+        "Real Estate",
         "Construction",
         "Eminent Domain",
-        "Estate Planning",
-        "Insurance Defense",
-        "Land Use and Zoning",
-        "Litigation and Appeals",
-        "Real Estate",
-        "Tax Law"
+        "Tax Law",
+        "Land Use and Zoning"
       ],
       "additional_locations": []
     },
@@ -56629,9 +58859,8 @@
         "Patricia A. Premeau"
       ],
       "official_practice_area": [
-        "Construction",
-        "Estate Planning",
         "Real Estate",
+        "Construction",
         "Tax Law"
       ],
       "additional_locations": []
@@ -56676,9 +58905,9 @@
         "Doug Newborn"
       ],
       "official_practice_area": [
+        "Probate",
         "Estate Planning",
-        "Personal Injury",
-        "Probate"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -56724,9 +58953,9 @@
         "Daniel R. Ortega, III"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Criminal Defense",
-        "Family Law",
-        "Personal Injury"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -56949,8 +59178,8 @@
         "Steven Plitt"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Insurance Law"
+        "Insurance Law",
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -57000,9 +59229,7 @@
         "David N. Farren",
         "Stephanie A. Fierro"
       ],
-      "official_practice_area": [
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -57046,9 +59273,7 @@
         "David Enevoldsen",
         "Chris Rike"
       ],
-      "official_practice_area": [
-        "Traffic Ticket"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -57088,8 +59313,7 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Personal Injury",
-        "Wills"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -57146,11 +59370,9 @@
         "Michael A. Wade Esq."
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Premises Liability"
       ],
       "additional_locations": [
         {
@@ -57296,8 +59518,8 @@
         "Matthew S. Schultz"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -57342,9 +59564,7 @@
         "Marcus N. Seiter"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Trusts",
-        "Wills"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -57387,11 +59607,8 @@
         "Michael Joseph Shew"
       ],
       "official_practice_area": [
-        "Child Custody",
         "Divorce and Separation",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -57433,8 +59650,7 @@
         "Daniel B. Treon"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Insurance Law"
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -57482,7 +59698,6 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Federal and White Collar Crimes",
         "Immigration"
       ],
       "additional_locations": []
@@ -57524,9 +59739,7 @@
         "Chris J. Sheldon",
         "Jason M. Silver"
       ],
-      "official_practice_area": [
-        "Tax Law"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -57592,8 +59805,8 @@
         "Brian D. Sloan"
       ],
       "official_practice_area": [
-        "Cannabis Law",
-        "DUI and DWI"
+        "DUI and DWI",
+        "Cannabis Law"
       ],
       "additional_locations": []
     },
@@ -57639,9 +59852,7 @@
         "Howard M. Snyder",
         "David A. Wenner"
       ],
-      "official_practice_area": [
-        "Personal Injury"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -57680,8 +59891,6 @@
         "Roger K. Spencer Esq."
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": []
@@ -57903,9 +60112,9 @@
         "Carrie L. Voegtli"
       ],
       "official_practice_area": [
-        "Criminal Defense",
+        "Family Law",
         "Divorce and Separation",
-        "Family Law"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -58013,10 +60222,8 @@
         "James A. Whitehill"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
-        "Estate Planning",
-        "Real Estate"
+        "Real Estate",
+        "Business Organizations"
       ],
       "additional_locations": []
     },
@@ -58104,7 +60311,12 @@
         "Yvette L. Ashworth",
         "Lora G. Johnson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Probate"
+      ],
       "additional_locations": []
     },
     {
@@ -58163,7 +60375,13 @@
         "Travis Owen",
         "Gregory Sinning"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Custody",
+        "Child Support",
+        "Divorce and Separation"
+      ],
       "additional_locations": []
     },
     {
@@ -58206,7 +60424,9 @@
         "Adrienne R. Jones",
         "Mack T. Jones"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Premises Liability"
+      ],
       "additional_locations": []
     },
     {
@@ -58331,7 +60551,9 @@
       "attorneys": [
         "Richard C. Bock"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -58416,7 +60638,11 @@
         "John P. Christiansen",
         "James C. Frisch"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Real Estate",
+        "Landlord and Tenant",
+        "Estate Planning"
+      ],
       "additional_locations": []
     },
     {
@@ -58462,7 +60688,15 @@
       "attorneys": [
         "Daniel J. DeRienzo"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Estate Planning",
+        "Wills",
+        "Trusts",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -58519,7 +60753,20 @@
         "Phillip",
         "Jeffrey D Dollins"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Litigation and Appeals",
+        "Probate",
+        "Education",
+        "Elder Law",
+        "Construction",
+        "Land Use and Zoning",
+        "Native Peoples",
+        "Personal Injury",
+        "Family Law",
+        "Adoption"
+      ],
       "additional_locations": []
     },
     {
@@ -58559,7 +60806,9 @@
         "Elizabeth J. Farhart",
         "Gail R. Hornstein"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ],
       "additional_locations": []
     },
     {
@@ -58638,7 +60887,9 @@
       "attorneys": [
         "Kevin M. Garrison"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Class Actions"
+      ],
       "additional_locations": []
     },
     {
@@ -58687,7 +60938,9 @@
         "Raphael J. Avraham",
         "John F. Baird"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -58736,7 +60989,13 @@
         "Scott Reynolds",
         "Galen Satterlee"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Insurance Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -58776,7 +61035,9 @@
       "attorneys": [
         "Stephen Robert Glazer"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -58818,7 +61079,9 @@
         "Thomas E. Higgins",
         "Maggie Higgins Schmidt Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -58859,7 +61122,9 @@
       "attorneys": [
         "Elliot Spencer Isaac"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ],
       "additional_locations": []
     },
     {
@@ -58899,7 +61164,9 @@
         "Alex B. Vakula",
         "Nicholas E. Vakula"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -58940,7 +61207,9 @@
         "Maura C. Quigley",
         "Jennifer A. Stevens"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -58983,7 +61252,11 @@
       "attorneys": [
         "Robert H. Kleinschmidt"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Birth Injury",
+        "Wrongful Death"
+      ],
       "additional_locations": []
     },
     {
@@ -59021,7 +61294,9 @@
       "attorneys": [
         "Richard W. Langerman"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ],
       "additional_locations": []
     },
     {
@@ -59097,7 +61372,9 @@
         "David P. Matheson",
         "Michelle Ray Matheson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Employment Rights"
+      ],
       "additional_locations": []
     },
     {
@@ -59142,7 +61419,9 @@
       "attorneys": [
         "John H. Messing"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Immigration"
+      ],
       "additional_locations": []
     },
     {
@@ -59181,7 +61460,9 @@
       "attorneys": [
         "Zach Murphy Esq."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -59217,7 +61498,9 @@
       "attorneys": [
         "Brent J. Oenning"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -59264,7 +61547,14 @@
       "attorneys": [
         "Frank L Ross"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -59304,7 +61594,9 @@
       "attorneys": [
         "Gary L. Rosser"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -59347,7 +61639,9 @@
         "Michael P. Upshaw",
         "Patrick J. Van Zanen"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -59426,7 +61720,9 @@
         "Michael P. Stark",
         "Linda B. Williamson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -59464,7 +61760,9 @@
       "attorneys": [
         "Thomas H. Wilson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "DUI and DWI"
+      ],
       "additional_locations": []
     },
     {
@@ -59513,7 +61811,12 @@
       "attorneys": [
         "Richard M. Wintory"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Probate"
+      ],
       "additional_locations": []
     },
     {
@@ -59552,7 +61855,9 @@
       "attorneys": [
         "Michael Ziton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     }
   ]

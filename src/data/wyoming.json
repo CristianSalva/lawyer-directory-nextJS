@@ -149,6 +149,10 @@
             "U.S. Court of Appeals 10th Circuit, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Education"
       ]
     },
     {
@@ -355,6 +359,18 @@
             "Laramie County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Environmental Law",
+        "Employment Rights",
+        "Debtor and Creditor",
+        "Bankruptcy",
+        "Contracts",
+        "Workers' Compensation",
+        "Litigation and Appeals",
+        "Business and Commercial Law",
+        "Personal Injury"
       ]
     },
     {
@@ -493,6 +509,11 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death"
       ]
     },
     {
@@ -584,6 +605,11 @@
             "Wyoming Trial Lawyers Association, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -694,6 +720,19 @@
             "Wyoming State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Airplane Bus and Helicopter Accidents",
+        "Bankruptcy",
+        "Adoption",
+        "Divorce and Separation",
+        "Child Support",
+        "Military Divorce",
+        "Personal Injury",
+        "Brain Injury",
+        "Wrongful Death",
+        "Wills"
       ]
     },
     {
@@ -780,6 +819,11 @@
             "U.S. Court of Appeals 10th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -820,7 +864,10 @@
       "practice_areas": [
         "Commercial Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "5117266_1",
@@ -860,7 +907,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "3914728_1",
@@ -900,7 +950,8 @@
       "practice_areas": [
         "Public Utility Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1550584_1",
@@ -940,7 +991,8 @@
       "practice_areas": [
         "Trial Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1842070_1",
@@ -980,7 +1032,10 @@
       "practice_areas": [
         "Probate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Probate"
+      ]
     },
     {
       "slug": "1558858_1",
@@ -1020,7 +1075,8 @@
       "practice_areas": [
         "Public Utility Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4354436_1",
@@ -1060,7 +1116,8 @@
       "practice_areas": [
         "Appellate Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3615279_1",
@@ -1100,7 +1157,8 @@
       "practice_areas": [
         "Appellate Practice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5017509_1",
@@ -1140,7 +1198,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "jared-s-olsen",
@@ -1287,6 +1348,16 @@
             "National Association of Estate Planners and Councils"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts",
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Father's Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -1401,6 +1472,16 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Workers' Compensation",
+        "Business Organizations",
+        "Criminal Defense",
+        "Estate Planning"
       ]
     },
     {
@@ -1554,6 +1635,18 @@
             "American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Wrongful Death",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Bad Faith Insurance",
+        "Insurance Law",
+        "Nursing Home Abuse",
+        "Truck Accident",
+        "Class Actions"
       ]
     },
     {
@@ -1645,6 +1738,10 @@
             "Colorado Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -1757,6 +1854,11 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -1861,6 +1963,10 @@
             "National College of DUI Defense (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     }
   ],
@@ -1914,8 +2020,7 @@
         "Robert J. Walker"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": []
     },
@@ -1960,13 +2065,11 @@
         "Shelly Kay Flot"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Car Accidents",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Divorce and Separation",
+        "Car Accidents",
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -2014,10 +2117,10 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Family Law",
         "Probate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -2060,8 +2163,7 @@
         "Ms. Bobbi Overfield"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": []
     },
@@ -2119,21 +2221,16 @@
         "Traci S. Rivinus"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Brain Injury",
-        "Car Accidents",
-        "Class Actions",
-        "Dangerous Products",
         "Health Care Law",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
+        "Wrongful Death",
         "Personal Injury",
-        "Professional Malpractice",
+        "Medical Malpractice",
+        "Brain Injury",
+        "Bad Faith Insurance",
+        "Insurance Law",
+        "Nursing Home Abuse",
         "Truck Accident",
-        "Wrongful Death"
+        "Class Actions"
       ],
       "additional_locations": []
     },
@@ -2214,7 +2311,9 @@
         "Jim Fitzgerald",
         "Michael Fitzgerald"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -2261,7 +2360,11 @@
         "Donald L. Fuller",
         "Ryan Semerad"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)"
+      ],
       "additional_locations": []
     }
   ]

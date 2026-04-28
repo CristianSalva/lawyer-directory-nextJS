@@ -239,6 +239,10 @@
             "The American Association for Justice (Member, Professional Negligence Section)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -369,6 +373,9 @@
             "CJA Panel, U.S. District Court, District of New Hampshire (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Immigration"
       ]
     },
     {
@@ -407,7 +414,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "john-ahlgren",
@@ -534,6 +542,12 @@
             "California Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Family Law",
+        "Real Estate",
+        "Probate"
       ]
     },
     {
@@ -578,6 +592,10 @@
           "type": "text",
           "content": "Murtaza Akhtar is a member of the firm’s Business Law and Family Law practice groups.\n\nBefore moving to the U.S., Murtaza lived in Pakistan, the United Kingdom, and the United Arab Emirates. He received his first law degree from the University of Nottingham in 2009 and went on to practice law in Pakistan for over a decade, initially working at law firms and later switching over to in-house roles. During this time, he advised on complex commercial transactions, including mergers and acquisitions and large-scale industrial projects. His past clients include multinational corporations, closely held corporations, startups, and entrepreneurs. After moving to the U.S., he spent a year at the Office of the Illinois Attorney General and then went back to law school, earning his Juris Doctor from the DePaul University College of Law in 2025.\n\nNow a resident of the Upper Valley, Murtaza looks forward to becoming involved in local civic organizations. When not working, he can be found hiking or running on nearby trails, crewing his wife on her ultramarathons, or trying out new recipes in the kitchen. He also plays guitar and dabbles in photography when his schedule permits.\n\nLanguages: English, Urdu, and Hindi (spoken)."
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business Organizations"
       ]
     },
     {
@@ -664,7 +682,8 @@
             "New Hampshire Women's Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "andrea-amodeo-vickery",
@@ -761,6 +780,12 @@
             "NH Superior Court Rule 170 Certified Mediator"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "DUI and DWI",
+        "Employment Rights"
       ]
     },
     {
@@ -846,7 +871,8 @@
             "Sports Lawyers Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "elizabeth-a-bailey",
@@ -973,6 +999,10 @@
             "River Valley Human Resource Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -1015,7 +1045,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-a-bandazian",
@@ -1113,6 +1144,12 @@
             "Bedford Educational Foundation, Board of Directors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Social Security Disability",
+        "Administrative Law"
       ]
     },
     {
@@ -1205,6 +1242,11 @@
             "New Hampshire Association of Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -1248,6 +1290,9 @@
           "type": "text",
           "content": "Elana Baron is a partner at Shaheen & Gordon.\n\nElana has developed substantial experience in the areas of Real Estate, Civil and probate Litigation, Adult Guardianships, Estate Planning, Trusts, Elder Law, Collections/Foreclosures, and Corporate Law. She handles all her cases personally from inception through to resolution. All of her real estate sales and purchases are handled without contracting out any portion of the transaction, including the full title examination. Elana is fluent in both English and French and has clients from both sides of the USA/Canada border. She has appeared before the Supreme Court of the State of Vermont and State of New Hampshire, Vermont Superior Courts; both civil and probate divisions, United States Federal District Court, District of Vermont, New Hampshire Superior Courts; both civil and probate divisions and the United States Federal District Court, District of New Hampshire.\n\nElana has earned the professional certification of Certified Estate Planner (CEP®), enabling her to bring every client a custom-tailored estate plan that is designed to preserve, protect, and pass on that individual’s estate as they so desire. This gives each client the peace of mind that comes from knowing their estate will be managed during their lifetime as they have directed, even should they become incapacitated."
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -1334,6 +1379,13 @@
             "New Hampshire Bar Association, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -1442,6 +1494,12 @@
             "Real Property Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Real Estate",
+        "Land Use and Zoning",
+        "Environmental Law"
       ]
     },
     {
@@ -1589,6 +1647,12 @@
             "California Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Health Care Law",
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -1677,6 +1741,11 @@
             "U.S. District Court District of Vermont, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "State Local and Municipal Law",
+        "Real Estate"
       ]
     },
     {
@@ -1773,6 +1842,16 @@
             "2014 Graduate, Leadership New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Health Care Law",
+        "Estate Planning",
+        "Patents",
+        "Employment Rights",
+        "Real Estate",
+        "Family Law",
+        "Medical Malpractice"
       ]
     },
     {
@@ -1916,6 +1995,11 @@
             "Community Association Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning",
+        "Personal Injury"
       ]
     },
     {
@@ -2054,6 +2138,9 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -2208,6 +2295,10 @@
             "Beta Theta Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -2324,6 +2415,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -2429,6 +2524,12 @@
             "New Hampshire Notary Public"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -2529,6 +2630,10 @@
             "New Hampshire Board of Bar Examiners, 2025 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -2627,6 +2732,14 @@
             "Supreme Court Committees (past member): Delivery and Legal Services, Lawyer-to-Lawyer Dispute Resolution, Public Information, Rule 170, Advertising, Specialization, Revision of Code of Professional Responsibility"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Wills",
+        "Probate",
+        "Estate Planning",
+        "Wrongful Death"
       ]
     },
     {
@@ -2731,6 +2844,11 @@
             "Northeast Association of Realtors (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Estate Planning"
       ]
     },
     {
@@ -2817,6 +2935,10 @@
             "New Hampshire Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -2951,6 +3073,10 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Employment Rights"
       ]
     },
     {
@@ -3014,6 +3140,14 @@
             "Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate",
+        "Family Law",
+        "Land Use and Zoning",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -3057,6 +3191,9 @@
           "type": "text",
           "content": "Lindsey Bramble is an Associate Attorney at Shaheen & Gordon.\n\nLindsey recently returned to New Hampshire after graduating from New England Law | Boston. After practicing at a Massachusetts firm specializing in insurance defense litigation, she moved back to Keene looking to work more directly with clients and the community. A native of Alstead, New Hampshire, she is happy to be back in the area and closer to family."
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -3158,6 +3295,10 @@
             "Manchester Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -3207,6 +3348,9 @@
             "New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -3302,6 +3446,13 @@
             "New Hampshire Bar Association, 2005 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -3386,6 +3537,13 @@
             "Theta Kappa Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -3497,7 +3655,8 @@
             "George C. Marshall Foundation, Trustee, 1990 - 1993"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-e-bush",
@@ -3580,6 +3739,10 @@
             "New Hampshire Association of Criminal Defense Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -3706,6 +3869,16 @@
             "Hampshire Estate Planning Council the Trust & Estate and Health Law sections of the New Hampshire Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Health Care Law",
+        "Estate Planning",
+        "Patents",
+        "Employment Rights",
+        "Real Estate",
+        "Family Law",
+        "Medical Malpractice"
       ]
     },
     {
@@ -3736,7 +3909,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-m-candon",
@@ -3857,6 +4031,10 @@
             "Turnaround Management Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3966,6 +4144,9 @@
             "New Hampshire Association for Justice, Board of Governors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4074,6 +4255,10 @@
             "New Hampshire Women's Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -4176,6 +4361,9 @@
             "U.S. District Court for the Eastern District of Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -4280,7 +4468,8 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-p-cheney",
@@ -4392,7 +4581,8 @@
             "Phi Gamma Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-a-cherniske",
@@ -4426,7 +4616,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "william-e-christie",
@@ -4541,6 +4732,12 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Health Care Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4611,6 +4808,13 @@
             "New Hampshire, 1980"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -4700,6 +4904,11 @@
             "Massachusetts Academy of Trial Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -4821,6 +5030,12 @@
             "New Hampshire Bar Association, 1976 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -4863,7 +5078,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bradford-e-cook",
@@ -5005,6 +5221,10 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Education",
+        "Estate Planning"
       ]
     },
     {
@@ -5115,6 +5335,10 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -5239,6 +5463,12 @@
             "University of New Hampshire Law School Alumni Association, 1986 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Premises Liability",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -5371,6 +5601,11 @@
             "American Bankruptcy Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives",
+        "Collections"
       ]
     },
     {
@@ -5492,6 +5727,10 @@
             "Collaborative Law Alliance of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -5605,6 +5844,10 @@
             "Southeast NH Habitat for Humanity, 2016 - Present (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5643,7 +5886,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "christine-m-craig",
@@ -5745,6 +5989,9 @@
             "AAJ Women’s Law Caucus"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -5848,6 +6095,11 @@
             "Franco-American Centre"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -5917,7 +6169,8 @@
             "New Hampshire, 1980"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-g-cronin",
@@ -6062,6 +6315,12 @@
             "Apartment Association of New Hampshire (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Personal Injury"
       ]
     },
     {
@@ -6108,7 +6367,8 @@
             "Paralegal"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "darlene-m-daniele",
@@ -6213,6 +6473,11 @@
             "Greater Salem Chamber of Commerce (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Bankruptcy",
+        "Estate Planning"
       ]
     },
     {
@@ -6298,6 +6563,11 @@
             "Pennsylvania, 1978"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -6375,7 +6645,8 @@
             "New Hampshire Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-w-dennehy",
@@ -6548,6 +6819,10 @@
             "Defense Research Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -6664,7 +6939,8 @@
             "U.S. District Court District of Massachusetts"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jennifer-l-ditrapano",
@@ -6779,6 +7055,12 @@
             "Derry Veterans Assistance Fund, Treasurer"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6874,6 +7156,10 @@
             "American Academy of Certified Financial Litigators, New Hampshire Chapter (Founding Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -6970,6 +7256,9 @@
             "Massachusetts, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -7053,6 +7342,9 @@
             "New York"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -7167,7 +7459,8 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peter-doyle",
@@ -7213,7 +7506,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-drescher",
@@ -7313,6 +7607,12 @@
             "Nashua Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -7412,6 +7712,12 @@
             "BNI (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Administrative Law",
+        "Insurance Defense"
       ]
     },
     {
@@ -7599,6 +7905,10 @@
             "New Hampshire Association for Justice, 2011 (Recipient, Board of Governors, Award)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -7705,6 +8015,10 @@
             "Alpha Xi Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -7802,6 +8116,10 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -7838,7 +8156,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "viviana-j-durbin",
@@ -7874,7 +8193,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "paul-j-durham",
@@ -8015,6 +8335,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -8181,6 +8504,9 @@
             "Healthcare Financial Management Association, Member and Presenter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law"
       ]
     },
     {
@@ -8336,6 +8662,9 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -8449,6 +8778,13 @@
             "Maine Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -8552,6 +8888,12 @@
             "NH Women's Bar Association, 2012 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wills",
+        "Trusts",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -8681,6 +9023,12 @@
             "Panel of Chapter 7 Trustees for the State of New Hampshire, 1998 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Real Estate",
+        "Bankruptcy",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -8715,7 +9063,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "ryan-p-garrette",
@@ -8820,6 +9169,14 @@
             "Daniel Webster-Batchelder Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Family Law",
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -8854,7 +9211,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "brian-g-germaine",
@@ -8969,6 +9327,13 @@
             "Selected as Derry News “Best Lawyer” 2020 and 2021"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Real Estate",
+        "Probate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -9058,6 +9423,9 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -9196,6 +9564,14 @@
             "Bedford Citizens Police Academy, 2017 (returned as a witness in 2018/2019)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Business and Commercial Law",
+        "ADR Arbitration and Mediation",
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -9288,6 +9664,9 @@
             "American Academy for Certified Financial Litigators (Founding Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9416,6 +9795,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -9541,6 +9923,11 @@
             "Member of the First Circuit Court of Appeals Advisory"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Business and Commercial Law",
+        "Health Care Law"
       ]
     },
     {
@@ -9648,6 +10035,11 @@
             "New York State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Litigation and Appeals",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -9710,6 +10102,11 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -9854,6 +10251,9 @@
             "Criminal Justice Act Panel Member, United States District Court, District of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9993,6 +10393,10 @@
             "Manchester and New Hampshire Bar Associations"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -10148,6 +10552,10 @@
             "Manchester Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -10316,6 +10724,10 @@
             "University of New Hampshire School of Law (New Hampshire Alumni Advisory Group)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -10460,6 +10872,9 @@
             "American Health Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law"
       ]
     },
     {
@@ -10557,6 +10972,13 @@
             "New Hampshire Bar Association, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -10663,6 +11085,12 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -10849,6 +11277,11 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Employment Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -10955,7 +11388,8 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "courtney-h-g-herz",
@@ -11089,6 +11523,11 @@
             "New York Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "ADR Arbitration and Mediation",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -11179,6 +11618,11 @@
             "New Hampshire Association for Justice (Active Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Workers' Compensation",
+        "Medical Malpractice"
       ]
     },
     {
@@ -11306,6 +11750,9 @@
             "New Hampshire Bar Association, Elder Law, Estate Planning, and Probate Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -11415,6 +11862,11 @@
             "Rhode Island"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Health Care Law",
+        "Insurance Defense"
       ]
     },
     {
@@ -11546,6 +11998,9 @@
             "Family Strength, 1987 - 1992 (Chairman, Board of Trustees)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -11660,6 +12115,12 @@
             "New York State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Business Organizations",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -11734,6 +12195,10 @@
             "Salem Bar Association, 2010 - Present (Secretary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -11848,6 +12313,18 @@
             "National Association of Consumer Bankruptcy Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Health Care Law",
+        "ADR Arbitration and Mediation",
+        "Landlord and Tenant",
+        "Contracts",
+        "Real Estate"
       ]
     },
     {
@@ -11954,6 +12431,10 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -12102,6 +12583,14 @@
             "Dartmouth Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Sexual Abuse",
+        "Wrongful Death",
+        "Construction Accident"
       ]
     },
     {
@@ -12192,6 +12681,10 @@
             "Massachusetts, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -12243,7 +12736,8 @@
             "Paralegal"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "philip-m-kalil",
@@ -12381,6 +12875,12 @@
             "Salem Boys Club, 2017 - Present (Youth Wrestling Coach)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense",
+        "Bankruptcy",
+        "Personal Injury"
       ]
     },
     {
@@ -12505,6 +13005,13 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Business and Commercial Law",
+        "Family Law",
+        "Estate Planning",
+        "Criminal Defense"
       ]
     },
     {
@@ -12558,6 +13065,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -12616,6 +13126,12 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Real Estate",
+        "Estate Planning",
+        "Business Organizations"
       ]
     },
     {
@@ -12704,6 +13220,9 @@
             "Massachusetts Bar Association (Active Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -12835,6 +13354,11 @@
             "New Hampshire Association of Criminal Defense Attorneys, 2008 - 2016 (Member, Vice President, President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -12931,6 +13455,10 @@
             "New Hampshire Criminal Defense Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -13017,6 +13545,9 @@
             "Trustee, Silverstone Living"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -13139,6 +13670,9 @@
             "Sigma Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -13229,6 +13763,10 @@
             "Maine, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts"
       ]
     },
     {
@@ -13329,6 +13867,12 @@
             "Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Land Use and Zoning",
+        "Real Estate",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -13449,6 +13993,13 @@
             "New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Copyrights",
+        "Mergers and Acquisitions",
+        "Trademarks",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -13555,6 +14106,9 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -13640,6 +14194,10 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13722,6 +14280,11 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Land Use and Zoning",
+        "Estate Planning"
       ]
     },
     {
@@ -13782,6 +14345,11 @@
             "Associate, since August 1, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13885,6 +14453,12 @@
             "U.S. District Court District of New Hampshire, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Criminal Defense",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -13981,7 +14555,8 @@
             "New Hampshire Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "patricia-m-lafrance",
@@ -14074,6 +14649,14 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Civil Rights",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence",
+        "Adoption",
+        "Criminal Defense"
       ]
     },
     {
@@ -14212,6 +14795,9 @@
             "Commonwealth of Massachusetts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -14254,7 +14840,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-c-lee",
@@ -14353,6 +14940,11 @@
             "New Hampshire Bar Association, 2006 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Immigration"
       ]
     },
     {
@@ -14475,6 +15067,12 @@
             "New Hampshire Employment Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Constitutional Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -14592,7 +15190,8 @@
             "U.S. District Court District of New Hampshire"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bradley-m-lown",
@@ -14723,6 +15322,13 @@
             "Maine State and Federal Courts , 1987 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Family Law"
       ]
     },
     {
@@ -14859,6 +15465,10 @@
             "Yale Club of New York City"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Antitrust"
       ]
     },
     {
@@ -14970,7 +15580,8 @@
             "New Hampshire Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "colleen-lyons",
@@ -15132,6 +15743,10 @@
             "Connecticut Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Securities"
       ]
     },
     {
@@ -15247,6 +15862,9 @@
             "Vermont, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -15325,6 +15943,10 @@
             "New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Civil Rights"
       ]
     },
     {
@@ -15364,7 +15986,10 @@
         "Family Law",
         "Family Law Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Family Law"
+      ]
     },
     {
       "slug": "susan-a-manchester",
@@ -15503,6 +16128,9 @@
             "American College of Real Estate Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning"
       ]
     },
     {
@@ -15605,6 +16233,9 @@
             "New Hampshire Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -15705,6 +16336,15 @@
             "Massachusetts, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Contracts",
+        "Bankruptcy",
+        "Business Organizations",
+        "Trusts",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -15795,6 +16435,9 @@
             "Greater Lowell Bar Association, Member, 1/10/2023 to Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -15830,7 +16473,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "nicholas-mason",
@@ -15936,6 +16580,12 @@
             "New Hampshire Bar Association, 2013 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -16015,6 +16665,11 @@
             "U.S. Supreme Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -16119,6 +16774,11 @@
             "Delta Sigma Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts"
       ]
     },
     {
@@ -16206,6 +16866,10 @@
             "American Bankruptcy Institute (ABI)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Foreclosure and Alternatives"
       ]
     },
     {
@@ -16252,7 +16916,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "david-w-mcgrath",
@@ -16390,6 +17055,10 @@
             "Ethics Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -16483,6 +17152,9 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support"
       ]
     },
     {
@@ -16587,6 +17259,11 @@
             "American Bar Foundation (Fellow)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Medical Malpractice"
       ]
     },
     {
@@ -16716,6 +17393,12 @@
             "American Association of Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Education",
+        "Civil Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -16758,7 +17441,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-h-miller",
@@ -16916,6 +17600,12 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "ADR Arbitration and Mediation",
+        "Real Estate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -17040,6 +17730,9 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -17131,6 +17824,13 @@
             "New Hampshire, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Land Use and Zoning",
+        "Collections",
+        "Landlord and Tenant",
+        "Construction"
       ]
     },
     {
@@ -17243,6 +17943,11 @@
             "Manchester Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Personal Injury"
       ]
     },
     {
@@ -17366,6 +18071,12 @@
             "N.H. Association of Justice Trial Academy (Past Faculty Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Litigation and Appeals",
+        "Employment Rights"
       ]
     },
     {
@@ -17403,7 +18114,10 @@
       "practice_areas": [
         "Health Care"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Health Care Law"
+      ]
     },
     {
       "slug": "1265435_1",
@@ -17441,7 +18155,10 @@
       "practice_areas": [
         "Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "3311472_1",
@@ -17479,7 +18196,10 @@
       "practice_areas": [
         "Medical Malpractice and Physician Advocacy"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "1082649_1",
@@ -17517,7 +18237,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "1816667_1",
@@ -17554,7 +18277,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "4983918_1",
@@ -17589,7 +18315,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2437520_1",
@@ -17626,7 +18353,10 @@
       "practice_areas": [
         "Insurance Defense and Coverage"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "4910228_1",
@@ -17664,7 +18394,8 @@
       "practice_areas": [
         "Trusts and Estates"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4910003_1",
@@ -17701,7 +18432,10 @@
       "practice_areas": [
         "Health Care"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Health Care Law"
+      ]
     },
     {
       "slug": "1593846_1",
@@ -17739,7 +18473,10 @@
       "practice_areas": [
         "Health Care"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Health Care Law"
+      ]
     },
     {
       "slug": "1573960_1",
@@ -17776,7 +18513,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1139894_1",
@@ -17813,7 +18551,8 @@
       "practice_areas": [
         "Trusts and Estates"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "marsha-joseph-ward",
@@ -17864,7 +18603,8 @@
             "Paralegal"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "marsha-joseph-ward",
@@ -17915,7 +18655,8 @@
             "Paralegal"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "justin-p-nadeau",
@@ -18033,6 +18774,11 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Contracts"
       ]
     },
     {
@@ -18067,7 +18813,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "matthew-r-newborn",
@@ -18165,6 +18912,9 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -18265,6 +19015,12 @@
             "Maine Bar Association, 1990 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -18349,6 +19105,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Landlord and Tenant",
+        "Probate"
       ]
     },
     {
@@ -18453,6 +19214,11 @@
             "Barrister, Order of Veritas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -18549,6 +19315,11 @@
             "New Hampshire, 2025"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -18629,6 +19400,21 @@
             "ARAG, 2008 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Same Sex",
+        "ADR Arbitration and Mediation",
+        "Child Custody",
+        "Elder Law",
+        "Estate Planning",
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Discrimination",
+        "Divorce and Separation",
+        "Real Estate",
+        "Social Security Disability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -18732,6 +19518,12 @@
             "New Hampshire Bar Association: Tax Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Tax Law",
+        "Probate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -18843,6 +19635,12 @@
             "Strafford County Bar Association (Former President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -18951,6 +19749,9 @@
             "American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -19082,6 +19883,9 @@
             "New Hampshire Bar, Intellectual Property section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -19188,6 +19992,11 @@
             "New Hampshire Bar Association, Feb, 2023 to Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Estate Planning",
+        "Domestic Violence"
       ]
     },
     {
@@ -19223,7 +20032,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "coleen-m-penacho",
@@ -19331,7 +20141,8 @@
             "New Hampshire Bar Association, Corporation, Banking and Business Law Section"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "emily-b-penaskovic",
@@ -19461,6 +20272,12 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Securities",
+        "Mergers and Acquisitions",
+        "Patents",
+        "Trademarks"
       ]
     },
     {
@@ -19544,6 +20361,16 @@
             "New Hampshire, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody",
+        "Domestic Violence",
+        "Father's Rights",
+        "Litigation and Appeals",
+        "Military Divorce"
       ]
     },
     {
@@ -19671,6 +20498,12 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Real Estate"
       ]
     },
     {
@@ -19752,6 +20585,11 @@
             "Massachusetts, 1996"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -19786,7 +20624,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "danielle-pomeroy",
@@ -19828,7 +20667,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-c-prather",
@@ -19919,6 +20759,9 @@
             "New Hampshire, 2022"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -20054,7 +20897,8 @@
             "New Hampshire Bar Association Corporation, Banking & Business Law Section"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michelle-proctus",
@@ -20145,6 +20989,9 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -20266,6 +21113,10 @@
             "New York Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Real Estate"
       ]
     },
     {
@@ -20392,6 +21243,11 @@
             "National Association of Bond Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Debtor and Creditor",
+        "Bankruptcy"
       ]
     },
     {
@@ -20508,6 +21364,10 @@
             "New Hampshire Employment Law Letter (Editor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Insurance Defense"
       ]
     },
     {
@@ -20606,6 +21466,12 @@
             "New Hampshire Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Litigation and Appeals",
+        "Securities",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -20696,6 +21562,11 @@
             "NH Association of Criminal Defense Attorneys, 2000 - 2019 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -20797,7 +21668,8 @@
             "American Trial Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-c-ransmeier",
@@ -20903,6 +21775,13 @@
             "New Hampshire State Chair for the American College of Trust and Estates Counsel (“ACTEC”)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Probate",
+        "Tax Law",
+        "Trusts"
       ]
     },
     {
@@ -20975,6 +21854,11 @@
             "New Hampshire Commercial Investment Board of Realtors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Employment Rights",
+        "Real Estate"
       ]
     },
     {
@@ -21093,6 +21977,10 @@
             "Sigma Alpha Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Business Organizations"
       ]
     },
     {
@@ -21261,6 +22149,9 @@
             "Employers Counsel Network; New Hampshire/New England law letter (Member/Editor)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -21358,6 +22249,10 @@
             "Collaborative Law Alliance of New Hampshire (Board member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Family Law"
       ]
     },
     {
@@ -21478,6 +22373,10 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Securities"
       ]
     },
     {
@@ -21622,6 +22521,9 @@
             "New Hampshire Commission for Human Rights, 1979 - 1985 (Former Member and Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -21725,6 +22627,13 @@
             "New York State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Probate",
+        "Land Use and Zoning",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -21840,6 +22749,10 @@
             "Provisors – Portsmouth Group, Boston Estate and Succession Planning Affinity Group, and Boston Women’s Affinity Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -21886,7 +22799,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lyndsay-n-robinson",
@@ -21984,6 +22898,11 @@
             "Member, Saint Anselm College Alumni Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -22086,7 +23005,8 @@
             "Maine"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brian-rose",
@@ -22131,7 +23051,14 @@
         "Civil Litigation",
         "Foreclosure Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Real Estate",
+        "Family Law",
+        "Personal Injury",
+        "Foreclosure and Alternatives"
+      ]
     },
     {
       "slug": "james-d-rosenberg",
@@ -22265,6 +23192,11 @@
             "Judicial Selection Commission, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -22378,6 +23310,9 @@
             "New Hampshire Women’s Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -22481,6 +23416,10 @@
             "New Hampshire Women’s Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -22576,7 +23515,8 @@
             "Abby Greenleaf Library (Past Board Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "richard-e-samdperil",
@@ -22727,6 +23667,11 @@
             "NHBA, Ethics Committee (Present Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -22790,7 +23735,8 @@
             "New Hampshire, 1978"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ora-schwartzberg",
@@ -22896,6 +23842,9 @@
             "NH Bar Association (Member Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate"
       ]
     },
     {
@@ -23002,6 +23951,12 @@
             "Member of the Bar- New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Business and Commercial Law",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -23061,6 +24016,14 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business Organizations",
+        "Landlord and Tenant",
+        "Real Estate",
+        "Estate Planning",
+        "Personal Injury"
       ]
     },
     {
@@ -23151,6 +24114,13 @@
             "The American Academy for Certified Financial Litigators (Founding Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -23257,6 +24227,32 @@
             "U.S. Supreme Court, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Civil Rights",
+        "Sexual Harassment",
+        "Constitutional Law",
+        "Discrimination",
+        "Construction",
+        "Education",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Family Law",
+        "Government Agencies and Programs",
+        "Health Care Law",
+        "Insurance Law",
+        "Labor Law",
+        "Litigation and Appeals",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Real Estate",
+        "Eminent Domain",
+        "Land Use and Zoning",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -23394,6 +24390,10 @@
             "International Society of Barristers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Insurance Defense"
       ]
     },
     {
@@ -23510,6 +24510,15 @@
             "New Hampshire Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Domestic Violence",
+        "Personal Injury",
+        "ADR Arbitration and Mediation",
+        "Family Law",
+        "Trusts",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -23595,6 +24604,9 @@
             "Maryland, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -23637,7 +24649,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peggy-l-small",
@@ -23734,6 +24747,9 @@
             "ABA, 1992 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -23862,6 +24878,9 @@
             "New Hampshire Bar Association, Workers' Compensation Section, January 1, 2024 - Present (Clerk)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -23982,6 +25001,12 @@
             "New Hampshire Bar Association (Certified Mediator)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Premises Liability",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -24079,6 +25104,15 @@
             "Member of the Christian Legal Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence",
+        "Estate Planning",
+        "Bankruptcy"
       ]
     },
     {
@@ -24128,7 +25162,8 @@
             "Associate"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-stanwood",
@@ -24222,6 +25257,11 @@
             "New Hampshire Association for Justice (Active member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice"
       ]
     },
     {
@@ -24257,7 +25297,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "jon-n-strasburger",
@@ -24342,6 +25383,9 @@
             "American Academy for Certified Financial Litigators (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -24443,6 +25487,13 @@
             "New Hampshire Bar Association (Attorney)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Business and Commercial Law",
+        "Family Law",
+        "Estate Planning",
+        "Criminal Defense"
       ]
     },
     {
@@ -24547,7 +25598,8 @@
             "Massachusetts"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "r-peter-taylor",
@@ -24658,6 +25710,11 @@
             "New Hampshire Trial Lawyers Association (Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -24788,6 +25845,11 @@
             "New Hampshire Bar Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -24957,6 +26019,9 @@
             "Phi Beta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -25092,6 +26157,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -25214,6 +26284,10 @@
             "Massachusetts Academy of Trial Attorneys, 2016 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -25333,6 +26407,10 @@
             "Massachusetts Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -25367,7 +26445,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "brian-d-thomas",
@@ -25504,6 +26583,9 @@
             "Past President, Manchester Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -25587,6 +26669,11 @@
             "New Hampshire, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Trusts"
       ]
     },
     {
@@ -25648,6 +26735,12 @@
             "Maine Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -25776,7 +26869,8 @@
             "U.S. Court of Appeals 2nd Circuit"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gordon-unzen",
@@ -25841,6 +26935,10 @@
             "New Hampshire"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Social Security Disability"
       ]
     },
     {
@@ -26000,6 +27098,9 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -26154,6 +27255,9 @@
             "American Bar Association, Intellectual Property Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -26276,6 +27380,9 @@
             "New Hampshire Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -26424,6 +27531,10 @@
             "National Employment Law Association, New Hampshire Chapter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -26566,6 +27677,11 @@
             "New Hampshire House of Representatives, 2004 - 2006 (Representative)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Social Security"
       ]
     },
     {
@@ -26670,6 +27786,13 @@
             "New Hampshire Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -26750,6 +27873,10 @@
             "U.S. District Court District of New Hampshire, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -26845,6 +27972,13 @@
             "New Hampshire Association of Criminal Defense Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Motor Vehicle Defects",
+        "DUI and DWI",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -26931,7 +28065,8 @@
             "Joan Loring Wing Inn of Court (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "jonathan-b-whitcomb",
@@ -27045,6 +28180,9 @@
             "Co-Chair of the NHBA IP Section, 2017/2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -27104,6 +28242,11 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Estate Planning",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -27202,6 +28345,9 @@
             "New Hampshire Association of Criminal Defense Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -27246,7 +28392,8 @@
             "New Hampshire, 1986"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-a-wolkowski",
@@ -27372,6 +28519,11 @@
             "American Bar Association, 1986 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Social Security Disability"
       ]
     },
     {
@@ -27478,6 +28630,9 @@
             "Massachusetts Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     }
   ],
@@ -27541,19 +28696,15 @@
         "Brittney M. White"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Criminal Defense",
-        "Divorce and Separation",
-        "Employment Rights",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Landlord and Tenant",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Probate",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Criminal Defense",
+        "Workers' Compensation",
+        "Family Law",
         "Real Estate",
-        "Workers' Compensation"
+        "Employment Rights",
+        "Litigation and Appeals"
       ],
       "additional_locations": [
         {
@@ -27669,15 +28820,13 @@
         "Henry L. Tipping"
       ],
       "official_practice_area": [
-        "Administrative Law",
         "Business and Commercial Law",
-        "Employment Rights",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
         "Real Estate",
-        "State Local and Municipal Law"
+        "Employment Rights",
+        "State Local and Municipal Law",
+        "Administrative Law"
       ],
       "additional_locations": [
         {
@@ -27788,11 +28937,10 @@
         "Michelle Proctus"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Child Support",
-        "Divorce and Separation",
         "Family Law",
-        "Same Sex"
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ],
       "additional_locations": [
         {
@@ -27895,10 +29043,8 @@
         "Cristina Rousseau"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
+        "Car Accidents",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -27944,8 +29090,6 @@
         "John A. Wolkowski"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -27995,11 +29139,9 @@
         "Timothy E. Bush"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Personal Injury",
-        "Traffic Ticket"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -28050,17 +29192,14 @@
         "Bradford H. Coates"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Brain Injury",
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
+        "Car Accidents",
         "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Brain Injury",
+        "Animal and Dog Bites",
+        "Premises Liability",
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -28117,13 +29256,9 @@
         "William G. Noonan Esq."
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Social Security",
-        "Social Security Disability",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Social Security Disability"
       ],
       "additional_locations": [
         {
@@ -28188,19 +29323,13 @@
         "Thomas J. Corcoran Esquire"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Divorce and Separation",
+        "Wills",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Divorce and Separation",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
-        "Wills",
-        "Workers' Compensation"
+        "Construction Accident"
       ],
       "additional_locations": [
         {
@@ -28309,16 +29438,13 @@
         "Bradley Keaveney"
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
+        "Nursing Home Abuse",
+        "Medical Malpractice",
         "Workers' Compensation",
+        "Construction Accident",
+        "Birth Injury",
+        "Brain Injury",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -28369,11 +29495,10 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Insurance Law",
         "Probate",
-        "Real Estate",
+        "Wills",
         "Trusts",
-        "Wills"
+        "Real Estate"
       ],
       "additional_locations": []
     },
@@ -28421,13 +29546,10 @@
         "Darlene M. Daniele"
       ],
       "official_practice_area": [
+        "Social Security Disability",
         "Bankruptcy",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate",
-        "Social Security Disability"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -28469,8 +29591,8 @@
         "Meegan Reis Esq."
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -28611,8 +29733,8 @@
         "Kelleigh Gleason"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Family Law"
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": [
         {
@@ -28675,13 +29797,13 @@
         "Monique Ann Olson"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
-        "Family Law",
         "Personal Injury",
-        "Wrongful Death"
+        "Domestic Violence",
+        "Assault and Battery (Plaintiff)",
+        "Wrongful Death",
+        "Brain Injury"
       ],
       "additional_locations": [
         {
@@ -28735,9 +29857,7 @@
         "Nicholas C. Howie"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Criminal Defense"
       ],
       "additional_locations": [
         {
@@ -28841,12 +29961,10 @@
         "Miriama Sýkorová"
       ],
       "official_practice_area": [
-        "Aviation",
-        "Business and Commercial Law",
-        "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Business and Commercial Law",
+        "Aviation",
+        "Estate Planning"
       ],
       "additional_locations": [
         {
@@ -28902,11 +30020,8 @@
         "F. Michael Keefe"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -28955,12 +30070,12 @@
         "Peggy L. Small"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Collections",
-        "Criminal Defense",
         "Family Law",
+        "Criminal Defense",
+        "Bankruptcy",
         "Personal Injury",
-        "Wills"
+        "Wills",
+        "Collections"
       ],
       "additional_locations": []
     },
@@ -29004,8 +30119,8 @@
         "Matthew St. Hilaire"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Employment Rights"
+        "Employment Rights",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -29061,16 +30176,14 @@
         "Brian Rose"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Estate Planning",
-        "Family Law",
-        "Foreclosure and Alternatives",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
+        "Criminal Defense",
         "Real Estate",
-        "Trusts",
-        "Wills"
+        "Family Law",
+        "Personal Injury",
+        "Foreclosure and Alternatives",
+        "Wills",
+        "Trusts"
       ],
       "additional_locations": []
     },
@@ -29123,12 +30236,12 @@
         "Matthew R. Newborn"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Car Accidents",
         "Personal Injury",
         "Premises Liability",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Brain Injury",
+        "Dangerous Products"
       ],
       "additional_locations": []
     },
@@ -29175,9 +30288,9 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Probate",
         "Trusts",
-        "Wills"
+        "Wills",
+        "Probate"
       ],
       "additional_locations": []
     },
@@ -29224,9 +30337,9 @@
         "Kelly L. Petrakis"
       ],
       "official_practice_area": [
+        "Family Law",
         "Child Custody",
-        "Divorce and Separation",
-        "Family Law"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -29438,7 +30551,6 @@
         "James A Shuchman"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Real Estate"
       ],
       "additional_locations": [
@@ -29494,12 +30606,10 @@
         "Joseph E. Welsh"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Criminal Defense",
         "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Personal Injury",
+        "Car Accidents"
       ],
       "additional_locations": [
         {
@@ -29598,8 +30708,7 @@
         "John P. Sherman"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": []
     },
@@ -29661,17 +30770,14 @@
         "Jon N. Strasburger"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Child Custody",
-        "Child Support",
-        "DUI and DWI",
-        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody",
         "Personal Injury",
-        "Professional Malpractice",
+        "Car Accidents",
+        "Medical Malpractice",
+        "DUI and DWI",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -29721,10 +30827,10 @@
         "James J. Tenn Jr."
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Criminal Defense",
-        "Divorce and Separation",
         "Family Law",
-        "Personal Injury"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -29770,11 +30876,10 @@
         "William Trafidlo"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
         "Drug Crime",
-        "Federal and White Collar Crimes"
+        "Assault and Battery (Plaintiff)"
       ],
       "additional_locations": []
     },
@@ -29820,10 +30925,9 @@
         "Christopher F. Wells"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime",
+        "Assault and Battery (Plaintiff)",
         "Federal and White Collar Crimes"
       ],
       "additional_locations": []
@@ -29878,7 +30982,14 @@
         "Jaye Duncan",
         "Michael S. McCarthy"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Bankruptcy",
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -29917,7 +31028,9 @@
       "attorneys": [
         "Alexander S. Buchanan"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -29959,7 +31072,10 @@
       "attorneys": [
         "John W. Dennehy"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Construction",
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -30014,7 +31130,22 @@
         "Derek R Durbin",
         "Viviana J Durbin"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Contracts",
+        "Business Organizations",
+        "Environmental Law",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Family Law",
+        "Divorce and Separation",
+        "Immigration",
+        "Litigation and Appeals",
+        "Probate",
+        "Real Estate",
+        "Land Use and Zoning",
+        "Landlord and Tenant"
+      ],
       "additional_locations": []
     },
     {
@@ -30058,7 +31189,10 @@
       "attorneys": [
         "Hope M. Flynn"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -30098,7 +31232,9 @@
         "Rebecca E. Beauregard",
         "Sarunna Jin"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ],
       "additional_locations": []
     },
     {
@@ -30137,7 +31273,9 @@
       "attorneys": [
         "Justin P. Nadeau"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -30178,7 +31316,10 @@
       "attorneys": [
         "Gabriel Nizetic"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -30216,7 +31357,9 @@
       "attorneys": [
         "Mary Notaris"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -30263,7 +31406,11 @@
       "attorneys": [
         "Bainbridge D. Testa"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Personal Injury",
+        "Wrongful Death"
+      ],
       "additional_locations": []
     }
   ]

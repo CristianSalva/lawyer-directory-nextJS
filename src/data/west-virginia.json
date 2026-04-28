@@ -112,6 +112,12 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Car Accidents"
       ]
     },
     {
@@ -227,6 +233,12 @@
             "Omicron Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Banking and Finance Law",
+        "Real Estate"
       ]
     },
     {
@@ -296,6 +308,11 @@
             "U.S. Court of Appeals 4th Circuit, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Bankruptcy",
+        "Probate"
       ]
     },
     {
@@ -331,7 +348,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "george-j-anetakis",
@@ -425,6 +443,14 @@
             "Phi Delta Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Real Estate",
+        "Probate",
+        "Insurance Law"
       ]
     },
     {
@@ -460,7 +486,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-bailey",
@@ -600,6 +627,10 @@
             "Pi Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -662,6 +693,9 @@
             "West Virginia, 2014"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -807,6 +841,9 @@
             "West Virginia State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -890,6 +927,14 @@
             "Ohio Department of Rehabilitation of Correction, Law Clerk, May 1, 1997 - May 1, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death",
+        "Birth Injury"
       ]
     },
     {
@@ -938,6 +983,10 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Insurance Law"
       ]
     },
     {
@@ -1050,6 +1099,15 @@
             "Chairperson of the St. Francis de Sales Central Catholic School Board, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Family Law",
+        "Probate",
+        "Real Estate",
+        "Social Security Disability"
       ]
     },
     {
@@ -1142,6 +1200,9 @@
             "Board of Directors of the Traumatic Brain Injury Litigation Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1224,6 +1285,12 @@
             "U.S. District Court Southern District of West Virginia, 1998"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Law",
+        "Bad Faith Insurance",
+        "Motor Vehicle Defects",
+        "Personal Injury"
       ]
     },
     {
@@ -1320,6 +1387,13 @@
             "Kentucky State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Wrongful Death",
+        "Premises Liability",
+        "Insurance Law"
       ]
     },
     {
@@ -1431,6 +1505,9 @@
             "Gamma Beta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1530,6 +1607,12 @@
             "West Virginia Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Bankruptcy"
       ]
     },
     {
@@ -1638,6 +1721,20 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Wrongful Death",
+        "Employment Rights",
+        "Criminal Defense",
+        "Medical Malpractice",
+        "Business Organizations",
+        "Family Law",
+        "Sexual Harassment",
+        "Elder Law",
+        "Adoption",
+        "Wills"
       ]
     },
     {
@@ -1730,6 +1827,11 @@
             "DRI, 2013 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Bad Faith Insurance",
+        "Collections"
       ]
     },
     {
@@ -1840,6 +1942,22 @@
             "U.S. District Court Southern District of West Virginia, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Bad Faith Insurance",
+        "Business and Commercial Law",
+        "Construction",
+        "Criminal Defense",
+        "Environmental Law",
+        "Family Law",
+        "Insurance Defense",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Social Security Disability",
+        "Toxic Torts"
       ]
     },
     {
@@ -1918,6 +2036,10 @@
             "Association of Defense Trial Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -2002,6 +2124,12 @@
             "Jefferson County Teen Court program, Volunteer"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -2084,6 +2212,12 @@
             "Defense Trial Council (Former Member of Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business Organizations",
+        "Contracts",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -2196,6 +2330,10 @@
             "Academy of Truck Accident Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -2264,6 +2402,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -2363,6 +2504,13 @@
             "National Organization of Social Security Claimants' Representatives (NOSSCR) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security",
+        "Personal Injury",
+        "Workers' Compensation",
+        "Family Law",
+        "Child Custody"
       ]
     },
     {
@@ -2410,6 +2558,9 @@
           "type": "text",
           "content": "Partner, W. Kent Carper, has devoted twenty three years of his life to the legal profession. However, practicing law is just one of the many things that Mr. Carper does with his time. In addition to his practice, Mr. Carper devotes a great deal of his time to serving his community.\n\nMr. Carper has been a member of the Kanawha County Commission since July 1996. As a commissioner, he is responsible for setting the budget for the county, which includes appropriating funds for the Prosecuting Attorney's office, the Sheriff's Department, the County and Circuit Clerk's offices, and the Assessor's office. In addition to his work on the County Commission, Mr. Carper is a former paramedic, former Chief of Police for Charleston, West Virginia, as well as a former Kanawha County Assistant Prosecuting Attorney.\n\nMr. Carper believes that public service is very important to the legal profession. \"As part of his commitment to the public, a lawyer has an obligation to do community work,\" Mr. Carper said.\n\nMr. Carper himself, however, does not see his role in public service as an obligation as much as a diversion. \"I really enjoy public service,\" Mr. Carper said. \"To me, it is a labor of love.\"\n\nIn addition to his work in the public sector, Mr. Carper is also a ham radio operator, something that he is very proud of. He calls ham radio, or amateur radio, a precursor to the Internet; the \"old fashioned\" way of talking to people all over the world. In times of emergency, Mr. Carper serves as a volunteer ham operator.\n\nIn terms of his legal practice, Mr. Carper does ninety-nine percent personal injury work, although he has occasionally participated in criminal defense, as he has a background in criminal justice. His cases range from small insurance pay-offs to larger ones, but he is a firm believer that every case, no matter what the monetary value, is significant. \"Every case is the most important one to the client,\" Mr. Carper said, \"and to me there is no insignificant case.\""
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2452,7 +2603,11 @@
         "Motor Vehicle Accidents - Plaintiff",
         "Traffic Violations"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Personal Injury"
+      ]
     },
     {
       "slug": "tim-c-carrico",
@@ -2526,6 +2681,11 @@
             "U.S. District Court Northern District of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Child Support",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -2628,6 +2788,10 @@
             "The West Virginia State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -2742,6 +2906,10 @@
             "West Virginia Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction Accident",
+        "Workers' Compensation"
       ]
     },
     {
@@ -2871,6 +3039,10 @@
             "Christian Legal Society, Member, Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Premises Liability",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -2935,6 +3107,9 @@
             "West Virginia, 1983"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law"
       ]
     },
     {
@@ -3028,6 +3203,10 @@
             "Kanawha County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury"
       ]
     },
     {
@@ -3112,6 +3291,12 @@
             "Ohio"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Wrongful Death",
+        "Professional Malpractice"
       ]
     },
     {
@@ -3214,6 +3399,10 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Real Estate"
       ]
     },
     {
@@ -3336,6 +3525,16 @@
             "Sigma Sigma Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Discrimination",
+        "Sexual Harassment",
+        "Wrongful Termination",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -3391,6 +3590,14 @@
             "West Virginia, 1992"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Real Estate",
+        "Probate",
+        "Insurance Law"
       ]
     },
     {
@@ -3463,6 +3670,11 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Dangerous Products",
+        "Class Actions"
       ]
     },
     {
@@ -3557,6 +3769,11 @@
             "National Organization of Veterans' Advocates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security",
+        "Veteran's Benefits",
+        "Personal Injury"
       ]
     },
     {
@@ -3647,6 +3864,9 @@
             "American Association for Justice, March 1, 2014 - Present (Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3745,6 +3965,12 @@
             "Alpha Sigma Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -3838,6 +4064,13 @@
             "Ohio, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Health Care Law",
+        "Oil Gas and Energy",
+        "Personal Injury"
       ]
     },
     {
@@ -3931,6 +4164,9 @@
             "U.S. District Court Southern District of Ohio, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4082,6 +4318,10 @@
             "West Virginia Women Attorneys (Founding Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents"
       ]
     },
     {
@@ -4196,6 +4436,13 @@
             "West Virginia Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Criminal Defense",
+        "Legal Malpractice",
+        "Litigation and Appeals",
+        "Personal Injury"
       ]
     },
     {
@@ -4323,6 +4570,9 @@
             "West Virginia Oil and Natural Gas Association (Member )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals"
       ]
     },
     {
@@ -4418,6 +4668,9 @@
             "U.S. Court of Appeals 4th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4499,6 +4752,15 @@
             "West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Oil Gas and Energy",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -4605,6 +4867,9 @@
             "West Virginia Democratic Executive Committee (Former Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4719,6 +4984,9 @@
             "United States Supreme Court Historical Society"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4859,6 +5127,15 @@
             "Delta Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts",
+        "Insurance Defense",
+        "Environmental Law",
+        "Personal Injury Defense",
+        "Car Accidents",
+        "Administrative Law",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5055,6 +5332,25 @@
             "El Paso County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Civil Rights",
+        "Estate Planning",
+        "Ethics and Professional Responsibility",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Professional Malpractice",
+        "Legal Malpractice",
+        "Real Estate"
       ]
     },
     {
@@ -5148,6 +5444,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Personal Injury"
       ]
     },
     {
@@ -5234,6 +5534,10 @@
             "U.S. District Court Western District of Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -5363,6 +5667,11 @@
             "Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -5465,6 +5774,9 @@
             "Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination"
       ]
     },
     {
@@ -5577,6 +5889,12 @@
             "Omicron Delta Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Business and Commercial Law",
+        "Construction"
       ]
     },
     {
@@ -5656,6 +5974,11 @@
             "U.S. Federal Courts, 1973"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Estate Planning"
       ]
     },
     {
@@ -5769,6 +6092,9 @@
             "House of Delegates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -5879,6 +6205,13 @@
             "Delta Sigma Pi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "Medical Malpractice",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -5964,6 +6297,15 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Real Estate",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -6044,6 +6386,10 @@
             "West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Adoption"
       ]
     },
     {
@@ -6180,6 +6526,12 @@
             "Cabell County Bar Association, 1992 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -6283,6 +6635,10 @@
             "West Virginia State Bar, 1980 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Health Care Law",
+        "Medical Malpractice"
       ]
     },
     {
@@ -6369,6 +6725,9 @@
             "U.S. District Court Northern District of West Virginia, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -6480,6 +6839,12 @@
             "Cabell County Bar Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Death",
+        "Premises Liability",
+        "Transportation"
       ]
     },
     {
@@ -6596,6 +6961,18 @@
             "U.S. District Court Northern District of West Virginia, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection",
+        "Auto Dealer Fraud",
+        "Lemon Law",
+        "Discrimination",
+        "Sexual Harassment",
+        "Civil Rights",
+        "Wrongful Termination",
+        "Personal Injury",
+        "Car Accidents",
+        "Environmental Law"
       ]
     },
     {
@@ -6643,6 +7020,9 @@
           "type": "text",
           "content": "Help us welcome Kelly Guice to the Jan Dils legal team. Kelly comes to our firm with a wealth of experience. Kelly has a strong civil litigation background and has tried over 50 cases to verdict. Prior to joining our team, Kelly specialized in the areas of products liability and mass and toxic torts; however, her experience with personal injury claims of many types is diverse. Kelly provides legal services to clients throughout West Virginia and Ohio. She is a native of Parkersburg and has strong ties and active commitments to the community. Kelly has the experience, knowledge, and skills that make her an ideal addition to our Personal Injury team. Welcome to the family Kelly!"
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -6676,7 +7056,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "lee-murray-hall",
@@ -6805,6 +7186,14 @@
             "Civil Justice Committee, West Virginia Chamber of Commerce (Vice Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Civil Rights",
+        "Personal Injury Defense",
+        "Transportation",
+        "Construction",
+        "Medical Malpractice"
       ]
     },
     {
@@ -6845,7 +7234,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "aaron-l-harrah",
@@ -6916,6 +7306,9 @@
             "U.S. District Court Southern District of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trusts"
       ]
     },
     {
@@ -7011,6 +7404,11 @@
             "Defense Trial Counsel of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Housing and Construction Defects",
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -7117,6 +7515,19 @@
             "U.S. District Court Southern District of West Virginia, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Domestic Violence",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury",
+        "Wrongful Death",
+        "Military Divorce",
+        "Nursing Home Abuse",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -7204,7 +7615,8 @@
             "American Bar Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "james-william-heslep",
@@ -7350,7 +7762,8 @@
             "Omicron Delta Epsilon"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "r-edison-hill",
@@ -7423,6 +7836,9 @@
             "Senior Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -7488,7 +7904,8 @@
             "U.S. Bankruptcy Court Southern District of West Virginia, 2006"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "g-todd-houck",
@@ -7613,6 +8030,23 @@
             "Wyoming Co. Lawyers Association, 2005 - Present (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Child Support",
+        "Wrongful Death",
+        "Probate",
+        "Real Estate",
+        "Adoption",
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Civil Rights",
+        "Employment Rights",
+        "Estate Planning",
+        "Family Law",
+        "Government Agencies and Programs",
+        "Personal Injury Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -7701,6 +8135,15 @@
             "U.S. District Court Northern District of West Virginia, 1976"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Elder Law",
+        "Estate Planning",
+        "Probate",
+        "Real Estate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -7820,6 +8263,12 @@
             "Cabell County Bar Association, 2002 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Debtor and Creditor",
+        "Bankruptcy",
+        "Collections",
+        "Contracts"
       ]
     },
     {
@@ -7974,6 +8423,10 @@
             "Trial Lawyers for Public Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -8075,6 +8528,13 @@
             "Mountaineer Sports Network, play by play, West Virginia University Men's and Women's Soccer, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Real Estate",
+        "Bankruptcy"
       ]
     },
     {
@@ -8192,7 +8652,8 @@
             "Zeta Tau Alpha"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "charles-m-johnstone-ii",
@@ -8309,6 +8770,12 @@
             "Delta Tau Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Business and Commercial Law",
+        "Construction"
       ]
     },
     {
@@ -8422,6 +8889,11 @@
             "The National Trial Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Wrongful Death"
       ]
     },
     {
@@ -8582,6 +9054,21 @@
             "Raleigh County Bar Association, 2007 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Asbestos Mesothelioma",
+        "Car Accidents",
+        "Civil Rights",
+        "Construction",
+        "Business and Commercial Law",
+        "Education",
+        "Employment Rights",
+        "Environmental Law",
+        "Insurance Defense",
+        "Insurance Law",
+        "Labor Law",
+        "Premises Liability",
+        "Toxic Torts"
       ]
     },
     {
@@ -8668,6 +9155,10 @@
             "Belmont National Bank (Director)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -8761,6 +9252,10 @@
             "Christ Episcopal Church (Lifetime Member, Vestryman (3-Terms), Senior Warden)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -8830,6 +9325,12 @@
             "U.S. Court of Appeals 6th Circuit, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Elder Law",
+        "Estate Planning"
       ]
     },
     {
@@ -8923,6 +9424,15 @@
             "Kappa Kappa Gamma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Family Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Business and Commercial Law",
+        "Personal Injury Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -8993,6 +9503,10 @@
             "U.S. District Court Northern District of West Virginia, 1973"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -9091,6 +9605,12 @@
             "The West Virginia Bar Association, Member, 2012 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Civil Rights",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9177,6 +9697,14 @@
             "Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Wrongful Termination",
+        "Discrimination",
+        "Workers' Compensation",
+        "Patents"
       ]
     },
     {
@@ -9268,6 +9796,9 @@
             "Alpha Xi Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -9365,6 +9896,9 @@
             "Pi Kappa Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts"
       ]
     },
     {
@@ -9454,6 +9988,13 @@
             "West Virginia Bar Association (Kanawha County representative to the Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Wrongful Termination",
+        "Premises Liability"
       ]
     },
     {
@@ -9541,6 +10082,14 @@
             "Ohio"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Oil Gas and Energy",
+        "Personal Injury",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -9631,6 +10180,10 @@
             "American Association for Justice (West Virginia Delegate)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9732,6 +10285,14 @@
             "U.S. District Court Western District of North Carolina, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Employment Rights",
+        "Personal Injury",
+        "Health Care Law",
+        "Asbestos Mesothelioma",
+        "Toxic Torts"
       ]
     },
     {
@@ -9828,6 +10389,9 @@
             "Diversity Law Institure (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -9929,6 +10493,10 @@
             "West Virginia Defense Trial Counsel, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Criminal Defense"
       ]
     },
     {
@@ -9990,6 +10558,9 @@
             "U.S. District Court Southern District of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -10101,6 +10672,13 @@
             "American Farm Bureau Federation, 2000 - 2002 (National Young Farmer and Rancher Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Eminent Domain",
+        "Personal Injury",
+        "Estate Planning",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -10196,6 +10774,12 @@
             "Iota-Xi Chapter of Tau Kappa Epsilon International Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Car Accidents",
+        "Truck Accident"
       ]
     },
     {
@@ -10293,6 +10877,10 @@
             "Barboursville Rotary Club, 2018 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Employment Rights"
       ]
     },
     {
@@ -10379,6 +10967,9 @@
             "U.S. District Court Southern District of West Virginia, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -10468,6 +11059,12 @@
             "Defense Research Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Insurance Law",
+        "Personal Injury Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -10552,6 +11149,15 @@
             "American Board of Trial Advocates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Employment Law (Employer)",
+        "Insurance Law",
+        "Labor Law",
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -10682,6 +11288,15 @@
             "Kanawha County Bar Association, December 1, 1998 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Employment Rights",
+        "Personal Injury",
+        "Natural Resources",
+        "Health Care Law",
+        "Premises Liability",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -10717,7 +11332,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4796384_1",
@@ -10753,7 +11369,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3609161_1",
@@ -10790,7 +11407,10 @@
       "practice_areas": [
         "General Civil Litigation & Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "5082768_1",
@@ -10825,7 +11445,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3450640_1",
@@ -10863,7 +11484,10 @@
       "practice_areas": [
         "General Civil Litigation & Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "1352388_1",
@@ -10901,7 +11525,10 @@
       "practice_areas": [
         "General Civil Litigation & Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "4176651_1",
@@ -10939,7 +11566,10 @@
       "practice_areas": [
         "Real Estate"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "4367557_1",
@@ -10977,7 +11607,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2460215_1",
@@ -11015,7 +11646,10 @@
       "practice_areas": [
         "General Civil Litigation and Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "3399322_1",
@@ -11053,7 +11687,10 @@
       "practice_areas": [
         "General Civil Litigation & Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "4252658_1",
@@ -11091,7 +11728,10 @@
       "practice_areas": [
         "General Civil Litigation & Insurance Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "2010051_1",
@@ -11129,7 +11769,8 @@
       "practice_areas": [
         "Commercial Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4675640_1",
@@ -11166,7 +11807,8 @@
       "practice_areas": [
         "General Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2940325_1",
@@ -11203,7 +11845,8 @@
       "practice_areas": [
         "Bond Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4527545_1",
@@ -11240,7 +11883,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3179268_1",
@@ -11277,7 +11921,10 @@
       "practice_areas": [
         "Civil Rights Claims"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Civil Rights"
+      ]
     },
     {
       "slug": "3999352_1",
@@ -11314,7 +11961,10 @@
       "practice_areas": [
         "Breach of Contract"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Contracts"
+      ]
     },
     {
       "slug": "3999306_1",
@@ -11351,7 +12001,8 @@
       "practice_areas": [
         "General Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4867468_1",
@@ -11388,7 +12039,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5362958_1",
@@ -11428,7 +12080,10 @@
       "practice_areas": [
         "Oil & Gas"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ]
     },
     {
       "slug": "2211995_1",
@@ -11465,7 +12120,8 @@
       "practice_areas": [
         "Construction/Property Damage"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1291792_1",
@@ -11503,7 +12159,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1421908_1",
@@ -11542,7 +12199,10 @@
       "practice_areas": [
         "Insurance bad faith"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ]
     },
     {
       "slug": "5362960_1",
@@ -11582,7 +12242,10 @@
       "practice_areas": [
         "Social Security Disability"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Social Security Disability"
+      ]
     },
     {
       "slug": "1280730_1",
@@ -11620,7 +12283,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1678227_1",
@@ -11658,7 +12322,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3419491_1",
@@ -11698,7 +12363,10 @@
       "practice_areas": [
         "Personal Injury"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ]
     },
     {
       "slug": "1079238_1",
@@ -11735,7 +12403,10 @@
       "practice_areas": [
         "Real Estate Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Real Estate"
+      ]
     },
     {
       "slug": "1352580_1",
@@ -11772,7 +12443,10 @@
       "practice_areas": [
         "Business & Commercial Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "2449171_1",
@@ -11809,7 +12483,8 @@
       "practice_areas": [
         "Torts"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2079932_1",
@@ -11844,7 +12519,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3348630_1",
@@ -11881,7 +12557,8 @@
       "practice_areas": [
         "General Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3913483_1",
@@ -11920,7 +12597,10 @@
       "practice_areas": [
         "Construction Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Construction"
+      ]
     },
     {
       "slug": "1068113_1",
@@ -11959,7 +12639,8 @@
       "practice_areas": [
         "Defense Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4918929_1",
@@ -11998,7 +12679,8 @@
       "practice_areas": [
         "Defense Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1001406_1",
@@ -12037,7 +12719,10 @@
       "practice_areas": [
         "Business Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ]
     },
     {
       "slug": "1637168_1",
@@ -12076,7 +12761,8 @@
       "practice_areas": [
         "Defense Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "3543764_1",
@@ -12115,120 +12801,9 @@
       "practice_areas": [
         "Insurance Defense"
       ],
-      "sections": []
-    },
-    {
-      "slug": "d-blake-jr-carter-jr",
-      "type": "attorney",
-      "name": "D. Blake \"J.R.\" Carter Jr.",
-      "firm_name": "Bailey, Javins & Carter, L.C.",
-      "firm_slug": "bailey-javins-carter-l-c",
-      "practice_type": "Catastrophic Injury Lawyers in Charleston, WV",
-      "years_experience": null,
-      "free_consultation": true,
-      "super_lawyers": 1,
-      "photo": "/photos/attorneys/d-blake-jr-carter-jr.jpg",
-      "bio": "",
-      "location": {
-        "state": "West Virginia",
-        "state_abbr": "WV",
-        "city": "Charleston",
-        "address": "213 Hale Street",
-        "address2": null,
-        "zip": "25301"
-      },
-      "contact": {
-        "phones": [
-          "866-773-7175",
-          "304-345-0375"
-        ],
-        "fax": "304-345-0375",
-        "websites": [
-          "https://www.baileyjavinscarter.com",
-          "https://www.baileyjavinscarter.com/blog/"
-        ],
-        "hours": null,
-        "features": [
-          "Free Consultations"
-        ]
-      },
-      "practice_areas": [
-        "Catastrophic Injury",
-        "Mining Accidents",
-        "Industrial Accidents",
-        "Trucking Accidents",
-        "Construction Accidents",
-        "Workplace Injury",
-        "Logging and Timbering Accidents",
-        "Products Liability",
-        "Basic Negligence"
-      ],
-      "sections": [
-        {
-          "title": "Education",
-          "type": "grouped_list",
-          "content": [
-            {
-              "label": "Legal Education",
-              "items": [
-                "West Virginia University College of Law, Morgantown, West Virginia, May, 2005",
-                "J.D."
-              ]
-            },
-            {
-              "label": "Non Legal Education",
-              "items": [
-                "West Virginia University, Morgantown, West Virginia, December, 2001",
-                "B.A.",
-                "Major: Economics"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Current Employment Position(s)",
-          "type": "list",
-          "content": [
-            "Attorney"
-          ]
-        },
-        {
-          "title": "Classes and Seminars",
-          "type": "list",
-          "content": [
-            "Settling Personal Injury Claims with Ethical Integrity, Charleston, WV, 2008 - Present"
-          ]
-        },
-        {
-          "title": "Representative Cases",
-          "type": "list",
-          "content": [
-            "San Francisco v. Wendy's Intern., Inc.",
-            "Citation: 221 W.Va. 734, 656 S.E.2d 485",
-            "Court: W.Va",
-            "Year: 2007",
-            "Worley v. Beckley Mechanical, Inc.",
-            "Citation: 220 W.Va. 633, 648 S.E.2d 620",
-            "Court: W.Va."
-          ]
-        },
-        {
-          "title": "Bar Admissions",
-          "type": "list",
-          "content": [
-            "West Virginia, 2005",
-            "U.S. District Court Southern District of West Virginia"
-          ]
-        },
-        {
-          "title": "Other Affiliations",
-          "type": "list",
-          "content": [
-            "West Virginia Bar",
-            "Kanawha County Bar",
-            "West Virginia Association for Justice"
-          ]
-        }
+      "sections": [],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -12343,6 +12918,128 @@
             "West Virginia Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction Accident",
+        "Workers' Compensation"
+      ]
+    },
+    {
+      "slug": "d-blake-jr-carter-jr",
+      "type": "attorney",
+      "name": "D. Blake \"J.R.\" Carter Jr.",
+      "firm_name": "Bailey, Javins & Carter, L.C.",
+      "firm_slug": "bailey-javins-carter-l-c",
+      "practice_type": "Catastrophic Injury Lawyers in Charleston, WV",
+      "years_experience": null,
+      "free_consultation": true,
+      "super_lawyers": 1,
+      "photo": "/photos/attorneys/d-blake-jr-carter-jr.jpg",
+      "bio": "",
+      "location": {
+        "state": "West Virginia",
+        "state_abbr": "WV",
+        "city": "Charleston",
+        "address": "213 Hale Street",
+        "address2": null,
+        "zip": "25301"
+      },
+      "contact": {
+        "phones": [
+          "866-773-7175",
+          "304-345-0375"
+        ],
+        "fax": "304-345-0375",
+        "websites": [
+          "https://www.baileyjavinscarter.com",
+          "https://www.baileyjavinscarter.com/blog/"
+        ],
+        "hours": null,
+        "features": [
+          "Free Consultations"
+        ]
+      },
+      "practice_areas": [
+        "Catastrophic Injury",
+        "Mining Accidents",
+        "Industrial Accidents",
+        "Trucking Accidents",
+        "Construction Accidents",
+        "Workplace Injury",
+        "Logging and Timbering Accidents",
+        "Products Liability",
+        "Basic Negligence"
+      ],
+      "sections": [
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "West Virginia University College of Law, Morgantown, West Virginia, May, 2005",
+                "J.D."
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "West Virginia University, Morgantown, West Virginia, December, 2001",
+                "B.A.",
+                "Major: Economics"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Attorney"
+          ]
+        },
+        {
+          "title": "Classes and Seminars",
+          "type": "list",
+          "content": [
+            "Settling Personal Injury Claims with Ethical Integrity, Charleston, WV, 2008 - Present"
+          ]
+        },
+        {
+          "title": "Representative Cases",
+          "type": "list",
+          "content": [
+            "San Francisco v. Wendy's Intern., Inc.",
+            "Citation: 221 W.Va. 734, 656 S.E.2d 485",
+            "Court: W.Va",
+            "Year: 2007",
+            "Worley v. Beckley Mechanical, Inc.",
+            "Citation: 220 W.Va. 633, 648 S.E.2d 620",
+            "Court: W.Va."
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "West Virginia, 2005",
+            "U.S. District Court Southern District of West Virginia"
+          ]
+        },
+        {
+          "title": "Other Affiliations",
+          "type": "list",
+          "content": [
+            "West Virginia Bar",
+            "Kanawha County Bar",
+            "West Virginia Association for Justice"
+          ]
+        }
+      ],
+      "official_practice_area": [
+        "Construction Accident",
+        "Workers' Compensation"
       ]
     },
     {
@@ -12477,6 +13174,13 @@
             "Monongalia County Habitat for Humanity (Member, Personnel Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Labor Law",
+        "Employment Rights",
+        "Personal Injury",
+        "Litigation and Appeals",
+        "Construction"
       ]
     },
     {
@@ -12558,6 +13262,17 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction",
+        "Employment Rights",
+        "Social Security Disability",
+        "Nursing Home Abuse",
+        "Insurance Law",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -12695,6 +13410,12 @@
             "WV Supreme Court of Appeals, Court Improvement Project"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Social Security Disability",
+        "Personal Injury",
+        "Adoption"
       ]
     },
     {
@@ -12797,6 +13518,11 @@
             "National Association of Royalty Owners"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Workers' Compensation"
       ]
     },
     {
@@ -12968,6 +13694,10 @@
             "Council of Parent Attorneys and Advocates (COPAA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Professional Malpractice"
       ]
     },
     {
@@ -13074,6 +13804,11 @@
             "Allegheny County Bar Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts",
+        "Asbestos Mesothelioma",
+        "Insurance Defense"
       ]
     },
     {
@@ -13203,6 +13938,9 @@
             "Defense Trial Counsel of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts"
       ]
     },
     {
@@ -13255,7 +13993,8 @@
             "U.S. Tax Court, 1984"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kevin-m-pearl",
@@ -13348,6 +14087,14 @@
             "Ohio State Bar Association, 2002 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Employment Rights",
+        "Social Security",
+        "Criminal Defense"
       ]
     },
     {
@@ -13440,6 +14187,12 @@
             "National Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Social Security Disability"
       ]
     },
     {
@@ -13525,6 +14278,11 @@
             "In Re: National Prescription Opiate Litigation (Opioid Epidemic)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Legal Malpractice",
+        "Class Actions"
       ]
     },
     {
@@ -13633,6 +14391,10 @@
             "Board of Governors West Virginia State Bar (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Social Security Disability"
       ]
     },
     {
@@ -13782,7 +14544,8 @@
             "Huntington Museum of Art, Collections Committee Member"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-d-phillips",
@@ -13856,6 +14619,10 @@
             "U.S. Federal Courts, 1932"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Trusts"
       ]
     },
     {
@@ -14056,6 +14823,11 @@
             "Litigation Management Institute (Claims & Litigation Management Professional (CLMP))"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "Insurance Defense",
+        "Environmental Law"
       ]
     },
     {
@@ -14147,6 +14919,11 @@
             "Kentucky Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Construction",
+        "Employment Rights"
       ]
     },
     {
@@ -14250,6 +15027,10 @@
             "Delta Zeta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -14335,6 +15116,11 @@
             "ABA Law Student Organization, 2022 - Present (Vice Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -14469,6 +15255,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation"
       ]
     },
     {
@@ -14609,6 +15401,19 @@
             "West Virginia Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Business and Commercial Law",
+        "Contracts",
+        "Construction",
+        "Ethics and Professional Responsibility",
+        "Insurance Law",
+        "Litigation and Appeals",
+        "Toxic Torts",
+        "Wrongful Death",
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -14708,6 +15513,11 @@
             "WV DUI Defense Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -14811,6 +15621,11 @@
             "West Virginia State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -14917,6 +15732,13 @@
             "Alpha Xi Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Family Law",
+        "Premises Liability"
       ]
     },
     {
@@ -15026,6 +15848,13 @@
             "Eastern Panhandle (West Virginia) Bar Association Bar Admissions"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Bankruptcy",
+        "Employment Rights"
       ]
     },
     {
@@ -15158,6 +15987,15 @@
             "Tri-County Family Bar Association, 2008 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Custody",
+        "Divorce and Separation",
+        "Adoption",
+        "Bankruptcy",
+        "Wills",
+        "Child Support"
       ]
     },
     {
@@ -15354,6 +16192,12 @@
             "Phi Alpha Delta Legal Fraternity"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury",
+        "Collaborative Law",
+        "Eminent Domain"
       ]
     },
     {
@@ -15443,6 +16287,12 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Premises Liability",
+        "Car Accidents"
       ]
     },
     {
@@ -15534,6 +16384,10 @@
             "West Virginia Super Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Real Estate"
       ]
     },
     {
@@ -15631,6 +16485,11 @@
             "Board of Governors and the American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident",
+        "Railroad Worker Injury and FELA",
+        "Premises Liability"
       ]
     },
     {
@@ -15720,6 +16579,11 @@
             "Stafford Farms, LLC (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -15852,6 +16716,14 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wage and Hour",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -15966,6 +16838,15 @@
             "American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Wrongful Death",
+        "Personal Injury",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Class Actions",
+        "Social Security Disability"
       ]
     },
     {
@@ -16095,6 +16976,9 @@
             "West Virginia State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -16212,6 +17096,10 @@
             "Contractor’s Association of West Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Toxic Torts",
+        "Personal Injury"
       ]
     },
     {
@@ -16300,6 +17188,12 @@
             "U.S. District Court Southern District of West Virginia, 2023"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -16422,7 +17316,8 @@
             "Phi Kappa Phi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "shawn-a-taylor",
@@ -16522,6 +17417,9 @@
             "Kanawha County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -16557,7 +17455,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-j-thomas",
@@ -16602,6 +17501,9 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law"
       ]
     },
     {
@@ -16647,6 +17549,9 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law"
       ]
     },
     {
@@ -16757,6 +17662,11 @@
             "Defense Research Institute"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Premises Liability",
+        "Asbestos Mesothelioma"
       ]
     },
     {
@@ -16875,6 +17785,15 @@
             "National Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Brain Injury",
+        "Car Accidents",
+        "Animal and Dog Bites",
+        "Personal Injury",
+        "Premises Liability",
+        "Truck Accident",
+        "Wrongful Death"
       ]
     },
     {
@@ -16993,6 +17912,12 @@
             "West Virginia State Bar, Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Law",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -17103,6 +18028,15 @@
             "West Virginia State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Civil Rights",
+        "Constitutional Law",
+        "Employment Rights",
+        "Insurance Defense",
+        "Premises Liability",
+        "Sexual Harassment",
+        "Wrongful Death"
       ]
     },
     {
@@ -17207,6 +18141,11 @@
             "West Virginia State Bar, 2005"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Social Security",
+        "Criminal Defense"
       ]
     },
     {
@@ -17329,6 +18268,11 @@
             "Huntington Estate Planning Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Estate Planning",
+        "Business Organizations"
       ]
     },
     {
@@ -17418,7 +18362,8 @@
             "Pi Kappa Alpha"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ryan-j-umina-esq",
@@ -17546,6 +18491,19 @@
             "American Association for Justice (AAJ) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Personal Injury",
+        "Brain Injury",
+        "Dangerous Products",
+        "Workers' Compensation",
+        "Premises Liability",
+        "Sexual Harassment",
+        "Sexual Abuse",
+        "Civil Rights",
+        "Discrimination",
+        "Criminal Defense"
       ]
     },
     {
@@ -17708,6 +18666,9 @@
             "National Conference on Media Reform - Boston Seaport World Trade Center, 2011 - Present (Attendee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -17790,6 +18751,9 @@
             "National Organization of Social Security Claimants' Representatives (NOSSCR) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security"
       ]
     },
     {
@@ -17830,7 +18794,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "kevin-walker",
@@ -17900,6 +18865,9 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -18035,6 +19003,11 @@
             "Cabell County Bar Association, President, 2015"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Employment Rights",
+        "Construction"
       ]
     },
     {
@@ -18070,7 +19043,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "steven-k-wellman",
@@ -18176,6 +19150,9 @@
             "W.V. Self-Insured Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -18274,6 +19251,14 @@
             "U.S. Federal Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Brain Injury",
+        "Car Accidents"
       ]
     },
     {
@@ -18388,6 +19373,15 @@
             "WVAJ Executive Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Discrimination",
+        "Wrongful Termination",
+        "Personal Injury",
+        "Wrongful Death",
+        "Consumer Protection",
+        "Lemon Law"
       ]
     },
     {
@@ -18481,6 +19475,20 @@
             "The American Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Class Actions",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Nursing Home Abuse",
+        "Insurance Law",
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -18578,6 +19586,10 @@
             "Hancock County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -18631,6 +19643,12 @@
             "Certified Instructor, National Highway Traffic Safety Administration (NHTSA) Field Sobriety Tests"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Drug Crime",
+        "Social Security Disability"
       ]
     }
   ],
@@ -18694,23 +19712,15 @@
         "J. Ryan Stewart"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Construction Accident",
         "Birth Injury",
         "Brain Injury",
-        "Class Actions",
-        "Construction",
-        "Construction Accident",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Social Security",
-        "Social Security Disability",
-        "Truck Accident",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Class Actions",
+        "Litigation and Appeals",
+        "Social Security Disability"
       ],
       "additional_locations": [
         {
@@ -18790,24 +19800,17 @@
         "Ashley Justice Tucker"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
-        "Animal and Dog Bites",
+        "Personal Injury",
+        "Wrongful Death",
+        "Premises Liability",
         "Assault and Battery (Plaintiff)",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
         "Defamation",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Sexual Abuse",
-        "Truck Accident",
-        "Workers' Compensation",
-        "Wrongful Death"
+        "Sexual Abuse"
       ],
       "additional_locations": [
         {
@@ -18876,19 +19879,13 @@
         "Billie Jo Streyle"
       ],
       "official_practice_area": [
-        "Airplane Bus and Helicopter Accidents",
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
         "Aviation",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Construction Accident"
       ],
       "additional_locations": []
     },
@@ -18942,15 +19939,13 @@
         "Amy C. Crossan"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Criminal Defense",
-        "Discrimination",
         "Employment Rights",
-        "Federal and White Collar Crimes",
-        "Personal Injury",
+        "Discrimination",
+        "Wrongful Termination",
+        "Criminal Defense",
         "Sexual Harassment",
-        "Wills",
-        "Wrongful Termination"
+        "Personal Injury",
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -18999,12 +19994,10 @@
         "Nicole Saunders-Meske"
       ],
       "official_practice_area": [
+        "Personal Injury",
         "Bankruptcy",
-        "Criminal Defense",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -19058,10 +20051,6 @@
       "official_practice_area": [
         "Banking and Finance Law",
         "Elder Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Personal Injury Defense",
         "Real Estate",
         "Trusts",
@@ -19123,9 +20112,8 @@
         "Meridith O. Johnstone"
       ],
       "official_practice_area": [
-        "Personal Injury",
         "Social Security",
-        "Veteran's Benefits"
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -19205,17 +20193,15 @@
         "Dana A. Rusen"
       ],
       "official_practice_area": [
-        "Car Accidents",
+        "Personal Injury",
         "Child Custody",
         "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
+        "DUI and DWI",
         "Employment Rights",
         "Family Law",
-        "Personal Injury",
-        "Social Security",
-        "Social Security Disability",
         "Wage and Hour",
+        "Social Security Disability",
         "Workers' Compensation",
         "Wrongful Death"
       ],
@@ -19264,12 +20250,10 @@
         "Tim C. Carrico"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Elder Law",
         "Family Law",
-        "Personal Injury"
+        "Criminal Defense",
+        "Personal Injury",
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -19367,16 +20351,13 @@
         "Brett M. Ferro"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Criminal Defense",
-        "Divorce and Separation",
         "Employment Rights",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Oil Gas and Energy",
+        "Workers' Compensation",
         "Personal Injury",
-        "Workers' Compensation"
+        "Business Organizations",
+        "Oil Gas and Energy",
+        "Family Law",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -19426,12 +20407,11 @@
         "Paul D. Ellis"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Criminal Defense",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
-        "Sexual Abuse"
+        "Sexual Abuse",
+        "Medical Malpractice",
+        "Criminal Defense",
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -19563,13 +20543,8 @@
       ],
       "official_practice_area": [
         "Car Accidents",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Medical Malpractice",
         "Oil Gas and Energy",
-        "Personal Injury",
-        "Professional Malpractice",
         "Wrongful Death"
       ],
       "additional_locations": []
@@ -19625,18 +20600,13 @@
         "Nick Gordon"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Adoption",
-        "Child Custody",
-        "Child Support",
-        "Collaborative Law",
         "Divorce and Separation",
+        "Adoption",
+        "Child Support",
         "Domestic Violence",
         "Family Law",
-        "Father's Rights",
-        "Military",
-        "Military Divorce",
-        "Same Sex"
+        "Collaborative Law",
+        "Military Divorce"
       ],
       "additional_locations": []
     },
@@ -19693,16 +20663,15 @@
         "Kristina Thomas Whiteaker"
       ],
       "official_practice_area": [
-        "Class Actions",
-        "Consumer Protection",
-        "Dangerous Products",
         "Employment Rights",
-        "Lemon Law",
-        "Personal Injury",
         "Sexual Harassment",
         "Wage and Hour",
-        "Workers' Compensation",
-        "Wrongful Termination"
+        "Wrongful Termination",
+        "Consumer Protection",
+        "Credit Repair",
+        "Lemon Law",
+        "Personal Injury",
+        "Class Actions"
       ],
       "additional_locations": []
     },
@@ -19797,26 +20766,16 @@
         "Gerald Hayden"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Adoption",
-        "Car Accidents",
-        "Child Custody",
-        "Child Support",
-        "Collaborative Law",
         "Criminal Defense",
-        "DUI and DWI",
         "Divorce and Separation",
-        "Domestic Violence",
-        "Drug Crime",
         "Family Law",
-        "Father's Rights",
-        "Federal and White Collar Crimes",
-        "Military",
-        "Military Divorce",
         "Personal Injury",
-        "Same Sex",
-        "Sex Crime",
-        "Traffic Ticket"
+        "DUI and DWI",
+        "Adoption",
+        "Child Support",
+        "Domestic Violence",
+        "Collaborative Law",
+        "Military Divorce"
       ],
       "additional_locations": []
     },
@@ -19863,7 +20822,6 @@
         "Frank A. Jackson"
       ],
       "official_practice_area": [
-        "Business Organizations",
         "Business and Commercial Law",
         "Elder Law",
         "Estate Planning",
@@ -19917,11 +20875,7 @@
         "Jared Underwood",
         "Chip E. Williams"
       ],
-      "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": [
         {
           "city": "Charleston",
@@ -19981,10 +20935,7 @@
         "Jordan Keith Herrick",
         "Josef A. Horter"
       ],
-      "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
-      ],
+      "official_practice_area": [],
       "additional_locations": [
         {
           "city": "Wheeling",
@@ -20046,12 +20997,10 @@
         "Jeffery L. Robinette"
       ],
       "official_practice_area": [
-        "Brain Injury",
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Car Accidents",
+        "Brain Injury"
       ],
       "additional_locations": []
     },
@@ -20189,11 +21138,9 @@
         "Carter Zerbe"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Drug Crime",
-        "Social Security",
-        "Social Security Disability",
-        "Traffic Ticket"
+        "Criminal Defense",
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -20241,8 +21188,7 @@
         "Randall L. Trautwein"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law"
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -20289,8 +21235,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Personal Injury"
+        "Personal Injury",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -20377,7 +21323,7 @@
         "Shawn A. Taylor"
       ],
       "official_practice_area": [
-        "Social Security",
+        "Disability Insurance",
         "Veteran's Benefits"
       ],
       "additional_locations": []
@@ -20515,23 +21461,15 @@
         "Robert Vaughan"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Construction Accident",
         "Birth Injury",
         "Brain Injury",
-        "Class Actions",
-        "Construction",
-        "Construction Accident",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Social Security",
-        "Social Security Disability",
-        "Truck Accident",
         "Workers' Compensation",
-        "Wrongful Death"
+        "Class Actions",
+        "Litigation and Appeals",
+        "Social Security Disability"
       ],
       "additional_locations": [
         {
@@ -20606,21 +21544,14 @@
         "Brooks West"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Assault and Battery (Plaintiff)",
-        "Bad Faith Insurance",
-        "Car Accidents",
-        "Class Actions",
-        "Dangerous Products",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Nursing Home Abuse",
         "Personal Injury",
-        "Premises Liability",
+        "Wrongful Death",
         "Toxic Torts",
-        "Truck Accident",
-        "Wrongful Death"
+        "Nursing Home Abuse",
+        "Assault and Battery (Plaintiff)",
+        "Class Actions",
+        "Litigation and Appeals",
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -20682,7 +21613,23 @@
         "Taylor B. Downs",
         "Timothy J. Manchin"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "Business and Commercial Law",
+        "Discrimination",
+        "Employment Rights",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Social Security Disability",
+        "Nursing Home Abuse",
+        "Insurance Law",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Wrongful Death"
+      ],
       "additional_locations": []
     },
     {
@@ -20720,7 +21667,9 @@
       "attorneys": [
         "James M. Barber"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -20758,7 +21707,9 @@
       "attorneys": [
         "Chad D. Barry Esquire"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Car Accidents"
+      ],
       "additional_locations": []
     },
     {
@@ -20802,7 +21753,9 @@
         "Jacqueline L. Sikora",
         "Gary S. Wigal"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Auto Dealer Fraud"
+      ],
       "additional_locations": []
     },
     {
@@ -20840,7 +21793,9 @@
       "attorneys": [
         "Steven M, Bragg"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Insurance Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -20880,7 +21835,9 @@
         "William Cipriani",
         "Andrew J. Thomas"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Elder Law"
+      ],
       "additional_locations": []
     },
     {
@@ -20921,7 +21878,9 @@
       "attorneys": [
         "G. Todd Houck"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -20964,7 +21923,10 @@
       "attorneys": [
         "Charles M. Love IV"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Nursing Home Abuse"
+      ],
       "additional_locations": []
     },
     {
@@ -21012,7 +21974,12 @@
         "Harvey D. Peyton",
         "Thomas H. Peyton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Asbestos Mesothelioma",
+        "Real Estate",
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -21054,7 +22021,9 @@
         "Joyce Helmick Morton",
         "Montie VanNostrand"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Social Security Disability"
+      ],
       "additional_locations": []
     },
     {
@@ -21090,7 +22059,9 @@
       "attorneys": [
         "Christopher M. Wilson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ],
       "additional_locations": []
     }
   ]

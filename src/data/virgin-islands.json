@@ -189,6 +189,13 @@
             "Delta Sigma Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Government Agencies and Programs",
+        "Real Estate",
+        "Estate Planning",
+        "Trusts"
       ]
     },
     {
@@ -227,7 +234,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "steven-k-hardy",
@@ -265,7 +273,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "adam-marinelli",
@@ -303,7 +312,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "ravinder-s-nagi",
@@ -400,6 +410,10 @@
             "Hawaii, 2002"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -437,7 +451,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "andrew-c-simpson",
@@ -640,6 +655,11 @@
             "Defense Research Institute, 1999 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Admiralty and Maritime",
+        "Environmental Law"
       ]
     },
     {
@@ -743,6 +763,10 @@
             "U.S. District Court District of the Virgin Islands"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Foreclosure and Alternatives"
       ]
     }
   ],
@@ -786,8 +810,7 @@
         "Andrew C. Simpson"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Insurance Law"
+        "Insurance Defense"
       ],
       "additional_locations": []
     },
@@ -841,7 +864,13 @@
         "Ravinder S. Nagi",
         "A. Jennings Stone III"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Immigration",
+        "International Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Estate Planning"
+      ],
       "additional_locations": []
     }
   ]

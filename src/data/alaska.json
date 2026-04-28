@@ -85,6 +85,17 @@
             "The Association of Family and Conciliation Courts"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Collaborative Law",
+        "Divorce and Separation",
+        "Domestic Violence",
+        "Father's Rights",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -178,6 +189,10 @@
             "Alaska Center for the Performing Arts (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Health Care Law"
       ]
     },
     {
@@ -285,6 +300,9 @@
             "Community Associations Institute (Member al Large)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -381,6 +399,13 @@
             "Alaska Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business and Commercial Law",
+        "Eminent Domain",
+        "Litigation and Appeals",
+        "Administrative Law"
       ]
     },
     {
@@ -475,6 +500,14 @@
             "Alaska Bar Association, 2007 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Contracts",
+        "Business Organizations",
+        "Oil Gas and Energy",
+        "Tax Law",
+        "Probate"
       ]
     },
     {
@@ -542,6 +575,15 @@
             "Alaska, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Employment Rights",
+        "Labor Law",
+        "Consumer Protection",
+        "Toxic Torts",
+        "Contracts"
       ]
     },
     {
@@ -633,6 +675,11 @@
             "Washington State Bar Association, 1983 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Wrongful Death",
+        "Personal Injury"
       ]
     },
     {
@@ -714,6 +761,11 @@
             "Maritime Law Association of the United States (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Wrongful Death",
+        "Personal Injury"
       ]
     },
     {
@@ -829,6 +881,11 @@
             "Alaska Veterinary Medical Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Family Law",
+        "Contracts"
       ]
     },
     {
@@ -946,6 +1003,10 @@
             "Alaska Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Native Peoples",
+        "Real Estate"
       ]
     },
     {
@@ -996,6 +1057,11 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -1086,6 +1152,9 @@
             "Alaska Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -1192,6 +1261,14 @@
             "Nebraska Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Personal Injury",
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Contracts",
+        "Legal Malpractice"
       ]
     },
     {
@@ -1329,6 +1406,10 @@
             "International Cannabis Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Cannabis Law",
+        "Election Campaign and Political Law"
       ]
     },
     {
@@ -1431,6 +1512,11 @@
             "Alaska Bar Scholarship Fundraising and Implementation Committee"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Oil Gas and Energy",
+        "Real Estate"
       ]
     },
     {
@@ -1557,6 +1643,10 @@
             "National Association of Criminal Defense Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -1662,6 +1752,11 @@
             "Anchorage Estate Planning Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -1703,7 +1798,8 @@
           "type": "text",
           "content": "Born and raised Alaskan from Kenai, Alaska. Admitted to the Alaska State Bar in 2018 and licensed to practice law in Alaska State Courts and the U.S. District for the District of Alaska. Education: Juris doctor, Willamette University College of Law (2018). Ms. Burns-Riley joined the firm in 2025. She has experience in both commercial and individual civil claims, including personal injury, wrongful death, product liability, aviation and insurance bad faith. Member: Alaska Bar Association."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "h-frank-cahill",
@@ -1772,6 +1868,11 @@
             "Alaska, 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Collections"
       ]
     },
     {
@@ -1872,6 +1973,10 @@
             "Alaska Center for the Performing Arts (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Real Estate"
       ]
     },
     {
@@ -1962,6 +2067,10 @@
             "Alaska Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -2056,6 +2165,11 @@
             "Washington, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -2188,7 +2302,8 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dennis-e-cook",
@@ -2275,6 +2390,12 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Probate"
       ]
     },
     {
@@ -2320,7 +2441,8 @@
             "Alaska, 1980"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kenneth-l-covell",
@@ -2380,7 +2502,8 @@
             "U.S. Supreme Court, 1990"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kristin-e-crabb",
@@ -2481,7 +2604,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "d-scott-dattan",
@@ -2648,6 +2772,22 @@
             "Alaska Amateur Racquetball Association, 1988 - 1989"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Business and Commercial Law",
+        "Personal Injury",
+        "Assault and Battery (Plaintiff)",
+        "Domestic Violence",
+        "Estate Planning",
+        "Federal and White Collar Crimes",
+        "Insurance Defense",
+        "Litigation and Appeals",
+        "ADR Arbitration and Mediation",
+        "Father's Rights",
+        "Probate",
+        "Wrongful Death"
       ]
     },
     {
@@ -2731,6 +2871,11 @@
             "Alaska, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -2864,6 +3009,12 @@
             "Volunteer English and IT Teacher, 2004 - 2005 (Chachoengsao, Thailand)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Tax Law",
+        "Oil Gas and Energy",
+        "Professional Malpractice",
+        "Business Organizations"
       ]
     },
     {
@@ -2948,6 +3099,11 @@
             "U.S. District Court District of Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Insurance Defense",
+        "Medical Malpractice"
       ]
     },
     {
@@ -3028,7 +3184,8 @@
             "American College of Trust and Estate Counsel (ACTEC), fellow"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-a-earnhart",
@@ -3123,6 +3280,9 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3243,6 +3403,12 @@
             "Delta Delta Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "Insurance Defense",
+        "Business and Commercial Law",
+        "Contracts"
       ]
     },
     {
@@ -3339,6 +3505,12 @@
             "California Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Real Estate"
       ]
     },
     {
@@ -3425,6 +3597,11 @@
             "Alaska Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Support",
+        "Real Estate"
       ]
     },
     {
@@ -3474,6 +3651,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -3624,6 +3805,23 @@
             "Board of Governors, Alaska Bar Association, 2012 to 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "ADR Arbitration and Mediation",
+        "Assault and Battery (Plaintiff)",
+        "Aviation",
+        "Bad Faith Insurance",
+        "Defamation",
+        "Discrimination",
+        "Medical Malpractice",
+        "Motor Vehicle Defects",
+        "Railroad Worker Injury and FELA",
+        "Sexual Harassment",
+        "Premises Liability",
+        "Wage and Hour",
+        "Wrongful Death",
+        "Wrongful Termination"
       ]
     },
     {
@@ -3667,7 +3865,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "kristy-a-garrett",
@@ -3752,6 +3951,10 @@
             "Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Real Estate"
       ]
     },
     {
@@ -3850,6 +4053,9 @@
             "D.C. Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -3889,7 +4095,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "cheryl-l-graves",
@@ -3996,6 +4203,11 @@
             "Alpha Xi Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -4085,6 +4297,12 @@
             }
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Natural Resources",
+        "Real Estate",
+        "Employment Rights"
       ]
     },
     {
@@ -4213,6 +4431,15 @@
             "Chairman, Fairbanks Chamber of Commerce Legislative Committee, 1985 - 1986"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Probate",
+        "Litigation and Appeals",
+        "Labor Law",
+        "Workers' Compensation",
+        "Professional Malpractice",
+        "International Law"
       ]
     },
     {
@@ -4326,6 +4553,9 @@
             "National Trial Lawyers Association, 2005 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4417,7 +4647,8 @@
             "U.S. District Court District of Alaska, 1983"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "adam-harki",
@@ -4533,7 +4764,8 @@
             "U.S. Court of Appeals 9th Circuit, 2017"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "robert-m-herz",
@@ -4632,6 +4864,9 @@
             "United States District Court Criminal Justice Act Advisory Committee for the District of Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4675,7 +4910,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "joseph-a-kalamarides",
@@ -4761,6 +4997,9 @@
             "Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -4876,6 +5115,9 @@
             "UAA Legal Studies Advisory Committee (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -4936,6 +5178,13 @@
             "U.S. Tax Court, 1987"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Bankruptcy",
+        "Estate Planning",
+        "Real Estate",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -5038,6 +5287,10 @@
             "9th Circuit Court of Appeals (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -5194,6 +5447,10 @@
             "Alaska Trial Lawyers (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -5312,6 +5569,12 @@
             "Rocky Mountain Mineral Law Foundation"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Environmental Law",
+        "Natural Resources",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -5405,6 +5668,9 @@
             "Defense Counsel of Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -5504,7 +5770,8 @@
             "New York Bar, 2009 - Present (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "thomas-a-matthews",
@@ -5596,6 +5863,11 @@
             "Alaska Bar Association (Member, Ethics Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Business Organizations",
+        "Admiralty and Maritime"
       ]
     },
     {
@@ -5706,6 +5978,13 @@
             "U.S. Court of Appeals 9th Circuit, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Banking and Finance Law",
+        "Real Estate",
+        "Business and Commercial Law",
+        "Natural Resources"
       ]
     },
     {
@@ -5786,6 +6065,9 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice"
       ]
     },
     {
@@ -5918,6 +6200,15 @@
             "Anchorage International Rotary Club"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Aviation",
+        "Election Campaign and Political Law",
+        "State Local and Municipal Law",
+        "Health Care Law",
+        "Land Use and Zoning",
+        "Cannabis Law",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -6062,6 +6353,12 @@
             "Phi Kappa Psi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes",
+        "Environmental Law",
+        "Ethics and Professional Responsibility",
+        "Criminal Defense"
       ]
     },
     {
@@ -6155,6 +6452,10 @@
             "Uniform Laws Commission, 2023 - Present (Commissioner)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Election Campaign and Political Law",
+        "Cannabis Law"
       ]
     },
     {
@@ -6280,6 +6581,13 @@
             "Defense Research Institute, 2000 - 2010 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance",
+        "ADR Arbitration and Mediation",
+        "Premises Liability",
+        "Wrongful Death"
       ]
     },
     {
@@ -6390,6 +6698,10 @@
             "American Association for Justice, 2023-present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -6437,6 +6749,9 @@
             "Associate"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law"
       ]
     },
     {
@@ -6478,7 +6793,8 @@
           "type": "text",
           "content": "Born and raised Alaskan from Kenai, Alaska. Admitted to the Alaska State Bar in 2018 and licensed to practice law in Alaska State Courts and the U.S. District for the District of Alaska. Education: Juris doctor, Willamette University College of Law (2018). Ms. Burns-Riley joined the firm in 2025. She has experience in both commercial and individual civil claims, including personal injury, wrongful death, product liability, aviation and insurance bad faith. Member: Alaska Bar Association."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "rikki-burns-riley",
@@ -6519,7 +6835,8 @@
           "type": "text",
           "content": "Born and raised Alaskan from Kenai, Alaska. Admitted to the Alaska State Bar in 2018 and licensed to practice law in Alaska State Courts and the U.S. District for the District of Alaska. Education: Juris doctor, Willamette University College of Law (2018). Ms. Burns-Riley joined the firm in 2025. She has experience in both commercial and individual civil claims, including personal injury, wrongful death, product liability, aviation and insurance bad faith. Member: Alaska Bar Association."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lisa-b-nelson",
@@ -6564,6 +6881,9 @@
             "New York, 1982"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption"
       ]
     },
     {
@@ -6673,6 +6993,9 @@
             "Alaska Chapter of the Federal Bar Association, Executive Committee Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -6762,6 +7085,9 @@
             "Academy of Truck Accident Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -6805,7 +7131,8 @@
             "Attorney"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "gregory-s-parvin",
@@ -6901,6 +7228,10 @@
             "Mat Su Health Foundation, Board Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -7012,6 +7343,16 @@
             "Alaska Bar Association, Estate Planning Section, 2007 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Estate Planning",
+        "Family Law",
+        "Probate",
+        "Trusts",
+        "Wills",
+        "Divorce and Separation",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -7081,6 +7422,12 @@
             "Alaska, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Family Law"
       ]
     },
     {
@@ -7211,6 +7558,9 @@
             "U.S. District Court Western District of Virginia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy"
       ]
     },
     {
@@ -7313,6 +7663,9 @@
             "Alaska Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense"
       ]
     },
     {
@@ -7369,6 +7722,9 @@
             "U.S. District Court District of Alaska, 1977"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -7468,6 +7824,12 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Defense",
+        "Premises Liability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -7507,7 +7869,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "gabriel-e-sassoon",
@@ -7605,6 +7968,15 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Family Law",
+        "Entertainment Sports and Leisure Law",
+        "Probate",
+        "Contracts",
+        "Real Estate",
+        "Patents"
       ]
     },
     {
@@ -7680,6 +8052,15 @@
             "Alaska, 1974"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Environmental Law",
+        "Contracts",
+        "Real Estate",
+        "Construction",
+        "Land Use and Zoning",
+        "Bankruptcy"
       ]
     },
     {
@@ -7803,6 +8184,11 @@
             "Alaska State Bar, 2019 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Land Use and Zoning",
+        "State Local and Municipal Law",
+        "Real Estate"
       ]
     },
     {
@@ -7906,6 +8292,10 @@
             "Alaska Bar Association, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Criminal Defense"
       ]
     },
     {
@@ -7985,6 +8375,10 @@
             "Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8071,6 +8465,10 @@
             "Alaska"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -8184,6 +8582,9 @@
             "Alaska Association of Professional Landmen"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -8233,6 +8634,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Social Security Disability"
       ]
     },
     {
@@ -8314,6 +8719,9 @@
             "Alaska, 2019"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -8441,6 +8849,11 @@
             "International Association of Defense Counsel (State Membership Representative)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Professional Malpractice",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -8611,6 +9024,9 @@
             "Civil Rules Committee (Committee for Reduction of Appellate Delay)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Professional Malpractice"
       ]
     },
     {
@@ -8703,6 +9119,10 @@
             "Anchorage Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Probate"
       ]
     },
     {
@@ -8787,6 +9207,11 @@
             "Maritime Law Association of the United States, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Admiralty and Maritime",
+        "Wrongful Death",
+        "Personal Injury"
       ]
     },
     {
@@ -8837,6 +9262,10 @@
             "Of Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Native Peoples",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -8929,6 +9358,11 @@
             "Anchorage Estate Planning Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9008,6 +9442,10 @@
             "New York, 2000"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9090,7 +9528,8 @@
             "U.S. Court of Appeals 9th Circuit"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "holly-c-wells",
@@ -9191,6 +9630,11 @@
             "Member of International Health Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Election Campaign and Political Law",
+        "Land Use and Zoning",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -9295,6 +9739,9 @@
             "Junior Achievement, Board of Directors"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -9402,6 +9849,15 @@
             "Marine Insurance Association of Seattle, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "Admiralty and Maritime",
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Contracts",
+        "Legal Malpractice",
+        "Medical Malpractice"
       ]
     },
     {
@@ -9486,6 +9942,11 @@
             "U.S. District Court Western District of Pennsylvania"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Social Security Disability",
+        "Workers' Compensation"
       ]
     },
     {
@@ -9543,6 +10004,12 @@
             "Alaska, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Business and Commercial Law",
+        "Construction",
+        "Insurance Defense"
       ]
     },
     {
@@ -9644,7 +10111,8 @@
             "Alaska Bar Association, 2002 (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "a-michael-zahare",
@@ -9742,6 +10210,14 @@
             "Defense Research Institute (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Banking and Finance Law",
+        "Professional Malpractice",
+        "Business and Commercial Law",
+        "Car Accidents"
       ]
     }
   ],
@@ -9810,21 +10286,18 @@
         "John P. Wood"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "Bad Faith Insurance",
         "Construction",
-        "Insurance Defense",
-        "Insurance Law",
         "Labor Law",
-        "Litigation and Appeals",
         "Medical Malpractice",
-        "Oil Gas and Energy",
-        "Personal Injury",
         "Professional Malpractice",
-        "Real Estate",
-        "State Local and Municipal Law",
         "Tax Law",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Birth Injury",
+        "Brain Injury",
+        "Personal Injury",
+        "Oil Gas and Energy",
+        "Administrative Law",
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -9911,8 +10384,7 @@
         "Lanning M. Trueb"
       ],
       "official_practice_area": [
-        "Admiralty and Maritime",
-        "Personal Injury"
+        "Admiralty and Maritime"
       ],
       "additional_locations": [
         {
@@ -9985,15 +10457,12 @@
         "Jocelyn Collier"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Divorce and Separation",
-        "Domestic Violence",
-        "Entertainment Sports and Leisure Law",
         "Estate Planning",
+        "Probate",
+        "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate"
+        "Business and Commercial Law",
+        "Entertainment Sports and Leisure Law"
       ],
       "additional_locations": []
     },
@@ -10044,9 +10513,7 @@
         "Patrick J Coughlin"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -10095,13 +10562,8 @@
         "Michael Cohn"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Dangerous Products",
-        "Employment Law (Employer)",
-        "Employment Rights",
         "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals"
+        "Employment Law (Employer)"
       ],
       "additional_locations": [
         {
@@ -10155,8 +10617,7 @@
         "Justin R. Eschbacher"
       ],
       "official_practice_area": [
-        "Divorce and Separation",
-        "Family Law"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -10201,7 +10662,6 @@
         "A. Michael Zahare"
       ],
       "official_practice_area": [
-        "Insurance Defense",
         "Litigation and Appeals"
       ],
       "additional_locations": []
@@ -10419,9 +10879,7 @@
         "Herbert M. Pearce"
       ],
       "official_practice_area": [
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -10548,7 +11006,9 @@
       "attorneys": [
         "Ronald L. Baird"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -10612,7 +11072,19 @@
         "Chris Bodle",
         "Kenneth L. Covell"
       ],
-      "official_practice_area": ["Criminal Defense"],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury",
+        "Divorce and Separation",
+        "Child Custody",
+        "Adoption",
+        "DUI and DWI",
+        "Drug Crime",
+        "Bankruptcy",
+        "Workers' Compensation",
+        "Labor Law"
+      ],
       "additional_locations": []
     },
     {
@@ -10660,7 +11132,11 @@
         "Donna M. Meyers",
         "Rikki Burns-Riley"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Employment Law (Employer)",
+        "Admiralty and Maritime"
+      ],
       "additional_locations": []
     },
     {
@@ -10700,7 +11176,9 @@
       "attorneys": [
         "H. Frank Cahill"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ],
       "additional_locations": []
     },
     {
@@ -10768,7 +11246,24 @@
         "Barbara L. Schuhmann",
         "Zane D. Wilson"
       ],
-      "official_practice_area": ["Criminal Defense"],
+      "official_practice_area": [
+        "Aviation",
+        "Bankruptcy",
+        "Eminent Domain",
+        "Construction",
+        "Employment Rights",
+        "Environmental Law",
+        "Estate Planning",
+        "Family Law",
+        "Insurance Defense",
+        "Real Estate",
+        "Tax Law",
+        "Trusts",
+        "Probate",
+        "Criminal Defense",
+        "Wrongful Death",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -10808,7 +11303,9 @@
         "Brian D. Heady",
         "Danee L. Pontious"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -10855,7 +11352,9 @@
         "Daniel I. Pace",
         "Peter Sandberg"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Birth Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -10895,7 +11394,9 @@
       "attorneys": [
         "Robert M Herz"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -10932,7 +11433,9 @@
         "Charles W. Coe",
         "Larry Zeno Moser"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Bad Faith Insurance"
+      ],
       "additional_locations": []
     },
     {
@@ -10970,7 +11473,9 @@
       "attorneys": [
         "Lisa B. Nelson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Adoption"
+      ],
       "additional_locations": []
     },
     {
@@ -11008,7 +11513,9 @@
       "attorneys": [
         "Curtis Wayne Patteson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate"
+      ],
       "additional_locations": []
     }
   ]

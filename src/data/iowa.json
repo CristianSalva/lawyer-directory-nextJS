@@ -138,6 +138,11 @@
             "New York, 1990"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Mergers and Acquisitions",
+        "Health Care Law"
       ]
     },
     {
@@ -232,6 +237,12 @@
             "Order of the Barristers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Civil Rights",
+        "Constitutional Law",
+        "Discrimination"
       ]
     },
     {
@@ -385,6 +396,12 @@
             "Black Hawk Co. Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Personal Injury",
+        "Family Law",
+        "Estate Planning"
       ]
     },
     {
@@ -588,6 +605,19 @@
             "Study of Attorney-Disciplinary System (Member, Advisory Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Mergers and Acquisitions",
+        "Securities",
+        "Real Estate",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Wills",
+        "Trusts",
+        "Estate Planning",
+        "Probate",
+        "Employment Rights"
       ]
     },
     {
@@ -674,6 +704,12 @@
             "Iowa State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Workers' Compensation",
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -776,6 +812,11 @@
             "C. Edwin Moore American Inn of Court (Past President )"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation",
+        "Divorce and Separation"
       ]
     },
     {
@@ -868,6 +909,12 @@
             "Jack Levin Family Law Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Collaborative Law",
+        "ADR Arbitration and Mediation",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -968,6 +1015,9 @@
             "Polk County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -1086,6 +1136,12 @@
             "Women Helping Each Other Network (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
+        "Divorce and Separation",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -1174,6 +1230,11 @@
             "American Board of Trial Advocates (ABOTA) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -1271,6 +1332,12 @@
             "U.S. District Court Southern District of Iowa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Real Estate",
+        "Debtor and Creditor",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -1366,6 +1433,12 @@
             "Urbandale Chamber of Commerce"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -1456,6 +1529,13 @@
             "Jackson County Bar Association , 1975 - 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Tax Law"
       ]
     },
     {
@@ -1541,6 +1621,16 @@
             "Iowa State Bar Association, Law Practice Management, Probate and Family Law Sections (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Criminal Defense",
+        "Elder Law",
+        "Family Law",
+        "Real Estate",
+        "Social Security",
+        "Estate Planning",
+        "Workers' Compensation"
       ]
     },
     {
@@ -1603,7 +1693,8 @@
             }
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "peter-w-berger",
@@ -1709,6 +1800,13 @@
             "Iowa Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Brain Injury"
       ]
     },
     {
@@ -1798,6 +1896,12 @@
             "Young Lawyers Division (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support"
       ]
     },
     {
@@ -2012,6 +2116,12 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Labor Law",
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -2126,6 +2236,12 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -2276,6 +2392,10 @@
             "U.S. Supreme Court, 1988"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice"
       ]
     },
     {
@@ -2361,6 +2481,10 @@
             "U.S. District Court Southern District of Iowa, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -2441,6 +2565,13 @@
             "Iowa, 2013"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Real Estate",
+        "Tax Law",
+        "Personal Injury"
       ]
     },
     {
@@ -2534,6 +2665,13 @@
             "Iowa State Bar, 1987 - 1989 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Criminal Defense",
+        "Estate Planning",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -2615,6 +2753,12 @@
             "U.S. Court of Appeals 8th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Litigation and Appeals",
+        "Class Actions",
+        "Employment Rights"
       ]
     },
     {
@@ -2744,6 +2888,10 @@
             "Iowa Association for Justice, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -2834,6 +2982,11 @@
             "American Association for Justice (Formerly ATLA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -2926,6 +3079,12 @@
             "U.S. District Court Southern District of Iowa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Family Law",
+        "Litigation and Appeals",
+        "Health Care Law"
       ]
     },
     {
@@ -3034,6 +3193,14 @@
             "U.S. District Court Southern District of Iowa, 2002 - 2015 (Admitted to the Bar)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Collaborative Law",
+        "Family Law",
+        "Estate Planning",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -3124,6 +3291,10 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Employment Rights"
       ]
     },
     {
@@ -3206,6 +3377,11 @@
             "Webster County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -3301,6 +3477,14 @@
             "Linn County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Real Estate",
+        "Business Organizations",
+        "Estate Planning",
+        "Probate",
+        "Bankruptcy"
       ]
     },
     {
@@ -3392,6 +3576,14 @@
             "Iowa State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Business Organizations",
+        "Real Estate",
+        "Family Law",
+        "Personal Injury"
       ]
     },
     {
@@ -3658,6 +3850,11 @@
             "Iowa Trial Lawyers Association (Board of Governors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Discrimination",
+        "Medical Malpractice"
       ]
     },
     {
@@ -3768,6 +3965,9 @@
             "Iowa Association of Workers’ Compensation Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -3819,7 +4019,8 @@
             "Partner"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bradford-l-davis",
@@ -3927,6 +4128,12 @@
             "Nebraska State Bar Association, 1984 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Probate",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -4037,6 +4244,11 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Business Organizations"
       ]
     },
     {
@@ -4144,6 +4356,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Business Organizations",
+        "Science and Technology Law"
       ]
     },
     {
@@ -4247,6 +4465,11 @@
             "Iowa State Bar Association – Young Lawyers Division"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Bankruptcy"
       ]
     },
     {
@@ -4347,6 +4570,11 @@
             "Iowa Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -4444,6 +4672,10 @@
             "Iowa Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -4547,6 +4779,11 @@
             "Fellow, Iowa Academy of Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Construction Accident"
       ]
     },
     {
@@ -4591,7 +4828,8 @@
           "type": "text",
           "content": "Attorney Cindy M. Ekstam joined Hupy and Abraham in 2021. She earned her Juris Doctor from John Marshall Law School in 2005 and is licensed to practice in Illinois, Iowa, and the federal courts.\n\nAttorney Ekstam is a member of the Iowa State Bar Association, the American Association for Justice, and the Illinois State Bar Association.\n\nIn addition to her professional memberships, she is actively involved in her community. She has coached her daughter’s softball team and currently serves as board treasurer.\n\nAttorney Ekstam was recognized in the Quad City Times Best of the Quad Cities from 2022 to 2025.\n\nShe has recovered over $5 million for her clients."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "sonia-maria--elossais",
@@ -4700,6 +4938,9 @@
             "Iowa Association for Justice, 2023 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4778,6 +5019,11 @@
             "Iowa State Bar Association, 2020 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Employment Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -4866,6 +5112,11 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Real Estate"
       ]
     },
     {
@@ -4959,6 +5210,10 @@
             "Iowa, 2010"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law"
       ]
     },
     {
@@ -5087,6 +5342,13 @@
             "Polk County Women Attorneys, President Elect (2023)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Sexual Harassment",
+        "Discrimination",
+        "Civil Rights",
+        "Wage and Hour"
       ]
     },
     {
@@ -5345,6 +5607,9 @@
             "Iowa State Bar Association, Jury Instructions Committee, 2008-present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -5443,6 +5708,9 @@
             "Iowa Association for Justice, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5551,6 +5819,12 @@
             "Fourth Judicial District Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Probate",
+        "Elder Law"
       ]
     },
     {
@@ -5640,6 +5914,12 @@
             "U.S. District Court Southern District of Iowa, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Immigration",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5754,6 +6034,16 @@
             "U.S. Federal Courts, 1981"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense",
+        "Personal Injury",
+        "Criminal Defense",
+        "Family Law",
+        "Contracts",
+        "Construction",
+        "Real Estate",
+        "Workers' Compensation"
       ]
     },
     {
@@ -5859,7 +6149,8 @@
             "Phi Alpha Delta"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "katie-gallo",
@@ -5959,6 +6250,13 @@
             "Gamma Phi Beta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6141,6 +6439,11 @@
             "Trial Lawyers for Public Justice, 2004 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -6277,6 +6580,13 @@
             "Clergy Abuse/Sexual Abuse Litigation Group - American Association for Justice, Member, 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Drugs and Medical Devices",
+        "Sexual Abuse"
       ]
     },
     {
@@ -6362,6 +6672,10 @@
             "Georgia Bar Association, 2011 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -6433,6 +6747,9 @@
             "Iowa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate"
       ]
     },
     {
@@ -6538,6 +6855,16 @@
             "National Association of Accountants, 1975 - 1978 (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Franchising",
+        "Real Estate",
+        "Estate Planning",
+        "Land Use and Zoning"
       ]
     },
     {
@@ -6664,6 +6991,17 @@
             "Public Investors Advocate Bar Association(PIABA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Premises Liability",
+        "Workers' Compensation",
+        "Consumer Protection",
+        "Litigation and Appeals",
+        "Wage and Hour",
+        "Class Actions"
       ]
     },
     {
@@ -6770,6 +7108,12 @@
             "Sioux County Bar Association, Treasurer"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate"
       ]
     },
     {
@@ -6878,6 +7222,12 @@
             "Johnson County Bar Association, 2000 - 2012 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Bankruptcy",
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -6974,6 +7324,15 @@
             "American Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Construction",
+        "Collections",
+        "Criminal Defense",
+        "Family Law",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -7094,6 +7453,11 @@
             "National Association of Consumer Bankruptcy Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Bankruptcy"
       ]
     },
     {
@@ -7257,6 +7621,11 @@
             "U.S. Court of Appeals Federal Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Labor Law",
+        "Social Security Disability",
+        "Personal Injury"
       ]
     },
     {
@@ -7401,6 +7770,14 @@
             "Iowa State Bar Association, Workers' Compensation Section, 1992 - 1993 (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Employment Rights",
+        "Labor Law",
+        "Social Security Disability",
+        "Personal Injury",
+        "Estate Planning"
       ]
     },
     {
@@ -7487,6 +7864,14 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Debtor and Creditor",
+        "Real Estate",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -7589,6 +7974,15 @@
             "Dallas County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations"
       ]
     },
     {
@@ -7769,6 +8163,10 @@
             "Sigma Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -7860,6 +8258,15 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "Personal Injury",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -7982,6 +8389,14 @@
             "Justice for All PAC (Political Action Committee of the Iowa Association for Justice) (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Motor Vehicle Defects",
+        "Nursing Home Abuse",
+        "Personal Injury",
+        "Professional Malpractice"
       ]
     },
     {
@@ -8065,7 +8480,8 @@
             "Iowa Municipal Attorneys Association, 2011 - 2013 (Board Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "michael-r-horn",
@@ -8152,6 +8568,15 @@
             "Iowa State Bar Association, Agricultural Law and Taxation Sections (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Debtor and Creditor",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -8304,7 +8729,8 @@
             "American Academy of Appellate Lawyers, April 12, 2019 - Present (Fellow)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "nicole-hughes",
@@ -8419,6 +8845,11 @@
             "School Bond Citizens Committee, 2018"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -8559,6 +8990,11 @@
             "International Association of Defense Counsel (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Environmental Law",
+        "Insurance Defense",
+        "Education"
       ]
     },
     {
@@ -8601,7 +9037,8 @@
             "Shareholder, since January 1, 2019"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "christopher-j-jessen",
@@ -8667,6 +9104,11 @@
             "Iowa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Litigation and Appeals",
+        "Employment Rights"
       ]
     },
     {
@@ -8753,6 +9195,10 @@
             "National Association of Consumer Bankruptcy Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Family Law"
       ]
     },
     {
@@ -8887,6 +9333,14 @@
             "Jackson County Bar Association, 1993 - Present (Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "State Local and Municipal Law",
+        "Real Estate",
+        "Estate Planning",
+        "Probate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -9009,6 +9463,12 @@
             "Defense Research Institute, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -9138,6 +9598,12 @@
             "National Crime Victims Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Civil Rights",
+        "Constitutional Law",
+        "Discrimination"
       ]
     },
     {
@@ -9243,6 +9709,13 @@
             "Iowa Supreme Court Grievance Commission, 2005 - 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Professional Malpractice"
       ]
     },
     {
@@ -9357,6 +9830,10 @@
             "Illinois, 1991"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -9459,6 +9936,12 @@
             "Iowa, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -9551,6 +10034,13 @@
             "Linn County Bar Association, 1968 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Business Organizations",
+        "Estate Planning",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -9654,6 +10144,12 @@
             "U.S. Court of Appeals 8th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Employment Rights",
+        "Litigation and Appeals",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -9743,6 +10239,12 @@
             "Iowa Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Legal Malpractice",
+        "Constitutional Law"
       ]
     },
     {
@@ -9837,6 +10339,11 @@
             "Iowa State Bar Association, 1988 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -9947,6 +10454,13 @@
             "Kossuth County Bar Association, 1992 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Real Estate",
+        "Tax Law",
+        "Personal Injury"
       ]
     },
     {
@@ -10058,6 +10572,14 @@
             "Iowa Association for Justice (IAJ) Board of Governors, 2016 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Wrongful Death",
+        "Criminal Defense",
+        "Probate",
+        "Employment Rights"
       ]
     },
     {
@@ -10209,6 +10731,13 @@
             "Pottawattamie County Bar Association, 1982 - 1983 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Legal Malpractice",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Wrongful Death"
       ]
     },
     {
@@ -10311,6 +10840,10 @@
             "American Association for Justice, 2008 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -10454,6 +10987,10 @@
             "National Employment Lawyers Association, 2006 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury"
       ]
     },
     {
@@ -10564,6 +11101,12 @@
             "Black Hawk County Bar Association Young Lawyers Division, Member, 2020 – present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Animal and Dog Bites",
+        "Personal Injury"
       ]
     },
     {
@@ -10824,6 +11367,14 @@
             "Pottawattamie County Bar Association, 2008 - 2009 (Vice-President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Litigation and Appeals",
+        "Bad Faith Insurance",
+        "Construction",
+        "State Local and Municipal Law",
+        "Civil Rights"
       ]
     },
     {
@@ -10945,6 +11496,12 @@
             "Scott County Bar Association Young Lawyer’s Division (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Personal Injury Defense"
       ]
     },
     {
@@ -11027,7 +11584,8 @@
             "Iowa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "eric-j-loney",
@@ -11123,6 +11681,10 @@
             "Iowa State Bar Association, 2001 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -11256,7 +11818,8 @@
             "Phi Eta Sigma"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "william-j-lorenz",
@@ -11357,6 +11920,25 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Adoption",
+        "Banking and Finance Law",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Contracts",
+        "Criminal Defense",
+        "Debtor and Creditor",
+        "Elder Law",
+        "Eminent Domain",
+        "Family Law",
+        "State Local and Municipal Law",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Real Estate",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -11455,6 +12037,9 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections"
       ]
     },
     {
@@ -11561,6 +12146,12 @@
             "Linn County's Judicial Magistrate Selection Committee (Member, 2013-2014)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents",
+        "Wrongful Death",
+        "Premises Liability",
+        "Personal Injury"
       ]
     },
     {
@@ -11671,6 +12262,10 @@
             "Fourth Judicial District of Iowa, Judicial Nominating Commission"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Insurance Defense"
       ]
     },
     {
@@ -11806,6 +12401,11 @@
             "Omicron Delta Epsilon, 1987 - 1991 (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Adoption"
       ]
     },
     {
@@ -11923,6 +12523,12 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Agriculture",
+        "Antitrust",
+        "Bankruptcy",
+        "Government Agencies and Programs"
       ]
     },
     {
@@ -12022,6 +12628,10 @@
             "Iowa State Bar Association (Member, 2017-present; Probate, Trust & Estate Planning Section, 2017-present; Taxation Section, 2017-present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Mergers and Acquisitions",
+        "Tax Law"
       ]
     },
     {
@@ -12124,6 +12734,10 @@
             "Founding member of the Jack D. Levine Family Law American Inns of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody"
       ]
     },
     {
@@ -12239,6 +12853,14 @@
             "Beta Gamma Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Bankruptcy",
+        "Class Actions"
       ]
     },
     {
@@ -12317,6 +12939,10 @@
             "Member, Iowa Bankers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Mergers and Acquisitions"
       ]
     },
     {
@@ -12419,6 +13045,13 @@
             "Iowa State Bar Association, 1996 - 1998 (Member, Agricultural Law Section Council)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Real Estate",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -12527,6 +13160,12 @@
             "Kossuth County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -12622,6 +13261,15 @@
             "Marshall County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Discrimination",
+        "Contracts",
+        "Debtor and Creditor",
+        "Family Law",
+        "Real Estate",
+        "Estate Planning"
       ]
     },
     {
@@ -12727,6 +13375,11 @@
             "Montgomery County Bar Association (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Tax Law",
+        "Real Estate"
       ]
     },
     {
@@ -12809,6 +13462,9 @@
             "Iowa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -12901,6 +13557,12 @@
             "Iowa, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Probate",
+        "Tax Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -12993,6 +13655,16 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Elder Law",
+        "Health Care Law",
+        "Real Estate",
+        "Tax Law",
+        "Estate Planning"
       ]
     },
     {
@@ -13087,6 +13759,11 @@
             "American Board of Trial Advocates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation"
       ]
     },
     {
@@ -13228,6 +13905,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Real Estate",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -13343,6 +14025,12 @@
             "Wealth Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -13458,6 +14146,12 @@
             "Wealth Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -13546,7 +14240,8 @@
             "NORML Legal Committee"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "trent-nelson",
@@ -13639,6 +14334,9 @@
             "Iowa State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law"
       ]
     },
     {
@@ -13738,6 +14436,12 @@
             "Iowa State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Legal Malpractice",
+        "Medical Malpractice",
+        "Workers' Compensation"
       ]
     },
     {
@@ -13852,7 +14556,8 @@
             "Phi Delta Phi"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "tj-pattermann",
@@ -13994,6 +14699,11 @@
             "Theta Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Wrongful Death"
       ]
     },
     {
@@ -14032,7 +14742,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "caleb-a-petersen",
@@ -14124,6 +14835,11 @@
             "Tri-State Estate Planners"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -14211,6 +14927,13 @@
             "U.S. District Court Southern District of Iowa, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Employment Rights",
+        "Probate",
+        "DUI and DWI"
       ]
     },
     {
@@ -14367,6 +15090,11 @@
             "Iowa Association for Justice Workers Compensation Core Group"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -14472,6 +15200,13 @@
             "Glen Oaks Homeowners Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Real Estate",
+        "Estate Planning",
+        "Probate"
       ]
     },
     {
@@ -14524,6 +15259,12 @@
             "U.S. District Court Southern District of Iowa, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation"
       ]
     },
     {
@@ -14626,6 +15367,10 @@
             "American Trial Lawyers Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -14716,6 +15461,12 @@
             "Iowa Association for Justice"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Workers' Compensation",
+        "Criminal Defense"
       ]
     },
     {
@@ -14810,6 +15561,10 @@
             "U.S. Tax Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Tax Law"
       ]
     },
     {
@@ -14902,6 +15657,11 @@
             "U.S. Court of Appeals 8th Circuit"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Administrative Law"
       ]
     },
     {
@@ -14974,7 +15734,8 @@
             "Iowa, 2025"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "mark-d-reed",
@@ -15085,6 +15846,9 @@
             "Colorado, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -15160,6 +15924,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -15287,6 +16054,11 @@
             "Tri-State Estate Planners, Member 2013-present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -15393,6 +16165,10 @@
             "Iowa Trial Lawyers Association (Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -15479,6 +16255,13 @@
             "Iowa Bar Association, 2024"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Domestic Violence"
       ]
     },
     {
@@ -15563,6 +16346,15 @@
             "Iowa, 1993"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Family Law",
+        "Probate",
+        "Wills",
+        "ADR Arbitration and Mediation",
+        "Collaborative Law"
       ]
     },
     {
@@ -15694,6 +16486,14 @@
             "Iowa Academy of Trial Lawyer, 2025 - Present (Board of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Discrimination",
+        "Personal Injury Defense",
+        "Bad Faith Insurance",
+        "Family Law"
       ]
     },
     {
@@ -15879,6 +16679,9 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -16001,6 +16804,24 @@
             "Sigma Alpha Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Contracts",
+        "Copyrights",
+        "Real Estate",
+        "Collections",
+        "Employment Rights",
+        "Litigation and Appeals",
+        "Wrongful Death",
+        "Foreclosure and Alternatives",
+        "Elder Law",
+        "Lemon Law",
+        "Landlord and Tenant",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -16064,6 +16885,10 @@
             "U.S. Court of Appeals 8th Circuit, 1970"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -16115,6 +16940,13 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Real Estate",
+        "Criminal Defense",
+        "Estate Planning",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -16214,6 +17046,10 @@
             "Urbandale Planning and Zoning Commission"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Collections",
+        "Estate Planning"
       ]
     },
     {
@@ -16331,6 +17167,12 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Assault and Battery (Plaintiff)",
+        "Drug Crime",
+        "Sex Crime",
+        "DUI and DWI"
       ]
     },
     {
@@ -16375,7 +17217,8 @@
           "type": "text",
           "content": "Attorney Eric K. Schade joined Hupy and Abraham in 2020. He earned his Juris Doctor from Drake University in 2015 and is licensed to practice in Iowa.\n\nAttorney Schade is an active member of the Iowa State Bar Association, The National Trial Lawyers, and the Iowa Association for Justice.\n\nHe is involved in the community as a member of ABATE of Iowa and volunteers with his daughter’s softball team, reflecting his commitment to making a positive local impact.\n\nAttorney Schade is a member of the Million Dollar Advocates Forum, a distinction that reflects his dedication to client success.\n\nHe has successfully recovered over $32 million on behalf of his clients."
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-schemmel-esq",
@@ -16428,7 +17271,8 @@
         ]
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "randall-p-schueller",
@@ -16518,6 +17362,10 @@
             "Iowa State Bar Association, 2003 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -16676,6 +17524,12 @@
             "Drake Law School Board of Counselors, 2011 - 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Construction",
+        "Personal Injury",
+        "Criminal Defense"
       ]
     },
     {
@@ -16794,6 +17648,10 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Professional Malpractice"
       ]
     },
     {
@@ -16908,6 +17766,11 @@
             "Iowa Supreme Court Rules of Civil Procedure Review Task Force, member 2024 - present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Personal Injury Defense",
+        "Legal Malpractice"
       ]
     },
     {
@@ -16998,6 +17861,10 @@
             "Iowa Association for Workers’ Compensation Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -17089,6 +17956,10 @@
             "Scott County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Workers' Compensation"
       ]
     },
     {
@@ -17222,6 +18093,9 @@
             "American Association for Justice (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -17323,6 +18197,11 @@
             "Iowa State Bar Association, Bankruptcy and Commercial Law Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor",
+        "Agriculture"
       ]
     },
     {
@@ -17420,6 +18299,10 @@
             "Young Lawyer's Division (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Personal Injury"
       ]
     },
     {
@@ -17530,6 +18413,11 @@
             "Iowa State Bar Association, Litigation and Worker's Compensation Section (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse"
       ]
     },
     {
@@ -17661,6 +18549,10 @@
             "Iowa Racing Association, 1996 - 2006 (President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Debtor and Creditor"
       ]
     },
     {
@@ -17767,6 +18659,11 @@
             "Iowa Association of Workers’ Compensation Attorneys (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -17861,6 +18758,11 @@
             "NORML Legal Committee (National Organization for the Reform of Marijuana Laws)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Drug Crime",
+        "DUI and DWI"
       ]
     },
     {
@@ -17952,6 +18854,12 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Cannabis Law",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -18065,6 +18973,12 @@
             "District 1B Judicial Nominating Commission, 2010 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -18159,6 +19073,13 @@
             "Phi Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Litigation and Appeals",
+        "Criminal Defense",
+        "Personal Injury",
+        "Social Security Disability"
       ]
     },
     {
@@ -18253,6 +19174,10 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -18368,6 +19293,12 @@
             "Iowa State Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Sex Crime",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)",
+        "DUI and DWI"
       ]
     },
     {
@@ -18413,7 +19344,8 @@
           "type": "text",
           "content": "Terzo was born and raised in Cortez, Colorado, near the Four Corners. He didn’t grow up in a big city or with a silver spoon—he grew up on a cattle ranch in the mountains, where hard work wasn’t optional; it was just life. Before he was a lawyer, he was up at dawn tending to livestock, putting in long days in the fields, and learning firsthand that no one hands you anything—you earn it.\n\nSports were his escape and his passion. He played basketball, football, and baseball, and later, he coached youth teams in baseball and basketball, passing on the lessons of teamwork, discipline, and resilience. Those same qualities carried him through earning undergraduate degrees in Economics and Business at Colorado State University. Then law school brought him to Iowa, where he attended Drake University and started building his career.\n\nHe didn’t take shortcuts. He put in the work and built a name for himself in criminal defense, juvenile law, and Child in Need of Assistance (CINA) cases. He’s not the type to sit behind a desk and push papers—he’s in the trenches, fighting for his clients. He’s earned the respect of judges and attorneys across Iowa, not by talking a big game but by showing up, negotiating hard, and delivering results. He knows how to relate to people, how to tell their stories, and most importantly, how to fight for them.\n\nAnd when he’s not in the courtroom? You might find him at the office with his loyal dog, Oby, who has a knack for bringing comfort to those who need it most. Or maybe he’s around the table with his crew, diving into a game of Dungeons & Dragons. And if you’re a sports fan, you might have even heard him on air as a regular personality on The Rich Eisen Show, where he brings his trademark wit and insight to sports discussions, blending his passion for the game with his natural ability to connect with others.\n\nHe’s not just a lawyer—he’s an advocate, a fighter, and someone who understands what it means to struggle and come out stronger. If you need someone in your corner, he’s ready to go to battle for you.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nTerzo Steves included in a Super Lawyers® list\n\nOther Sources of Feedback About Terzo Steves\n\nIncluded on the 2024Great Plains Super Lawyers list\n\nPast Lists\n\n2023 Great Plains Super Lawyers list\n\n2020 Great Plains Super Lawyers list\n\n2019 Great Plains Super Lawyers list\n\n2018 Great Plains Super Lawyers list\n\n2017 Great Plains Super Lawyers list"
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "todd-a-stowater",
@@ -18525,6 +19457,13 @@
             "Beta Gamma Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Real Estate",
+        "Tax Law",
+        "Personal Injury"
       ]
     },
     {
@@ -18685,6 +19624,11 @@
             "Fellow, Litigation Counsel of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Litigation and Appeals",
+        "DUI and DWI"
       ]
     },
     {
@@ -18773,6 +19717,12 @@
             "Polk County Women Attorneys"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Employment Rights",
+        "ADR Arbitration and Mediation",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -18860,6 +19810,9 @@
             "National Creditos Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -18979,6 +19932,12 @@
             "Appointed by Chief Judge Linda R. Reade to Blue Ribbon Panel on Criminal Cases, United States District Court for the Northern District of Iowa, 2007"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Family Law",
+        "Probate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -19094,6 +20053,12 @@
             "Wealth Counsel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Business Organizations",
+        "Real Estate"
       ]
     },
     {
@@ -19192,6 +20157,15 @@
             "U.S. Court of Federal Claims Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction",
+        "State Local and Municipal Law",
+        "Probate",
+        "Workers' Compensation",
+        "Personal Injury",
+        "Civil Rights",
+        "Insurance Defense"
       ]
     },
     {
@@ -19293,6 +20267,15 @@
             "Iowa State Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Bankruptcy",
+        "Estate Planning",
+        "Family Law",
+        "Real Estate",
+        "Trusts",
+        "Foreclosure and Alternatives",
+        "Construction"
       ]
     },
     {
@@ -19381,7 +20364,8 @@
             "Iowa Association for Justice"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "timothy-n-tripp",
@@ -19529,6 +20513,9 @@
             "National Organization of Social Security Claimants' Representatives (NOSSCR), November 1, 1996 - Present (Sustaining Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability"
       ]
     },
     {
@@ -19669,6 +20656,13 @@
             "Phi Mu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Child Custody",
+        "Personal Injury",
+        "Criminal Defense",
+        "Employment Rights"
       ]
     },
     {
@@ -19770,6 +20764,15 @@
             "Iowa Association for Justice, Board of Governors, 2014 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Employment Rights",
+        "Medical Malpractice",
+        "Legal Malpractice",
+        "Personal Injury",
+        "Family Law",
+        "Professional Malpractice"
       ]
     },
     {
@@ -19874,6 +20877,9 @@
             "Iowa Supreme Court Commissioner on Continuing Legal Education"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -20022,6 +21028,12 @@
             "Iowa Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Constitutional Law",
+        "Patents"
       ]
     },
     {
@@ -20143,6 +21155,11 @@
             "Rock Island County Bar Association , 2016 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "ADR Arbitration and Mediation",
+        "Criminal Defense"
       ]
     },
     {
@@ -20227,7 +21244,8 @@
             "Iowa"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "bryan-p-webber",
@@ -20349,6 +21367,10 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -20451,6 +21473,12 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Medical Malpractice",
+        "Discrimination",
+        "Personal Injury"
       ]
     },
     {
@@ -20549,6 +21577,13 @@
             "Iowa Academy of Trial Lawyers (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Insurance Defense",
+        "Personal Injury",
+        "Estate Planning",
+        "State Local and Municipal Law"
       ]
     },
     {
@@ -20629,6 +21664,9 @@
             "Iowa Bar Association, Governing Council"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -20743,6 +21781,13 @@
             "The 4th Judicial District Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Estate Planning",
+        "Health Care Law",
+        "Real Estate",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -20825,7 +21870,8 @@
             "Iowa Trial Lawyers Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "brian-l-yung",
@@ -20914,6 +21960,12 @@
             "American Board of Trial Advocates (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation",
+        "Litigation and Appeals",
+        "Family Law"
       ]
     }
   ],
@@ -21017,10 +22069,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
         "Family Law",
-        "Sex Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -21076,17 +22126,14 @@
         "Kim Baer Esq."
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Wrongful Death",
         "Animal and Dog Bites",
-        "Business and Commercial Law",
-        "Car Accidents",
-        "Child Custody",
-        "Divorce and Separation",
         "Family Law",
+        "Business and Commercial Law",
         "Medical Malpractice",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Wrongful Death"
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -21135,10 +22182,10 @@
         "Joshua J. Reicks"
       ],
       "official_practice_area": [
-        "Criminal Defense",
         "Estate Planning",
-        "Family Law",
-        "Real Estate"
+        "Real Estate",
+        "Criminal Defense",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -21230,13 +22277,12 @@
         "Mark T. Hedberg"
       ],
       "official_practice_area": [
+        "Workers' Compensation",
         "Employment Rights",
-        "Estate Planning",
         "Labor Law",
-        "Personal Injury",
-        "Social Security",
         "Social Security Disability",
-        "Workers' Compensation"
+        "Personal Injury",
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -21277,8 +22323,7 @@
         "Terrence D. Brown"
       ],
       "official_practice_area": [
-        "Medical Malpractice",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -21382,12 +22427,10 @@
       ],
       "official_practice_area": [
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury",
         "Probate",
         "Real Estate",
         "Tax Law",
+        "Personal Injury",
         "Wills"
       ],
       "additional_locations": [
@@ -21451,14 +22494,12 @@
         "Zachary C. Priebe"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Criminal Defense",
-        "Family Law",
-        "Medical Malpractice",
         "Personal Injury",
-        "Premises Liability",
-        "Professional Malpractice",
-        "Workers' Compensation"
+        "Car Accidents",
+        "Workers' Compensation",
+        "Family Law",
+        "Criminal Defense",
+        "Medical Malpractice"
       ],
       "additional_locations": [
         {
@@ -21522,17 +22563,14 @@
         "Eashaan Vajpeyi"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Divorce and Separation",
-        "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Legal Malpractice",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
-        "Workers' Compensation"
+        "Medical Malpractice",
+        "Family Law",
+        "Legal Malpractice",
+        "Workers' Compensation",
+        "Litigation and Appeals",
+        "Estate Planning",
+        "Divorce and Separation"
       ],
       "additional_locations": [
         {
@@ -21607,24 +22645,18 @@
         "John M. Engler"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
-        "Birth Injury",
-        "Brain Injury",
+        "Personal Injury",
+        "Workers' Compensation",
         "Business and Commercial Law",
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
+        "Medical Malpractice",
         "Criminal Defense",
         "Employment Rights",
         "Estate Planning",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Premises Liability",
         "Probate",
-        "Professional Malpractice",
         "Real Estate",
-        "Truck Accident",
-        "Workers' Compensation",
+        "Birth Injury",
+        "Brain Injury",
+        "Construction Accident",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -21685,13 +22717,10 @@
         "Jeffrey P. Taylor"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business and Commercial Law",
+        "Family Law",
         "Criminal Defense",
         "Estate Planning",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -21742,12 +22771,10 @@
         "Zach Winter"
       ],
       "official_practice_area": [
-        "Construction",
-        "Insurance Defense",
-        "Insurance Law",
         "Personal Injury",
-        "Personal Injury Defense",
-        "Workers' Compensation"
+        "Insurance Defense",
+        "Workers' Compensation",
+        "Construction"
       ],
       "additional_locations": []
     },
@@ -21840,13 +22867,11 @@
         "Emily J. Dean"
       ],
       "official_practice_area": [
-        "Bankruptcy",
-        "Business and Commercial Law",
         "Estate Planning",
         "Probate",
+        "Bankruptcy",
         "Real Estate",
-        "Trusts",
-        "Wills"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -21901,12 +22926,12 @@
         "Tom Drew"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Construction",
-        "Construction Accident",
         "Personal Injury",
-        "Workers' Compensation",
-        "Wrongful Death"
+        "Car Accidents",
+        "Construction Accident",
+        "Disability Insurance",
+        "Wrongful Death",
+        "Workers' Compensation"
       ],
       "additional_locations": []
     },
@@ -21952,8 +22977,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Family Law",
-        "Immigration"
+        "Immigration",
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -22008,17 +23033,13 @@
         "Brian P. Galligan"
       ],
       "official_practice_area": [
-        "Animal and Dog Bites",
+        "Medical Malpractice",
+        "Car Accidents",
+        "Wrongful Death",
         "Birth Injury",
         "Brain Injury",
-        "Car Accidents",
-        "Construction",
         "Construction Accident",
-        "Medical Malpractice",
-        "Personal Injury",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -22061,10 +23082,7 @@
         "Michael M. Sellers",
         "Trent Nelson"
       ],
-      "official_practice_area": [
-        "Administrative Law",
-        "Criminal Defense"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -22154,11 +23172,9 @@
         "Peter W. Hansen"
       ],
       "official_practice_area": [
-        "Bankruptcy",
+        "Personal Injury",
         "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Personal Injury"
+        "Bankruptcy"
       ],
       "additional_locations": []
     },
@@ -22265,25 +23281,17 @@
         "Cristy Tackett-Hunt"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
-        "Business and Commercial Law",
-        "DUI and DWI",
-        "Dangerous Products",
-        "Divorce and Separation",
-        "Domestic Violence",
-        "Drug Crime",
+        "Insurance Defense",
+        "Business Organizations",
         "Employment Rights",
+        "Personal Injury Defense",
         "Estate Planning",
         "Family Law",
-        "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
-        "Personal Injury",
-        "Personal Injury Defense",
-        "Probate",
-        "Sex Crime",
-        "Trusts",
-        "Wills"
+        "Divorce and Separation",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)",
+        "Drug Crime",
+        "Sex Crime"
       ],
       "additional_locations": [
         {
@@ -22342,10 +23350,8 @@
         "Scott Wadding"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Construction",
-        "Insurance Defense",
         "Litigation and Appeals",
+        "Construction",
         "Personal Injury",
         "Probate"
       ],
@@ -22387,8 +23393,7 @@
         "Laura M. Krehbiel"
       ],
       "official_practice_area": [
-        "Estate Planning",
-        "Probate"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -22434,10 +23439,8 @@
         "Timothy L. Lapointe"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
+        "Car Accidents",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -22485,8 +23488,8 @@
         "Robert J. Laubenthal"
       ],
       "official_practice_area": [
-        "Personal Injury",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -22575,11 +23578,9 @@
         "Andrew L. LeGrant"
       ],
       "official_practice_area": [
-        "Discrimination",
         "Employment Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Wrongful Termination"
+        "Wrongful Termination",
+        "Discrimination"
       ],
       "additional_locations": []
     },
@@ -22630,10 +23631,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
         "Personal Injury",
-        "Sex Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -22719,8 +23718,8 @@
         "Darin H. Luneckas"
       ],
       "official_practice_area": [
-        "Personal Injury",
-        "Workers' Compensation"
+        "Workers' Compensation",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -22774,17 +23773,15 @@
         "Ivan E. Miller"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Drug Crime",
         "Estate Planning",
-        "Family Law",
+        "Wills",
+        "Trusts",
         "Probate",
         "Tax Law",
-        "Trusts",
-        "Wills"
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Divorce and Separation"
       ],
       "additional_locations": []
     },
@@ -22873,7 +23870,6 @@
         "Michael T. Norris"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -22918,8 +23914,6 @@
         "Nicholas Platt"
       ],
       "official_practice_area": [
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -23005,8 +23999,7 @@
         "Paul H. Rosenberg"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Federal and White Collar Crimes"
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -23054,12 +24047,10 @@
         "Rush M. Shortley"
       ],
       "official_practice_area": [
-        "Agriculture",
         "Bankruptcy",
+        "Agriculture",
         "Business and Commercial Law",
-        "Debtor and Creditor",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Debtor and Creditor"
       ],
       "additional_locations": [
         {
@@ -23122,13 +24113,12 @@
         "Reagan H. Slater"
       ],
       "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
         "Birth Injury",
         "Brain Injury",
-        "Legal Malpractice",
-        "Medical Malpractice",
         "Nursing Home Abuse",
-        "Personal Injury",
-        "Professional Malpractice"
+        "Legal Malpractice"
       ],
       "additional_locations": []
     },
@@ -23186,11 +24176,9 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
+        "Sex Crime",
         "DUI and DWI",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Internet",
-        "Sex Crime"
+        "Internet"
       ],
       "additional_locations": []
     },
@@ -23232,7 +24220,6 @@
         "Timothy N. Tripp"
       ],
       "official_practice_area": [
-        "Social Security",
         "Social Security Disability"
       ],
       "additional_locations": [
@@ -23383,12 +24370,10 @@
         "Jenny L. Weiss"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Family Law",
         "Insurance Defense",
-        "Insurance Law",
-        "Litigation and Appeals",
         "Personal Injury",
+        "Estate Planning",
         "State Local and Municipal Law"
       ],
       "additional_locations": []
@@ -23431,7 +24416,9 @@
       "attorneys": [
         "Scott L. Bandstra"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -23476,7 +24463,9 @@
         "Charlotte W. Sucik",
         "Joseph F. Wallace"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Collections"
+      ],
       "additional_locations": []
     },
     {
@@ -23517,7 +24506,9 @@
         "Ryan T. Beattie",
         "Nile Hicks"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -23595,7 +24586,34 @@
         "James R. Moore",
         "Benjamin J. Stansberry"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Administrative Law",
+        "Agriculture",
+        "Banking and Finance Law",
+        "Bankruptcy",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Child Support",
+        "Civil Rights",
+        "Collections",
+        "Contracts",
+        "DUI and DWI",
+        "Debtor and Creditor",
+        "Elder Law",
+        "Family Law",
+        "Legal Malpractice",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Personal Injury",
+        "Probate",
+        "Real Estate",
+        "Social Security Disability",
+        "Trusts",
+        "Wills",
+        "Workers' Compensation",
+        "Criminal Defense",
+        "Health Care Law"
+      ],
       "additional_locations": []
     },
     {
@@ -23636,7 +24654,9 @@
         "George A. Cady III",
         "Megan Rosenberg"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate"
+      ],
       "additional_locations": []
     },
     {
@@ -23684,7 +24704,13 @@
         "Michael P. Murphy",
         "J. Cole Hancock"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Criminal Defense",
+        "Personal Injury",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
@@ -23735,7 +24761,15 @@
         "John G. De Koster",
         "Philip J. De Koster"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Business Organizations",
+        "Adoption",
+        "Science and Technology Law",
+        "State Local and Municipal Law",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -23784,7 +24818,14 @@
         "Steven Klesner",
         "Joe Pavelich"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Bankruptcy",
+        "Family Law",
+        "Business and Commercial Law",
+        "Wills",
+        "Trusts"
+      ],
       "additional_locations": []
     },
     {
@@ -23822,7 +24863,9 @@
       "attorneys": [
         "Jeffrey T. Mains"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -23870,7 +24913,12 @@
         "Dalton Renner",
         "Taylor Reichardt"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Criminal Defense",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -23911,7 +24959,9 @@
         "Patrick C. Peters",
         "Margaret M. Rhodes"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ],
       "additional_locations": []
     },
     {
@@ -23953,7 +25003,9 @@
       "attorneys": [
         "Nicholas G. Pothitakis"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Workers' Compensation"
+      ],
       "additional_locations": []
     },
     {
@@ -24001,7 +25053,12 @@
       "attorneys": [
         "Mr. J. Keith Rigg"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes",
+        "Litigation and Appeals",
+        "Drug Crime"
+      ],
       "additional_locations": []
     },
     {
@@ -24043,7 +25100,9 @@
         "Bryan S. Witherwax",
         "Kaitlin J. Acton"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     }
   ]

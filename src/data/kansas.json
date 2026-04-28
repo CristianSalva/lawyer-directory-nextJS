@@ -118,6 +118,13 @@
             "Kansas, 2016"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Real Estate",
+        "Insurance Defense",
+        "Employment Rights",
+        "Medical Malpractice"
       ]
     },
     {
@@ -191,6 +198,10 @@
             "Texas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -296,6 +307,10 @@
             "American Association for Justice (Past Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Personal Injury"
       ]
     },
     {
@@ -414,6 +429,9 @@
             "Kansas City Metro Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -506,6 +524,13 @@
             "Kansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -613,6 +638,17 @@
             "Kansas Lawyer Assistance Program (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Father's Rights",
+        "Employment Rights",
+        "Family Law",
+        "Medical Malpractice",
+        "Professional Malpractice",
+        "Social Security Disability",
+        "Wills"
       ]
     },
     {
@@ -663,6 +699,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Construction"
       ]
     },
     {
@@ -759,6 +798,13 @@
             "Johnson County Family Law American Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -854,6 +900,13 @@
             "Kansas Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -981,6 +1034,11 @@
             "Clinical Professional Counselor"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Elder Law",
+        "Estate Planning",
+        "Litigation and Appeals"
       ]
     },
     {
@@ -1094,6 +1152,14 @@
             "Pratt Area Chamber of Commerce, Director"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Litigation and Appeals",
+        "Real Estate"
       ]
     },
     {
@@ -1190,6 +1256,9 @@
             "Johnson County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -1268,7 +1337,8 @@
             "The Association of Trial Lawyers of America (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lara-blake-bors",
@@ -1422,6 +1492,15 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "Adoption",
+        "DUI and DWI",
+        "Traffic Ticket"
       ]
     },
     {
@@ -1551,6 +1630,11 @@
             "Phi Alpha Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -1653,6 +1737,11 @@
             "President of the Kansas Bar Association, Gas and Mineral Law Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Real Estate",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -1743,6 +1832,11 @@
             "Arkansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Bad Faith Insurance",
+        "Contracts"
       ]
     },
     {
@@ -1853,6 +1947,11 @@
             "National Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Assault and Battery (Plaintiff)"
       ]
     },
     {
@@ -1953,6 +2052,9 @@
             "Eta Kappa Nu"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -2025,6 +2127,14 @@
             "U.S. District Court District of Kansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Federal and White Collar Crimes",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Traffic Ticket",
+        "Sex Crime"
       ]
     },
     {
@@ -2115,6 +2225,10 @@
             "Kansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -2192,6 +2306,14 @@
             "Alpha Gamma Rho"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Class Actions",
+        "Family Law",
+        "Divorce and Separation",
+        "Real Estate",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -2310,6 +2432,15 @@
             "Phi Kappa Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Business Organizations",
+        "Business and Commercial Law",
+        "Estate Planning",
+        "Probate",
+        "Bad Faith Insurance",
+        "Education"
       ]
     },
     {
@@ -2393,6 +2524,10 @@
             "Advisory Board Member for the University of Kansas Center for International Business Ethics"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Trademarks",
+        "Copyrights"
       ]
     },
     {
@@ -2492,6 +2627,9 @@
             "Missouri Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -2631,6 +2769,11 @@
             "Kappa Alpha Theta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support"
       ]
     },
     {
@@ -2755,6 +2898,12 @@
             "Collaborative Divorce Professionals of Kansas City"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Support",
+        "Father's Rights",
+        "Family Law"
       ]
     },
     {
@@ -2861,6 +3010,14 @@
             "Saline-Ottawa County Bar Association (Past President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Landlord and Tenant",
+        "Debtor and Creditor",
+        "Real Estate"
       ]
     },
     {
@@ -2937,6 +3094,9 @@
             "Kansas, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation"
       ]
     },
     {
@@ -3073,6 +3233,13 @@
             "KCMBA"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Custody",
+        "Landlord and Tenant",
+        "Criminal Defense",
+        "Debtor and Creditor",
+        "Elder Law"
       ]
     },
     {
@@ -3168,6 +3335,13 @@
             "Wyandotte County Bar Association, 1997 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Workers' Compensation"
       ]
     },
     {
@@ -3252,6 +3426,9 @@
             "Kansas, 1977"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -3335,6 +3512,9 @@
             "U.S. Supreme Court, 2011"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Car Accidents"
       ]
     },
     {
@@ -3421,6 +3601,14 @@
             "Kansas, 1994"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Wrongful Death",
+        "Car Accidents",
+        "Truck Accident"
       ]
     },
     {
@@ -3544,6 +3732,14 @@
             "Mediator"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -3643,7 +3839,8 @@
             "Johnson County Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dustin-crook",
@@ -3738,6 +3935,9 @@
             "Johnson County Bar Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -3860,6 +4060,14 @@
             "COMVAC (Community Violence Action Council), 1997 - 2000 (Justice Committee)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Collaborative Law",
+        "ADR Arbitration and Mediation",
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -3971,6 +4179,19 @@
             "Miami County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Father's Rights",
+        "Child Support",
+        "Adoption",
+        "DUI and DWI",
+        "Drug Crime",
+        "Assault and Battery (Plaintiff)",
+        "Car Accidents",
+        "Wills",
+        "Trusts",
+        "Health Care Law"
       ]
     },
     {
@@ -4060,6 +4281,11 @@
             "Missouri"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Litigation and Appeals",
+        "Real Estate",
+        "Business Organizations"
       ]
     },
     {
@@ -4149,6 +4375,11 @@
             "National Employment Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Civil Rights"
       ]
     },
     {
@@ -4277,6 +4508,12 @@
             "Johnson County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability"
       ]
     },
     {
@@ -4353,6 +4590,9 @@
             "U.S. Court of Appeals for the Armed Forces"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -4440,6 +4680,9 @@
             "Missouri"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -4544,6 +4787,13 @@
             "District of Columbia"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wrongful Termination",
+        "Discrimination",
+        "Sexual Harassment",
+        "Family Law"
       ]
     },
     {
@@ -4666,6 +4916,10 @@
             "Wyandotte County Bar Association, Bench-Bar Committee, 2017"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -4757,6 +5011,9 @@
             "Kansas Association of Criminal Defense Lawyers, September 1, 2023 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -4838,7 +5095,8 @@
             "National College for DUI Defense"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "thomas-j-erker",
@@ -4941,6 +5199,11 @@
             "Kansas Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Personal Injury"
       ]
     },
     {
@@ -5087,6 +5350,9 @@
             "Eastern Kansas Oil and Gas Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy"
       ]
     },
     {
@@ -5189,6 +5455,9 @@
             "KC Metropolitan Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Truck Accident"
       ]
     },
     {
@@ -5275,6 +5544,9 @@
             "Johnson County Bar Association (Member, Present)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -5394,6 +5666,15 @@
             "Wichita Estate Planning Council (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Health Care Law",
+        "Insurance Defense",
+        "ADR Arbitration and Mediation",
+        "Medical Malpractice",
+        "Personal Injury Defense",
+        "Probate"
       ]
     },
     {
@@ -5495,6 +5776,9 @@
             "State of Kansas, Workers Compensation (Director)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -5540,7 +5824,8 @@
             "Member"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "melanie-graber",
@@ -5606,6 +5891,10 @@
             "Associate Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "State Local and Municipal Law",
+        "Family Law"
       ]
     },
     {
@@ -5704,6 +5993,10 @@
             "Missouri Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability"
       ]
     },
     {
@@ -5833,6 +6126,16 @@
             "Business Networking International (BNI), 2009 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Car Accidents",
+        "Truck Accident",
+        "Medical Malpractice",
+        "Wrongful Death",
+        "Premises Liability",
+        "Criminal Defense",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -6006,6 +6309,12 @@
             "Kansas Association of Criminal Defense Lawyers – Member and CLE presenter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Sexual Abuse",
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -6114,6 +6423,13 @@
             "Delta Theta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Elder Law",
+        "Tax Law",
+        "Trusts",
+        "Probate"
       ]
     },
     {
@@ -6144,7 +6460,8 @@
         "features": []
       },
       "practice_areas": [],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "robert-g-harken",
@@ -6230,6 +6547,10 @@
             "Kansas, 2004"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Contracts",
+        "Class Actions"
       ]
     },
     {
@@ -6309,6 +6630,9 @@
             "Kansas Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury Defense"
       ]
     },
     {
@@ -6408,6 +6732,11 @@
             "Missouri Organization of Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Premises Liability",
+        "Bad Faith Insurance"
       ]
     },
     {
@@ -6512,6 +6841,10 @@
             "Johnson County Bar Association, 1999"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Immigration"
       ]
     },
     {
@@ -6600,6 +6933,9 @@
             "Johnson County Bar Association, 2004 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Child Support"
       ]
     },
     {
@@ -6758,6 +7094,22 @@
             "Association of Family and Conciliation Courts and the Missouri Chapter"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "DUI and DWI",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Real Estate",
+        "Traffic Ticket",
+        "Domestic Violence"
       ]
     },
     {
@@ -6901,6 +7253,9 @@
             "Earl E. O’Conner Inn of Court (Mentor Attorney)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7000,6 +7355,10 @@
             "Johnson County Family Law American Inn of Court"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -7117,6 +7476,14 @@
             "Sigma Theta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Adoption"
       ]
     },
     {
@@ -7209,6 +7576,14 @@
             "American Health Lawyers Association, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Employment Rights",
+        "Estate Planning",
+        "Health Care Law",
+        "Insurance Defense",
+        "Probate"
       ]
     },
     {
@@ -7351,6 +7726,13 @@
             "Shawnee County Guardian ad Litem Panel"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Child Custody",
+        "Family Law",
+        "DUI and DWI",
+        "Elder Law"
       ]
     },
     {
@@ -7459,6 +7841,15 @@
             "Phi Eta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Communications and Media Law",
+        "Contracts",
+        "Entertainment Sports and Leisure Law",
+        "Patents",
+        "Science and Technology Law",
+        "Trademarks"
       ]
     },
     {
@@ -7576,6 +7967,9 @@
             "Ross T. Roberts Inn of Court, January 1, 2010 - Present (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -7677,6 +8071,14 @@
             "Metropolitan Kansas City Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Discrimination",
+        "Employment Rights",
+        "Labor Law",
+        "Litigation and Appeals",
+        "Workers' Compensation",
+        "Personal Injury"
       ]
     },
     {
@@ -7768,6 +8170,12 @@
             "Financial Planning Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Tax Law",
+        "Business and Commercial Law"
       ]
     },
     {
@@ -7872,6 +8280,15 @@
             "Supreme Court State of Kansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Family Law",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Adoption",
+        "Elder Law"
       ]
     },
     {
@@ -7959,6 +8376,11 @@
             "Kansas Association for Justice, Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8046,6 +8468,10 @@
             "Missouri"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business Organizations",
+        "Gaming"
       ]
     },
     {
@@ -8130,6 +8556,15 @@
             "English"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Domestic Violence",
+        "Trusts"
       ]
     },
     {
@@ -8221,7 +8656,8 @@
             "Metropolitan Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-r-kurth",
@@ -8304,6 +8740,13 @@
             "Pi Delta Sigma"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Divorce and Separation",
+        "Estate Planning",
+        "Family Law"
       ]
     },
     {
@@ -8390,6 +8833,14 @@
             "U.S. Tax Court, 1984"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Estate Planning",
+        "Divorce and Separation",
+        "Adoption",
+        "Child Custody",
+        "Domestic Violence"
       ]
     },
     {
@@ -8519,6 +8970,15 @@
             "Association of Family and Conciliation Courts (AFCC), Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "ADR Arbitration and Mediation",
+        "Criminal Defense"
       ]
     },
     {
@@ -8619,6 +9079,15 @@
             "U.S. District Court Western District of Missouri"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Adoption",
+        "Elder Law"
       ]
     },
     {
@@ -8706,6 +9175,13 @@
             "Illinois"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Elder Law",
+        "Tax Law",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -8770,6 +9246,12 @@
             "U.S. District Court District of Kansas, 1995"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Criminal Defense",
+        "Real Estate",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8873,6 +9355,10 @@
             "Wichita Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -8978,6 +9464,12 @@
             "Johnson County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Probate"
       ]
     },
     {
@@ -9063,6 +9555,9 @@
             "Topeka Criminal Defense Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -9174,6 +9669,14 @@
             "Wichita Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation",
+        "Personal Injury",
+        "Wrongful Death",
+        "Medical Malpractice",
+        "Nursing Home Abuse",
+        "Premises Liability"
       ]
     },
     {
@@ -9281,6 +9784,17 @@
             "Pi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Banking and Finance Law",
+        "Business Organizations",
+        "Estate Planning",
+        "Insurance Defense",
+        "Medical Malpractice",
+        "State Local and Municipal Law",
+        "Personal Injury Defense",
+        "Probate",
+        "Real Estate"
       ]
     },
     {
@@ -9368,6 +9882,9 @@
             "Domestic Violence Alliance (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -9488,6 +10005,15 @@
             "Kansas City Metropolitan Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Personal Injury"
       ]
     },
     {
@@ -9577,6 +10103,11 @@
             "Sigma Phi Epsilon"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Discrimination",
+        "Wrongful Termination"
       ]
     },
     {
@@ -9708,6 +10239,10 @@
             "National Organization of Veteran’s Advocates, Inc. (NOVA) (Sustaining Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Social Security Disability",
+        "Disability Insurance"
       ]
     },
     {
@@ -9759,7 +10294,20 @@
         "Products Liability Law",
         "Medical Malpractice"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "Medical Malpractice"
+      ]
     },
     {
       "slug": "jake-michalski",
@@ -9830,7 +10378,8 @@
             "Topeka Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "ralph-a-monaco-ii",
@@ -9967,7 +10516,8 @@
             "Jackson County Historical Society (Board President)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "dan-monnat",
@@ -10176,6 +10726,9 @@
             "Kansas Bar Foundation (Fellow)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -10269,6 +10822,12 @@
             "Families Together, Inc., 2009 - 2013 (Board Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Child Custody",
+        "Divorce and Separation",
+        "Personal Injury"
       ]
     },
     {
@@ -10345,6 +10904,23 @@
             "Kansas, 1980"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Constitutional Law",
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Family Law",
+        "Child Support",
+        "Divorce and Separation",
+        "Litigation and Appeals",
+        "Personal Injury",
+        "State Local and Municipal Law",
+        "Class Actions",
+        "Insurance Law",
+        "Medical Malpractice",
+        "Professional Malpractice"
       ]
     },
     {
@@ -10454,6 +11030,10 @@
             "Minnesota"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI"
       ]
     },
     {
@@ -10492,7 +11072,8 @@
       "practice_areas": [
         "Business Transaction"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "4783745_1",
@@ -10530,7 +11111,10 @@
       "practice_areas": [
         "Criminal Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ]
     },
     {
       "slug": "1019757_1",
@@ -10568,7 +11152,10 @@
       "practice_areas": [
         "Bankruptcy Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Bankruptcy"
+      ]
     },
     {
       "slug": "1886071_1",
@@ -10606,7 +11193,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "4762529_1",
@@ -10644,7 +11234,8 @@
       "practice_areas": [
         "Domestic Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "2140776_1",
@@ -10682,7 +11273,8 @@
       "practice_areas": [
         "Civil Litigation"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "1764730_1",
@@ -10719,7 +11311,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "2145818_1",
@@ -10756,7 +11351,10 @@
       "practice_areas": [
         "Contracts"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Contracts"
+      ]
     },
     {
       "slug": "2348768_1",
@@ -10793,7 +11391,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "2250950_1",
@@ -10830,7 +11431,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "1342924_1",
@@ -10867,7 +11471,10 @@
       "practice_areas": [
         "Administrative Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ]
     },
     {
       "slug": "2251173_1",
@@ -10904,7 +11511,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "1401800_1",
@@ -10946,7 +11556,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "2353437_1",
@@ -10988,7 +11601,10 @@
       "practice_areas": [
         "Personal Injury -- Defense"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Personal Injury Defense"
+      ]
     },
     {
       "slug": "5004945_1",
@@ -11027,7 +11643,10 @@
       "practice_areas": [
         "Trademarks"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Trademarks"
+      ]
     },
     {
       "slug": "5004940_1",
@@ -11066,7 +11685,10 @@
       "practice_areas": [
         "Preparation and Prosecution of Domestic and International Patent Applications"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "3912718_1",
@@ -11105,7 +11727,10 @@
       "practice_areas": [
         "Patent Preparation and Prosecution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "3168764_1",
@@ -11144,7 +11769,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "5004942_1",
@@ -11183,7 +11811,8 @@
       "practice_areas": [
         "Preparation and Prosecution of Mechanical and Computer Related Patents"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": []
     },
     {
       "slug": "5259128_1",
@@ -11222,7 +11851,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "2247657_1",
@@ -11261,7 +11893,10 @@
       "practice_areas": [
         "Patent Prosecution"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "5004941_1",
@@ -11300,7 +11935,10 @@
       "practice_areas": [
         "Patents"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "1353774_1",
@@ -11339,7 +11977,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "1199054_1",
@@ -11378,7 +12019,10 @@
       "practice_areas": [
         "Patents"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "3168764_1",
@@ -11417,7 +12061,10 @@
       "practice_areas": [
         "Intellectual Property"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Patents"
+      ]
     },
     {
       "slug": "2250950_1",
@@ -11454,7 +12101,10 @@
       "practice_areas": [
         "Estate Planning"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ]
     },
     {
       "slug": "sarah-l-newell",
@@ -11510,6 +12160,12 @@
             "Member"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Bankruptcy",
+        "Estate Planning",
+        "Health Care Law"
       ]
     },
     {
@@ -11611,6 +12267,14 @@
             "Kansas Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Estate Planning",
+        "Contracts",
+        "Natural Resources",
+        "Real Estate",
+        "Trusts"
       ]
     },
     {
@@ -11702,6 +12366,9 @@
             "Kansas Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -11823,6 +12490,17 @@
             "American Health Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Administrative Law",
+        "Banking and Finance Law",
+        "Business and Commercial Law",
+        "Contracts",
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -11915,6 +12593,9 @@
             "International Academy of Collaborative Professionals"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -12083,6 +12764,9 @@
             "FINRA Series 24 – General Securities Principal (Lapsed)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Federal and White Collar Crimes"
       ]
     },
     {
@@ -12184,6 +12868,14 @@
             "DRI"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Medical Malpractice",
+        "Insurance Defense",
+        "Health Care Law",
+        "Business Organizations",
+        "State Local and Municipal Law",
+        "Construction"
       ]
     },
     {
@@ -12224,7 +12916,12 @@
         "Personal Injury",
         "Family Law"
       ],
-      "sections": []
+      "sections": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
+      ]
     },
     {
       "slug": "john-l-richeson",
@@ -12361,6 +13058,11 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Oil Gas and Energy",
+        "Elder Law"
       ]
     },
     {
@@ -12459,7 +13161,8 @@
             "Washburn Law School’s Alumni Association (Lifetime Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "richard-g-rozier-phd",
@@ -12553,6 +13256,9 @@
             "Institute of Electrical and Electronics Engineers (IEEE), Member, 1990 – Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents"
       ]
     },
     {
@@ -12655,6 +13361,11 @@
             "Wichita Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions",
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -12761,6 +13472,15 @@
             "Missouri State Bar"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Adoption",
+        "Elder Law"
       ]
     },
     {
@@ -12854,6 +13574,11 @@
             "Kansas Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Real Estate",
+        "Banking and Finance Law"
       ]
     },
     {
@@ -12957,6 +13682,12 @@
             "Kansas Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Family Law",
+        "Real Estate",
+        "ADR Arbitration and Mediation"
       ]
     },
     {
@@ -13088,6 +13819,24 @@
             "Wichita Crime Commission"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Business and Commercial Law",
+        "Divorce and Separation",
+        "Family Law",
+        "Child Custody",
+        "Child Support",
+        "Criminal Defense",
+        "ADR Arbitration and Mediation",
+        "Collaborative Law",
+        "Contracts",
+        "Father's Rights",
+        "Military Divorce",
+        "State Local and Municipal Law",
+        "Probate",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -13173,6 +13922,10 @@
             "U.S. District Court District of Kansas, 2020"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Landlord and Tenant"
       ]
     },
     {
@@ -13248,6 +14001,9 @@
             "Johnson County District Attorney's Office"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI"
       ]
     },
     {
@@ -13356,6 +14112,10 @@
             "Kansas, 2008"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Wage and Hour"
       ]
     },
     {
@@ -13469,6 +14229,14 @@
             "Delta Delta Delta"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Domestic Violence",
+        "Drug Crime",
+        "DUI and DWI",
+        "Traffic Ticket",
+        "Family Law"
       ]
     },
     {
@@ -13568,6 +14336,13 @@
             "Missouri Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Same Sex",
+        "Child Custody",
+        "Father's Rights"
       ]
     },
     {
@@ -13672,6 +14447,10 @@
             "Finney County Bar Association (Former President)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Workers' Compensation"
       ]
     },
     {
@@ -13775,6 +14554,9 @@
             "Reno County Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     },
     {
@@ -13874,6 +14656,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense"
       ]
     },
     {
@@ -13970,6 +14755,9 @@
             "American Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law"
       ]
     },
     {
@@ -14069,6 +14857,11 @@
             "Finney County Bar Association (Co-President, 2013)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Oil Gas and Energy",
+        "Banking and Finance Law",
+        "Personal Injury"
       ]
     },
     {
@@ -14161,6 +14954,10 @@
             "Kansas"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation"
       ]
     },
     {
@@ -14208,6 +15005,9 @@
             "Attorney"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning"
       ]
     },
     {
@@ -14298,6 +15098,9 @@
             "Kansas Bar Association: Employment Section"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights"
       ]
     },
     {
@@ -14374,6 +15177,11 @@
             "American Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Elder Law",
+        "Estate Planning"
       ]
     },
     {
@@ -14499,6 +15307,18 @@
             "Theta Chi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Employment Rights",
+        "Litigation and Appeals",
+        "Medical Malpractice",
+        "Probate",
+        "Social Security Disability",
+        "Toxic Torts",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -14542,7 +15362,8 @@
           "type": "text",
           "content": "After earning her bachelor’s degree in Environmental Studies from the University of Kansas in 1999, Laura Smith remained at the University of Kansas School of Law and obtained her Juris Doctorate. After passing the Kansas (2002) and Missouri (2003) bars, Laura worked in a variety of legal areas, including trusts, estate planning, business formation, insurance claims, landlord/tenant matters, and criminal defense.\n\nIn 2007, Laura became an Assistant District Attorney, first in Wyandotte County, Kansas before then moving to the Johnson County District Attorney’s in 2008. Laura spent 7.5 years prosecuting high-level drug cases, including the manufacture, cultivation, and distribution of narcotics, and her final year focused on charging cases for the Johnson County District Attorney’s Office. These experiences gave her a broad base of knowledge. During her career in prosecution, she was able to handle a number of high-level and high-profile cases, including person, property, and drug crimes.\n\nAfter 10 years in prosecution, Laura began her practice in family law in 2016. Her family law practice includes divorce, paternity, modification, child custody, child support, protection orders, and guardianships. Working in family law has been extremely fulfilling and has allowed Laura to continue her passion for helping others during some of their most challenging life experiences. “Divorce can be extremely stressful. It can be extremely consuming for people,” Smith said, “Your whole life is up in the air, but that’s where having the right attorney, the right partner in this process, makes all the difference.”"
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "karen-snyder",
@@ -14639,6 +15460,9 @@
             "Supreme Court of the United States of America"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Class Actions"
       ]
     },
     {
@@ -14752,6 +15576,11 @@
             "Overland Park Chamber of Commerce"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Employment Rights",
+        "Class Actions",
+        "Probate"
       ]
     },
     {
@@ -14854,7 +15683,8 @@
             "Wichita Bar Association"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "john-r-stanley",
@@ -14949,6 +15779,9 @@
             "Missouri Association of Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Workers' Compensation"
       ]
     },
     {
@@ -15084,6 +15917,15 @@
             "Kansas City Metropolitan Bar Association (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Probate",
+        "Trusts",
+        "Elder Law",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Personal Injury"
       ]
     },
     {
@@ -15204,6 +16046,14 @@
             "International Academy of Collaborative Professionals (Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Divorce and Separation",
+        "Collaborative Law",
+        "ADR Arbitration and Mediation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights"
       ]
     },
     {
@@ -15298,6 +16148,16 @@
             "English (Primary)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Custody",
+        "Child Support",
+        "Father's Rights",
+        "Adoption",
+        "Estate Planning",
+        "Domestic Violence"
       ]
     },
     {
@@ -15422,6 +16282,12 @@
             "University of Kansas Tennis Team"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "DUI and DWI",
+        "Federal and White Collar Crimes",
+        "Personal Injury"
       ]
     },
     {
@@ -15574,6 +16440,14 @@
             "Pratt Area Youth Sports Authority, Inc. (Founder, President and Board Of Directors)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Natural Resources",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Family Law",
+        "State Local and Municipal Law",
+        "Criminal Defense"
       ]
     },
     {
@@ -15680,6 +16554,13 @@
             "Kansas Bar Association’s Ethics and Grievance committee (Former Member)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Elder Law",
+        "Tax Law",
+        "Wills",
+        "Probate"
       ]
     },
     {
@@ -15748,6 +16629,11 @@
             "Kansas, 2001"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Personal Injury",
+        "Family Law"
       ]
     },
     {
@@ -15852,7 +16738,8 @@
             "Kansas Trial Lawyers Association (Member)"
           ]
         }
-      ]
+      ],
+      "official_practice_area": []
     },
     {
       "slug": "lawrence-l-tenopir",
@@ -16006,6 +16893,11 @@
             "Phi Delta Kappa"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Real Estate",
+        "Collections"
       ]
     },
     {
@@ -16091,6 +16983,10 @@
             "Johnson County Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "DUI and DWI",
+        "Criminal Defense"
       ]
     },
     {
@@ -16179,6 +17075,10 @@
             "Super Lawyers for Kansas & Missouri (Rising Star)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Consumer Protection",
+        "Housing and Construction Defects"
       ]
     },
     {
@@ -16326,6 +17226,21 @@
             "Phi Delta Phi"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Child Support",
+        "Child Custody",
+        "Father's Rights",
+        "Personal Injury",
+        "Premises Liability",
+        "Animal and Dog Bites",
+        "Wrongful Death",
+        "Domestic Violence",
+        "Nursing Home Abuse",
+        "Probate",
+        "Wills"
       ]
     },
     {
@@ -16438,6 +17353,11 @@
             "NACDL - National Association of Criminal Defense Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury",
+        "Medical Malpractice",
+        "Animal and Dog Bites"
       ]
     },
     {
@@ -16557,6 +17477,10 @@
             "Kansas City Metropolitan Bar Association (KCMBA)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Trademarks"
       ]
     },
     {
@@ -16689,6 +17613,16 @@
             "Wichita Bar Association, Medical-Legal Committee, 2003 - 2005 (Chair)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Administrative Law",
+        "Estate Planning",
+        "Health Care Law",
+        "Insurance Defense",
+        "ADR Arbitration and Mediation",
+        "Medical Malpractice",
+        "Personal Injury Defense",
+        "Probate"
       ]
     },
     {
@@ -16807,6 +17741,20 @@
             "Kansas Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Adoption",
+        "Business and Commercial Law",
+        "Business Organizations",
+        "Contracts",
+        "Divorce and Separation",
+        "Estate Planning",
+        "Family Law",
+        "Probate",
+        "Real Estate",
+        "State Local and Municipal Law",
+        "Trusts",
+        "Wills"
       ]
     },
     {
@@ -16908,6 +17856,12 @@
             "Big Brothers Big Sisters, 2012 - Present"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Probate",
+        "Trusts",
+        "Estate Planning",
+        "Real Estate"
       ]
     },
     {
@@ -17056,6 +18010,13 @@
             "Phi Sigma Alpha"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Estate Planning",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Employment Rights",
+        "Probate"
       ]
     },
     {
@@ -17194,6 +18155,10 @@
             "Member of Sports Lawyers Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Patents",
+        "Gaming"
       ]
     },
     {
@@ -17308,6 +18273,11 @@
             "Kansas Trial Lawyer Association (Executive Board)"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Wrongful Death",
+        "Nursing Home Abuse",
+        "Premises Liability"
       ]
     },
     {
@@ -17419,6 +18389,10 @@
             "Topeka Bar Association"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Criminal Defense"
       ]
     },
     {
@@ -17519,6 +18493,10 @@
             "Iowa, 2006"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Nursing Home Abuse",
+        "Wrongful Termination"
       ]
     },
     {
@@ -17617,6 +18595,9 @@
             "Wyoming Trial Lawyers"
           ]
         }
+      ],
+      "official_practice_area": [
+        "Personal Injury"
       ]
     }
   ],
@@ -17662,11 +18643,7 @@
         "Stanley B. Bachman"
       ],
       "official_practice_area": [
-        "ADR Arbitration and Mediation",
-        "Business and Commercial Law",
-        "Construction",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Construction"
       ],
       "additional_locations": []
     },
@@ -17717,13 +18694,12 @@
         "Kyle L. Barscewski J.D."
       ],
       "official_practice_area": [
+        "Family Law",
         "ADR Arbitration and Mediation",
-        "Adoption",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Divorce and Separation",
-        "Family Law",
-        "Same Sex"
+        "Adoption"
       ],
       "additional_locations": []
     },
@@ -17771,14 +18747,9 @@
         "S. Lynn Bayes-Weiner"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Contracts",
         "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Probate",
-        "Trusts",
-        "Wills"
+        "Business and Commercial Law"
       ],
       "additional_locations": []
     },
@@ -17875,8 +18846,6 @@
       ],
       "official_practice_area": [
         "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": []
@@ -17926,13 +18895,9 @@
         "Stephen W. Cavanaugh"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
         "Criminal Defense",
-        "Estate Planning",
-        "Insurance Defense",
         "Litigation and Appeals",
-        "Personal Injury",
-        "Wills"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -17986,15 +18951,12 @@
         "Lara Blake Bors"
       ],
       "official_practice_area": [
-        "Adoption",
-        "Child Custody",
-        "Child Support",
-        "Criminal Defense",
         "Divorce and Separation",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Traffic Ticket"
+        "Child Custody",
+        "Child Support",
+        "Adoption",
+        "Criminal Defense"
       ],
       "additional_locations": []
     },
@@ -18039,9 +19001,7 @@
         "Matthew L. Bretz"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Motor Vehicle Defects",
-        "Personal Injury"
+        "Motor Vehicle Defects"
       ],
       "additional_locations": [
         {
@@ -18097,9 +19057,7 @@
         "Matthew Brooker"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury",
-        "Truck Accident"
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -18151,11 +19109,9 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
         "Drug Crime",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Sex Crime"
+        "Sex Crime",
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -18208,7 +19164,7 @@
         "Dianne M. Smith-Misemer"
       ],
       "official_practice_area": [
-        "Real Estate"
+        "Patents"
       ],
       "additional_locations": []
     },
@@ -18258,8 +19214,8 @@
         "Criminal Defense",
         "DUI and DWI",
         "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "Sex Crime",
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -18310,10 +19266,9 @@
         "Mit S. Winter"
       ],
       "official_practice_area": [
-        "Business Organizations",
-        "Business and Commercial Law",
         "Criminal Defense",
-        "Federal and White Collar Crimes",
+        "Business and Commercial Law",
+        "Business Organizations",
         "Gaming"
       ],
       "additional_locations": [
@@ -18522,8 +19477,8 @@
         "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "Sex Crime",
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -18569,12 +19524,8 @@
         "James M. Crabtree"
       ],
       "official_practice_area": [
-        "Dangerous Products",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice"
+        "Medical Malpractice"
       ],
       "additional_locations": []
     },
@@ -18661,8 +19612,8 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "Estate Planning",
-        "Family Law"
+        "Family Law",
+        "Estate Planning"
       ],
       "additional_locations": [
         {
@@ -18724,17 +19675,12 @@
         "William P. Denning"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Civil Rights",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Medical Malpractice",
-        "Nursing Home Abuse",
         "Personal Injury",
+        "Medical Malpractice",
+        "Wrongful Death",
         "Premises Liability",
-        "Professional Malpractice",
-        "Truck Accident",
-        "Wrongful Death"
+        "Civil Rights",
+        "Nursing Home Abuse"
       ],
       "additional_locations": []
     },
@@ -18786,22 +19732,15 @@
         "Joseph A. DeWoskin"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Child Custody",
-        "Child Support",
-        "Criminal Defense",
-        "DUI and DWI",
-        "Divorce and Separation",
-        "Estate Planning",
-        "Family Law",
         "Military",
         "Personal Injury",
         "Premises Liability",
+        "Family Law",
+        "Child Custody",
+        "Estate Planning",
         "Probate",
-        "Social Security",
-        "Social Security Disability",
-        "Traffic Ticket",
-        "Wills"
+        "Criminal Defense",
+        "Social Security Disability"
       ],
       "additional_locations": []
     },
@@ -18854,9 +19793,6 @@
         "Jerry Lee Wallentine"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury"
       ],
       "additional_locations": [
@@ -18983,9 +19919,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -19037,10 +19971,7 @@
       ],
       "official_practice_area": [
         "Criminal Defense",
-        "DUI and DWI",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Sex Crime"
+        "DUI and DWI"
       ],
       "additional_locations": []
     },
@@ -19081,7 +20012,6 @@
         "Lawrence D. Flick"
       ],
       "official_practice_area": [
-        "Personal Injury",
         "Truck Accident"
       ],
       "additional_locations": [
@@ -19138,9 +20068,7 @@
         "Laura Smith"
       ],
       "official_practice_area": [
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -19230,8 +20158,7 @@
         "M. Tony Patton"
       ],
       "official_practice_area": [
-        "Bad Faith Insurance",
-        "Insurance Law"
+        "Bad Faith Insurance"
       ],
       "additional_locations": []
     },
@@ -19279,11 +20206,10 @@
         "Mark Grover"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Medical Malpractice",
         "Personal Injury",
-        "Professional Malpractice",
+        "Car Accidents",
         "Truck Accident",
+        "Medical Malpractice",
         "Wrongful Death"
       ],
       "additional_locations": [
@@ -19340,11 +20266,7 @@
         "Catherine R. McLeod",
         "Robert R Titus"
       ],
-      "official_practice_area": [
-        "Business and Commercial Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
-      ],
+      "official_practice_area": [],
       "additional_locations": []
     },
     {
@@ -19485,9 +20407,7 @@
         "William I. Heydman"
       ],
       "official_practice_area": [
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -19538,18 +20458,15 @@
         "Kenneth H. Jack"
       ],
       "official_practice_area": [
-        "Business Organizations",
+        "Patents",
+        "Trademarks",
         "Business and Commercial Law",
+        "Business Organizations",
         "Contracts",
         "Elder Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Patents",
         "Probate",
         "Real Estate",
         "Science and Technology Law",
-        "Trademarks",
         "Wills"
       ],
       "additional_locations": []
@@ -19678,10 +20595,8 @@
         "Sally G. Kelsey"
       ],
       "official_practice_area": [
-        "Criminal Defense",
-        "Insurance Defense",
-        "Litigation and Appeals",
         "Personal Injury",
+        "Criminal Defense",
         "Workers' Compensation"
       ],
       "additional_locations": []
@@ -19774,13 +20689,11 @@
         "Heather Landon"
       ],
       "official_practice_area": [
-        "Adoption",
+        "Family Law",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Divorce and Separation",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Adoption"
       ],
       "additional_locations": []
     },
@@ -19823,7 +20736,6 @@
         "Thomas H. Sullivan"
       ],
       "official_practice_area": [
-        "Estate Planning",
         "Probate"
       ],
       "additional_locations": []
@@ -19876,9 +20788,7 @@
         "Mike Wyatt"
       ],
       "official_practice_area": [
-        "Car Accidents",
-        "Personal Injury",
-        "Truck Accident"
+        "Personal Injury"
       ],
       "additional_locations": [
         {
@@ -19943,14 +20853,11 @@
         "Mick Lerner"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Discrimination",
-        "Divorce and Separation",
-        "Employment Rights",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals",
-        "Probate"
+        "Divorce and Separation",
+        "Discrimination",
+        "Probate",
+        "Employment Rights"
       ],
       "additional_locations": []
     },
@@ -20003,14 +20910,13 @@
         "Michaela  Marine"
       ],
       "official_practice_area": [
+        "Family Law",
+        "Divorce and Separation",
+        "Collaborative Law",
         "ADR Arbitration and Mediation",
         "Child Custody",
         "Child Support",
-        "Collaborative Law",
-        "Divorce and Separation",
-        "Family Law",
-        "Father's Rights",
-        "Real Estate"
+        "Father's Rights"
       ],
       "additional_locations": []
     },
@@ -20059,12 +20965,11 @@
         "Marion L. Stern"
       ],
       "official_practice_area": [
-        "Business and Commercial Law",
-        "Elder Law",
-        "Estate Planning",
-        "Personal Injury",
         "Probate",
-        "Real Estate"
+        "Elder Law",
+        "Business and Commercial Law",
+        "Real Estate",
+        "Personal Injury"
       ],
       "additional_locations": []
     },
@@ -20147,8 +21052,7 @@
         "Trey Meyer"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": []
     },
@@ -20197,8 +21101,7 @@
         "Dan Crane Sanders"
       ],
       "official_practice_area": [
-        "Administrative Law",
-        "State Local and Municipal Law"
+        "Administrative Law"
       ],
       "additional_locations": [
         {
@@ -20299,10 +21202,7 @@
       "official_practice_area": [
         "Criminal Defense",
         "DUI and DWI",
-        "Domestic Violence",
-        "Drug Crime",
-        "Family Law",
-        "Traffic Ticket"
+        "Domestic Violence"
       ],
       "additional_locations": []
     },
@@ -20345,9 +21245,8 @@
         "Razmi Tahirkheli"
       ],
       "official_practice_area": [
-        "Bankruptcy",
         "Criminal Defense",
-        "Federal and White Collar Crimes"
+        "Bankruptcy"
       ],
       "additional_locations": [
         {
@@ -20406,12 +21305,13 @@
         "Ron Rundberg"
       ],
       "official_practice_area": [
-        "Adoption",
+        "Family Law",
+        "Divorce and Separation",
         "Child Custody",
         "Child Support",
-        "Divorce and Separation",
-        "Elder Law",
-        "Family Law"
+        "Father's Rights",
+        "Adoption",
+        "Elder Law"
       ],
       "additional_locations": []
     },
@@ -20503,11 +21403,10 @@
         "Melissa Kelly Schroeder"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Divorce and Separation",
         "Family Law",
-        "Father's Rights",
-        "Real Estate"
+        "Divorce and Separation",
+        "Child Custody",
+        "Father's Rights"
       ],
       "additional_locations": []
     },
@@ -20645,13 +21544,9 @@
         "Linda Small"
       ],
       "official_practice_area": [
-        "Child Custody",
-        "Child Support",
-        "Divorce and Separation",
-        "Domestic Violence",
         "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Divorce and Separation",
+        "Child Custody"
       ],
       "additional_locations": []
     },
@@ -20698,10 +21593,9 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
+        "Litigation and Appeals",
         "Employment Rights",
-        "Family Law",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Family Law"
       ],
       "additional_locations": []
     },
@@ -20754,12 +21648,10 @@
         "Gary D. Stone"
       ],
       "official_practice_area": [
-        "Assault and Battery (Plaintiff)",
         "Criminal Defense",
         "DUI and DWI",
-        "Drug Crime",
-        "Federal and White Collar Crimes",
-        "Traffic Ticket"
+        "Assault and Battery (Plaintiff)",
+        "Federal and White Collar Crimes"
       ],
       "additional_locations": []
     },
@@ -20803,8 +21695,8 @@
         "Timothy R. Tompkins"
       ],
       "official_practice_area": [
-        "DUI and DWI",
-        "Traffic Ticket"
+        "Traffic Ticket",
+        "DUI and DWI"
       ],
       "additional_locations": [
         {
@@ -20954,9 +21846,7 @@
       ],
       "official_practice_area": [
         "Business and Commercial Law",
-        "Estate Planning",
-        "Insurance Defense",
-        "Litigation and Appeals"
+        "Estate Planning"
       ],
       "additional_locations": []
     },
@@ -21001,11 +21891,9 @@
         "Melinda G. Young"
       ],
       "official_practice_area": [
-        "Car Accidents",
         "Personal Injury",
-        "Premises Liability",
-        "Truck Accident",
-        "Wrongful Death"
+        "Wrongful Death",
+        "Premises Liability"
       ],
       "additional_locations": []
     },
@@ -21042,7 +21930,9 @@
       "attorneys": [
         "Michael J Bartee"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -21087,7 +21977,9 @@
         "John L. Richeson",
         "Keith A. Brock"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Oil Gas and Energy"
+      ],
       "additional_locations": []
     },
     {
@@ -21129,7 +22021,11 @@
       "attorneys": [
         "Richard A. Carnahan"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning",
+        "Real Estate",
+        "Personal Injury"
+      ],
       "additional_locations": []
     },
     {
@@ -21169,7 +22065,9 @@
       "attorneys": [
         "Cindy L. Cleous"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Family Law"
+      ],
       "additional_locations": []
     },
     {
@@ -21213,7 +22111,11 @@
       "attorneys": [
         "Paul D. Cramm"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense",
+        "Sex Crime",
+        "Drug Crime"
+      ],
       "additional_locations": []
     },
     {
@@ -21252,7 +22154,9 @@
         "J. Ryan Erker",
         "Thomas J. Erker"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Constitutional Law"
+      ],
       "additional_locations": []
     },
     {
@@ -21317,7 +22221,25 @@
       "attorneys": [
         "Barbara E. Hecht"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Personal Injury",
+        "Business and Commercial Law",
+        "Contracts",
+        "Business Organizations",
+        "DUI and DWI",
+        "Estate Planning",
+        "Trusts",
+        "Wills",
+        "Family Law",
+        "Adoption",
+        "Child Support",
+        "Divorce and Separation",
+        "Father's Rights",
+        "Probate",
+        "Real Estate",
+        "Traffic Ticket",
+        "Domestic Violence"
+      ],
       "additional_locations": []
     },
     {
@@ -21354,7 +22276,9 @@
         "Charles E. Hammond",
         "Kelly G. Jurgensen"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Business and Commercial Law"
+      ],
       "additional_locations": []
     },
     {
@@ -21395,7 +22319,9 @@
       "attorneys": [
         "John R. Kurth"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -21434,7 +22360,9 @@
       "attorneys": [
         "Teresa M Meagher"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Social Security Disability"
+      ],
       "additional_locations": []
     },
     {
@@ -21474,7 +22402,9 @@
         "John DeMarco",
         "Paul J Morrison"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Administrative Law"
+      ],
       "additional_locations": []
     },
     {
@@ -21517,7 +22447,9 @@
         "Reece D. Hiebert",
         "Cynthia A Wiens"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Estate Planning"
+      ],
       "additional_locations": []
     },
     {
@@ -21558,7 +22490,9 @@
       "attorneys": [
         "Stacey Schlimmer"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -21597,7 +22531,9 @@
       "attorneys": [
         "Erica K. Schoenig J.D."
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Criminal Defense"
+      ],
       "additional_locations": []
     },
     {
@@ -21635,7 +22571,9 @@
       "attorneys": [
         "John R. Stanley"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Workers' Compensation"
+      ],
       "additional_locations": []
     },
     {
@@ -21680,7 +22618,13 @@
       "attorneys": [
         "J. Joseph Weber"
       ],
-      "official_practice_area": [],
+      "official_practice_area": [
+        "Probate",
+        "Divorce and Separation",
+        "Family Law",
+        "Business and Commercial Law",
+        "Real Estate"
+      ],
       "additional_locations": []
     },
     {
