@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getStateData, getAllStateSlugs } from '@/lib/data'
+import { getStateData, getAllStateSlugs, getVisitingFirms } from '@/lib/data'
 import StateLanding from '@/components/StateLanding'
 import type { Firm } from '@/types'
 
@@ -163,7 +163,10 @@ export default async function StatePage({ params, searchParams }: Props) {
     }
   }
 
-  const practiceFiltered = data.firms.filter(f =>
+  // Combine local firms with firms from other states that have an office in this state
+  const allCandidates = [...data.firms, ...getVisitingFirms(data.state_abbr)]
+
+  const practiceFiltered = allCandidates.filter(f =>
     f.official_practice_area.some(p => p.toLowerCase() === areaQ)
   )
 

@@ -39,6 +39,33 @@ export function stateNameToSlug(name: string): string {
   return name.toLowerCase().replace(/\s+/g, '-')
 }
 
+// Module-level cache: stateAbbr → firms from OTHER states that have an
+// additional_location in that state. Populated lazily, persists for the
+// lifetime of the Node.js process so each abbr is only scanned once.
+const visitingFirmsCache = new Map<string, Firm[]>()
+
+export function getVisitingFirms(stateAbbr: string): Firm[] {
+  if (visitingFirmsCache.has(stateAbbr)) return visitingFirmsCache.get(stateAbbr)!
+
+  const index = getIndex()
+  const abbrUpper = stateAbbr.toUpperCase()
+  const result: Firm[] = []
+
+  for (const s of index.states) {
+    const stateSlug = s.file.replace('.json', '')
+    const data = getStateData(stateSlug)
+    if (!data || data.state_abbr === abbrUpper) continue
+    for (const firm of data.firms) {
+      if (firm.additional_locations.some(l => l.state?.toUpperCase() === abbrUpper)) {
+        result.push(firm)
+      }
+    }
+  }
+
+  visitingFirmsCache.set(stateAbbr, result)
+  return result
+}
+
 export function getAllAttorneySlugs(): { state: string; slug: string }[] {
   const index = getIndex()
   const result: { state: string; slug: string }[] = []
