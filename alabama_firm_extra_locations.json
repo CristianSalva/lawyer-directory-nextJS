@@ -1,0 +1,3622 @@
+[
+  {
+    "scraped_at": "2026-04-27T17:13:08.942805+00:00",
+    "firm_name": "Jennifer D. Armstrong, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/new-jersey/toms-river/jennifer-d-armstrong-llc-MzkzNzc0MF8x/",
+    "main_office": {
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08753",
+      "address_lines": [
+        "611 Main Street",
+        "Suite 4"
+      ],
+      "phone": "888-371-4158"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:08.982881+00:00",
+    "firm_name": "Law Office of Philip L. Arnel",
+    "firm_profile_url": "https://lawyers.findlaw.com/massachusetts/westwood/law-office-of-philip-l-arnel-MjU2MjkwNV8x/",
+    "main_office": {
+      "city": "Westwood",
+      "state": "MA",
+      "zip": "02090",
+      "address_lines": [
+        "355 Providence Highway (Route 1)",
+        "Suite 100"
+      ],
+      "phone": "888-651-2150"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:09.006158+00:00",
+    "firm_name": "Bryan R. Armstrong Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/kentucky/louisville/bryan-r-armstrong-attorney-at-law-NDg0NDYyMV8x/",
+    "main_office": {
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40202",
+      "address_lines": [
+        "Waterfront Plaza Building",
+        "Suite 1808",
+        "325 West Main Street"
+      ],
+      "phone": "502-496-6835"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:09.016757+00:00",
+    "firm_name": "Law Offices Of Harvey A. Arnoff",
+    "firm_profile_url": "https://lawyers.findlaw.com/new-york/riverhead/law-offices-of-harvey-a-arnoff-MjUzNTY3NF8x/",
+    "main_office": {
+      "city": "Riverhead",
+      "state": "NY",
+      "zip": "11901",
+      "address_lines": [
+        "450 Old Country Road",
+        "Suite 24"
+      ],
+      "phone": "631-801-5401"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:09.060336+00:00",
+    "firm_name": "Jeffrey S. Arnold, Attorney at Law, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/indiana/fort-wayne/4234441_1/",
+    "main_office": {
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46802",
+      "address_lines": [
+        "5612 West Jefferson Boulevard"
+      ],
+      "phone": "888-600-LAWS(5297)"
+    },
+    "additional_offices": [
+      {
+        "city": "Columbia City",
+        "state": "IN",
+        "zip": "46725",
+        "address_lines": [
+          "209 West Van Buren Street"
+        ],
+        "phone": "888-600-LAWS",
+        "profile_url": "https://lawyers.findlaw.com/indiana/columbia-city/4334905_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:10.079591+00:00",
+    "firm_name": "Greenwood Law - Winston",
+    "firm_profile_url": "https://lawyers.findlaw.com/north-carolina/winston-salem/greenwood-law-NDgxNTQwN18x/",
+    "main_office": {
+      "city": "Winston-Salem",
+      "state": "NC",
+      "zip": "27101",
+      "address_lines": [
+        "One Salem Tower",
+        "119 Brookstown Avenue, Suite 300"
+      ],
+      "phone": "336-794-6138"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:10.097637+00:00",
+    "firm_name": "Walter W. Arnall, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/georgia/newnan/walter-w-arnall-llc-NDc1NjE1N18x/",
+    "main_office": {
+      "city": "Newnan",
+      "state": "GA",
+      "zip": "30263",
+      "address_lines": [
+        "75 Jackson Street",
+        "Building 500"
+      ],
+      "phone": "770-648-1372"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:10.145690+00:00",
+    "firm_name": "The Armstrong Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/brownsville/1659704_1/",
+    "main_office": {
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78521",
+      "address_lines": [
+        "2600 Old Alice Rd.",
+        "Suite A"
+      ],
+      "phone": "210-277-0542"
+    },
+    "additional_offices": [
+      {
+        "city": "Boerne",
+        "state": "TX",
+        "zip": "78006",
+        "address_lines": [
+          "109 Yoalana St",
+          "Suite 210"
+        ],
+        "phone": "210-277-0542",
+        "profile_url": "https://lawyers.findlaw.com/texas/boerne/5266578_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:10.603549+00:00",
+    "firm_name": "Miller Weisbrod, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/dallas/3408772_1/",
+    "main_office": {
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75243",
+      "address_lines": [
+        "11551 Forest Central Drive",
+        "Suite 300"
+      ],
+      "phone": "(214) 987-0005"
+    },
+    "additional_offices": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77023",
+        "address_lines": [
+          "6200 Gulf Freeway",
+          "Suite 410"
+        ],
+        "phone": "(214) 987-0005",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/4092257_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:10.762563+00:00",
+    "firm_name": "Armstrong & Associates",
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/houston/armstrong--associates-MTA0Mjk0NF8x/",
+    "main_office": {
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77002",
+      "address_lines": [
+        "Downtown Houston",
+        "440 Louisiana Street",
+        "Suite 900"
+      ],
+      "phone": "832-975-0528"
+    },
+    "additional_offices": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77027",
+        "address_lines": [
+          "4265 San Felipe",
+          "Suite 1100"
+        ],
+        "phone": "832-975-0528",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/armstrong--associates-NTI5NTU5NV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:11.447535+00:00",
+    "firm_name": "The Law Offices of Larry H. Parker Inc.",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/long-beach/the-law-offices-of-larry-h-parker-inc-MTgwOTAzNl8x/",
+    "main_office": {
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90807",
+      "address_lines": [
+        "350 E San Antonio Dr"
+      ],
+      "phone": "800-333-0000"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:11.590687+00:00",
+    "firm_name": "Pillar Law Group LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/indiana/lawrenceburg/pillar-law-group-llp-NTEyNTIzNF8x/",
+    "main_office": {
+      "city": "Lawrenceburg",
+      "state": "IN",
+      "zip": "47025",
+      "address_lines": [
+        "311 Walnut Street"
+      ],
+      "phone": "+18127204098"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:11.611733+00:00",
+    "firm_name": "Arnold & Clifford",
+    "firm_profile_url": "https://lawyers.findlaw.com/ohio/columbus/arnold--clifford-Mzk3Mzg1OF8x/",
+    "main_office": {
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "address_lines": [
+        "115 W. Main Street",
+        "Suite 400"
+      ],
+      "phone": "614-362-9114"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:12.046814+00:00",
+    "firm_name": "Arnett & Kerrigan, P.L.",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/santa-rosa-beach/2068663_1/",
+    "main_office": {
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "zip": "32459",
+      "address_lines": [
+        "613 County Highway 393 S"
+      ],
+      "phone": "(850) 502-4373"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:12.155984+00:00",
+    "firm_name": "Arneson & Geffen PLLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/minnesota/minneapolis/arneson--geffen-pllc-NDc0MDMwOF8x/",
+    "main_office": {
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55401",
+      "address_lines": [
+        "333 Washington Avenue North",
+        "Suite 405"
+      ],
+      "phone": "(612) 465-8581"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:12.681107+00:00",
+    "firm_name": "Armstrong Law Offices",
+    "firm_profile_url": "https://lawyers.findlaw.com/ohio/cleveland/armstrong-law-offices-NTM2MDMyNV8x/",
+    "main_office": {
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44111",
+      "address_lines": [
+        "17407 Lorain Avenue",
+        "Suite 207"
+      ],
+      "phone": "+12167990118"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:12.777290+00:00",
+    "firm_name": "Arnett Law Group, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/illinois/chicago/arnett-law-group-llc-NDg4NzkxNl8x/",
+    "main_office": {
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60606",
+      "address_lines": [
+        "223 W. Jackson Blvd.",
+        "Suite 750"
+      ],
+      "phone": "312-702-1901"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:12.967276+00:00",
+    "firm_name": "Pender & Coward, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/virginia/virginia-beach/pender--coward-pc-MjM5MjQ3N18x/",
+    "main_office": {
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23462",
+      "address_lines": [
+        "222 Central Park Avenue, Suite 400"
+      ],
+      "phone": "757-571-9379"
+    },
+    "additional_offices": [
+      {
+        "city": "Chesapeake",
+        "state": "VA",
+        "zip": "23320",
+        "address_lines": [
+          "709 Greenbrier Parkway"
+        ],
+        "phone": "757-571-9381",
+        "profile_url": "https://lawyers.findlaw.com/virginia/chesapeake/pender--coward-pc-NDY2MTk3NV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:13.319634+00:00",
+    "firm_name": "Wolfe Williams & Austin",
+    "firm_profile_url": "https://lawyers.findlaw.com/virginia/norton/wolfe-williams--austin-MjU4ODU4M18x/",
+    "main_office": {
+      "city": "Norton",
+      "state": "VA",
+      "zip": "24273",
+      "address_lines": [
+        "470 Park Avenue",
+        "P.O. Box 625"
+      ],
+      "phone": "276-325-1793"
+    },
+    "additional_offices": [
+      {
+        "city": "Kingsport",
+        "state": "TN",
+        "zip": "37660",
+        "address_lines": [
+          "8 Sheridan Square",
+          "Suite 310"
+        ],
+        "phone": "423-782-9128",
+        "profile_url": "https://lawyers.findlaw.com/tennessee/kingsport/wolfe-williams--austin-MzkzMjkwMl8x/"
+      },
+      {
+        "city": "Grundy",
+        "state": "VA",
+        "zip": "24614",
+        "address_lines": [
+          "1055 Plaza Drive"
+        ],
+        "phone": "888-925-9154",
+        "profile_url": "https://lawyers.findlaw.com/virginia/grundy/wolfe-williams--austin-NTE3MjI2NV8x/"
+      },
+      {
+        "city": "Matewan",
+        "state": "WV",
+        "zip": "25678",
+        "address_lines": [
+          "401 Mate Street",
+          "PO Box 108"
+        ],
+        "phone": "888-925-9154",
+        "profile_url": "https://lawyers.findlaw.com/west-virginia/matewan/wolfe-williams--austin-NTIxNjg5MF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:13.548728+00:00",
+    "firm_name": "Arnold & Stafford, Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/georgia/hinesville/arnold--stafford-attorneys-at-law-NDQ3NjczNV8x/",
+    "main_office": {
+      "city": "Hinesville",
+      "state": "GA",
+      "zip": "31313",
+      "address_lines": [
+        "128 South Main Street"
+      ],
+      "phone": "+19124539104"
+    },
+    "additional_offices": [
+      {
+        "city": "Ludowici",
+        "state": "GA",
+        "zip": "31316",
+        "address_lines": [
+          "348 East Cypress"
+        ],
+        "phone": "+19124539104",
+        "profile_url": "https://lawyers.findlaw.com/georgia/ludowici/arnold--stafford-attorneys-at-law-NDQ3Nzk0N18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:13.737367+00:00",
+    "firm_name": "Arnold LaRochelle Mathews VanConas & Zirbel LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/oxnard/arnold-larochelle-mathews-vanconas--zirbel-llp-MjUwOTM4N18x/",
+    "main_office": {
+      "city": "Oxnard",
+      "state": "CA",
+      "zip": "93036",
+      "address_lines": [
+        "300 Esplanade Drive",
+        "Suite 2100"
+      ],
+      "phone": "+18056098443"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:13.884914+00:00",
+    "firm_name": "Cohen, Snyder & Eisenberg, P.A.",
+    "firm_profile_url": "https://lawyers.findlaw.com/maryland/baltimore/cohen-snyder--eisenberg-pa-MTIxNzY3Ml8x/",
+    "main_office": {
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21201",
+      "address_lines": [
+        "347 N Charles St"
+      ],
+      "phone": "+14437732385"
+    },
+    "additional_offices": [
+      {
+        "city": "Towson",
+        "state": "MD",
+        "zip": "21204",
+        "address_lines": [
+          "1 Olympic Place",
+          "Suite 900"
+        ],
+        "phone": "+14437732385",
+        "profile_url": "https://lawyers.findlaw.com/maryland/towson/cohen-snyder--eisenberg-pa-NDY1ODMzNl8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:14.167234+00:00",
+    "firm_name": "Arnold Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/mississippi/pearl/arnold-law-firm-llc-NDcyNTk4NF8x/",
+    "main_office": {
+      "city": "Pearl",
+      "state": "MS",
+      "zip": "39208",
+      "address_lines": [
+        "4205 HWY 80 E",
+        "Building B"
+      ],
+      "phone": "601-345-4355"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:14.533953+00:00",
+    "firm_name": "The Law Offices of Richard P. Arnold",
+    "firm_profile_url": "https://lawyers.findlaw.com/maryland/greenbelt/1387552_1/",
+    "main_office": {
+      "city": "Greenbelt",
+      "state": "MD",
+      "zip": "20770",
+      "address_lines": [
+        "7525 Greenway Center Drive",
+        "Suite 314"
+      ],
+      "phone": "301-474-5550"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:14.781407+00:00",
+    "firm_name": "The Law Office of R. Patrick McPherson",
+    "firm_profile_url": "https://lawyers.findlaw.com/hawaii/honolulu/the-law-office-of-r-patrick-mcpherson-MzQxMDIwM18x/",
+    "main_office": {
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96813",
+      "address_lines": [
+        "1001 Bishop St.",
+        "Suite 1330"
+      ],
+      "phone": "+18088245556"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:14.801762+00:00",
+    "firm_name": "Arnold Law Office",
+    "firm_profile_url": "https://lawyers.findlaw.com/indiana/richmond/arnold-law-office-MTA5MTE0NF8x/",
+    "main_office": {
+      "city": "Richmond",
+      "state": "IN",
+      "zip": "47374",
+      "address_lines": [
+        "410 South D Street"
+      ],
+      "phone": "+17652703280"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:15.155592+00:00",
+    "firm_name": "OnderLaw",
+    "firm_profile_url": "https://lawyers.findlaw.com/missouri/webster-groves/onderlaw-NDg2MDE3N18x/",
+    "main_office": {
+      "city": "Webster Groves",
+      "state": "MO",
+      "zip": "63119",
+      "address_lines": [
+        "110 E. Lockwood Ave"
+      ],
+      "phone": "+13147423894"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:15.175566+00:00",
+    "firm_name": "Arnold Law, PLLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/kentucky/louisville/arnold-law-pllc-NDc2NjQ0Nl8x/",
+    "main_office": {
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40207",
+      "address_lines": [
+        "4500 Bowling Boulevard",
+        "Suite 100"
+      ],
+      "phone": "502-653-1038"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:15.958310+00:00",
+    "firm_name": "Kass Legal Group PLLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/district-of-columbia/washington/kass-legal-group-pllc-MTM5MzMzOV8x/",
+    "main_office": {
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20008",
+      "address_lines": [
+        "4301 Connecticut Avenue NW",
+        "Suite 434"
+      ],
+      "phone": "202-659-6500"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:16.100045+00:00",
+    "firm_name": "The Crannell Law Group, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/illinois/naperville/the-crannell-law-group-llc-NTM4MTEwMF8x/",
+    "main_office": {
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60563",
+      "address_lines": [
+        "55 Shuman Blvd.",
+        "Suite 525"
+      ],
+      "phone": "+16306878704"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:16.186546+00:00",
+    "firm_name": "Goldman & Ehrlich",
+    "firm_profile_url": "https://lawyers.findlaw.com/illinois/chicago/goldman--ehrlich-MTMxNzk2Nl8x/",
+    "main_office": {
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60604",
+      "address_lines": [
+        "53 West Jackson Boulevard",
+        "Suite 815"
+      ],
+      "phone": "312-945-7515"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:16.470084+00:00",
+    "firm_name": "Miller, Rosnick, D'Amico, August & Butler",
+    "firm_profile_url": "https://lawyers.findlaw.com/connecticut/bridgeport/miller-rosnick-damico-august--butler-MTYwMzY1M18x/",
+    "main_office": {
+      "city": "Bridgeport",
+      "state": "CT",
+      "zip": "06604",
+      "address_lines": [
+        "1087 Broad St."
+      ],
+      "phone": "+14752242300"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:16.599539+00:00",
+    "firm_name": "Black, Blink, & Associates LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/colorado/colorado-springs/black-blink--associates-llc-NTE2ODIxNF8x/",
+    "main_office": {
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80903",
+      "address_lines": [
+        "2 N. Cascade Ave.",
+        "11th Floor"
+      ],
+      "phone": "+17199991433"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:17.146129+00:00",
+    "firm_name": "Arnold & Arnold, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/colorado/littleton/arnold--arnold-llp-MjQ5ODgzMl8x/",
+    "main_office": {
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80127",
+      "address_lines": [
+        "7691 Shaffer Parkway",
+        "Suite A"
+      ],
+      "phone": "720-962-6010"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:17.153308+00:00",
+    "firm_name": "Jonathan I. Arons",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/san-francisco/jonathan-i-arons-MTY0NjUzMF8x/",
+    "main_office": {
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94127",
+      "address_lines": [
+        "317 West Portal Avenue",
+        "#27565"
+      ],
+      "phone": "415-957-1818"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:17.396882+00:00",
+    "firm_name": "Devitt Spellman Barrett, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/new-york/smithtown/1043781_1/",
+    "main_office": {
+      "city": "Smithtown",
+      "state": "NY",
+      "zip": "11787",
+      "address_lines": [
+        "50 Route 111",
+        "Suite 314"
+      ],
+      "phone": "(631) 724-8833"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:17.949126+00:00",
+    "firm_name": "Salvi, Schostok & Pritchard P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/illinois/chicago/salvi-schostok--pritchard-pc-MjQwMzI4OV8x/",
+    "main_office": {
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "address_lines": [
+        "161 N. Clark Street",
+        "Suite 4700"
+      ],
+      "phone": "312-380-2880"
+    },
+    "additional_offices": [
+      {
+        "city": "Waukegan",
+        "state": "IL",
+        "zip": "60085",
+        "address_lines": [
+          "218 N Martin Luther King Jr Ave"
+        ],
+        "phone": "312-380-2880",
+        "profile_url": "https://lawyers.findlaw.com/illinois/waukegan/salvi-schostok--pritchard-pc-Mjc0Nzc2M18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:18.245664+00:00",
+    "firm_name": "McConnell Valdes LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/puerto-rico/hato-rey/2343196_1/",
+    "main_office": {
+      "city": "Hato Rey",
+      "state": "PR",
+      "zip": "00918",
+      "address_lines": [
+        "270 Munoz Rivera Avenue"
+      ],
+      "phone": "(787) 759-9292"
+    },
+    "additional_offices": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33131",
+        "address_lines": [
+          "SunTrust International Center",
+          "1 SouthEast 3rd Avenue",
+          "Suite 1650"
+        ],
+        "phone": "(305) 677-6626",
+        "profile_url": "https://lawyers.findlaw.com/florida/miami/5023123_1/"
+      },
+      {
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20004",
+        "address_lines": [
+          "1455 Pennsylvania Avenue, NW",
+          "Suite 1150"
+        ],
+        "phone": "(202) 857-5382",
+        "profile_url": "https://lawyers.findlaw.com/district-of-columbia/washington/4194043_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:18.368644+00:00",
+    "firm_name": "Arnold & Smith, PLLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/north-carolina/charlotte/arnold--smith-pllc-NDA0Nzc4MV8x/",
+    "main_office": {
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28204",
+      "address_lines": [
+        "The Historic John Price Carr House",
+        "200 N. McDowell St."
+      ],
+      "phone": "+17048317305"
+    },
+    "additional_offices": [
+      {
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28112",
+        "address_lines": [
+          "114 W. Jefferson St."
+        ],
+        "phone": "+17048317305",
+        "profile_url": "https://lawyers.findlaw.com/north-carolina/monroe/arnold--smith-pllc-NTI4NjQwMl8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:18.421545+00:00",
+    "firm_name": "Gerner & Kearns Co., L.P.A.",
+    "firm_profile_url": "https://lawyers.findlaw.com/kentucky/florence/1116917_1/",
+    "main_office": {
+      "city": "Florence",
+      "state": "KY",
+      "zip": "41042",
+      "address_lines": [
+        "7900 Tanners Gate Lane"
+      ],
+      "phone": "(513) 241-7722"
+    },
+    "additional_offices": [
+      {
+        "city": "Fort Wright",
+        "state": "KY",
+        "zip": "41071",
+        "address_lines": [
+          "809 Wright’s Summit Parkway",
+          "Suite 200"
+        ],
+        "phone": "(513) 241-7722",
+        "profile_url": "https://lawyers.findlaw.com/kentucky/fort-wright/4937411_1/"
+      },
+      {
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "zip": "47025",
+        "address_lines": [
+          "70 E. High Street",
+          "Suite 101"
+        ],
+        "phone": "(513) 241-7722",
+        "profile_url": "https://lawyers.findlaw.com/indiana/lawrenceburg/4282509_1/"
+      },
+      {
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45255",
+        "address_lines": [
+          "8291 Beechmont Avenue",
+          "Suite C"
+        ],
+        "phone": "(513) 241-7722",
+        "profile_url": "https://lawyers.findlaw.com/ohio/cincinnati/4733101_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:18.619190+00:00",
+    "firm_name": "Sterling Employment Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/michigan/bloomfield-hills/sterling-employment-law-NDA5MDI5Ml8x/",
+    "main_office": {
+      "city": "Bloomfield Hills",
+      "state": "MI",
+      "zip": "48304",
+      "address_lines": [
+        "33 Bloomfield Hills Parkway",
+        "Suite 250"
+      ],
+      "phone": "+12484690221"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:19.418265+00:00",
+    "firm_name": "LaBovick Law Group",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/palm-beach-gardens/labovick-law-group-MjU2MTk5N18x/",
+    "main_office": {
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "zip": "33418",
+      "address_lines": [
+        "5220 Hood Road",
+        "Suite 200"
+      ],
+      "phone": "561-5568482"
+    },
+    "additional_offices": [
+      {
+        "city": "West Palm Beach",
+        "state": "FL",
+        "zip": "33401",
+        "address_lines": [
+          "777 S. Flagler Drive",
+          "8th Fl. #24"
+        ],
+        "phone": "+15619849660",
+        "profile_url": "https://lawyers.findlaw.com/florida/west-palm-beach/labovick-law-group-NTI4MTQ3M18x/"
+      },
+      {
+        "city": "Quincy",
+        "state": "MA",
+        "zip": "02169",
+        "address_lines": [
+          "859 Willard St",
+          "Suite 400"
+        ],
+        "phone": "+15619849660",
+        "profile_url": "https://lawyers.findlaw.com/massachusetts/quincy/labovick-law-group-NTE5MzkxN18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:19.507330+00:00",
+    "firm_name": "Van Voorhis & Sosna LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/san-francisco/van-voorhis--sosna-llp-NDMzODc0Nl8x/",
+    "main_office": {
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94111",
+      "address_lines": [
+        "601 Montgomery St.",
+        "#525"
+      ],
+      "phone": "415-579-3162"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:19.766224+00:00",
+    "firm_name": "Law Offices of Matthew A. Arrison",
+    "firm_profile_url": "https://lawyers.findlaw.com/pennsylvania/west-chester/4184150_1/",
+    "main_office": {
+      "city": "West Chester",
+      "state": "PA",
+      "zip": "19380",
+      "address_lines": [
+        "Barclay Building",
+        "535 North Church Street",
+        "Ste 317"
+      ],
+      "phone": "610-344-9501"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:19.794949+00:00",
+    "firm_name": "Northeast Ohio Family Law and Mediation LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/ohio/solon/northeast-ohio-family-law-and-mediation-llc-NTMzODMyNV8x/",
+    "main_office": {
+      "city": "Solon",
+      "state": "OH",
+      "zip": "44139",
+      "address_lines": [
+        "33445 Bainbridge Road"
+      ],
+      "phone": "440-696-0550"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:19.921163+00:00",
+    "firm_name": "Magleby Cataxinos",
+    "firm_profile_url": "https://lawyers.findlaw.com/utah/salt-lake-city/magleby-cataxinos-MzY4OTk3Nl8x/",
+    "main_office": {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "address_lines": [
+        "141 W. Pierpont Ave."
+      ],
+      "phone": "866-928-7962"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:20.540069+00:00",
+    "firm_name": "Law Office of Stephen H. Artman P.A.",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/lakeland/law-office-of-stephen-h-artman-pa-MTg3ODk1Nl8x/",
+    "main_office": {
+      "city": "Lakeland",
+      "state": "FL",
+      "zip": "33803",
+      "address_lines": [
+        "925 S. Florida Avenue"
+      ],
+      "phone": "+18633554537"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:20.583263+00:00",
+    "firm_name": "Mark B. Arthur, PC",
+    "firm_profile_url": "https://lawyers.findlaw.com/virginia/lynchburg/mark-b-arthur-pc-MzkzMDAwM18x/",
+    "main_office": {
+      "city": "Lynchburg",
+      "state": "VA",
+      "zip": "24504",
+      "address_lines": [
+        "715 Court Street"
+      ],
+      "phone": "+14343336128"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:20.816133+00:00",
+    "firm_name": "Blackburn & Donnelly, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/connecticut/windsor-locks/blackburn--donnelly-llc-MTk5MTQ5NF8x/",
+    "main_office": {
+      "city": "Windsor Locks",
+      "state": "CT",
+      "zip": "06096",
+      "address_lines": [
+        "2 Concorde Way",
+        "#3C"
+      ],
+      "phone": "860-292-1116"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:20.986087+00:00",
+    "firm_name": "Phillips, Artura & Cox",
+    "firm_profile_url": "https://lawyers.findlaw.com/new-york/lindenhurst/phillips-artura--cox-MjUzODY3NV8x/",
+    "main_office": {
+      "city": "Lindenhurst",
+      "state": "NY",
+      "zip": "11757",
+      "address_lines": [
+        "165 S. Wellwood Avenue"
+      ],
+      "phone": "631-226-2100"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:21.322142+00:00",
+    "firm_name": "Law Office of Robert W. Ash",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/neveda-city/law-office-of-robert-w-ash-NTM4NDI4NV8x/",
+    "main_office": {
+      "city": "Neveda City",
+      "state": "CA",
+      "zip": "95959",
+      "address_lines": [
+        "105 Providence Mine Rd"
+      ],
+      "phone": "+15305768358"
+    },
+    "additional_offices": [
+      {
+        "city": "Yuba City",
+        "state": "CA",
+        "zip": "95993",
+        "address_lines": [
+          "1634 Poole Blvd"
+        ],
+        "phone": "+15305768358",
+        "profile_url": "https://lawyers.findlaw.com/california/yuba-city/law-office-of-robert-w-ash-NTM4NDM5OF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:21.578620+00:00",
+    "firm_name": "Law Offices of Azita M. Mojarad, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/illinois/lincolnwood/law-offices-of-azita-m-mojarad-pc-MzgyNzAwMF8x/",
+    "main_office": {
+      "city": "Lincolnwood",
+      "state": "IL",
+      "zip": "60712",
+      "address_lines": [
+        "7356 North Cicero Avenue"
+      ],
+      "phone": "312-702-0951"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:21.593602+00:00",
+    "firm_name": "Desai, Raveica, Raveica, & Arshad, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/new-york/new-york/desai-raveica-raveica--arshad-pc-NTM4NzI2N18x/",
+    "main_office": {
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "address_lines": [
+        "1350 Avenue of the Americas",
+        "2nd Floor"
+      ],
+      "phone": "+13322671924"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:21.953366+00:00",
+    "firm_name": "Sexton & Moody, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/georgia/mcdonough/sexton--moody-pc-MjIzNjA0M18x/",
+    "main_office": {
+      "city": "McDonough",
+      "state": "GA",
+      "zip": "30253",
+      "address_lines": [
+        "33 Jonesboro Street"
+      ],
+      "phone": "770-474-5646"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:22.409690+00:00",
+    "firm_name": "Wolfe Law Miami",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/miami/wolfe-law-miami-MzIwMTA3NV8x/",
+    "main_office": {
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33131",
+      "address_lines": [
+        "1100 Brickell Bay Drive",
+        "Suite 5200"
+      ],
+      "phone": "+18773900504"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:22.599139+00:00",
+    "firm_name": "Arvanitakis Law Group, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/clearwater/arvanitakis-law-group-llc-NTI5OTIyOV8x/",
+    "main_office": {
+      "city": "Clearwater",
+      "state": "FL",
+      "zip": "33759",
+      "address_lines": [
+        "2451 N. McMullen Booth Rd.",
+        "Suite 262"
+      ],
+      "phone": "+17274050579"
+    },
+    "additional_offices": [
+      {
+        "city": "Palm Harbor",
+        "state": "FL",
+        "zip": "34683",
+        "address_lines": [
+          "2706 ALT 19"
+        ],
+        "phone": "+17274050579",
+        "profile_url": "https://lawyers.findlaw.com/florida/palm-harbor/arvanitakis-law-group-llc-NTI5OTk4Ml8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:22.698631+00:00",
+    "firm_name": "Case Linden PC",
+    "firm_profile_url": "https://lawyers.findlaw.com/missouri/kansas-city/case-linden-pc-MzM1NzMyNF8x/",
+    "main_office": {
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64108",
+      "address_lines": [
+        "2600 Grand Blvd.",
+        "Suite 300"
+      ],
+      "phone": "816-897-6548"
+    },
+    "additional_offices": [
+      {
+        "city": "Wichita",
+        "state": "KS",
+        "zip": "67202",
+        "address_lines": [
+          "801 E. Douglas Avenue",
+          "2nd Floor",
+          "By Appointment Only"
+        ],
+        "phone": "316-854-1517",
+        "profile_url": "https://lawyers.findlaw.com/kansas/wichita/case-linden-pc-NTI4NDc0NF8x/"
+      },
+      {
+        "city": "St. Louis",
+        "state": "MO",
+        "zip": "63141",
+        "address_lines": [
+          "Two City Place Drive",
+          "2nd Floor"
+        ],
+        "phone": "816-897-6548",
+        "profile_url": "https://lawyers.findlaw.com/missouri/st-louis/case-linden-pc-NDI3NzI0N18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:23.015335+00:00",
+    "firm_name": "Black, McLaren, Jones, Ryland & Griffee, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/tennessee/memphis/black-mclaren-jones-ryland--griffee-pc-MjE5MTg5Ml8x/",
+    "main_office": {
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38117",
+      "address_lines": [
+        "530 Oak Court Drive",
+        "Suite 360"
+      ],
+      "phone": "901-910-1784"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:23.137387+00:00",
+    "firm_name": "Cohen and Wolf, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/connecticut/danbury/cohen-and-wolf-pc-MTU3NDQyMF8x/",
+    "main_office": {
+      "city": "Danbury",
+      "state": "CT",
+      "zip": "06810",
+      "address_lines": [
+        "158 Deer Hill Avenue"
+      ],
+      "phone": "+12039029001"
+    },
+    "additional_offices": [
+      {
+        "city": "Westport",
+        "state": "CT",
+        "zip": "06880",
+        "address_lines": [
+          "320 Post Road West"
+        ],
+        "phone": "+12039029001",
+        "profile_url": "https://lawyers.findlaw.com/connecticut/westport/3611504_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:23.639725+00:00",
+    "firm_name": "Law Office of Rebecca L. Evans",
+    "firm_profile_url": "https://lawyers.findlaw.com/virginia/springfield/law-office-of-rebecca-l-evans-MjQ2MzMxNF8x/",
+    "main_office": {
+      "city": "Springfield",
+      "state": "VA",
+      "zip": "22150",
+      "address_lines": [
+        "7411 Alban Station Court",
+        "Suite B265"
+      ],
+      "phone": "703-278-2028"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:23.731218+00:00",
+    "firm_name": "LeBeau Thelen, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/bakersfield/lebeau-thelen-llp-MjM0NTYzMF8x/",
+    "main_office": {
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93311",
+      "address_lines": [
+        "9801 Camino Media",
+        "Suite 103"
+      ],
+      "phone": "661-325-8962"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:23.919063+00:00",
+    "firm_name": "Waterson & Huth LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/california/tustin/3332843_1/",
+    "main_office": {
+      "city": "Tustin",
+      "state": "CA",
+      "zip": "92780",
+      "address_lines": [
+        "17731 Irvine Blvd.",
+        "Suite 111"
+      ],
+      "phone": "(714) 731-0041"
+    },
+    "additional_offices": [
+      {
+        "city": "Tustin",
+        "state": "CA",
+        "zip": "92780",
+        "address_lines": [
+          "17731 Irvine Boulevard",
+          "Suite 111"
+        ],
+        "phone": "(714) 731-0041",
+        "profile_url": "https://lawyers.findlaw.com/california/tustin/3746790_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:24.266982+00:00",
+    "firm_name": "Lytal, Reiter, Smith, Ivey & Fronrath",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/fort-lauderdale/lytal-reiter-smith-ivey--fronrath-NTI0NDIyNV8x/",
+    "main_office": {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33301",
+      "address_lines": [
+        "110 SE 6th St",
+        "Ste 1410"
+      ],
+      "phone": "561-612-3359"
+    },
+    "additional_offices": [
+      {
+        "city": "Boca Raton",
+        "state": "FL",
+        "zip": "33432",
+        "address_lines": [
+          "150 E Palmetto Park Road",
+          "Suite 840"
+        ],
+        "phone": "561-612-3359",
+        "profile_url": "https://lawyers.findlaw.com/florida/boca-raton/lytal-reiter-smith-ivey--fronrath-NTI0NDIyNF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:24.643805+00:00",
+    "firm_name": "AXS LAW Group",
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/miami/axs-law-group-NTA1MTAyOV8x/",
+    "main_office": {
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33127",
+      "address_lines": [
+        "2121 NW 2nd Ave.",
+        "Suite 201"
+      ],
+      "phone": "+13055905881"
+    },
+    "additional_offices": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20007",
+        "address_lines": [
+          "1050 30th Street NW"
+        ],
+        "phone": "+12029606308",
+        "profile_url": "https://lawyers.findlaw.com/district-of-columbia/washington/axs-law-group-NTM2Mzc1OF8x/"
+      },
+      {
+        "city": "New York",
+        "state": "NY",
+        "zip": "10151",
+        "address_lines": [
+          "745 5th Avenue",
+          "Suite 500"
+        ],
+        "phone": "+18558686328",
+        "profile_url": "https://lawyers.findlaw.com/new-york/new-york/axs-law-group-NTM4NDYxN18x/"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601",
+        "address_lines": [
+          "200 E. Randolph Street",
+          "Suite 5100"
+        ],
+        "phone": "+18558686328",
+        "profile_url": "https://lawyers.findlaw.com/illinois/chicago/axs-law-group-NTM4NDYxOF8x/"
+      },
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "address_lines": [
+          "6080 Center Drive",
+          "Suite 210"
+        ],
+        "phone": "+13103075942",
+        "profile_url": "https://lawyers.findlaw.com/california/los-angeles/axs-law-group-NTMzMjE2Ml8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:24.724674+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/virginia/newport-news/weisberg--weisberg-pllc-NDI3NTMzOF8x/",
+    "main_office": {
+      "city": "Newport News",
+      "state": "VA",
+      "zip": "23606",
+      "address_lines": [
+        "800 Diligence Dr"
+      ],
+      "phone": "+17579290513"
+    },
+    "additional_offices": [
+      {
+        "city": "Hampton",
+        "state": "VA",
+        "zip": "23669",
+        "address_lines": [
+          "5 W Queens Way",
+          "Ste 200"
+        ],
+        "phone": "+17579290513",
+        "profile_url": "https://lawyers.findlaw.com/virginia/hampton/weisberg--weisberg-pllc-NTM1NDMyN18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:25.034994+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/wisconsin/oshkosh/gregory-wright-law-offices-sc-MjYxNTMxNF8x/",
+    "main_office": {
+      "city": "Oshkosh",
+      "state": "WI",
+      "zip": "54904",
+      "address_lines": [
+        "2380 State Road 44, STE A"
+      ],
+      "phone": "+16088566222"
+    },
+    "additional_offices": [
+      {
+        "city": "Montello",
+        "state": "WI",
+        "zip": "53949",
+        "address_lines": [
+          "50 West Montello Street"
+        ],
+        "phone": "+16088566222",
+        "profile_url": "https://lawyers.findlaw.com/wisconsin/montello/gregory-wright-law-offices-sc-NTM0MjE5N18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:25.268756+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/florida/coral-gables/thomas-mcdonald-law-NTA5NjAzNF8x/",
+    "main_office": {
+      "city": "Coral Gables",
+      "state": "FL",
+      "zip": "33146",
+      "address_lines": [
+        "1430 S. Dixie Highway, Suite 322"
+      ],
+      "phone": "305-928-6999"
+    },
+    "additional_offices": [
+      {
+        "city": "Tavernier",
+        "state": "FL",
+        "zip": "33070",
+        "address_lines": [
+          "91760 Overseas Hwy.",
+          "Suite 100"
+        ],
+        "phone": "305-928-6999",
+        "profile_url": "https://lawyers.findlaw.com/florida/tavernier/thomas-mcdonald-law-NTA5NjA5MF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:25.585052+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/california/roseville/reynolds-law-llp-NTIzMDY3N18x/",
+    "main_office": {
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95661",
+      "address_lines": [
+        "3001 Douglas Blvd",
+        "Ste. 225"
+      ],
+      "phone": "+17073454576"
+    },
+    "additional_offices": [
+      {
+        "city": "Vacaville",
+        "state": "CA",
+        "zip": "95688",
+        "address_lines": [
+          "411 Davis Street",
+          "Ste. 201"
+        ],
+        "phone": "+17073454576",
+        "profile_url": "https://lawyers.findlaw.com/california/vacaville/reynolds-law-llp-NTE0ODY3MF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:13:25.786425+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/1105696_1/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "303 Williams Avenue",
+        "Park Plaza",
+        "Suite 921"
+      ],
+      "phone": "(256) 535-0817"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:29.039468+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/dallas/ktc-law-firm-NTA4Nzc3OF8x/",
+    "main_office": {
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75240",
+      "address_lines": [
+        "5720 LBJ Freeway",
+        "#440"
+      ],
+      "phone": "469-917-0306"
+    },
+    "additional_offices": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056",
+        "address_lines": [
+          "5718 Westheimer Rd.",
+          "Ste. 1000"
+        ],
+        "phone": "713-588-4470",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/ktc-law-firm-NTM0MzE2MV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:29.176079+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/new-jersey/jersey-city/carolann-m-aschoff-pc-MTUwMDUxNl8x/",
+    "main_office": {
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "address_lines": [
+        "295 Newark Avenue"
+      ],
+      "phone": "201-793-7739"
+    },
+    "additional_offices": [
+      {
+        "city": "Bayonne",
+        "state": "NJ",
+        "zip": "07002",
+        "address_lines": [
+          "503 John F. Kennedy Blvd."
+        ],
+        "phone": "201-793-7739",
+        "profile_url": "https://lawyers.findlaw.com/new-jersey/bayonne/carolann-m-aschoff-pc-NDk1NDgzNV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:29.524134+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/maryland/bethesda/hamelburg-law-llc-MTg3MDc2MF8x/",
+    "main_office": {
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814",
+      "address_lines": [
+        "7910 Woodmont Avenue",
+        "Suite 1350"
+      ],
+      "phone": "(301) 913-5200"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:32.827989+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/dallas/ktc-law-firm-NTA4Nzc3OF8x/",
+    "main_office": {
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75240",
+      "address_lines": [
+        "5720 LBJ Freeway",
+        "#440"
+      ],
+      "phone": "+14698886039"
+    },
+    "additional_offices": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056",
+        "address_lines": [
+          "5718 Westheimer Rd.",
+          "Ste. 1000"
+        ],
+        "phone": "713-588-4470",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/ktc-law-firm-NTM0MzE2MV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:32.957957+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/new-jersey/jersey-city/carolann-m-aschoff-pc-MTUwMDUxNl8x/",
+    "main_office": {
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "address_lines": [
+        "295 Newark Avenue"
+      ],
+      "phone": "+12014236966"
+    },
+    "additional_offices": [
+      {
+        "city": "Bayonne",
+        "state": "NJ",
+        "zip": "07002",
+        "address_lines": [
+          "503 John F. Kennedy Blvd."
+        ],
+        "phone": "+12014236966",
+        "profile_url": "https://lawyers.findlaw.com/new-jersey/bayonne/carolann-m-aschoff-pc-NDk1NDgzNV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:33.287514+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/maryland/bethesda/hamelburg-law-llc-MTg3MDc2MF8x/",
+    "main_office": {
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814",
+      "address_lines": [
+        "7910 Woodmont Avenue",
+        "Suite 1350"
+      ],
+      "phone": "(301) 913-5200"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:38.632380+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/texas/dallas/ktc-law-firm-NTA4Nzc3OF8x/",
+    "main_office": {
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75240",
+      "address_lines": [
+        "5720 LBJ Freeway",
+        "#440"
+      ],
+      "phone": "+14698886039"
+    },
+    "additional_offices": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056",
+        "address_lines": [
+          "5718 Westheimer Rd.",
+          "Ste. 1000"
+        ],
+        "phone": "713-588-4470",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/ktc-law-firm-NTM0MzE2MV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:38.810767+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/new-jersey/jersey-city/carolann-m-aschoff-pc-MTUwMDUxNl8x/",
+    "main_office": {
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "address_lines": [
+        "295 Newark Avenue"
+      ],
+      "phone": "+12014236966"
+    },
+    "additional_offices": [
+      {
+        "city": "Bayonne",
+        "state": "NJ",
+        "zip": "07002",
+        "address_lines": [
+          "503 John F. Kennedy Blvd."
+        ],
+        "phone": "+12014236966",
+        "profile_url": "https://lawyers.findlaw.com/new-jersey/bayonne/carolann-m-aschoff-pc-NDk1NDgzNV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:19:39.098008+00:00",
+    "firm_name": null,
+    "firm_profile_url": "https://lawyers.findlaw.com/maryland/bethesda/hamelburg-law-llc-MTg3MDc2MF8x/",
+    "main_office": {
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814",
+      "address_lines": [
+        "7910 Woodmont Avenue",
+        "Suite 1350"
+      ],
+      "phone": "(301) 913-5200"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:20.384343+00:00",
+    "firm_name": "Badham & Buck, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/badham--buck-llc-Mzk5OTcxMF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "2001 Park Place North",
+        "Suite 500"
+      ],
+      "phone": "205-588-2875"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:24.042608+00:00",
+    "firm_name": "Stephanie Bain P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/pell-city/stephanie-bain-pc-MzQzNDA3MV8x/",
+    "main_office": {
+      "city": "Pell City",
+      "state": "AL",
+      "zip": "35125",
+      "address_lines": [
+        "1918 Cogswell Avenue"
+      ],
+      "phone": "205-235-5030"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:27.678829+00:00",
+    "firm_name": "Martinson & Beason, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/martinson--beason-pc-MjM4ODA0Nl8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "115 Northside Square"
+      ],
+      "phone": "256-570-6029"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:31.397034+00:00",
+    "firm_name": "Dean & Barrett",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/opelika/dean--barrett-MTIzMTk2MV8x/",
+    "main_office": {
+      "city": "Opelika",
+      "state": "AL",
+      "zip": "36801",
+      "address_lines": [
+        "457 South 10th Street"
+      ],
+      "phone": "334-787-9991"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:35.143404+00:00",
+    "firm_name": "Hollis, Wright & Clay, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/hollis-wright--clay-pc-MzM5NjA4Nl8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "2201 Morris Ave."
+      ],
+      "phone": "205-606-6393"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:38.701895+00:00",
+    "firm_name": "Berry Law Firm, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4000278_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "205 20th St N Ste 210"
+      ],
+      "phone": "(205) 533-9495"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:42.338372+00:00",
+    "firm_name": "Bilbrey & Ryan, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/4214737_1/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "224 Rhett Avenue SW"
+      ],
+      "phone": "(256) 288-0704"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:45.930156+00:00",
+    "firm_name": "Crumbley-Blackwell-Price Attorneys",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/crumbley-blackwell-price-attorneys-MjcxNTQwM18x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "2304 Memorial Parkway SW"
+      ],
+      "phone": "256-539-4464"
+    },
+    "additional_offices": [
+      {
+        "city": "Athens",
+        "state": "AL",
+        "zip": "35611",
+        "address_lines": [
+          "112 West Market Street W"
+        ],
+        "phone": "256-539-4464",
+        "profile_url": "https://lawyers.findlaw.com/alabama/athens/crumbley-blackwell-price-attorneys-NTA0MzE1NF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:49.911604+00:00",
+    "firm_name": "The Bloomston Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/the-bloomston-firm-MzY5MDk0NV8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "1914 4th Avenue North",
+        "Suite 100"
+      ],
+      "phone": "205-994-6142"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:53.598165+00:00",
+    "firm_name": "Bohanan & Associates P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/3726875_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35243",
+      "address_lines": [
+        "1 Perimeter Park South",
+        "Suite 315 South"
+      ],
+      "phone": "(205) 977-2200"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:35:57.548553+00:00",
+    "firm_name": "Frawley Boliek Lawyers, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/irondale/3611987_1/",
+    "main_office": {
+      "city": "Irondale",
+      "state": "AL",
+      "zip": "35210",
+      "address_lines": [
+        "1818 6th Ave S"
+      ],
+      "phone": "(205) 979-6500"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:01.543040+00:00",
+    "firm_name": "Bradford & Holliman LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/scottsboro/4262361_1/",
+    "main_office": {
+      "city": "Scottsboro",
+      "state": "AL",
+      "zip": "35768",
+      "address_lines": [
+        "803 Garland Ferry Road,",
+        "P.O. Box 802"
+      ],
+      "phone": "256-259-3301"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:05.203676+00:00",
+    "firm_name": "John F. Brasfield, Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/tuscaloosa/4226082_1/",
+    "main_office": {
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35401",
+      "address_lines": [
+        "811 21st Avenue"
+      ],
+      "phone": "205-523-0046"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:08.910842+00:00",
+    "firm_name": "Stokes & Stokes, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/brewton/stokes--stokes-pc-MTU2NjU0MF8x/",
+    "main_office": {
+      "city": "Brewton",
+      "state": "AL",
+      "zip": "36426",
+      "address_lines": [
+        "411 Evergreen Ave"
+      ],
+      "phone": "251-867-7755"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:12.468546+00:00",
+    "firm_name": "Mezrano Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/mezrano-law-firm-NDkwMzUzOF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35242",
+      "address_lines": [
+        "31 Inverness Center Pkwy",
+        "Suite 350"
+      ],
+      "phone": "205-462-7409"
+    },
+    "additional_offices": [
+      {
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "zip": "35401",
+        "address_lines": [
+          "2615 6th Street",
+          "Suite 9"
+        ],
+        "phone": "205-462-7409",
+        "profile_url": "https://lawyers.findlaw.com/alabama/tuscaloosa/mezrano-law-firm-NTA4MjY4OV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:16.189795+00:00",
+    "firm_name": "Law Office of Dwayne L. Brown",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/law-office-of-dwayne-l-brown-NTExNjAxNF8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36106",
+      "address_lines": [
+        "2740 Zelda Road",
+        "Suite 500"
+      ],
+      "phone": "+18889895773"
+    },
+    "additional_offices": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30326",
+        "address_lines": [
+          "3390 Peachtree Rd NE",
+          "Suite 1100"
+        ],
+        "phone": "+18889895773",
+        "profile_url": "https://lawyers.findlaw.com/georgia/atlanta/law-office-of-dwayne-l-brown-MzM5MjQxNV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:19.954187+00:00",
+    "firm_name": "The Bryan Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/anniston/3779287_1/",
+    "main_office": {
+      "city": "Anniston",
+      "state": "AL",
+      "zip": "36201",
+      "address_lines": [
+        "114 West 10th Street",
+        "Suite A"
+      ],
+      "phone": "(256) 237-5018"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:23.420986+00:00",
+    "firm_name": "Law Office of Jeffrey J. Courtney, LLC.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/wetumpka/law-office-of-jeffrey-j-courtney-llc-MjMzOTYyNF8x/",
+    "main_office": {
+      "city": "Wetumpka",
+      "state": "AL",
+      "zip": "36092",
+      "address_lines": [
+        "1881 Holtville Rd"
+      ],
+      "phone": "+13348244424"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:27.327298+00:00",
+    "firm_name": "Slaten Law, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/slaten-law-pc-MTU2NTE3M18x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "address_lines": [
+        "7027 Halcyon Park Drive",
+        "Suite 100"
+      ],
+      "phone": "+13347792039"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:31.518355+00:00",
+    "firm_name": "Bradley",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/2390191_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "One Federal Place",
+        "1819 5th Avenue N"
+      ],
+      "phone": "+12055089012"
+    },
+    "additional_offices": [
+      {
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36104",
+        "address_lines": [
+          "RSA Dexter Avenue Building",
+          "445 Dexter Avenue",
+          "Suite 9075"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/alabama/montgomery/3132742_1/"
+      },
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30309",
+        "address_lines": [
+          "Promenade Tower 1230 Peachtree Street NE",
+          "20th Floor"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/georgia/atlanta/5314066_1/"
+      },
+      {
+        "city": "Jackson",
+        "state": "MS",
+        "zip": "39201",
+        "address_lines": [
+          "One Jackson Place",
+          "188 E Capitol Street",
+          "Suite 1000"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/mississippi/jackson/3188608_1/"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "address_lines": [
+          "Truist Center",
+          "214 North Tryon Street",
+          "Suite 3700"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/north-carolina/charlotte/3393274_1/"
+      },
+      {
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33602",
+        "address_lines": [
+          "100 North Tampa Street",
+          "Suite 2200"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/florida/tampa/4883783_1/"
+      },
+      {
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77002",
+        "address_lines": [
+          "JPMorgan Chase Tower",
+          "600 Travis Street",
+          "Suite 5600"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/texas/houston/4982361_1/"
+      },
+      {
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20036",
+        "address_lines": [
+          "1615 L Street NW",
+          "Suite 1350"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/district-of-columbia/washington/2752849_1/"
+      },
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37203",
+        "address_lines": [
+          "Roundabout Plaza",
+          "1600 Division Street",
+          "Suite 700"
+        ],
+        "phone": "+12055089012",
+        "profile_url": "https://lawyers.findlaw.com/tennessee/nashville/2598073_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:35.091263+00:00",
+    "firm_name": "Carey & Hamner, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/dothan/carey--hamner-pc-MzYxMDEzOF8x/",
+    "main_office": {
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36302",
+      "address_lines": [
+        "102 South Orange Avenue",
+        "P.O. Box 7111"
+      ],
+      "phone": "(334) 673-1800"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:38.576553+00:00",
+    "firm_name": "Gardberg & Kemmerly, P.C. Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/gardberg--kemmerly-pc-attorneys-at-law-MjQwNTg2Nl8x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36609",
+      "address_lines": [
+        "1015 Montlimar Drive",
+        "Suite B4"
+      ],
+      "phone": "+12513975099"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:42.158277+00:00",
+    "firm_name": "Jinks Crow, PC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/jinks-crow-pc-MjAxMzg1NF8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36104",
+      "address_lines": [
+        "322 Catoma Street"
+      ],
+      "phone": "334-738-4225"
+    },
+    "additional_offices": [
+      {
+        "city": "Union Springs",
+        "state": "AL",
+        "zip": "36089",
+        "address_lines": [
+          "219 North Prairie Street"
+        ],
+        "phone": "334-738-4225",
+        "profile_url": "https://lawyers.findlaw.com/alabama/union-springs/jinks-crow-pc-MjAwNjIxOF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:45.779100+00:00",
+    "firm_name": "Key, Greer, Harrison, & Casey",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/pelham/key-greer-harrison---casey-MjQzNDA3Ml8x/",
+    "main_office": {
+      "city": "Pelham",
+      "state": "AL",
+      "zip": "35124",
+      "address_lines": [
+        "2163 Highway 31 South",
+        "Suite 102"
+      ],
+      "phone": "205-705-3360"
+    },
+    "additional_offices": [
+      {
+        "city": "Pelham",
+        "state": "AL",
+        "zip": "35124",
+        "address_lines": [
+          "2163 Highway 31 South",
+          "Pelham",
+          "2163 Highway 31 South"
+        ],
+        "phone": "205-705-3360",
+        "profile_url": "https://lawyers.findlaw.com/alabama/pelham/key-greer-frawley-key--harrison-Mzk3MjI4M18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:49.811125+00:00",
+    "firm_name": "Isaak Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/isaak-law-firm-NTEwNDM4OV8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36106",
+      "address_lines": [
+        "2815 Zelda Road",
+        "Suite B"
+      ],
+      "phone": "334-262-8200"
+    },
+    "additional_offices": [
+      {
+        "city": "Enterprise",
+        "state": "AL",
+        "zip": "36330",
+        "address_lines": [
+          "1290 Shellfield Road"
+        ],
+        "phone": "334-262-8200",
+        "profile_url": "https://lawyers.findlaw.com/alabama/enterprise/5106445_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:53.423459+00:00",
+    "firm_name": "Lowry, Herren & Cline",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/cullman/lowry-herren--cline-NTAyODczMF8x/",
+    "main_office": {
+      "city": "Cullman",
+      "state": "AL",
+      "zip": "35055",
+      "address_lines": [
+        "409 1st Ave SW"
+      ],
+      "phone": "+12562025005"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:36:57.138254+00:00",
+    "firm_name": "Stephen E. Clements, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/4021891_1/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "301 Saint Louis Street"
+      ],
+      "phone": "(251) 432-7800"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:00.851846+00:00",
+    "firm_name": "Patrick Collins, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/daphne/patrick-collins-llc-MTkzNzgzOV8x/",
+    "main_office": {
+      "city": "Daphne",
+      "state": "AL",
+      "zip": "36526",
+      "address_lines": [
+        "7051 Professional Place"
+      ],
+      "phone": "251-445-5849"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:04.649759+00:00",
+    "firm_name": "David P. Condon, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4005244_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35209",
+      "address_lines": [
+        "100 Union Hill Dr.",
+        "Ste. 200"
+      ],
+      "phone": "(205) 871-2133"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:08.449263+00:00",
+    "firm_name": "Cooper & Cooper, Attorneys at Law, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/auburn/cooper--cooper-attorneys-at-law-llc-NDk4NjE4M18x/",
+    "main_office": {
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "36830",
+      "address_lines": [
+        "650 N. College Street",
+        "Suite 100"
+      ],
+      "phone": "+13348835827"
+    },
+    "additional_offices": [
+      {
+        "city": "Phenix City",
+        "state": "AL",
+        "zip": "36867",
+        "address_lines": [
+          "*By Appointment Only",
+          "1604 Broad Street",
+          "Suite F"
+        ],
+        "phone": "+13348835827",
+        "profile_url": "https://lawyers.findlaw.com/alabama/phenix-city/cooper--cooper-attorneys-at-law-llc-NTMwODc2Nl8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:11.983186+00:00",
+    "firm_name": "A. Cooper Attorney at Law LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/4241596_1/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36608",
+      "address_lines": [
+        "3929 Airport Blvd.",
+        "Bldg 2",
+        "Suite 300"
+      ],
+      "phone": "(251) 300-2220"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:15.675622+00:00",
+    "firm_name": "Cooper Law Group, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4247410_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35205",
+      "address_lines": [
+        "2301 Arlington Avenue South",
+        "Suite 300"
+      ],
+      "phone": "(205) 307-6006"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:19.273638+00:00",
+    "firm_name": "R. Champ Crocker, Attorney",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/cullman/3993092_1/",
+    "main_office": {
+      "city": "Cullman",
+      "state": "AL",
+      "zip": "35055",
+      "address_lines": [
+        "207 2nd Avenue SE"
+      ],
+      "phone": "(256) 739-5005"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:22.873208+00:00",
+    "firm_name": "Christopher Daniel; Sheffield & Lentine, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/christopher-daniel-sheffield--lentine-pc-NTA1NzgzMF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "600 20th St North",
+        "#301"
+      ],
+      "phone": "205-606-6709"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:26.425943+00:00",
+    "firm_name": "Dezenberg & Smith, Attorneys At Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/dezenberg--smith-attorneys-at-law-MTAxMTUwNl8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35811",
+      "address_lines": [
+        "2700 Winchester Road",
+        "Suite G"
+      ],
+      "phone": "256-715-9915"
+    },
+    "additional_offices": [
+      {
+        "city": "Decatur",
+        "state": "AL",
+        "zip": "35601",
+        "address_lines": [
+          "517 Bank Street Decatur",
+          "Suite A"
+        ],
+        "phone": "256-900-1876",
+        "profile_url": "https://lawyers.findlaw.com/alabama/decatur/dezenberg--smith-attorneys-at-law-NTIyMjU4NF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:30.500731+00:00",
+    "firm_name": "Kirk Drennan Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/kirk-drennan-law-NDk3NjQ2MV8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35223",
+      "address_lines": [
+        "500 Office Park Drive",
+        "Suite 100"
+      ],
+      "phone": "205-725-5448"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:34.082649+00:00",
+    "firm_name": "Friedman Law Firm, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/1980719_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35223",
+      "address_lines": [
+        "2700 Highway 280 S",
+        "Suite 450 E"
+      ],
+      "phone": "(205) 879-3033"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:37.697336+00:00",
+    "firm_name": "Durward & Durward, Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/durward--durward-attorneys-at-law-MjU5MDI1MV8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35205",
+      "address_lines": [
+        "2140 11th Avenue South",
+        "Suite 415"
+      ],
+      "phone": "205-791-7260"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:41.473771+00:00",
+    "firm_name": "Morris Haynes Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/morris-haynes-attorneys-at-law-MjUwNjY3Ml8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35243",
+      "address_lines": [
+        "3500 Blue Lake Drive",
+        "Suite 200"
+      ],
+      "phone": "205-324-4008"
+    },
+    "additional_offices": [
+      {
+        "city": "Alexander City",
+        "state": "AL",
+        "zip": "35011",
+        "address_lines": [
+          "131 Main Street"
+        ],
+        "phone": "256-795-3388",
+        "profile_url": "https://lawyers.findlaw.com/alabama/alexander-city/morris-haynes-attorneys-at-law-NDU0MjgyMF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:45.130690+00:00",
+    "firm_name": "Espy, Metcalf & Espy, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/dothan/2553595_1/",
+    "main_office": {
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "address_lines": [
+        "326 North Oates Street"
+      ],
+      "phone": ""
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:48.850753+00:00",
+    "firm_name": "Salter Ferguson, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4311177_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35242",
+      "address_lines": [
+        "4000 Eagle Point Corporate Drive",
+        "Suite 600"
+      ],
+      "phone": "205-408-4357"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:52.448866+00:00",
+    "firm_name": "Stewart Howard, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/4022405_1/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "411 St. Francis Street",
+        "P.O. Box 1903"
+      ],
+      "phone": "(251) 431-9364"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:55.849249+00:00",
+    "firm_name": "Kristi C. Fuller Law, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/kristi-c-fuller-law-llc-NTExMTA1NV8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "address_lines": [
+        "8325 Crossland Loop",
+        "Suite B"
+      ],
+      "phone": "+13347797807"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:37:59.450217+00:00",
+    "firm_name": "The Garris Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/bay-minette/the-garris-law-firm-llc-NTE4MDc1MF8x/",
+    "main_office": {
+      "city": "Bay Minette",
+      "state": "AL",
+      "zip": "36578",
+      "address_lines": [
+        "326 Courthouse Square"
+      ],
+      "phone": "251-279-9370"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:03.165722+00:00",
+    "firm_name": "Goldasich, Vick & Fulk",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/goldasich-vick--fulk-NDUxNjkxNV8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "2100 3rd Avenue North",
+        "Suite 400"
+      ],
+      "phone": "+12055378970"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:06.886697+00:00",
+    "firm_name": "Celeste C. Grenier, Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4301347_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "2107 5th Avenue North",
+        "Suite 401"
+      ],
+      "phone": "205-588-2198"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:10.521989+00:00",
+    "firm_name": "John Grow, Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/john-grow-attorney-at-law-MTU3NDE1Nl8x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "407 Conti St"
+      ],
+      "phone": "+12515192670"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:14.125638+00:00",
+    "firm_name": "Hampton Law Offices",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/daphne/hampton-law-offices-NDAyODA0MV8x/",
+    "main_office": {
+      "city": "Daphne",
+      "state": "AL",
+      "zip": "36526",
+      "address_lines": [
+        "6642 Park Drive"
+      ],
+      "phone": "+12515198319"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:17.885232+00:00",
+    "firm_name": "The Mims Firm, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/the-mims-firm-pc-MjA3NDk2M18x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36604",
+      "address_lines": [
+        "952 Government Street"
+      ],
+      "phone": "+18886731285"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:21.582723+00:00",
+    "firm_name": "J. Hardy Family Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mountain-brook/j-hardy-family-law-NTIyMTA2NF8x/",
+    "main_office": {
+      "city": "Mountain Brook",
+      "state": "AL",
+      "zip": "35223",
+      "address_lines": [
+        "200 Office Park Drive",
+        "Suite 310"
+      ],
+      "phone": "205-286-3381"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:25.243972+00:00",
+    "firm_name": "Harrell and Monaghan, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/gulf-shores/4036582_1/",
+    "main_office": {
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": "36542",
+      "address_lines": [
+        "234 Office Park Dr."
+      ],
+      "phone": "(251) 968-1555"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:29.223169+00:00",
+    "firm_name": "Ball, Ball, Matthews & Novak, P.A.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/ball-ball-matthews--novak-pa-NDA5MjY5M18x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36552",
+      "address_lines": [
+        "107 St. Francis Street",
+        "Suite 1590",
+        "P. O. Box 2648"
+      ],
+      "phone": "(251) 338-2721"
+    },
+    "additional_offices": [
+      {
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36104",
+        "address_lines": [
+          "445 Dexter Avenue",
+          "Suite 9045"
+        ],
+        "phone": "(334) 387-7680",
+        "profile_url": "https://lawyers.findlaw.com/alabama/montgomery/2387348_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:32.943592+00:00",
+    "firm_name": "Martin & Helms",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/martin--helms-NDE4ODI5M18x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "2317 Market Place SW",
+        "Suite A"
+      ],
+      "phone": "256-829-4201"
+    },
+    "additional_offices": [
+      {
+        "city": "Decatur",
+        "state": "AL",
+        "zip": "35601",
+        "address_lines": [
+          "255 Grant St.",
+          "Suite 305"
+        ],
+        "phone": "256-203-0704",
+        "profile_url": "https://lawyers.findlaw.com/alabama/decatur/martin--helms-NTIzMTIzM18x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:36.555384+00:00",
+    "firm_name": "Hernandez & Associates Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/4072069_1/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36606",
+      "address_lines": [
+        "1856 Airport Blvd."
+      ],
+      "phone": "251-272-5937"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:40.195229+00:00",
+    "firm_name": "Law Office of Jeffrey G. Hester",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/pelham/4037592_1/",
+    "main_office": {
+      "city": "Pelham",
+      "state": "AL",
+      "zip": "35124",
+      "address_lines": [
+        "2163 Pelham Parkway",
+        "Suite 211"
+      ],
+      "phone": "(205) 861-0980"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:43.786972+00:00",
+    "firm_name": "Higey Law LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/higey-law-llc-NTMyOTE5NF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "300 Richard Arrington Jr. Blvd N.",
+        "Ste. 503"
+      ],
+      "phone": "+12055379985"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:47.535497+00:00",
+    "firm_name": "Holberg and Holberg, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/holberg-and-holberg-pc-MjM4NzY3N18x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "118 North Royal Street",
+        "Suite 804"
+      ],
+      "phone": "251-272-3782"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:51.201798+00:00",
+    "firm_name": "Hornsby & Hornsby, Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/trussville/hornsby--hornsby-attorneys-at-law-MjA3NDU0Nl8x/",
+    "main_office": {
+      "city": "Trussville",
+      "state": "AL",
+      "zip": "35173",
+      "address_lines": [
+        "152 Main Street",
+        "Suite 100"
+      ],
+      "phone": "205-856-1000"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:54.694884+00:00",
+    "firm_name": "Law Office of Mitchell J. Howie & Associates, P.L.L.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/law-office-of-mitchell-j-howie--associates-pllc-MTc3NzYzMV8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "102 South Side Square"
+      ],
+      "phone": "256-570-3967"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:38:58.513430+00:00",
+    "firm_name": "Jackson & Scott, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/jackson--scott-llc-NTEwODU0N18x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "address_lines": [
+        "6737 Taylor Circle"
+      ],
+      "phone": "334-523-0338"
+    },
+    "additional_offices": [
+      {
+        "city": "Wetumpka",
+        "state": "AL",
+        "zip": "36092",
+        "address_lines": [
+          "631 Coosa River Parkway"
+        ],
+        "phone": "334-523-0338",
+        "profile_url": "https://lawyers.findlaw.com/alabama/wetumpka/jackson--scott-llc-NTE2NTcyMV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:02.025832+00:00",
+    "firm_name": "Wilson & Jackson LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/wilson--jackson-llc-NDY2MzcyMl8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36117",
+      "address_lines": [
+        "1785 Taliaferro Trail"
+      ],
+      "phone": "334-245-7772"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:05.506612+00:00",
+    "firm_name": "Mark A. Jackson, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/mark-a-jackson-pc-MTA4Mjc4NF8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "525 Madison St SE",
+        "# 202"
+      ],
+      "phone": "+12566734951"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:09.215890+00:00",
+    "firm_name": "W. Kendrick James Law Office",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/wetumpka/w-kendrick-james-law-office-NTA3ODk1Nl8x/",
+    "main_office": {
+      "city": "Wetumpka",
+      "state": "AL",
+      "zip": "36092",
+      "address_lines": [
+        "127 Cambridge Court"
+      ],
+      "phone": "334-478-0904"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:12.740084+00:00",
+    "firm_name": "New Beginnings Family Law, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/new-beginnings-family-law-pc-MzcyNTAwNV8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "415-A Church Street NW",
+        "Suite 101"
+      ],
+      "phone": "256-513-5074"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:16.349715+00:00",
+    "firm_name": "Warren & Simpson",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/warren--simpson-MjE1MDMxNV8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "105 North Side Square"
+      ],
+      "phone": "+12566734024"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:20.001296+00:00",
+    "firm_name": "Williams & Keahey LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/grove-hill/williams--keahey-llc-NTEwNzQyMl8x/",
+    "main_office": {
+      "city": "Grove Hill",
+      "state": "AL",
+      "zip": "36451",
+      "address_lines": [
+        "131 Cobb Street",
+        "P.O. Box 610"
+      ],
+      "phone": "251-262-6396"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:23.748667+00:00",
+    "firm_name": "Hand Arendall Harrison Sale LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/1446852_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "1801 5th Avenue North",
+        "Suite 400"
+      ],
+      "phone": "(205) 324-4400"
+    },
+    "additional_offices": [
+      {
+        "city": "Athens",
+        "state": "AL",
+        "zip": "35611",
+        "address_lines": [
+          "102 South Jefferson Street"
+        ],
+        "phone": "(256) 232-0202",
+        "profile_url": "https://lawyers.findlaw.com/alabama/athens/3755418_1/"
+      },
+      {
+        "city": "Panama City",
+        "state": "FL",
+        "zip": "32401",
+        "address_lines": [
+          "304 Magnolia Avenue",
+          "Post Office Drawer 1579"
+        ],
+        "phone": "(850) 769-3434",
+        "profile_url": "https://lawyers.findlaw.com/florida/panama-city/2505183_1/"
+      },
+      {
+        "city": "Madison",
+        "state": "MS",
+        "zip": "39110",
+        "address_lines": [
+          "1300 Highway 51",
+          "Suites A & B"
+        ],
+        "phone": "(601) 605-6551",
+        "profile_url": "https://lawyers.findlaw.com/mississippi/madison/3755592_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:27.304993+00:00",
+    "firm_name": "The Merrell Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/hoover/the-merrell-law-firm-llc-NDk0NzYwMl8x/",
+    "main_office": {
+      "city": "Hoover",
+      "state": "AL",
+      "zip": "35242",
+      "address_lines": [
+        "5113 Cyrus Circle"
+      ],
+      "phone": "205-874-9697"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:30.892720+00:00",
+    "firm_name": "Lindsey Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4148765_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35243",
+      "address_lines": [
+        "2110 Devereux Circle",
+        "Suite 100"
+      ],
+      "phone": "(205) 970-2233"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:34.425581+00:00",
+    "firm_name": "Lucci Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/3837678_1/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36104",
+      "address_lines": [
+        "505 South Perry Street"
+      ],
+      "phone": "(334) 834-5700"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:37.885971+00:00",
+    "firm_name": "Riley & Jackson, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/2556415_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35209",
+      "address_lines": [
+        "3530 Independence Drive"
+      ],
+      "phone": "(205) 879-5000"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:41.565339+00:00",
+    "firm_name": "The Martin Law Group, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/tuscaloosa/4085449_1/",
+    "main_office": {
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35401",
+      "address_lines": [
+        "2117 Jack Warner Parkway",
+        "Suite 1b"
+      ],
+      "phone": "(800) 284-9309"
+    },
+    "additional_offices": [
+      {
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "zip": "35401",
+        "address_lines": [
+          "2117 Jack Warner Pkwy",
+          "Suite #1b"
+        ],
+        "phone": "(800) 284-9309",
+        "profile_url": "https://lawyers.findlaw.com/alabama/tuscaloosa/5347310_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:45.027242+00:00",
+    "firm_name": "Richard E. Mather Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/richard-e-mather-attorney-at-law-NDAyMzIxNl8x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36604",
+      "address_lines": [
+        "1008 Dauphin Street"
+      ],
+      "phone": "+12515198985"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:48.471742+00:00",
+    "firm_name": "McArdle & Whitman, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/4025561_1/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36104",
+      "address_lines": [
+        "407 South Mcdonough Street",
+        "Suite 1"
+      ],
+      "phone": "(334) 263-9800"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:52.119482+00:00",
+    "firm_name": "Radney, Radney & Jackson, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/alexander-city/radney-radney--jackson-llc-MzM5MjgxNV8x/",
+    "main_office": {
+      "city": "Alexander City",
+      "state": "AL",
+      "zip": "35010",
+      "address_lines": [
+        "56 Court Square"
+      ],
+      "phone": "+12566732169"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:55.699693+00:00",
+    "firm_name": "McCallum Hoaglund & Irby, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/vestavia-hills/3584870_1/",
+    "main_office": {
+      "city": "Vestavia Hills",
+      "state": "AL",
+      "zip": "35216",
+      "address_lines": [
+        "905 Montgomery Highway",
+        "Suite 201"
+      ],
+      "phone": "(205) 824-7767"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:39:59.177547+00:00",
+    "firm_name": "McElderry Law Firm, PC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/mcelderry-law-firm-pc-NDc2MjA3MV8x/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "207 Church Street"
+      ],
+      "phone": "251-206-0457"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:02.753604+00:00",
+    "firm_name": "Michel Allen & Sinor",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/michel-allen--sinor-NDY3MDA1M18x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35243",
+      "address_lines": [
+        "1900 International Park Drive",
+        "Suite 140"
+      ],
+      "phone": "205-265-1880"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:06.543994+00:00",
+    "firm_name": "Law Offices of Thomas P. Willingham, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/3308439_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35209",
+      "address_lines": [
+        "517 Beacon Parkway West"
+      ],
+      "phone": "(205) 298-1011"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:10.232089+00:00",
+    "firm_name": "The Moore Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/the-moore-firm-llc-NDAyMDY5MF8x/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "917 Merchants Walk SW",
+        "Suite B"
+      ],
+      "phone": "+12569603772"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:13.996359+00:00",
+    "firm_name": "Morris, Andrews, Talmadge, & Driggers, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/dothan/3083120_1/",
+    "main_office": {
+      "city": "Dothan",
+      "state": "AL",
+      "zip": "36303",
+      "address_lines": [
+        "3334 Ross Clark Circle"
+      ],
+      "phone": "844-654-6228"
+    },
+    "additional_offices": [
+      {
+        "city": "Fairhope",
+        "state": "AL",
+        "zip": "36532",
+        "address_lines": [
+          "21 South Section Street",
+          "Suite 4"
+        ],
+        "phone": "251-800-3998",
+        "profile_url": "https://lawyers.findlaw.com/alabama/fairhope/5173541_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:17.632338+00:00",
+    "firm_name": "Paine & Associates, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/florence/paine--associates-pc-MTA2NDAzOV8x/",
+    "main_office": {
+      "city": "Florence",
+      "state": "AL",
+      "zip": "35630",
+      "address_lines": [
+        "201 South Court Street"
+      ],
+      "phone": "256-275-4915"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:21.377083+00:00",
+    "firm_name": "Parkman White, LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/4017129_1/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "1929 3rd Avenue. North",
+        "Suite 700"
+      ],
+      "phone": "(205) 686-1868"
+    },
+    "additional_offices": [
+      {
+        "city": "Dothan",
+        "state": "AL",
+        "zip": "36301",
+        "address_lines": [
+          "661 West Main Street"
+        ],
+        "phone": "205-502-2000",
+        "profile_url": "https://lawyers.findlaw.com/alabama/dothan/4129555_1/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:24.973559+00:00",
+    "firm_name": "Penn & Seaborn, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/union-springs/penn--seaborn-llc-MzU0NTkyMV8x/",
+    "main_office": {
+      "city": "Union Springs",
+      "state": "AL",
+      "zip": "36089",
+      "address_lines": [
+        "53 Highway 110"
+      ],
+      "phone": "+13345003249"
+    },
+    "additional_offices": [
+      {
+        "city": "Clayton",
+        "state": "AL",
+        "zip": "36016",
+        "address_lines": [
+          "5 Court Square",
+          "PO Box 688"
+        ],
+        "phone": "+13345003249",
+        "profile_url": "https://lawyers.findlaw.com/alabama/clayton/penn--seaborn-llc-NTIyOTQyNl8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:28.658486+00:00",
+    "firm_name": "Armbrecht Jackson LLP",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/mobile/2387846_1/",
+    "main_office": {
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36602",
+      "address_lines": [
+        "63 South Royal Street",
+        "13th Floor Riverview Plaza"
+      ],
+      "phone": "(251) 405-1300"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:32.454531+00:00",
+    "firm_name": "Robert T. Ray Attorney, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/fort-payne/robert-t-ray-attorney-llc-MzQxMjU5Nl8x/",
+    "main_office": {
+      "city": "Fort Payne",
+      "state": "AL",
+      "zip": "35967",
+      "address_lines": [
+        "200 Alabama Avenue SW"
+      ],
+      "phone": "256-364-5780"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:36.105966+00:00",
+    "firm_name": "Joe Reed & Associates, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/montgomery/joe-reed--associates-llc-MzQwNTY3Nl8x/",
+    "main_office": {
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "36104",
+      "address_lines": [
+        "524 South Union Street"
+      ],
+      "phone": "334-625-1794"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:39.949173+00:00",
+    "firm_name": "Riley Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/riley-law-firm-NDcyNjYwMV8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35205",
+      "address_lines": [
+        "2175 11th Court South"
+      ],
+      "phone": "205-212-5577"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:43.795807+00:00",
+    "firm_name": "Strawn & Robertson, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/gadsden/strawn--robertson-llc-NDg3MTAwOF8x/",
+    "main_office": {
+      "city": "Gadsden",
+      "state": "AL",
+      "zip": "35901",
+      "address_lines": [
+        "2401 Rainbow Drive"
+      ],
+      "phone": "256-485-4980"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:48.040549+00:00",
+    "firm_name": "The Rose Law Firm, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/the-rose-law-firm-llc-Mzk0OTg2MF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35205",
+      "address_lines": [
+        "811 20th Street South"
+      ],
+      "phone": "+16592998395"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:51.727466+00:00",
+    "firm_name": "Capouano, Beckman & Russell, LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/opelika/capouano-beckman--russell-llc-NTIwNzgwM18x/",
+    "main_office": {
+      "city": "Opelika",
+      "state": "AL",
+      "zip": "36801",
+      "address_lines": [
+        "3320 Skyway Dr.",
+        "#711"
+      ],
+      "phone": "334-275-9746"
+    },
+    "additional_offices": [
+      {
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36104",
+        "address_lines": [
+          "560 S. Mcdonough St.",
+          "Ste. C"
+        ],
+        "phone": "334-275-9746",
+        "profile_url": "https://lawyers.findlaw.com/alabama/montgomery/capouano-beckman--russell-llc-NTIwNzg1MV8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:55.490842+00:00",
+    "firm_name": "Rush Law Firm LLC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/columbiana/rush-law-firm-llc-NTM3Nzc0OF8x/",
+    "main_office": {
+      "city": "Columbiana",
+      "state": "AL",
+      "zip": "35051",
+      "address_lines": [
+        "106 North Main Street"
+      ],
+      "phone": "+12057380388"
+    },
+    "additional_offices": [
+      {
+        "city": "Columbiana",
+        "state": "AL",
+        "zip": "35051",
+        "address_lines": [
+          "Post Office Box 1591"
+        ],
+        "phone": "+12057380388",
+        "profile_url": "https://lawyers.findlaw.com/alabama/columbiana/rush-law-firm-llc-NTM3NzgxOF8x/"
+      }
+    ]
+  },
+  {
+    "scraped_at": "2026-04-27T17:40:59.097364+00:00",
+    "firm_name": "The Sapp Law Firm, L.L.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/jasper/3413528_1/",
+    "main_office": {
+      "city": "Jasper",
+      "state": "AL",
+      "zip": "35501",
+      "address_lines": [
+        "1923 Third Avenue South"
+      ],
+      "phone": "205-221-2929"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:02.671846+00:00",
+    "firm_name": "Scheinert Law Firm",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/guntersville/3790787_1/",
+    "main_office": {
+      "city": "Guntersville",
+      "state": "AL",
+      "zip": "35976",
+      "address_lines": [
+        "2316 Taylor Street",
+        "P.O. Box 1131"
+      ],
+      "phone": "(256) 582-4880"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:06.263115+00:00",
+    "firm_name": "Virtus Law Group",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/virtus-law-group-NTIyMzE1N18x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35203",
+      "address_lines": [
+        "2017 Morris Ave",
+        "#100"
+      ],
+      "phone": "205-730-0499"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:10.050293+00:00",
+    "firm_name": "Shelton & Shelton Attorneys at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/decatur/shelton--shelton-attorneys-at-law-MjM4ODcyMl8x/",
+    "main_office": {
+      "city": "Decatur",
+      "state": "AL",
+      "zip": "35601",
+      "address_lines": [
+        "247 Moulton St E",
+        "Suite A"
+      ],
+      "phone": "256-353-7206"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:13.761035+00:00",
+    "firm_name": "Joseph Allan Shaw, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/loxley/joseph-allan-shaw-pc-NDI4Nzc4N18x/",
+    "main_office": {
+      "city": "Loxley",
+      "state": "AL",
+      "zip": "36551",
+      "address_lines": [
+        "2137 So. Hickory Street"
+      ],
+      "phone": "251-964-7774"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:17.195091+00:00",
+    "firm_name": "Hank Sherrod, Civil Rights Trial Lawyer",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/florence/hank-sherrod-civil-rights-trial-lawyer-MzI1NDAxMF8x/",
+    "main_office": {
+      "city": "Florence",
+      "state": "AL",
+      "zip": "35630",
+      "address_lines": [
+        "119 South Court Street"
+      ],
+      "phone": "256-764-4141"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:20.694519+00:00",
+    "firm_name": "Maples Law Firm, PC",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/huntsville/4021595_1/",
+    "main_office": {
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35801",
+      "address_lines": [
+        "200 Clinton Avenue West",
+        "Suite 1000"
+      ],
+      "phone": "(256) 489-9779"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:24.371591+00:00",
+    "firm_name": "Mitzi G. Johnson-Theodoro L.L.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/robertsdale/mitzi-g-johnson-theodoro-llc-NDAzNzM1MV8x/",
+    "main_office": {
+      "city": "Robertsdale",
+      "state": "AL",
+      "zip": "36567",
+      "address_lines": [
+        "22881 Highway 59 South"
+      ],
+      "phone": "251-216-1545"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:28.186767+00:00",
+    "firm_name": "Charles M. Thompson & Associates, P.C.",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/birmingham/charles-m-thompson--associates-pc-MzE4NDQwNF8x/",
+    "main_office": {
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35205",
+      "address_lines": [
+        "2142 Highland Av. S."
+      ],
+      "phone": "(205) 939-6400"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:31.818477+00:00",
+    "firm_name": "John A. Tinney, Attorney at Law",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/roanoke/john-a-tinney-attorney-at-law-MTcxNjI4OF8x/",
+    "main_office": {
+      "city": "Roanoke",
+      "state": "AL",
+      "zip": "36274",
+      "address_lines": [
+        "739 Main Street"
+      ],
+      "phone": "334-219-2546"
+    },
+    "additional_offices": []
+  },
+  {
+    "scraped_at": "2026-04-27T17:41:35.431523+00:00",
+    "firm_name": "Vaughn Defense",
+    "firm_profile_url": "https://lawyers.findlaw.com/alabama/auburn/5331961_1/",
+    "main_office": {
+      "city": "Auburn",
+      "state": "AL",
+      "zip": "36830",
+      "address_lines": [
+        "2235 Columbia Drive"
+      ],
+      "phone": ""
+    },
+    "additional_offices": []
+  }
+]

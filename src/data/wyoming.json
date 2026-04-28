@@ -1,0 +1,2164 @@
+{
+    "state": "Wyoming",
+    "state_abbr": "WY",
+    "cities": [
+        "Casper",
+        "Cheyenne",
+        "Gillette",
+        "Thermopolis"
+    ],
+    "counties": [
+        "Campbell",
+        "Hot Springs",
+        "Laramie"
+    ],
+    "attorneys": [
+        {
+            "slug": "richard-d-bush",
+            "type": "attorney",
+            "name": "Richard D. Bush",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Administrative Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/richard-d-bush.jpg",
+            "bio": "Richard has been with the firm since 1990. Upon graduation from law school in 1989, he served as a Law Clerk for the Wyoming Supreme Court. His practice area focuses primarily on civil litigation and education law.",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700, P.O. Drawer 467",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Administrative Law",
+                "Appellate Practice",
+                "Education Law"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "Richard has been with the firm since 1990. Upon graduation from law school in 1989, he served as a Law Clerk for the Wyoming Supreme Court. His practice area focuses primarily on civil litigation and education law."
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 1989",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "Black Hills State College, Spearfish, South Dakota, 1985",
+                                "B.S.",
+                                "Major: History",
+                                "Major: Political Science"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Partner"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Supreme Court of Wyoming, Law Clerk, 1989 - 1991",
+                        "Representative Clients",
+                        "Laramie County School District #1",
+                        "Sweetwater County School District #2"
+                    ]
+                },
+                {
+                    "title": "Representative Cases",
+                    "type": "list",
+                    "content": [
+                        "Hill Investment Corporation v. M&M Auto Outlet",
+                        "Citation: 2010 WY 56",
+                        "Court: Wyo.",
+                        "Year: 2010",
+                        "State v. Campbell County School Dist.",
+                        "Citation: 32 P.3d 325",
+                        "Year: 2001",
+                        "Case v. Outback Pipe Haulers",
+                        "Citation: 2007 WY 181",
+                        "Year: 2007",
+                        "Citation: 19 P.3d 518",
+                        "US West Communications, Inc. v. Wyoming Public Service Com'm.",
+                        "Citation: 958 P.2d 371",
+                        "Year: 1996",
+                        "Feltner v. Casey Family Program",
+                        "Citation: 902 P.2d 206",
+                        "Year: 1995",
+                        "Colorado Interstate Gas Co. v. Natural Gas Pipeline Co. of America",
+                        "Citation: 842 P.2d",
+                        "Union Telephone Co., Inc. v. Wyoming Public Service Com'n",
+                        "Citation: 135 P.U.R. 4th 584, 833 P.2d 473",
+                        "Year: 1992",
+                        "Williams v Solvay",
+                        "Citation: 385 Fed.Appx. 820",
+                        "Court: 10th Cir. (unpublished)",
+                        "State of Nebraska v. Kirkwood, et al.",
+                        "Citation: 16 Neb.App. 459",
+                        "Court: Nebraska Court of Appeals",
+                        "Year: 2008",
+                        "Powell v Laborers Union #1271",
+                        "Citation: Unpublished",
+                        "Court: US Court of Appeals 10th Circuit",
+                        "Year: 2011",
+                        "Serial Number: 10-8087",
+                        "Campbell County School v. State, 181 P.3d 43 (Wyo. 2008)",
+                        "Campbell County School Dist. v. State, 907 P.2d 128 (Wyo. 1995)"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 1989",
+                        "U.S. District Court District of Wyoming, 1989",
+                        "U.S. Court of Appeals 10th Circuit, 1992"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "john-a-coppede",
+            "type": "attorney",
+            "name": "John A. Coppede",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Insurance Defense Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/john-a-coppede.jpg",
+            "bio": "Mr. Coppede began his legal career as a law clerk to the Honorable Alan B. Johnson, United States District Court for the District of Wyoming. He is a partner with Hickey & Evans where he has an active trial practice which focuses on representing businesses and individuals in a wide variety of disputes, including commercial litigation, contract actions, personal injury, business torts, environmental litigation, employment law disputes, civil rights issues, and insurance coverage disputes. He represents both employers and employees in workers' compensation matters before the Office of Administrative Hearings. He represents secured and unsecured creditors in Chapter 7, 11, 12 and 13 matters. He represents creditors in judicial and nonjudicial foreclosure of real estate matters, loan modifications, forbearance agreements, replevin actions to recover collateral, and garnishment proceedings. He practices in all state and federal courts in Wyoming and Colorado, and various state agencies, including the Wyoming Environmental Quality Counsel, the Wyoming Board of Equalization and the Wyoming Office of Administrative Hearings. His trial practice includes representing both defendants and plaintiffs.\n\nAwards and Honors\n\nHonors\n\nAm. Jur. Award, Civil Procedure, 1985 - Present\n\nAm. Jur. Award, Commercial Paper, 1986 - Present",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Insurance Defense",
+                "Environmental Law",
+                "Tort Law",
+                "Commercial Litigation",
+                "Employment Law",
+                "Creditor's Rights",
+                "Bankruptcy",
+                "Contracts",
+                "Workers Compensation Defense",
+                "Appeals",
+                "Appellate Practice",
+                "Business/Commercial Law",
+                "Personal Injury",
+                "Worker's Compensation"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "Mr. Coppede began his legal career as a law clerk to the Honorable Alan B. Johnson, United States District Court for the District of Wyoming. He is a partner with Hickey & Evans where he has an active trial practice which focuses on representing businesses and individuals in a wide variety of disputes, including commercial litigation, contract actions, personal injury, business torts, environmental litigation, employment law disputes, civil rights issues, and insurance coverage disputes. He represents both employers and employees in workers' compensation matters before the Office of Administrative Hearings. He represents secured and unsecured creditors in Chapter 7, 11, 12 and 13 matters. He represents creditors in judicial and nonjudicial foreclosure of real estate matters, loan modifications, forbearance agreements, replevin actions to recover collateral, and garnishment proceedings. He practices in all state and federal courts in Wyoming and Colorado, and various state agencies, including the Wyoming Environmental Quality Counsel, the Wyoming Board of Equalization and the Wyoming Office of Administrative Hearings. His trial practice includes representing both defendants and plaintiffs.\n\nAwards and Honors\n\nHonors\n\nAm. Jur. Award, Civil Procedure, 1985 - Present\n\nAm. Jur. Award, Commercial Paper, 1986 - Present"
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 1987",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "State University of New York, Buffalo, New York, 1997",
+                                "B.A.",
+                                "Honors: cum laude",
+                                "Major: Philosophy",
+                                "Major: History"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Partner"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Sundahl, Powers, Kapp & Martin, Associate, 1991 - 1999",
+                        "Rothgerber Johnson & Lyons, Special Counsel, 1999 - 2005",
+                        "Honorable Alan B. Johnson, United States District Court for the District of Wyoming, Law Clerk",
+                        "Languages",
+                        "Spanish",
+                        "Representative Clients",
+                        "Jeld-Wen Inc.",
+                        "Colorado Casualty Insurance Company",
+                        "PacifiCorp",
+                        "Nabors Drilling U.S.A. L.P.",
+                        "Stewart Title Guaranty Company",
+                        "Meridian Trust Federal Credit Union",
+                        "Centennial Lending",
+                        "Park Western Leasing Company",
+                        "Speedy Heavy Hauling, Inc."
+                    ]
+                },
+                {
+                    "title": "Representative Cases",
+                    "type": "list",
+                    "content": [
+                        "Hill Investment Corporation v. M&M Auto Outlet",
+                        "Citation: 2010 WY 56",
+                        "Court: Wyo.",
+                        "Year: 2010",
+                        "Case v. Outback Pipe Haulers",
+                        "Citation: 2007 WY 181",
+                        "Year: 2007",
+                        "Colorado Casualty Insurance Co v. Sammons",
+                        "Citation: 157 P.3d 460",
+                        "Erpelding v. Lisek",
+                        "Citation: 71 P.3d 754",
+                        "Year: 2003",
+                        "Beuhner Block Co. v. Wyoming Dept. of Revenue",
+                        "Citation: 139 P.3d 1150",
+                        "Year: 2006",
+                        "Waid v. Burlington Northern RR",
+                        "Citation: 996 P.2d 18",
+                        "Year: 1999",
+                        "Southwestern Public Service Co. v. Thunder Basin Coal Co.",
+                        "Citation: 978 P.2d 1138",
+                        "Year: 1998",
+                        "Ahrenholtz v. Time Ins. Co.",
+                        "Citation: 968 P.2d 946",
+                        "Haines v. Fisher",
+                        "Citation: 82 F.3d 1503",
+                        "Court: 10th Cir.",
+                        "Year: 1996",
+                        "Hiatt v. Union Pac. R.R.",
+                        "Citation: 65 F.3d 838",
+                        "Year: 1995",
+                        "Phelan v. Laramie County Cmty. College Bd. of Trustees",
+                        "Citation: 235 F.3d 1243",
+                        "Year: 2000",
+                        "Bintner v. Burlington N.",
+                        "Citation: 857 F. Supp 1484",
+                        "Court: D. Wyo.",
+                        "Year: 1994",
+                        "Colo. Cas. Ins. Co. v. Sammons",
+                        "Citation: WY 75",
+                        "Hurst v. Metro. Prop. & Cas. Ins. Co., 2017 WY 104",
+                        "Year: 2017",
+                        "Cent. Wyo. Neurosurgery, LLC v. Barta-Iso Aviation, 2014 U.S. Dist. LEXIS 162344 (D. Wyo. Nov. 17, 2014).",
+                        "Century Ready-Mix Co. v. Campbell County Sch. Dist., 816 P.2d 795 (Wyo. 1991).",
+                        "Farmers Ins. Exch. v. Dahlheimer, 3 P.3d 820 (Wyo. 2000)",
+                        "Harston v. Campbell County Mem. Hosp., 913 P.2d 870 (Wyo. 1996)",
+                        "Sierra Club v. Wyo. Dep’t of Envtl. Quality, 2011 WY 42 (Wyo. 2011)",
+                        "Southwestern Pub. Serv. Co. v. Thunder Basin Coal Co., 978 P.2d 1138 (Wyo. 1999)",
+                        "Stalkup v. State Dep’t of Envtl. Quality, 838 P.2d 705 (Wyo. 1992)",
+                        "Teton Builders v. Jacobsen Constr. Co., 2004 WY 147 (Wyo. 2004)",
+                        "Waid v. State, 996 P.2d 18 (Wyo. 2000)",
+                        "Wyoming Dep’t of Transp. v. International Union of Operating Eng’rs Local Union 800, 908 P.2d 970 (Wyo. 1995)",
+                        "Peerless Indem. Ins. Co. v. Swanner, 651 Fed. Appx. 785 (10th Cir. 2016)",
+                        "Buehner Block Co. v. Wyo. Dep’t of Revenue, 2006 WY 90 (Wyo. 2006)",
+                        "Howton v. Mid-Century Ins. Co., 819 F. Supp. 1010 (D. Wyo. 1993)",
+                        "Sabins v. Commercial Union Ins. Cos., 82 F. Supp. 2d 1270 (D. Wyo. 2000)",
+                        "B.A.L. v. Laramie Cty. Sch. Dist. No. 1, 2016 U.S. Dist. LEXIS 194474 (D. Wyo. Nov. 30, 2016)",
+                        "McCarty v. Liberty Mut. Ins. Co., 2017 U.S. Dist. LEXIS 220219 (D. Wyo. Feb. 3, 2017)",
+                        "Melendez v. Colo. Cas. Ins. Co., 2012 U.S. Dist. LEXIS 191677 (D. Wyo. Jun. 7, 2012)",
+                        "Seeley v. St. Anthony’s Catholic Church, 2013 U.S. Dist. LEXIS 61777 (D. Wyo. Apr. 26, 2013)"
+                    ]
+                },
+                {
+                    "title": "Published Works",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Articles",
+                            "items": [
+                                "The Clean Air Act: Eco. & Tech. Feasibility in Setting Standards Under 112, 22 Land & Water Law Rev. 397, Spring, 1987",
+                                "Wyoming Upholds a Resident Laborer Preference Statute, 21 Land & Water Law Rev 219, Fall, 1986"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 1987",
+                        "Colorado, 1989",
+                        "U.S. District Court District of Wyoming, 1987",
+                        "U.S. Court of Appeals 10th Circuit, 1994"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming State Bar (Member)",
+                        "Laramie County Bar Association (Member)"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "jim-fitzgerald",
+            "type": "attorney",
+            "name": "Jim Fitzgerald",
+            "firm_name": "The Fitzgerald Law Firm",
+            "firm_slug": "the-fitzgerald-law-firm",
+            "practice_type": "Personal Injury Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": false,
+            "super_lawyers": 1,
+            "photo": "/photos/attorneys/jim-fitzgerald.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "Cheyenne, WY",
+                "address2": "2108 Warren Avenue",
+                "zip": null
+            },
+            "contact": {
+                "phones": [
+                    "877-634-1001",
+                    "307-635-2391"
+                ],
+                "fax": "307-635-2391",
+                "websites": [
+                    "https://www.fitzgeraldlaw.com/"
+                ],
+                "hours": null,
+                "features": []
+            },
+            "practice_areas": [
+                "Personal Injury",
+                "Products Liability",
+                "Catastrophic Injuries and Death",
+                "Workplace Liability",
+                "Medical Malpractice",
+                "Wrongful Death"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Colorado School of Law, Boulder, Colorado, 1975",
+                                "J.D., Doctor of Jurisprudence"
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, Laramie, Wyoming",
+                                "B.A., Bachelor of Arts"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Founding Partner"
+                    ]
+                },
+                {
+                    "title": "Classes and Seminars",
+                    "type": "list",
+                    "content": [
+                        "Gerry Spence Method since 2000, Instructor"
+                    ]
+                },
+                {
+                    "title": "Representative Cases",
+                    "type": "list",
+                    "content": [
+                        "Caterpillar Tractor Co. v. Donahue",
+                        "Citation: 674 P.2d 1276",
+                        "Court: Wyo.",
+                        "Year: 1983",
+                        "Serial Number: 1983158396",
+                        "Sheeler v. Trans-Chem, Inc.",
+                        "Citation: 520 F.Supp. 117",
+                        "Court: D.Wyo.",
+                        "Year: 1981",
+                        "Serial Number: 1981135266",
+                        "Everts v. Board of Trustees of South Lincoln Hosp. Dist.",
+                        "Citation: 604 F.Supp. 40",
+                        "Year: 1985",
+                        "Serial Number: 1985115040",
+                        "Green River Development Co. v. FMC Corp.",
+                        "Citation: 660 P.2d 339",
+                        "Serial Number: 1983110889",
+                        "Yost v. Harpel Oil Co.",
+                        "Citation: 674 P.2d 712",
+                        "Serial Number: 1983154562"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 1975",
+                        "U.S. Federal Courts, 1975",
+                        "U.S. District Court District of Wyoming, 1975",
+                        "U.S. Supreme Court, 1979",
+                        "U.S. Court of Appeals 10th Circuit, 1976",
+                        "Colorado, 1993",
+                        "U.S. District Court District of Colorado, 2001",
+                        "Specialties and Certifications",
+                        "Civil Trial Advocate, Nat'l. Board of Trial Advocacy"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Association of Trial Lawyers of America (Board of Governors)",
+                        "Wyoming Trial Lawyers Association (President)",
+                        "Inner Circle of Advocates, 2000 - 2001 (President)",
+                        "Colorado Trial Lawyers Association (Member)",
+                        "American Association for Justice (Member)",
+                        "American Board of Trial Advocates (Member)",
+                        "International Academy of Trial Lawyers (Member)",
+                        "American College of Trial Lawyers (Member)",
+                        "International Society of Barristers (Member)",
+                        "National Board of Trial Advocacy (Member)",
+                        "The American College of Board Certified Attorneys (Member)",
+                        "Wyoming State Bar (Member)",
+                        "Fraternities and Sororities",
+                        "Omicron Delta Kappa"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "michael-fitzgerald",
+            "type": "attorney",
+            "name": "Michael Fitzgerald",
+            "firm_name": "The Fitzgerald Law Firm",
+            "firm_slug": "the-fitzgerald-law-firm",
+            "practice_type": "Personal Injury Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": false,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/michael-fitzgerald.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "Cheyenne, WY",
+                "address2": "2108 Warren Avenue",
+                "zip": null
+            },
+            "contact": {
+                "phones": [
+                    "877-634-1001",
+                    "307-635-2391"
+                ],
+                "fax": "307-635-2391",
+                "websites": [
+                    "https://www.fitzgeraldlaw.com/"
+                ],
+                "hours": null,
+                "features": []
+            },
+            "practice_areas": [
+                "Personal Injury",
+                "Wrongful Death",
+                "Medical Malpractice"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 2014",
+                                "J.D.",
+                                "Honors: Order of the Coif",
+                                "Law Review: Wyoming Law Review, Editor-in-Chief, 2013 - 2014"
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, 2011",
+                                "Major: History and Philosophy"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Attorney"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Honorable Alan B. Johnson, United States District Court for the District of Wyoming, Clerk"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming",
+                        "U.S. District Court District of Wyoming"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming Trial Lawyers Association, Board Member"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "shelly-kay-flot",
+            "type": "attorney",
+            "name": "Shelly Kay Flot",
+            "firm_name": "Law Office of Shelly Kay Flot, PC",
+            "firm_slug": "law-office-of-shelly-kay-flot-pc",
+            "practice_type": "Family Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": false,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/shelly-kay-flot.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "17th Street & Central Avenue",
+                "address2": "The Executive Suites",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-0661"
+                ],
+                "fax": null,
+                "websites": [],
+                "hours": null,
+                "features": [
+                    "Credit Cards Accepted"
+                ]
+            },
+            "practice_areas": [
+                "Family Law",
+                "Accidents",
+                "Bankruptcy",
+                "Motor Vehicle Accidents- Plaintiff",
+                "Adoption",
+                "Custody & Visitation",
+                "Divorce",
+                "Child Support",
+                "Military Divorce",
+                "Same Sex Family Law",
+                "Trucking Accidents",
+                "Personal Injury- Plaintiff",
+                "Brain Injury",
+                "Wrongful Death- Plaintiff",
+                "Wills"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 1989",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, 1986",
+                                "B.S.",
+                                "Major: Sciences & Secondary Education"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "President"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Legal Aid of Wyoming , Staff Attorney, 1989 - 1991",
+                        "Languages",
+                        "English"
+                    ]
+                },
+                {
+                    "title": "Pro Bono Activities",
+                    "type": "list",
+                    "content": [
+                        "Race for the Cure"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 1991"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Laramie County Bar Association",
+                        "Wyoming State Bar Association"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "donald-l-fuller",
+            "type": "attorney",
+            "name": "Donald L. Fuller",
+            "firm_name": "Donald L. Fuller, Attorney at Law, LLC",
+            "firm_slug": "donald-l-fuller-attorney-at-law-llc",
+            "practice_type": "Criminal Defense Lawyers in Casper, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": 1,
+            "photo": "/photos/attorneys/donald-l-fuller.jpg",
+            "bio": "Don Fuller is an experienced trial lawyer and has successfully tried criminal cases throughout the State of Wyoming in State and Federal Courts. His cases have involved the full range of criminal accusations from misdemeanors such as Assault and Battery, Driving Under the Influence and Theft to felonies such as Aggravated Assault, Armed Robbery, Aggravated Kidnapping and First Degree Murder. Don has also had success in handling and trying allegations of Aggravated Vehicular Homicide, White Collar Crime, Stock Fraud and Embezzlement as well as drug and sex offenses.\n\nDon has also successfully handled a wide range of personal injury and wrongful death claims and has represented a number of victims of police abuse.\n\nDon is a 1988 honors graduate of the University of Wyoming and a 1992 graduate of the University of Wyoming College of Law. He is a member of the National Association of Criminal Defense Lawyers and the Wyoming Trial Lawyers Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nDonald L. Fuller included in a Super Lawyers® list\n\nOther Sources of Feedback About Donald L. Fuller\n\nIncluded on the 2026Mountain States Super Lawyers list\n\nPast Lists\n\n2025 Mountain States Super Lawyers list\n\n2024 Mountain States Super Lawyers list\n\n2023 Mountain States Super Lawyers list\n\n2022 Mountain States Super Lawyers list\n\n2021 Mountain States Super Lawyers list\n\n2020 Mountain States Super Lawyers list\n\n2019 Mountain States Super Lawyers list\n\n2018 Mountain States Super Lawyers list\n\n2017 Mountain States Super Lawyers list\n\n2016 Mountain States Super Lawyers list\n\n2015 Mountain States Super Lawyers list",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Casper",
+                "address": "Casper, WY",
+                "address2": "242 South Grant Street",
+                "zip": null
+            },
+            "contact": {
+                "phones": [
+                    "307-462-0251",
+                    "307-265-2859"
+                ],
+                "fax": "307-265-2859",
+                "websites": [
+                    "https://www.thefullerlawyers.com/"
+                ],
+                "hours": "Mon - Fri, 8:00 am - 5:00 pm",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Criminal Defense",
+                "DUI/DWI",
+                "Sexual Assault",
+                "Domestic Assault",
+                "Possession & Conspiracy"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "Don Fuller is an experienced trial lawyer and has successfully tried criminal cases throughout the State of Wyoming in State and Federal Courts. His cases have involved the full range of criminal accusations from misdemeanors such as Assault and Battery, Driving Under the Influence and Theft to felonies such as Aggravated Assault, Armed Robbery, Aggravated Kidnapping and First Degree Murder. Don has also had success in handling and trying allegations of Aggravated Vehicular Homicide, White Collar Crime, Stock Fraud and Embezzlement as well as drug and sex offenses.\n\nDon has also successfully handled a wide range of personal injury and wrongful death claims and has represented a number of victims of police abuse.\n\nDon is a 1988 honors graduate of the University of Wyoming and a 1992 graduate of the University of Wyoming College of Law. He is a member of the National Association of Criminal Defense Lawyers and the Wyoming Trial Lawyers Association.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nDonald L. Fuller included in a Super Lawyers® list\n\nOther Sources of Feedback About Donald L. Fuller\n\nIncluded on the 2026Mountain States Super Lawyers list\n\nPast Lists\n\n2025 Mountain States Super Lawyers list\n\n2024 Mountain States Super Lawyers list\n\n2023 Mountain States Super Lawyers list\n\n2022 Mountain States Super Lawyers list\n\n2021 Mountain States Super Lawyers list\n\n2020 Mountain States Super Lawyers list\n\n2019 Mountain States Super Lawyers list\n\n2018 Mountain States Super Lawyers list\n\n2017 Mountain States Super Lawyers list\n\n2016 Mountain States Super Lawyers list\n\n2015 Mountain States Super Lawyers list"
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 1992",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, Laramie, Wyoming, 1988"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Partner",
+                        "Languages",
+                        "English"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming",
+                        "U.S. Court of Appeals 10th Circuit"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "1052589_1",
+            "type": "attorney",
+            "name": "David F. Evans",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Commercial Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/1052589_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Commercial Law"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "5117266_1",
+            "type": "attorney",
+            "name": "Autumn Aspen",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Business Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/5117266_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Business Law"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "3914728_1",
+            "type": "attorney",
+            "name": "O'Kelley H. Pearson",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Public Utility Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/3914728_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Public Utility Law"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "1550584_1",
+            "type": "attorney",
+            "name": "Paul J. Hickey",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Trial Practice Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/1550584_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Trial Practice"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "1842070_1",
+            "type": "attorney",
+            "name": "John M. Walker",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Probate Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": 1,
+            "photo": "/photos/attorneys/1842070_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Probate"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "1558858_1",
+            "type": "attorney",
+            "name": "Roger C. Fransen",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Public Utility Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/1558858_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Public Utility Law"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "4354436_1",
+            "type": "attorney",
+            "name": "Robert J. Walker",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Appellate Practice Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/4354436_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Appellate Practice"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "3615279_1",
+            "type": "attorney",
+            "name": "Stefanie L. Boster",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Appellate Practice Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/3615279_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Appellate Practice"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "5017509_1",
+            "type": "attorney",
+            "name": "Quin Parham",
+            "firm_name": "Hickey & Evans, LLP",
+            "firm_slug": "hickey-evans-llp",
+            "practice_type": "Business Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/5017509_1.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-1525",
+                    "307-638-7335"
+                ],
+                "fax": "307-638-7335",
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "hours": "Mon-Fri: 8:00 AM to 5:00 PM",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Business Law"
+            ],
+            "sections": []
+        },
+        {
+            "slug": "jared-s-olsen",
+            "type": "attorney",
+            "name": "Jared S. Olsen",
+            "firm_name": "Olsen Crecelius Legal Group, LLC",
+            "firm_slug": "olsen-crecelius-legal-group-llc",
+            "practice_type": "Trust and Will-Centered Estate Plans Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/jared-s-olsen.jpg",
+            "bio": "JARED OLSEN is the founder and owner of Olsen Legal Group, LLC, an innovative and successful law practice in the heart of beautiful downtown Cheyenne, Wyoming. Jared is the Representative for House District 11 in the Wyoming House of Representatives. He serves on the Judiciary Committee in the House of Representatives which provides him with a unique and unmatched expertise into Wyoming law. Jared is a proud graduate of the University of Wyoming College of Law. He also received his Master of Public Administration from the University of Wyoming and his Bachelor of Science in Political Science from Weber State University. Prior to founding Olsen Legal Group, LLC, Jared practiced law for a Cheyenne firm devoted exclusively to family law. There he represented Wyoming families all across the state in various family law matters. Prior to that, Jared worked for several years at Hirst Applegate, LLP as a civil defense litigator representing our trucking, mineral, and banking industries.\n\nJared is an active member of the Cheyenne community. He served as Chairman of the Laramie County Republican Party from 2015 to 2017. Jared is a State Committeeman for the Laramie County Republican Party, an executive member of the Budget and Audit Committee of the Wyoming Republican Party, and the Treasurer of his church. He is also civically engaged through organizations such as Rotary, the Cheyenne Chamber of Commerce, and the Housing and Community Development Advisory Council for the City of Cheyenne. He is a member of the Laramie County and Wyoming Bar Associations and is a proud member of the prestigious Southeast Wyoming Estate Planning Council, an affiliate of the National Association of Estate Planners and Councils.\n\nJared's legal practice focuses on providing personalized and extensive trust and will-centered estate plans for individuals and families all over Wyoming. He provides a broad range of family law services, including divorce, child custody, child support, adoptions, paternity, guardianships, and family mediation. Jared also assists clients with business organization and formation needs, including non-profits, corporations, limited liability companies, and partnerships.\n\nAbove all else, Jared is a devoted husband and father. Jared and his wife, Dani, have two beautiful and bright children - Eden & Noah. As a father and a husband, he deeply understands the importance of family which is why protecting your family is his number one goal.\n\nAwards and Honors\n\nHonors\n\nThurman W. Arnold Award, University of Wyoming College of Arts and Sciences, 2013 - Present",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "204 East 22nd Street",
+                "address2": null,
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-414-8385"
+                ],
+                "fax": null,
+                "websites": [
+                    "https://olsencrecelius.com/"
+                ],
+                "hours": "8:30am-5:00pm",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Trust and Will-Centered Estate Plans",
+                "Family Law",
+                "Divorce",
+                "Child Custody",
+                "Child Support",
+                "Adoptions",
+                "Paternity",
+                "Guardianships",
+                "Family Mediation"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "JARED OLSEN is the founder and owner of Olsen Legal Group, LLC, an innovative and successful law practice in the heart of beautiful downtown Cheyenne, Wyoming. Jared is the Representative for House District 11 in the Wyoming House of Representatives. He serves on the Judiciary Committee in the House of Representatives which provides him with a unique and unmatched expertise into Wyoming law. Jared is a proud graduate of the University of Wyoming College of Law. He also received his Master of Public Administration from the University of Wyoming and his Bachelor of Science in Political Science from Weber State University. Prior to founding Olsen Legal Group, LLC, Jared practiced law for a Cheyenne firm devoted exclusively to family law. There he represented Wyoming families all across the state in various family law matters. Prior to that, Jared worked for several years at Hirst Applegate, LLP as a civil defense litigator representing our trucking, mineral, and banking industries.\n\nJared is an active member of the Cheyenne community. He served as Chairman of the Laramie County Republican Party from 2015 to 2017. Jared is a State Committeeman for the Laramie County Republican Party, an executive member of the Budget and Audit Committee of the Wyoming Republican Party, and the Treasurer of his church. He is also civically engaged through organizations such as Rotary, the Cheyenne Chamber of Commerce, and the Housing and Community Development Advisory Council for the City of Cheyenne. He is a member of the Laramie County and Wyoming Bar Associations and is a proud member of the prestigious Southeast Wyoming Estate Planning Council, an affiliate of the National Association of Estate Planners and Councils.\n\nJared's legal practice focuses on providing personalized and extensive trust and will-centered estate plans for individuals and families all over Wyoming. He provides a broad range of family law services, including divorce, child custody, child support, adoptions, paternity, guardianships, and family mediation. Jared also assists clients with business organization and formation needs, including non-profits, corporations, limited liability companies, and partnerships.\n\nAbove all else, Jared is a devoted husband and father. Jared and his wife, Dani, have two beautiful and bright children - Eden & Noah. As a father and a husband, he deeply understands the importance of family which is why protecting your family is his number one goal.\n\nAwards and Honors\n\nHonors\n\nThurman W. Arnold Award, University of Wyoming College of Arts and Sciences, 2013 - Present"
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, 2013",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, 2013",
+                                "Master of Public Administration",
+                                "Weber State University, Ogden, Utah, 2010",
+                                "B.S.",
+                                "Honors: magna cum laude",
+                                "Honors: Departmental Honors",
+                                "Major: Political Science"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Founder & Senior Counsel"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Hirst Applegate, LLP, Associate, 2013 - 2015",
+                        "Lawrence J. MacDonnell, PC, Water Rights Consultant, May 1, 2013 - July 31, 2013",
+                        "University of Wyoming Estate Planning Clinic, Student Attorney, January 1, 2013 - May 31, 2013",
+                        "Professor Lawrence J. MacDonnell, Legal Research Assistant (Water Law), 2012 - 2013",
+                        "State of Wyoming Legislature – Legislative Service Office, Legal Services Division, Student Attorney, September 1, 2012 - December 31, 2012",
+                        "Hirst Applegate, LLP, Law Clerk, May 1, 2012 - August 30, 2012",
+                        "University of Wyoming Defender Aid Program, Student Attorney, 2011 - 2012"
+                    ]
+                },
+                {
+                    "title": "Pro Bono Activities",
+                    "type": "list",
+                    "content": [
+                        "Chairman of the Laramie County Republican Party, 2015 - 2017",
+                        "State Committeeman, Laramie County Republican Party",
+                        "Executive Member, Budget and Audit Committee of the Wyoming Republican Party",
+                        "Rotary",
+                        "Cheyenne Chamber of Commerce",
+                        "Housing and Community Development Advisory Council for the City of Cheyenne"
+                    ]
+                },
+                {
+                    "title": "Published Works",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Articles",
+                            "items": [
+                                "Guest Speaker, Pine Bluffs Elementary School: Liberty and the U.S. Constitution, 2013",
+                                "Author, \"Municipal Government in America: Does Structure Matter?\", Weber State University Press, 2009"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 2013",
+                        "U.S. District Court District of Wyoming, 2013"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming State Bar Association, 2013 - Present",
+                        "Laramie County Bar Association, 2013 - Present",
+                        "Ewing T. Kerr American Inns of Court",
+                        "American Bar Association",
+                        "Wyoming Water Association",
+                        "The Federalist Society for Law and Public Policy Studies",
+                        "House District 11 in the Wyoming House of Representatives (Representative)",
+                        "Judiciary Committee in the House of Representatives",
+                        "Southeast Wyoming Estate Planning Council (Member)",
+                        "National Association of Estate Planners and Councils"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ms-bobbi-overfield",
+            "type": "attorney",
+            "name": "Ms. Bobbi Overfield",
+            "firm_name": "Messenger & Overfield, P.C.",
+            "firm_slug": "messenger-overfield-p-c",
+            "practice_type": "Family Law Lawyers in Thermopolis, WY",
+            "years_experience": null,
+            "free_consultation": false,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/ms-bobbi-overfield.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Thermopolis",
+                "address": "116 North 5th Street",
+                "address2": "P.O. Box 111",
+                "zip": "82443"
+            },
+            "contact": {
+                "phones": [
+                    "307-864-5541",
+                    "307-864-9468"
+                ],
+                "fax": "307-864-9468",
+                "websites": [
+                    "https://www.messengeroverfield.com"
+                ],
+                "hours": "Monday - Friday, 8:00 a.m. - 5:00 p.m.",
+                "features": []
+            },
+            "practice_areas": [
+                "Family Law",
+                "Divorce",
+                "Child Custody and Visitation",
+                "Child Support",
+                "Workers' Compensation",
+                "Business Organization",
+                "Criminal Defense",
+                "Estate Planning"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming",
+                                "JD",
+                                "Honors: Order of the Barrister"
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "University of Wyoming, Laramie, WY, USA, 1999",
+                                "A.B.",
+                                "Major: Rangeland Ecology and Watershed Management, Minor in ENR"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Associate, since 2005"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Corthell and King, PC, Associate, 2002 - 2005",
+                        "Hooper Law Offices, PC, Intern, 2000 - 2001"
+                    ]
+                },
+                {
+                    "title": "Classes and Seminars",
+                    "type": "list",
+                    "content": [
+                        "Updates to Wyoming Mediation Statutes, WYAg and Natural Resources Program, 2004 - Present"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 2002",
+                        "Colorado, 2002",
+                        "Specialties and Certifications",
+                        "Certified Mediator, State of Wyoming Ag and Natural Resources Program"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming State Bar Association, 2002 - Present (Member)",
+                        "Colorado State Bar Association, 2002 - Present",
+                        "American Bar Association (Member)",
+                        "American Bar ADR Section (Member)",
+                        "Wyoming Trial Lawyers Association (Member)",
+                        "Hot Springs County Bar Association, 2006 - Present (President)",
+                        "Albany County Bar Association (Member, Vice President, 2004, President 2005)",
+                        "Fraternities and Sororities",
+                        "Delta Theta Phi"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "diana-rhodes",
+            "type": "attorney",
+            "name": "Diana Rhodes",
+            "firm_name": "Rhodes Law Firm, LLC",
+            "firm_slug": "rhodes-law-firm-llc",
+            "practice_type": "Health & Health Care Law Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/diana-rhodes.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "2015 Warren Avenue",
+                "address2": null,
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-222-0025",
+                    "866-417-5938",
+                    "307-222-0280"
+                ],
+                "fax": "307-222-0280",
+                "websites": [
+                    "https://www.drhodeslaw.com"
+                ],
+                "hours": null,
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Health & Health Care Law",
+                "Wrongful Death",
+                "Personal Injury -- Plaintiff",
+                "Motor Vehicle Accidents -- Plaintiff",
+                "Products Liability Law",
+                "Medical Malpractice",
+                "Brain Injury",
+                "Insurance Bad Faith",
+                "Insurance Law",
+                "Nursing Home Abuse and Neglect",
+                "Spine Injury",
+                "Truck Accidents",
+                "Class Actions -- Plaintiff",
+                "Nursing Home"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming, June, 1990",
+                                "Juris Doctor"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Classes and Seminars",
+                    "type": "list",
+                    "content": [
+                        "Invited Lecturer, Casper Community College Paralegal Class, 2007",
+                        "Invited Speaker, Demonstration Evidence at Trial, Wyoming Trial Lawyers Association",
+                        "Invited Speaker, HIPAA Compliance, Wyoming Association of Health Quality, 2004",
+                        "Invited Speaker, HIPAA Compliance, Wyoming Health Information Management Association, 2004",
+                        "Invited Speaker, Tort Law, Laramie County Republican Women, 2004",
+                        "Invited Speaker, HIPAA for Wyoming Attorneys, Wyoming Trial Lawyers Association, 2003",
+                        "Invited Speaker, HIPAA for Legal Assistants, Legal Assistants of Wyoming, 2003",
+                        "Invited Speaker, HIPAA Compliance: Understanding and Implementing the Security and Privacy Regulations in Wyoming, 2003",
+                        "Invited Lecturer, HIPAA Medical Malpractice Litigation, Health Law Class, University of Wyoming College of Law, 2003"
+                    ]
+                },
+                {
+                    "title": "Honors and Awards",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": null,
+                            "items": [
+                                "Featured Solo Practitioner, The National Law Journal, February 11, 2002",
+                                "Authored \"Consent Manual and Guidelines for the Release of Medical Records\". Copyright, Diana Rhodes 1997",
+                                "Participant in development and enactment of the Hospital Records and Information Act., 1991 State of Wyoming Legislative Session. Wyoming Statutes 35-2-6-8 through 35-2-617 (Health Records Act)",
+                                "Outstanding Member, Wyoming Medical Records Association, 1991",
+                                "Developed: \"Retention Schedule\" for public hospitals in the State of Wyoming, in cooperation with Wyoming State Archives.",
+                                "Wyoming Medical Records Association: President, 1984-1986; Vice President, 1982-1984; Board of Directors, 1980-1989, 1991-1993",
+                                "Resource Member, State S.H.C.C. Health Care Data Authority Committee, appointed by the Governor.",
+                                "Phi Alpha Delta Law Fraternity, Marshall, 1988 - 1989.",
+                                "Awards and Honors"
+                            ]
+                        },
+                        {
+                            "label": "Honors",
+                            "items": [
+                                "Outstanding Member, Wyoming Medical Records Association, 1991",
+                                "Phi Alpha Delta Law Fraternity, Marshall, 1988 - 1989"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Published Works",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Articles",
+                            "items": [
+                                "\"Consent Manual and Guidelines for the Release of Medical Records\", Copyright, Diana Rhodes, 1997",
+                                "Consent Manual and Guidelines for the Release of Medical Records, AGCC Publishers, Fort Collins, CO , 1991",
+                                "Overview of Hospital Records and Information Act, The Coffee House, Wyoming Trial Lawyers Association, September, 1991",
+                                "Compulsory Process. The Coffee House, Wyoming Trial Lawyers Association, A Review of W.S. 35-2-610, September, 1991",
+                                "An Overview: The Health Care Quality Improvement Act and the National Practitioner Data Bank, The Prairie Barrister, Nebraska Association of Trial Attorneys, Summer, 1991",
+                                "Implementation of Article 6. Hospital Records and Information Act, Publication of the Wyoming Hospital Association. Cheyenne, 1991",
+                                "An Overview of Hospital Records and Information Act, Wyoming Lawyer, Wyoming Bar Association Journal, October, 1991"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 1990",
+                        "Colorado, 2006"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "American Health Lawyers Association (Member)",
+                        "Wyoming Trial Lawyers Association, 2010 - 2011 (President Elect)",
+                        "Wyoming Trial Lawyers Association, 2007 - Present (Executive Committee)",
+                        "Wyoming Trial Lawyers Association (Chairman, CLE Committee)",
+                        "Wyoming Trial Lawyers Association, 2004 - Present (Board of Directors)",
+                        "Litigation Counsel of America (Fellow)",
+                        "Wyoming State Bar Association (Member)",
+                        "Colorado Trial Lawyers Association",
+                        "American Association for Justice",
+                        "Colorado Bar Association",
+                        "American Inns of Court"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "traci-s-rivinus",
+            "type": "attorney",
+            "name": "Traci S. Rivinus",
+            "firm_name": "Rhodes Law Firm, LLC",
+            "firm_slug": "rhodes-law-firm-llc",
+            "practice_type": "Personal Injury - Plaintiff Lawyers in Cheyenne, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/traci-s-rivinus.jpg",
+            "bio": "",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Cheyenne",
+                "address": "2015 Warren Avenue",
+                "address2": null,
+                "zip": "82001"
+            },
+            "contact": {
+                "phones": [
+                    "307-634-4444",
+                    "307-222-0280"
+                ],
+                "fax": "307-222-0280",
+                "websites": [
+                    "https://www.drhodeslaw.com"
+                ],
+                "hours": null,
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Personal Injury - Plaintiff",
+                "Motor Vehicle Accidents - Plaintiff",
+                "Nursing Home Abuse/Neglect"
+            ],
+            "sections": [
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of Wyoming, College of Law, Laramie, Wyoming",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "Colorado State University, Fort Collins, Colorado",
+                                "B.A.",
+                                "Major: Biological Science",
+                                "Major: Anatomy",
+                                "Major: Neurobiology"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Associate"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 2005",
+                        "Colorado, 2009",
+                        "U.S. District Court District of Wyoming, 2005"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming Trial Lawyers Association",
+                        "Wyoming State Bar Association",
+                        "Colorado Bar Association"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "ryan-semerad",
+            "type": "attorney",
+            "name": "Ryan Semerad",
+            "firm_name": "Donald L. Fuller, Attorney at Law, LLC",
+            "firm_slug": "donald-l-fuller-attorney-at-law-llc",
+            "practice_type": "Criminal Defense Lawyers in Casper, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/attorneys/ryan-semerad.jpg",
+            "bio": "Ryan A. Semerad, Esq. joined the Fuller Lawyers in April 2020. Mr. Semerad was a trial attorney in Holland & Hart LLP's Las Vegas office, focusing his practice on complex commercial litigation and appeals. Mr. Semerad's current practice includes defending the rights of individuals in misdemeanor and felony criminal cases and related administrative or civil proceedings as well as representing individuals and businesses in civil and appellate matters.\n\nMr. Semerad clerked for the Hon. Michael P. Gibbons of the Nevada Court of Appeals during the 2017-18 term. Mr. Semerad began his legal career with the international law firm, Jones Day. Mr. Semerad is a 2016 graduate of The Ohio State University Moritz College of Law and a 2013 graduate of Union College (NY).",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Casper",
+                "address": "Casper, WY",
+                "address2": "242 South Grant Street",
+                "zip": null
+            },
+            "contact": {
+                "phones": [
+                    "307-265-3455",
+                    "307-265-2859"
+                ],
+                "fax": "307-265-2859",
+                "websites": [
+                    "https://www.thefullerlawyers.com/"
+                ],
+                "hours": "Mon - Fri, 8:00 am - 5:00 pm",
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Criminal Defense",
+                "DUI/DWI Defense",
+                "Civil Litigation",
+                "Appeals"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "Ryan A. Semerad, Esq. joined the Fuller Lawyers in April 2020. Mr. Semerad was a trial attorney in Holland & Hart LLP's Las Vegas office, focusing his practice on complex commercial litigation and appeals. Mr. Semerad's current practice includes defending the rights of individuals in misdemeanor and felony criminal cases and related administrative or civil proceedings as well as representing individuals and businesses in civil and appellate matters.\n\nMr. Semerad clerked for the Hon. Michael P. Gibbons of the Nevada Court of Appeals during the 2017-18 term. Mr. Semerad began his legal career with the international law firm, Jones Day. Mr. Semerad is a 2016 graduate of The Ohio State University Moritz College of Law and a 2013 graduate of Union College (NY)."
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "The Ohio State University Michael E. Moritz College of Law, Columbus, Ohio, 2016",
+                                "J.D.",
+                                "Honors: cum laude",
+                                "Law Review: The Ohio State Law Journal, Articles Editor, 2015 - 2016"
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "Union College (NY), Schenectady, New York, 2013",
+                                "B.A.",
+                                "Honors: summa cum laude",
+                                "Honors: With High Honors",
+                                "Major: English"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Lead Associate Attorney"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Holland & Hart, LLP, Associate Attorney, 2018 - 2020",
+                        "Nevada Court of Appeals, Law Clerk, 2017 - 2018",
+                        "Languages",
+                        "English"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming, 2019",
+                        "Nevada, 2017",
+                        "Ohio, 2016"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "Wyoming State Bar, 2019 - Present (Member)",
+                        "Nevada State Bar, 2017 - Present (Member)",
+                        "Wyoming State Bar, Criminal Justice Section, September 1, 2020 - Present (At-Large Member)",
+                        "Community Recreation Foundation, April 20, 2020 - Present (Board Member)",
+                        "Fraternities and Sororities",
+                        "Phi Beta Kappa"
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "christina-l-williams",
+            "type": "attorney",
+            "name": "Christina L. Williams",
+            "firm_name": "Christina L. Williams, Attorney at Law",
+            "firm_slug": "christina-l-williams-attorney-at-law",
+            "practice_type": "Criminal Defense Lawyers in Gillette, WY",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": 1,
+            "photo": "/photos/attorneys/christina-l-williams.jpg",
+            "bio": "Christina, a local attorney from northeast Wyoming, has devoted her practice to criminal law.\n\nShe has been a courtroom attorney her entire career. Prior to becoming a defense attorney, she worked as a prosecutor.\n\nChristina joined Terry Preuit's practice in 2007. As a partner of Preuit & Williams, her focus is exclusively criminal defense law in Wyoming and South Dakota.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nChristina L. Williams included in a Super Lawyers® list\n\nOther Sources of Feedback About Christina L. Williams\n\nIncluded on the 2026Mountain States Super Lawyers list\n\nPast Lists\n\n2025 Mountain States Super Lawyers list\n\n2024 Mountain States Super Lawyers list",
+            "location": {
+                "state": "Wyoming",
+                "state_abbr": "WY",
+                "city": "Gillette",
+                "address": "319 S. Gillette Avenue",
+                "address2": "Suite 300",
+                "zip": "82716"
+            },
+            "contact": {
+                "phones": [
+                    "307-686-6556",
+                    "307-686-6560"
+                ],
+                "fax": "307-686-6560",
+                "websites": [],
+                "hours": null,
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Criminal Defense",
+                "DUI/DWI",
+                "Criminal Law - Federal (White Collar Crime)",
+                "Family Violence"
+            ],
+            "sections": [
+                {
+                    "title": "Overview",
+                    "type": "text",
+                    "content": "Christina, a local attorney from northeast Wyoming, has devoted her practice to criminal law.\n\nShe has been a courtroom attorney her entire career. Prior to becoming a defense attorney, she worked as a prosecutor.\n\nChristina joined Terry Preuit's practice in 2007. As a partner of Preuit & Williams, her focus is exclusively criminal defense law in Wyoming and South Dakota.\n\nAwards and Honors\n\nSuper Lawyers® Selectees\n\nChristina L. Williams included in a Super Lawyers® list\n\nOther Sources of Feedback About Christina L. Williams\n\nIncluded on the 2026Mountain States Super Lawyers list\n\nPast Lists\n\n2025 Mountain States Super Lawyers list\n\n2024 Mountain States Super Lawyers list"
+                },
+                {
+                    "title": "Education",
+                    "type": "grouped_list",
+                    "content": [
+                        {
+                            "label": "Legal Education",
+                            "items": [
+                                "University of South Dakota School of Law, Vermillion, South Dakota, May, 2001",
+                                "J.D."
+                            ]
+                        },
+                        {
+                            "label": "Non Legal Education",
+                            "items": [
+                                "Black Hills State University, Spearfish, South Dakota, December, 1996",
+                                "B.S."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Current Employment Position(s)",
+                    "type": "list",
+                    "content": [
+                        "Partner"
+                    ]
+                },
+                {
+                    "title": "Past Positions",
+                    "type": "list",
+                    "content": [
+                        "Gillette, WY, Deputy County Attorney, 2005 - 2007",
+                        "Rapid City, SD, Deputy States Attorney, 2004",
+                        "The Blount Law Firm, Greenville, NC, Attorney, 2003",
+                        "Fourth Judicial Circuit, Deadwood, SD, Law Clerk, 2001 - 2002",
+                        "Professor David S. Day, Vermillion, SD, Graduate Assistant, 2000",
+                        "Barker Wilson Reynolds & Burke, Rapid City, SD, Legal Internship, 2000",
+                        "Brady Pluimer, LLC, Spearfish, SD, Legal Internship, 1999"
+                    ]
+                },
+                {
+                    "title": "Bar Admissions",
+                    "type": "list",
+                    "content": [
+                        "Wyoming",
+                        "South Dakota",
+                        "U.S. District Court District of Wyoming"
+                    ]
+                },
+                {
+                    "title": "Other Affiliations",
+                    "type": "list",
+                    "content": [
+                        "National Association of Criminal Defense Lawyers (Member)",
+                        "National College of DUI Defense (Member)"
+                    ]
+                }
+            ]
+        }
+    ],
+    "firms": [
+        {
+            "slug": "hickey-evans-llp",
+            "type": "firm",
+            "name": "Hickey & Evans, LLP",
+            "practice_type": "Administrative Law Lawyers in Cheyenne, WY",
+            "last_updated": "03/03/2026",
+            "years_experience": 34,
+            "free_consultation": true,
+            "super_lawyers": 1,
+            "photo": "/photos/firms/hickey-evans-llp.jpg",
+            "profile_image_url": null,
+            "location": {
+                "state": "WY",
+                "city": "Cheyenne",
+                "address": "1800 Carey Avenue",
+                "address2": "Suite 700",
+                "zip": "82001"
+            },
+            "contact": {
+                "phone": "307-634-1525",
+                "fax": "307-638-7335",
+                "email_url": null,
+                "websites": [
+                    "http://www.hickeyevans.com/"
+                ],
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Administrative Law"
+            ],
+            "attorneys": [
+                "Autumn Aspen",
+                "Stefanie L. Boster",
+                "Richard D. Bush",
+                "John A. Coppede",
+                "David F. Evans",
+                "Roger C. Fransen",
+                "Paul J. Hickey",
+                "Quin Parham",
+                "O'Kelley H. Pearson",
+                "John M. Walker",
+                "Robert J. Walker"
+            ],
+            "official_practice_area": [
+                "Administrative Law",
+                "State Local and Municipal Law"
+            ]
+        },
+        {
+            "slug": "law-office-of-shelly-kay-flot-pc",
+            "type": "firm",
+            "name": "Law Office of Shelly Kay Flot, PC",
+            "practice_type": "Family Law Lawyers in Cheyenne, WY",
+            "last_updated": "03/16/2026",
+            "years_experience": 35,
+            "free_consultation": false,
+            "super_lawyers": null,
+            "photo": "/photos/firms/law-office-of-shelly-kay-flot-pc.jpg",
+            "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3333371/pid_1/law_office_of_shelly_kay_flot_pc.jpg",
+            "location": {
+                "state": "WY",
+                "city": "Cheyenne",
+                "address": "17th Street & Central Avenue",
+                "address2": "The Executive Suites",
+                "zip": "82001"
+            },
+            "contact": {
+                "phone": "307-634-0661",
+                "fax": null,
+                "email_url": "https://lawyers.findlaw.com/wyoming/cheyenne/law-office-of-shelly-kay-flot-pc-MzMzMzM3MV8x/contact/",
+                "websites": [],
+                "features": [
+                    "Credit Cards Accepted"
+                ]
+            },
+            "practice_areas": [
+                "Family Law",
+                "Personal Injury",
+                "Divorce",
+                "Car Accidents",
+                "Bankruptcy",
+                "Litigation: 50%"
+            ],
+            "attorneys": [
+                "Shelly Kay Flot"
+            ],
+            "official_practice_area": [
+                "Bankruptcy",
+                "Car Accidents",
+                "Divorce and Separation",
+                "Family Law",
+                "Insurance Defense",
+                "Litigation and Appeals",
+                "Personal Injury"
+            ]
+        },
+        {
+            "slug": "olsen-crecelius-legal-group-llc",
+            "type": "firm",
+            "name": "Olsen Crecelius Legal Group, LLC",
+            "practice_type": "Estate Planning Lawyers in Cheyenne, WY",
+            "last_updated": "02/16/2026",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/firms/olsen-crecelius-legal-group-llc.jpg",
+            "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5031133/pid_1/olsen_crecelius_legal_group_llc.jpg",
+            "location": {
+                "state": "WY",
+                "city": "Cheyenne",
+                "address": "204 East 22nd Street",
+                "address2": null,
+                "zip": "82001"
+            },
+            "contact": {
+                "phone": "307-414-8385",
+                "fax": null,
+                "email_url": "https://lawyers.findlaw.com/wyoming/cheyenne/olsen-crecelius-legal-group-llc-NTAzMTEzM18x/contact/",
+                "websites": [
+                    "https://olsencrecelius.com/"
+                ],
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Estate Planning",
+                "Probate",
+                "Wills",
+                "Trusts",
+                "Family Law"
+            ],
+            "attorneys": [
+                "Jared S. Olsen"
+            ],
+            "official_practice_area": [
+                "Estate Planning",
+                "Family Law",
+                "Probate",
+                "Trusts",
+                "Wills"
+            ]
+        },
+        {
+            "slug": "messenger-overfield-p-c",
+            "type": "firm",
+            "name": "Messenger & Overfield, P.C.",
+            "practice_type": "Administrative Law Lawyers in Thermopolis, WY",
+            "last_updated": "02/15/2026",
+            "years_experience": null,
+            "free_consultation": false,
+            "super_lawyers": null,
+            "photo": "/photos/firms/messenger-overfield-p-c.jpg",
+            "profile_image_url": null,
+            "location": {
+                "state": "WY",
+                "city": "Thermopolis",
+                "address": "116 North 5th Street",
+                "address2": "P.O. Box 111",
+                "zip": "82443"
+            },
+            "contact": {
+                "phone": "307-864-5541",
+                "fax": "307-864-9468",
+                "email_url": null,
+                "websites": [
+                    "https://www.messengeroverfield.com"
+                ],
+                "features": []
+            },
+            "practice_areas": [
+                "Administrative Law"
+            ],
+            "attorneys": [
+                "Hope Madonna Gebes",
+                "Joseph August Hampton",
+                "Michael S. Messenger",
+                "Ms. Bobbi Overfield"
+            ],
+            "official_practice_area": [
+                "Administrative Law",
+                "State Local and Municipal Law"
+            ]
+        },
+        {
+            "slug": "rhodes-law-firm-llc",
+            "type": "firm",
+            "name": "Rhodes Law Firm, LLC",
+            "practice_type": "Health & Health Care Law Lawyers in Cheyenne, WY",
+            "last_updated": "02/28/2026",
+            "years_experience": 36,
+            "free_consultation": true,
+            "super_lawyers": 1,
+            "photo": "/photos/firms/rhodes-law-firm-llc.jpg",
+            "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4041287/pid_1/rhodes_law_firm_llc.jpg",
+            "location": {
+                "state": "WY",
+                "city": "Cheyenne",
+                "address": "2015 Warren Avenue",
+                "address2": null,
+                "zip": "82001"
+            },
+            "contact": {
+                "phone": "307-222-0025",
+                "fax": "307-222-0280",
+                "email_url": "https://lawyers.findlaw.com/wyoming/cheyenne/rhodes-law-firm-llc-NDA0MTI4N18x/contact/",
+                "websites": [
+                    "https://www.drhodeslaw.com"
+                ],
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Health & Health Care Law",
+                "Wrongful Death",
+                "Personal Injury -- Plaintiff",
+                "Motor Vehicle Accidents -- Plaintiff",
+                "Products Liability Law",
+                "Medical Malpractice",
+                "Brain Injury",
+                "Insurance Bad Faith",
+                "Insurance Law",
+                "Nursing Home Abuse and Neglect",
+                "Spine Injury",
+                "Truck Accidents",
+                "Class Actions -- Plaintiff",
+                "Nursing Home",
+                "Litigation: 90%"
+            ],
+            "attorneys": [
+                "Diana Rhodes",
+                "Traci S. Rivinus"
+            ],
+            "official_practice_area": [
+                "Bad Faith Insurance",
+                "Brain Injury",
+                "Car Accidents",
+                "Class Actions",
+                "Dangerous Products",
+                "Health Care Law",
+                "Insurance Defense",
+                "Insurance Law",
+                "Litigation and Appeals",
+                "Medical Malpractice",
+                "Nursing Home Abuse",
+                "Personal Injury",
+                "Professional Malpractice",
+                "Truck Accident",
+                "Wrongful Death"
+            ]
+        },
+        {
+            "slug": "christina-l-williams-attorney-at-law",
+            "type": "firm",
+            "name": "Christina L. Williams, Attorney at Law",
+            "practice_type": "Criminal Defense Lawyers in Gillette, WY",
+            "last_updated": "03/03/2026",
+            "years_experience": null,
+            "free_consultation": true,
+            "super_lawyers": null,
+            "photo": "/photos/firms/christina-l-williams-attorney-at-law.jpg",
+            "profile_image_url": null,
+            "location": {
+                "state": "WY",
+                "city": "Gillette",
+                "address": "319 S. Gillette Avenue",
+                "address2": "Suite 300",
+                "zip": "82716"
+            },
+            "contact": {
+                "phone": "307-686-6556",
+                "fax": "307-686-6560",
+                "email_url": null,
+                "websites": [],
+                "features": [
+                    "Credit Cards Accepted",
+                    "Free Consultations"
+                ]
+            },
+            "practice_areas": [
+                "Criminal Defense"
+            ],
+            "attorneys": [
+                "Christina L. Williams"
+            ],
+            "official_practice_area": [
+                "Criminal Defense"
+            ]
+        }
+    ]
+}

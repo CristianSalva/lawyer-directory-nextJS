@@ -1,0 +1,484 @@
+{
+  "total_attorneys": 41072,
+  "total_firms": 8618,
+  "state_count": 53,
+  "states": [
+    {
+      "state": "Alabama",
+      "state_abbr": "AL",
+      "file": "alabama.json",
+      "attorney_count": 384,
+      "firm_count": 81,
+      "city_count": 39,
+      "county_count": 22
+    },
+    {
+      "state": "Alaska",
+      "state_abbr": "AK",
+      "file": "alaska.json",
+      "attorney_count": 105,
+      "firm_count": 15,
+      "city_count": 4,
+      "county_count": 4
+    },
+    {
+      "state": "Arizona",
+      "state_abbr": "AZ",
+      "file": "arizona.json",
+      "attorney_count": 610,
+      "firm_count": 138,
+      "city_count": 23,
+      "county_count": 7
+    },
+    {
+      "state": "Arkansas",
+      "state_abbr": "AR",
+      "file": "arkansas.json",
+      "attorney_count": 159,
+      "firm_count": 45,
+      "city_count": 17,
+      "county_count": 12
+    },
+    {
+      "state": "California",
+      "state_abbr": "CA",
+      "file": "california.json",
+      "attorney_count": 4329,
+      "firm_count": 996,
+      "city_count": 221,
+      "county_count": 38
+    },
+    {
+      "state": "Colorado",
+      "state_abbr": "CO",
+      "file": "colorado.json",
+      "attorney_count": 818,
+      "firm_count": 199,
+      "city_count": 46,
+      "county_count": 20
+    },
+    {
+      "state": "Connecticut",
+      "state_abbr": "CT",
+      "file": "connecticut.json",
+      "attorney_count": 539,
+      "firm_count": 129,
+      "city_count": 58,
+      "county_count": 9
+    },
+    {
+      "state": "Delaware",
+      "state_abbr": "DE",
+      "file": "delaware.json",
+      "attorney_count": 130,
+      "firm_count": 24,
+      "city_count": 7,
+      "county_count": 3
+    },
+    {
+      "state": "District Of Columbia",
+      "state_abbr": "DC",
+      "file": "district-of-columbia.json",
+      "attorney_count": 224,
+      "firm_count": 22,
+      "city_count": 4,
+      "county_count": 1
+    },
+    {
+      "state": "Florida",
+      "state_abbr": "FL",
+      "file": "florida.json",
+      "attorney_count": 3442,
+      "firm_count": 840,
+      "city_count": 148,
+      "county_count": 37
+    },
+    {
+      "state": "Georgia",
+      "state_abbr": "GA",
+      "file": "georgia.json",
+      "attorney_count": 1672,
+      "firm_count": 472,
+      "city_count": 93,
+      "county_count": 58
+    },
+    {
+      "state": "Hawaii",
+      "state_abbr": "HI",
+      "file": "hawaii.json",
+      "attorney_count": 176,
+      "firm_count": 24,
+      "city_count": 6,
+      "county_count": 2
+    },
+    {
+      "state": "Idaho",
+      "state_abbr": "ID",
+      "file": "idaho.json",
+      "attorney_count": 98,
+      "firm_count": 19,
+      "city_count": 13,
+      "county_count": 8
+    },
+    {
+      "state": "Illinois",
+      "state_abbr": "IL",
+      "file": "illinois.json",
+      "attorney_count": 1802,
+      "firm_count": 360,
+      "city_count": 121,
+      "county_count": 33
+    },
+    {
+      "state": "Indiana",
+      "state_abbr": "IN",
+      "file": "indiana.json",
+      "attorney_count": 851,
+      "firm_count": 209,
+      "city_count": 55,
+      "county_count": 36
+    },
+    {
+      "state": "Iowa",
+      "state_abbr": "IA",
+      "file": "iowa.json",
+      "attorney_count": 195,
+      "firm_count": 46,
+      "city_count": 27,
+      "county_count": 16
+    },
+    {
+      "state": "Kansas",
+      "state_abbr": "KS",
+      "file": "kansas.json",
+      "attorney_count": 188,
+      "firm_count": 65,
+      "city_count": 23,
+      "county_count": 12
+    },
+    {
+      "state": "Kentucky",
+      "state_abbr": "KY",
+      "file": "kentucky.json",
+      "attorney_count": 576,
+      "firm_count": 156,
+      "city_count": 47,
+      "county_count": 33
+    },
+    {
+      "state": "Louisiana",
+      "state_abbr": "LA",
+      "file": "louisiana.json",
+      "attorney_count": 657,
+      "firm_count": 130,
+      "city_count": 35,
+      "county_count": 23
+    },
+    {
+      "state": "Maine",
+      "state_abbr": "ME",
+      "file": "maine.json",
+      "attorney_count": 39,
+      "firm_count": 16,
+      "city_count": 11,
+      "county_count": 5
+    },
+    {
+      "state": "Maryland",
+      "state_abbr": "MD",
+      "file": "maryland.json",
+      "attorney_count": 674,
+      "firm_count": 162,
+      "city_count": 50,
+      "county_count": 16
+    },
+    {
+      "state": "Massachusetts",
+      "state_abbr": "MA",
+      "file": "massachusetts.json",
+      "attorney_count": 1125,
+      "firm_count": 210,
+      "city_count": 104,
+      "county_count": 10
+    },
+    {
+      "state": "Michigan",
+      "state_abbr": "MI",
+      "file": "michigan.json",
+      "attorney_count": 915,
+      "firm_count": 209,
+      "city_count": 79,
+      "county_count": 26
+    },
+    {
+      "state": "Minnesota",
+      "state_abbr": "MN",
+      "file": "minnesota.json",
+      "attorney_count": 995,
+      "firm_count": 204,
+      "city_count": 82,
+      "county_count": 32
+    },
+    {
+      "state": "Mississippi",
+      "state_abbr": "MS",
+      "file": "mississippi.json",
+      "attorney_count": 352,
+      "firm_count": 54,
+      "city_count": 35,
+      "county_count": 25
+    },
+    {
+      "state": "Missouri",
+      "state_abbr": "MO",
+      "file": "missouri.json",
+      "attorney_count": 884,
+      "firm_count": 180,
+      "city_count": 61,
+      "county_count": 28
+    },
+    {
+      "state": "Montana",
+      "state_abbr": "MT",
+      "file": "montana.json",
+      "attorney_count": 68,
+      "firm_count": 19,
+      "city_count": 9,
+      "county_count": 6
+    },
+    {
+      "state": "Nebraska",
+      "state_abbr": "NE",
+      "file": "nebraska.json",
+      "attorney_count": 248,
+      "firm_count": 29,
+      "city_count": 7,
+      "county_count": 6
+    },
+    {
+      "state": "Nevada",
+      "state_abbr": "NV",
+      "file": "nevada.json",
+      "attorney_count": 305,
+      "firm_count": 68,
+      "city_count": 5,
+      "county_count": 2
+    },
+    {
+      "state": "New Hampshire",
+      "state_abbr": "NH",
+      "file": "new-hampshire.json",
+      "attorney_count": 278,
+      "firm_count": 42,
+      "city_count": 20,
+      "county_count": 9
+    },
+    {
+      "state": "New Jersey",
+      "state_abbr": "NJ",
+      "file": "new-jersey.json",
+      "attorney_count": 1466,
+      "firm_count": 259,
+      "city_count": 153,
+      "county_count": 19
+    },
+    {
+      "state": "New Mexico",
+      "state_abbr": "NM",
+      "file": "new-mexico.json",
+      "attorney_count": 174,
+      "firm_count": 35,
+      "city_count": 6,
+      "county_count": 5
+    },
+    {
+      "state": "New York",
+      "state_abbr": "NY",
+      "file": "new-york.json",
+      "attorney_count": 3562,
+      "firm_count": 515,
+      "city_count": 157,
+      "county_count": 38
+    },
+    {
+      "state": "North Carolina",
+      "state_abbr": "NC",
+      "file": "north-carolina.json",
+      "attorney_count": 1089,
+      "firm_count": 231,
+      "city_count": 86,
+      "county_count": 52
+    },
+    {
+      "state": "North Dakota",
+      "state_abbr": "ND",
+      "file": "north-dakota.json",
+      "attorney_count": 156,
+      "firm_count": 33,
+      "city_count": 11,
+      "county_count": 8
+    },
+    {
+      "state": "Ohio",
+      "state_abbr": "OH",
+      "file": "ohio.json",
+      "attorney_count": 1462,
+      "firm_count": 269,
+      "city_count": 90,
+      "county_count": 36
+    },
+    {
+      "state": "Oklahoma",
+      "state_abbr": "OK",
+      "file": "oklahoma.json",
+      "attorney_count": 365,
+      "firm_count": 78,
+      "city_count": 21,
+      "county_count": 13
+    },
+    {
+      "state": "Oregon",
+      "state_abbr": "OR",
+      "file": "oregon.json",
+      "attorney_count": 289,
+      "firm_count": 68,
+      "city_count": 27,
+      "county_count": 14
+    },
+    {
+      "state": "Pennsylvania",
+      "state_abbr": "PA",
+      "file": "pennsylvania.json",
+      "attorney_count": 1687,
+      "firm_count": 288,
+      "city_count": 124,
+      "county_count": 42
+    },
+    {
+      "state": "Puerto Rico",
+      "state_abbr": "PR",
+      "file": "puerto-rico.json",
+      "attorney_count": 90,
+      "firm_count": 3,
+      "city_count": 5,
+      "county_count": 4
+    },
+    {
+      "state": "Rhode Island",
+      "state_abbr": "RI",
+      "file": "rhode-island.json",
+      "attorney_count": 262,
+      "firm_count": 44,
+      "city_count": 14,
+      "county_count": 5
+    },
+    {
+      "state": "South Carolina",
+      "state_abbr": "SC",
+      "file": "south-carolina.json",
+      "attorney_count": 534,
+      "firm_count": 119,
+      "city_count": 42,
+      "county_count": 23
+    },
+    {
+      "state": "South Dakota",
+      "state_abbr": "SD",
+      "file": "south-dakota.json",
+      "attorney_count": 89,
+      "firm_count": 22,
+      "city_count": 7,
+      "county_count": 7
+    },
+    {
+      "state": "Tennessee",
+      "state_abbr": "TN",
+      "file": "tennessee.json",
+      "attorney_count": 889,
+      "firm_count": 151,
+      "city_count": 43,
+      "county_count": 24
+    },
+    {
+      "state": "Texas",
+      "state_abbr": "TX",
+      "file": "texas.json",
+      "attorney_count": 3319,
+      "firm_count": 766,
+      "city_count": 135,
+      "county_count": 64
+    },
+    {
+      "state": "Utah",
+      "state_abbr": "UT",
+      "file": "utah.json",
+      "attorney_count": 174,
+      "firm_count": 35,
+      "city_count": 19,
+      "county_count": 8
+    },
+    {
+      "state": "Vermont",
+      "state_abbr": "VT",
+      "file": "vermont.json",
+      "attorney_count": 38,
+      "firm_count": 11,
+      "city_count": 13,
+      "county_count": 7
+    },
+    {
+      "state": "Virgin Islands",
+      "state_abbr": "VI",
+      "file": "virgin-islands.json",
+      "attorney_count": 8,
+      "firm_count": 1,
+      "city_count": 2,
+      "county_count": 0
+    },
+    {
+      "state": "Virginia",
+      "state_abbr": "VA",
+      "file": "virginia.json",
+      "attorney_count": 944,
+      "firm_count": 195,
+      "city_count": 71,
+      "county_count": 57
+    },
+    {
+      "state": "Washington",
+      "state_abbr": "WA",
+      "file": "washington.json",
+      "attorney_count": 741,
+      "firm_count": 168,
+      "city_count": 49,
+      "county_count": 15
+    },
+    {
+      "state": "West Virginia",
+      "state_abbr": "WV",
+      "file": "west-virginia.json",
+      "attorney_count": 211,
+      "firm_count": 34,
+      "city_count": 22,
+      "county_count": 14
+    },
+    {
+      "state": "Wisconsin",
+      "state_abbr": "WI",
+      "file": "wisconsin.json",
+      "attorney_count": 664,
+      "firm_count": 124,
+      "city_count": 58,
+      "county_count": 28
+    },
+    {
+      "state": "Wyoming",
+      "state_abbr": "WY",
+      "file": "wyoming.json",
+      "attorney_count": 21,
+      "firm_count": 6,
+      "city_count": 4,
+      "county_count": 3
+    }
+  ]
+}
