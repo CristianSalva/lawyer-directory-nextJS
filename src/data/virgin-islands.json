@@ -1,795 +1,848 @@
 {
-    "state": "Virgin Islands",
-    "state_abbr": "VI",
-    "cities": [
-        "Christiansted",
-        "St Thomas"
-    ],
-    "counties": [],
-    "attorneys": [
+  "state": "Virgin Islands",
+  "state_abbr": "VI",
+  "cities": [
+    "Christiansted",
+    "St Thomas"
+  ],
+  "counties": [],
+  "attorneys": [
+    {
+      "slug": "tom-bolt",
+      "type": "attorney",
+      "name": "Tom Bolt",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Transactional Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/tom-bolt.jpg",
+      "bio": "Tom Bolt, Managing Attorney, founded the firm in 1991. His practice concentration is in government relations, banking, real estate, real estate finance, and estate planning. He is a member of many national and local business and charitable organizations.\n\nTom chairs the Government Relations Practice Group of the Firm and is a member of the Firm's Corporate & Financial Services and Real Estate Groups. He has written and lectured on a variety of government relations issues.",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-690-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Transactional",
+        "Business Organizations",
+        "Government Agencies & Programs",
+        "Real Estate Law",
+        "Estate Planning",
+        "Trusts"
+      ],
+      "sections": [
         {
-            "slug": "tom-bolt",
-            "type": "attorney",
-            "name": "Tom Bolt",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Transactional Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/tom-bolt.jpg",
-            "bio": "Tom Bolt, Managing Attorney, founded the firm in 1991. His practice concentration is in government relations, banking, real estate, real estate finance, and estate planning. He is a member of many national and local business and charitable organizations.\n\nTom chairs the Government Relations Practice Group of the Firm and is a member of the Firm's Corporate & Financial Services and Real Estate Groups. He has written and lectured on a variety of government relations issues.",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
-            },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-690-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [
-                "Transactional",
-                "Business Organizations",
-                "Government Agencies & Programs",
-                "Real Estate Law",
-                "Estate Planning",
-                "Trusts"
-            ],
-            "sections": [
-                {
-                    "title": "Overview",
-                    "type": "text",
-                    "content": "Tom Bolt, Managing Attorney, founded the firm in 1991. His practice concentration is in government relations, banking, real estate, real estate finance, and estate planning. He is a member of many national and local business and charitable organizations.\n\nTom chairs the Government Relations Practice Group of the Firm and is a member of the Firm's Corporate & Financial Services and Real Estate Groups. He has written and lectured on a variety of government relations issues."
-                },
-                {
-                    "title": "Education",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Legal Education",
-                            "items": [
-                                "University of South Carolina School of Law, Columbia, South Carolina, 1982",
-                                "J.D., Juris Doctorate"
-                            ]
-                        },
-                        {
-                            "label": "Non Legal Education",
-                            "items": [
-                                "Wofford College, Spartanburg, South Carolina, 1978",
-                                "B.A., Bachelor of Arts",
-                                "Honors: National Dean's List, Frank Hoke Leadership Scholarship",
-                                "Major: Government",
-                                "Major: English",
-                                "University of South Carolina, Columbia, South Carolina",
-                                "Honors: Candidate, Masters in Public Administration"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Past Positions",
-                    "type": "list",
-                    "content": [
-                        "U.S.V.I. Law Revision Commission, St. Thomas, United States Virgin Islands, Executive Director and Legal Counsel, 1988 - 1991",
-                        "President and Majority Leader, Legislature of the Virgin Islands, St. Thomas, United States Virgin Islands, Counsel, 1986 - 1988",
-                        "Legislature of the Virgin Islands, St. Thomas, United States Virgin Islands, Assistant Legislative Counsel, 1983 - 1986",
-                        "References",
-                        "Chase Manhattan Bank"
-                    ]
-                },
-                {
-                    "title": "Classes and Seminars",
-                    "type": "list",
-                    "content": [
-                        "Affordable Housing, USDA Farmers Home Administration, United States Virgin Island Housing Authority, 1996 - Present",
-                        "Representative Clients",
-                        "Deloitte & Touche, L.L.P.",
-                        "Ernst & Young, L.L.P.",
-                        "KPMG Peat Marwick, L.L.P.",
-                        "PriceWaterhouse Coopers, L.L.P.",
-                        "USVI  Hotel & Tourism Association",
-                        "Virgin Islands Bankers Association",
-                        "Merchants Commercial Bank",
-                        "Countrywide Financial",
-                        "Host Marriott Corp.",
-                        "American Resort Development Association",
-                        "Equifax",
-                        "KPMG Peat Marwick LLP",
-                        "JP Morgan/Chase",
-                        "Lloyd's of London",
-                        "Lovango Conservation, LLC",
-                        "Metro Motors",
-                        "PHH Mortgage",
-                        "SPM Resorts",
-                        "Virgin Islands Territorial Association of REALTORS®",
-                        "Vitraco Mall"
-                    ]
-                },
-                {
-                    "title": "Published Works",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Articles",
-                            "items": [
-                                "Virgin Islands Criminal Code (Editor), June, 1990",
-                                "Virgin Islands Session Laws (Editor), 1987-1990",
-                                "Virgin Islands Business Journal (Member, Advisory Board), 1994-1996"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Bar Admissions",
-                    "type": "list",
-                    "content": [
-                        "Virgin Islands, 1986",
-                        "U.S. District Court District of the Virgin Islands"
-                    ]
-                },
-                {
-                    "title": "Other Affiliations",
-                    "type": "list",
-                    "content": [
-                        "Virgin Islands Bar Association, 1989 - 2000 (Delegate, American Bar Association)",
-                        "Virgin Islands Bar Association (Member, Board of Governors, 1988, 1990-2000)",
-                        "Virgin Islands Bar Association, 1987 - 1996 (Member, Committee on Legislation and Law Reform)",
-                        "Virgin Islands Bar Association, 1987 - 1993 (Chair, Committee on Legislation and Law Reform)",
-                        "Virgin Islands Bar Association, 1994 - 1995 (Chair, Ad Hoc Committee on Professional Liability Insurance)",
-                        "American Bar Association, 1989 - 1998 (Member, House of Delegates)",
-                        "American Bar Association, Member, Sections of General Practice, Law Practice Management, Business Law, Individual Rights and Responsibilities, Real Property, Probate and Trust Law",
-                        "American Bar Association, 1993 - 1996 (Member, House of Delegates, Committee on Drafting)",
-                        "American Bar Association/American Law Institute, 1993 - 1995 (Member, Committee on Continuing Professional Education)",
-                        "American Bar Association/American Law Network, 1993 - 1995 (Member, Board of Directors)",
-                        "American Bar Association, Member, Committee on State Administrative, 1990 - 1995 (Law, Section of Administrative Law and Regulatory Practice)",
-                        "American Bar Association, Member, 1990 - 1993 (Committee on Caribbean Law, Section of International Law and Practice)",
-                        "American Bar Association, 1990 - 1991 (Member, Young Lawyers Division, Committee on Community Law Week)",
-                        "American Bar Association, 1991 (Vice Chair, Young Lawyers Division, Committee on Community Law Week)",
-                        "Attorney Liability Protection Society, Inc., 1995 - 2001 (Member, Board of Directors)",
-                        "National Association of Parliamentarians (Member)",
-                        "St. Thomas Reformed Church, 1993 - 1994 (Clerk)",
-                        "St. Thomas Reformed Church, 1992 - 1998 (Consistory)",
-                        "St. Thomas Reformed Church, 1992 - 1998 (Member, Board of Deacons)",
-                        "Blackbeard's Hill Neighborhood Association, 1988 - 1996 (President)",
-                        "Blackbeard's Hill Neighborhood Association, 1988 - 1996 (Member, Board of Directors)",
-                        "St. Thomas-St. John Council on Alcoholism and Drug Dependency, 1993 (Treasurer)",
-                        "St. Thomas-St. John Council on Alcoholism and Drug Dependency, 1992 - 1994 (Member, Board of Directors)",
-                        "Virgin Islands Youth Multi-Service Center, 1990 - 1994 (Member, Board of Directors)",
-                        "Rotary Club of St. Thomas II, 1991 - 1992 (Sergeant at Arms)",
-                        "Rotary Club of St. Thomas II (Member, Board of Directors, 1987-1989, 1990-1992)",
-                        "St. Thomas Historical Trust, 1987 - 1988 (Secretary)",
-                        "St. Thomas Historical Trust, 1987 - 1990 (Member, Board of Directors)",
-                        "Virgin Islands Democratic Party, 1982 - 1992 (Territorial Committeeman)",
-                        "South Carolina Democratic Party, 1980 - 1982 (Vice Chairman)",
-                        "South Carolina Democratic Party, 1980 - 1982 (Member, State Executive Committee)",
-                        "Friends of the Enid M. Baa Public Library, 1994 - 1998 (Member, Board of Directors)",
-                        "Friends of the Enid M. Baa Public Library, 1995 - 1998 (President)",
-                        "National Conference of Commissioners on Uniform State Laws, 1988 - Present (Commissioner)",
-                        "Drafting Committee on Nondepository Providers of Financial Services, 1996 - Present (Chair)",
-                        "United States Virgin Islands Freenet, Member, Board of Directors 1995- (1997, Chair, Finance Committee 1996-1998)",
-                        "American Bar Association, 1996 - 1998 (Member, State and Local Bar Committee)",
-                        "Fraternities and Sororities",
-                        "Phi Delta Phi",
-                        "Delta Sigma Phi"
-                    ]
-                }
-            ]
+          "title": "Overview",
+          "type": "text",
+          "content": "Tom Bolt, Managing Attorney, founded the firm in 1991. His practice concentration is in government relations, banking, real estate, real estate finance, and estate planning. He is a member of many national and local business and charitable organizations.\n\nTom chairs the Government Relations Practice Group of the Firm and is a member of the Firm's Corporate & Financial Services and Real Estate Groups. He has written and lectured on a variety of government relations issues."
         },
         {
-            "slug": "j-nash-davis",
-            "type": "attorney",
-            "name": "J. Nash Davis",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/j-nash-davis.jpg",
-            "bio": "",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "University of South Carolina School of Law, Columbia, South Carolina, 1982",
+                "J.D., Juris Doctorate"
+              ]
             },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [],
-            "sections": []
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "Wofford College, Spartanburg, South Carolina, 1978",
+                "B.A., Bachelor of Arts",
+                "Honors: National Dean's List, Frank Hoke Leadership Scholarship",
+                "Major: Government",
+                "Major: English",
+                "University of South Carolina, Columbia, South Carolina",
+                "Honors: Candidate, Masters in Public Administration"
+              ]
+            }
+          ]
         },
         {
-            "slug": "steven-k-hardy",
-            "type": "attorney",
-            "name": "Steven K. Hardy",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/steven-k-hardy.jpg",
-            "bio": "",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
-            },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [],
-            "sections": []
+          "title": "Past Positions",
+          "type": "list",
+          "content": [
+            "U.S.V.I. Law Revision Commission, St. Thomas, United States Virgin Islands, Executive Director and Legal Counsel, 1988 - 1991",
+            "President and Majority Leader, Legislature of the Virgin Islands, St. Thomas, United States Virgin Islands, Counsel, 1986 - 1988",
+            "Legislature of the Virgin Islands, St. Thomas, United States Virgin Islands, Assistant Legislative Counsel, 1983 - 1986",
+            "References",
+            "Chase Manhattan Bank"
+          ]
         },
         {
-            "slug": "adam-marinelli",
-            "type": "attorney",
-            "name": "Adam Marinelli",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/adam-marinelli.jpg",
-            "bio": "",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
-            },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [],
-            "sections": []
+          "title": "Classes and Seminars",
+          "type": "list",
+          "content": [
+            "Affordable Housing, USDA Farmers Home Administration, United States Virgin Island Housing Authority, 1996 - Present",
+            "Representative Clients",
+            "Deloitte & Touche, L.L.P.",
+            "Ernst & Young, L.L.P.",
+            "KPMG Peat Marwick, L.L.P.",
+            "PriceWaterhouse Coopers, L.L.P.",
+            "USVI  Hotel & Tourism Association",
+            "Virgin Islands Bankers Association",
+            "Merchants Commercial Bank",
+            "Countrywide Financial",
+            "Host Marriott Corp.",
+            "American Resort Development Association",
+            "Equifax",
+            "KPMG Peat Marwick LLP",
+            "JP Morgan/Chase",
+            "Lloyd's of London",
+            "Lovango Conservation, LLC",
+            "Metro Motors",
+            "PHH Mortgage",
+            "SPM Resorts",
+            "Virgin Islands Territorial Association of REALTORS®",
+            "Vitraco Mall"
+          ]
         },
         {
-            "slug": "ravinder-s-nagi",
-            "type": "attorney",
-            "name": "Ravinder S. Nagi",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Labor & Employment Law Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/ravinder-s-nagi.jpg",
-            "bio": "RAVINDER S. NAGI joined the firm in 2005 as an Associate Attorney. Currently he serves as Assistant Managing Attorney/Shareholder and is Chair of the Litigation Practice Group. His practice concentration is civil litigation and he specializes in corporate, real estate, and complex commercial litigation. Prior to joining BoltNagi PC, Ravi was the Supervising Attorney for the Housing Department of the Legal Aid Society of Hawaii. He specialized in Landlord-Tenant civil trials, Federal Fair Housing Law, Public Housing-H.U.D administrative hearings, and Native Hawaiian land rights. Ravinder also lobbied the Hawaii State Legislature on bills affecting Housing Rights and Landlord-Tenant law.\n\nAttorney Nagi received his B.A. in History from Tufts University in 1998. He earned his J.D. at Santa Clara University School of Law in 2001 and moved to Hawaii in 2002. He is conversational in Punjabi and Hindi. In his spare time Ravinder spends time with his family, plays basketball, swims, and practices yoga.",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
-            },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [
-                "Labor & Employment Law",
-                "Litigation"
-            ],
-            "sections": [
-                {
-                    "title": "Overview",
-                    "type": "text",
-                    "content": "RAVINDER S. NAGI joined the firm in 2005 as an Associate Attorney. Currently he serves as Assistant Managing Attorney/Shareholder and is Chair of the Litigation Practice Group. His practice concentration is civil litigation and he specializes in corporate, real estate, and complex commercial litigation. Prior to joining BoltNagi PC, Ravi was the Supervising Attorney for the Housing Department of the Legal Aid Society of Hawaii. He specialized in Landlord-Tenant civil trials, Federal Fair Housing Law, Public Housing-H.U.D administrative hearings, and Native Hawaiian land rights. Ravinder also lobbied the Hawaii State Legislature on bills affecting Housing Rights and Landlord-Tenant law.\n\nAttorney Nagi received his B.A. in History from Tufts University in 1998. He earned his J.D. at Santa Clara University School of Law in 2001 and moved to Hawaii in 2002. He is conversational in Punjabi and Hindi. In his spare time Ravinder spends time with his family, plays basketball, swims, and practices yoga."
-                },
-                {
-                    "title": "Education",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Legal Education",
-                            "items": [
-                                "Santa Clara University School of Law, Santa Clara, California, 2001",
-                                "Juris Doctorate"
-                            ]
-                        },
-                        {
-                            "label": "Non Legal Education",
-                            "items": [
-                                "Tufts University, 1998",
-                                "B.A., Bachelor of Arts",
-                                "Major: History"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Current Employment Position(s)",
-                    "type": "list",
-                    "content": [
-                        "Litigation Group Chair",
-                        "Assistant Managing Attorney"
-                    ]
-                },
-                {
-                    "title": "Past Positions",
-                    "type": "list",
-                    "content": [
-                        "LEGAL AID SOCIETY OF HAWAII, Associate Attorney, Housing Unit Head, 2002 - 2005",
-                        "SHOKER AND LADVA, Law Clerk",
-                        "Languages",
-                        "Hindi",
-                        "Punjabi"
-                    ]
-                },
-                {
-                    "title": "Bar Admissions",
-                    "type": "list",
-                    "content": [
-                        "Virgin Islands, 2005",
-                        "U.S. District Court District of the Virgin Islands, 2005",
-                        "California, 2000",
-                        "Hawaii, 2002"
-                    ]
-                }
-            ]
+          "title": "Published Works",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Articles",
+              "items": [
+                "Virgin Islands Criminal Code (Editor), June, 1990",
+                "Virgin Islands Session Laws (Editor), 1987-1990",
+                "Virgin Islands Business Journal (Member, Advisory Board), 1994-1996"
+              ]
+            }
+          ]
         },
         {
-            "slug": "howard-phillips",
-            "type": "attorney",
-            "name": "Howard Phillips",
-            "firm_name": "Andrew C. Simpson Attorney At Law",
-            "firm_slug": "andrew-c-simpson-attorney-at-law",
-            "practice_type": "Lawyers in Christiansted, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/howard-phillips.jpg",
-            "bio": "",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "Christiansted",
-                "address": "2191 Church Street",
-                "address2": "Suite 5",
-                "zip": "00820"
-            },
-            "contact": {
-                "phones": [
-                    "340-719-3900",
-                    "340-719-3903"
-                ],
-                "fax": "340-719-3903",
-                "websites": [
-                    "https://www.coralbrief.com"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [],
-            "sections": []
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Virgin Islands, 1986",
+            "U.S. District Court District of the Virgin Islands"
+          ]
         },
         {
-            "slug": "andrew-c-simpson",
-            "type": "attorney",
-            "name": "Andrew C. Simpson",
-            "firm_name": "Andrew C. Simpson Attorney At Law",
-            "firm_slug": "andrew-c-simpson-attorney-at-law",
-            "practice_type": "Trials and Appeals Lawyers in Christiansted, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/andrew-c-simpson.jpg",
-            "bio": "Mr. Simpson is an experienced trial and appellate attorney who has practiced law since 1988 and practiced law in the U.S. Virgin Islands since 1991. He frequently appears in the courts of the Virgin Islands and the U.S. Third Circuit Court of Appeals. He believes in giving clients a realistic assessment of their cases at the outset of the litigation so that they can make informed decisions about pursuing litigation, settlement and/or appeals. Mr. Simpson's goal in the early assessment of the case is to ensure that, absent the development of unforeseen circumstances, the assessment of the case will not change as the case approaches trial.\n\nMr. Simpson is nationally recognized for his appellate advocacy and is a Fellow of the American Academy of Appellate Lawyers. use of technology in delivering services to his clients and explaining cases to a jury. He speaks regularly at seminars on technology, including speaking at the 2008 ABA TECHSHOW. He also serves on the editorial board of the ABA's GP|Solo Technology and Practice Guide.\n\nAwards and Honors\n\nHonors\n\nMr. Simpson has been honored to be selected and serve on the Ethics and Grievance Committee for the U.S. Virgin Islands for over twelve years.",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "Christiansted",
-                "address": "2191 Church Street",
-                "address2": "Suite 5",
-                "zip": "00820"
-            },
-            "contact": {
-                "phones": [
-                    "340-719-3900",
-                    "340-719-3903"
-                ],
-                "fax": "340-719-3903",
-                "websites": [
-                    "https://www.coralbrief.com"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [
-                "Trials and Appeals",
-                "Insurance Defense",
-                "Insurance Coverage",
-                "Admiralty and Maritime Law",
-                "Products Liability",
-                "Environmental Law"
-            ],
-            "sections": [
-                {
-                    "title": "Overview",
-                    "type": "text",
-                    "content": "Mr. Simpson is an experienced trial and appellate attorney who has practiced law since 1988 and practiced law in the U.S. Virgin Islands since 1991. He frequently appears in the courts of the Virgin Islands and the U.S. Third Circuit Court of Appeals. He believes in giving clients a realistic assessment of their cases at the outset of the litigation so that they can make informed decisions about pursuing litigation, settlement and/or appeals. Mr. Simpson's goal in the early assessment of the case is to ensure that, absent the development of unforeseen circumstances, the assessment of the case will not change as the case approaches trial.\n\nMr. Simpson is nationally recognized for his appellate advocacy and is a Fellow of the American Academy of Appellate Lawyers. use of technology in delivering services to his clients and explaining cases to a jury. He speaks regularly at seminars on technology, including speaking at the 2008 ABA TECHSHOW. He also serves on the editorial board of the ABA's GP|Solo Technology and Practice Guide.\n\nAwards and Honors\n\nHonors\n\nMr. Simpson has been honored to be selected and serve on the Ethics and Grievance Committee for the U.S. Virgin Islands for over twelve years."
-                },
-                {
-                    "title": "Education",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Legal Education",
-                            "items": [
-                                "Tulane Law School, New Orleans, Louisiana, May, 1988",
-                                "J.D., Doctor of Jurisprudence",
-                                "Honors: cum laude",
-                                "Honors: Tulane Moot Court, Justice, 1986-1987, Administrative Justice, 1987-1988"
-                            ]
-                        },
-                        {
-                            "label": "Non Legal Education",
-                            "items": [
-                                "United States Merchant Marine Academy, Kings Point, New York, June, 1982",
-                                "B.S.",
-                                "Honors: U.S. Coast Guard Licensed Third Mate 1982 – 1990",
-                                "Honors: U.S. Coast Guard Licensed Third Assistant Engineer - 1982 - 1990",
-                                "Major: Marine Engineering",
-                                "Major: Nautical Science"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Current Employment Position(s)",
-                    "type": "list",
-                    "content": [
-                        "Partner"
-                    ]
-                },
-                {
-                    "title": "Classes and Seminars",
-                    "type": "list",
-                    "content": [
-                        "Don’t Worry, Be Happier: Using Case Management Software To Reduce Stress, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2007, American Bar Association, General Practice and Solo Division",
-                        "60 Top Practice & Tech Tips in 60 Minutes, presented at the Plenary Session of the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
-                        "Top Four Features of the Top Four Practice Management Programs, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
-                        "60 Tips in 60 Minutes, presented in the plenary session of the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
-                        "How to Build Your Office Team, presented at the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
-                        "30 Appellate Tips in 30 Minutes; Defense Research Institute Appellate Practice Seminar, May 2003, Defense Research Institute",
-                        "A PRIMER: WRITING COMPELLING APPELLATE BRIEFS, presentation on behalf of the ABA, moderator and panelist, February 15, 2022",
-                        "SUPREME COURT PRACTICE, presenter at the annual meeting of the Virgin Islands Bar Association, Dec. 2019",
-                        "SHOW AND TELL: MEETINGS & PRESENTATIONS, presenter at the ABA Techshow, April 2009",
-                        "POWERPOINT PERSUADES, presenter at the ABA's National Solo & Small Firm Conference, Oct. 2008",
-                        "INEXPENSIVE TECHNOLOGY TIPS TO AVOID COSTLY MISTAKES, presenter at the V.I. Bar Association Continuing Legal Education Conference, Dec. 2007",
-                        "OUTLOOK FOR LAWYERS: THE CASE MANAGER YOU ALREADY HAVE, co-presenter at the ABA’s National Solo & Small Firm Conference, Oct. 2007",
-                        "DON’T WORRY, BE HAPPIER: USING CASE MANAGEMENT SOFTWARE TO REDUCE STRESS, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2007, American Bar Association, General Practice and Solo Division",
-                        "60 TOP PRACTICE & TECH TIPS IN 60 MINUTES, presented at the Plenary Session of the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
-                        "TOP FOUR FEATURES OF THE TOP FOUR PRACTICE MANAGEMENT PROGRAMS, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
-                        "60 TIPS IN 60 MINUTES, presented in the plenary session of the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
-                        "HOW TO BUILD YOUR OFFICE TEAM, presented at the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
-                        "30 APPELLATE TIPS IN 30 MINUTES; Defense Research Institute Appellate Practice Seminar, May 2003, Defense Research Institute"
-                    ]
-                },
-                {
-                    "title": "Representative Cases",
-                    "type": "list",
-                    "content": [
-                        "Lexington Ins. Co. v. HOVENSA, LLC",
-                        "Citation: 2009 WL 2950366",
-                        "Court: District Court of the Virgin Islands",
-                        "Year: 2009",
-                        "Lue-Martin v. March Group",
-                        "Citation: 2010 WL 1918695",
-                        "Court: U.S. Third Circuit",
-                        "Year: 2010",
-                        "Clarke v. Marriot Intern., Inc.",
-                        "Citation: 2010 WL 1657340",
-                        "Campbell v. Bluebeard’s Castle Inc",
-                        "Citation: 2008 WL 2048361",
-                        "Year: 2008",
-                        "Virgin Islands Conservation Society, Inc. v. Virgin Islands Bd. of Land Use Appeals",
-                        "Citation: 2007 WL 4800361",
-                        "Year: 2007",
-                        "Morales v. H.I.D.T.A.",
-                        "Citation: 524 F.Supp.2d 635",
-                        "Barton v. Curtis",
-                        "Citation: 497 F.3d 331",
-                        "Government of the Virgin Islands v. Barton",
-                        "Citation: 2006 WL 869086",
-                        "Year: 2006",
-                        "Oleksiuk v. Caribbean Watersports & Tours, LLC",
-                        "Citation: 2005 WL 1668906",
-                        "Year: 2005",
-                        "Government of the Virgin Islands v. Velasquez",
-                        "Citation: 2005 WL 3971871",
-                        "Court: Appellate Division of the District Court of the Virgin Islands",
-                        "Sanchez v. Milwaukee Electric Tool Corp., et al.",
-                        "Citation: 2004 U.S. Dist. LEXIS 27553",
-                        "Year: 2004",
-                        "Matheson v. V.I. Community Bank",
-                        "Citation: 297 F.Supp. 2d 819",
-                        "Year: 2003",
-                        "Lee v. Gruel",
-                        "Citation: 248 F.Supp.2d 413",
-                        "Khan v. Soleimani",
-                        "Citation: 2002 WL 31573607",
-                        "Year: 2002",
-                        "Saldana v. Kmart Corp",
-                        "Citation: 260 F.3d 228",
-                        "Year: 2001",
-                        "Elcock v. Kmart Corporation",
-                        "Citation: 233 F.3d 734",
-                        "Year: 2000"
-                    ]
-                },
-                {
-                    "title": "Published Works",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Articles",
-                            "items": [
-                                "TURBOCHARGE YOUR OFFICE FOR $2,500, GP|Solo Dec. 2011 Vol. 28, No. 8 (ABA)",
-                                "BACKING UP, GP|Solo Dec. 2011 Vol. 28, No. 8 (ABA)",
-                                "WORD PROCESSING, GP|Solo June 2008 Vol. 25, No. 4 (ABA)",
-                                "GP|Solo June 2008 Vol. 25, No. 4 (ABA)",
-                                "STAYING CIVIL, GP|Solo, October/November 2005, Vol. 22, No. 7 (ABA)",
-                                "SETTLEMENT: SAFE OR SORRY?, GP|Solo, April/May 2003, Vol. 20, No. 3 (ABA)",
-                                "WRITING THE BRIEF: REQUIREMENTS AND TIPS; Chapter in the Third Circuit Appellate Practice Handbook, Penn. Bar Assn. 2017, 2014 and 2010",
-                                "WHAT I WISH I KNEW FROM THE START ABOUT LITIGATION, GP|Solo Sept./Oct. 2014 Vol. 31, No. 5 (ABA)",
-                                "PREPARING CLIENTS FOR LITIGATION, GP|Solo, Jan./Feb. 2008 Vol. 25, No. 1 (ABA)",
-                                "EXPERTS: A LITTLE DAUBERT'LL DO YA, GP|Solo, Oct./Nov. 2002, Vol 19, No. 7 (ABA)"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Bar Admissions",
-                    "type": "list",
-                    "content": [
-                        "U.S. Court of Appeals 3rd Circuit, 1990",
-                        "U.S. District Court District of the Virgin Islands, 1992",
-                        "U.S. Court of Federal Claims, 2011",
-                        "U.S. Court of Appeals Federal Circuit, 2012",
-                        "U.S. Supreme Court, 2013",
-                        "U.S. Court of Appeals 4th Circuit, 2013"
-                    ]
-                },
-                {
-                    "title": "Other Affiliations",
-                    "type": "list",
-                    "content": [
-                        "Virgin Islands Bar Association, 1995 (Treasurer)",
-                        "Virgin Islands Bar Association (Member)",
-                        "American (Member, Tort and Insurance Practice Section)",
-                        "Federation of Defense and Corporate Counsel, 2008 - Present",
-                        "Defense Research Institute, 1999 - Present"
-                    ]
-                }
-            ]
-        },
-        {
-            "slug": "a-jennings-stone-iii",
-            "type": "attorney",
-            "name": "A. Jennings Stone III",
-            "firm_name": "BoltNagi PC",
-            "firm_slug": "boltnagi-pc",
-            "practice_type": "Litigation Lawyers in St Thomas, VI",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/attorneys/a-jennings-stone-iii.jpg",
-            "bio": "A. Jennings Stone joined BoltNagi PC in 2006 as a member of the firm's Litigation Group. He has been part of the St. Thomas legal community since 2001. Prior to joining BoltNagi PC, Attorney Stone served as general counsel in the local hospitality industry, a litigator in private practice, a federal appeals court staff attorney, and a law clerk for the Superior Court of the Virgin Islands.\n\nAttorney Stone received the 2000 T. Morton McDonald Scholarship Award for Legal Research and the 2000 Clair A. Cripe Award for Correction Law. He authored the \"Legal Briefs\" column for the Virgin Islands Bar Journal from June 2002 to November 2004. Most recently, he has served as the Editor for the Virgin Islands Law Digest published by Martindale Hubbell.\n\nPrior to practicing law, Attorney Stone taught high school English in Manassas, Virginia from 1990-1994 and Santiago, Chile from 1994-1997.",
-            "location": {
-                "state": "Virgin Islands",
-                "state_abbr": "VI",
-                "city": "St Thomas",
-                "address": "St Thomas, VI",
-                "address2": "Suite 202, Tutu Park Mall",
-                "zip": null
-            },
-            "contact": {
-                "phones": [
-                    "340-774-2944",
-                    "340-776-1639"
-                ],
-                "fax": "340-776-1639",
-                "websites": [
-                    "http://www.vilaw.com",
-                    "http://lawblog.vilaw.com/"
-                ],
-                "hours": null,
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [
-                "Litigation",
-                "Foreclosure"
-            ],
-            "sections": [
-                {
-                    "title": "Overview",
-                    "type": "text",
-                    "content": "A. Jennings Stone joined BoltNagi PC in 2006 as a member of the firm's Litigation Group. He has been part of the St. Thomas legal community since 2001. Prior to joining BoltNagi PC, Attorney Stone served as general counsel in the local hospitality industry, a litigator in private practice, a federal appeals court staff attorney, and a law clerk for the Superior Court of the Virgin Islands.\n\nAttorney Stone received the 2000 T. Morton McDonald Scholarship Award for Legal Research and the 2000 Clair A. Cripe Award for Correction Law. He authored the \"Legal Briefs\" column for the Virgin Islands Bar Journal from June 2002 to November 2004. Most recently, he has served as the Editor for the Virgin Islands Law Digest published by Martindale Hubbell.\n\nPrior to practicing law, Attorney Stone taught high school English in Manassas, Virginia from 1990-1994 and Santiago, Chile from 1994-1997."
-                },
-                {
-                    "title": "Education",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Legal Education",
-                            "items": [
-                                "American University, Washington College of Law, Washington, District of Columbia, 2000",
-                                "Juris Doctorate"
-                            ]
-                        },
-                        {
-                            "label": "Non Legal Education",
-                            "items": [
-                                "Virginia Polytechnic Institute & State University, Virginia, 1988",
-                                "B.A., Bachelor of Arts",
-                                "Major: English",
-                                "Virginia Polytechnic Institute & State University, Virginia, 1991",
-                                "M.A., Master of Arts",
-                                "Major: Education"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Current Employment Position(s)",
-                    "type": "list",
-                    "content": [
-                        "Senior Associate",
-                        "Languages",
-                        "Spanish"
-                    ]
-                },
-                {
-                    "title": "Published Works",
-                    "type": "grouped_list",
-                    "content": [
-                        {
-                            "label": "Articles",
-                            "items": [
-                                "Legal Briefs, Virgin Islands Bar Journal, 2002"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Bar Admissions",
-                    "type": "list",
-                    "content": [
-                        "Florida",
-                        "Court of Appeals of Virginia",
-                        "Virginia",
-                        "Virgin Islands",
-                        "U.S. District Court District of the Virgin Islands"
-                    ]
-                }
-            ]
+          "title": "Other Affiliations",
+          "type": "list",
+          "content": [
+            "Virgin Islands Bar Association, 1989 - 2000 (Delegate, American Bar Association)",
+            "Virgin Islands Bar Association (Member, Board of Governors, 1988, 1990-2000)",
+            "Virgin Islands Bar Association, 1987 - 1996 (Member, Committee on Legislation and Law Reform)",
+            "Virgin Islands Bar Association, 1987 - 1993 (Chair, Committee on Legislation and Law Reform)",
+            "Virgin Islands Bar Association, 1994 - 1995 (Chair, Ad Hoc Committee on Professional Liability Insurance)",
+            "American Bar Association, 1989 - 1998 (Member, House of Delegates)",
+            "American Bar Association, Member, Sections of General Practice, Law Practice Management, Business Law, Individual Rights and Responsibilities, Real Property, Probate and Trust Law",
+            "American Bar Association, 1993 - 1996 (Member, House of Delegates, Committee on Drafting)",
+            "American Bar Association/American Law Institute, 1993 - 1995 (Member, Committee on Continuing Professional Education)",
+            "American Bar Association/American Law Network, 1993 - 1995 (Member, Board of Directors)",
+            "American Bar Association, Member, Committee on State Administrative, 1990 - 1995 (Law, Section of Administrative Law and Regulatory Practice)",
+            "American Bar Association, Member, 1990 - 1993 (Committee on Caribbean Law, Section of International Law and Practice)",
+            "American Bar Association, 1990 - 1991 (Member, Young Lawyers Division, Committee on Community Law Week)",
+            "American Bar Association, 1991 (Vice Chair, Young Lawyers Division, Committee on Community Law Week)",
+            "Attorney Liability Protection Society, Inc., 1995 - 2001 (Member, Board of Directors)",
+            "National Association of Parliamentarians (Member)",
+            "St. Thomas Reformed Church, 1993 - 1994 (Clerk)",
+            "St. Thomas Reformed Church, 1992 - 1998 (Consistory)",
+            "St. Thomas Reformed Church, 1992 - 1998 (Member, Board of Deacons)",
+            "Blackbeard's Hill Neighborhood Association, 1988 - 1996 (President)",
+            "Blackbeard's Hill Neighborhood Association, 1988 - 1996 (Member, Board of Directors)",
+            "St. Thomas-St. John Council on Alcoholism and Drug Dependency, 1993 (Treasurer)",
+            "St. Thomas-St. John Council on Alcoholism and Drug Dependency, 1992 - 1994 (Member, Board of Directors)",
+            "Virgin Islands Youth Multi-Service Center, 1990 - 1994 (Member, Board of Directors)",
+            "Rotary Club of St. Thomas II, 1991 - 1992 (Sergeant at Arms)",
+            "Rotary Club of St. Thomas II (Member, Board of Directors, 1987-1989, 1990-1992)",
+            "St. Thomas Historical Trust, 1987 - 1988 (Secretary)",
+            "St. Thomas Historical Trust, 1987 - 1990 (Member, Board of Directors)",
+            "Virgin Islands Democratic Party, 1982 - 1992 (Territorial Committeeman)",
+            "South Carolina Democratic Party, 1980 - 1982 (Vice Chairman)",
+            "South Carolina Democratic Party, 1980 - 1982 (Member, State Executive Committee)",
+            "Friends of the Enid M. Baa Public Library, 1994 - 1998 (Member, Board of Directors)",
+            "Friends of the Enid M. Baa Public Library, 1995 - 1998 (President)",
+            "National Conference of Commissioners on Uniform State Laws, 1988 - Present (Commissioner)",
+            "Drafting Committee on Nondepository Providers of Financial Services, 1996 - Present (Chair)",
+            "United States Virgin Islands Freenet, Member, Board of Directors 1995- (1997, Chair, Finance Committee 1996-1998)",
+            "American Bar Association, 1996 - 1998 (Member, State and Local Bar Committee)",
+            "Fraternities and Sororities",
+            "Phi Delta Phi",
+            "Delta Sigma Phi"
+          ]
         }
-    ],
-    "firms": [
+      ]
+    },
+    {
+      "slug": "j-nash-davis",
+      "type": "attorney",
+      "name": "J. Nash Davis",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/j-nash-davis.jpg",
+      "bio": "",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [],
+      "sections": []
+    },
+    {
+      "slug": "steven-k-hardy",
+      "type": "attorney",
+      "name": "Steven K. Hardy",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/steven-k-hardy.jpg",
+      "bio": "",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [],
+      "sections": []
+    },
+    {
+      "slug": "adam-marinelli",
+      "type": "attorney",
+      "name": "Adam Marinelli",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/adam-marinelli.jpg",
+      "bio": "",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [],
+      "sections": []
+    },
+    {
+      "slug": "ravinder-s-nagi",
+      "type": "attorney",
+      "name": "Ravinder S. Nagi",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Labor & Employment Law Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/ravinder-s-nagi.jpg",
+      "bio": "RAVINDER S. NAGI joined the firm in 2005 as an Associate Attorney. Currently he serves as Assistant Managing Attorney/Shareholder and is Chair of the Litigation Practice Group. His practice concentration is civil litigation and he specializes in corporate, real estate, and complex commercial litigation. Prior to joining BoltNagi PC, Ravi was the Supervising Attorney for the Housing Department of the Legal Aid Society of Hawaii. He specialized in Landlord-Tenant civil trials, Federal Fair Housing Law, Public Housing-H.U.D administrative hearings, and Native Hawaiian land rights. Ravinder also lobbied the Hawaii State Legislature on bills affecting Housing Rights and Landlord-Tenant law.\n\nAttorney Nagi received his B.A. in History from Tufts University in 1998. He earned his J.D. at Santa Clara University School of Law in 2001 and moved to Hawaii in 2002. He is conversational in Punjabi and Hindi. In his spare time Ravinder spends time with his family, plays basketball, swims, and practices yoga.",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Labor & Employment Law",
+        "Litigation"
+      ],
+      "sections": [
         {
-            "slug": "andrew-c-simpson-attorney-at-law",
-            "type": "firm",
-            "name": "Andrew C. Simpson Attorney At Law",
-            "practice_type": "Insurance Defense Lawyers in Christiansted, VI",
-            "last_updated": "02/28/2026",
-            "years_experience": null,
-            "free_consultation": false,
-            "super_lawyers": null,
-            "photo": "/photos/firms/andrew-c-simpson-attorney-at-law.jpg",
-            "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3187685/pid_1/andrew_c_simpson_attorney_at_law.jpg",
-            "location": {
-                "state": "VI",
-                "city": "Christiansted",
-                "address": "2191 Church Street",
-                "address2": "Suite 5",
-                "zip": "00820",
-                "lat": 17.7454,
-                "lng": -64.7034
+          "title": "Overview",
+          "type": "text",
+          "content": "RAVINDER S. NAGI joined the firm in 2005 as an Associate Attorney. Currently he serves as Assistant Managing Attorney/Shareholder and is Chair of the Litigation Practice Group. His practice concentration is civil litigation and he specializes in corporate, real estate, and complex commercial litigation. Prior to joining BoltNagi PC, Ravi was the Supervising Attorney for the Housing Department of the Legal Aid Society of Hawaii. He specialized in Landlord-Tenant civil trials, Federal Fair Housing Law, Public Housing-H.U.D administrative hearings, and Native Hawaiian land rights. Ravinder also lobbied the Hawaii State Legislature on bills affecting Housing Rights and Landlord-Tenant law.\n\nAttorney Nagi received his B.A. in History from Tufts University in 1998. He earned his J.D. at Santa Clara University School of Law in 2001 and moved to Hawaii in 2002. He is conversational in Punjabi and Hindi. In his spare time Ravinder spends time with his family, plays basketball, swims, and practices yoga."
+        },
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "Santa Clara University School of Law, Santa Clara, California, 2001",
+                "Juris Doctorate"
+              ]
             },
-            "contact": {
-                "phone": "340-719-3900",
-                "fax": "340-719-3903",
-                "email_url": "https://lawyers.findlaw.com/virgin-islands/christiansted/andrew-c-simpson-attorney-at-law-MzE4NzY4NV8x/contact/",
-                "websites": [
-                    "https://www.coralbrief.com"
-                ],
-                "features": [
-                    "Credit Cards Accepted"
-                ]
-            },
-            "practice_areas": [
-                "Insurance Defense"
-            ],
-            "attorneys": [
-                "Howard Phillips",
-                "Andrew C. Simpson"
-            ],
-            "official_practice_area": [
-                "Insurance Defense",
-                "Insurance Law"
-            ],
-            "additional_locations": []
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "Tufts University, 1998",
+                "B.A., Bachelor of Arts",
+                "Major: History"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Litigation Group Chair",
+            "Assistant Managing Attorney"
+          ]
+        },
+        {
+          "title": "Past Positions",
+          "type": "list",
+          "content": [
+            "LEGAL AID SOCIETY OF HAWAII, Associate Attorney, Housing Unit Head, 2002 - 2005",
+            "SHOKER AND LADVA, Law Clerk",
+            "Languages",
+            "Hindi",
+            "Punjabi"
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Virgin Islands, 2005",
+            "U.S. District Court District of the Virgin Islands, 2005",
+            "California, 2000",
+            "Hawaii, 2002"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "slug": "howard-phillips",
+      "type": "attorney",
+      "name": "Howard Phillips",
+      "firm_name": "Andrew C. Simpson Attorney At Law",
+      "firm_slug": "andrew-c-simpson-attorney-at-law",
+      "practice_type": "Lawyers in Christiansted, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/howard-phillips.jpg",
+      "bio": "",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "Christiansted",
+        "address": "2191 Church Street",
+        "address2": "Suite 5",
+        "zip": "00820"
+      },
+      "contact": {
+        "phones": [
+          "340-719-3900",
+          "340-719-3903"
+        ],
+        "fax": "340-719-3903",
+        "websites": [
+          "https://www.coralbrief.com"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [],
+      "sections": []
+    },
+    {
+      "slug": "andrew-c-simpson",
+      "type": "attorney",
+      "name": "Andrew C. Simpson",
+      "firm_name": "Andrew C. Simpson Attorney At Law",
+      "firm_slug": "andrew-c-simpson-attorney-at-law",
+      "practice_type": "Trials and Appeals Lawyers in Christiansted, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/andrew-c-simpson.jpg",
+      "bio": "Mr. Simpson is an experienced trial and appellate attorney who has practiced law since 1988 and practiced law in the U.S. Virgin Islands since 1991. He frequently appears in the courts of the Virgin Islands and the U.S. Third Circuit Court of Appeals. He believes in giving clients a realistic assessment of their cases at the outset of the litigation so that they can make informed decisions about pursuing litigation, settlement and/or appeals. Mr. Simpson's goal in the early assessment of the case is to ensure that, absent the development of unforeseen circumstances, the assessment of the case will not change as the case approaches trial.\n\nMr. Simpson is nationally recognized for his appellate advocacy and is a Fellow of the American Academy of Appellate Lawyers. use of technology in delivering services to his clients and explaining cases to a jury. He speaks regularly at seminars on technology, including speaking at the 2008 ABA TECHSHOW. He also serves on the editorial board of the ABA's GP|Solo Technology and Practice Guide.\n\nAwards and Honors\n\nHonors\n\nMr. Simpson has been honored to be selected and serve on the Ethics and Grievance Committee for the U.S. Virgin Islands for over twelve years.",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "Christiansted",
+        "address": "2191 Church Street",
+        "address2": "Suite 5",
+        "zip": "00820"
+      },
+      "contact": {
+        "phones": [
+          "340-719-3900",
+          "340-719-3903"
+        ],
+        "fax": "340-719-3903",
+        "websites": [
+          "https://www.coralbrief.com"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Trials and Appeals",
+        "Insurance Defense",
+        "Insurance Coverage",
+        "Admiralty and Maritime Law",
+        "Products Liability",
+        "Environmental Law"
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "type": "text",
+          "content": "Mr. Simpson is an experienced trial and appellate attorney who has practiced law since 1988 and practiced law in the U.S. Virgin Islands since 1991. He frequently appears in the courts of the Virgin Islands and the U.S. Third Circuit Court of Appeals. He believes in giving clients a realistic assessment of their cases at the outset of the litigation so that they can make informed decisions about pursuing litigation, settlement and/or appeals. Mr. Simpson's goal in the early assessment of the case is to ensure that, absent the development of unforeseen circumstances, the assessment of the case will not change as the case approaches trial.\n\nMr. Simpson is nationally recognized for his appellate advocacy and is a Fellow of the American Academy of Appellate Lawyers. use of technology in delivering services to his clients and explaining cases to a jury. He speaks regularly at seminars on technology, including speaking at the 2008 ABA TECHSHOW. He also serves on the editorial board of the ABA's GP|Solo Technology and Practice Guide.\n\nAwards and Honors\n\nHonors\n\nMr. Simpson has been honored to be selected and serve on the Ethics and Grievance Committee for the U.S. Virgin Islands for over twelve years."
+        },
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "Tulane Law School, New Orleans, Louisiana, May, 1988",
+                "J.D., Doctor of Jurisprudence",
+                "Honors: cum laude",
+                "Honors: Tulane Moot Court, Justice, 1986-1987, Administrative Justice, 1987-1988"
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "United States Merchant Marine Academy, Kings Point, New York, June, 1982",
+                "B.S.",
+                "Honors: U.S. Coast Guard Licensed Third Mate 1982 – 1990",
+                "Honors: U.S. Coast Guard Licensed Third Assistant Engineer - 1982 - 1990",
+                "Major: Marine Engineering",
+                "Major: Nautical Science"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Partner"
+          ]
+        },
+        {
+          "title": "Classes and Seminars",
+          "type": "list",
+          "content": [
+            "Don’t Worry, Be Happier: Using Case Management Software To Reduce Stress, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2007, American Bar Association, General Practice and Solo Division",
+            "60 Top Practice & Tech Tips in 60 Minutes, presented at the Plenary Session of the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
+            "Top Four Features of the Top Four Practice Management Programs, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
+            "60 Tips in 60 Minutes, presented in the plenary session of the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
+            "How to Build Your Office Team, presented at the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
+            "30 Appellate Tips in 30 Minutes; Defense Research Institute Appellate Practice Seminar, May 2003, Defense Research Institute",
+            "A PRIMER: WRITING COMPELLING APPELLATE BRIEFS, presentation on behalf of the ABA, moderator and panelist, February 15, 2022",
+            "SUPREME COURT PRACTICE, presenter at the annual meeting of the Virgin Islands Bar Association, Dec. 2019",
+            "SHOW AND TELL: MEETINGS & PRESENTATIONS, presenter at the ABA Techshow, April 2009",
+            "POWERPOINT PERSUADES, presenter at the ABA's National Solo & Small Firm Conference, Oct. 2008",
+            "INEXPENSIVE TECHNOLOGY TIPS TO AVOID COSTLY MISTAKES, presenter at the V.I. Bar Association Continuing Legal Education Conference, Dec. 2007",
+            "OUTLOOK FOR LAWYERS: THE CASE MANAGER YOU ALREADY HAVE, co-presenter at the ABA’s National Solo & Small Firm Conference, Oct. 2007",
+            "DON’T WORRY, BE HAPPIER: USING CASE MANAGEMENT SOFTWARE TO REDUCE STRESS, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2007, American Bar Association, General Practice and Solo Division",
+            "60 TOP PRACTICE & TECH TIPS IN 60 MINUTES, presented at the Plenary Session of the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
+            "TOP FOUR FEATURES OF THE TOP FOUR PRACTICE MANAGEMENT PROGRAMS, presented at the ABA’s National Solo & Small Firm Conference, Oct. 2006, American Bar Association, General Practice and Solo Division",
+            "60 TIPS IN 60 MINUTES, presented in the plenary session of the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
+            "HOW TO BUILD YOUR OFFICE TEAM, presented at the ABA's National Solo & Small Firm Conference, Oct. 2010, American Bar Association, General Practice and Solo Division",
+            "30 APPELLATE TIPS IN 30 MINUTES; Defense Research Institute Appellate Practice Seminar, May 2003, Defense Research Institute"
+          ]
+        },
+        {
+          "title": "Representative Cases",
+          "type": "list",
+          "content": [
+            "Lexington Ins. Co. v. HOVENSA, LLC",
+            "Citation: 2009 WL 2950366",
+            "Court: District Court of the Virgin Islands",
+            "Year: 2009",
+            "Lue-Martin v. March Group",
+            "Citation: 2010 WL 1918695",
+            "Court: U.S. Third Circuit",
+            "Year: 2010",
+            "Clarke v. Marriot Intern., Inc.",
+            "Citation: 2010 WL 1657340",
+            "Campbell v. Bluebeard’s Castle Inc",
+            "Citation: 2008 WL 2048361",
+            "Year: 2008",
+            "Virgin Islands Conservation Society, Inc. v. Virgin Islands Bd. of Land Use Appeals",
+            "Citation: 2007 WL 4800361",
+            "Year: 2007",
+            "Morales v. H.I.D.T.A.",
+            "Citation: 524 F.Supp.2d 635",
+            "Barton v. Curtis",
+            "Citation: 497 F.3d 331",
+            "Government of the Virgin Islands v. Barton",
+            "Citation: 2006 WL 869086",
+            "Year: 2006",
+            "Oleksiuk v. Caribbean Watersports & Tours, LLC",
+            "Citation: 2005 WL 1668906",
+            "Year: 2005",
+            "Government of the Virgin Islands v. Velasquez",
+            "Citation: 2005 WL 3971871",
+            "Court: Appellate Division of the District Court of the Virgin Islands",
+            "Sanchez v. Milwaukee Electric Tool Corp., et al.",
+            "Citation: 2004 U.S. Dist. LEXIS 27553",
+            "Year: 2004",
+            "Matheson v. V.I. Community Bank",
+            "Citation: 297 F.Supp. 2d 819",
+            "Year: 2003",
+            "Lee v. Gruel",
+            "Citation: 248 F.Supp.2d 413",
+            "Khan v. Soleimani",
+            "Citation: 2002 WL 31573607",
+            "Year: 2002",
+            "Saldana v. Kmart Corp",
+            "Citation: 260 F.3d 228",
+            "Year: 2001",
+            "Elcock v. Kmart Corporation",
+            "Citation: 233 F.3d 734",
+            "Year: 2000"
+          ]
+        },
+        {
+          "title": "Published Works",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Articles",
+              "items": [
+                "TURBOCHARGE YOUR OFFICE FOR $2,500, GP|Solo Dec. 2011 Vol. 28, No. 8 (ABA)",
+                "BACKING UP, GP|Solo Dec. 2011 Vol. 28, No. 8 (ABA)",
+                "WORD PROCESSING, GP|Solo June 2008 Vol. 25, No. 4 (ABA)",
+                "GP|Solo June 2008 Vol. 25, No. 4 (ABA)",
+                "STAYING CIVIL, GP|Solo, October/November 2005, Vol. 22, No. 7 (ABA)",
+                "SETTLEMENT: SAFE OR SORRY?, GP|Solo, April/May 2003, Vol. 20, No. 3 (ABA)",
+                "WRITING THE BRIEF: REQUIREMENTS AND TIPS; Chapter in the Third Circuit Appellate Practice Handbook, Penn. Bar Assn. 2017, 2014 and 2010",
+                "WHAT I WISH I KNEW FROM THE START ABOUT LITIGATION, GP|Solo Sept./Oct. 2014 Vol. 31, No. 5 (ABA)",
+                "PREPARING CLIENTS FOR LITIGATION, GP|Solo, Jan./Feb. 2008 Vol. 25, No. 1 (ABA)",
+                "EXPERTS: A LITTLE DAUBERT'LL DO YA, GP|Solo, Oct./Nov. 2002, Vol 19, No. 7 (ABA)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "U.S. Court of Appeals 3rd Circuit, 1990",
+            "U.S. District Court District of the Virgin Islands, 1992",
+            "U.S. Court of Federal Claims, 2011",
+            "U.S. Court of Appeals Federal Circuit, 2012",
+            "U.S. Supreme Court, 2013",
+            "U.S. Court of Appeals 4th Circuit, 2013"
+          ]
+        },
+        {
+          "title": "Other Affiliations",
+          "type": "list",
+          "content": [
+            "Virgin Islands Bar Association, 1995 (Treasurer)",
+            "Virgin Islands Bar Association (Member)",
+            "American (Member, Tort and Insurance Practice Section)",
+            "Federation of Defense and Corporate Counsel, 2008 - Present",
+            "Defense Research Institute, 1999 - Present"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a-jennings-stone-iii",
+      "type": "attorney",
+      "name": "A. Jennings Stone III",
+      "firm_name": "BoltNagi PC",
+      "firm_slug": "boltnagi-pc",
+      "practice_type": "Litigation Lawyers in St Thomas, VI",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/attorneys/a-jennings-stone-iii.jpg",
+      "bio": "A. Jennings Stone joined BoltNagi PC in 2006 as a member of the firm's Litigation Group. He has been part of the St. Thomas legal community since 2001. Prior to joining BoltNagi PC, Attorney Stone served as general counsel in the local hospitality industry, a litigator in private practice, a federal appeals court staff attorney, and a law clerk for the Superior Court of the Virgin Islands.\n\nAttorney Stone received the 2000 T. Morton McDonald Scholarship Award for Legal Research and the 2000 Clair A. Cripe Award for Correction Law. He authored the \"Legal Briefs\" column for the Virgin Islands Bar Journal from June 2002 to November 2004. Most recently, he has served as the Editor for the Virgin Islands Law Digest published by Martindale Hubbell.\n\nPrior to practicing law, Attorney Stone taught high school English in Manassas, Virginia from 1990-1994 and Santiago, Chile from 1994-1997.",
+      "location": {
+        "state": "Virgin Islands",
+        "state_abbr": "VI",
+        "city": "St Thomas",
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null
+      },
+      "contact": {
+        "phones": [
+          "340-774-2944",
+          "340-776-1639"
+        ],
+        "fax": "340-776-1639",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "hours": null,
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Litigation",
+        "Foreclosure"
+      ],
+      "sections": [
+        {
+          "title": "Overview",
+          "type": "text",
+          "content": "A. Jennings Stone joined BoltNagi PC in 2006 as a member of the firm's Litigation Group. He has been part of the St. Thomas legal community since 2001. Prior to joining BoltNagi PC, Attorney Stone served as general counsel in the local hospitality industry, a litigator in private practice, a federal appeals court staff attorney, and a law clerk for the Superior Court of the Virgin Islands.\n\nAttorney Stone received the 2000 T. Morton McDonald Scholarship Award for Legal Research and the 2000 Clair A. Cripe Award for Correction Law. He authored the \"Legal Briefs\" column for the Virgin Islands Bar Journal from June 2002 to November 2004. Most recently, he has served as the Editor for the Virgin Islands Law Digest published by Martindale Hubbell.\n\nPrior to practicing law, Attorney Stone taught high school English in Manassas, Virginia from 1990-1994 and Santiago, Chile from 1994-1997."
+        },
+        {
+          "title": "Education",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Legal Education",
+              "items": [
+                "American University, Washington College of Law, Washington, District of Columbia, 2000",
+                "Juris Doctorate"
+              ]
+            },
+            {
+              "label": "Non Legal Education",
+              "items": [
+                "Virginia Polytechnic Institute & State University, Virginia, 1988",
+                "B.A., Bachelor of Arts",
+                "Major: English",
+                "Virginia Polytechnic Institute & State University, Virginia, 1991",
+                "M.A., Master of Arts",
+                "Major: Education"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Employment Position(s)",
+          "type": "list",
+          "content": [
+            "Senior Associate",
+            "Languages",
+            "Spanish"
+          ]
+        },
+        {
+          "title": "Published Works",
+          "type": "grouped_list",
+          "content": [
+            {
+              "label": "Articles",
+              "items": [
+                "Legal Briefs, Virgin Islands Bar Journal, 2002"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bar Admissions",
+          "type": "list",
+          "content": [
+            "Florida",
+            "Court of Appeals of Virginia",
+            "Virginia",
+            "Virgin Islands",
+            "U.S. District Court District of the Virgin Islands"
+          ]
+        }
+      ]
+    }
+  ],
+  "firms": [
+    {
+      "slug": "andrew-c-simpson-attorney-at-law",
+      "type": "firm",
+      "name": "Andrew C. Simpson Attorney At Law",
+      "practice_type": "Insurance Defense Lawyers in Christiansted, VI",
+      "last_updated": "02/28/2026",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": null,
+      "photo": "/photos/firms/andrew-c-simpson-attorney-at-law.jpg",
+      "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3187685/pid_1/andrew_c_simpson_attorney_at_law.jpg",
+      "location": {
+        "state": "VI",
+        "city": "Christiansted",
+        "address": "2191 Church Street",
+        "address2": "Suite 5",
+        "zip": "00820",
+        "lat": 17.7454,
+        "lng": -64.7034
+      },
+      "contact": {
+        "phone": "340-719-3900",
+        "fax": "340-719-3903",
+        "email_url": "https://lawyers.findlaw.com/virgin-islands/christiansted/andrew-c-simpson-attorney-at-law-MzE4NzY4NV8x/contact/",
+        "websites": [
+          "https://www.coralbrief.com"
+        ],
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Insurance Defense"
+      ],
+      "attorneys": [
+        "Howard Phillips",
+        "Andrew C. Simpson"
+      ],
+      "official_practice_area": [
+        "Insurance Defense",
+        "Insurance Law"
+      ],
+      "additional_locations": []
+    },
+    {
+      "slug": "boltnagi-pc",
+      "type": "firm",
+      "name": "BoltNagi PC",
+      "practice_type": "Corporate & Financial Services Lawyers in St Thomas, VI",
+      "last_updated": "02/16/2026",
+      "years_experience": null,
+      "free_consultation": false,
+      "super_lawyers": 0,
+      "photo": null,
+      "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2513657/pid_1/boltnagi_pc.jpg",
+      "location": {
+        "state": null,
+        "city": null,
+        "address": "St Thomas, VI",
+        "address2": "Suite 202, Tutu Park Mall",
+        "zip": null,
+        "lat": null,
+        "lng": null
+      },
+      "contact": {
+        "phone": "340-774-2944",
+        "fax": "340-776-1639",
+        "email_url": "https://lawyers.findlaw.com/virgin-islands/st-thomas/boltnagi-pc-MjUxMzY1N18x/contact/",
+        "websites": [
+          "http://www.vilaw.com",
+          "http://lawblog.vilaw.com/"
+        ],
+        "features": [
+          "Credit Cards Accepted"
+        ]
+      },
+      "practice_areas": [
+        "Corporate & Financial Services",
+        "Government Relations",
+        "Immigration",
+        "International",
+        "Litigation",
+        "Real Estate",
+        "Tax & Estate Planning",
+        "Litigation: 30%"
+      ],
+      "attorneys": [
+        "Tom Bolt",
+        "J. Nash Davis",
+        "Steven K. Hardy",
+        "Adam Marinelli",
+        "Ravinder S. Nagi",
+        "A. Jennings Stone III"
+      ],
+      "official_practice_area": [],
+      "additional_locations": []
+    }
+  ]
 }
