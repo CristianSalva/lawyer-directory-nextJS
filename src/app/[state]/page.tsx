@@ -184,6 +184,7 @@ export default async function StatePage({ params, searchParams }: Props) {
 
   const exactFirms  = practiceFiltered.filter(f => isExactMatch(f))
   const nearbyFirms = practiceFiltered.filter(f => !isExactMatch(f) && isWithinRadius(f))
+  const farFirms    = practiceFiltered.filter(f => !isExactMatch(f) && !isWithinRadius(f))
   const totalCount  = exactFirms.length + nearbyFirms.length
 
   const title = `${area} Law Firms in ${city}, ${data.state_abbr}`
@@ -289,6 +290,19 @@ export default async function StatePage({ params, searchParams }: Props) {
                       </div>
                       <div className="lawyer-list">
                         {nearbyFirms.slice(0, 10).map(firm => (
+                          <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
+                        ))}
+                      </div>
+                    </>
+                  )}
+
+                  {farFirms.length > 0 && (
+                    <>
+                      <div className="results-separator">
+                        <span>Additional results over {RADIUS_MILES} miles away</span>
+                      </div>
+                      <div className="lawyer-list">
+                        {farFirms.slice(0, 10).map(firm => (
                           <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
                         ))}
                       </div>
