@@ -80493,7 +80493,9 @@
                 "city": "Fort Wayne",
                 "address": "5612 West Jefferson Boulevard",
                 "address2": null,
-                "zip": "46802"
+                "zip": "46802",
+                "lat": 41.0655,
+                "lng": -85.1581
             },
             "contact": {
                 "phone": "888-600-5297",
@@ -80512,7 +80514,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pillar-law-group-llp",
@@ -80530,7 +80533,9 @@
                 "city": "Lawrenceburg",
                 "address": "311 Walnut Street",
                 "address2": null,
-                "zip": "47025"
+                "zip": "47025",
+                "lat": 39.1627,
+                "lng": -84.8914
             },
             "contact": {
                 "phone": "812-994-0520",
@@ -80556,7 +80561,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arnold-law-office",
@@ -80574,7 +80580,9 @@
                 "city": "Richmond",
                 "address": "410 South D Street",
                 "address2": null,
-                "zip": "47374"
+                "zip": "47374",
+                "lat": 39.8462,
+                "lng": -84.904
             },
             "contact": {
                 "phone": "765-270-4954",
@@ -80596,7 +80604,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kammen-moudy-llc",
@@ -80614,7 +80623,9 @@
                 "city": "Indianapolis",
                 "address": "135 N. Pennsylvania Street",
                 "address2": "Suite 1175",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-907-9103",
@@ -80644,7 +80655,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tanzillo-stassin-and-babcock",
@@ -80662,7 +80674,9 @@
                 "city": "Dyer",
                 "address": "1160 Joliet St.",
                 "address2": "Suite 201",
-                "zip": "46311"
+                "zip": "46311",
+                "lat": 41.4612,
+                "lng": -87.5007
             },
             "contact": {
                 "phone": "219-227-5836",
@@ -80687,7 +80701,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coots-henke-wheeler-p-c",
@@ -80705,7 +80720,9 @@
                 "city": "Carmel",
                 "address": "255 E Carmel Dr",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-708-4819",
@@ -80742,6 +80759,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Brownsburg",
+                    "state": "IN",
+                    "zip": "46112",
+                    "address": "659 North Green Street",
+                    "phone": "317-708-4819",
+                    "lat": 39.8652,
+                    "lng": -86.3828
+                }
             ]
         },
         {
@@ -80760,7 +80788,9 @@
                 "city": "Highland",
                 "address": "2637 45th St",
                 "address2": null,
-                "zip": "46322"
+                "zip": "46322",
+                "lat": 41.5466,
+                "lng": -87.4568
             },
             "contact": {
                 "phone": "219-885-3922",
@@ -80810,6 +80840,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Crown Point",
+                    "state": "IN",
+                    "zip": "46307",
+                    "address": "1857 E Summit St.",
+                    "phone": "+12192002855",
+                    "lat": 41.3969,
+                    "lng": -87.3248
+                }
             ]
         },
         {
@@ -80828,7 +80869,9 @@
                 "city": "Indianapolis",
                 "address": "8770 Purdue Road",
                 "address2": null,
-                "zip": "46268"
+                "zip": "46268",
+                "lat": 39.8969,
+                "lng": -86.2324
             },
             "contact": {
                 "phone": "317-618-8534",
@@ -80889,7 +80932,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barber-bauer-llp",
@@ -80907,7 +80951,9 @@
                 "city": "Evansville",
                 "address": "124 SE 1st Street",
                 "address2": "Suite 101",
-                "zip": "47708"
+                "zip": "47708",
+                "lat": 37.9728,
+                "lng": -87.5746
             },
             "contact": {
                 "phone": "812-994-7216",
@@ -80948,7 +80994,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "blachly-tabor-bozik-hartman-llc",
@@ -80966,7 +81013,9 @@
                 "city": "Valparaiso",
                 "address": "56 Washington Street",
                 "address2": "Suite 401",
-                "zip": "46383"
+                "zip": "46383",
+                "lat": 41.4529,
+                "lng": -86.9983
             },
             "contact": {
                 "phone": "219-376-0078",
@@ -81008,7 +81057,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cross-glazier-reed-burroughs-pc",
@@ -81026,7 +81076,9 @@
                 "city": "Carmel",
                 "address": "11595 North Meridian Street",
                 "address2": "Suite 110",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-794-3505",
@@ -81058,7 +81110,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopher-taylor",
@@ -81076,7 +81129,9 @@
                 "city": "Indianapolis",
                 "address": "1219 North Delaware Street",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-961-9771",
@@ -81099,7 +81154,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "matthew-d-barrett-pc",
@@ -81117,7 +81173,9 @@
                 "city": "Logansport",
                 "address": "1730 E. Market Street",
                 "address2": null,
-                "zip": "46947"
+                "zip": "46947",
+                "lat": 40.7431,
+                "lng": -86.3746
             },
             "contact": {
                 "phone": "574-225-3257",
@@ -81138,7 +81196,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "webster-garino-llc",
@@ -81156,7 +81215,9 @@
                 "city": "Westfield",
                 "address": "209 E 175th St",
                 "address2": "Suite A",
-                "zip": "46074"
+                "zip": "46074",
+                "lat": 40.0373,
+                "lng": -86.1659
             },
             "contact": {
                 "phone": "317-296-7697",
@@ -81213,6 +81274,17 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bloomington",
+                    "state": "IN",
+                    "zip": "47404",
+                    "address": "642 N Madison St",
+                    "phone": "+13179079430",
+                    "lat": 39.2511,
+                    "lng": -86.614
+                }
             ]
         },
         {
@@ -81231,7 +81303,9 @@
                 "city": "Newburgh",
                 "address": "5455 Old Indiana 261",
                 "address2": null,
-                "zip": "47630"
+                "zip": "47630",
+                "lat": 37.9457,
+                "lng": -87.3515
             },
             "contact": {
                 "phone": "844-268-7775",
@@ -81256,6 +81330,17 @@
                 "Construction",
                 "Construction Accident",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fishers",
+                    "state": "IN",
+                    "zip": "46038",
+                    "address": "14074 Trade Center Dr, Suite 202",
+                    "phone": "844-268-7775",
+                    "lat": 39.9637,
+                    "lng": -86.0113
+                }
             ]
         },
         {
@@ -81274,7 +81359,9 @@
                 "city": "South Bend",
                 "address": "53600 North Ironwood Drive",
                 "address2": null,
-                "zip": "46635"
+                "zip": "46635",
+                "lat": 41.72,
+                "lng": -86.2051
             },
             "contact": {
                 "phone": "574-400-8749",
@@ -81317,7 +81404,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doyle-family-law-llc",
@@ -81335,7 +81423,9 @@
                 "city": "Indianapolis",
                 "address": "1300 E. 86th Street",
                 "address2": "#36a",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-505-0976",
@@ -81380,6 +81470,17 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46240",
+                    "address": "P.O. Box 80009",
+                    "phone": "+13175050986",
+                    "lat": 39.9051,
+                    "lng": -86.1159
+                }
             ]
         },
         {
@@ -81398,7 +81499,9 @@
                 "city": "Bloomington",
                 "address": "1451 West Arlington Road",
                 "address2": null,
-                "zip": "47404"
+                "zip": "47404",
+                "lat": 39.2511,
+                "lng": -86.614
             },
             "contact": {
                 "phone": "812-994-6424",
@@ -81424,7 +81527,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "custy-law-firm",
@@ -81442,7 +81546,9 @@
                 "city": "Merrillville",
                 "address": "101 W. 84th Drive",
                 "address2": "Suite D",
-                "zip": "46410"
+                "zip": "46410",
+                "lat": 41.481,
+                "lng": -87.3164
             },
             "contact": {
                 "phone": "219-660-0450",
@@ -81506,6 +81612,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Valparaiso",
+                    "state": "IN",
+                    "zip": "46385",
+                    "address": "4004 Campbell Street, Suite 4",
+                    "phone": "(219) 286-7361",
+                    "lat": 41.4705,
+                    "lng": -87.1417
+                }
             ]
         },
         {
@@ -81524,7 +81641,9 @@
                 "city": "Indianapolis",
                 "address": "7210 Madison Ave.",
                 "address2": null,
-                "zip": "46227"
+                "zip": "46227",
+                "lat": 39.6791,
+                "lng": -86.1278
             },
             "contact": {
                 "phone": "317-528-9549",
@@ -81548,7 +81667,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marshall-p-whalley-associates-p-c",
@@ -81566,7 +81686,9 @@
                 "city": "Crown Point",
                 "address": "51 W 112th Ave",
                 "address2": null,
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-706-0859",
@@ -81605,7 +81727,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bellinger-law-office",
@@ -81623,7 +81746,9 @@
                 "city": "Fort Wayne",
                 "address": "116 East Berry Street",
                 "address2": "Suite 500",
-                "zip": "46802"
+                "zip": "46802",
+                "lat": 41.0655,
+                "lng": -85.1581
             },
             "contact": {
                 "phone": "260-704-9961",
@@ -81646,7 +81771,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ruckelshaus-kautzman-blackwell-bemis-duncan-llp",
@@ -81664,7 +81790,9 @@
                 "city": "Indianapolis",
                 "address": "135 N. Pennsylvania Street",
                 "address2": "Suite 1600",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-799-0922",
@@ -81700,7 +81828,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "westland-bennett-p-c",
@@ -81718,7 +81847,9 @@
                 "city": "Hammond",
                 "address": "2929 Carlson Drive",
                 "address2": "Suite 300",
-                "zip": "46323"
+                "zip": "46323",
+                "lat": 41.5884,
+                "lng": -87.4567
             },
             "contact": {
                 "phone": "219-806-7781",
@@ -81770,7 +81901,8 @@
                 "State Local and Municipal Law",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bernhardt-phillips-llp",
@@ -81788,7 +81920,9 @@
                 "city": "Indianapolis",
                 "address": "850 Massachusetts Avenue",
                 "address2": "Suite 180",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-314-6994",
@@ -81837,7 +81971,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gil-berry-law",
@@ -81855,7 +81990,9 @@
                 "city": "Indianapolis",
                 "address": "802 N. Delaware St",
                 "address2": null,
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-854-7434",
@@ -81879,7 +82016,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garrison-law-firm-llc",
@@ -81897,7 +82035,9 @@
                 "city": "Indianapolis",
                 "address": "9795 Crosspoint Blvd.",
                 "address2": "#101",
-                "zip": "46256"
+                "zip": "46256",
+                "lat": 39.9052,
+                "lng": -85.9913
             },
             "contact": {
                 "phone": "765-756-2975",
@@ -81957,6 +82097,17 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Anderson",
+                    "state": "IN",
+                    "zip": "46016",
+                    "address": "800 Main Street, Suite 212",
+                    "phone": "+17657562975",
+                    "lat": 40.1012,
+                    "lng": -85.6724
+                }
             ]
         },
         {
@@ -81975,7 +82126,9 @@
                 "city": "Indianapolis",
                 "address": "211 N Pennsylvania St",
                 "address2": "Suite 1660",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-687-2222",
@@ -82016,7 +82169,8 @@
                 "Wage and Hour",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ladendorf-fregiato-bigler",
@@ -82034,7 +82188,9 @@
                 "city": "Indianapolis",
                 "address": "5771 N. College Ave.",
                 "address2": null,
-                "zip": "46220"
+                "zip": "46220",
+                "lat": 39.8661,
+                "lng": -86.1017
             },
             "contact": {
                 "phone": "317-842-5800",
@@ -82056,6 +82212,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46250",
+                    "address": "7310 North Shadeland Ave.",
+                    "phone": "317-842-5800",
+                    "lat": 39.9114,
+                    "lng": -86.0707
+                }
             ]
         },
         {
@@ -82074,7 +82241,9 @@
                 "city": "Scottsburg",
                 "address": "59 E. Wardell St.",
                 "address2": null,
-                "zip": "47170"
+                "zip": "47170",
+                "lat": 38.6847,
+                "lng": -85.8716
             },
             "contact": {
                 "phone": "317-268-2945",
@@ -82110,6 +82279,17 @@
                 "Legal Malpractice",
                 "Litigation and Appeals",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greensburg",
+                    "state": "IN",
+                    "zip": "47240",
+                    "address": "230 N. Franklin St.",
+                    "phone": "317-268-2945",
+                    "lat": 39.318,
+                    "lng": -85.4792
+                }
             ]
         },
         {
@@ -82128,7 +82308,9 @@
                 "city": "South Bend",
                 "address": "926 E Wayne St",
                 "address2": "Suite 200",
-                "zip": "46617"
+                "zip": "46617",
+                "lat": 41.6833,
+                "lng": -86.2393
             },
             "contact": {
                 "phone": "574-303-6459",
@@ -82167,7 +82349,8 @@
                 "Divorce and Separation",
                 "Elder Law",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bonahoom-bobilya-llc",
@@ -82185,7 +82368,9 @@
                 "city": "Fort Wayne",
                 "address": "927 S. Harrison Street",
                 "address2": "Suite 200",
-                "zip": "46802"
+                "zip": "46802",
+                "lat": 41.0655,
+                "lng": -85.1581
             },
             "contact": {
                 "phone": "260-420-4055",
@@ -82230,7 +82415,8 @@
                 "Mergers and Acquisitions",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clendening-johnson-bohrer-p-c",
@@ -82248,7 +82434,9 @@
                 "city": "Bloomington",
                 "address": "409 W. Patterson Drive",
                 "address2": "Suite 205",
-                "zip": "47403"
+                "zip": "47403",
+                "lat": 39.079,
+                "lng": -86.6071
             },
             "contact": {
                 "phone": "812-994-6164",
@@ -82302,7 +82490,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parr-richey-frandsen-patterson-kruse-llp",
@@ -82320,7 +82509,9 @@
                 "city": "Indianapolis",
                 "address": "Capital Center North",
                 "address2": "251 North Illinois Street, Suite 1800",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-505-1381",
@@ -82402,6 +82593,26 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lebanon",
+                    "state": "IN",
+                    "zip": "46052",
+                    "address": "225 West Main Street, PO Box 668",
+                    "phone": "+13175051362",
+                    "lat": 40.0435,
+                    "lng": -86.4632
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60601",
+                    "address": "One East Wacker Drive, Suite 2600",
+                    "phone": "+13175051362",
+                    "lat": 41.885,
+                    "lng": -87.6224
+                }
             ]
         },
         {
@@ -82420,7 +82631,9 @@
                 "city": "Indianapolis",
                 "address": "47 S Meridian St",
                 "address2": "# 200",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-505-0890",
@@ -82441,7 +82654,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "church-church-hittle-antrim",
@@ -82459,7 +82673,9 @@
                 "city": "Noblesville",
                 "address": "Two North Ninth Street",
                 "address2": null,
-                "zip": "46060"
+                "zip": "46060",
+                "lat": 40.0712,
+                "lng": -85.9486
             },
             "contact": {
                 "phone": "317-773-2190",
@@ -82489,6 +82705,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fishers",
+                    "state": "IN",
+                    "zip": "46038",
+                    "address": "10765 Lantern Road, Suite 201",
+                    "phone": "(317) 773-2190",
+                    "lat": 39.9637,
+                    "lng": -86.0113
+                }
             ]
         },
         {
@@ -82507,7 +82734,9 @@
                 "city": "Indianapolis",
                 "address": "9795 Crosspoint Blvd",
                 "address2": "#185",
-                "zip": "46256"
+                "zip": "46256",
+                "lat": 39.9052,
+                "lng": -85.9913
             },
             "contact": {
                 "phone": "317-854-9726",
@@ -82538,7 +82767,8 @@
                 "Patents",
                 "Real Estate",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sarkisian-sarkisian-associates-p-c",
@@ -82556,7 +82786,9 @@
                 "city": "Portage",
                 "address": "3645 Willowcreek Road",
                 "address2": null,
-                "zip": "46368"
+                "zip": "46368",
+                "lat": 41.5913,
+                "lng": -87.1736
             },
             "contact": {
                 "phone": "219-999-9167",
@@ -82593,6 +82825,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Valparaiso",
+                    "state": "IN",
+                    "zip": "46385",
+                    "address": "3150 Morthland Drive",
+                    "phone": "+12199998361",
+                    "lat": 41.4705,
+                    "lng": -87.1417
+                }
             ]
         },
         {
@@ -82611,7 +82854,9 @@
                 "city": "Indianapolis",
                 "address": "303 N Alabama St.",
                 "address2": "Suite 300",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-505-0649",
@@ -82660,7 +82905,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeselskis-brinkerhoff-and-joseph-llc",
@@ -82678,7 +82924,9 @@
                 "city": "Indianapolis",
                 "address": "320 N. Meridian Street",
                 "address2": "Suite 428",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-537-7873",
@@ -82712,7 +82960,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kbar-legal-services-llp",
@@ -82730,7 +82979,9 @@
                 "city": "Carmel",
                 "address": "301 E Carmel Dr",
                 "address2": "G003",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-790-3404",
@@ -82761,7 +83012,8 @@
                 "Litigation and Appeals",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hollingsworth-law-group",
@@ -82779,7 +83031,9 @@
                 "city": "Carmel",
                 "address": "230 N. Rangeline Rd.",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "-317-DIV-ORCE3173486723",
@@ -82827,7 +83081,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brock-legal-llc",
@@ -82845,7 +83100,9 @@
                 "city": "Noblesville",
                 "address": "North Location",
                 "address2": null,
-                "zip": "46062"
+                "zip": "46062",
+                "lat": 40.062,
+                "lng": -86.0373
             },
             "contact": {
                 "phone": "317-981-8331",
@@ -82872,7 +83129,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Credit Repair"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "britton-law-llc",
@@ -82890,7 +83148,9 @@
                 "city": "South Bend",
                 "address": "712 E. Jefferson Blvd.",
                 "address2": null,
-                "zip": "46617"
+                "zip": "46617",
+                "lat": 41.6833,
+                "lng": -86.2393
             },
             "contact": {
                 "phone": "574-946-8545",
@@ -82921,7 +83181,8 @@
                 "Drug Crime",
                 "Real Estate",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-region-lawyers-inc",
@@ -82939,7 +83200,9 @@
                 "city": "Crown Point",
                 "address": "2080 N. Main Street",
                 "address2": "Suite 1",
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-885-3144",
@@ -82966,7 +83229,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bruce-bruce",
@@ -82984,7 +83248,9 @@
                 "city": "Muncie",
                 "address": "108 N. Liberty St.",
                 "address2": null,
-                "zip": "47305"
+                "zip": "47305",
+                "lat": 40.1953,
+                "lng": -85.3862
             },
             "contact": {
                 "phone": "765-286-1776",
@@ -83012,7 +83278,8 @@
                 "Adoption",
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garau-germano-p-c",
@@ -83030,7 +83297,9 @@
                 "city": "Indianapolis",
                 "address": "3710 Washington Boulevard",
                 "address2": null,
-                "zip": "46205"
+                "zip": "46205",
+                "lat": 39.8228,
+                "lng": -86.1299
             },
             "contact": {
                 "phone": "317-854-9724",
@@ -83072,7 +83341,8 @@
                 "Professional Malpractice",
                 "Sexual Abuse",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "deenik-lowe-llc",
@@ -83090,7 +83360,9 @@
                 "city": "Greenwood",
                 "address": "843 N. State Road 135",
                 "address2": "Suite B",
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "317-641-1309",
@@ -83129,7 +83401,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "darryn-l-duchon",
@@ -83147,7 +83420,9 @@
                 "city": "Indianapolis",
                 "address": "8445 Keystone Crossing",
                 "address2": "Suite 125, Connor Insuarance Building, Keystone Crossing Area, www.buckduchon.com",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-685-3970",
@@ -83177,7 +83452,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schad-law",
@@ -83195,7 +83471,9 @@
                 "city": "New Albany",
                 "address": "309 Pearl Street",
                 "address2": "Second Floor",
-                "zip": "47150"
+                "zip": "47150",
+                "lat": 38.2812,
+                "lng": -85.841
             },
             "contact": {
                 "phone": "812-671-9547",
@@ -83228,7 +83506,8 @@
                 "Personal Injury",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bumb-law-office-llc",
@@ -83246,7 +83525,9 @@
                 "city": "Evansville",
                 "address": "1010 Sycamore Street",
                 "address2": null,
-                "zip": "47708"
+                "zip": "47708",
+                "lat": 37.9728,
+                "lng": -87.5746
             },
             "contact": {
                 "phone": "812-994-4487",
@@ -83278,7 +83559,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "withered-burns-llp",
@@ -83296,7 +83578,9 @@
                 "city": "Lafayette",
                 "address": "427 Main Street",
                 "address2": "Suite 200",
-                "zip": "47902"
+                "zip": "47902",
+                "lat": 40.4168,
+                "lng": -86.875
             },
             "contact": {
                 "phone": "765-637-7984",
@@ -83335,7 +83619,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-joshua-d-byanski-llc",
@@ -83353,7 +83638,9 @@
                 "city": "Fort Wayne",
                 "address": "217 E. Washington Center Road",
                 "address2": "Stoney Creek",
-                "zip": "46825"
+                "zip": "46825",
+                "lat": 41.1487,
+                "lng": -85.1131
             },
             "contact": {
                 "phone": "260-755-3824",
@@ -83387,7 +83674,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crossroads-family-legal",
@@ -83405,7 +83693,9 @@
                 "city": "Indianapolis",
                 "address": "429 East Vermont Street",
                 "address2": "Suite L013",
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-765-1879",
@@ -83442,7 +83732,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vincent-m-campiti-attorney",
@@ -83460,7 +83751,9 @@
                 "city": "South Bend",
                 "address": "350 Columbia St",
                 "address2": null,
-                "zip": "46601"
+                "zip": "46601",
+                "lat": 41.6725,
+                "lng": -86.2533
             },
             "contact": {
                 "phone": "574-946-8763",
@@ -83488,7 +83781,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jeff-cardella-criminal-defense-attorney-expungement-lawyer",
@@ -83506,7 +83800,9 @@
                 "city": "Indianapolis",
                 "address": "350 Massachusetts Ave.",
                 "address2": "# 357",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-695-7700",
@@ -83533,7 +83829,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "capper-tulley-reimondo",
@@ -83551,7 +83848,9 @@
                 "city": "Crawfordsville",
                 "address": "131 N Green Street",
                 "address2": null,
-                "zip": "47933"
+                "zip": "47933",
+                "lat": 40.0259,
+                "lng": -86.8936
             },
             "contact": {
                 "phone": "765-362-7340",
@@ -83586,7 +83885,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hanley-adoption-law-group",
@@ -83604,7 +83904,9 @@
                 "city": "Indianapolis",
                 "address": "140 East 22nd Street",
                 "address2": "Suite A",
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-762-2436",
@@ -83628,7 +83930,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-carroll-norton-kent-p-c",
@@ -83646,7 +83949,9 @@
                 "city": "Evansville",
                 "address": "2230 West Franklin Street",
                 "address2": null,
-                "zip": "47712"
+                "zip": "47712",
+                "lat": 37.9442,
+                "lng": -87.6611
             },
             "contact": {
                 "phone": "812-205-2661",
@@ -83695,7 +84000,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-carrillo-reeder",
@@ -83713,7 +84019,9 @@
                 "city": "Anderson",
                 "address": "936 Meridian Street",
                 "address2": null,
-                "zip": "46016"
+                "zip": "46016",
+                "lat": 40.1012,
+                "lng": -85.6724
             },
             "contact": {
                 "phone": "765-393-8894",
@@ -83757,7 +84065,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cleveland-lehner-cassidy",
@@ -83775,7 +84084,9 @@
                 "city": "Indianapolis",
                 "address": "1901 Broad Ripple Avenue",
                 "address2": null,
-                "zip": "46220"
+                "zip": "46220",
+                "lat": 39.8661,
+                "lng": -86.1017
             },
             "contact": {
                 "phone": "317-765-2717",
@@ -83820,7 +84131,8 @@
                 "Wage and Hour",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-jensen-williams",
@@ -83838,7 +84150,9 @@
                 "city": "Indianapolis",
                 "address": "1101 N. Delaware Street",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-269-7799",
@@ -83879,6 +84193,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lawrence",
+                    "state": "IN",
+                    "zip": "46216",
+                    "address": "9165 Otis Ave.",
+                    "phone": "+13177990928",
+                    "lat": 39.8612,
+                    "lng": -86.0132
+                }
             ]
         },
         {
@@ -83897,7 +84222,9 @@
                 "city": "South Bend",
                 "address": "1717 South Bend Avenue",
                 "address2": null,
-                "zip": "46637"
+                "zip": "46637",
+                "lat": 41.7274,
+                "lng": -86.2452
             },
             "contact": {
                 "phone": "574-213-7475",
@@ -83939,7 +84266,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chambers-law-office-llc",
@@ -83957,7 +84285,9 @@
                 "city": "Indianapolis",
                 "address": "6612 E 75th Street",
                 "address2": "Suite 475",
-                "zip": "46250"
+                "zip": "46250",
+                "lat": 39.9114,
+                "lng": -86.0707
             },
             "contact": {
                 "phone": "317-854-8960",
@@ -83996,7 +84326,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "katie-charleston-law-pc",
@@ -84014,7 +84345,9 @@
                 "city": "Carmel",
                 "address": "1905 S. New Market Street",
                 "address2": "Suite 169",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "888-753-9247",
@@ -84041,6 +84374,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jacksonville",
+                    "state": "FL",
+                    "zip": "32223",
+                    "address": "12627 San Jose Blvd., Suite 504F",
+                    "phone": "+18448979016",
+                    "lat": 30.156,
+                    "lng": -81.6438
+                }
             ]
         },
         {
@@ -84059,7 +84403,9 @@
                 "city": "Carmel",
                 "address": "11550 N. Meridian St.",
                 "address2": "Suite 200",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-973-0237",
@@ -84091,7 +84437,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ciobanu-law-pc",
@@ -84109,7 +84456,9 @@
                 "city": "Indianapolis",
                 "address": "902 E. 66th St.",
                 "address2": null,
-                "zip": "46220"
+                "zip": "46220",
+                "lat": 39.8661,
+                "lng": -86.1017
             },
             "contact": {
                 "phone": "317-978-9980",
@@ -84137,7 +84486,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ciyou-associates-p-c",
@@ -84155,7 +84505,9 @@
                 "city": "Indianapolis",
                 "address": "320 N. Meridian St.",
                 "address2": "Suite 600",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-790-2810",
@@ -84180,7 +84532,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-cline-law-firm",
@@ -84198,7 +84551,9 @@
                 "city": "Carmel",
                 "address": "11450 N Meridian St",
                 "address2": "Suite 200",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-759-0016",
@@ -84229,7 +84584,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "c-c-coffin-coffin",
@@ -84247,7 +84603,9 @@
                 "city": "Martinsville",
                 "address": "289 S Main St",
                 "address2": null,
-                "zip": "46151"
+                "zip": "46151",
+                "lat": 39.4523,
+                "lng": -86.4672
             },
             "contact": {
                 "phone": "765-342-5506",
@@ -84274,7 +84632,8 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-melissa-winkler-york-llc",
@@ -84292,7 +84651,9 @@
                 "city": "Indianapolis",
                 "address": "4259 Shelby St.",
                 "address2": null,
-                "zip": "46227"
+                "zip": "46227",
+                "lat": 39.6791,
+                "lng": -86.1278
             },
             "contact": {
                 "phone": "317-781-1080",
@@ -84320,7 +84681,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cooke-law-firm",
@@ -84338,7 +84700,9 @@
                 "city": "Lafayette",
                 "address": "331 Columbia Street",
                 "address2": null,
-                "zip": "47901"
+                "zip": "47901",
+                "lat": 40.4176,
+                "lng": -86.8878
             },
             "contact": {
                 "phone": "765-270-3893",
@@ -84382,7 +84746,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coriden-coriden-llc",
@@ -84400,7 +84765,9 @@
                 "city": "Columbus",
                 "address": "445 5th Street",
                 "address2": "Suite 100",
-                "zip": "47201"
+                "zip": "47201",
+                "lat": 39.1917,
+                "lng": -86.0266
             },
             "contact": {
                 "phone": "855-614-9472",
@@ -84422,7 +84789,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jane-g-cotton",
@@ -84440,7 +84808,9 @@
                 "city": "Anderson",
                 "address": "2 West 8th St.",
                 "address2": null,
-                "zip": "46016"
+                "zip": "46016",
+                "lat": 40.1012,
+                "lng": -85.6724
             },
             "contact": {
                 "phone": "765-756-5580",
@@ -84466,7 +84836,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cox-koons-llp",
@@ -84484,7 +84855,9 @@
                 "city": "Greenwood",
                 "address": "704 S. State Road 135",
                 "address2": "Suite D#287",
-                "zip": "46143"
+                "zip": "46143",
+                "lat": 39.5928,
+                "lng": -86.1016
             },
             "contact": {
                 "phone": "317-622-0046",
@@ -84517,7 +84890,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hankey-marks-crider",
@@ -84535,7 +84909,9 @@
                 "city": "Indianapolis",
                 "address": "429 E Vermont Street",
                 "address2": "Suite 200",
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-634-8565",
@@ -84582,7 +84958,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "culotta-and-culotta-llp",
@@ -84600,7 +84977,9 @@
                 "city": "New Albany",
                 "address": "815 E. Market St.",
                 "address2": null,
-                "zip": "47150"
+                "zip": "47150",
+                "lat": 38.2812,
+                "lng": -85.841
             },
             "contact": {
                 "phone": "812-941-8886",
@@ -84625,7 +85004,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-nice-law-firm-llp",
@@ -84643,7 +85023,9 @@
                 "city": "Indianapolis",
                 "address": "1311 W. 96th Street",
                 "address2": "Suite 200",
-                "zip": "46260"
+                "zip": "46260",
+                "lat": 39.8945,
+                "lng": -86.1812
             },
             "contact": {
                 "phone": "317-268-2945",
@@ -84685,6 +85067,17 @@
                 "Legal Malpractice",
                 "Litigation and Appeals",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lebanon",
+                    "state": "IN",
+                    "zip": "46052",
+                    "address": "127 W. Main St., #320",
+                    "phone": "317-268-2945",
+                    "lat": 40.0435,
+                    "lng": -86.4632
+                }
             ]
         },
         {
@@ -84703,7 +85096,9 @@
                 "city": "Indianapolis",
                 "address": "10201 N. Illinois St.",
                 "address2": "Suite 500",
-                "zip": "46290"
+                "zip": "46290",
+                "lat": 39.9378,
+                "lng": -86.1649
             },
             "contact": {
                 "phone": "844-319-0861",
@@ -84740,6 +85135,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lafayette",
+                    "state": "IN",
+                    "zip": "47909",
+                    "address": "313 Columbia St.",
+                    "phone": "+18447610267",
+                    "lat": 40.3149,
+                    "lng": -86.8862
+                }
             ]
         },
         {
@@ -84758,7 +85164,9 @@
                 "city": "Indianapolis",
                 "address": "6602 E 75th Street",
                 "address2": "Suite 112",
-                "zip": "46250"
+                "zip": "46250",
+                "lat": 39.9114,
+                "lng": -86.0707
             },
             "contact": {
                 "phone": "317-854-7437",
@@ -84782,7 +85190,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pritzke-davis-llp",
@@ -84800,7 +85209,9 @@
                 "city": "Greenfield",
                 "address": "728 N. State Street",
                 "address2": "P.O. Box 39",
-                "zip": "46140"
+                "zip": "46140",
+                "lat": 39.8147,
+                "lng": -85.783
             },
             "contact": {
                 "phone": "317-660-9054",
@@ -84846,7 +85257,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-e-dearing-attorney-at-law",
@@ -84864,7 +85276,9 @@
                 "city": "Indianapolis",
                 "address": "921 E. 86th Street",
                 "address2": "Suite 203",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-608-6110",
@@ -84902,7 +85316,8 @@
                 "Probate",
                 "Real Estate",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "adam-d-decker-attorney-at-law-p-c",
@@ -84920,7 +85335,9 @@
                 "city": "Crown Point",
                 "address": "708 Merrillville Road",
                 "address2": null,
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-306-4837",
@@ -84953,7 +85370,8 @@
                 "Probate",
                 "Real Estate",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "devries-law-office",
@@ -84971,7 +85389,9 @@
                 "city": "Indianapolis",
                 "address": "1512 N. Delaware Street",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-495-3248",
@@ -85000,7 +85420,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hassler-kondras-miller-llp",
@@ -85018,7 +85439,9 @@
                 "city": "Terre Haute",
                 "address": "100 Cherry Street (Bayah Way)",
                 "address2": null,
-                "zip": "47807"
+                "zip": "47807",
+                "lat": 39.4697,
+                "lng": -87.4028
             },
             "contact": {
                 "phone": "877-656-7602",
@@ -85059,7 +85482,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bankruptcy-legal-services-of-portia-douglas",
@@ -85077,7 +85501,9 @@
                 "city": "Indianapolis",
                 "address": "70 E 91st St #108",
                 "address2": null,
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-581-9590",
@@ -85096,7 +85522,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hostetter-associates",
@@ -85114,7 +85541,9 @@
                 "city": "Brownsburg",
                 "address": "515 N Green St",
                 "address2": "Suite 200",
-                "zip": "46112"
+                "zip": "46112",
+                "lat": 39.8652,
+                "lng": -86.3828
             },
             "contact": {
                 "phone": "317-953-2313",
@@ -85162,7 +85591,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-moseley-martinez-llc",
@@ -85180,7 +85610,9 @@
                 "city": "Merrillville",
                 "address": "8002 Utah Street",
                 "address2": null,
-                "zip": "46410"
+                "zip": "46410",
+                "lat": 41.481,
+                "lng": -87.3164
             },
             "contact": {
                 "phone": "219-472-9936",
@@ -85214,6 +85646,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "South Bend",
+                    "state": "IN",
+                    "zip": "46601",
+                    "address": "115 N. William St., Suite 101",
+                    "phone": "574-707-8675",
+                    "lat": 41.6725,
+                    "lng": -86.2533
+                }
             ]
         },
         {
@@ -85232,7 +85675,9 @@
                 "city": "Carmel",
                 "address": "111 N Rangeline Rd",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-597-5880",
@@ -85261,7 +85706,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roberts-means-roncevic-kapela-llc",
@@ -85279,7 +85725,9 @@
                 "city": "Carmel",
                 "address": "12801 E. New Market Street",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-296-6847",
@@ -85318,7 +85766,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-flannery-law-llc",
@@ -85336,7 +85785,9 @@
                 "city": "Lawrenceburg",
                 "address": "318 Walnut Street",
                 "address2": null,
-                "zip": "47025"
+                "zip": "47025",
+                "lat": 39.1627,
+                "lng": -84.8914
             },
             "contact": {
                 "phone": "812-496-3666",
@@ -85367,7 +85818,8 @@
                 "Criminal Defense",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flood-family-law-llc",
@@ -85385,7 +85837,9 @@
                 "city": "Indianapolis",
                 "address": "7002 Graham Road",
                 "address2": "Suite 100",
-                "zip": "46220"
+                "zip": "46220",
+                "lat": 39.8661,
+                "lng": -86.1017
             },
             "contact": {
                 "phone": "317-505-1458",
@@ -85428,7 +85882,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "forbes-law-firm-llc",
@@ -85446,7 +85901,9 @@
                 "city": "Lafayette",
                 "address": "331 Columbia St.",
                 "address2": null,
-                "zip": "47901"
+                "zip": "47901",
+                "lat": 40.4176,
+                "lng": -86.8878
             },
             "contact": {
                 "phone": "765-388-9886",
@@ -85468,6 +85925,17 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mishawaka",
+                    "state": "IN",
+                    "zip": "46545",
+                    "address": "101 E Mishawaka Ave.",
+                    "phone": "765-388-9886",
+                    "lat": 41.6926,
+                    "lng": -86.1422
+                }
             ]
         },
         {
@@ -85486,7 +85954,9 @@
                 "city": "Indianapolis",
                 "address": "244 North College Avenue",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-765-2857",
@@ -85539,7 +86009,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fugate-gangstad-lowe-llc",
@@ -85557,7 +86028,9 @@
                 "city": "Carmel",
                 "address": "571 Monon Blvd.",
                 "address2": "Suite 200",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-829-6797",
@@ -85591,6 +86064,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sheboygan",
+                    "state": "WI",
+                    "zip": "53081",
+                    "address": "522 Fishermans Row",
+                    "phone": "317-829-6797",
+                    "lat": 43.707,
+                    "lng": -87.7431
+                }
             ]
         },
         {
@@ -85609,7 +86093,9 @@
                 "city": "Indianapolis",
                 "address": "8681 Jaffa Court E. Drive",
                 "address2": "#12",
-                "zip": "46260"
+                "zip": "46260",
+                "lat": 39.8945,
+                "lng": -86.1812
             },
             "contact": {
                 "phone": "317-505-0832",
@@ -85631,7 +86117,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-gaunt-law-office",
@@ -85649,7 +86136,9 @@
                 "city": "Martinsville",
                 "address": "62 East Morgan Street",
                 "address2": null,
-                "zip": "46151"
+                "zip": "46151",
+                "lat": 39.4523,
+                "lng": -86.4672
             },
             "contact": {
                 "phone": "765-343-6260",
@@ -85671,7 +86160,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thomas-j-gaunt-attorney-at-law",
@@ -85689,7 +86179,9 @@
                 "city": "Indianapolis",
                 "address": "1416 N. Pennsylvania St.",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-794-0351",
@@ -85711,7 +86203,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "langer-langer",
@@ -85729,7 +86222,9 @@
                 "city": "Valparaiso",
                 "address": "4 Indiana Ave",
                 "address2": null,
-                "zip": "46383"
+                "zip": "46383",
+                "lat": 41.4529,
+                "lng": -86.9983
             },
             "contact": {
                 "phone": "219-885-3956",
@@ -85763,7 +86258,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilley-law",
@@ -85781,7 +86277,9 @@
                 "city": "Indianapolis",
                 "address": "7817 Eyford Ct",
                 "address2": null,
-                "zip": "46236"
+                "zip": "46236",
+                "lat": 39.8858,
+                "lng": -85.9738
             },
             "contact": {
                 "phone": "765-270-3369",
@@ -85803,7 +86301,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harden-jackson-llc",
@@ -85821,7 +86320,9 @@
                 "city": "Carmel",
                 "address": "631 N. Rangeline Road",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-708-3934",
@@ -85858,7 +86359,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "golden-law-pc",
@@ -85876,7 +86378,9 @@
                 "city": "Fort Wayne",
                 "address": "822 Mill Lake Road",
                 "address2": null,
-                "zip": "46845"
+                "zip": "46845",
+                "lat": 41.2131,
+                "lng": -85.0993
             },
             "contact": {
                 "phone": "260-637-7100",
@@ -85898,6 +86402,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warsaw",
+                    "state": "IN",
+                    "zip": "46580",
+                    "address": "3578 Commerce Drive",
+                    "phone": "260-440-7634",
+                    "lat": 41.1988,
+                    "lng": -85.8784
+                }
             ]
         },
         {
@@ -85916,7 +86431,9 @@
                 "city": "Indianapolis",
                 "address": "3500 Depauw Blvd.",
                 "address2": "Suite 2100",
-                "zip": "46268"
+                "zip": "46268",
+                "lat": 39.8969,
+                "lng": -86.2324
             },
             "contact": {
                 "phone": "317-973-0881",
@@ -85955,7 +86472,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "adedoyin-gomih-law-llc",
@@ -85973,7 +86491,9 @@
                 "city": "Merrillville",
                 "address": "394-396 West 80th Place",
                 "address2": null,
-                "zip": "60461"
+                "zip": "60461",
+                "lat": 41.517,
+                "lng": -87.689
             },
             "contact": {
                 "phone": "219-791-0517",
@@ -85992,7 +86512,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roy-graham-law",
@@ -86010,7 +86531,9 @@
                 "city": "Bloomington",
                 "address": "3330 North Russell Road",
                 "address2": null,
-                "zip": "47408"
+                "zip": "47408",
+                "lat": 39.2436,
+                "lng": -86.4555
             },
             "contact": {
                 "phone": "812-269-2923",
@@ -86030,7 +86553,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grant-grant",
@@ -86048,7 +86572,9 @@
                 "city": "Indianapolis",
                 "address": "9247 N. Meridian St.",
                 "address2": "Suite 310",
-                "zip": "46260"
+                "zip": "46260",
+                "lat": 39.8945,
+                "lng": -86.1812
             },
             "contact": {
                 "phone": "317-854-9045",
@@ -86080,7 +86606,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greene-schultz-trial-lawyers",
@@ -86098,7 +86625,9 @@
                 "city": "Bloomington",
                 "address": "1508 South Walnut Street",
                 "address2": null,
-                "zip": "47401"
+                "zip": "47401",
+                "lat": 39.0794,
+                "lng": -86.4446
             },
             "contact": {
                 "phone": "812-994-7379",
@@ -86125,6 +86654,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46205",
+                    "address": "3730 N. Washington Blvd.",
+                    "phone": "+18129942836",
+                    "lat": 39.8228,
+                    "lng": -86.1299
+                }
             ]
         },
         {
@@ -86143,7 +86683,9 @@
                 "city": "Indianapolis",
                 "address": "8250 Haverstick Road",
                 "address2": "Suite 135",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-981-8297",
@@ -86178,7 +86720,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grubbs-law-office",
@@ -86196,7 +86739,9 @@
                 "city": "Fort Wayne",
                 "address": "5746 Coventry Lane",
                 "address2": null,
-                "zip": "46804"
+                "zip": "46804",
+                "lat": 41.0457,
+                "lng": -85.2319
             },
             "contact": {
                 "phone": "260-290-8953",
@@ -86223,7 +86768,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stephanie-jane-hahn-attorney-at-law-pc",
@@ -86241,7 +86787,9 @@
                 "city": "Indianapolis",
                 "address": "3815 River Crossing Parkway",
                 "address2": "Suite 100",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "855-391-7076",
@@ -86272,7 +86820,8 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joel-hand-law",
@@ -86290,7 +86839,9 @@
                 "city": "Indianapolis",
                 "address": "1512 North Delaware Street",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-505-0440",
@@ -86312,7 +86863,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-northside-law-firm",
@@ -86330,7 +86882,9 @@
                 "city": "Westfield",
                 "address": "17219 Foundation Parkway",
                 "address2": "Suite 100",
-                "zip": "46074"
+                "zip": "46074",
+                "lat": 40.0373,
+                "lng": -86.1659
             },
             "contact": {
                 "phone": "317-983-7127",
@@ -86367,7 +86921,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harper-and-harper-llc",
@@ -86385,7 +86940,9 @@
                 "city": "Valparaiso",
                 "address": "304 West US Highway 6",
                 "address2": "Suite A",
-                "zip": "46385"
+                "zip": "46385",
+                "lat": 41.4705,
+                "lng": -87.1417
             },
             "contact": {
                 "phone": "219-885-3688",
@@ -86442,7 +86999,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "luisa-white-law-llc",
@@ -86460,7 +87018,9 @@
                 "city": "Lafayette",
                 "address": "300 Main Street",
                 "address2": "Suite 600",
-                "zip": "47901"
+                "zip": "47901",
+                "lat": 40.4176,
+                "lng": -86.8878
             },
             "contact": {
                 "phone": "765-270-3605",
@@ -86494,7 +87054,8 @@
                 "Divorce and Separation",
                 "Drug Crime",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harshman-ponist-smith-rayl-llc",
@@ -86512,7 +87073,9 @@
                 "city": "Indianapolis",
                 "address": "3650 N Washington Blvd",
                 "address2": null,
-                "zip": "46205"
+                "zip": "46205",
+                "lat": 39.8228,
+                "lng": -86.1299
             },
             "contact": {
                 "phone": "317-550-4492",
@@ -86556,7 +87119,8 @@
                 "Litigation and Appeals",
                 "Wage and Hour",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-terry-kaiser-park-p-c",
@@ -86574,7 +87138,9 @@
                 "city": "Indianapolis",
                 "address": "8900 Keystone Crossing",
                 "address2": "Suite 550",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-231-1100",
@@ -86608,7 +87174,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-jason-jackson-assoc",
@@ -86626,7 +87193,9 @@
                 "city": "Lafayette",
                 "address": "710 Brown Street",
                 "address2": null,
-                "zip": "47901"
+                "zip": "47901",
+                "lat": 40.4176,
+                "lng": -86.8878
             },
             "contact": {
                 "phone": "765-270-4125",
@@ -86665,6 +87234,17 @@
                 "Family Law",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Noblesville",
+                    "state": "IN",
+                    "zip": "46060",
+                    "address": "499 South 9th St",
+                    "phone": "+13177902883",
+                    "lat": 40.0712,
+                    "lng": -85.9486
+                }
             ]
         },
         {
@@ -86683,7 +87263,9 @@
                 "city": "Brownsburg",
                 "address": "401 East Main Street",
                 "address2": null,
-                "zip": "46112"
+                "zip": "46112",
+                "lat": 39.8652,
+                "lng": -86.3828
             },
             "contact": {
                 "phone": "317-982-5007",
@@ -86723,7 +87305,8 @@
                 "Litigation and Appeals",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "herrin-leach-llc",
@@ -86741,7 +87324,9 @@
                 "city": "Indianapolis",
                 "address": "3815 River Crossing Parkway",
                 "address2": "Suite 100",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-566-2174",
@@ -86765,6 +87350,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Noblesville",
+                    "state": "IN",
+                    "zip": "46060",
+                    "address": "52 S. 9th Street, Suite 4",
+                    "phone": "317-566-2174",
+                    "lat": 40.0712,
+                    "lng": -85.9486
+                }
             ]
         },
         {
@@ -86783,7 +87379,9 @@
                 "city": "Crown Point",
                 "address": "1401 East Greenwood Ave",
                 "address2": "Suite 300",
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-366-9700",
@@ -86838,7 +87436,8 @@
                 "Probate",
                 "Truck Accident",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "b-hicks-law-pllc",
@@ -86856,7 +87455,9 @@
                 "city": "Indianapolis",
                 "address": "2201 E 46th Street",
                 "address2": "Suite 198",
-                "zip": "46205"
+                "zip": "46205",
+                "lat": 39.8228,
+                "lng": -86.1299
             },
             "contact": {
                 "phone": "317-207-2999",
@@ -86893,6 +87494,17 @@
                 "Drug Crime",
                 "Family Law",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20036",
+                    "address": "2001 L Street NW, Suite 500",
+                    "phone": "+13177903402",
+                    "lat": 38.9069,
+                    "lng": -77.0414
+                }
             ]
         },
         {
@@ -86911,7 +87523,9 @@
                 "city": "Fort Wayne",
                 "address": "301 West Jefferson Boulevard",
                 "address2": "Suite 200",
-                "zip": "46802"
+                "zip": "46802",
+                "lat": 41.0655,
+                "lng": -85.1581
             },
             "contact": {
                 "phone": "260-423-9411",
@@ -86943,6 +87557,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bloomington",
+                    "state": "IN",
+                    "zip": "47408",
+                    "address": "5010 North Stone Mill Road, Suite 100",
+                    "phone": "(812) 333-1225",
+                    "lat": 39.2436,
+                    "lng": -86.4555
+                }
             ]
         },
         {
@@ -86961,7 +87586,9 @@
                 "city": "Schererville",
                 "address": "425 West Lincoln Highway",
                 "address2": null,
-                "zip": "46375"
+                "zip": "46375",
+                "lat": 41.4881,
+                "lng": -87.4437
             },
             "contact": {
                 "phone": "219-319-5239",
@@ -86985,7 +87612,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "horvath-pelkey-llp",
@@ -87003,7 +87631,9 @@
                 "city": "Indianapolis",
                 "address": "10475 Crosspoint Blvd",
                 "address2": "Suite 250",
-                "zip": "46256"
+                "zip": "46256",
+                "lat": 39.9052,
+                "lng": -85.9913
             },
             "contact": {
                 "phone": "317-493-8630",
@@ -87064,7 +87694,8 @@
                 "Sex Crime",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-robert-j-hunt-llc",
@@ -87082,7 +87713,9 @@
                 "city": "Carmel",
                 "address": "1905 S. New Market St.",
                 "address2": "Ste 168",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-981-7658",
@@ -87113,7 +87746,8 @@
                 "Employment Rights",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ickes-law-llc",
@@ -87131,7 +87765,9 @@
                 "city": "Indianapolis",
                 "address": "PO Box 33436",
                 "address2": null,
-                "zip": "46203"
+                "zip": "46203",
+                "lat": 39.7285,
+                "lng": -86.0978
             },
             "contact": {
                 "phone": "812-785-1443",
@@ -87152,7 +87788,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rockhill-pinnick-llp",
@@ -87170,7 +87807,9 @@
                 "city": "Warsaw",
                 "address": "105 East Main Street",
                 "address2": null,
-                "zip": "46580"
+                "zip": "46580",
+                "lat": 41.1988,
+                "lng": -85.8784
             },
             "contact": {
                 "phone": "574-946-8941",
@@ -87238,7 +87877,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jackson-oglesby-law-llc",
@@ -87256,7 +87896,9 @@
                 "city": "Indianapolis",
                 "address": "6520 E. 82nd Street",
                 "address2": "Suite 101",
-                "zip": "46250"
+                "zip": "46250",
+                "lat": 39.9114,
+                "lng": -86.0707
             },
             "contact": {
                 "phone": "317-288-0147",
@@ -87281,6 +87923,17 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Foreclosure and Alternatives"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46254",
+                    "address": "5550 Lafayette Rd., Suite 400",
+                    "phone": "317-288-0147",
+                    "lat": 39.8447,
+                    "lng": -86.2663
+                }
             ]
         },
         {
@@ -87299,7 +87952,9 @@
                 "city": "South Bend",
                 "address": "1620 South Bend Avenue",
                 "address2": null,
-                "zip": "46617"
+                "zip": "46617",
+                "lat": 41.6833,
+                "lng": -86.2393
             },
             "contact": {
                 "phone": "574-247-1234",
@@ -87336,7 +87991,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lytle-legal-group",
@@ -87354,7 +88010,9 @@
                 "city": "Carmel",
                 "address": "11495 N Pennsylvania St",
                 "address2": "Ste 235",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-799-1592",
@@ -87377,7 +88035,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-marcel-katz",
@@ -87395,7 +88054,9 @@
                 "city": "Lafayette",
                 "address": "424 Columbia St",
                 "address2": null,
-                "zip": "47901"
+                "zip": "47901",
+                "lat": 40.4176,
+                "lng": -86.8878
             },
             "contact": {
                 "phone": "765-423-2651",
@@ -87470,7 +88131,8 @@
                 "Sex Crime",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keating-legal-llc",
@@ -87488,7 +88150,9 @@
                 "city": "Carmel",
                 "address": "303 Congressional Blvd",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": null,
@@ -87501,7 +88165,8 @@
             "attorneys": [
                 "Jillian C. Keating"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "the-keuling-law-firm",
@@ -87519,7 +88184,9 @@
                 "city": "Carmel",
                 "address": "160 W. Carmel Dr",
                 "address2": "Ste. 229",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-973-1374",
@@ -87552,7 +88219,8 @@
                 "Family Law",
                 "Immigration",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kleven-law-llc",
@@ -87570,7 +88238,9 @@
                 "city": "Fort Wayne",
                 "address": "229 West Berry Street",
                 "address2": "Suite 200",
-                "zip": "46802"
+                "zip": "46802",
+                "lat": 41.0655,
+                "lng": -85.1581
             },
             "contact": {
                 "phone": "260-407-7077",
@@ -87592,7 +88262,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krahulik-injury-counsel-llc",
@@ -87610,7 +88281,9 @@
                 "city": "Indianapolis",
                 "address": "320 N. Meridian Street",
                 "address2": "Suite 428",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-678-9708",
@@ -87639,7 +88312,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-andrew-l-kraemer",
@@ -87657,7 +88331,9 @@
                 "city": "Crown Point",
                 "address": "1404 Greenwood Ave.",
                 "address2": "Suite 200",
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-663-6395",
@@ -87676,7 +88352,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sallee-law-llc",
@@ -87694,7 +88371,9 @@
                 "city": "Indianapolis",
                 "address": "902 Virginia Ave",
                 "address2": "Ste 200",
-                "zip": "46203"
+                "zip": "46203",
+                "lat": 39.7285,
+                "lng": -86.0978
             },
             "contact": {
                 "phone": "317-790-2944",
@@ -87730,7 +88409,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lammers-law-group-llc",
@@ -87748,7 +88428,9 @@
                 "city": "Carmel",
                 "address": "880 Monon Green Blvd",
                 "address2": "Suite 101",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-643-6963",
@@ -87779,7 +88461,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-shane-o-donnell",
@@ -87797,7 +88480,9 @@
                 "city": "Crown Point",
                 "address": "2100 N. Main Street",
                 "address2": "Suite 208",
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-885-3462",
@@ -87823,7 +88508,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-claire-e-lewis",
@@ -87841,7 +88527,9 @@
                 "city": "Indianapolis",
                 "address": "115 N. Girls School Road",
                 "address2": null,
-                "zip": "46214"
+                "zip": "46214",
+                "lat": 39.7951,
+                "lng": -86.2877
             },
             "contact": {
                 "phone": "317-765-2367",
@@ -87866,7 +88554,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lewis-disability-law",
@@ -87884,7 +88573,9 @@
                 "city": "Indianapolis",
                 "address": "428 North College Ave.",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-543-7356",
@@ -87908,7 +88599,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lieb-law-office",
@@ -87926,7 +88618,9 @@
                 "city": "Franklin",
                 "address": "150 N. Main Street",
                 "address2": null,
-                "zip": "46131"
+                "zip": "46131",
+                "lat": 39.4828,
+                "lng": -86.0578
             },
             "contact": {
                 "phone": "317-643-5515",
@@ -87954,7 +88648,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "baker-lindsey-sadler",
@@ -87972,7 +88667,9 @@
                 "city": "Indianapolis",
                 "address": "8440 Woodfield Crossing Blvd",
                 "address2": "Suite 490",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-495-3072",
@@ -88016,7 +88713,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-lohmeyer-law-office",
@@ -88034,7 +88732,9 @@
                 "city": "New Albany",
                 "address": "430 W. 1st St.",
                 "address2": null,
-                "zip": "47150"
+                "zip": "47150",
+                "lat": 38.2812,
+                "lng": -85.841
             },
             "contact": {
                 "phone": "812-948-9211",
@@ -88061,7 +88761,8 @@
                 "Bankruptcy",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "locke-law-firm-llc",
@@ -88079,7 +88780,9 @@
                 "city": "Indianapolis",
                 "address": "2805 E. 96th St.",
                 "address2": "Ste. A",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-296-7045",
@@ -88109,6 +88812,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46227",
+                    "address": "6825 S. Madison Ave., Ste. B",
+                    "phone": "+13172966513",
+                    "lat": 39.6791,
+                    "lng": -86.1278
+                }
             ]
         },
         {
@@ -88127,7 +88841,9 @@
                 "city": "Indianapolis",
                 "address": "9465 Counselors Row",
                 "address2": "Suite 200",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-961-9504",
@@ -88177,6 +88893,26 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "South Bend",
+                    "state": "IN",
+                    "zip": "46617",
+                    "address": "1251 North Eddy Street, Suite 200",
+                    "phone": "574-413-9570",
+                    "lat": 41.6833,
+                    "lng": -86.2393
+                },
+                {
+                    "city": "Orlando",
+                    "state": "FL",
+                    "zip": "34786",
+                    "address": "9100 Conroy Windermere Road, Suite 200",
+                    "phone": "407-686-1842",
+                    "lat": 28.4802,
+                    "lng": -81.556
+                }
             ]
         },
         {
@@ -88195,7 +88931,9 @@
                 "city": "South Bend",
                 "address": "401 E. Colfax Avenue",
                 "address2": "Suite 180",
-                "zip": "46617"
+                "zip": "46617",
+                "lat": 41.6833,
+                "lng": -86.2393
             },
             "contact": {
                 "phone": "574-946-8069",
@@ -88226,7 +88964,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "adam-s-lutzke-law-offices",
@@ -88244,7 +88983,9 @@
                 "city": "Indianapolis",
                 "address": "6525 E. 82nd Street",
                 "address2": "Suite 102",
-                "zip": "46250"
+                "zip": "46250",
+                "lat": 39.9114,
+                "lng": -86.0707
             },
             "contact": {
                 "phone": "317-258-7809",
@@ -88274,7 +89015,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "church-church-hittle-antrim-attorneys-at-law",
@@ -88292,7 +89034,9 @@
                 "city": "Fishers",
                 "address": "10765 Lantern Road",
                 "address2": "Suite 201",
-                "zip": "46038"
+                "zip": "46038",
+                "lat": 39.9637,
+                "lng": -86.0113
             },
             "contact": {
                 "phone": "317-773-2190",
@@ -88323,6 +89067,17 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Noblesville",
+                    "state": "IN",
+                    "zip": "46060",
+                    "address": "Two North Ninth Street",
+                    "phone": "(317) 773-2190",
+                    "lat": 40.0712,
+                    "lng": -85.9486
+                }
             ]
         },
         {
@@ -88341,7 +89096,9 @@
                 "city": "Indianapolis",
                 "address": "10293 N. Meridian St.",
                 "address2": "Suite 300",
-                "zip": "46290"
+                "zip": "46290",
+                "lat": 39.9378,
+                "lng": -86.1649
             },
             "contact": {
                 "phone": "463-296-7700",
@@ -88366,7 +89123,8 @@
                 "Employment Law (Employer)",
                 "Employment Rights",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marcus-law-firm-llc",
@@ -88384,7 +89142,9 @@
                 "city": "Carmel",
                 "address": "12741 Horseferry Rd",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-578-2017",
@@ -88409,7 +89169,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maryan-law-llc",
@@ -88427,7 +89188,9 @@
                 "city": "Bargersville",
                 "address": "5 North Baldwin Street",
                 "address2": null,
-                "zip": "46106"
+                "zip": "46106",
+                "lat": 39.507,
+                "lng": -86.1951
             },
             "contact": {
                 "phone": "317-969-7873",
@@ -88459,7 +89222,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zoss-law-llc",
@@ -88477,7 +89241,9 @@
                 "city": "Evansville",
                 "address": "2405 N. Green River Road",
                 "address2": null,
-                "zip": "47715"
+                "zip": "47715",
+                "lat": 37.9708,
+                "lng": -87.4848
             },
             "contact": {
                 "phone": "812-994-2966",
@@ -88504,7 +89270,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "faegre-drinker-biddle-reath-llp",
@@ -88522,7 +89289,9 @@
                 "city": "Indianapolis",
                 "address": "300 North Meridian Street",
                 "address2": "Suite 2500",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-237-0300",
@@ -88554,6 +89323,125 @@
             ],
             "official_practice_area": [
                 "Antitrust"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46240",
+                    "address": "600 E. 96th Street, Suite 600",
+                    "phone": "(317) 569-9600",
+                    "lat": 39.9051,
+                    "lng": -86.1159
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60606",
+                    "address": "311 S. Wacker Drive, Suite 4300",
+                    "phone": "(312) 212-6500",
+                    "lat": 41.8829,
+                    "lng": -87.6368
+                },
+                {
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "zip": "50309",
+                    "address": "801 Grand Avenue, 33rd Floor",
+                    "phone": "(515) 248-9000",
+                    "lat": 41.5848,
+                    "lng": -93.6208
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20005",
+                    "address": "1500 K Street, NorthWest, Suite 1100",
+                    "phone": "(202) 230-5000",
+                    "lat": 38.9042,
+                    "lng": -77.0318
+                },
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "zip": "19103",
+                    "address": "One Logan Square, Ste. 2000",
+                    "phone": "(215) 988-2700",
+                    "lat": 39.9538,
+                    "lng": -75.1763
+                },
+                {
+                    "city": "Princeton",
+                    "state": "NJ",
+                    "zip": "08542",
+                    "address": "105 College Road East, Post Office Box 627",
+                    "phone": "(609) 716-6500",
+                    "lat": 40.3545,
+                    "lng": -74.6587
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10036",
+                    "address": "1177 Avenue of the Americas, 41st Floor",
+                    "phone": "(212) 248-3140",
+                    "lat": 40.7595,
+                    "lng": -73.9899
+                },
+                {
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "06103",
+                    "address": "One Constitution Plaza, 5th Floor",
+                    "phone": "(860) 509-8900",
+                    "lat": 41.7652,
+                    "lng": -72.672
+                },
+                {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "zip": "75201",
+                    "address": "1717 Main St., Ste. 5400",
+                    "phone": "(469) 357-2500",
+                    "lat": 32.7877,
+                    "lng": -96.7999
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80203",
+                    "address": "3200 Wells Fargo Center 1700 Lincoln Street",
+                    "phone": "(303) 607-3500",
+                    "lat": 39.732,
+                    "lng": -104.9825
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90025",
+                    "address": "11766 Wilshire Boulevard, Suite 750",
+                    "phone": "(310) 500-2090",
+                    "lat": 34.0454,
+                    "lng": -118.4436
+                },
+                {
+                    "city": "Wilmington",
+                    "state": "DE",
+                    "zip": "19801",
+                    "address": "222 Delaware Ave., Ste. 1410",
+                    "phone": "(302) 467-4200",
+                    "lat": 39.7205,
+                    "lng": -75.5175
+                },
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55402",
+                    "address": "2200 Wells Fargo Center, 90 S. Seventh Street",
+                    "phone": "(612) 766-7000",
+                    "lat": 44.9759,
+                    "lng": -93.2722
+                }
             ]
         },
         {
@@ -88572,7 +89460,9 @@
                 "city": "Indianapolis",
                 "address": "22 E. Washington St.",
                 "address2": "Suite 610",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-505-0842",
@@ -88614,7 +89504,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilson-melton-llc",
@@ -88632,7 +89523,9 @@
                 "city": "Indianapolis",
                 "address": "5226 South East Street",
                 "address2": "Suite A-5",
-                "zip": "46227"
+                "zip": "46227",
+                "lat": 39.6791,
+                "lng": -86.1278
             },
             "contact": {
                 "phone": "317-854-8789",
@@ -88662,7 +89555,8 @@
             "official_practice_area": [
                 "Discrimination",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-dax-j-miller-llc",
@@ -88680,7 +89574,9 @@
                 "city": "Evansville",
                 "address": "The Old Courthouse",
                 "address2": "201 N.W. Fourth Street, Suite 111",
-                "zip": "47708"
+                "zip": "47708",
+                "lat": 37.9728,
+                "lng": -87.5746
             },
             "contact": {
                 "phone": "812-748-8173",
@@ -88706,7 +89602,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Collections"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-mary-beth-mock",
@@ -88724,7 +89621,9 @@
                 "city": "Madison",
                 "address": "217 E. 2nd St.",
                 "address2": null,
-                "zip": "47250"
+                "zip": "47250",
+                "lat": 38.8347,
+                "lng": -85.3646
             },
             "contact": {
                 "phone": "812-913-9975",
@@ -88746,7 +89645,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shartzer-law-firm-llc",
@@ -88764,7 +89664,9 @@
                 "city": "Indianapolis",
                 "address": "156 E. Market Street",
                 "address2": "10th Floor, Suite 1000",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-296-8267",
@@ -88804,7 +89706,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "moore-associates-pc",
@@ -88822,7 +89725,9 @@
                 "city": "Indianapolis",
                 "address": "1301 East Washington Street",
                 "address2": "Suite 200",
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-550-1413",
@@ -88864,7 +89769,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pinyerd-disability-law-llc",
@@ -88882,7 +89788,9 @@
                 "city": "Indianapolis",
                 "address": "9201 N. Meridian Street",
                 "address2": "Suite 210",
-                "zip": "46260"
+                "zip": "46260",
+                "lat": 39.8945,
+                "lng": -86.1812
             },
             "contact": {
                 "phone": "317-348-1800",
@@ -88910,6 +89818,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Veteran's Benefits"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "zip": "44129",
+                    "address": "9701 Brookpark Road",
+                    "phone": "317-857-0006",
+                    "lat": 41.3869,
+                    "lng": -81.7352
+                }
             ]
         },
         {
@@ -88928,7 +89847,9 @@
                 "city": "Elkhart",
                 "address": "221 W Lexington Ave",
                 "address2": "Floor 2, P.O. Box 2992",
-                "zip": "46516"
+                "zip": "46516",
+                "lat": 41.665,
+                "lng": -85.9657
             },
             "contact": {
                 "phone": "574-413-9661",
@@ -88954,7 +89875,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heather-l-george-myers-attorney-at-law",
@@ -88972,7 +89894,9 @@
                 "city": "Greenwood",
                 "address": "107 N State Rd 135",
                 "address2": "Suite 204",
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "317-643-5496",
@@ -89010,7 +89934,8 @@
                 "Litigation and Appeals",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nelson-law-group-llc",
@@ -89028,7 +89953,9 @@
                 "city": "Zionsville",
                 "address": "75 East Pine St.",
                 "address2": null,
-                "zip": "46077"
+                "zip": "46077",
+                "lat": 39.9829,
+                "lng": -86.2885
             },
             "contact": {
                 "phone": "317-296-6364",
@@ -89052,7 +89979,8 @@
             "official_practice_area": [
                 "Environmental Law",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-amie-newlon",
@@ -89070,7 +89998,9 @@
                 "city": "Corydon",
                 "address": "1875 Gardner Lane NW",
                 "address2": "Suite 200",
-                "zip": "47112"
+                "zip": "47112",
+                "lat": 38.185,
+                "lng": -86.1533
             },
             "contact": {
                 "phone": "812-994-6545",
@@ -89093,7 +90023,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joseph-nugent-attorney-at-law",
@@ -89111,7 +90042,9 @@
                 "city": "Hobart",
                 "address": "7225 East Ridge Road",
                 "address2": null,
-                "zip": "46342"
+                "zip": "46342",
+                "lat": 41.5185,
+                "lng": -87.2363
             },
             "contact": {
                 "phone": "219-343-7546",
@@ -89133,7 +90066,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-ryan-law-firm",
@@ -89151,7 +90085,9 @@
                 "city": "Indianapolis",
                 "address": "1901 Broad Ripple Avenue",
                 "address2": null,
-                "zip": "46220"
+                "zip": "46220",
+                "lat": 39.8661,
+                "lng": -86.1017
             },
             "contact": {
                 "phone": "317-255-1000",
@@ -89173,7 +90109,8 @@
             ],
             "official_practice_area": [
                 "Health Care Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeff-d-oliphant",
@@ -89191,7 +90128,9 @@
                 "city": "Indianapolis",
                 "address": "9100 Keystone Crossing",
                 "address2": "Suite 870",
-                "zip": "40960"
+                "zip": "40960",
+                "lat": 41.8781,
+                "lng": -87.6298
             },
             "contact": {
                 "phone": "317-683-0132",
@@ -89215,7 +90154,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "patel-defense-llc",
@@ -89233,7 +90173,9 @@
                 "city": "Noblesville",
                 "address": "499 South 9th Street",
                 "address2": "Suite A",
-                "zip": "46060"
+                "zip": "46060",
+                "lat": 40.0712,
+                "lng": -85.9486
             },
             "contact": {
                 "phone": "317-643-5741",
@@ -89270,6 +90212,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "zip": "46204",
+                    "address": "350 Massachusetts Avenue, Ste 300",
+                    "phone": "+13176435442",
+                    "lat": 39.7728,
+                    "lng": -86.1594
+                }
             ]
         },
         {
@@ -89288,7 +90241,9 @@
                 "city": "Crown Point",
                 "address": "9800 Connecticut Drive",
                 "address2": null,
-                "zip": "46307"
+                "zip": "46307",
+                "lat": 41.3969,
+                "lng": -87.3248
             },
             "contact": {
                 "phone": "219-999-8995",
@@ -89308,6 +90263,17 @@
             ],
             "official_practice_area": [
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fishers",
+                    "state": "IN",
+                    "zip": "46037",
+                    "address": "8950 Fitness Lane, Suite 100",
+                    "phone": "+12199999095",
+                    "lat": 39.9594,
+                    "lng": -85.9457
+                }
             ]
         },
         {
@@ -89326,7 +90292,9 @@
                 "city": "Kokomo",
                 "address": "105 North Buckeye Street",
                 "address2": null,
-                "zip": "46901"
+                "zip": "46901",
+                "lat": 40.5249,
+                "lng": -86.1758
             },
             "contact": {
                 "phone": "765-450-6851",
@@ -89364,7 +90332,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "terry-legal-group-llc",
@@ -89382,7 +90351,9 @@
                 "city": "Carmel",
                 "address": "301 East Carmel Drive",
                 "address2": "Suite C300",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "855-349-4326",
@@ -89409,7 +90380,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-a-plantz-associates-llc",
@@ -89427,7 +90399,9 @@
                 "city": "Merrillville",
                 "address": "8105 Georgia Street",
                 "address2": null,
-                "zip": "46410"
+                "zip": "46410",
+                "lat": 41.481,
+                "lng": -87.3164
             },
             "contact": {
                 "phone": "219-979-1546",
@@ -89485,7 +90459,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "powless-law-firm-p-c",
@@ -89503,7 +90478,9 @@
                 "city": "Indianapolis",
                 "address": "8901 Otis Ave",
                 "address2": "Suite 125",
-                "zip": "46216"
+                "zip": "46216",
+                "lat": 39.8612,
+                "lng": -86.0132
             },
             "contact": {
                 "phone": "833-308-0321",
@@ -89535,7 +90512,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wallace-law-firm",
@@ -89553,7 +90531,9 @@
                 "city": "Covington",
                 "address": "303 Washington Street",
                 "address2": "P.O. Box 129",
-                "zip": "47932"
+                "zip": "47932",
+                "lat": 40.1075,
+                "lng": -87.4114
             },
             "contact": {
                 "phone": "765-410-0007",
@@ -89604,6 +90584,17 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "IN",
+                    "zip": "47872",
+                    "address": "114 S. Market Street",
+                    "phone": "765-410-0007",
+                    "lat": 39.78,
+                    "lng": -87.1975
+                }
             ]
         },
         {
@@ -89622,7 +90613,9 @@
                 "city": "Anderson",
                 "address": "421 West 9th Street",
                 "address2": null,
-                "zip": "46016"
+                "zip": "46016",
+                "lat": 40.1012,
+                "lng": -85.6724
             },
             "contact": {
                 "phone": "765-270-3796",
@@ -89643,7 +90636,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "renner-law-office-criminal-lawyer-prenuptial-agreement-divorce-attorney",
@@ -89661,7 +90655,9 @@
                 "city": "Indianapolis",
                 "address": "1512 N Delaware St",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-608-3968",
@@ -89686,7 +90682,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "william-r-richards-p-c",
@@ -89704,7 +90701,9 @@
                 "city": "Indianapolis",
                 "address": "8465 Keystone Crossing",
                 "address2": "#212",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-528-9572",
@@ -89739,7 +90738,8 @@
                 "Tax Increment Financing",
                 "Tax Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eric-l-risk-attorney-at-law",
@@ -89757,7 +90757,9 @@
                 "city": "Greenwood",
                 "address": "200 S. Madison Ave.",
                 "address2": null,
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "317-300-1204",
@@ -89781,7 +90783,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zentz-law-llc",
@@ -89799,7 +90802,9 @@
                 "city": "Indianapolis",
                 "address": "7212 N. Shadeland Avenue",
                 "address2": "Suite 103",
-                "zip": "46250"
+                "zip": "46250",
+                "lat": 39.9114,
+                "lng": -86.0707
             },
             "contact": {
                 "phone": "317-220-6056",
@@ -89839,6 +90844,17 @@
                 "Family Law",
                 "Probate",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Noblesville",
+                    "state": "IN",
+                    "zip": "46060",
+                    "address": "10 S. 9th Street, Suite 12",
+                    "phone": "317-220-6056",
+                    "lat": 40.0712,
+                    "lng": -85.9486
+                }
             ]
         },
         {
@@ -89857,7 +90873,9 @@
                 "city": "New Albany",
                 "address": "907 East Main Street",
                 "address2": null,
-                "zip": "47150"
+                "zip": "47150",
+                "lat": 38.2812,
+                "lng": -85.841
             },
             "contact": {
                 "phone": "812-945-2770",
@@ -89882,6 +90900,17 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Madison",
+                    "state": "IN",
+                    "zip": "47250",
+                    "address": "220 Village Square Center, Unit B",
+                    "phone": "812-945-2770",
+                    "lat": 38.8347,
+                    "lng": -85.3646
+                }
             ]
         },
         {
@@ -89900,7 +90929,9 @@
                 "city": "La Porte",
                 "address": "609 Michigan Avenue",
                 "address2": null,
-                "zip": "46350"
+                "zip": "46350",
+                "lat": 41.6218,
+                "lng": -86.7393
             },
             "contact": {
                 "phone": "219-883-2912",
@@ -89926,7 +90957,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-melissa-l-rohrer",
@@ -89944,7 +90976,9 @@
                 "city": "Merrillville",
                 "address": "240 E. 90th Drive",
                 "address2": null,
-                "zip": "46410"
+                "zip": "46410",
+                "lat": 41.481,
+                "lng": -87.3164
             },
             "contact": {
                 "phone": "219-791-1200",
@@ -89965,7 +90999,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "theodoros-rooth-p-c",
@@ -89983,7 +91018,9 @@
                 "city": "Merrillville",
                 "address": "8750 Broadway",
                 "address2": "#A",
-                "zip": "46410"
+                "zip": "46410",
+                "lat": 41.481,
+                "lng": -87.3164
             },
             "contact": {
                 "phone": "219-883-2981",
@@ -90013,7 +91050,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "villarrubia-rosenberger-p-c",
@@ -90031,7 +91069,9 @@
                 "city": "Indianapolis",
                 "address": "6349 S. East St.",
                 "address2": null,
-                "zip": "46227"
+                "zip": "46227",
+                "lat": 39.6791,
+                "lng": -86.1278
             },
             "contact": {
                 "phone": "463-225-9821",
@@ -90057,7 +91097,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bradley-j-salmon-attorney-at-law",
@@ -90075,7 +91116,9 @@
                 "city": "Evansville",
                 "address": "7505 Eagle Crest Blvd",
                 "address2": null,
-                "zip": "47715"
+                "zip": "47715",
+                "lat": 37.9708,
+                "lng": -87.4848
             },
             "contact": {
                 "phone": "812-297-5556",
@@ -90096,7 +91139,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sapp-law-office-llc",
@@ -90114,7 +91158,9 @@
                 "city": "Indianapolis",
                 "address": "450 East 96th Street",
                 "address2": "Suite 500",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-818-5591",
@@ -90143,7 +91189,8 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-law-office-and-mediation-center",
@@ -90161,7 +91208,9 @@
                 "city": "Kokomo",
                 "address": "122 North Main Street",
                 "address2": null,
-                "zip": "46901"
+                "zip": "46901",
+                "lat": 40.5249,
+                "lng": -86.1758
             },
             "contact": {
                 "phone": "765-450-9837",
@@ -90193,7 +91242,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shapiro-shapiro-law-office-l-l-p",
@@ -90211,7 +91261,9 @@
                 "city": "Bloomington",
                 "address": "810 South Auto Mall Road",
                 "address2": null,
-                "zip": "47401"
+                "zip": "47401",
+                "lat": 39.0794,
+                "lng": -86.4446
             },
             "contact": {
                 "phone": "812-994-7660",
@@ -90234,7 +91286,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-curtis-e-shirley-llc",
@@ -90252,7 +91305,9 @@
                 "city": "Carmel",
                 "address": "1905 South New Market Street",
                 "address2": "Suite 200",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-439-5648",
@@ -90273,7 +91328,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "george-a-simpson-attorney-at-law",
@@ -90291,7 +91347,9 @@
                 "city": "Indianapolis",
                 "address": "6402 Oaklandon Rd.",
                 "address2": null,
-                "zip": "46236"
+                "zip": "46236",
+                "lat": 39.8858,
+                "lng": -85.9738
             },
             "contact": {
                 "phone": "317-826-3988",
@@ -90322,7 +91380,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "slater-law-office-llc",
@@ -90340,7 +91399,9 @@
                 "city": "Carmel",
                 "address": "600 East Carmel Drive",
                 "address2": "Suite 128",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-516-6961",
@@ -90368,7 +91429,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-legal-llc",
@@ -90386,7 +91448,9 @@
                 "city": "Noblesville",
                 "address": "861 Conner Street",
                 "address2": null,
-                "zip": "46060"
+                "zip": "46060",
+                "lat": 40.0712,
+                "lng": -85.9486
             },
             "contact": {
                 "phone": "317-533-7465",
@@ -90416,7 +91480,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greg-spencer-law",
@@ -90434,7 +91499,9 @@
                 "city": "Indianapolis",
                 "address": "50 E 91st Street",
                 "address2": "Ste 102",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-918-5982",
@@ -90474,7 +91541,8 @@
                 "Father's Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kime-stork-llc-attorneys-at-law",
@@ -90492,7 +91560,9 @@
                 "city": "Munster",
                 "address": "1116 Melbrook Drive",
                 "address2": null,
-                "zip": "46321"
+                "zip": "46321",
+                "lat": 41.5505,
+                "lng": -87.503
             },
             "contact": {
                 "phone": "219-343-7349",
@@ -90538,7 +91608,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "beth-sullivan-summers-attorney-at-law",
@@ -90556,7 +91627,9 @@
                 "city": "Mooresville",
                 "address": "9274 North Romine Rd.",
                 "address2": null,
-                "zip": "46158"
+                "zip": "46158",
+                "lat": 39.5818,
+                "lng": -86.367
             },
             "contact": {
                 "phone": "317-981-8064",
@@ -90578,7 +91651,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "swenson-associates-pc",
@@ -90596,7 +91670,9 @@
                 "city": "Carmel",
                 "address": "301 East Carmel Drive",
                 "address2": "Suite C400",
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-564-4848",
@@ -90627,7 +91703,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rob-king-associates-trial-lawyers",
@@ -90645,7 +91722,9 @@
                 "city": "Indianapolis",
                 "address": "320 N Meridian St",
                 "address2": "Suite 906",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-916-0000",
@@ -90673,7 +91752,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-timmons-law-llc",
@@ -90691,7 +91771,9 @@
                 "city": "Indianapolis",
                 "address": "1512 N Delaware St",
                 "address2": null,
-                "zip": "46202"
+                "zip": "46202",
+                "lat": 39.7807,
+                "lng": -86.1664
             },
             "contact": {
                 "phone": "317-762-9457",
@@ -90724,7 +91806,8 @@
                 "Family Law",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "toland-law-firm",
@@ -90742,7 +91825,9 @@
                 "city": "Greenwood",
                 "address": "313 Western Blvd.",
                 "address2": "Suite B",
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "317-921-0094",
@@ -90767,7 +91852,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hahn-walz-attorneys-at-law",
@@ -90785,7 +91871,9 @@
                 "city": "South Bend",
                 "address": "509 W. Washington Ave.",
                 "address2": null,
-                "zip": "46601"
+                "zip": "46601",
+                "lat": 41.6725,
+                "lng": -86.2533
             },
             "contact": {
                 "phone": "574-400-8702",
@@ -90812,7 +91900,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dturner-legal-llc",
@@ -90830,7 +91919,9 @@
                 "city": "Indianapolis",
                 "address": "333 N Alabama St",
                 "address2": "Suite 350-325",
-                "zip": "46204"
+                "zip": "46204",
+                "lat": 39.7728,
+                "lng": -86.1594
             },
             "contact": {
                 "phone": "317-426-1149",
@@ -90852,7 +91943,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-john-d-walls-llc",
@@ -90870,7 +91962,9 @@
                 "city": "Carmel",
                 "address": "973 Keystone Way",
                 "address2": null,
-                "zip": "46032"
+                "zip": "46032",
+                "lat": 39.9727,
+                "lng": -86.1771
             },
             "contact": {
                 "phone": "317-810-0073",
@@ -90890,7 +91984,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walterman-legal",
@@ -90908,7 +92003,9 @@
                 "city": "Greenwood",
                 "address": "200 S. Madison Ave.",
                 "address2": null,
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "317-749-0353",
@@ -90944,7 +92041,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-r-waterfill-attorney-at-law-p-c",
@@ -90962,7 +92060,9 @@
                 "city": "Plainfield",
                 "address": "6425 East County Rd. 600 S.",
                 "address2": "Ste.",
-                "zip": "46168"
+                "zip": "46168",
+                "lat": 39.6824,
+                "lng": -86.4105
             },
             "contact": {
                 "phone": "317-501-6060",
@@ -90985,7 +92085,8 @@
                 "Business and Commercial Law",
                 "Employment Rights",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olsen-white-llp",
@@ -91003,7 +92104,9 @@
                 "city": "Evansville",
                 "address": "123 Locust Street",
                 "address2": null,
-                "zip": "47708"
+                "zip": "47708",
+                "lat": 37.9728,
+                "lng": -87.5746
             },
             "contact": {
                 "phone": "812-423-3143",
@@ -91026,7 +92129,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-lindsey-williams",
@@ -91044,7 +92148,9 @@
                 "city": "Greenwood",
                 "address": "107 N State Road 135",
                 "address2": "Suite 204",
-                "zip": "46142"
+                "zip": "46142",
+                "lat": 39.61,
+                "lng": -86.1785
             },
             "contact": {
                 "phone": "463-225-4431",
@@ -91078,7 +92184,8 @@
                 "Family Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-wolcott-law-firm-llc",
@@ -91096,7 +92203,9 @@
                 "city": "Indianapolis",
                 "address": "450 E. 96th St.",
                 "address2": "Suite 5105",
-                "zip": "46240"
+                "zip": "46240",
+                "lat": 39.9051,
+                "lng": -86.1159
             },
             "contact": {
                 "phone": "317-981-8084",
@@ -91132,7 +92241,8 @@
                 "Wage and Hour",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-chet-zawalich",
@@ -91150,7 +92260,9 @@
                 "city": "South Bend",
                 "address": "828 East Colfax Ave.",
                 "address2": null,
-                "zip": "46617"
+                "zip": "46617",
+                "lat": 41.6833,
+                "lng": -86.2393
             },
             "contact": {
                 "phone": "574-699-9913",
@@ -91183,7 +92295,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

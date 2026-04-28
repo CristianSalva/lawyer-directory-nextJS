@@ -64513,7 +64513,9 @@
                 "city": "Baltimore",
                 "address": "347 N Charles St",
                 "address2": null,
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "443-576-5345",
@@ -64548,7 +64550,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "atwell-law-llc",
@@ -64566,7 +64569,9 @@
                 "city": "Easton",
                 "address": "21 North Hanson Street",
                 "address2": "Suite 102",
-                "zip": "21601"
+                "zip": "21601",
+                "lat": 38.7917,
+                "lng": -76.048
             },
             "contact": {
                 "phone": "410-443-0403",
@@ -64597,7 +64602,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kma-law-office",
@@ -64615,7 +64621,9 @@
                 "city": "Severna Park",
                 "address": "540 Ritchie Highway",
                 "address2": "Suite 201",
-                "zip": "21146"
+                "zip": "21146",
+                "lat": 39.0742,
+                "lng": -76.5652
             },
             "contact": {
                 "phone": "410-886-6825",
@@ -64663,7 +64671,8 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stuart-c-axilbund-attorney-at-law",
@@ -64681,7 +64690,9 @@
                 "city": "Towson",
                 "address": "1122 Kenilworth Dr",
                 "address2": "Suite 112",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-886-7570",
@@ -64737,7 +64748,8 @@
                 "Military Divorce",
                 "Real Estate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "awbf-law-p-c",
@@ -64755,7 +64767,9 @@
                 "city": "Rockville",
                 "address": "1401 Rockville Pike",
                 "address2": "Suite 650",
-                "zip": "20852"
+                "zip": "20852",
+                "lat": 39.0526,
+                "lng": -77.1232
             },
             "contact": {
                 "phone": "240-728-2202",
@@ -64814,6 +64828,35 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "McLean",
+                    "state": "VA",
+                    "zip": "22102",
+                    "address": "7918 Jones Branch Drive, 4th Floor",
+                    "phone": "240-728-2202",
+                    "lat": 38.9599,
+                    "lng": -77.2249
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20005",
+                    "address": "700 12th Street, NW, Suite 700",
+                    "phone": "240-728-2202",
+                    "lat": 38.9042,
+                    "lng": -77.0318
+                },
+                {
+                    "city": "Columbia",
+                    "state": "MD",
+                    "zip": "21044",
+                    "address": "10211 Wincopin Cir, Suite 620",
+                    "phone": "240-728-2202",
+                    "lat": 39.2044,
+                    "lng": -76.8814
+                }
             ]
         },
         {
@@ -64832,7 +64875,9 @@
                 "city": "Rockville",
                 "address": "1401 Rockville Pike",
                 "address2": "Suite 650",
-                "zip": "20852"
+                "zip": "20852",
+                "lat": 39.0526,
+                "lng": -77.1232
             },
             "contact": {
                 "phone": "301-338-8181",
@@ -64881,7 +64926,8 @@
                 "Litigation and Appeals",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hcb-law-llc",
@@ -64899,7 +64945,9 @@
                 "city": "Towson",
                 "address": "528 East Joppa Rd.",
                 "address2": null,
-                "zip": "21286"
+                "zip": "21286",
+                "lat": 39.4146,
+                "lng": -76.5718
             },
             "contact": {
                 "phone": "410-886-7573",
@@ -64935,7 +64983,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rodier-family-law",
@@ -64953,7 +65002,9 @@
                 "city": "Bel Air",
                 "address": "5 S. Hickory Avenue",
                 "address2": null,
-                "zip": "21014"
+                "zip": "21014",
+                "lat": 39.5382,
+                "lng": -76.3526
             },
             "contact": {
                 "phone": "410-803-1839",
@@ -64994,7 +65045,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mister-winter-bartlett-llc",
@@ -65012,7 +65064,9 @@
                 "city": "Timonium",
                 "address": "30 East Padonia Rd.",
                 "address2": "Suite 404",
-                "zip": "21093"
+                "zip": "21093",
+                "lat": 39.4376,
+                "lng": -76.6387
             },
             "contact": {
                 "phone": "410-673-4714",
@@ -65044,7 +65098,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shawn-d-bartley-and-associates-llc",
@@ -65062,7 +65117,9 @@
                 "city": "Silver Spring",
                 "address": "8730 Georgia Avenue",
                 "address2": "Suite 610",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "301-741-4123",
@@ -65086,7 +65143,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "simpson-law-pa",
@@ -65104,7 +65162,9 @@
                 "city": "Spencerville",
                 "address": "2000 Spencerville Road",
                 "address2": null,
-                "zip": "20868"
+                "zip": "20868",
+                "lat": 39.1224,
+                "lng": -76.9691
             },
             "contact": {
                 "phone": "301-743-0415",
@@ -65135,7 +65195,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bates-garcia-p-c",
@@ -65153,7 +65214,9 @@
                 "city": "Baltimore",
                 "address": "201 North Charles Street",
                 "address2": "Suite 1900",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-814-4600",
@@ -65178,7 +65241,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kevin-l-beard-p-a",
@@ -65196,7 +65260,9 @@
                 "city": "Catonsville",
                 "address": "614 Old Edmondson Ave",
                 "address2": "Suite 101",
-                "zip": "21228"
+                "zip": "21228",
+                "lat": 39.2675,
+                "lng": -76.7446
             },
             "contact": {
                 "phone": "410-763-2616",
@@ -65235,7 +65301,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jc-law",
@@ -65253,7 +65320,9 @@
                 "city": "Linthicum Heights",
                 "address": "999 Corporate Blvd",
                 "address2": "Ste. 100",
-                "zip": "21090"
+                "zip": "21090",
+                "lat": 39.2063,
+                "lng": -76.6686
             },
             "contact": {
                 "phone": "-888-JCL-AW10",
@@ -65287,6 +65356,35 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "199 East Montgomery Ave., Suite 100",
+                    "phone": "(888) JCLAW-10",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20004",
+                    "address": "601 Pennsylvania Ave NW, South Building, Ste 900",
+                    "phone": "(888) JCLAW-10",
+                    "lat": 38.8924,
+                    "lng": -77.0206
+                },
+                {
+                    "city": "King Of Prussia",
+                    "state": "PA",
+                    "zip": "19406",
+                    "address": "10 Freedom Business Center Drive, Ste. 102",
+                    "phone": "(888) JCLAW-10",
+                    "lat": 40.0929,
+                    "lng": -75.3944
+                }
             ]
         },
         {
@@ -65305,7 +65403,9 @@
                 "city": "Greenbelt",
                 "address": "6404 Ivy Lane",
                 "address2": "Suite 400",
-                "zip": "20770"
+                "zip": "20770",
+                "lat": 39.0016,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "240-956-6374",
@@ -65346,6 +65446,17 @@
                 "Employment Rights",
                 "Sexual Harassment",
                 "Whistleblower and Qui Tam"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "111 Rockville Pike, Suite 975",
+                    "phone": "+12408581848",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                }
             ]
         },
         {
@@ -65364,7 +65475,9 @@
                 "city": "Columbia",
                 "address": "10440 Little Patuxent Parkway",
                 "address2": "Suite 300",
-                "zip": "21044"
+                "zip": "21044",
+                "lat": 39.2044,
+                "lng": -76.8814
             },
             "contact": {
                 "phone": "410-497-5947",
@@ -65415,6 +65528,62 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21202",
+                    "address": "400 East Pratt Street, 8th Floor",
+                    "phone": "443-743-3381",
+                    "lat": 39.2958,
+                    "lng": -76.6078
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20036",
+                    "address": "1050 Connecticut Ave NW, Suite 500",
+                    "phone": "202-618-1873",
+                    "lat": 38.9069,
+                    "lng": -77.0414
+                },
+                {
+                    "city": "Fairfax",
+                    "state": "VA",
+                    "zip": "22031",
+                    "address": "8280 Willow Oaks Corporate Dr, Suite 600",
+                    "phone": "(571) 490-8269",
+                    "lat": 38.8589,
+                    "lng": -77.2614
+                },
+                {
+                    "city": "Harrisburg",
+                    "state": "PA",
+                    "zip": "17111",
+                    "address": "2225 Sycamore Street, Suite 755",
+                    "phone": "(717) 251-5029",
+                    "lat": 40.2685,
+                    "lng": -76.7891
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10018",
+                    "address": "462 7th Ave, Floor 6",
+                    "phone": "(917) 983-0886",
+                    "lat": 40.7553,
+                    "lng": -73.9967
+                },
+                {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "zip": "33602",
+                    "address": "400 North Ashley Drive, Suite 1900",
+                    "phone": "(813) 946-6339",
+                    "lat": 27.9495,
+                    "lng": -82.4612
+                }
             ]
         },
         {
@@ -65433,7 +65602,9 @@
                 "city": "Towson",
                 "address": "210 West Pennsylvania Avenue",
                 "address2": "Suite 100-F",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-337-7770",
@@ -65465,7 +65636,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilbert-employment-law-p-c",
@@ -65483,7 +65655,9 @@
                 "city": "Silver Spring",
                 "address": "8403 Colesville Road",
                 "address2": "Suite 1000",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "844-279-2046",
@@ -65524,6 +65698,26 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Whistleblower and Qui Tam"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89101",
+                    "address": "610 South Ninth Street",
+                    "phone": "+18772542149",
+                    "lat": 36.1736,
+                    "lng": -115.1264
+                },
+                {
+                    "city": "Honolulu",
+                    "state": "HI",
+                    "zip": "96813",
+                    "address": "745 Fort Street, Suite 311",
+                    "phone": "+18772542149",
+                    "lat": 21.3286,
+                    "lng": -157.8286
+                }
             ]
         },
         {
@@ -65542,7 +65736,9 @@
                 "city": "Silver Spring",
                 "address": "8757 Georgia Avenue",
                 "address2": "Suite 440",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "301-859-0669",
@@ -65574,7 +65770,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-andrei-blakely",
@@ -65592,7 +65789,9 @@
                 "city": "Baltimore",
                 "address": "145 W Ostend St.",
                 "address2": null,
-                "zip": "21230"
+                "zip": "21230",
+                "lat": 39.2643,
+                "lng": -76.6217
             },
             "contact": {
                 "phone": "240-534-1894",
@@ -65616,7 +65815,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bulman-dunie-burke-feld-chtd",
@@ -65634,7 +65834,9 @@
                 "city": "Bethesda",
                 "address": "4610 Elm St.",
                 "address2": null,
-                "zip": "20815"
+                "zip": "20815",
+                "lat": 38.9842,
+                "lng": -77.0791
             },
             "contact": {
                 "phone": "301-539-2816",
@@ -65668,7 +65870,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-miller-canby",
@@ -65686,7 +65889,9 @@
                 "city": "Rockville",
                 "address": "200-B Monroe Street",
                 "address2": null,
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-684-4317",
@@ -65736,7 +65941,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bodley-defense",
@@ -65754,7 +65960,9 @@
                 "city": "Ocean City",
                 "address": "6200 Coastal Highway",
                 "address2": "Suite 200",
-                "zip": "21842"
+                "zip": "21842",
+                "lat": 38.3872,
+                "lng": -75.1024
             },
             "contact": {
                 "phone": "410-820-4301",
@@ -65777,7 +65985,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tracy-miller-law-llc",
@@ -65795,7 +66004,9 @@
                 "city": "Columbia",
                 "address": "10632 Little Patuxent Parkway",
                 "address2": "Suite 236",
-                "zip": "21044"
+                "zip": "21044",
+                "lat": 39.2044,
+                "lng": -76.8814
             },
             "contact": {
                 "phone": "410-941-4760",
@@ -65837,7 +66048,8 @@
                 "Family Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bortmes-legal-services-llc",
@@ -65855,7 +66067,9 @@
                 "city": "Rockville",
                 "address": "11 N. Washington Street",
                 "address2": "Suite 210",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-771-1606",
@@ -65876,6 +66090,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chevy Chase",
+                    "state": "MD",
+                    "zip": "20815",
+                    "address": "5425 Wisconsin Avenue, Suite 600",
+                    "phone": "(301) 352-9333",
+                    "lat": 38.9842,
+                    "lng": -77.0791
+                }
             ]
         },
         {
@@ -65894,7 +66119,9 @@
                 "city": "Bethesda",
                 "address": "7315 Wisconsin Avenue",
                 "address2": "Suite 205 East",
-                "zip": "20814"
+                "zip": "20814",
+                "lat": 39.0048,
+                "lng": -77.1025
             },
             "contact": {
                 "phone": "202-223-1934",
@@ -65918,7 +66145,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccabe-russell-pa",
@@ -65936,7 +66164,9 @@
                 "city": "Fulton",
                 "address": "8171 Maple Lawn Blvd",
                 "address2": "Suite 350",
-                "zip": "20759"
+                "zip": "20759",
+                "lat": 39.1623,
+                "lng": -76.9278
             },
             "contact": {
                 "phone": "443-472-4850",
@@ -65970,6 +66200,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "199 E Montgomery Ave, Suite 100",
+                    "phone": "240-763-3099",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                }
             ]
         },
         {
@@ -65988,7 +66229,9 @@
                 "city": "Largo",
                 "address": "1300 Caraway Court",
                 "address2": "Suite 202",
-                "zip": "20774"
+                "zip": "20774",
+                "lat": 38.8922,
+                "lng": -76.768
             },
             "contact": {
                 "phone": "301-883-8888",
@@ -66016,7 +66259,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pickett-law-llc",
@@ -66034,7 +66278,9 @@
                 "city": "Bowie",
                 "address": "16701 Melford Boulevard",
                 "address2": "Suite 400",
-                "zip": "20715"
+                "zip": "20715",
+                "lat": 38.9926,
+                "lng": -76.7389
             },
             "contact": {
                 "phone": "301-850-1436",
@@ -66057,6 +66303,17 @@
             ],
             "official_practice_area": [
                 "Collections"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Prince Frederick",
+                    "state": "MD",
+                    "zip": "20678",
+                    "address": "264 Merrimac Court, P.O. Box 590",
+                    "phone": "301-850-1436",
+                    "lat": 38.5088,
+                    "lng": -76.5956
+                }
             ]
         },
         {
@@ -66075,7 +66332,9 @@
                 "city": "Annapolis",
                 "address": "183 Harry S. Truman Parkway",
                 "address2": "Suite 104",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "410-934-4813",
@@ -66108,6 +66367,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bowie",
+                    "state": "MD",
+                    "zip": "20716",
+                    "address": "4201 Mitchellville Road, Suite 403",
+                    "phone": "+14109466643",
+                    "lat": 38.9267,
+                    "lng": -76.7118
+                }
             ]
         },
         {
@@ -66126,7 +66396,9 @@
                 "city": "Frederick",
                 "address": "5100 Buckeystown Pike",
                 "address2": "Suite 250",
-                "zip": "21704"
+                "zip": "21704",
+                "lat": 39.3442,
+                "lng": -77.3764
             },
             "contact": {
                 "phone": "240-534-1875",
@@ -66174,7 +66446,8 @@
                 "Wage and Hour",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burnett-injury-group",
@@ -66192,7 +66465,9 @@
                 "city": "Annapolis",
                 "address": "2661 Riva Road",
                 "address2": "Building 1000, Suite 1010",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "443-576-5132",
@@ -66233,6 +66508,17 @@
                 "Professional Malpractice",
                 "Sexual Abuse",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Largo",
+                    "state": "MD",
+                    "zip": "20774",
+                    "address": "1300 Mercantile Ln, Ste 136-A",
+                    "phone": "+14435765132",
+                    "lat": 38.8922,
+                    "lng": -76.768
+                }
             ]
         },
         {
@@ -66251,7 +66537,9 @@
                 "city": "Frederick",
                 "address": "7100 Guilford Dr.",
                 "address2": "Suite 2059, (Within the Venture X Complex)",
-                "zip": "21704"
+                "zip": "21704",
+                "lat": 39.3442,
+                "lng": -77.3764
             },
             "contact": {
                 "phone": "301-874-9030",
@@ -66274,7 +66562,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hijazi-carroll",
@@ -66292,7 +66581,9 @@
                 "city": "Bowie",
                 "address": "3231 Superior Lane",
                 "address2": "Suite A-26",
-                "zip": "20715"
+                "zip": "20715",
+                "lat": 38.9926,
+                "lng": -76.7389
             },
             "contact": {
                 "phone": "301-684-6248",
@@ -66323,6 +66614,17 @@
                 "Land Use and Zoning",
                 "Landlord and Tenant",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20001",
+                    "address": "20 F Street NW, 7th Floor",
+                    "phone": "+13016846248",
+                    "lat": 38.9107,
+                    "lng": -77.0167
+                }
             ]
         },
         {
@@ -66341,7 +66643,9 @@
                 "city": "Columbia",
                 "address": "8840 Stanford Blvd",
                 "address2": "Suite 1800",
-                "zip": "21045"
+                "zip": "21045",
+                "lat": 39.2078,
+                "lng": -76.8264
             },
             "contact": {
                 "phone": "443-535-6940",
@@ -66370,7 +66674,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "potter-law-llc",
@@ -66388,7 +66693,9 @@
                 "city": "Bowie",
                 "address": "17251 Melford Blvd.",
                 "address2": "Suite 101",
-                "zip": "20715"
+                "zip": "20715",
+                "lat": 38.9926,
+                "lng": -76.7389
             },
             "contact": {
                 "phone": "301-453-8955",
@@ -66417,7 +66724,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jaime-a-cheret-esquire",
@@ -66435,7 +66743,9 @@
                 "city": "Catonsville",
                 "address": "6328 Baltimore National Pike",
                 "address2": "Suite 200",
-                "zip": "21228"
+                "zip": "21228",
+                "lat": 39.2675,
+                "lng": -76.7446
             },
             "contact": {
                 "phone": "410-394-9126",
@@ -66465,7 +66775,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-and-scott-p-a",
@@ -66483,7 +66794,9 @@
                 "city": "Elkton",
                 "address": "109 East Main Street",
                 "address2": null,
-                "zip": "21921"
+                "zip": "21921",
+                "lat": 39.6171,
+                "lng": -75.8677
             },
             "contact": {
                 "phone": "800-655-4352",
@@ -66515,7 +66828,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chisholm-law-group-llc",
@@ -66533,7 +66847,9 @@
                 "city": "Bethesda",
                 "address": "4550 Montgomery Avenue",
                 "address2": "Suite 900N",
-                "zip": "20814"
+                "zip": "20814",
+                "lat": 39.0048,
+                "lng": -77.1025
             },
             "contact": {
                 "phone": "844-704-0337",
@@ -66567,6 +66883,26 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "McLean",
+                    "state": "VA",
+                    "zip": "22102",
+                    "address": "1750 Tysons Boulevard, Suite 1500",
+                    "phone": "+18887377605",
+                    "lat": 38.9599,
+                    "lng": -77.2249
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10151",
+                    "address": "745 Fifth Avenue, Suite 500",
+                    "phone": "+18887377605",
+                    "lat": 40.7644,
+                    "lng": -73.9754
+                }
             ]
         },
         {
@@ -66585,7 +66921,9 @@
                 "city": "Baltimore",
                 "address": "20 South Charles Street",
                 "address2": "Suite 1102",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-763-2077",
@@ -66626,7 +66964,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "collins-legal-group-llc",
@@ -66644,7 +66983,9 @@
                 "city": "Towson",
                 "address": "1122 Kenilworth Dr.",
                 "address2": "Suite 507",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-787-6912",
@@ -66683,7 +67024,8 @@
                 "Professional Malpractice",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maronick-law-llc",
@@ -66701,7 +67043,9 @@
                 "city": "Glen Burnie",
                 "address": "7418 Baltimore Annapolis Blvd",
                 "address2": null,
-                "zip": "21061"
+                "zip": "21061",
+                "lat": 39.1626,
+                "lng": -76.6399
             },
             "contact": {
                 "phone": "410-886-7983",
@@ -66750,6 +67094,17 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21201",
+                    "address": "220 N. Liberty Street",
+                    "phone": "+14108867802",
+                    "lat": 39.2954,
+                    "lng": -76.6239
+                }
             ]
         },
         {
@@ -66768,7 +67123,9 @@
                 "city": "Silver Spring",
                 "address": "8720 Georgia Avenue",
                 "address2": "Suite 701",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "301-587-9170",
@@ -66791,7 +67148,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "baltimore-city-law-dept",
@@ -66809,7 +67167,9 @@
                 "city": "Baltimore",
                 "address": "100 N Holliday St",
                 "address2": "101 City Hall",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-396-3968",
@@ -66833,7 +67193,8 @@
                 "Joanne L Davis",
                 "Frank C Derr"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "chad-edward-cos-llc",
@@ -66851,7 +67212,9 @@
                 "city": "Parkville",
                 "address": "8101 Harford Road",
                 "address2": null,
-                "zip": "21234"
+                "zip": "21234",
+                "lat": 39.3919,
+                "lng": -76.5295
             },
             "contact": {
                 "phone": "410-449-4781",
@@ -66894,7 +67257,8 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-patrick-crawford",
@@ -66912,7 +67276,9 @@
                 "city": "Annapolis",
                 "address": "170 West Street",
                 "address2": null,
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "410-705-7725",
@@ -66947,7 +67313,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmidt-dailey-o-neill-l-l-c",
@@ -66965,7 +67332,9 @@
                 "city": "Baltimore",
                 "address": "300 E. Lombard Street",
                 "address2": "Suite 1440",
-                "zip": "21202"
+                "zip": "21202",
+                "lat": 39.2958,
+                "lng": -76.6078
             },
             "contact": {
                 "phone": "410-783-1296",
@@ -66995,7 +67364,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-andrew-m-dansicker-llc",
@@ -67013,7 +67383,9 @@
                 "city": "Hunt Valley",
                 "address": "Executive Plaza II",
                 "address2": "11350 McCormick Road, Suite 705",
-                "zip": "21031"
+                "zip": "21031",
+                "lat": 39.4861,
+                "lng": -76.6575
             },
             "contact": {
                 "phone": "410-946-1223",
@@ -67039,7 +67411,8 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Sexual Harassment"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "darby-law-group-llc",
@@ -67057,7 +67430,9 @@
                 "city": "Hunt Valley",
                 "address": "201 International Circle",
                 "address2": "Suite 500",
-                "zip": "21030"
+                "zip": "21030",
+                "lat": 39.4919,
+                "lng": -76.665
             },
             "contact": {
                 "phone": "888-662-3011",
@@ -67086,7 +67461,8 @@
                 "Personal Injury",
                 "Railroad Worker Injury and FELA",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-gerstenfield-demirji-pc",
@@ -67104,7 +67480,9 @@
                 "city": "Silver Spring",
                 "address": "8720 Georgia Avenue",
                 "address2": "Suite 301",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "240-269-5900",
@@ -67138,7 +67516,8 @@
                 "Federal and White Collar Crimes",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "snee-lutche-helmlinger-p-a",
@@ -67156,7 +67535,9 @@
                 "city": "Bel Air",
                 "address": "112 S Main St",
                 "address2": null,
-                "zip": "21014"
+                "zip": "21014",
+                "lat": 39.5382,
+                "lng": -76.3526
             },
             "contact": {
                 "phone": "410-886-7539",
@@ -67192,7 +67573,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "diamant-gerstein-llc",
@@ -67210,7 +67592,9 @@
                 "city": "Rockville",
                 "address": "6110 Executive Blvd",
                 "address2": "Suite 1050",
-                "zip": "20852"
+                "zip": "20852",
+                "lat": 39.0526,
+                "lng": -77.1232
             },
             "contact": {
                 "phone": "301-744-0165",
@@ -67259,7 +67643,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "webb-soypher-mcgrath-llc",
@@ -67277,7 +67662,9 @@
                 "city": "Bethesda",
                 "address": "7501 Wisconsin Avenue",
                 "address2": "Suite 1010W",
-                "zip": "20814"
+                "zip": "20814",
+                "lat": 39.0048,
+                "lng": -77.1025
             },
             "contact": {
                 "phone": "301-298-8401",
@@ -67305,7 +67692,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "engel-law-group-p-c",
@@ -67323,7 +67711,9 @@
                 "city": "Baltimore",
                 "address": "6510 Falls Road",
                 "address2": null,
-                "zip": "21209"
+                "zip": "21209",
+                "lat": 39.3665,
+                "lng": -76.6697
             },
             "contact": {
                 "phone": "410-849-9982",
@@ -67362,7 +67752,8 @@
                 "Professional Malpractice",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-sharon-m-donahue-p-a",
@@ -67380,7 +67771,9 @@
                 "city": "Ocean City",
                 "address": "11724 Ocean Gateway",
                 "address2": "Suite #3",
-                "zip": "21842"
+                "zip": "21842",
+                "lat": 38.3872,
+                "lng": -75.1024
             },
             "contact": {
                 "phone": "443-856-6264",
@@ -67401,7 +67794,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "janet-janet-suggs-llc",
@@ -67419,7 +67813,9 @@
                 "city": "Baltimore",
                 "address": "4 Reservoir Circle",
                 "address2": "Suite 200",
-                "zip": "21208"
+                "zip": "21208",
+                "lat": 39.3824,
+                "lng": -76.7259
             },
             "contact": {
                 "phone": "410-653-3200",
@@ -67466,6 +67862,89 @@
                 "Railroad Worker Injury and FELA",
                 "Truck Accident",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20006",
+                    "address": "1725 I Street N.W., Suite 300",
+                    "phone": "410-538-2851",
+                    "lat": 38.8951,
+                    "lng": -77.0398
+                },
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "zip": "19103",
+                    "address": "2001 Market St, Suite 2500",
+                    "phone": "814-826-1446",
+                    "lat": 39.9538,
+                    "lng": -75.1763
+                },
+                {
+                    "city": "Oakhurst",
+                    "state": "NJ",
+                    "zip": "07755",
+                    "address": "212 Monmouth Road",
+                    "phone": "410-653-3200",
+                    "lat": 40.2636,
+                    "lng": -74.0217
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10036",
+                    "address": "19 West 44th St., Suite 1500",
+                    "phone": "814-826-1446",
+                    "lat": 40.7595,
+                    "lng": -73.9899
+                },
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28246",
+                    "address": "101 N. Tryon Street, Suite 100",
+                    "phone": "410-653-3200",
+                    "lat": 35.2226,
+                    "lng": -80.8452
+                },
+                {
+                    "city": "Columbia",
+                    "state": "SC",
+                    "zip": "29201",
+                    "address": "801 Gervais Street, Suite B",
+                    "phone": "410-538-2851",
+                    "lat": 33.9866,
+                    "lng": -81.0248
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60604",
+                    "address": "111 West Jackson Blvd.",
+                    "phone": "410-538-2851",
+                    "lat": 41.8771,
+                    "lng": -87.6247
+                },
+                {
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "zip": "50309",
+                    "address": "699 Walnut Street, Suite 400",
+                    "phone": "410-538-2851",
+                    "lat": 41.5848,
+                    "lng": -93.6208
+                },
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55402",
+                    "address": "100 South Fifth Street, 19th Floor",
+                    "phone": "410-538-2851",
+                    "lat": 44.9759,
+                    "lng": -93.2722
+                }
             ]
         },
         {
@@ -67484,7 +67963,9 @@
                 "city": "Landover",
                 "address": "8401 Corporate Dr.",
                 "address2": "Suite 450",
-                "zip": "20785"
+                "zip": "20785",
+                "lat": 38.9227,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "301-965-0994",
@@ -67522,6 +68003,17 @@
                 "Personal Injury",
                 "Real Estate",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "Rockville/North Bethesda",
+                    "phone": "301-965-0994",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                }
             ]
         },
         {
@@ -67540,7 +68032,9 @@
                 "city": "Gaithersburg",
                 "address": "443 N. Frederick Avenue",
                 "address2": null,
-                "zip": "20877"
+                "zip": "20877",
+                "lat": 39.1393,
+                "lng": -77.1805
             },
             "contact": {
                 "phone": "301-893-7459",
@@ -67574,7 +68068,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gorman-williams",
@@ -67592,7 +68087,9 @@
                 "city": "Baltimore",
                 "address": "36 South Charles Street",
                 "address2": "Suite 900",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-929-1921",
@@ -67641,6 +68138,17 @@
                 "Real Estate",
                 "Traffic Ticket",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20006",
+                    "address": "1909 K Street, NW, 4th Floor",
+                    "phone": "202-990-7611",
+                    "lat": 38.8951,
+                    "lng": -77.0398
+                }
             ]
         },
         {
@@ -67659,7 +68167,9 @@
                 "city": "Annapolis",
                 "address": "200 Westgate Circle",
                 "address2": "Suite 500",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "866-590-8719",
@@ -67689,7 +68199,8 @@
             ],
             "official_practice_area": [
                 "Land Use and Zoning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldberg-finnegan-llc",
@@ -67707,7 +68218,9 @@
                 "city": "Silver Spring",
                 "address": "8401 Colesville Rd.",
                 "address2": "#630",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "301-750-9934",
@@ -67735,6 +68248,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20036",
+                    "address": "1821 Jefferson Pl NW, #331",
+                    "phone": "301-750-9934",
+                    "lat": 38.9069,
+                    "lng": -77.0414
+                }
             ]
         },
         {
@@ -67753,7 +68277,9 @@
                 "city": "Glen Burnie",
                 "address": "7310 Gov Ritchie Hwy",
                 "address2": "Suite 1007",
-                "zip": "21061"
+                "zip": "21061",
+                "lat": 39.1626,
+                "lng": -76.6399
             },
             "contact": {
                 "phone": "443-557-3127",
@@ -67794,7 +68320,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Sexual Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rafael-law-llc",
@@ -67812,7 +68339,9 @@
                 "city": "Baltimore",
                 "address": "3500 Boston Street",
                 "address2": "Suite 210",
-                "zip": "21224"
+                "zip": "21224",
+                "lat": 39.2785,
+                "lng": -76.5342
             },
             "contact": {
                 "phone": "410-886-7661",
@@ -67847,7 +68376,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wampler-souder-llc",
@@ -67865,7 +68395,9 @@
                 "city": "Frederick",
                 "address": "170 West Patrick Street",
                 "address2": null,
-                "zip": "21701"
+                "zip": "21701",
+                "lat": 39.4642,
+                "lng": -77.3384
             },
             "contact": {
                 "phone": "301-732-7675",
@@ -67908,6 +68440,17 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Silver Spring",
+                    "state": "MD",
+                    "zip": "20906",
+                    "address": "12114B Heritage Park Circle",
+                    "phone": "301-732-7675",
+                    "lat": 39.0853,
+                    "lng": -77.0589
+                }
             ]
         },
         {
@@ -67926,7 +68469,9 @@
                 "city": "Upper Marlboro",
                 "address": "5407 Water Street",
                 "address2": "Suite 101",
-                "zip": "20772"
+                "zip": "20772",
+                "lat": 38.781,
+                "lng": -76.7788
             },
             "contact": {
                 "phone": "301-627-5500",
@@ -67953,6 +68498,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "La Plata",
+                    "state": "MD",
+                    "zip": "29646",
+                    "address": "102 Centennial St., Suite 102",
+                    "phone": "(301) 934-2490",
+                    "lat": 34.1431,
+                    "lng": -82.1335
+                }
             ]
         },
         {
@@ -67971,7 +68527,9 @@
                 "city": "Rockville",
                 "address": "1101 Wootton Pkwy",
                 "address2": "Suite 550",
-                "zip": "20852"
+                "zip": "20852",
+                "lat": 39.0526,
+                "lng": -77.1232
             },
             "contact": {
                 "phone": "301-251-8500",
@@ -67999,6 +68557,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Silver Spring",
+                    "state": "MD",
+                    "zip": "20910",
+                    "address": "8455 Colesville Road, Suite 915",
+                    "phone": "+13018590291",
+                    "lat": 39.0034,
+                    "lng": -77.0354
+                }
             ]
         },
         {
@@ -68017,7 +68586,9 @@
                 "city": "Baltimore",
                 "address": "3600 Clipper Mill Road",
                 "address2": "Suite 240",
-                "zip": "21211"
+                "zip": "21211",
+                "lat": 39.3282,
+                "lng": -76.6385
             },
             "contact": {
                 "phone": "410-943-2634",
@@ -68050,6 +68621,17 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nantucket",
+                    "state": "MA",
+                    "zip": "02554",
+                    "address": "14 Wood Hollow Road",
+                    "phone": "+14108867878",
+                    "lat": 41.3157,
+                    "lng": -70.1197
+                }
             ]
         },
         {
@@ -68068,7 +68650,9 @@
                 "city": "Baltimore",
                 "address": "115 Sudbrook Lane",
                 "address2": "Suite 206",
-                "zip": "21208"
+                "zip": "21208",
+                "lat": 39.3824,
+                "lng": -76.7259
             },
             "contact": {
                 "phone": "443-641-0433",
@@ -68094,6 +68678,17 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbia",
+                    "state": "MD",
+                    "zip": "21044",
+                    "address": "10320 Little Patuxent Parkway, Suite 200",
+                    "phone": "443-641-0433",
+                    "lat": 39.2044,
+                    "lng": -76.8814
+                }
             ]
         },
         {
@@ -68112,7 +68707,9 @@
                 "city": "Annapolis",
                 "address": "2661 Riva Road",
                 "address2": "Bldg. 300",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "410-267-5900",
@@ -68139,7 +68736,8 @@
                 "Environmental Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gardner-law-firm-p-c",
@@ -68157,7 +68755,9 @@
                 "city": "Rockville",
                 "address": "600 Jefferson Plaza",
                 "address2": "Ste 308",
-                "zip": "20852"
+                "zip": "20852",
+                "lat": 39.0526,
+                "lng": -77.1232
             },
             "contact": {
                 "phone": "301-264-7125",
@@ -68189,7 +68789,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-michael-gast",
@@ -68207,7 +68808,9 @@
                 "city": "Frederick",
                 "address": "129 West Patrick Street",
                 "address2": "Suite 1 Second Floor",
-                "zip": "21701"
+                "zip": "21701",
+                "lat": 39.4642,
+                "lng": -77.3384
             },
             "contact": {
                 "phone": "301-732-6410",
@@ -68241,6 +68844,17 @@
                 "Family Law",
                 "Real Estate",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hagerstown",
+                    "state": "MD",
+                    "zip": "21740",
+                    "address": "111 West Washington Street, Suite 2",
+                    "phone": "301-732-6410",
+                    "lat": 39.629,
+                    "lng": -77.7155
+                }
             ]
         },
         {
@@ -68259,7 +68873,9 @@
                 "city": "Salisbury",
                 "address": "116 E Main Street",
                 "address2": null,
-                "zip": "21801"
+                "zip": "21801",
+                "lat": 38.376,
+                "lng": -75.6411
             },
             "contact": {
                 "phone": "667-253-3540",
@@ -68314,6 +68930,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Annapolis",
+                    "state": "MD",
+                    "zip": "21405",
+                    "address": "144 Friar Tuck Rd",
+                    "phone": "667-253-3540",
+                    "lat": 39.0261,
+                    "lng": -76.5504
+                }
             ]
         },
         {
@@ -68332,7 +68959,9 @@
                 "city": "Annapolis",
                 "address": "185 Admiral Cochrane Drive",
                 "address2": "Suite 115",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "301-375-2979",
@@ -68371,7 +69000,8 @@
                 "Military",
                 "Military Divorce",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-leslie-l-gladstone-pa",
@@ -68389,7 +69019,9 @@
                 "city": "Baltimore",
                 "address": "1040 North Calvert Street",
                 "address2": null,
-                "zip": "21202"
+                "zip": "21202",
+                "lat": 39.2958,
+                "lng": -76.6078
             },
             "contact": {
                 "phone": "410-727-2322",
@@ -68409,7 +69041,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-elizabeth-forgotson-goldberg",
@@ -68427,7 +69060,9 @@
                 "city": "Bethesda",
                 "address": "6616 Radnor Road",
                 "address2": null,
-                "zip": "20817"
+                "zip": "20817",
+                "lat": 39.0033,
+                "lng": -77.1595
             },
             "contact": {
                 "phone": "240-330-4199",
@@ -68451,7 +69086,8 @@
                 "Estate Planning",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldberg-law-llc",
@@ -68469,7 +69105,9 @@
                 "city": "Gaithersburg",
                 "address": "401 Salk Cir",
                 "address2": null,
-                "zip": "20878"
+                "zip": "20878",
+                "lat": 39.1119,
+                "lng": -77.2452
             },
             "contact": {
                 "phone": "301-200-1006",
@@ -68506,7 +69144,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-joseph-m-gorvoy",
@@ -68524,7 +69163,9 @@
                 "city": "Frederick",
                 "address": "605 North Bentz Street",
                 "address2": "Suite 204",
-                "zip": "21701"
+                "zip": "21701",
+                "lat": 39.4642,
+                "lng": -77.3384
             },
             "contact": {
                 "phone": "301-471-2507",
@@ -68544,7 +69185,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-dawn-m-green",
@@ -68562,7 +69204,9 @@
                 "city": "Annapolis",
                 "address": "275 West Street",
                 "address2": "Suite 105",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "443-440-5871",
@@ -68597,7 +69241,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ally-legal-planning",
@@ -68615,7 +69260,9 @@
                 "city": "Columbia",
                 "address": "5840 Banneker Road",
                 "address2": "Suite 100",
-                "zip": "21044"
+                "zip": "21044",
+                "lat": 39.2044,
+                "lng": -76.8814
             },
             "contact": {
                 "phone": "410-746-0113",
@@ -68657,7 +69304,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grossbart-portney-rosenberg-p-a",
@@ -68675,7 +69323,9 @@
                 "city": "Baltimore",
                 "address": "100 North Charles Street",
                 "address2": "20th Floor",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-763-2958",
@@ -68698,7 +69348,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-david-m-grossman-llc",
@@ -68716,7 +69367,9 @@
                 "city": "Baltimore",
                 "address": "1447 York Rd",
                 "address2": "Suite 702",
-                "zip": "21093"
+                "zip": "21093",
+                "lat": 39.4376,
+                "lng": -76.6387
             },
             "contact": {
                 "phone": "410-849-9910",
@@ -68747,7 +69400,8 @@
                 "Debtor and Creditor",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cynthia-h-clark-associates",
@@ -68765,7 +69419,9 @@
                 "city": "Annapolis",
                 "address": "129 Lubrano Drive",
                 "address2": "Suite 202",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "410-990-0090",
@@ -68790,7 +69446,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-sandra-guzman-salvado",
@@ -68808,7 +69465,9 @@
                 "city": "Rockville",
                 "address": "11 North Washington St.",
                 "address2": "Ste 500",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "240-526-9685",
@@ -68844,6 +69503,17 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bethesda",
+                    "state": "MD",
+                    "zip": "20814",
+                    "address": "3 Bethesda Metro Center, Suite 700",
+                    "phone": "240-526-9685",
+                    "lat": 39.0048,
+                    "lng": -77.1025
+                }
             ]
         },
         {
@@ -68862,7 +69532,9 @@
                 "city": "Baltimore",
                 "address": "5 South Front Street",
                 "address2": null,
-                "zip": "21202"
+                "zip": "21202",
+                "lat": 39.2958,
+                "lng": -76.6078
             },
             "contact": {
                 "phone": "301-246-6575",
@@ -68889,6 +69561,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Laurel",
+                    "state": "MD",
+                    "zip": "20707",
+                    "address": "8101 Sandy Spring Rd, Suite 250",
+                    "phone": "+13012466575",
+                    "lat": 39.0969,
+                    "lng": -76.883
+                }
             ]
         },
         {
@@ -68907,7 +69590,9 @@
                 "city": "Rockville",
                 "address": "20 Courthouse Square",
                 "address2": "Suite 205",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-503-1690",
@@ -68928,7 +69613,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-john-c-hanrahan-llc",
@@ -68946,7 +69632,9 @@
                 "city": "Frederick",
                 "address": "8 E. 2nd Street",
                 "address2": "Suite 200",
-                "zip": "21701"
+                "zip": "21701",
+                "lat": 39.4642,
+                "lng": -77.3384
             },
             "contact": {
                 "phone": "301-620-4378",
@@ -68968,7 +69656,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-c-thomas-brown-and-tina-harris",
@@ -68986,7 +69675,9 @@
                 "city": "Elkton",
                 "address": "205 East Main Street",
                 "address2": null,
-                "zip": "21921"
+                "zip": "21921",
+                "lat": 39.6171,
+                "lng": -75.8677
             },
             "contact": {
                 "phone": "410-886-7594",
@@ -69013,7 +69704,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-l-healy-p-c",
@@ -69031,7 +69723,9 @@
                 "city": "Gaithersburg",
                 "address": "18526 Office Park Drive",
                 "address2": null,
-                "zip": "20886"
+                "zip": "20886",
+                "lat": 39.1751,
+                "lng": -77.1868
             },
             "contact": {
                 "phone": "301-990-6100",
@@ -69052,6 +69746,17 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Frederick",
+                    "state": "MD",
+                    "zip": "21704",
+                    "address": "7101 Guilford Drive, Suite 200",
+                    "phone": "(301) 663-8470",
+                    "lat": 39.3442,
+                    "lng": -77.3764
+                }
             ]
         },
         {
@@ -69070,7 +69775,9 @@
                 "city": "Bethesda",
                 "address": "7910 Woodmont Avenue",
                 "address2": "Suite 1430",
-                "zip": "20814"
+                "zip": "20814",
+                "lat": 39.0048,
+                "lng": -77.1025
             },
             "contact": {
                 "phone": "301-913-0038",
@@ -69093,6 +69800,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20036",
+                    "address": "1025 Connecticut Ave, Suite 1000",
+                    "phone": "(301) 913-0038",
+                    "lat": 38.9069,
+                    "lng": -77.0414
+                }
             ]
         },
         {
@@ -69111,7 +69829,9 @@
                 "city": "Easton",
                 "address": "10 West Dover Street",
                 "address2": null,
-                "zip": "21601"
+                "zip": "21601",
+                "lat": 38.7917,
+                "lng": -76.048
             },
             "contact": {
                 "phone": "410-822-7660",
@@ -69133,7 +69853,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zide-law-group-llc",
@@ -69151,7 +69872,9 @@
                 "city": "Glen Burnie",
                 "address": "7310 Ritchie Hwy.",
                 "address2": "Suite 1001",
-                "zip": "21061"
+                "zip": "21061",
+                "lat": 39.1626,
+                "lng": -76.6399
             },
             "contact": {
                 "phone": "443-557-4153",
@@ -69190,6 +69913,17 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cambridge",
+                    "state": "MD",
+                    "zip": "21613",
+                    "address": "306 High St.",
+                    "phone": "443-557-4153",
+                    "lat": 38.4754,
+                    "lng": -76.1022
+                }
             ]
         },
         {
@@ -69208,7 +69942,9 @@
                 "city": "Towson",
                 "address": "1 Olympic Place",
                 "address2": "Suite 934",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-886-7888",
@@ -69234,7 +69970,8 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "howard-howard-attorneys-at-law",
@@ -69252,7 +69989,9 @@
                 "city": "Reisterstown",
                 "address": "298 Butler Road",
                 "address2": null,
-                "zip": "21136"
+                "zip": "21136",
+                "lat": 39.4857,
+                "lng": -76.799
             },
             "contact": {
                 "phone": "410-526-4734",
@@ -69283,6 +70022,17 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Annapolis",
+                    "state": "MD",
+                    "zip": "21401",
+                    "address": "2028B Industrial Drive",
+                    "phone": "800-382-4488",
+                    "lat": 38.9934,
+                    "lng": -76.547
+                }
             ]
         },
         {
@@ -69301,7 +70051,9 @@
                 "city": "Greenbelt",
                 "address": "7849 Belle Point Drive",
                 "address2": null,
-                "zip": "20770"
+                "zip": "20770",
+                "lat": 39.0016,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "301-859-0266",
@@ -69330,7 +70082,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kemet-hunt-law-group",
@@ -69348,7 +70101,9 @@
                 "city": "Greenbelt",
                 "address": "7845 Belle Pointe Drive",
                 "address2": null,
-                "zip": "20770"
+                "zip": "20770",
+                "lat": 39.0016,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "301-269-3025",
@@ -69374,6 +70129,17 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Mergers and Acquisitions"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Berlin",
+                    "state": "MD",
+                    "zip": "21811",
+                    "address": "213 West St",
+                    "phone": "301-269-3025",
+                    "lat": 38.3141,
+                    "lng": -75.2355
+                }
             ]
         },
         {
@@ -69392,7 +70158,9 @@
                 "city": "Bethesda",
                 "address": "4520 East West Highway",
                 "address2": "Suite 700",
-                "zip": "20814"
+                "zip": "20814",
+                "lat": 39.0048,
+                "lng": -77.1025
             },
             "contact": {
                 "phone": "301-684-4291",
@@ -69413,7 +70181,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jaklitsch-law-group",
@@ -69431,7 +70200,9 @@
                 "city": "Upper Marlboro",
                 "address": "14350 Old Marlboro Pike",
                 "address2": null,
-                "zip": "20772"
+                "zip": "20772",
+                "lat": 38.781,
+                "lng": -76.7788
             },
             "contact": {
                 "phone": "301-246-2779",
@@ -69462,7 +70233,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-carol-l-james",
@@ -69480,7 +70252,9 @@
                 "city": "Columbia",
                 "address": "9520 Berger Road",
                 "address2": "Suite 212",
-                "zip": "21046"
+                "zip": "21046",
+                "lat": 39.175,
+                "lng": -76.8372
             },
             "contact": {
                 "phone": "410-763-2375",
@@ -69506,7 +70280,8 @@
                 "ADR Arbitration and Mediation",
                 "Collaborative Law",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joehl-law",
@@ -69524,7 +70299,9 @@
                 "city": "Rockville",
                 "address": "51 Monroe St",
                 "address2": "Ste 408",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-684-4689",
@@ -69548,7 +70325,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "skipper-law",
@@ -69566,7 +70344,9 @@
                 "city": "Crofton",
                 "address": "2127 Espey Court",
                 "address2": "Suite 100",
-                "zip": "21114"
+                "zip": "21114",
+                "lat": 39.0103,
+                "lng": -76.6832
             },
             "contact": {
                 "phone": "410-673-4718",
@@ -69595,7 +70375,8 @@
                 "Animal and Dog Bites",
                 "Estate Planning",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-leo-j-keenan-iii-p-a",
@@ -69613,7 +70394,9 @@
                 "city": "Eldersburg",
                 "address": "1121 Liberty Road",
                 "address2": null,
-                "zip": "21784"
+                "zip": "21784",
+                "lat": 39.3924,
+                "lng": -76.9673
             },
             "contact": {
                 "phone": "410-819-2385",
@@ -69649,7 +70432,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-mckeon-law-firm",
@@ -69667,7 +70451,9 @@
                 "city": "Gaithersburg",
                 "address": "17 B Firstfield Road",
                 "address2": "Suite 101",
-                "zip": "20878"
+                "zip": "20878",
+                "lat": 39.1119,
+                "lng": -77.2452
             },
             "contact": {
                 "phone": "301-417-9222",
@@ -69708,6 +70494,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bethesda",
+                    "state": "MD",
+                    "zip": "20814",
+                    "address": "3 Bethesda Metro Center, Suite 700-71",
+                    "phone": "202-742-1800",
+                    "lat": 39.0048,
+                    "lng": -77.1025
+                }
             ]
         },
         {
@@ -69726,7 +70523,9 @@
                 "city": "Columbia",
                 "address": "5850 Waterloo Road",
                 "address2": "Suite 140",
-                "zip": "21045"
+                "zip": "21045",
+                "lat": 39.2078,
+                "lng": -76.8264
             },
             "contact": {
                 "phone": "410-763-2264",
@@ -69755,7 +70554,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-stephen-j-kleeman",
@@ -69773,7 +70573,9 @@
                 "city": "Towson",
                 "address": "409 Washington Avenue",
                 "address2": "Suite 909",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "443-576-5886",
@@ -69805,7 +70607,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-collaborative-law-group",
@@ -69823,7 +70626,9 @@
                 "city": "Columbia",
                 "address": "Twin Knolls Professional Park",
                 "address2": "5513 Twin Knolls Road, Suite 220",
-                "zip": "21045"
+                "zip": "21045",
+                "lat": 39.2078,
+                "lng": -76.8264
             },
             "contact": {
                 "phone": "410-886-7063",
@@ -69866,6 +70671,17 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Woodbine",
+                    "state": "MD",
+                    "zip": "21797",
+                    "address": "2107 Leroy Drrive",
+                    "phone": "+14108867834",
+                    "lat": 39.3526,
+                    "lng": -77.0778
+                }
             ]
         },
         {
@@ -69884,7 +70700,9 @@
                 "city": "Silver Spring",
                 "address": "836 Bonifant Street",
                 "address2": null,
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "202-296-0666",
@@ -69914,7 +70732,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paul-r-kramer-llc",
@@ -69932,7 +70751,9 @@
                 "city": "Baltimore",
                 "address": "1 North Charles Street",
                 "address2": "Suite 1104",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-946-6268",
@@ -69980,7 +70801,8 @@
                 "Real Estate",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "moylan-family-law",
@@ -69998,7 +70820,9 @@
                 "city": "Towson",
                 "address": "40 West Chesapeake Avenue",
                 "address2": "Suite 414",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-941-4310",
@@ -70028,7 +70852,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kundra-associates-pc",
@@ -70046,7 +70871,9 @@
                 "city": "Rockville",
                 "address": "108 South Washington Street",
                 "address2": null,
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-200-1002",
@@ -70071,6 +70898,17 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20036",
+                    "address": "1025 Connecticut Ave. NW",
+                    "phone": "+13018590111",
+                    "lat": 38.9069,
+                    "lng": -77.0414
+                }
             ]
         },
         {
@@ -70089,7 +70927,9 @@
                 "city": "Rockville",
                 "address": "1 Church St",
                 "address2": "Suite 803",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-424-6339",
@@ -70113,6 +70953,17 @@
             "official_practice_area": [
                 "Family Law",
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "zip": "22203",
+                    "address": "4601 N. Fairfax Dr., Suite 1200",
+                    "phone": "301-424-6339",
+                    "lat": 38.875,
+                    "lng": -77.1226
+                }
             ]
         },
         {
@@ -70131,7 +70982,9 @@
                 "city": "Rockville",
                 "address": "107 N Adams St",
                 "address2": null,
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-200-2935",
@@ -70173,7 +71026,8 @@
                 "Sex Crime",
                 "Traffic Ticket",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcleod-weschler-yeager-p-c",
@@ -70191,7 +71045,9 @@
                 "city": "Frederick",
                 "address": "141 W. Patrick St.",
                 "address2": "First Floor",
-                "zip": "21701"
+                "zip": "21701",
+                "lat": 39.4642,
+                "lng": -77.3384
             },
             "contact": {
                 "phone": "301-818-6454",
@@ -70218,6 +71074,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "51 Monroe Street, Suite 507",
+                    "phone": "+13018186454",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                }
             ]
         },
         {
@@ -70236,7 +71103,9 @@
                 "city": "Cabin John",
                 "address": "PO Box 68",
                 "address2": null,
-                "zip": "20817"
+                "zip": "20817",
+                "lat": 39.0033,
+                "lng": -77.1595
             },
             "contact": {
                 "phone": "973-783-0100",
@@ -70256,7 +71125,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "palumbo-palumbo-lovelace-llc",
@@ -70274,7 +71144,9 @@
                 "city": "Fort Washington",
                 "address": "10905 Fort Washington Rd",
                 "address2": "Suite 103",
-                "zip": "20744"
+                "zip": "20744",
+                "lat": 38.7545,
+                "lng": -77.0048
             },
             "contact": {
                 "phone": "301-292-8300",
@@ -70296,7 +71168,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "terenzini-lucero-llc",
@@ -70314,7 +71187,9 @@
                 "city": "Rockville",
                 "address": "50 West Montgomery Avenue",
                 "address2": "Suite 250",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "240-428-0933",
@@ -70347,7 +71222,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "macdonald-law-office-llc",
@@ -70365,7 +71241,9 @@
                 "city": "Salisbury",
                 "address": "208 Calvert Street",
                 "address2": null,
-                "zip": "21801"
+                "zip": "21801",
+                "lat": 38.376,
+                "lng": -75.6411
             },
             "contact": {
                 "phone": "410-943-2582",
@@ -70395,6 +71273,17 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Ocean City",
+                    "state": "MD",
+                    "zip": "21842",
+                    "address": "9307 Chesapeake Drive, Unit 59",
+                    "phone": "+14109432583",
+                    "lat": 38.3872,
+                    "lng": -75.1024
+                }
             ]
         },
         {
@@ -70413,7 +71302,9 @@
                 "city": "Bowie",
                 "address": "2905 Mitchellville Rd.",
                 "address2": "Suite 108",
-                "zip": "20716"
+                "zip": "20716",
+                "lat": 38.9267,
+                "lng": -76.7118
             },
             "contact": {
                 "phone": "301-352-6699",
@@ -70436,7 +71327,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morris-margulies",
@@ -70454,7 +71346,9 @@
                 "city": "Rockville",
                 "address": "401 N. Washington Street",
                 "address2": "Suite 500",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-816-1600",
@@ -70481,6 +71375,17 @@
                 "Bankruptcy",
                 "Foreclosure and Alternatives",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hyattsville",
+                    "state": "MD",
+                    "zip": "20785",
+                    "address": "8201 Corporate Dr, Suite 260",
+                    "phone": "301-816-1600",
+                    "lat": 38.9227,
+                    "lng": -76.8877
+                }
             ]
         },
         {
@@ -70499,7 +71404,9 @@
                 "city": "Owings Mills",
                 "address": "11403 Cronridge Dr.",
                 "address2": "Suite 230",
-                "zip": "21117"
+                "zip": "21117",
+                "lat": 39.4305,
+                "lng": -76.7943
             },
             "contact": {
                 "phone": "443-394-3900",
@@ -70528,7 +71435,8 @@
                 "Family Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "santoni-vocci-ortega-llc-lutherville",
@@ -70546,7 +71454,9 @@
                 "city": "Lutherville-Timonium",
                 "address": "201 W. Padonia Road",
                 "address2": "Suite 101A",
-                "zip": "21093"
+                "zip": "21093",
+                "lat": 39.4376,
+                "lng": -76.6387
             },
             "contact": {
                 "phone": "443-782-5596",
@@ -70578,7 +71488,8 @@
                 "Car Accidents",
                 "Collections",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hlm-law-llc",
@@ -70596,7 +71507,9 @@
                 "city": "Towson",
                 "address": "22 W. Pennslyvania Ave.",
                 "address2": "Suite 413",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-886-7997",
@@ -70619,7 +71532,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "william-j-monks-attorney-at-law-llc",
@@ -70637,7 +71551,9 @@
                 "city": "Upper Marlboro",
                 "address": "5407 Water Street",
                 "address2": "Suite 208",
-                "zip": "20772"
+                "zip": "20772",
+                "lat": 38.781,
+                "lng": -76.7788
             },
             "contact": {
                 "phone": "301-627-5433",
@@ -70665,7 +71581,8 @@
                 "Landlord and Tenant",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "watson-moran",
@@ -70683,7 +71600,9 @@
                 "city": "Largo",
                 "address": "9500 Medical Center Dr.",
                 "address2": "Ste. 430",
-                "zip": "20774"
+                "zip": "20774",
+                "lat": 38.8922,
+                "lng": -76.768
             },
             "contact": {
                 "phone": "240-764-4063",
@@ -70711,6 +71630,17 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21202",
+                    "address": "10 South St., Suite 503",
+                    "phone": "443-909-4409",
+                    "lat": 39.2958,
+                    "lng": -76.6078
+                }
             ]
         },
         {
@@ -70729,7 +71659,9 @@
                 "city": "Towson",
                 "address": "1 Olympic Place",
                 "address2": "Suite 900",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "410-650-5770",
@@ -70768,7 +71700,8 @@
                 "Litigation and Appeals",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murphy-price-llp",
@@ -70786,7 +71719,9 @@
                 "city": "Glen Burnie",
                 "address": "7 Central Avenue",
                 "address2": null,
-                "zip": "21061"
+                "zip": "21061",
+                "lat": 39.1626,
+                "lng": -76.6399
             },
             "contact": {
                 "phone": "410-280-2500",
@@ -70809,6 +71744,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Annapolis",
+                    "state": "MD",
+                    "zip": "21401",
+                    "address": "151 West Street, Suite 102",
+                    "phone": "(410) 280-2500",
+                    "lat": 38.9934,
+                    "lng": -76.547
+                }
             ]
         },
         {
@@ -70827,7 +71773,9 @@
                 "city": "Baltimore",
                 "address": "25 Hooks Lane",
                 "address2": "Suite 202",
-                "zip": "21208"
+                "zip": "21208",
+                "lat": 39.3824,
+                "lng": -76.7259
             },
             "contact": {
                 "phone": "410-504-1113",
@@ -70859,7 +71807,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-rick-narvaiz",
@@ -70877,7 +71826,9 @@
                 "city": "Kensington",
                 "address": "10605 Concord Street",
                 "address2": "Suite 440",
-                "zip": "20895"
+                "zip": "20895",
+                "lat": 39.0267,
+                "lng": -77.081
             },
             "contact": {
                 "phone": "301-628-2066",
@@ -70898,6 +71849,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Herndon",
+                    "state": "VA",
+                    "zip": "22170",
+                    "address": "Worldgate Plaza, Suite 500",
+                    "phone": "(703) 560-9186",
+                    "lat": null,
+                    "lng": null
+                }
             ]
         },
         {
@@ -70916,7 +71878,9 @@
                 "city": "Upper Marlboro",
                 "address": "1401 Mercantile LN",
                 "address2": "Suite 511",
-                "zip": "20774"
+                "zip": "20774",
+                "lat": 38.8922,
+                "lng": -76.768
             },
             "contact": {
                 "phone": "240-879-6523",
@@ -70937,7 +71901,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ivylaw-law-office-llc",
@@ -70955,7 +71920,9 @@
                 "city": "Greenbelt",
                 "address": "6305 Ivy Lane",
                 "address2": "Ste 500",
-                "zip": "20770"
+                "zip": "20770",
+                "lat": 39.0016,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "301-893-7335",
@@ -70980,7 +71947,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ortega-law",
@@ -70998,7 +71966,9 @@
                 "city": "Pasadena",
                 "address": "8023 Ritchie Highway",
                 "address2": "Suite A",
-                "zip": "21122"
+                "zip": "21122",
+                "lat": 39.1253,
+                "lng": -76.5121
             },
             "contact": {
                 "phone": "410-886-7387",
@@ -71032,7 +72002,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schlachman-belsky-weiner-davey-p-a",
@@ -71050,7 +72021,9 @@
                 "city": "Upper Marlboro",
                 "address": "2905-A Old Largo Road",
                 "address2": "P.O. Box 1658",
-                "zip": "20772"
+                "zip": "20772",
+                "lat": 38.781,
+                "lng": -76.7788
             },
             "contact": {
                 "phone": "410-685-2022",
@@ -71076,6 +72049,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21202",
+                    "address": "300 East Lombard Street, Suite 1100",
+                    "phone": "(410) 685-2022",
+                    "lat": 39.2958,
+                    "lng": -76.6078
+                }
             ]
         },
         {
@@ -71094,7 +72078,9 @@
                 "city": "Annapolis",
                 "address": "1 Willow Street",
                 "address2": null,
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "301-893-7126",
@@ -71121,6 +72107,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bowie",
+                    "state": "MD",
+                    "zip": "20716",
+                    "address": "4000 Mitchellville Rd, Suite A202",
+                    "phone": "+13018937126",
+                    "lat": 38.9267,
+                    "lng": -76.7118
+                }
             ]
         },
         {
@@ -71139,7 +72136,9 @@
                 "city": "Baltimore",
                 "address": "201 North Charles Street",
                 "address2": "Suite 1600",
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "410-671-5151",
@@ -71180,7 +72179,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "portner-shure-p-a",
@@ -71198,7 +72198,9 @@
                 "city": "Columbia",
                 "address": "Headquarters",
                 "address2": "7226 Lee Deforest Drive, Suite 101",
-                "zip": "21044"
+                "zip": "21044",
+                "lat": 39.2044,
+                "lng": -76.8814
             },
             "contact": {
                 "phone": "410-505-8211",
@@ -71229,6 +72231,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Glen Burnie",
+                    "state": "MD",
+                    "zip": "21061",
+                    "address": "7310 Ritchie Highway, Suite 409",
+                    "phone": "(410) 421-7447",
+                    "lat": 39.1626,
+                    "lng": -76.6399
+                },
+                {
+                    "city": "Alexandria",
+                    "state": "VA",
+                    "zip": "22314",
+                    "address": "211 N. Union Street, Suite 100",
+                    "phone": "(703) 734-8790",
+                    "lat": 38.814,
+                    "lng": -77.064
+                }
             ]
         },
         {
@@ -71247,7 +72269,9 @@
                 "city": "Baltimore",
                 "address": "16 S Frederick St",
                 "address2": null,
-                "zip": "21202"
+                "zip": "21202",
+                "lat": 39.2958,
+                "lng": -76.6078
             },
             "contact": {
                 "phone": "410-553-3000",
@@ -71301,7 +72325,8 @@
                 "Whistleblower and Qui Tam",
                 "Workers' Compensation",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "randle-randle-attorneys-at-law-llc",
@@ -71319,7 +72344,9 @@
                 "city": "Greenbelt",
                 "address": "6411 Ivy Lane",
                 "address2": "Suite 202",
-                "zip": "20770"
+                "zip": "20770",
+                "lat": 39.0016,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "240-241-5370",
@@ -71368,7 +72395,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-k-reed-p-a",
@@ -71386,7 +72414,9 @@
                 "city": "Hagerstown",
                 "address": "1101 Opal Court",
                 "address2": null,
-                "zip": "21740"
+                "zip": "21740",
+                "lat": 39.629,
+                "lng": -77.7155
             },
             "contact": {
                 "phone": "301-714-1141",
@@ -71407,6 +72437,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chambersburg",
+                    "state": "PA",
+                    "zip": "17201",
+                    "address": "983 Lincoln Way East",
+                    "phone": "(240) 382-3139",
+                    "lat": 39.9311,
+                    "lng": -77.6586
+                }
             ]
         },
         {
@@ -71425,7 +72466,9 @@
                 "city": "College Park",
                 "address": "4920 Niagara Road",
                 "address2": "Suite 206",
-                "zip": "20740"
+                "zip": "20740",
+                "lat": 39.0013,
+                "lng": -76.9257
             },
             "contact": {
                 "phone": "301-576-6200",
@@ -71446,6 +72489,26 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Landover",
+                    "state": "MD",
+                    "zip": "20785",
+                    "address": "8201 Corporate Drive, Suite 500",
+                    "phone": "(301) 576-6200",
+                    "lat": 38.9227,
+                    "lng": -76.8877
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20007",
+                    "address": "1629 K Street NW, Sutie 300",
+                    "phone": "(301) 576-6200",
+                    "lat": 38.9141,
+                    "lng": -77.0774
+                }
             ]
         },
         {
@@ -71464,7 +72527,9 @@
                 "city": "Landover",
                 "address": "8401 Corporate Drive",
                 "address2": "Suite 620",
-                "zip": "20785"
+                "zip": "20785",
+                "lat": 38.9227,
+                "lng": -76.8877
             },
             "contact": {
                 "phone": "240-696-1816",
@@ -71483,6 +72548,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gaithersburg",
+                    "state": "MD",
+                    "zip": "20878",
+                    "address": "9711 Washingtonian Boulevard, Suite 550",
+                    "phone": "(240) 696-1816",
+                    "lat": 39.1119,
+                    "lng": -77.2452
+                }
             ]
         },
         {
@@ -71501,7 +72577,9 @@
                 "city": "Ocean City",
                 "address": "12417 Ocean Gateway",
                 "address2": "Suite 11",
-                "zip": "21842"
+                "zip": "21842",
+                "lat": 38.3872,
+                "lng": -75.1024
             },
             "contact": {
                 "phone": "443-576-2918",
@@ -71523,7 +72601,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keith-d-saylor-attorney-at-law",
@@ -71541,7 +72620,9 @@
                 "city": "Westminster",
                 "address": "182 East Main Street",
                 "address2": null,
-                "zip": "21157"
+                "zip": "21157",
+                "lat": 39.5553,
+                "lng": -76.9905
             },
             "contact": {
                 "phone": "410-848-1160",
@@ -71560,7 +72641,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-ronald-l-schwartz",
@@ -71578,7 +72660,9 @@
                 "city": "College Park",
                 "address": "4907 Niagara Road",
                 "address2": "Suite 103",
-                "zip": "20740"
+                "zip": "20740",
+                "lat": 39.0013,
+                "lng": -76.9257
             },
             "contact": {
                 "phone": "301-892-3410",
@@ -71602,7 +72686,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charm-city-defense",
@@ -71620,7 +72705,9 @@
                 "city": "Timonium",
                 "address": "1404 Front Ave.",
                 "address2": null,
-                "zip": "21093"
+                "zip": "21093",
+                "lat": 39.4376,
+                "lng": -76.6387
             },
             "contact": {
                 "phone": "443-576-5670",
@@ -71656,7 +72743,8 @@
                 "Family Law",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "skeen-kauffman-l-l-p",
@@ -71674,7 +72762,9 @@
                 "city": "Baltimore",
                 "address": "911 North Charles Street",
                 "address2": null,
-                "zip": "21201"
+                "zip": "21201",
+                "lat": 39.2954,
+                "lng": -76.6239
             },
             "contact": {
                 "phone": "443-478-3720",
@@ -71699,7 +72789,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stuart-skok-law-llc",
@@ -71717,7 +72808,9 @@
                 "city": "Rockville",
                 "address": "1 Research Court",
                 "address2": "Suite 450",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "301-744-0541",
@@ -71748,6 +72841,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Castle Rock",
+                    "state": "CO",
+                    "zip": "80104",
+                    "address": "834 S. Perry Street, Suite F630",
+                    "phone": "+13017440497",
+                    "lat": 39.3039,
+                    "lng": -104.8215
+                }
             ]
         },
         {
@@ -71766,7 +72870,9 @@
                 "city": "Joppa",
                 "address": "413 Pulaski Highway",
                 "address2": "#205",
-                "zip": "21085"
+                "zip": "21085",
+                "lat": 39.4474,
+                "lng": -76.3527
             },
             "contact": {
                 "phone": "410-973-6453",
@@ -71801,6 +72907,17 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Elkton",
+                    "state": "MD",
+                    "zip": "21921",
+                    "address": "213 W. Main Street",
+                    "phone": "(410) 782-0771",
+                    "lat": 39.6171,
+                    "lng": -75.8677
+                }
             ]
         },
         {
@@ -71819,7 +72936,9 @@
                 "city": "Annapolis",
                 "address": "706 Giddings Ave",
                 "address2": "#200",
-                "zip": "21401"
+                "zip": "21401",
+                "lat": 38.9934,
+                "lng": -76.547
             },
             "contact": {
                 "phone": "443-569-8191",
@@ -71855,7 +72974,8 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Whistleblower and Qui Tam"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-w-scott-sonntag-p-a",
@@ -71873,7 +72993,9 @@
                 "city": "Columbia",
                 "address": "10211 Wincopin Circle",
                 "address2": "Suite 620",
-                "zip": "21044"
+                "zip": "21044",
+                "lat": 39.2044,
+                "lng": -76.8814
             },
             "contact": {
                 "phone": "443-718-9931",
@@ -71900,7 +73022,8 @@
                 "Medical Malpractice",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-robert-m-stahl-llc-lutherville",
@@ -71918,7 +73041,9 @@
                 "city": "Lutherville-Timonium",
                 "address": "1142 York Road",
                 "address2": null,
-                "zip": "21093"
+                "zip": "21093",
+                "lat": 39.4376,
+                "lng": -76.6387
             },
             "contact": {
                 "phone": "410-561-6797",
@@ -71957,7 +73082,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stewart-law-office-llc",
@@ -71975,7 +73101,9 @@
                 "city": "Towson",
                 "address": "606 Baltimore Avenue",
                 "address2": "Suite 204",
-                "zip": "21204"
+                "zip": "21204",
+                "lat": 39.4019,
+                "lng": -76.6328
             },
             "contact": {
                 "phone": "855-431-1525",
@@ -71999,7 +73127,8 @@
             "official_practice_area": [
                 "Child Custody",
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-harry-a-suissa-p-c",
@@ -72017,7 +73146,9 @@
                 "city": "Silver Spring",
                 "address": "8720 Georgia Avenue",
                 "address2": "Suite 1010",
-                "zip": "20910"
+                "zip": "20910",
+                "lat": 39.0034,
+                "lng": -77.0354
             },
             "contact": {
                 "phone": "301-818-8503",
@@ -72042,7 +73173,8 @@
                 "Business and Commercial Law",
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "florian-tabaku-esq",
@@ -72060,7 +73192,9 @@
                 "city": "Rockville",
                 "address": "51 Monroe Street",
                 "address2": "Suite 1501",
-                "zip": "20850"
+                "zip": "20850",
+                "lat": 39.0892,
+                "lng": -77.1909
             },
             "contact": {
                 "phone": "410-929-3719",
@@ -72082,7 +73216,8 @@
             "official_practice_area": [
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "trevillian-law",
@@ -72100,7 +73235,9 @@
                 "city": "Severn",
                 "address": "7865 Quarterfield Rd",
                 "address2": null,
-                "zip": "21144"
+                "zip": "21144",
+                "lat": 39.1202,
+                "lng": -76.6867
             },
             "contact": {
                 "phone": "410-886-7607",
@@ -72145,7 +73282,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-frank-e-turney-p-a",
@@ -72163,7 +73301,9 @@
                 "city": "Baltimore",
                 "address": "920 Frederick Road",
                 "address2": null,
-                "zip": "21228"
+                "zip": "21228",
+                "lat": 39.2675,
+                "lng": -76.7446
             },
             "contact": {
                 "phone": "410-788-8830",
@@ -72183,7 +73323,8 @@
             ],
             "official_practice_area": [
                 "Assault and Battery (Plaintiff)"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-charles-l-waechter",
@@ -72201,7 +73342,9 @@
                 "city": "Baltimore",
                 "address": "1435 Sulphur Spring Road",
                 "address2": "1st Floor",
-                "zip": "21227"
+                "zip": "21227",
+                "lat": 39.2412,
+                "lng": -76.6718
             },
             "contact": {
                 "phone": "410-886-7616",
@@ -72239,6 +73382,26 @@
                 "Mergers and Acquisitions",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Towson",
+                    "state": "MD",
+                    "zip": "21286",
+                    "address": "144 Linden Place",
+                    "phone": "+14108867794",
+                    "lat": 39.4146,
+                    "lng": -76.5718
+                },
+                {
+                    "city": "Deerfield Beach",
+                    "state": "FL",
+                    "zip": "33442",
+                    "address": "1836 Sandpiper Pointe",
+                    "phone": "+14108867794",
+                    "lat": 26.3085,
+                    "lng": -80.1433
+                }
             ]
         },
         {
@@ -72257,7 +73420,9 @@
                 "city": "Glen Burnie",
                 "address": "308 Crain Hwy. N.",
                 "address2": "Suite 203",
-                "zip": "21061"
+                "zip": "21061",
+                "lat": 39.1626,
+                "lng": -76.6399
             },
             "contact": {
                 "phone": "410-590-7700",
@@ -72280,6 +73445,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbia",
+                    "state": "MD",
+                    "zip": "21045",
+                    "address": "7266 Cradlerock Way",
+                    "phone": "(410) 941-3810",
+                    "lat": 39.2078,
+                    "lng": -76.8264
+                }
             ]
         },
         {
@@ -72298,7 +73474,9 @@
                 "city": "Silver Spring",
                 "address": "12114B Heritage Park Circle",
                 "address2": null,
-                "zip": "20906"
+                "zip": "20906",
+                "lat": 39.0853,
+                "lng": -77.0589
             },
             "contact": {
                 "phone": "301-732-7675",
@@ -72335,6 +73513,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Upper Marlboro",
+                    "state": "MD",
+                    "zip": "20772",
+                    "address": "14452 Old Mill Road, Suite #201",
+                    "phone": "301-732-7675",
+                    "lat": 38.781,
+                    "lng": -76.7788
+                }
             ]
         },
         {
@@ -72353,7 +73542,9 @@
                 "city": "Baltimore",
                 "address": "10 South St.",
                 "address2": "Suite 503",
-                "zip": "21202"
+                "zip": "21202",
+                "lat": 39.2958,
+                "lng": -76.6078
             },
             "contact": {
                 "phone": "443-909-4409",
@@ -72384,6 +73575,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Largo",
+                    "state": "MD",
+                    "zip": "20774",
+                    "address": "9500 Medical Center Dr., Ste. 430",
+                    "phone": "240-764-4063",
+                    "lat": 38.8922,
+                    "lng": -76.768
+                }
             ]
         },
         {
@@ -72402,7 +73604,9 @@
                 "city": "Clinton",
                 "address": "8808 Old Branch Avenue",
                 "address2": "P.O. Box 219",
-                "zip": "20735"
+                "zip": "20735",
+                "lat": 38.7394,
+                "lng": -76.9118
             },
             "contact": {
                 "phone": "301-856-3030",
@@ -72422,7 +73626,18 @@
                 "Melissa A. Miller",
                 "Christina L. Caron-Moroney"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Dunkirk",
+                    "state": "MD",
+                    "zip": "20754",
+                    "address": "2981 Penwick Lane",
+                    "phone": "301-855-3100",
+                    "lat": 38.7349,
+                    "lng": -76.6478
+                }
+            ]
         },
         {
             "slug": "the-wiggs-law-group-llc",
@@ -72440,7 +73655,9 @@
                 "city": "Largo",
                 "address": "9701 Apollo Drive",
                 "address2": "Suite 301",
-                "zip": "20774"
+                "zip": "20774",
+                "lat": 38.8922,
+                "lng": -76.768
             },
             "contact": {
                 "phone": "240-545-5544",
@@ -72467,7 +73684,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilburn-law-office-llc",
@@ -72485,7 +73703,9 @@
                 "city": "Hagerstown",
                 "address": "134 W. Washington Street, 3rd Floor",
                 "address2": null,
-                "zip": "21740"
+                "zip": "21740",
+                "lat": 39.629,
+                "lng": -77.7155
             },
             "contact": {
                 "phone": "240-760-1110",
@@ -72498,7 +73718,8 @@
             "attorneys": [
                 "Ashley N. Wilburn Esq."
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-michael-l-wilsman",
@@ -72516,7 +73737,9 @@
                 "city": "Severna Park",
                 "address": "565 Baltimore-Annapolis Blvd",
                 "address2": null,
-                "zip": "21146"
+                "zip": "21146",
+                "lat": 39.0742,
+                "lng": -76.5652
             },
             "contact": {
                 "phone": "410-975-9520",
@@ -72568,7 +73791,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

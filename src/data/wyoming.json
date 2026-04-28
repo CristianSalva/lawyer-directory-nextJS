@@ -1881,7 +1881,9 @@
                 "city": "Cheyenne",
                 "address": "1800 Carey Avenue",
                 "address2": "Suite 700",
-                "zip": "82001"
+                "zip": "82001",
+                "lat": 41.1418,
+                "lng": -104.7792
             },
             "contact": {
                 "phone": "307-634-1525",
@@ -1914,7 +1916,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-shelly-kay-flot-pc",
@@ -1932,7 +1935,9 @@
                 "city": "Cheyenne",
                 "address": "17th Street & Central Avenue",
                 "address2": "The Executive Suites",
-                "zip": "82001"
+                "zip": "82001",
+                "lat": 41.1418,
+                "lng": -104.7792
             },
             "contact": {
                 "phone": "307-634-0661",
@@ -1962,7 +1967,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olsen-crecelius-legal-group-llc",
@@ -1980,7 +1986,9 @@
                 "city": "Cheyenne",
                 "address": "204 East 22nd Street",
                 "address2": null,
-                "zip": "82001"
+                "zip": "82001",
+                "lat": 41.1418,
+                "lng": -104.7792
             },
             "contact": {
                 "phone": "307-414-8385",
@@ -2010,7 +2018,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "messenger-overfield-p-c",
@@ -2028,7 +2037,9 @@
                 "city": "Thermopolis",
                 "address": "116 North 5th Street",
                 "address2": "P.O. Box 111",
-                "zip": "82443"
+                "zip": "82443",
+                "lat": 43.7698,
+                "lng": -108.4541
             },
             "contact": {
                 "phone": "307-864-5541",
@@ -2051,7 +2062,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rhodes-law-firm-llc",
@@ -2069,7 +2081,9 @@
                 "city": "Cheyenne",
                 "address": "2015 Warren Avenue",
                 "address2": null,
-                "zip": "82001"
+                "zip": "82001",
+                "lat": 41.1418,
+                "lng": -104.7792
             },
             "contact": {
                 "phone": "307-222-0025",
@@ -2120,7 +2134,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christina-l-williams-attorney-at-law",
@@ -2138,7 +2153,9 @@
                 "city": "Gillette",
                 "address": "319 S. Gillette Avenue",
                 "address2": "Suite 300",
-                "zip": "82716"
+                "zip": "82716",
+                "lat": 44.4706,
+                "lng": -105.6113
             },
             "contact": {
                 "phone": "307-686-6556",
@@ -2158,7 +2175,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

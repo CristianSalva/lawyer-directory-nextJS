@@ -79998,7 +79998,9 @@
                 "city": "Memphis",
                 "address": "530 Oak Court Drive",
                 "address2": "Suite 360",
-                "zip": "38117"
+                "zip": "38117",
+                "lat": 35.1151,
+                "lng": -89.907
             },
             "contact": {
                 "phone": "901-910-1784",
@@ -80036,7 +80038,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "butler-vines-and-babb-p-l-l-c",
@@ -80054,7 +80057,9 @@
                 "city": "Knoxville",
                 "address": "2701 Kingston Pike",
                 "address2": null,
-                "zip": "37919"
+                "zip": "37919",
+                "lat": 35.9183,
+                "lng": -83.9999
             },
             "contact": {
                 "phone": "865-637-3531",
@@ -80098,6 +80103,17 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Knoxville",
+                    "state": "TN",
+                    "zip": "37919",
+                    "address": "2701 Kingston Pike",
+                    "phone": "865-637-3531",
+                    "lat": 35.9183,
+                    "lng": -83.9999
+                }
             ]
         },
         {
@@ -80116,7 +80132,9 @@
                 "city": "Memphis",
                 "address": "6256 Poplar Avenue",
                 "address2": null,
-                "zip": "38119"
+                "zip": "38119",
+                "lat": 35.0787,
+                "lng": -89.8446
             },
             "contact": {
                 "phone": "901-665-9022",
@@ -80142,6 +80160,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jackson",
+                    "state": "TN",
+                    "zip": "38305",
+                    "address": "2790-A N Highland Ave, Suite 100",
+                    "phone": "+19016659022",
+                    "lat": 35.7177,
+                    "lng": -88.7884
+                },
+                {
+                    "city": "Little Rock",
+                    "state": "AR",
+                    "zip": "72205",
+                    "address": "415 N. McKinley, Suite #250-J",
+                    "phone": "+19016659022",
+                    "lat": 34.7449,
+                    "lng": -92.3465
+                }
             ]
         },
         {
@@ -80160,7 +80198,9 @@
                 "city": "Knoxville",
                 "address": "One Centre Square",
                 "address2": "Fifth Floor, 620 Market Street, Post Office Box 2425",
-                "zip": "37902"
+                "zip": "37902",
+                "lat": 35.9629,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-546-4646",
@@ -80192,6 +80232,17 @@
             ],
             "official_practice_area": [
                 "Eminent Domain"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sevierville",
+                    "state": "TN",
+                    "zip": "37862",
+                    "address": "248 Bruce Street, Suite 2",
+                    "phone": "(865) 429-1999",
+                    "lat": 35.783,
+                    "lng": -83.6104
+                }
             ]
         },
         {
@@ -80210,7 +80261,9 @@
                 "city": "Memphis",
                 "address": "3074 East Road",
                 "address2": null,
-                "zip": "38128"
+                "zip": "38128",
+                "lat": 35.2222,
+                "lng": -89.9222
             },
             "contact": {
                 "phone": "901-883-5799",
@@ -80235,7 +80288,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "farris-bobango-branan-plc",
@@ -80253,7 +80307,9 @@
                 "city": "Nashville",
                 "address": "414 Union Street, Suite 1105",
                 "address2": null,
-                "zip": "37219"
+                "zip": "37219",
+                "lat": 36.1676,
+                "lng": -86.7839
             },
             "contact": {
                 "phone": "615-726-1200",
@@ -80316,6 +80372,17 @@
                 "State Local and Municipal Law",
                 "Tax Law",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Memphis",
+                    "state": "TN",
+                    "zip": "38120",
+                    "address": "999 South Shady Grove Road, Suite 500",
+                    "phone": "(901) 259-7100",
+                    "lat": 35.1244,
+                    "lng": -89.8423
+                }
             ]
         },
         {
@@ -80334,7 +80401,9 @@
                 "city": "Cleveland",
                 "address": "393 Broad Street Northwest",
                 "address2": null,
-                "zip": "37311"
+                "zip": "37311",
+                "lat": 35.0929,
+                "lng": -84.9155
             },
             "contact": {
                 "phone": "423-616-6408",
@@ -80357,7 +80426,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-morrison-barnes",
@@ -80375,7 +80445,9 @@
                 "city": "Jackson",
                 "address": "120 S. Liberty St.",
                 "address2": null,
-                "zip": "38301"
+                "zip": "38301",
+                "lat": 35.5875,
+                "lng": -88.8591
             },
             "contact": {
                 "phone": "731-506-0476",
@@ -80419,7 +80491,8 @@
                 "Social Security Disability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spragins-barnett-cobb-plc",
@@ -80437,7 +80510,9 @@
                 "city": "Jackson",
                 "address": "312 East Lafayette",
                 "address2": null,
-                "zip": "38301"
+                "zip": "38301",
+                "lat": 35.5875,
+                "lng": -88.8591
             },
             "contact": {
                 "phone": "731-330-8239",
@@ -80493,7 +80568,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "batson-nolan-plc",
@@ -80511,7 +80587,9 @@
                 "city": "Clarksville",
                 "address": "2678 Townsend Court",
                 "address2": null,
-                "zip": "37043"
+                "zip": "37043",
+                "lat": 36.5033,
+                "lng": -87.2315
             },
             "contact": {
                 "phone": "931-921-3423",
@@ -80559,6 +80637,17 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Springfield",
+                    "state": "TN",
+                    "zip": "37172",
+                    "address": "105 5th Ave W, #201",
+                    "phone": "+16159495216",
+                    "lat": 36.5094,
+                    "lng": -86.8576
+                }
             ]
         },
         {
@@ -80577,7 +80666,9 @@
                 "city": "Memphis",
                 "address": "8066 Walnut Run Rd",
                 "address2": "Ste 222",
-                "zip": "38018"
+                "zip": "38018",
+                "lat": 35.1366,
+                "lng": -89.7733
             },
             "contact": {
                 "phone": "615-694-5012",
@@ -80602,6 +80693,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37201",
+                    "address": "222 2nd Avenue South, Suite 1700",
+                    "phone": "+16156945012",
+                    "lat": 36.166,
+                    "lng": -86.7732
+                }
             ]
         },
         {
@@ -80620,7 +80722,9 @@
                 "city": "Knoxville",
                 "address": "550 W. Main Street",
                 "address2": "Suite 340",
-                "zip": "37902"
+                "zip": "37902",
+                "lat": 35.9629,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-910-8877",
@@ -80687,6 +80791,17 @@
                 "Traffic Ticket",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jacksboro",
+                    "state": "TN",
+                    "zip": "37757",
+                    "address": "571 Main St",
+                    "phone": "+18659108877",
+                    "lat": 36.2927,
+                    "lng": -84.1437
+                }
             ]
         },
         {
@@ -80705,7 +80820,9 @@
                 "city": "Memphis",
                 "address": "80 Monroe Avenue",
                 "address2": "Suite 410",
-                "zip": "38173"
+                "zip": "38173",
+                "lat": 35.1497,
+                "lng": -90.0487
             },
             "contact": {
                 "phone": "901-521-2860",
@@ -80774,6 +80891,26 @@
                 "Personal Injury Defense",
                 "State Local and Municipal Law",
                 "Toxic Torts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Belleville",
+                    "state": "IL",
+                    "zip": "62223",
+                    "address": "5000 West Main Street, P.O. Box 23560",
+                    "phone": "618-277-9000",
+                    "lat": 38.5331,
+                    "lng": -90.0523
+                },
+                {
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "zip": "63101",
+                    "address": "1010 Market Street, Suite 950",
+                    "phone": "314-621-7700",
+                    "lat": 38.6314,
+                    "lng": -90.1924
+                }
             ]
         },
         {
@@ -80792,7 +80929,9 @@
                 "city": "Clarksville",
                 "address": "127 South Third Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-340-5166",
@@ -80834,6 +80973,17 @@
                 "Personal Injury",
                 "Probate",
                 "Social Security"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Clarksville",
+                    "state": "TN",
+                    "zip": "37040",
+                    "address": "2167 Wilma Rudolph Blvd.",
+                    "phone": "+19313408583",
+                    "lat": 36.5165,
+                    "lng": -87.322
+                }
             ]
         },
         {
@@ -80852,7 +81002,9 @@
                 "city": "Memphis",
                 "address": "1407 Union Avenue",
                 "address2": "Ste. 807",
-                "zip": "38104"
+                "zip": "38104",
+                "lat": 35.1356,
+                "lng": -90.0019
             },
             "contact": {
                 "phone": "901-563-1886",
@@ -80882,6 +81034,17 @@
                 "Employment Rights",
                 "Sexual Harassment",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jackson",
+                    "state": "MS",
+                    "zip": "38232",
+                    "address": "10 Canebrake Blvd, Suite 110-100",
+                    "phone": "769-207-0599",
+                    "lat": 36.3505,
+                    "lng": -89.3332
+                }
             ]
         },
         {
@@ -80900,7 +81063,9 @@
                 "city": "Memphis",
                 "address": "80 Monroe, Suite 315",
                 "address2": "The Brinkley Plaza",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-528-1702",
@@ -80931,7 +81096,8 @@
             "official_practice_area": [
                 "Admiralty and Maritime",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kinnard-law",
@@ -80949,7 +81115,9 @@
                 "city": "Nashville",
                 "address": "127 Woodmont Blvd.",
                 "address2": null,
-                "zip": "37205"
+                "zip": "37205",
+                "lat": 36.112,
+                "lng": -86.8683
             },
             "contact": {
                 "phone": "615-933-2893",
@@ -80992,7 +81160,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hf-law-group-pllc",
@@ -81010,7 +81179,9 @@
                 "city": "Memphis",
                 "address": "3257 West Sarazens Circle",
                 "address2": null,
-                "zip": "38125"
+                "zip": "38125",
+                "lat": 35.0292,
+                "lng": -89.777
             },
             "contact": {
                 "phone": "901-322-8025",
@@ -81031,6 +81202,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Memphis",
+                    "state": "TN",
+                    "zip": "38103",
+                    "address": "119 South Main Street, Suite 500",
+                    "phone": "(901) 322-8025",
+                    "lat": 35.1568,
+                    "lng": -90.0685
+                }
             ]
         },
         {
@@ -81049,7 +81231,9 @@
                 "city": "Clarksville",
                 "address": "503 Madison St.",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-710-0494",
@@ -81081,7 +81265,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leitner-williams-dooley-napolitan-pllc",
@@ -81099,7 +81284,9 @@
                 "city": "Nashville",
                 "address": "201 4th Avenue North",
                 "address2": "Suite 1100, 4th & Church Building",
-                "zip": "37219"
+                "zip": "37219",
+                "lat": 36.1676,
+                "lng": -86.7839
             },
             "contact": {
                 "phone": "615-255-7722",
@@ -81130,6 +81317,35 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chattanooga",
+                    "state": "TN",
+                    "zip": "37402",
+                    "address": "Tallan Building, 200 West ML King Boulevard, Suite 500",
+                    "phone": "(423) 265-0214",
+                    "lat": 35.0468,
+                    "lng": -85.3147
+                },
+                {
+                    "city": "Oxford",
+                    "state": "MS",
+                    "zip": "38655",
+                    "address": "317 Heritage Drive, Suite 3",
+                    "phone": "(662) 236-7705",
+                    "lat": 34.3491,
+                    "lng": -89.4836
+                },
+                {
+                    "city": "Roswell",
+                    "state": "GA",
+                    "zip": "30076",
+                    "address": "500 Colonial Center Parkway, Suite 625",
+                    "phone": "(678) 206-2500",
+                    "lat": 34.0249,
+                    "lng": -84.3119
+                }
             ]
         },
         {
@@ -81148,7 +81364,9 @@
                 "city": "Lebanon",
                 "address": "102 Hartmann Dr",
                 "address2": "Ste. G321",
-                "zip": "37087"
+                "zip": "37087",
+                "lat": 36.2789,
+                "lng": -86.2737
             },
             "contact": {
                 "phone": "989-307-8445",
@@ -81180,6 +81398,26 @@
                 "Contracts",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Knoxville",
+                    "state": "TN",
+                    "zip": "37922",
+                    "address": "2042 Town Center Blvd, #334",
+                    "phone": "989-307-8445",
+                    "lat": 35.856,
+                    "lng": -84.101
+                },
+                {
+                    "city": "Palm Beach Gardens",
+                    "state": "FL",
+                    "zip": "33410",
+                    "address": "7711 North Military Trail #471",
+                    "phone": "989-307-8445",
+                    "lat": 26.8457,
+                    "lng": -80.0859
+                }
             ]
         },
         {
@@ -81198,7 +81436,9 @@
                 "city": "Knoxville",
                 "address": "900 South Gay Street, Suite 2300",
                 "address2": null,
-                "zip": "37902"
+                "zip": "37902",
+                "lat": 35.9629,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-525-5300",
@@ -81224,7 +81464,8 @@
                 "Timothy M. McLemore",
                 "Earl Jerome Melson"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-meghan-a-bodie",
@@ -81242,7 +81483,9 @@
                 "city": "Knoxville",
                 "address": "800 S. Gay Street",
                 "address2": "Suite 1650-A",
-                "zip": "37929"
+                "zip": "37929",
+                "lat": 35.9609,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-381-5455",
@@ -81267,7 +81510,8 @@
                 "Adoption",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rogers-shea-spanos",
@@ -81285,7 +81529,9 @@
                 "city": "Nashville",
                 "address": "2205 State Street",
                 "address2": null,
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "888-521-9952",
@@ -81313,6 +81559,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Franklin",
+                    "state": "TN",
+                    "zip": "37064",
+                    "address": "317 Main Street, Suite 206",
+                    "phone": "888-521-9952",
+                    "lat": 35.8832,
+                    "lng": -86.9611
+                }
             ]
         },
         {
@@ -81331,7 +81588,9 @@
                 "city": "Nashville",
                 "address": "2319 Crestmoor Rd.",
                 "address2": null,
-                "zip": "37215"
+                "zip": "37215",
+                "lat": 36.0879,
+                "lng": -86.8379
             },
             "contact": {
                 "phone": "615-704-4081",
@@ -81368,7 +81627,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "boren-boyd-plc",
@@ -81386,7 +81646,9 @@
                 "city": "Jackson",
                 "address": "114 S. Liberty St.",
                 "address2": "Suite 100",
-                "zip": "38301"
+                "zip": "38301",
+                "lat": 35.5875,
+                "lng": -88.8591
             },
             "contact": {
                 "phone": "731-300-6207",
@@ -81410,7 +81672,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-cornelius-bostick",
@@ -81428,7 +81691,9 @@
                 "city": "Memphis",
                 "address": "145 Court Ave.",
                 "address2": "Suite 406",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-441-9959",
@@ -81465,7 +81730,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "boston-holt-hoffmeyer-pllc",
@@ -81483,7 +81749,9 @@
                 "city": "Lawrenceburg",
                 "address": "235 Waterloo Street",
                 "address2": "P.O. Box 357",
-                "zip": "38464"
+                "zip": "38464",
+                "lat": 35.2759,
+                "lng": -87.4046
             },
             "contact": {
                 "phone": "931-201-9452",
@@ -81522,7 +81790,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bouldin-bouldin-plc",
@@ -81540,7 +81809,9 @@
                 "city": "Murfreesboro",
                 "address": "119 E. Main St.",
                 "address2": null,
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-893-9033",
@@ -81569,7 +81840,8 @@
                 "Eminent Domain",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-landers-firm-plc",
@@ -81587,7 +81859,9 @@
                 "city": "Memphis",
                 "address": "Cotton Exchange Building",
                 "address2": "65 Union Avenue Ninth Floor",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-522-1010",
@@ -81610,7 +81884,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "breeding-carter",
@@ -81628,7 +81903,9 @@
                 "city": "Knoxville",
                 "address": "800 South Gay Street",
                 "address2": "Suite 1200",
-                "zip": "37929"
+                "zip": "37929",
+                "lat": 35.9609,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-670-8535",
@@ -81654,7 +81931,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jewell-childress-breakstone-smith-olswing-pllc",
@@ -81672,7 +81950,9 @@
                 "city": "Memphis",
                 "address": "6750 Poplar Avenue",
                 "address2": "Suite 200",
-                "zip": "38138"
+                "zip": "38138",
+                "lat": 35.0842,
+                "lng": -89.792
             },
             "contact": {
                 "phone": "901-669-4054",
@@ -81721,7 +82001,8 @@
                 "Probate",
                 "Traffic Ticket",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-toll-firm",
@@ -81739,7 +82020,9 @@
                 "city": "Goodlettsville",
                 "address": "116 East Cedar Street",
                 "address2": null,
-                "zip": "37072"
+                "zip": "37072",
+                "lat": 36.355,
+                "lng": -86.7621
             },
             "contact": {
                 "phone": "615-949-5444",
@@ -81770,7 +82053,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dale-buchanan-associates",
@@ -81788,7 +82072,9 @@
                 "city": "Chattanooga",
                 "address": "1206 Pointe Centre Drive",
                 "address2": "Suite 110",
-                "zip": "37421"
+                "zip": "37421",
+                "lat": 35.0292,
+                "lng": -85.1551
             },
             "contact": {
                 "phone": "800-945-4950",
@@ -81815,6 +82101,35 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rome",
+                    "state": "GA",
+                    "zip": "30165",
+                    "address": "Satellite location",
+                    "phone": "800-945-4950",
+                    "lat": 34.3094,
+                    "lng": -85.2696
+                },
+                {
+                    "city": "Manchester",
+                    "state": "TN",
+                    "zip": "37355",
+                    "address": "209 East McLean Street",
+                    "phone": "800-945-4950",
+                    "lat": 35.5122,
+                    "lng": -86.0687
+                },
+                {
+                    "city": "Florence",
+                    "state": "AL",
+                    "zip": "35630",
+                    "address": "Satellite location",
+                    "phone": "800-945-4950",
+                    "lat": 34.8303,
+                    "lng": -87.6645
+                }
             ]
         },
         {
@@ -81833,7 +82148,9 @@
                 "city": "Mount Juliet",
                 "address": "651 S. Mt. Juliet Rd., #194",
                 "address2": null,
-                "zip": "37122"
+                "zip": "37122",
+                "lat": 36.1753,
+                "lng": -86.4909
             },
             "contact": {
                 "phone": "615-649-6828",
@@ -81860,7 +82177,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sexual Harassment"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buscher-law-llc",
@@ -81878,7 +82196,9 @@
                 "city": "Nashville",
                 "address": "1030 16th Ave S",
                 "address2": "2nd Floor",
-                "zip": "37212"
+                "zip": "37212",
+                "lat": 36.1323,
+                "lng": -86.8036
             },
             "contact": {
                 "phone": "615-953-0500",
@@ -81909,6 +82229,26 @@
                 "Entertainment Sports and Leisure Law",
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Franklin",
+                    "state": "TN",
+                    "zip": "37064",
+                    "address": "99 E Main Street, Suite 200",
+                    "phone": "615-953-0500",
+                    "lat": 35.8832,
+                    "lng": -86.9611
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80210",
+                    "address": "3900 E Mexico Ave., Suite 300",
+                    "phone": "615-953-0500",
+                    "lat": 39.6754,
+                    "lng": -104.964
+                }
             ]
         },
         {
@@ -81927,7 +82267,9 @@
                 "city": "Morristown",
                 "address": "1004 W. 1st North St.",
                 "address2": null,
-                "zip": "37814"
+                "zip": "37814",
+                "lat": 36.2282,
+                "lng": -83.3263
             },
             "contact": {
                 "phone": "423-621-5874",
@@ -81954,7 +82296,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-cantrell-law-firm",
@@ -81972,7 +82315,9 @@
                 "city": "Clinton",
                 "address": "362 S. Charles G Seivers Boulevard",
                 "address2": null,
-                "zip": "37716"
+                "zip": "37716",
+                "lat": 36.0888,
+                "lng": -84.1718
             },
             "contact": {
                 "phone": "865-457-9100",
@@ -81997,7 +82342,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vicki-m-carriker-attorney-at-law",
@@ -82015,7 +82361,9 @@
                 "city": "Memphis",
                 "address": "200 Jefferson Ave.",
                 "address2": "Suite 1500",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-527-7755",
@@ -82037,7 +82385,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crocker-carter-pllc",
@@ -82055,7 +82404,9 @@
                 "city": "Milan",
                 "address": "1026 College Street",
                 "address2": "Suite 202, BancorpSouth Building",
-                "zip": "38358"
+                "zip": "38358",
+                "lat": 35.9187,
+                "lng": -88.7802
             },
             "contact": {
                 "phone": "731-686-8687",
@@ -82077,7 +82428,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bart-durham-injury-law",
@@ -82095,7 +82447,9 @@
                 "city": "Nashville",
                 "address": "406 11th Avenue North",
                 "address2": "Suite 200",
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-242-9000",
@@ -82159,7 +82513,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-james-flexer",
@@ -82177,7 +82532,9 @@
                 "city": "Nashville",
                 "address": "176 2nd Avenue North",
                 "address2": "Suite 501",
-                "zip": "37201"
+                "zip": "37201",
+                "lat": 36.166,
+                "lng": -86.7732
             },
             "contact": {
                 "phone": "615-669-6846",
@@ -82204,6 +82561,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Murfreesboro",
+                    "state": "TN",
+                    "zip": "37130",
+                    "address": "105 N. Maple, Suite B, On the Square",
+                    "phone": "(615) 255-2893",
+                    "lat": 35.8925,
+                    "lng": -86.317
+                }
             ]
         },
         {
@@ -82222,7 +82590,9 @@
                 "city": "Memphis",
                 "address": "4515 Poplar Avenue",
                 "address2": "Suite 510",
-                "zip": "38117"
+                "zip": "38117",
+                "lat": 35.1151,
+                "lng": -89.907
             },
             "contact": {
                 "phone": "901-504-4307",
@@ -82248,7 +82618,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wagermankatzman",
@@ -82266,7 +82637,9 @@
                 "city": "Memphis",
                 "address": "200 Jefferson Avenue",
                 "address2": "Suite 1313",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-665-8179",
@@ -82306,7 +82679,8 @@
                 "Federal and White Collar Crimes",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gatti-keltner-bienvenu-montesi-plc",
@@ -82324,7 +82698,9 @@
                 "city": "Memphis",
                 "address": "219 Adams Ave.",
                 "address2": null,
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-310-9165",
@@ -82359,7 +82735,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "patton-pittman-attorneys",
@@ -82377,7 +82754,9 @@
                 "city": "Clarksville",
                 "address": "101 North Third Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-647-5242",
@@ -82404,7 +82783,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zettersten-hammond-pllc",
@@ -82422,7 +82802,9 @@
                 "city": "Brentwood",
                 "address": "8115 Isabella Ln",
                 "address2": "Suite 9",
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-896-5720",
@@ -82456,6 +82838,26 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Murfreesboro",
+                    "state": "TN",
+                    "zip": "37130",
+                    "address": "8 Public Square North",
+                    "phone": "615-896-5720",
+                    "lat": 35.8925,
+                    "lng": -86.317
+                },
+                {
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "zip": "35051",
+                    "address": "P.O. Box 1549",
+                    "phone": "205-643-1162",
+                    "lat": 33.2262,
+                    "lng": -86.6105
+                }
             ]
         },
         {
@@ -82474,7 +82876,9 @@
                 "city": "Nashville",
                 "address": "2000 Richard Jones Road",
                 "address2": "Suite 260",
-                "zip": "37215"
+                "zip": "37215",
+                "lat": 36.0879,
+                "lng": -86.8379
             },
             "contact": {
                 "phone": null,
@@ -82496,7 +82900,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cook-tillman-law-group",
@@ -82514,7 +82919,9 @@
                 "city": "Brentwood",
                 "address": "5141 Virginia Way",
                 "address2": "Suite 220",
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-931-1364",
@@ -82540,7 +82947,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davies-humphreys-reese-plc",
@@ -82558,7 +82966,9 @@
                 "city": "Nashville",
                 "address": "Belle Meade Center",
                 "address2": "85 White Bridge Road, Suite 300",
-                "zip": "37205"
+                "zip": "37205",
+                "lat": 36.112,
+                "lng": -86.8683
             },
             "contact": {
                 "phone": "615-256-8125",
@@ -82583,7 +82993,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-perry-a-craft-pllc",
@@ -82601,7 +83012,9 @@
                 "city": "Nashville",
                 "address": "BNA Corporate Center",
                 "address2": "402 BNA Drive, Bldg. 100, Suite 202",
-                "zip": "37217"
+                "zip": "37217",
+                "lat": 36.1059,
+                "lng": -86.6617
             },
             "contact": {
                 "phone": "615-953-3808",
@@ -82648,7 +83061,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lefkovitz-lefkovitz",
@@ -82666,7 +83080,9 @@
                 "city": "Nashville",
                 "address": "908 Harpeth Valley Place",
                 "address2": null,
-                "zip": "37221"
+                "zip": "37221",
+                "lat": 36.0591,
+                "lng": -86.9598
             },
             "contact": {
                 "phone": "615-686-2279",
@@ -82691,6 +83107,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cookeville",
+                    "state": "TN",
+                    "zip": "38501",
+                    "address": "800 South Jefferson Avenue, Suite A",
+                    "phone": "931-400-2218",
+                    "lat": 36.2442,
+                    "lng": -85.5431
+                }
             ]
         },
         {
@@ -82709,7 +83136,9 @@
                 "city": "Brentwood",
                 "address": "101 Westpark Drive, Suite 260",
                 "address2": null,
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-654-7117",
@@ -82738,6 +83167,17 @@
                 "ADR Arbitration and Mediation",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lebanon",
+                    "state": "TN",
+                    "zip": "37087",
+                    "address": "200 E Spring St",
+                    "phone": "615-417-7800",
+                    "lat": 36.2789,
+                    "lng": -86.2737
+                }
             ]
         },
         {
@@ -82756,7 +83196,9 @@
                 "city": "Memphis",
                 "address": "5170 Sanderlin Avenue",
                 "address2": "Suite 201",
-                "zip": "38117"
+                "zip": "38117",
+                "lat": 35.1151,
+                "lng": -89.907
             },
             "contact": {
                 "phone": "901-450-5944",
@@ -82789,7 +83231,8 @@
                 "Probate",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mitchell-ross-rocconi-pllc",
@@ -82807,7 +83250,9 @@
                 "city": "Clarksville",
                 "address": "308 South 2nd Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-552-1480",
@@ -82847,7 +83292,8 @@
                 "Family Law",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daniel-law-firm-ben-daniel-attorney",
@@ -82865,7 +83311,9 @@
                 "city": "Memphis",
                 "address": "145 Court Avenue",
                 "address2": "Second Floor",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-525-5555",
@@ -82892,7 +83340,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-daubenspeck-law-office",
@@ -82910,7 +83359,9 @@
                 "city": "Murfreesboro",
                 "address": "8 N Public Square",
                 "address2": "Suite 3",
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-895-6363",
@@ -82930,7 +83381,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-kessler-davis",
@@ -82948,7 +83400,9 @@
                 "city": "Winchester",
                 "address": "705 Dinah Shore Boulevard",
                 "address2": null,
-                "zip": "37398"
+                "zip": "37398",
+                "lat": 35.1976,
+                "lng": -86.13
             },
             "contact": {
                 "phone": "931-967-7000",
@@ -82975,6 +83429,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chattanooga",
+                    "state": "TN",
+                    "zip": "37405",
+                    "address": "433 Cherokee Blvd.",
+                    "phone": "(423) 267-7000",
+                    "lat": 35.1281,
+                    "lng": -85.3832
+                }
             ]
         },
         {
@@ -82993,7 +83458,9 @@
                 "city": "Sevierville",
                 "address": "124 Court Ave.",
                 "address2": null,
-                "zip": "37862"
+                "zip": "37862",
+                "lat": 35.783,
+                "lng": -83.6104
             },
             "contact": {
                 "phone": "865-332-0859",
@@ -83047,7 +83514,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jad-duncan-attorney-at-law",
@@ -83065,7 +83533,9 @@
                 "city": "Nashville",
                 "address": "161 Belle Forest Circle",
                 "address2": "Suite 207",
-                "zip": "37221"
+                "zip": "37221",
+                "lat": 36.0591,
+                "lng": -86.9598
             },
             "contact": {
                 "phone": "615-896-7192",
@@ -83097,7 +83567,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nichole-dusche",
@@ -83115,7 +83586,9 @@
                 "city": "Franklin",
                 "address": "1284 West Main Street",
                 "address2": null,
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-861-1191",
@@ -83157,7 +83630,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oeb-law-pllc",
@@ -83175,7 +83649,9 @@
                 "city": "Knoxville",
                 "address": "625 Market Street",
                 "address2": "3rd Floor",
-                "zip": "37902"
+                "zip": "37902",
+                "lat": 35.9629,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-284-8779",
@@ -83200,7 +83676,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "epstein-law-firm",
@@ -83218,7 +83695,9 @@
                 "city": "Chattanooga",
                 "address": "1024 E. ML King Blvd.",
                 "address2": null,
-                "zip": "37403"
+                "zip": "37403",
+                "lat": 35.047,
+                "lng": -85.2931
             },
             "contact": {
                 "phone": "423-690-6876",
@@ -83259,6 +83738,17 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37201",
+                    "address": "300 James Robertson Parkway, Suite 200",
+                    "phone": "+14237593465",
+                    "lat": 36.166,
+                    "lng": -86.7732
+                }
             ]
         },
         {
@@ -83277,7 +83767,9 @@
                 "city": "Athens",
                 "address": "296 W. Madison Avenue",
                 "address2": null,
-                "zip": "37303"
+                "zip": "37303",
+                "lat": 35.4202,
+                "lng": -84.6513
             },
             "contact": {
                 "phone": "423-507-1157",
@@ -83308,7 +83800,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spicer-rudstrom-pllc",
@@ -83326,7 +83819,9 @@
                 "city": "Knoxville",
                 "address": "800 South Gay Street",
                 "address2": "Suite 1400",
-                "zip": "37929"
+                "zip": "37929",
+                "lat": 35.9609,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": null,
@@ -83339,7 +83834,8 @@
             "attorneys": [
                 "Andrew N. Firkins"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "michael-j-flanagan-attorney-at-law",
@@ -83357,7 +83853,9 @@
                 "city": "Nashville",
                 "address": "95 White Bridge Road",
                 "address2": "Suite 507",
-                "zip": "37205"
+                "zip": "37205",
+                "lat": 36.112,
+                "lng": -86.8683
             },
             "contact": {
                 "phone": "615-351-6891",
@@ -83377,7 +83875,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "duncan-holland-fleenor-p-c",
@@ -83395,7 +83894,9 @@
                 "city": "Chattanooga",
                 "address": "518 Georgia Avenue",
                 "address2": "Suite 100",
-                "zip": "37403"
+                "zip": "37403",
+                "lat": 35.047,
+                "lng": -85.2931
             },
             "contact": {
                 "phone": "423-690-6043",
@@ -83430,7 +83931,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jimmy-e-mcelroy-associates",
@@ -83448,7 +83950,9 @@
                 "city": "Memphis",
                 "address": "3780 South Mendenhall Road",
                 "address2": null,
-                "zip": "38115"
+                "zip": "38115",
+                "lat": 35.0591,
+                "lng": -89.8603
             },
             "contact": {
                 "phone": "888-871-3678",
@@ -83471,6 +83975,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Memphis",
+                    "state": "TN",
+                    "zip": "38103",
+                    "address": "200 Jefferson Avenue",
+                    "phone": "888-871-3678",
+                    "lat": 35.1568,
+                    "lng": -90.0685
+                }
             ]
         },
         {
@@ -83489,7 +84004,9 @@
                 "city": "Nashville",
                 "address": "424 Church St Suite 2120",
                 "address2": null,
-                "zip": "37219"
+                "zip": "37219",
+                "lat": 36.1676,
+                "lng": -86.7839
             },
             "contact": {
                 "phone": "615-256-6666",
@@ -83532,7 +84049,8 @@
                 "Construction",
                 "Construction Accident",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "george-r-garrison",
@@ -83550,7 +84068,9 @@
                 "city": "Sevierville",
                 "address": "1142 Dolly Parton Parkway",
                 "address2": null,
-                "zip": "37862"
+                "zip": "37862",
+                "lat": 35.783,
+                "lng": -83.6104
             },
             "contact": {
                 "phone": "865-500-3364",
@@ -83574,7 +84094,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "music-city-estate-law",
@@ -83592,7 +84113,9 @@
                 "city": "Franklin",
                 "address": "1650 Murfreesboro Road",
                 "address2": "Suite 208",
-                "zip": "37067"
+                "zip": "37067",
+                "lat": 35.9084,
+                "lng": -86.7779
             },
             "contact": {
                 "phone": "615-729-5650",
@@ -83619,6 +84142,17 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37205",
+                    "address": "4525 Harding Pike, #200",
+                    "phone": "615-729-5650",
+                    "lat": 36.112,
+                    "lng": -86.8683
+                }
             ]
         },
         {
@@ -83637,7 +84171,9 @@
                 "city": "Knoxville",
                 "address": "625 S. Gay Street, Suite 600",
                 "address2": "Two Centre Square",
-                "zip": "37902"
+                "zip": "37902",
+                "lat": 35.9629,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-522-4191",
@@ -83664,7 +84200,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "glaspie-and-rickman",
@@ -83682,7 +84219,9 @@
                 "city": "Sevierville",
                 "address": "500 Park Road",
                 "address2": null,
-                "zip": "37862"
+                "zip": "37862",
+                "lat": 35.783,
+                "lng": -83.6104
             },
             "contact": {
                 "phone": "865-606-6276",
@@ -83704,7 +84243,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goble-yow-attorneys-pllc",
@@ -83722,7 +84262,9 @@
                 "city": "Clarksville",
                 "address": "215 Franklin Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-283-2311",
@@ -83748,7 +84290,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chasity-sharp-grice-attorney-at-law",
@@ -83766,7 +84309,9 @@
                 "city": "Memphis",
                 "address": "474 Perkins Extended",
                 "address2": "Suite 205",
-                "zip": "38117"
+                "zip": "38117",
+                "lat": 35.1151,
+                "lng": -89.907
             },
             "contact": {
                 "phone": "901-761-3140",
@@ -83790,7 +84335,8 @@
             "official_practice_area": [
                 "Elder Law",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-b-hahn-attorney-at-law",
@@ -83808,7 +84354,9 @@
                 "city": "Knoxville",
                 "address": "5344 N Broadway St.",
                 "address2": "Ste 101",
-                "zip": "37918"
+                "zip": "37918",
+                "lat": 36.0575,
+                "lng": -83.9141
             },
             "contact": {
                 "phone": "865-666-1018",
@@ -83832,7 +84380,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-d-hall-attorney-at-law",
@@ -83850,7 +84399,9 @@
                 "city": "Sevierville",
                 "address": "374 Forks of the River Parkway",
                 "address2": null,
-                "zip": "37862"
+                "zip": "37862",
+                "lat": 35.783,
+                "lng": -83.6104
             },
             "contact": {
                 "phone": "865-428-9900",
@@ -83887,7 +84438,8 @@
                 "Land Use and Zoning",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hansrote-hansrote",
@@ -83905,7 +84457,9 @@
                 "city": "Clarksville",
                 "address": "120 South Second Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-553-0100",
@@ -83926,7 +84480,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bear-litigation-pllc",
@@ -83944,7 +84499,9 @@
                 "city": "Knoxville",
                 "address": "10413 Kingston Pike",
                 "address2": "Suite 201",
-                "zip": "37922"
+                "zip": "37922",
+                "lat": 35.856,
+                "lng": -84.101
             },
             "contact": {
                 "phone": "865-427-2327",
@@ -83974,7 +84531,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "g-chance-harrison-attorney-at-law",
@@ -83992,7 +84550,9 @@
                 "city": "Knoxville",
                 "address": "800 S Gay St",
                 "address2": "Suite 1650-C",
-                "zip": "37929"
+                "zip": "37929",
+                "lat": 35.9609,
+                "lng": -83.9206
             },
             "contact": {
                 "phone": "865-999-2251",
@@ -84019,7 +84579,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kuebler-associates-pllc",
@@ -84037,7 +84598,9 @@
                 "city": "Chattanooga",
                 "address": "6223 Airpark Drive",
                 "address2": "Ste. 105",
-                "zip": "37421"
+                "zip": "37421",
+                "lat": 35.0292,
+                "lng": -85.1551
             },
             "contact": {
                 "phone": "423-621-4769",
@@ -84084,7 +84647,8 @@
                 "Probate",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "herndon-coleman-brading-mckee-llp",
@@ -84102,7 +84666,9 @@
                 "city": "Johnson City",
                 "address": "605 E. Unaka Ave.",
                 "address2": null,
-                "zip": "37601"
+                "zip": "37601",
+                "lat": 36.32,
+                "lng": -82.3309
             },
             "contact": {
                 "phone": "877-384-1696",
@@ -84125,7 +84691,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hodde-associates",
@@ -84143,7 +84710,9 @@
                 "city": "Nashville",
                 "address": "40 Music Square East",
                 "address2": null,
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-242-4200",
@@ -84168,7 +84737,8 @@
                 "Child Custody",
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "everett-l-hixson-jr-chartwell-law",
@@ -84186,7 +84756,9 @@
                 "city": "Chattanooga",
                 "address": "100 W. Martin Luther King Blvd",
                 "address2": "Suite 300",
-                "zip": "37402"
+                "zip": "37402",
+                "lat": 35.0468,
+                "lng": -85.3147
             },
             "contact": {
                 "phone": "423-927-3848",
@@ -84221,6 +84793,98 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dalton",
+                    "state": "GA",
+                    "zip": "30720",
+                    "address": "100 N Selvidge St",
+                    "phone": "+14239273848",
+                    "lat": 34.7595,
+                    "lng": -85.0055
+                },
+                {
+                    "city": "Tallahassee",
+                    "state": "FL",
+                    "zip": "32309",
+                    "address": "2984 Wellington Circle",
+                    "phone": "(610) 666-7700",
+                    "lat": 30.5793,
+                    "lng": -84.1019
+                },
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29405",
+                    "address": "4000 S. Faber Place Drive, Suite 300",
+                    "phone": "(610) 666-7700",
+                    "lat": 32.8505,
+                    "lng": -79.982
+                },
+                {
+                    "city": "Sewickley",
+                    "state": "PA",
+                    "zip": "15143",
+                    "address": "409 Broad Street, Suite 250",
+                    "phone": "(610) 666-7700",
+                    "lat": 40.5772,
+                    "lng": -80.1484
+                },
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21230",
+                    "address": "1200 Steuart Street, Unit 929",
+                    "phone": "(610) 666-7700",
+                    "lat": 39.2643,
+                    "lng": -76.6217
+                },
+                {
+                    "city": "Moorestown",
+                    "state": "NJ",
+                    "zip": "08057",
+                    "address": "302 Harper Drive, Suite 205",
+                    "phone": "(610) 666-7700",
+                    "lat": 39.9764,
+                    "lng": -74.9431
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10004",
+                    "address": "One Battery Park Plaza, Suite 710",
+                    "phone": "(610) 666-7700",
+                    "lat": 40.6954,
+                    "lng": -74.0265
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "10 Dorrance Street, Suite 700",
+                    "phone": "(610) 666-7700",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                },
+                {
+                    "city": "Wellesley",
+                    "state": "MA",
+                    "zip": "02481",
+                    "address": "170 Worcester Street, Suite 200",
+                    "phone": "(610) 666-7700",
+                    "lat": 42.3093,
+                    "lng": -71.2724
+                },
+                {
+                    "city": "Boston",
+                    "state": "MN",
+                    "zip": "02109",
+                    "address": "22 Batterymarch Street, 4th Floor",
+                    "phone": "(610) 666-7700",
+                    "lat": 42.3632,
+                    "lng": -71.0538
+                }
             ]
         },
         {
@@ -84239,7 +84903,9 @@
                 "city": "Brentwood",
                 "address": "5595 Franklin Road",
                 "address2": null,
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-369-9996",
@@ -84263,7 +84929,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "abernathy-story-stovall-hood-harris-garner-ashworth-and-campbell",
@@ -84281,7 +84948,9 @@
                 "city": "Franklin",
                 "address": "136 Fourth Avenue South",
                 "address2": null,
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-790-1778",
@@ -84308,7 +84977,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bennett-michael-hornsby-attorneys-at-law",
@@ -84326,7 +84996,9 @@
                 "city": "Murfreesboro",
                 "address": "Public Square",
                 "address2": "108 North Church Street",
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-558-8389",
@@ -84352,7 +85024,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "douglas-w-hutson-attorney-at-law",
@@ -84370,7 +85043,9 @@
                 "city": "Athens",
                 "address": "114 1/2 E Washington Ave",
                 "address2": null,
-                "zip": "37303"
+                "zip": "37303",
+                "lat": 35.4202,
+                "lng": -84.6513
             },
             "contact": {
                 "phone": "423-690-9462",
@@ -84393,7 +85068,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ivy-ivy-law-firm-pllc",
@@ -84411,7 +85087,9 @@
                 "city": "Jackson",
                 "address": "262 Carriage House Dr.",
                 "address2": null,
-                "zip": "38305"
+                "zip": "38305",
+                "lat": 35.7177,
+                "lng": -88.7884
             },
             "contact": {
                 "phone": "731-330-6498",
@@ -84441,7 +85119,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-jenne-law-firm",
@@ -84459,7 +85138,9 @@
                 "city": "Cleveland",
                 "address": "260 N. Ocoee Street",
                 "address2": "P.O. Box 161",
-                "zip": "37311"
+                "zip": "37311",
+                "lat": 35.0929,
+                "lng": -84.9155
             },
             "contact": {
                 "phone": "423-476-5506",
@@ -84484,7 +85165,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-ryan-johnson-attorney-at-law",
@@ -84502,7 +85184,9 @@
                 "city": "Nashville",
                 "address": "214 2nd Ave. N.",
                 "address2": "Suite 100",
-                "zip": "37201"
+                "zip": "37201",
+                "lat": 36.166,
+                "lng": -86.7732
             },
             "contact": {
                 "phone": "615-894-0447",
@@ -84525,7 +85209,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mckinnish-law-group",
@@ -84543,7 +85228,9 @@
                 "city": "Knoxville",
                 "address": "11826 Kingston Pike",
                 "address2": "Ste. #220",
-                "zip": "37934"
+                "zip": "37934",
+                "lat": 35.8706,
+                "lng": -84.1803
             },
             "contact": {
                 "phone": "865-247-8423",
@@ -84571,6 +85258,17 @@
                 "Family Law",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sevierville",
+                    "state": "TN",
+                    "zip": "37862",
+                    "address": "BB&T Building, 100 E. Main Street, Suite 404",
+                    "phone": "+18653818928",
+                    "lat": 35.783,
+                    "lng": -83.6104
+                }
             ]
         },
         {
@@ -84589,7 +85287,9 @@
                 "city": "Oak Ridge",
                 "address": "1143 Oak Ridge Turnpike",
                 "address2": "Suite 202",
-                "zip": "37830"
+                "zip": "37830",
+                "lat": 35.9699,
+                "lng": -84.2864
             },
             "contact": {
                 "phone": "865-482-7877",
@@ -84608,7 +85308,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chancey-kanavos-love-painter",
@@ -84626,7 +85327,9 @@
                 "city": "Cleveland",
                 "address": "121 Broad Street S.W.",
                 "address2": null,
-                "zip": "37311"
+                "zip": "37311",
+                "lat": 35.0929,
+                "lng": -84.9155
             },
             "contact": {
                 "phone": "423-479-9186",
@@ -84651,7 +85354,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keeton-law-firm-pllc",
@@ -84669,7 +85373,9 @@
                 "city": "Manchester",
                 "address": "401 Murfreesboro Hwy.",
                 "address2": null,
-                "zip": "37355"
+                "zip": "37355",
+                "lat": 35.5122,
+                "lng": -86.0687
             },
             "contact": {
                 "phone": "931-400-2548",
@@ -84717,7 +85423,8 @@
                 "Probate",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kessler-law",
@@ -84735,7 +85442,9 @@
                 "city": "Decherd",
                 "address": "1856 Decherd Blvd",
                 "address2": null,
-                "zip": "37324"
+                "zip": "37324",
+                "lat": 35.2525,
+                "lng": -85.9771
             },
             "contact": {
                 "phone": "931-767-0707",
@@ -84774,7 +85483,8 @@
                 "Personal Injury",
                 "Traffic Ticket",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spivey-king-spivey-llp",
@@ -84792,7 +85502,9 @@
                 "city": "Kingsport",
                 "address": "142 Cherokee St",
                 "address2": null,
-                "zip": "37660"
+                "zip": "37660",
+                "lat": 36.5134,
+                "lng": -82.5536
             },
             "contact": {
                 "phone": "423-616-5905",
@@ -84821,7 +85533,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parker-and-laduke",
@@ -84839,7 +85552,9 @@
                 "city": "Knoxville",
                 "address": "108 Sherway Road",
                 "address2": null,
-                "zip": "37922"
+                "zip": "37922",
+                "lat": 35.856,
+                "lng": -84.101
             },
             "contact": {
                 "phone": "865-888-5707",
@@ -84867,7 +85582,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-mary-c-lagrone",
@@ -84885,7 +85601,9 @@
                 "city": "Nashville",
                 "address": "234 4th Avenue North",
                 "address2": "Suite 300",
-                "zip": "37219"
+                "zip": "37219",
+                "lat": 36.1676,
+                "lng": -86.7839
             },
             "contact": {
                 "phone": "615-988-4106",
@@ -84912,7 +85630,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ken-lawson-law",
@@ -84930,7 +85649,9 @@
                 "city": "Chattanooga",
                 "address": "501 S. Germantown Rd.",
                 "address2": null,
-                "zip": "37411"
+                "zip": "37411",
+                "lat": 35.0284,
+                "lng": -85.2306
             },
             "contact": {
                 "phone": "423-800-6920",
@@ -84958,6 +85679,17 @@
                 "Father's Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Ooltewah",
+                    "state": "TN",
+                    "zip": "37363",
+                    "address": "5958 Snow Hill Rd, Ste 144-171",
+                    "phone": "423-800-6920",
+                    "lat": 35.1184,
+                    "lng": -85.0742
+                }
             ]
         },
         {
@@ -84976,7 +85708,9 @@
                 "city": "Nashville",
                 "address": "211 Donelson Pike",
                 "address2": "Ste 204",
-                "zip": "37214"
+                "zip": "37214",
+                "lat": 36.1679,
+                "lng": -86.6605
             },
             "contact": {
                 "phone": "615-558-4708",
@@ -85008,7 +85742,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rosenblum-reisman-attorneys-at-law",
@@ -85026,7 +85761,9 @@
                 "city": "Memphis",
                 "address": "6070 Poplar Avenue",
                 "address2": "Suite 550",
-                "zip": "38119"
+                "zip": "38119",
+                "lat": 35.0787,
+                "lng": -89.8446
             },
             "contact": {
                 "phone": "901-328-9471",
@@ -85068,7 +85805,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dana-mclendon-law",
@@ -85086,7 +85824,9 @@
                 "city": "Franklin",
                 "address": "231 Public Square",
                 "address2": "Suite 300",
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-694-5586",
@@ -85130,7 +85870,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pepper-meeks-whitaker",
@@ -85148,7 +85889,9 @@
                 "city": "Nashville",
                 "address": "1801 West End Ave.",
                 "address2": "Suite 850",
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-616-9439",
@@ -85178,7 +85921,8 @@
                 "Estate Planning",
                 "Insurance Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-higgins-firm-pllc",
@@ -85196,7 +85940,9 @@
                 "city": "Nashville",
                 "address": "525 4th Ave. S.",
                 "address2": null,
-                "zip": "37210"
+                "zip": "37210",
+                "lat": 36.1392,
+                "lng": -86.7324
             },
             "contact": {
                 "phone": "615-903-2572",
@@ -85229,6 +85975,17 @@
             ],
             "official_practice_area": [
                 "Nursing Home Abuse"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chattanooga",
+                    "state": "TN",
+                    "zip": "37403",
+                    "address": "651 E. 4th St., #100",
+                    "phone": "615-903-2572",
+                    "lat": 35.047,
+                    "lng": -85.2931
+                }
             ]
         },
         {
@@ -85247,7 +86004,9 @@
                 "city": "Brentwood",
                 "address": "5141 Virginia Way",
                 "address2": "#270",
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-742-4880",
@@ -85276,6 +86035,17 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37228",
+                    "address": "810 Dominican Dr, #315",
+                    "phone": "615-742-4880",
+                    "lat": 36.194,
+                    "lng": -86.8051
+                }
             ]
         },
         {
@@ -85294,7 +86064,9 @@
                 "city": "Cleveland",
                 "address": "701 17th Street NW",
                 "address2": null,
-                "zip": "37311"
+                "zip": "37311",
+                "lat": 35.0929,
+                "lng": -84.9155
             },
             "contact": {
                 "phone": "423-927-2422",
@@ -85328,7 +86100,8 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mogy-law-firm",
@@ -85346,7 +86119,9 @@
                 "city": "Memphis",
                 "address": "200 Jefferson Ave.",
                 "address2": "Suite 811",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-443-4592",
@@ -85370,6 +86145,35 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Murray",
+                    "state": "KY",
+                    "zip": "42071",
+                    "address": "204 South 6th Street",
+                    "phone": "901-443-4592",
+                    "lat": 36.6395,
+                    "lng": -88.2775
+                },
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37211",
+                    "address": "301 S. Peremiter Park, Suite 100, Office 40",
+                    "phone": "901-443-4592",
+                    "lat": 36.0684,
+                    "lng": -86.7239
+                },
+                {
+                    "city": "Birmingham",
+                    "state": "AL",
+                    "zip": "35209",
+                    "address": "2100 South Bridge Parkway, Suite 650",
+                    "phone": "901-443-4592",
+                    "lat": 33.4645,
+                    "lng": -86.8066
+                }
             ]
         },
         {
@@ -85388,7 +86192,9 @@
                 "city": "Knoxville",
                 "address": "112 Glenleigh Court",
                 "address2": "Suite 1",
-                "zip": "37934"
+                "zip": "37934",
+                "lat": 35.8706,
+                "lng": -84.1803
             },
             "contact": {
                 "phone": "865-643-8452",
@@ -85423,7 +86229,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mary-sullivan-moore-attorney-at-law-pllp",
@@ -85441,7 +86248,9 @@
                 "city": "Chattanooga",
                 "address": "622 Georgia Ave",
                 "address2": "Suite 101",
-                "zip": "37402"
+                "zip": "37402",
+                "lat": 35.0468,
+                "lng": -85.3147
             },
             "contact": {
                 "phone": "423-933-1800",
@@ -85462,7 +86271,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murfree-goodman-pllc",
@@ -85480,7 +86290,9 @@
                 "city": "Murfreesboro",
                 "address": "805 South Church Street",
                 "address2": "Suite 21",
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-895-7000",
@@ -85504,7 +86316,8 @@
             ],
             "official_practice_area": [
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-timothy-h-nichols-pllc",
@@ -85522,7 +86335,9 @@
                 "city": "Nashville",
                 "address": "1614 19th Avenue South",
                 "address2": null,
-                "zip": "37212"
+                "zip": "37212",
+                "lat": 36.1323,
+                "lng": -86.8036
             },
             "contact": {
                 "phone": "877-774-9554",
@@ -85544,7 +86359,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chelsea-nicholson-attorney-at-law",
@@ -85562,7 +86378,9 @@
                 "city": "Nashville",
                 "address": "343 Harrison Street",
                 "address2": null,
-                "zip": "37219"
+                "zip": "37219",
+                "lat": 36.1676,
+                "lng": -86.7839
             },
             "contact": {
                 "phone": "615-913-3932",
@@ -85587,7 +86405,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "logan-thompson-p-c",
@@ -85605,7 +86424,9 @@
                 "city": "Cleveland",
                 "address": "30 2nd St NW",
                 "address2": null,
-                "zip": "37311"
+                "zip": "37311",
+                "lat": 35.0929,
+                "lng": -84.9155
             },
             "contact": {
                 "phone": "423-476-2251",
@@ -85635,7 +86456,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oakes-law-firm",
@@ -85653,7 +86475,9 @@
                 "city": "Knoxville",
                 "address": "10413 Kingston Pike",
                 "address2": "Suite 201",
-                "zip": "37922"
+                "zip": "37922",
+                "lat": 35.856,
+                "lng": -84.101
             },
             "contact": {
                 "phone": "865-381-8962",
@@ -85684,7 +86508,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-thomas-t-overton",
@@ -85702,7 +86527,9 @@
                 "city": "Nashville",
                 "address": "PO Box 210184",
                 "address2": null,
-                "zip": "37221"
+                "zip": "37221",
+                "lat": 36.0591,
+                "lng": -86.9598
             },
             "contact": {
                 "phone": "615-953-8796",
@@ -85730,7 +86557,8 @@
                 "Drug Crime",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parham-law-office",
@@ -85748,7 +86576,9 @@
                 "city": "Murfreesboro",
                 "address": "745 S. Church Street",
                 "address2": "Ste. A130",
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-694-8443",
@@ -85770,7 +86600,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-brocklin-law-firm-pc",
@@ -85788,7 +86619,9 @@
                 "city": "Nashville",
                 "address": "315 Deaderick Street",
                 "address2": "UBS Tower, Suite 1550",
-                "zip": "37238"
+                "zip": "37238",
+                "lat": 36.1648,
+                "lng": -86.7787
             },
             "contact": {
                 "phone": "615-928-1920",
@@ -85810,7 +86643,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parker-toy-associates-pllc",
@@ -85828,7 +86662,9 @@
                 "city": "Murfreesboro",
                 "address": "745 South Church Street",
                 "address2": "Suite 240",
-                "zip": "37130"
+                "zip": "37130",
+                "lat": 35.8925,
+                "lng": -86.317
             },
             "contact": {
                 "phone": "615-814-0706",
@@ -85857,7 +86693,8 @@
                 "Estate Planning",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-anita-patel",
@@ -85875,7 +86712,9 @@
                 "city": "37922 Knoxville",
                 "address": "624 S. Peters Road",
                 "address2": null,
-                "zip": "37922"
+                "zip": "37922",
+                "lat": 35.856,
+                "lng": -84.101
             },
             "contact": {
                 "phone": "865-973-9264",
@@ -85892,7 +86731,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peel-law-firm",
@@ -85910,7 +86750,9 @@
                 "city": "Millington",
                 "address": "8582 U.S. Highway 51 North",
                 "address2": null,
-                "zip": "38053"
+                "zip": "38053",
+                "lat": 35.3495,
+                "lng": -89.8996
             },
             "contact": {
                 "phone": "901-872-4229",
@@ -85934,7 +86776,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "plemmons-law-group-pllc",
@@ -85952,7 +86795,9 @@
                 "city": "Loudon",
                 "address": "294A Village Square Dr.",
                 "address2": null,
-                "zip": "37774"
+                "zip": "37774",
+                "lat": 35.7356,
+                "lng": -84.3726
             },
             "contact": {
                 "phone": "865-252-2751",
@@ -85978,7 +86823,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-april-perry-randle-pllc",
@@ -85996,7 +86842,9 @@
                 "city": "Ooltewah",
                 "address": "8898 Old Lee Hwy",
                 "address2": "Suite 106",
-                "zip": "37363"
+                "zip": "37363",
+                "lat": 35.1184,
+                "lng": -85.0742
             },
             "contact": {
                 "phone": "423-521-8000",
@@ -86018,7 +86866,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reach-law-office",
@@ -86036,7 +86885,9 @@
                 "city": "Johnson City",
                 "address": "112 E. Myrtle Avenue",
                 "address2": "Suite 304",
-                "zip": "37601"
+                "zip": "37601",
+                "lat": 36.32,
+                "lng": -82.3309
             },
             "contact": {
                 "phone": "423-926-8300",
@@ -86058,7 +86909,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tidwell-associates",
@@ -86076,7 +86928,9 @@
                 "city": "Chattanooga",
                 "address": "1810 McCallie Ave.",
                 "address2": null,
-                "zip": "37404"
+                "zip": "37404",
+                "lat": 35.0242,
+                "lng": -85.272
             },
             "contact": {
                 "phone": "423-621-5988",
@@ -86111,7 +86965,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "runyon-runyon",
@@ -86129,7 +86984,9 @@
                 "city": "Clarksville",
                 "address": "301 Main Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-805-4445",
@@ -86153,7 +87010,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mount-juliet-law-pllc",
@@ -86171,7 +87029,9 @@
                 "city": "Mount Juliet",
                 "address": "1000 Pleasant Grove Place",
                 "address2": "Suite 200",
-                "zip": "37122"
+                "zip": "37122",
+                "lat": 36.1753,
+                "lng": -86.4909
             },
             "contact": {
                 "phone": "615-541-1475",
@@ -86194,7 +87054,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-d-schwalb-pllc",
@@ -86212,7 +87073,9 @@
                 "city": "Franklin",
                 "address": "120 Third Avenue South",
                 "address2": null,
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-794-7100",
@@ -86235,7 +87098,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gene-scott-attorney-at-law",
@@ -86253,7 +87117,9 @@
                 "city": "Johnson City",
                 "address": "302 Sunset Dr.",
                 "address2": "Suite 111",
-                "zip": "37604"
+                "zip": "37604",
+                "lat": 36.3141,
+                "lng": -82.3815
             },
             "contact": {
                 "phone": "423-621-6059",
@@ -86278,7 +87144,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-sexton-law-firm",
@@ -86296,7 +87163,9 @@
                 "city": "Knoxville",
                 "address": "9145 Cross Park Drive",
                 "address2": "#103",
-                "zip": "37923"
+                "zip": "37923",
+                "lat": 35.9281,
+                "lng": -84.085
             },
             "contact": {
                 "phone": "865-691-7900",
@@ -86318,6 +87187,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sevierville",
+                    "state": "TN",
+                    "zip": "37862",
+                    "address": "500 Park Rd.",
+                    "phone": "(865) 691-7900",
+                    "lat": 35.783,
+                    "lng": -83.6104
+                }
             ]
         },
         {
@@ -86336,7 +87216,9 @@
                 "city": "Memphis",
                 "address": "44 North Second Street",
                 "address2": "Suite 403",
-                "zip": "38103"
+                "zip": "38103",
+                "lat": 35.1568,
+                "lng": -90.0685
             },
             "contact": {
                 "phone": "901-730-4958",
@@ -86364,7 +87246,8 @@
                 "Bankruptcy",
                 "Debtor and Creditor",
                 "Foreclosure and Alternatives"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kizer-black-attorneys-pllc",
@@ -86382,7 +87265,9 @@
                 "city": "Maryville",
                 "address": "329 Cates Street",
                 "address2": null,
-                "zip": "37801"
+                "zip": "37801",
+                "lat": 35.6785,
+                "lng": -84.0895
             },
             "contact": {
                 "phone": "865-982-7650",
@@ -86409,7 +87294,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "costner-greene-attorneys-at-law",
@@ -86427,7 +87313,9 @@
                 "city": "Maryville",
                 "address": "315 High Street",
                 "address2": null,
-                "zip": "37804"
+                "zip": "37804",
+                "lat": 35.801,
+                "lng": -83.8875
             },
             "contact": {
                 "phone": "865-983-7642",
@@ -86455,7 +87343,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-stone-law-firm-pllc",
@@ -86473,7 +87362,9 @@
                 "city": "Knoxville",
                 "address": "1518 N. Broadway",
                 "address2": "Suite 109",
-                "zip": "37917"
+                "zip": "37917",
+                "lat": 35.9995,
+                "lng": -83.9119
             },
             "contact": {
                 "phone": "865-332-2582",
@@ -86509,7 +87400,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jennifer-lynn-thompson-attorney-at-law",
@@ -86527,7 +87419,9 @@
                 "city": "Nashville",
                 "address": "810 Broadway",
                 "address2": "Suite 305",
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-601-0003",
@@ -86558,7 +87452,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "manier-herod",
@@ -86576,7 +87471,9 @@
                 "city": "Nashville",
                 "address": "1201 Demonbreun Street",
                 "address2": null,
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-244-0030",
@@ -86609,7 +87506,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeremy-d-trapp-attorney-at-law",
@@ -86627,7 +87525,9 @@
                 "city": "Smithville",
                 "address": "407 West Public Square",
                 "address2": null,
-                "zip": "37166"
+                "zip": "37166",
+                "lat": 35.9386,
+                "lng": -85.7874
             },
             "contact": {
                 "phone": "615-694-5820",
@@ -86671,7 +87571,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jonathan-w-turner-attorney",
@@ -86689,7 +87590,9 @@
                 "city": "Franklin",
                 "address": "1284 West Main Street",
                 "address2": "Suite 104",
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-949-3168",
@@ -86711,7 +87614,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tull-law-firm-pllc",
@@ -86729,7 +87633,9 @@
                 "city": "Spring Hill",
                 "address": "5326 Main Street",
                 "address2": "Suite D",
-                "zip": "37174"
+                "zip": "37174",
+                "lat": 35.7181,
+                "lng": -86.8923
             },
             "contact": {
                 "phone": "615-530-5719",
@@ -86749,7 +87655,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-vaughan-law-firm",
@@ -86767,7 +87674,9 @@
                 "city": "Knoxville",
                 "address": "112 Durwood Road",
                 "address2": null,
-                "zip": "37922"
+                "zip": "37922",
+                "lat": 35.856,
+                "lng": -84.101
             },
             "contact": {
                 "phone": "865-564-9166",
@@ -86802,7 +87711,8 @@
                 "Legal Malpractice",
                 "Litigation and Appeals",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-varela-law-firm",
@@ -86820,7 +87730,9 @@
                 "city": "Chattanooga",
                 "address": "1412 Bailey Avenue",
                 "address2": null,
-                "zip": "37404"
+                "zip": "37404",
+                "lat": 35.0242,
+                "lng": -85.272
             },
             "contact": {
                 "phone": "423-927-1735",
@@ -86847,6 +87759,35 @@
                 "Car Accidents",
                 "Immigration",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fort Oglethorpe",
+                    "state": "GA",
+                    "zip": "30742",
+                    "address": "3091 Battlefield Parkway",
+                    "phone": "+17069035968",
+                    "lat": 34.9362,
+                    "lng": -85.2438
+                },
+                {
+                    "city": "Cleveland",
+                    "state": "TN",
+                    "zip": "37312",
+                    "address": "1441 Guthrie Dr NW, Suite 204",
+                    "phone": "+14239271735",
+                    "lat": 35.2269,
+                    "lng": -84.8733
+                },
+                {
+                    "city": "Fort Payne",
+                    "state": "AL",
+                    "zip": "35967",
+                    "address": "1000 Gault Avenue South, Suite A",
+                    "phone": "+12569608325",
+                    "lat": 34.4071,
+                    "lng": -85.7046
+                }
             ]
         },
         {
@@ -86865,7 +87806,9 @@
                 "city": "Chattanooga",
                 "address": "701 Market Street",
                 "address2": "Suite 310",
-                "zip": "37402"
+                "zip": "37402",
+                "lat": 35.0468,
+                "lng": -85.3147
             },
             "contact": {
                 "phone": "423-781-0955",
@@ -86891,7 +87834,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-heidi-plehn-wegryn-pllc",
@@ -86909,7 +87853,9 @@
                 "city": "Knoxville",
                 "address": "404 Ebenezer Road",
                 "address2": null,
-                "zip": "37923"
+                "zip": "37923",
+                "lat": 35.9281,
+                "lng": -84.085
             },
             "contact": {
                 "phone": "865-338-7485",
@@ -86951,7 +87897,8 @@
                 "Family Law",
                 "Father's Rights",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "steltemeier-westbrook-pllc",
@@ -86969,7 +87916,9 @@
                 "city": "Franklin",
                 "address": "220 2nd Ave. S.",
                 "address2": null,
-                "zip": "37064"
+                "zip": "37064",
+                "lat": 35.8832,
+                "lng": -86.9611
             },
             "contact": {
                 "phone": "615-656-5416",
@@ -86995,7 +87944,8 @@
                 "Collections",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-wharton-law-firm",
@@ -87013,7 +87963,9 @@
                 "city": "Memphis",
                 "address": "1575 Madison Ave.",
                 "address2": null,
-                "zip": "38104"
+                "zip": "38104",
+                "lat": 35.1356,
+                "lng": -90.0019
             },
             "contact": {
                 "phone": "901-698-0529",
@@ -87048,7 +88000,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "white-white-attorneys-at-law",
@@ -87066,7 +88019,9 @@
                 "city": "Seymour",
                 "address": "216 Phoenix Court",
                 "address2": "Suite D",
-                "zip": "37865"
+                "zip": "37865",
+                "lat": 35.8516,
+                "lng": -83.7365
             },
             "contact": {
                 "phone": "865-284-4106",
@@ -87097,7 +88052,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "devonlaw-pllc",
@@ -87115,7 +88071,9 @@
                 "city": "Nashville",
                 "address": "207 23rd Ave N",
                 "address2": "Suite 101",
-                "zip": "37203"
+                "zip": "37203",
+                "lat": 36.1504,
+                "lng": -86.7913
             },
             "contact": {
                 "phone": "615-623-0232",
@@ -87153,7 +88111,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-michael-k-williamson",
@@ -87171,7 +88130,9 @@
                 "city": "Clarksville",
                 "address": "114 Franklin Street",
                 "address2": null,
-                "zip": "37040"
+                "zip": "37040",
+                "lat": 36.5165,
+                "lng": -87.322
             },
             "contact": {
                 "phone": "931-647-8500",
@@ -87213,7 +88174,8 @@
                 "Family Law",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wills-law-pllc",
@@ -87231,7 +88193,9 @@
                 "city": "Brentwood",
                 "address": "750 Old Hickory Blvd Ste 150 Bldg 2",
                 "address2": null,
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-562-5702",
@@ -87267,7 +88231,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "young-law-office-pc",
@@ -87285,7 +88250,9 @@
                 "city": "Knoxville",
                 "address": "9041 Executive Park Drive",
                 "address2": "Ste. 121",
-                "zip": "37923"
+                "zip": "37923",
+                "lat": 35.9281,
+                "lng": -84.085
             },
             "contact": {
                 "phone": "865-240-0676",
@@ -87314,7 +88281,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zenner-law-pllc",
@@ -87332,7 +88300,9 @@
                 "city": "Brentwood",
                 "address": "320 Seven Springs Way",
                 "address2": "Suite 259",
-                "zip": "37027"
+                "zip": "37027",
+                "lat": 36.0016,
+                "lng": -86.7807
             },
             "contact": {
                 "phone": "615-956-0435",
@@ -87374,7 +88344,8 @@
                 "Personal Injury",
                 "Sexual Harassment",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

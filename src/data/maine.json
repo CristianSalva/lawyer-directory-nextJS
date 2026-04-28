@@ -3807,7 +3807,9 @@
                 "city": "York",
                 "address": "279 York Street",
                 "address2": null,
-                "zip": "03909"
+                "zip": "03909",
+                "lat": 43.1646,
+                "lng": -70.6755
             },
             "contact": {
                 "phone": "207-619-0036",
@@ -3837,6 +3839,17 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kennebunk",
+                    "state": "ME",
+                    "zip": "04043",
+                    "address": "2 Storer Street, Suite 403A",
+                    "phone": "+12076190039",
+                    "lat": 43.3965,
+                    "lng": -70.5724
+                }
             ]
         },
         {
@@ -3855,7 +3868,9 @@
                 "city": "Bangor",
                 "address": "133 Broadway",
                 "address2": null,
-                "zip": "04401"
+                "zip": "04401",
+                "lat": 44.8636,
+                "lng": -68.8157
             },
             "contact": {
                 "phone": "207-942-2898",
@@ -3878,7 +3893,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bayer-law-office",
@@ -3896,7 +3912,9 @@
                 "city": "Portland",
                 "address": "254 Commercial Street",
                 "address2": "Suite 245",
-                "zip": "04101"
+                "zip": "04101",
+                "lat": 43.6608,
+                "lng": -70.2613
             },
             "contact": {
                 "phone": "207-619-0057",
@@ -3920,7 +3938,8 @@
             "official_practice_area": [
                 "Asbestos Mesothelioma",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legal-ease",
@@ -3938,7 +3957,9 @@
                 "city": "South Portland",
                 "address": "198 Maine Mall Rd",
                 "address2": null,
-                "zip": "04106"
+                "zip": "04106",
+                "lat": 43.6263,
+                "lng": -70.3007
             },
             "contact": {
                 "phone": "207-805-0055",
@@ -3960,7 +3981,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-joe-bornstein",
@@ -3978,7 +4000,9 @@
                 "city": "Portland",
                 "address": "90 Johnson Rd",
                 "address2": "Suite A",
-                "zip": "04102"
+                "zip": "04102",
+                "lat": 43.6635,
+                "lng": -70.3026
             },
             "contact": {
                 "phone": "207-360-8898",
@@ -4007,6 +4031,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Biddeford",
+                    "state": "ME",
+                    "zip": "04005",
+                    "address": "193 Main Street, Suite 105",
+                    "phone": "207-835-3423",
+                    "lat": 43.4967,
+                    "lng": -70.4886
+                }
             ]
         },
         {
@@ -4025,7 +4060,9 @@
                 "city": "Lewiston",
                 "address": "465 Main Street",
                 "address2": "Suite 100, PO Box 1260",
-                "zip": "04240"
+                "zip": "04240",
+                "lat": 44.0864,
+                "lng": -70.1576
             },
             "contact": {
                 "phone": "207-333-5103",
@@ -4071,7 +4108,8 @@
                 "Social Security Disability",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "boyd-wentworth",
@@ -4089,7 +4127,9 @@
                 "city": "Portland",
                 "address": "6 City Center",
                 "address2": "Floor 3",
-                "zip": "04101"
+                "zip": "04101",
+                "lat": 43.6608,
+                "lng": -70.2613
             },
             "contact": {
                 "phone": "207-370-0002",
@@ -4120,7 +4160,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "webb-law-firm",
@@ -4138,7 +4179,9 @@
                 "city": "Saco",
                 "address": "16 Middle St",
                 "address2": null,
-                "zip": "04072"
+                "zip": "04072",
+                "lat": 43.534,
+                "lng": -70.462
             },
             "contact": {
                 "phone": "207-558-3995",
@@ -4167,6 +4210,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "ME",
+                    "zip": "04101",
+                    "address": "120 Exchange St",
+                    "phone": "207-558-3995",
+                    "lat": 43.6608,
+                    "lng": -70.2613
+                }
             ]
         },
         {
@@ -4185,7 +4239,9 @@
                 "city": "Portland",
                 "address": "15 Franklin St.",
                 "address2": null,
-                "zip": "04101"
+                "zip": "04101",
+                "lat": 43.6608,
+                "lng": -70.2613
             },
             "contact": {
                 "phone": "207-747-1752",
@@ -4212,7 +4268,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schwartz-schwartz",
@@ -4230,7 +4287,9 @@
                 "city": "Portland",
                 "address": "482 Congress St",
                 "address2": "Suite 301",
-                "zip": "04101"
+                "zip": "04101",
+                "lat": 43.6608,
+                "lng": -70.2613
             },
             "contact": {
                 "phone": "207-774-6111",
@@ -4255,7 +4314,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-j-scott-logan-llc",
@@ -4273,7 +4333,9 @@
                 "city": "Yarmouth",
                 "address": "305 Main Street",
                 "address2": null,
-                "zip": "04096"
+                "zip": "04096",
+                "lat": 43.7945,
+                "lng": -70.1706
             },
             "contact": {
                 "phone": "207-770-1798",
@@ -4294,7 +4356,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-david-a-lourie",
@@ -4312,7 +4375,9 @@
                 "city": "Cape Elizabeth",
                 "address": "189 Spurwink Avenue",
                 "address2": null,
-                "zip": "04107"
+                "zip": "04107",
+                "lat": 43.5933,
+                "lng": -70.2387
             },
             "contact": {
                 "phone": "207-799-4922",
@@ -4345,6 +4410,17 @@
                 "Real Estate",
                 "State Local and Municipal Law",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cape Elizabeth",
+                    "state": "ME",
+                    "zip": "04107",
+                    "address": "189 Spurwink Avenue",
+                    "phone": "207-799-4922",
+                    "lat": 43.5933,
+                    "lng": -70.2387
+                }
             ]
         },
         {
@@ -4363,7 +4439,9 @@
                 "city": "Topsham",
                 "address": "4 Union Park",
                 "address2": "P.O. Box 5000",
-                "zip": "04086"
+                "zip": "04086",
+                "lat": 43.9741,
+                "lng": -69.9582
             },
             "contact": {
                 "phone": "207-910-7041",
@@ -4403,7 +4481,8 @@
                 "Social Security Disability",
                 "Toxic Torts",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "regan-law-llc",
@@ -4421,7 +4500,9 @@
                 "city": "Topsham",
                 "address": "4 Union Park Road",
                 "address2": "#7",
-                "zip": "04086"
+                "zip": "04086",
+                "lat": 43.9741,
+                "lng": -69.9582
             },
             "contact": {
                 "phone": "207-910-6933",
@@ -4470,7 +4551,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robidas-law",
@@ -4488,7 +4570,9 @@
                 "city": "Portland",
                 "address": "527 Ocean Avenue, Suite 1",
                 "address2": null,
-                "zip": "04103"
+                "zip": "04103",
+                "lat": 43.6937,
+                "lng": -70.2904
             },
             "contact": {
                 "phone": "207-838-0832",
@@ -4517,7 +4601,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schaeferlaw-llc",
@@ -4535,7 +4620,9 @@
                 "city": "Portland",
                 "address": "P.O. Box 28",
                 "address2": null,
-                "zip": "04112"
+                "zip": "04112",
+                "lat": 43.6615,
+                "lng": -70.2555
             },
             "contact": {
                 "phone": "207-543-3668",
@@ -4558,7 +4645,8 @@
             ],
             "official_practice_area": [
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

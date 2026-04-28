@@ -76123,7 +76123,9 @@
                 "city": "Colorado Springs",
                 "address": "2 N. Cascade Ave.",
                 "address2": "11th Floor",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-666-5560",
@@ -76153,7 +76155,8 @@
                 "Business and Commercial Law",
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arnold-arnold-llp",
@@ -76171,7 +76174,9 @@
                 "city": "Littleton",
                 "address": "7691 Shaffer Parkway",
                 "address2": "Suite A",
-                "zip": "80127"
+                "zip": "80127",
+                "lat": 39.5333,
+                "lng": -105.157
             },
             "contact": {
                 "phone": "720-962-6010",
@@ -76208,7 +76213,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-andrew-bryant",
@@ -76226,7 +76232,9 @@
                 "city": "Colorado Springs",
                 "address": "805 South Cascade Ave",
                 "address2": null,
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-999-0509",
@@ -76276,7 +76284,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daniel-barron-attorney-and-mediation-services-inc",
@@ -76294,7 +76303,9 @@
                 "city": "Edwards",
                 "address": "Wells Fargo Bldg",
                 "address2": "Suite 205-2",
-                "zip": "81632"
+                "zip": "81632",
+                "lat": 39.6289,
+                "lng": -106.6404
             },
             "contact": {
                 "phone": "970-926-6636",
@@ -76317,7 +76328,8 @@
             "official_practice_area": [
                 "ADR Arbitration and Mediation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "denver-injury-law-llc",
@@ -76335,7 +76347,9 @@
                 "city": "Denver",
                 "address": "201 Columbine St.",
                 "address2": "Ste. 150",
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "720-389-2838",
@@ -76368,7 +76382,8 @@
                 "Dangerous Products",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gem-family-law",
@@ -76386,7 +76401,9 @@
                 "city": "Denver",
                 "address": "650 S. Cherry Street",
                 "address2": "Suite 500",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "720-536-2055",
@@ -76429,7 +76446,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ciancio-ciancio-brown-p-c",
@@ -76447,7 +76465,9 @@
                 "city": "Breckenridge",
                 "address": "106 North French Street",
                 "address2": "Suite 230",
-                "zip": "80424"
+                "zip": "80424",
+                "lat": 39.4678,
+                "lng": -105.9962
             },
             "contact": {
                 "phone": "303-951-8620",
@@ -76471,6 +76491,26 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80264",
+                    "address": "1660 Lincoln Street, Suite 2000",
+                    "phone": "+13039519410",
+                    "lat": 39.7425,
+                    "lng": -104.9856
+                },
+                {
+                    "city": "Olympia",
+                    "state": "WA",
+                    "zip": "98502",
+                    "address": "6121 Brenner Road, Northwest",
+                    "phone": "+13039519410",
+                    "lat": 47.1039,
+                    "lng": -123.0524
+                }
             ]
         },
         {
@@ -76489,7 +76529,9 @@
                 "city": "Denver",
                 "address": "303 E. 17th Avenue",
                 "address2": "Suite 900",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-835-0049",
@@ -76519,7 +76561,8 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dan-caplis-law",
@@ -76537,7 +76580,9 @@
                 "city": "Greenwood Village",
                 "address": "Plaza Tower One",
                 "address2": "6400 S Fiddler’s Green Circle, Penthouse Suite 2200",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-770-5551",
@@ -76584,6 +76629,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greeley",
+                    "state": "CO",
+                    "zip": "80634",
+                    "address": "4239 Centerplace Drive",
+                    "phone": "(303) 770-5551",
+                    "lat": 40.3928,
+                    "lng": -104.7928
+                }
             ]
         },
         {
@@ -76602,7 +76658,9 @@
                 "city": "Castle Rock",
                 "address": "18 South Wilcox Street",
                 "address2": "Suite 200",
-                "zip": "80104"
+                "zip": "80104",
+                "lat": 39.3039,
+                "lng": -104.8215
             },
             "contact": {
                 "phone": "720-500-2999",
@@ -76660,7 +76718,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-springer-steinberg",
@@ -76678,7 +76737,9 @@
                 "city": "Denver",
                 "address": "1400 S. Colorado Blvd",
                 "address2": "#500",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "303-861-2800",
@@ -76719,6 +76780,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Grand Junction",
+                    "state": "CO",
+                    "zip": "81501",
+                    "address": "101 S. 3rd Street, #265",
+                    "phone": "+13039519970",
+                    "lat": 39.0702,
+                    "lng": -108.553
+                }
             ]
         },
         {
@@ -76737,7 +76809,9 @@
                 "city": "Centennial",
                 "address": "6898 South University Boulevard",
                 "address2": "Suite 110",
-                "zip": "80122"
+                "zip": "80122",
+                "lat": 39.5806,
+                "lng": -104.9558
             },
             "contact": {
                 "phone": "720-330-4623",
@@ -76760,6 +76834,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80206",
+                    "address": "44 Cook St., #100",
+                    "phone": "(303) 433-0707",
+                    "lat": 39.7307,
+                    "lng": -104.9532
+                }
             ]
         },
         {
@@ -76778,7 +76863,9 @@
                 "city": "Denver",
                 "address": "730 17th St",
                 "address2": "Suite 850",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-894-8100",
@@ -76809,7 +76896,8 @@
                 "Personal Injury",
                 "Tax Law",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-harris-law-firm",
@@ -76827,7 +76915,9 @@
                 "city": "Denver",
                 "address": "1228 15th Street",
                 "address2": "Suite 200",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-872-7585",
@@ -76865,6 +76955,17 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Englewood",
+                    "state": "CO",
+                    "zip": "80112",
+                    "address": "8310 South Valley Highway, Suite 280",
+                    "phone": "303-872-7585",
+                    "lat": 39.5657,
+                    "lng": -104.8578
+                }
             ]
         },
         {
@@ -76883,7 +76984,9 @@
                 "city": "Denver",
                 "address": "3457 Ringsby Court",
                 "address2": "Suite 110",
-                "zip": "80216"
+                "zip": "80216",
+                "lat": 39.7849,
+                "lng": -104.9419
             },
             "contact": {
                 "phone": "720-807-9537",
@@ -76914,7 +77017,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-juba-law-office-pllc",
@@ -76932,7 +77036,9 @@
                 "city": "Denver",
                 "address": "1600 N Broadway",
                 "address2": "Suite 1040",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-400-8621",
@@ -76989,7 +77095,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "preeo-silverman-green-egle-p-c",
@@ -77007,7 +77114,9 @@
                 "city": "Centennial",
                 "address": "6465 Greenwood Plaza Blvd.",
                 "address2": "Suite 1025",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-296-4440",
@@ -77033,7 +77142,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reilly-vandenberg-biggers-llc",
@@ -77051,7 +77161,9 @@
                 "city": "Fort Collins",
                 "address": "123 N. College Ave.",
                 "address2": "Suite 214",
-                "zip": "80524"
+                "zip": "80524",
+                "lat": 40.662,
+                "lng": -105.0032
             },
             "contact": {
                 "phone": "970-783-5152",
@@ -77079,7 +77191,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-ted-bills",
@@ -77097,7 +77210,9 @@
                 "city": "Colorado Springs",
                 "address": "501 North Nevada Avenue",
                 "address2": null,
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "-188-822-55833",
@@ -77120,7 +77235,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hernandez-associates-p-c",
@@ -77138,7 +77254,9 @@
                 "city": "Statewide Colorado Representation",
                 "address": "1801 York Street",
                 "address2": null,
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "303-951-9607",
@@ -77178,7 +77296,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-peter-r-bornstein",
@@ -77196,7 +77315,9 @@
                 "city": "Greenwood Village",
                 "address": "6060 Greenwood Plaza Blvd",
                 "address2": "Suite 500",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-872-0958",
@@ -77270,7 +77391,8 @@
                 "Securities",
                 "State Local and Municipal Law",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-louise-bouzari-llc",
@@ -77288,7 +77410,9 @@
                 "city": "Englewood",
                 "address": "7887 E. Belleview Avenue",
                 "address2": "Suite 1100",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-228-1616",
@@ -77310,7 +77434,8 @@
             ],
             "official_practice_area": [
                 "Education"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "evergreen-attorneys-federal-law",
@@ -77328,7 +77453,9 @@
                 "city": "Evergreen",
                 "address": "32186 Castle Court",
                 "address2": "Suite 301",
-                "zip": "80439"
+                "zip": "80439",
+                "lat": 39.6497,
+                "lng": -105.4059
             },
             "contact": {
                 "phone": "720-789-5727",
@@ -77357,6 +77484,17 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Plano",
+                    "state": "TX",
+                    "zip": "75024",
+                    "address": "5465 Legacy Drive, Suite 650",
+                    "phone": "+17207895496",
+                    "lat": 33.0838,
+                    "lng": -96.8128
+                }
             ]
         },
         {
@@ -77375,7 +77513,9 @@
                 "city": "Denver",
                 "address": "2727 Bryant Street",
                 "address2": "Suite 102",
-                "zip": "80211"
+                "zip": "80211",
+                "lat": 39.7641,
+                "lng": -105.0178
             },
             "contact": {
                 "phone": "720-780-6202",
@@ -77422,6 +77562,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wheat Ridge",
+                    "state": "CO",
+                    "zip": "80033",
+                    "address": "6073 W 44th Ave, Suite 301",
+                    "phone": "720-780-6202",
+                    "lat": 39.7748,
+                    "lng": -105.1092
+                }
             ]
         },
         {
@@ -77440,7 +77591,9 @@
                 "city": "Boulder",
                 "address": "1823 Folsom St.",
                 "address2": "Suite 101",
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "303-800-1588",
@@ -77464,7 +77617,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-rodger-c-daley-and-associates",
@@ -77482,7 +77636,9 @@
                 "city": "Denver",
                 "address": "724 East 19th Avenue",
                 "address2": null,
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "720-767-0614",
@@ -77536,7 +77692,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harrington-brewster-mahoney-smits-p-c",
@@ -77554,7 +77711,9 @@
                 "city": "Denver",
                 "address": "1623 N. Washington Street",
                 "address2": null,
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "720-736-7078",
@@ -77586,7 +77745,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lambdin-chaney-llp",
@@ -77604,7 +77764,9 @@
                 "city": "Denver",
                 "address": "4949 S. Syracuse Street",
                 "address2": "Suite 600",
-                "zip": "80237"
+                "zip": "80237",
+                "lat": 39.6385,
+                "lng": -104.9059
             },
             "contact": {
                 "phone": "303-799-8889",
@@ -77644,7 +77806,8 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chayet-danzo-llc",
@@ -77662,7 +77825,9 @@
                 "city": "Denver",
                 "address": "650 S.Cherry St.",
                 "address2": "Suite 710",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "303-951-6741",
@@ -77702,6 +77867,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Edwards",
+                    "state": "CO",
+                    "zip": "81632",
+                    "address": "105 Edwards Village Blvd., #D-201",
+                    "phone": "+13039519223",
+                    "lat": 39.6289,
+                    "lng": -106.6404
+                }
             ]
         },
         {
@@ -77720,7 +77896,9 @@
                 "city": "Denver",
                 "address": "383 Corona Street",
                 "address2": "Suite 100",
-                "zip": "80218"
+                "zip": "80218",
+                "lat": 39.7324,
+                "lng": -104.9713
             },
             "contact": {
                 "phone": "720-449-6256",
@@ -77743,7 +77921,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pav-law",
@@ -77761,7 +77940,9 @@
                 "city": "Colorado Springs",
                 "address": "102 S. Tejon St.",
                 "address2": "Suite 1100",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-985-6978",
@@ -77799,7 +77980,8 @@
                 "Family Law",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vanmeveren-law-group-p-c",
@@ -77817,7 +77999,9 @@
                 "city": "Fort Collins",
                 "address": "1630 South College Ave",
                 "address2": "Suite 100",
-                "zip": "80525"
+                "zip": "80525",
+                "lat": 40.5145,
+                "lng": -105.0199
             },
             "contact": {
                 "phone": "970-822-1286",
@@ -77845,7 +78029,8 @@
                 "Car Accidents",
                 "Insurance Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bruntz-law-firm-llc",
@@ -77863,7 +78048,9 @@
                 "city": "Parker",
                 "address": "18425 Pony Express Drive",
                 "address2": "Suite 201A",
-                "zip": "80134"
+                "zip": "80134",
+                "lat": 39.4894,
+                "lng": -104.7688
             },
             "contact": {
                 "phone": "720-985-2476",
@@ -77890,6 +78077,17 @@
                 "Bankruptcy",
                 "Estate Planning",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Broomfield",
+                    "state": "CO",
+                    "zip": "80021",
+                    "address": "390 Interlocken Crescent, Suite 350",
+                    "phone": "+17209704142",
+                    "lat": 39.8926,
+                    "lng": -105.1492
+                }
             ]
         },
         {
@@ -77908,7 +78106,9 @@
                 "city": "Lakewood",
                 "address": "363 South Harlan Street, Suite 205",
                 "address2": null,
-                "zip": "80226"
+                "zip": "80226",
+                "lat": 39.7107,
+                "lng": -105.0908
             },
             "contact": {
                 "phone": "303-872-0679",
@@ -77936,7 +78136,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shea-l-burchill-p-c",
@@ -77954,7 +78155,9 @@
                 "city": "Longmont",
                 "address": "231 Coffman Street",
                 "address2": null,
-                "zip": "80501"
+                "zip": "80501",
+                "lat": 40.1689,
+                "lng": -105.0932
             },
             "contact": {
                 "phone": "720-204-1412",
@@ -77980,6 +78183,17 @@
                 "Divorce and Separation",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Johnstown",
+                    "state": "CO",
+                    "zip": "80534",
+                    "address": "215 W. South 1st Street",
+                    "phone": "720-204-1412",
+                    "lat": 40.3343,
+                    "lng": -104.9337
+                }
             ]
         },
         {
@@ -77998,7 +78212,9 @@
                 "city": "Denver",
                 "address": "501 South Cherry Street",
                 "address2": "Suite 1000",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "303-333-1957",
@@ -78029,7 +78245,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coombe-curry-rich-jarvis",
@@ -78047,7 +78264,9 @@
                 "city": "Denver",
                 "address": "2000 S Colorado Blvd",
                 "address2": "Tower 2, Suite 1050",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "303-572-4200",
@@ -78109,7 +78328,8 @@
                 "Personal Injury",
                 "Probate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dugan-campbell-pllc",
@@ -78127,7 +78347,9 @@
                 "city": "Brighton",
                 "address": "43 S. 3rd Ave",
                 "address2": null,
-                "zip": "80601"
+                "zip": "80601",
+                "lat": 39.9429,
+                "lng": -104.7995
             },
             "contact": {
                 "phone": "720-644-0732",
@@ -78152,6 +78374,17 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Brighton",
+                    "state": "CO",
+                    "zip": "80601",
+                    "address": "1401 E. Bridge Street, Suite 208",
+                    "phone": "720-644-0732",
+                    "lat": 39.9429,
+                    "lng": -104.7995
+                }
             ]
         },
         {
@@ -78170,7 +78403,9 @@
                 "city": "Salida",
                 "address": "245 East Hwy. 50, Ste. 13",
                 "address2": "P.O. Box 549",
-                "zip": "81201"
+                "zip": "81201",
+                "lat": 38.5578,
+                "lng": -106.0393
             },
             "contact": {
                 "phone": "719-221-3766",
@@ -78211,7 +78446,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-litigation-boutique-llc",
@@ -78229,7 +78465,9 @@
                 "city": "Denver",
                 "address": "78 West 11th Avenue",
                 "address2": null,
-                "zip": "80204"
+                "zip": "80204",
+                "lat": 39.7377,
+                "lng": -105.0203
             },
             "contact": {
                 "phone": "720-789-5944",
@@ -78265,7 +78503,8 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cannon-law",
@@ -78283,7 +78522,9 @@
                 "city": "Fort Collins",
                 "address": "320 Maple St.",
                 "address2": "#115",
-                "zip": "80521"
+                "zip": "80521",
+                "lat": 40.5984,
+                "lng": -105.1264
             },
             "contact": {
                 "phone": "970-471-7170",
@@ -78312,6 +78553,17 @@
                 "Employment Rights",
                 "Personal Injury",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82001",
+                    "address": "109 E. 17th St., Suite 5401",
+                    "phone": "970 471 7170",
+                    "lat": 41.1418,
+                    "lng": -104.7792
+                }
             ]
         },
         {
@@ -78330,7 +78582,9 @@
                 "city": "Fort Collins",
                 "address": "2026 Caribou Drive",
                 "address2": "Suite 201",
-                "zip": "80525"
+                "zip": "80525",
+                "lat": 40.5145,
+                "lng": -105.0199
             },
             "contact": {
                 "phone": "970-492-1100",
@@ -78360,6 +78614,17 @@
             ],
             "official_practice_area": [
                 "Patents"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Longmont",
+                    "state": "CO",
+                    "zip": "80502",
+                    "address": "717 5th Avenue",
+                    "phone": "(303) 448-8889",
+                    "lat": 40.1673,
+                    "lng": -105.1015
+                }
             ]
         },
         {
@@ -78378,7 +78643,9 @@
                 "city": "Denver",
                 "address": "1888 Sherman Street",
                 "address2": "Suite 400",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-893-1815",
@@ -78399,7 +78666,8 @@
             ],
             "official_practice_area": [
                 "Natural Resources"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-shawn-h-smith",
@@ -78417,7 +78685,9 @@
                 "city": "Fort Collins",
                 "address": "155 East Boardwalk Drive",
                 "address2": "Suite 355",
-                "zip": "80525"
+                "zip": "80525",
+                "lat": 40.5145,
+                "lng": -105.0199
             },
             "contact": {
                 "phone": "970-852-5596",
@@ -78455,6 +78725,17 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greeley",
+                    "state": "CO",
+                    "zip": "80631",
+                    "address": "801 8th Street, Suite 220D",
+                    "phone": "+19708221706",
+                    "lat": 40.4361,
+                    "lng": -104.6813
+                }
             ]
         },
         {
@@ -78473,7 +78754,9 @@
                 "city": "Denver",
                 "address": "4949 S. Syracuse St.",
                 "address2": "Ste 400",
-                "zip": "80237"
+                "zip": "80237",
+                "lat": 39.6385,
+                "lng": -104.9059
             },
             "contact": {
                 "phone": "303-731-0485",
@@ -78504,7 +78787,8 @@
                 "Litigation and Appeals",
                 "Nursing Home Abuse",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "caton-law-llc",
@@ -78522,7 +78806,9 @@
                 "city": "Denver",
                 "address": "7887 East Belleview Avenue",
                 "address2": "Suite 1100",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "720-449-6313",
@@ -78552,7 +78838,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cederberg-law-firm-p-c",
@@ -78570,7 +78857,9 @@
                 "city": "Boulder",
                 "address": "1200 28th Street",
                 "address2": "Suite 302",
-                "zip": "80303"
+                "zip": "80303",
+                "lat": 39.9532,
+                "lng": -105.2267
             },
             "contact": {
                 "phone": "303-499-0449",
@@ -78589,7 +78878,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-viorst-law-offices-p-c",
@@ -78607,7 +78897,9 @@
                 "city": "Greenwood Village",
                 "address": "7375 East Orchard Road",
                 "address2": "Suite 300",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "720-808-1920",
@@ -78675,7 +78967,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "metier-law-firm",
@@ -78693,7 +78986,9 @@
                 "city": "Fort Collins",
                 "address": "4828 S College Ave",
                 "address2": null,
-                "zip": "80525"
+                "zip": "80525",
+                "lat": 40.5145,
+                "lng": -105.0199
             },
             "contact": {
                 "phone": "866-377-3800",
@@ -78733,6 +79028,53 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82001",
+                    "address": "1620 Central Ave., Suite 200A",
+                    "phone": "866-377-3800",
+                    "lat": 41.1418,
+                    "lng": -104.7792
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80203",
+                    "address": "1580 Logan St 6th Floor",
+                    "phone": "866-377-3800",
+                    "lat": 39.732,
+                    "lng": -104.9825
+                },
+                {
+                    "city": "Omaha",
+                    "state": "NE",
+                    "zip": "68102",
+                    "address": "1603 Farnam St",
+                    "phone": "866-377-3800",
+                    "lat": 41.2633,
+                    "lng": -95.9305
+                },
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97204",
+                    "address": "1050 SW 6th Avenue, Suite 1100, #2A",
+                    "phone": "866-377-3800",
+                    "lat": 45.5182,
+                    "lng": -122.6742
+                },
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98103",
+                    "address": "3301 Burke Ave N, Suite 310",
+                    "phone": "866-377-3800",
+                    "lat": 47.6703,
+                    "lng": -122.3483
+                }
             ]
         },
         {
@@ -78751,7 +79093,9 @@
                 "city": "Denver",
                 "address": "190 E. 9th Ave",
                 "address2": "Suite 300",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "720-506-9226",
@@ -78790,7 +79134,8 @@
                 "Internet",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cheney-galluzzi-howard-llc",
@@ -78808,7 +79153,9 @@
                 "city": "Denver",
                 "address": "2701 Lawrence St.",
                 "address2": "Suite 201",
-                "zip": "80205"
+                "zip": "80205",
+                "lat": 39.7583,
+                "lng": -104.9677
             },
             "contact": {
                 "phone": "720-802-5951",
@@ -78836,7 +79183,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitson-family-law",
@@ -78854,7 +79202,9 @@
                 "city": "Lakewood",
                 "address": "13701 W Jewell Avenue",
                 "address2": "Ste 251",
-                "zip": "80012"
+                "zip": "80012",
+                "lat": 39.7038,
+                "lng": -104.8379
             },
             "contact": {
                 "phone": "720-496-1338",
@@ -78878,7 +79228,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peak-legal-services-llc",
@@ -78896,7 +79247,9 @@
                 "city": "Denver",
                 "address": "600 Grant St.",
                 "address2": "Ste 206",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "720-928-1640",
@@ -78926,6 +79279,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82001",
+                    "address": "1607 Capitol Ave, Ste 413G",
+                    "phone": "720-928-1640",
+                    "lat": 41.1418,
+                    "lng": -104.7792
+                }
             ]
         },
         {
@@ -78944,7 +79308,9 @@
                 "city": "Denver",
                 "address": "1601 Blake Street",
                 "address2": "Suite 300",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-785-8561",
@@ -78983,6 +79349,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Telluride",
+                    "state": "CO",
+                    "zip": "81435",
+                    "address": "The Centrum Building, Suites 201 & 202, 618 Mountain Village Boulevard",
+                    "phone": "303-785-8561",
+                    "lat": 37.9399,
+                    "lng": -107.8617
+                }
             ]
         },
         {
@@ -79001,7 +79378,9 @@
                 "city": "Denver",
                 "address": "1720 S. Bellaire St",
                 "address2": "Suite 110",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "303-900-0070",
@@ -79031,7 +79410,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-stephen-vertucci-llc",
@@ -79049,7 +79429,9 @@
                 "city": "Fort Collins",
                 "address": "155 East Boardwalk Drive",
                 "address2": "Suite 400",
-                "zip": "80525"
+                "zip": "80525",
+                "lat": 40.5145,
+                "lng": -105.0199
             },
             "contact": {
                 "phone": "970-900-1800",
@@ -79074,7 +79456,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jurdem-llc",
@@ -79092,7 +79475,9 @@
                 "city": "Boulder",
                 "address": "820 Pearl Street",
                 "address2": "Suite H",
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "303-800-3509",
@@ -79116,7 +79501,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gantenbein-law-firm",
@@ -79134,7 +79520,9 @@
                 "city": "Denver",
                 "address": "1760 Gaylord Street",
                 "address2": null,
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "303-618-2122",
@@ -79174,7 +79562,8 @@
                 "Foreclosure and Alternatives",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-bruce-a-danford-llc",
@@ -79192,7 +79581,9 @@
                 "city": "Broomfield",
                 "address": "11971 Quay Street",
                 "address2": null,
-                "zip": "80020"
+                "zip": "80020",
+                "lat": 39.9209,
+                "lng": -105.077
             },
             "contact": {
                 "phone": "303-410-2900",
@@ -79218,7 +79609,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daniels-scriven-p-c",
@@ -79236,7 +79628,9 @@
                 "city": "Broomfield",
                 "address": "11001 W. 120th Avenue",
                 "address2": "Suite 400",
-                "zip": "80021"
+                "zip": "80021",
+                "lat": 39.8926,
+                "lng": -105.1492
             },
             "contact": {
                 "phone": "720-536-2675",
@@ -79264,6 +79658,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Northglenn",
+                    "state": "CO",
+                    "zip": "80233",
+                    "address": "11990 Grant Street, Suite 550",
+                    "phone": "+17205362675",
+                    "lat": 39.8995,
+                    "lng": -104.9468
+                }
             ]
         },
         {
@@ -79282,7 +79687,9 @@
                 "city": "Grand Junction",
                 "address": "202 North Seventh Street",
                 "address2": null,
-                "zip": "81501"
+                "zip": "81501",
+                "lat": 39.0702,
+                "lng": -108.553
             },
             "contact": {
                 "phone": "970-609-3569",
@@ -79313,7 +79720,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dechant-law",
@@ -79331,7 +79739,9 @@
                 "city": "Denver",
                 "address": "950 S Cherry St",
                 "address2": "Suite 1515",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "303-951-5166",
@@ -79364,7 +79774,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-mediation-group",
@@ -79382,7 +79793,9 @@
                 "city": "Denver",
                 "address": "2080 S Holly St.",
                 "address2": "#221735",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "720-800-9469",
@@ -79405,7 +79818,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eichner-law",
@@ -79423,7 +79837,9 @@
                 "city": "Denver",
                 "address": "3773 Cherry Creek Drive North",
                 "address2": "West Tower, Suite 900",
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "303-586-4317",
@@ -79460,7 +79876,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "graham-law",
@@ -79478,7 +79895,9 @@
                 "city": "Colorado Springs",
                 "address": "2 N. Cascade Avenue",
                 "address2": "Suite 1100",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-630-1123",
@@ -79503,7 +79922,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-susan-deschler",
@@ -79521,7 +79941,9 @@
                 "city": "Denver",
                 "address": "4605 S Yosemite St",
                 "address2": null,
-                "zip": "80237"
+                "zip": "80237",
+                "lat": 39.6385,
+                "lng": -104.9059
             },
             "contact": {
                 "phone": "303-578-4124",
@@ -79542,6 +79964,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Georgetown",
+                    "state": "CO",
+                    "zip": "80444",
+                    "address": "P.O. Box 442",
+                    "phone": "303-578-4124",
+                    "lat": 39.6642,
+                    "lng": -105.7771
+                }
             ]
         },
         {
@@ -79560,7 +79993,9 @@
                 "city": "Denver",
                 "address": "1775 Sherman Street",
                 "address2": "Suite 1650",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-953-7425",
@@ -79581,7 +80016,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rocky-mountain-legal-group",
@@ -79599,7 +80035,9 @@
                 "city": "Colorado Springs",
                 "address": "2985 Broadmoor Valley Road",
                 "address2": null,
-                "zip": "80906"
+                "zip": "80906",
+                "lat": 38.7723,
+                "lng": -104.8493
             },
             "contact": {
                 "phone": "719-719-8299",
@@ -79632,7 +80070,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "life-legacy-planning-ltd",
@@ -79650,7 +80089,9 @@
                 "city": "Denver",
                 "address": "44 Cook St.",
                 "address2": "Suite 100",
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "720-644-1136",
@@ -79678,7 +80119,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "veritas-injury-lawyers",
@@ -79696,7 +80138,9 @@
                 "city": "Grand Junction",
                 "address": "114 N Spruce Street",
                 "address2": "Suite 100",
-                "zip": "81501"
+                "zip": "81501",
+                "lat": 39.0702,
+                "lng": -108.553
             },
             "contact": {
                 "phone": "970-323-7617",
@@ -79720,6 +80164,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Montrose",
+                    "state": "CO",
+                    "zip": "81401",
+                    "address": "330 South 5th Street",
+                    "phone": "970-323-7617",
+                    "lat": 38.421,
+                    "lng": -107.9049
+                }
             ]
         },
         {
@@ -79738,7 +80193,9 @@
                 "city": "Boulder",
                 "address": "2315 Broadway St.",
                 "address2": null,
-                "zip": "80304"
+                "zip": "80304",
+                "lat": 40.0452,
+                "lng": -105.292
             },
             "contact": {
                 "phone": "303-593-1874",
@@ -79769,7 +80226,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldman-law-llc",
@@ -79787,7 +80245,9 @@
                 "city": "Denver",
                 "address": "1873 S. Bellaire St",
                 "address2": "#1105",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "720-767-3702",
@@ -79839,6 +80299,17 @@
                 "Tax Law",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80237",
+                    "address": "4610 S. Ulster St., Suite 150",
+                    "phone": "+13039235402",
+                    "lat": 39.6385,
+                    "lng": -104.9059
+                }
             ]
         },
         {
@@ -79857,7 +80328,9 @@
                 "city": "Denver",
                 "address": "8615 E Dartmouth Ave",
                 "address2": null,
-                "zip": "80231"
+                "zip": "80231",
+                "lat": 39.6757,
+                "lng": -104.886
             },
             "contact": {
                 "phone": "720-689-0873",
@@ -79882,7 +80355,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grob-eirich-llc",
@@ -79900,7 +80374,9 @@
                 "city": "Lakewood",
                 "address": "12596 W. Bayaud Avenue",
                 "address2": "Suite 390",
-                "zip": "80228"
+                "zip": "80228",
+                "lat": 39.6914,
+                "lng": -105.1561
             },
             "contact": {
                 "phone": "303-816-8147",
@@ -79933,7 +80409,8 @@
                 "Adoption",
                 "Child Custody",
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "escalante-law",
@@ -79951,7 +80428,9 @@
                 "city": "Parker",
                 "address": "11479 S. Pine Dr.",
                 "address2": null,
-                "zip": "80134"
+                "zip": "80134",
+                "lat": 39.4894,
+                "lng": -104.7688
             },
             "contact": {
                 "phone": "720-800-4165",
@@ -79975,6 +80454,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21202",
+                    "address": "300 Lombard Street E., STE. 840",
+                    "phone": "+14106734393",
+                    "lat": 39.2958,
+                    "lng": -76.6078
+                }
             ]
         },
         {
@@ -79993,7 +80483,9 @@
                 "city": "Golden",
                 "address": "1823 Ford Street",
                 "address2": null,
-                "zip": "80401"
+                "zip": "80401",
+                "lat": 39.714,
+                "lng": -105.2441
             },
             "contact": {
                 "phone": "720-644-8563",
@@ -80028,6 +80520,17 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "1860 Blake Street, Suite 400",
+                    "phone": "720-644-8563",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                }
             ]
         },
         {
@@ -80046,7 +80549,9 @@
                 "city": "Fort Collins",
                 "address": "125 South Howes Street",
                 "address2": "Suite 900",
-                "zip": "80521"
+                "zip": "80521",
+                "lat": 40.5984,
+                "lng": -105.1264
             },
             "contact": {
                 "phone": "970-659-7101",
@@ -80104,7 +80609,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "albert-v-evans-attorneys-at-law",
@@ -80122,7 +80628,9 @@
                 "city": "Aurora",
                 "address": "S. Versailles St.",
                 "address2": null,
-                "zip": "80016"
+                "zip": "80016",
+                "lat": 39.6022,
+                "lng": -104.7139
             },
             "contact": {
                 "phone": "303-495-0080",
@@ -80162,7 +80670,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mary-ewing-law",
@@ -80180,7 +80689,9 @@
                 "city": "Aurora",
                 "address": "P.O. Box 460880",
                 "address2": null,
-                "zip": "80113"
+                "zip": "80113",
+                "lat": 39.6414,
+                "lng": -104.9546
             },
             "contact": {
                 "phone": "720-773-5168",
@@ -80204,7 +80715,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-lyndsey-richard",
@@ -80222,7 +80734,9 @@
                 "city": "Denver",
                 "address": "Washington Park Neighborhood",
                 "address2": "South Williams Street",
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "303-848-8352",
@@ -80245,7 +80759,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccollum-crowley-moschet-miller-ltd",
@@ -80263,7 +80778,9 @@
                 "city": "Boulder",
                 "address": "4450 Arapahoe Avenue",
                 "address2": "Suite 100",
-                "zip": "80303"
+                "zip": "80303",
+                "lat": 39.9532,
+                "lng": -105.2267
             },
             "contact": {
                 "phone": "303-415-2068",
@@ -80312,6 +80829,26 @@
                 "Sexual Abuse",
                 "Toxic Mold",
                 "Toxic Torts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bloomington",
+                    "state": "MN",
+                    "zip": "55431",
+                    "address": "700 Wells Fargo Plaza, 7900 Xerxes Avenue South, Suite 700",
+                    "phone": "(952) 831-4980",
+                    "lat": 44.8266,
+                    "lng": -93.3108
+                },
+                {
+                    "city": "Rice Lake",
+                    "state": "WI",
+                    "zip": "54868",
+                    "address": "315 E. South Street, Suite B",
+                    "phone": "(715) 234-2656",
+                    "lat": 45.5142,
+                    "lng": -91.705
+                }
             ]
         },
         {
@@ -80330,7 +80867,9 @@
                 "city": "Denver",
                 "address": "4500 Cherry Creek Drive South",
                 "address2": "Suite 400",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "303-529-1223",
@@ -80370,6 +80909,26 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Loveland",
+                    "state": "CO",
+                    "zip": "80538",
+                    "address": "1635 Foxtrail Drive, #324",
+                    "phone": "303-529-1223",
+                    "lat": 40.5039,
+                    "lng": -105.1312
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90024",
+                    "address": "10900 Wilshire Blvd., 15th Floor",
+                    "phone": "303-529-1223",
+                    "lat": 34.0657,
+                    "lng": -118.4341
+                }
             ]
         },
         {
@@ -80388,7 +80947,9 @@
                 "city": "Denver",
                 "address": "600 17th Street",
                 "address2": "Suite 425N",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-512-1123",
@@ -80416,7 +80977,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "w-michael-franklin-franklin-family-law-llc",
@@ -80434,7 +80996,9 @@
                 "city": "Denver",
                 "address": "3801 E. Florida Avenue",
                 "address2": "Ste. 400",
-                "zip": "80210"
+                "zip": "80210",
+                "lat": 39.6754,
+                "lng": -104.964
             },
             "contact": {
                 "phone": "800-909-3539",
@@ -80453,7 +81017,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcdivitt-law-firm",
@@ -80471,7 +81036,9 @@
                 "city": "Denver",
                 "address": "1777 S Harrison St #1350",
                 "address2": null,
-                "zip": "80210"
+                "zip": "80210",
+                "lat": 39.6754,
+                "lng": -104.964
             },
             "contact": {
                 "phone": "720-909-8034",
@@ -80509,6 +81076,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Colorado Springs",
+                    "state": "CO",
+                    "zip": "80903",
+                    "address": "19 E Cimarron St",
+                    "phone": "+17208372020",
+                    "lat": 38.8308,
+                    "lng": -104.8143
+                }
             ]
         },
         {
@@ -80527,7 +81105,9 @@
                 "city": "Fort Collins",
                 "address": "204 Maple Street",
                 "address2": "Suite 101",
-                "zip": "80521"
+                "zip": "80521",
+                "lat": 40.5984,
+                "lng": -105.1264
             },
             "contact": {
                 "phone": "970-800-4866",
@@ -80563,6 +81143,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Winter Park",
+                    "state": "CO",
+                    "zip": "80482",
+                    "address": "45 Ski Idlewild Rd",
+                    "phone": "970-800-4866",
+                    "lat": 39.883,
+                    "lng": -105.7605
+                }
             ]
         },
         {
@@ -80581,7 +81172,9 @@
                 "city": "Denver",
                 "address": "600 17th St.",
                 "address2": "#2108",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-800-4925",
@@ -80606,6 +81199,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Centennial",
+                    "state": "CO",
+                    "zip": "80112",
+                    "address": "6860 S. Yosemite Ct., Suite 2000",
+                    "phone": "+17208004925",
+                    "lat": 39.5657,
+                    "lng": -104.8578
+                }
             ]
         },
         {
@@ -80624,7 +81228,9 @@
                 "city": "Erie",
                 "address": "77 Erie Village Square",
                 "address2": "Suite 100",
-                "zip": "80516"
+                "zip": "80516",
+                "lat": 40.063,
+                "lng": -105.0222
             },
             "contact": {
                 "phone": "720-800-4180",
@@ -80661,6 +81267,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "600 17th St, Suite 2800",
+                    "phone": "+17208004180",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                }
             ]
         },
         {
@@ -80679,7 +81296,9 @@
                 "city": "Castle Rock",
                 "address": "900 Castleton Road",
                 "address2": "Suite 150",
-                "zip": "80109"
+                "zip": "80109",
+                "lat": 39.3656,
+                "lng": -104.9123
             },
             "contact": {
                 "phone": "720-800-4912",
@@ -80698,7 +81317,8 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carol-glassman-p-c",
@@ -80716,7 +81336,9 @@
                 "city": "Boulder",
                 "address": "4845 Pearl E. Circle",
                 "address2": "Suite 101",
-                "zip": "80301"
+                "zip": "80301",
+                "lat": 40.048,
+                "lng": -105.2068
             },
             "contact": {
                 "phone": "720-773-6668",
@@ -80737,7 +81359,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "colorado-employee-advocates",
@@ -80755,7 +81378,9 @@
                 "city": "Denver",
                 "address": "1999 Broadway",
                 "address2": "Suite 3225",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-800-4996",
@@ -80799,7 +81424,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-reed-llc",
@@ -80817,7 +81443,9 @@
                 "city": "Greeley",
                 "address": "800 8th Avenue",
                 "address2": "Ste 202",
-                "zip": "80631"
+                "zip": "80631",
+                "lat": 40.4361,
+                "lng": -104.6813
             },
             "contact": {
                 "phone": "970-783-5893",
@@ -80852,6 +81480,17 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fort Collins",
+                    "state": "CO",
+                    "zip": "80525",
+                    "address": "155 E. Boardwalk Drive, Suite 400",
+                    "phone": "+19706446635",
+                    "lat": 40.5145,
+                    "lng": -105.0199
+                }
             ]
         },
         {
@@ -80870,7 +81509,9 @@
                 "city": "Denver",
                 "address": "3773 Cherry Creek N Dr",
                 "address2": "Ste 801",
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "720-712-3303",
@@ -80901,6 +81542,35 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Englewood",
+                    "state": "CO",
+                    "zip": "80112",
+                    "address": "385 Inverness Pkwy, Suite 270",
+                    "phone": "+17208004831",
+                    "lat": 39.5657,
+                    "lng": -104.8578
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60613",
+                    "address": "3838 N Ravenswood Ave, Office 231",
+                    "phone": "+17208004831",
+                    "lat": 41.952,
+                    "lng": -87.656
+                },
+                {
+                    "city": "Boca Raton",
+                    "state": "FL",
+                    "zip": "33431",
+                    "address": "2300 Glades Rd, Suite 135E",
+                    "phone": "+17208004831",
+                    "lat": 26.3781,
+                    "lng": -80.102
+                }
             ]
         },
         {
@@ -80919,7 +81589,9 @@
                 "city": "Grand Junction",
                 "address": "101 South 3rd Street,",
                 "address2": "Suite 265",
-                "zip": "81501"
+                "zip": "81501",
+                "lat": 39.0702,
+                "lng": -108.553
             },
             "contact": {
                 "phone": "970-598-3305",
@@ -80961,7 +81633,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccabe-law",
@@ -80979,7 +81652,9 @@
                 "city": "Boulder",
                 "address": "1919 14th Street",
                 "address2": "Suite 700",
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "720-282-0902",
@@ -80997,7 +81672,8 @@
                 "Alison Gordon",
                 "Janene K. McCabe"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "janice-m-greening-llc",
@@ -81015,7 +81691,9 @@
                 "city": "Denver",
                 "address": "900 E. Louisiana Ave.",
                 "address2": "Suite 100",
-                "zip": "80210"
+                "zip": "80210",
+                "lat": 39.6754,
+                "lng": -104.964
             },
             "contact": {
                 "phone": "303-425-6366",
@@ -81034,7 +81712,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-moorhead-law-group",
@@ -81052,7 +81731,9 @@
                 "city": "Boulder",
                 "address": "1650 38th Street",
                 "address2": "Suite 201E",
-                "zip": "80301"
+                "zip": "80301",
+                "lat": 40.048,
+                "lng": -105.2068
             },
             "contact": {
                 "phone": "720-316-0305",
@@ -81079,7 +81760,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greenwald-hammond-p-c",
@@ -81097,7 +81779,9 @@
                 "city": "Denver",
                 "address": "1563 Gaylord Street",
                 "address2": "Suite 200",
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "303-832-2550",
@@ -81117,7 +81801,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lmb-partners",
@@ -81135,7 +81820,9 @@
                 "city": "Denver",
                 "address": "2701 Lawrence Street",
                 "address2": "Suite 101",
-                "zip": "80205"
+                "zip": "80205",
+                "lat": 39.7583,
+                "lng": -104.9677
             },
             "contact": {
                 "phone": "720-633-9770",
@@ -81152,7 +81839,18 @@
                 "Michael P. Barry",
                 "William C. Groh"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Golden",
+                    "state": "CO",
+                    "zip": "80401",
+                    "address": "1120 Washington Ave., Suite 200",
+                    "phone": "720-707-0942",
+                    "lat": 39.714,
+                    "lng": -105.2441
+                }
+            ]
         },
         {
             "slug": "sharon-w-grossenbach-attorneys-at-law",
@@ -81170,7 +81868,9 @@
                 "city": "Denver",
                 "address": "1888 Sherman St.",
                 "address2": "Ste. 620",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-571-0077",
@@ -81189,7 +81889,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-andres-r-guevara",
@@ -81207,7 +81908,9 @@
                 "city": "Denver",
                 "address": "2806 N. Speer Blvd.",
                 "address2": null,
-                "zip": "80211"
+                "zip": "80211",
+                "lat": 39.7641,
+                "lng": -105.0178
             },
             "contact": {
                 "phone": "720-379-8262",
@@ -81245,7 +81948,8 @@
                 "Internet",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "front-range-family-law",
@@ -81263,7 +81967,9 @@
                 "city": "Wheat Ridge",
                 "address": "4175 Harlan Street",
                 "address2": "Suite 210",
-                "zip": "80033"
+                "zip": "80033",
+                "lat": 39.7748,
+                "lng": -105.1092
             },
             "contact": {
                 "phone": "720-456-6471",
@@ -81288,7 +81994,8 @@
                 "Divorce and Separation",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "susan-p-halloran-attorney-at-law",
@@ -81306,7 +82013,9 @@
                 "city": "Littleton",
                 "address": "26 W. Dry Creek Circle",
                 "address2": "Suite 600",
-                "zip": "80120"
+                "zip": "80120",
+                "lat": 39.5979,
+                "lng": -105.0147
             },
             "contact": {
                 "phone": "720-351-1176",
@@ -81328,7 +82037,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weddell-haller-p-c",
@@ -81346,7 +82056,9 @@
                 "city": "Colorado Springs",
                 "address": "21 E. Monument Street",
                 "address2": "Suite B",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-387-9866",
@@ -81370,7 +82082,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-hickey-law-firm-llc",
@@ -81388,7 +82101,9 @@
                 "city": "Lakewood",
                 "address": "1075 South Yukon Street",
                 "address2": "Suite 260",
-                "zip": "80226"
+                "zip": "80226",
+                "lat": 39.7107,
+                "lng": -105.0908
             },
             "contact": {
                 "phone": "720-316-2074",
@@ -81410,7 +82125,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "susan-b-hillyard-p-c",
@@ -81428,7 +82144,9 @@
                 "city": "Delta",
                 "address": "601 Grand Avenue",
                 "address2": "P.O. Box 808",
-                "zip": "81416"
+                "zip": "81416",
+                "lat": 38.7134,
+                "lng": -108.1038
             },
             "contact": {
                 "phone": "970-874-6999",
@@ -81449,7 +82167,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hogan-omidi-pc",
@@ -81467,7 +82186,9 @@
                 "city": "Denver",
                 "address": "3773 Cherry Creek North Drive",
                 "address2": "Suite 950",
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "303-951-9624",
@@ -81498,6 +82219,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Aspen",
+                    "state": "CO",
+                    "zip": "81611",
+                    "address": "215 South Monarch Street",
+                    "phone": "+13039518930",
+                    "lat": 39.1389,
+                    "lng": -106.7799
+                }
             ]
         },
         {
@@ -81516,7 +82248,9 @@
                 "city": "Colorado Springs",
                 "address": "421 S. Tejon Street",
                 "address2": "Suite 100",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-428-3646",
@@ -81538,7 +82272,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "howard-associates",
@@ -81556,7 +82291,9 @@
                 "city": "Edwards",
                 "address": "275 Main Street",
                 "address2": "Suite 103",
-                "zip": "81632"
+                "zip": "81632",
+                "lat": 39.6289,
+                "lng": -106.6404
             },
             "contact": {
                 "phone": "970-609-3406",
@@ -81584,7 +82321,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hume-law-mediation-llc",
@@ -81602,7 +82340,9 @@
                 "city": "Boulder",
                 "address": "PO Box 19227",
                 "address2": null,
-                "zip": "80308"
+                "zip": "80308",
+                "lat": 40.0153,
+                "lng": -105.2702
             },
             "contact": {
                 "phone": "303-263-6035",
@@ -81617,7 +82357,8 @@
             "attorneys": [
                 "Jennifer E. Hume"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-firm-of-richard-a-hostetler",
@@ -81635,7 +82376,9 @@
                 "city": "Denver",
                 "address": "1544 Race St.",
                 "address2": null,
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "303-593-0674",
@@ -81656,7 +82399,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-richard-b-huttner",
@@ -81674,7 +82418,9 @@
                 "city": "Denver",
                 "address": "250 Fillmore St",
                 "address2": "Suite 150",
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "720-985-2751",
@@ -81709,7 +82455,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bull-davies-p-c",
@@ -81727,7 +82474,9 @@
                 "city": "Denver",
                 "address": "1634 Downing St.",
                 "address2": null,
-                "zip": "80218"
+                "zip": "80218",
+                "lat": 39.7324,
+                "lng": -104.9713
             },
             "contact": {
                 "phone": "303-996-9815",
@@ -81751,7 +82500,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ito-law-group-p-c",
@@ -81769,7 +82519,9 @@
                 "city": "Denver",
                 "address": "1550 Larimer Street",
                 "address2": "Suite 667",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-281-5294",
@@ -81792,7 +82544,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jones-law-office-llc",
@@ -81810,7 +82563,9 @@
                 "city": "Evergreen",
                 "address": "32186 Castle Court",
                 "address2": "Suite 301",
-                "zip": "80439"
+                "zip": "80439",
+                "lat": 39.6497,
+                "lng": -105.4059
             },
             "contact": {
                 "phone": "303-469-2340",
@@ -81853,7 +82608,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nicholas-d-jonson-pc",
@@ -81871,7 +82627,9 @@
                 "city": "Arvada",
                 "address": "7878 Wadsworth Blvd",
                 "address2": "Suite 320",
-                "zip": "80003"
+                "zip": "80003",
+                "lat": 39.8288,
+                "lng": -105.0583
             },
             "contact": {
                 "phone": "303-638-1819",
@@ -81895,7 +82653,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tucker-m-katz-attorney-at-dietze-davis-p-c",
@@ -81913,7 +82672,9 @@
                 "city": "Boulder",
                 "address": "2060 Broadway St.",
                 "address2": "Suite 400",
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "303-872-8041",
@@ -81934,7 +82695,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kardon-law",
@@ -81952,7 +82714,9 @@
                 "city": "Boulder",
                 "address": "4770 Baseline Road",
                 "address2": "Suite 200",
-                "zip": "80303"
+                "zip": "80303",
+                "lat": 39.9532,
+                "lng": -105.2267
             },
             "contact": {
                 "phone": "720-837-1966",
@@ -81975,6 +82739,26 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "999 18th Street, Suite 3000 (South Tower)",
+                    "phone": "+17209852332",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                },
+                {
+                    "city": "Torrance",
+                    "state": "CA",
+                    "zip": "90503",
+                    "address": "21515 Hawthorne Blvd., Suite 200",
+                    "phone": "+17209852332",
+                    "lat": 33.8402,
+                    "lng": -118.3532
+                }
             ]
         },
         {
@@ -81993,7 +82777,9 @@
                 "city": "Denver",
                 "address": "1600 Broadway",
                 "address2": "Suite 1600",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-437-8889",
@@ -82027,7 +82813,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcdermott-law-llc-disability-erisa-lawyers",
@@ -82045,7 +82832,9 @@
                 "city": "Denver",
                 "address": "4600 S. Ulster Street",
                 "address2": "Suite 800",
-                "zip": "80237"
+                "zip": "80237",
+                "lat": 39.6385,
+                "lng": -104.9059
             },
             "contact": {
                 "phone": "303-749-5848",
@@ -82075,7 +82864,8 @@
                 "Insurance Law",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kraynak-law",
@@ -82093,7 +82883,9 @@
                 "city": "Denver",
                 "address": "1550 Larimer St",
                 "address2": "Ste 1063",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-951-3424",
@@ -82115,7 +82907,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krizman-law",
@@ -82133,7 +82926,9 @@
                 "city": "Denver",
                 "address": "1391 Speer Blvd",
                 "address2": "Ste 830",
-                "zip": "80204"
+                "zip": "80204",
+                "lat": 39.7377,
+                "lng": -105.0203
             },
             "contact": {
                 "phone": "720-696-0617",
@@ -82164,7 +82959,8 @@
                 "DUI and DWI",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kroll-law-offices-p-c",
@@ -82182,7 +82978,9 @@
                 "city": "Lakewood",
                 "address": "165 South Union Blvd. (by appointment)",
                 "address2": "Suite 456",
-                "zip": "80228"
+                "zip": "80228",
+                "lat": 39.6914,
+                "lng": -105.1561
             },
             "contact": {
                 "phone": "720-370-9387",
@@ -82204,6 +83002,17 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80222",
+                    "address": "1660 S. Albion St. (by appointment), Suite 1100",
+                    "phone": "720-370-9387",
+                    "lat": 39.673,
+                    "lng": -104.9261
+                }
             ]
         },
         {
@@ -82222,7 +83031,9 @@
                 "city": "Centennial",
                 "address": "9085 E Mineral Cir",
                 "address2": "Suite 190",
-                "zip": "80112"
+                "zip": "80112",
+                "lat": 39.5657,
+                "lng": -104.8578
             },
             "contact": {
                 "phone": "303-951-4757",
@@ -82246,6 +83057,17 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Aurora",
+                    "state": "CO",
+                    "zip": "80014",
+                    "address": "14202 E Evans Ave",
+                    "phone": "303-951-4757",
+                    "lat": 39.6577,
+                    "lng": -104.845
+                }
             ]
         },
         {
@@ -82264,7 +83086,9 @@
                 "city": "Denver",
                 "address": "1550 17th Street",
                 "address2": "Suite 500",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-892-9400",
@@ -82295,7 +83119,8 @@
             "official_practice_area": [
                 "Banking and Finance Law",
                 "Mergers and Acquisitions"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "larson-schneider-p-c",
@@ -82313,7 +83138,9 @@
                 "city": "Englewood",
                 "address": "9605 S. Kingston Court",
                 "address2": "Suite 250",
-                "zip": "80112"
+                "zip": "80112",
+                "lat": 39.5657,
+                "lng": -104.8578
             },
             "contact": {
                 "phone": "303-221-0039",
@@ -82337,7 +83164,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-randy-b-corporon-p-c",
@@ -82355,7 +83183,9 @@
                 "city": "Greenwood Village",
                 "address": "5445 DTC Pkwy",
                 "address2": "Suite 825",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-322-0036",
@@ -82378,7 +83208,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "liggett-johnson-p-c",
@@ -82396,7 +83227,9 @@
                 "city": "Fort Collins",
                 "address": "419 Canyon Avenue",
                 "address2": "Suite 226",
-                "zip": "80521"
+                "zip": "80521",
+                "lat": 40.5984,
+                "lng": -105.1264
             },
             "contact": {
                 "phone": "970-482-9770",
@@ -82420,7 +83253,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-cross-liechty-lane-pc",
@@ -82438,7 +83272,9 @@
                 "city": "Greenwood Village",
                 "address": "7100 East Belleview Avenue",
                 "address2": "Suite G11",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-333-4122",
@@ -82460,7 +83296,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-samuel-g-livingston-p-c",
@@ -82478,7 +83315,9 @@
                 "city": "Golden",
                 "address": "25188 Genesee Trail Road",
                 "address2": "Suite 140",
-                "zip": "80401"
+                "zip": "80401",
+                "lat": 39.714,
+                "lng": -105.2441
             },
             "contact": {
                 "phone": "720-904-9805",
@@ -82500,7 +83339,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jeremy-loew",
@@ -82518,7 +83358,9 @@
                 "city": "80903 Colorado Springs",
                 "address": "306 E. Cucharras St. Suite 100",
                 "address2": null,
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-387-4111",
@@ -82554,7 +83396,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ramos-immigration-law",
@@ -82572,7 +83415,9 @@
                 "city": "Longmont",
                 "address": "450 Main Street",
                 "address2": "Suite 5",
-                "zip": "80501"
+                "zip": "80501",
+                "lat": 40.1689,
+                "lng": -105.0932
             },
             "contact": {
                 "phone": "303-417-6370",
@@ -82595,6 +83440,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Longmont",
+                    "state": "CO",
+                    "zip": "80501",
+                    "address": "450 Main Street",
+                    "phone": "303-417-6370",
+                    "lat": 40.1689,
+                    "lng": -105.0932
+                }
             ]
         },
         {
@@ -82613,7 +83469,9 @@
                 "city": "Avon",
                 "address": "P.O. Box 7717",
                 "address2": "206 Community Bank Center, 70 Benchmark Road",
-                "zip": "81620"
+                "zip": "81620",
+                "lat": 39.6216,
+                "lng": -106.495
             },
             "contact": {
                 "phone": "970-748-6400",
@@ -82634,6 +83492,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Frisco",
+                    "state": "CO",
+                    "zip": "80443",
+                    "address": "P.O. Box 128",
+                    "phone": "(970) 668-5800",
+                    "lat": 39.493,
+                    "lng": -106.1703
+                }
             ]
         },
         {
@@ -82652,7 +83521,9 @@
                 "city": "Lakewood",
                 "address": "200 Union Blvd",
                 "address2": "Suite 241",
-                "zip": "80228"
+                "zip": "80228",
+                "lat": 39.6914,
+                "lng": -105.1561
             },
             "contact": {
                 "phone": "720-764-2280",
@@ -82675,6 +83546,26 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Frisco",
+                    "state": "CO",
+                    "zip": "80443",
+                    "address": "307 Main Street",
+                    "phone": "720-764-2280",
+                    "lat": 39.493,
+                    "lng": -106.1703
+                },
+                {
+                    "city": "Palm Beach Gardens",
+                    "state": "FL",
+                    "zip": "33410",
+                    "address": "800 Village Square Crossing, Suite 120",
+                    "phone": "720-764-2280",
+                    "lat": 26.8457,
+                    "lng": -80.0859
+                }
             ]
         },
         {
@@ -82693,7 +83584,9 @@
                 "city": "Greenwood Village",
                 "address": "5200 DTC Pkwy.",
                 "address2": "Suite 200",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "720-961-6518",
@@ -82723,7 +83616,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maher-maher-law-pc",
@@ -82741,7 +83635,9 @@
                 "city": "Colorado Springs",
                 "address": "12295 Oracle Blvd",
                 "address2": "Ste 300",
-                "zip": "80921"
+                "zip": "80921",
+                "lat": 39.0493,
+                "lng": -104.8975
             },
             "contact": {
                 "phone": "719-985-6555",
@@ -82772,6 +83668,17 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Colorado Springs",
+                    "state": "CO",
+                    "zip": "80903",
+                    "address": "429 S Cascade Ave",
+                    "phone": "+17199856555",
+                    "lat": 38.8308,
+                    "lng": -104.8143
+                }
             ]
         },
         {
@@ -82790,7 +83697,9 @@
                 "city": "Denver",
                 "address": "650 South Cherry Street",
                 "address2": "Suite 100",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "720-477-1081",
@@ -82816,7 +83725,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sm-family-law-llc",
@@ -82834,7 +83744,9 @@
                 "city": "Boulder",
                 "address": "4450 Arapahoe Ave.",
                 "address2": "#100",
-                "zip": "80303"
+                "zip": "80303",
+                "lat": 39.9532,
+                "lng": -105.2267
             },
             "contact": {
                 "phone": "720-536-4262",
@@ -82858,7 +83770,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rapp-manzer-minnerop-llp",
@@ -82876,7 +83789,9 @@
                 "city": "Greeley",
                 "address": "4673 W. 20th Street",
                 "address2": "Suite A",
-                "zip": "80634"
+                "zip": "80634",
+                "lat": 40.3928,
+                "lng": -104.7928
             },
             "contact": {
                 "phone": "970-573-6880",
@@ -82912,7 +83827,8 @@
                 "Family Law",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frank-azar-car-truck-accident-lawyers-littleton-colorado",
@@ -82930,7 +83846,9 @@
                 "city": "Littleton",
                 "address": "8 W Dry Creek Cir",
                 "address2": "Suite 100",
-                "zip": "80120"
+                "zip": "80120",
+                "lat": 39.5979,
+                "lng": -105.0147
             },
             "contact": {
                 "phone": "303-997-2219",
@@ -82967,6 +83885,26 @@
                 "Dangerous Products",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80218",
+                    "address": "1245 E Colfax, Suite 302",
+                    "phone": "303-997-2219",
+                    "lat": 39.7324,
+                    "lng": -104.9713
+                },
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82009",
+                    "address": "2232 Dell Range Blvd, Suite 302",
+                    "phone": "303-997-2219",
+                    "lat": 41.3831,
+                    "lng": -104.731
+                }
             ]
         },
         {
@@ -82985,7 +83923,9 @@
                 "city": "Grand Junction",
                 "address": "101 S. 3rd St.",
                 "address2": "Suite 200",
-                "zip": "81501"
+                "zip": "81501",
+                "lat": 39.0702,
+                "lng": -108.553
             },
             "contact": {
                 "phone": "970-716-8362",
@@ -83010,7 +83950,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-law-office-llc",
@@ -83028,7 +83969,9 @@
                 "city": "Boulder",
                 "address": "1790 38th Street",
                 "address2": "Suite 106",
-                "zip": "80301"
+                "zip": "80301",
+                "lat": 40.048,
+                "lng": -105.2068
             },
             "contact": {
                 "phone": "720-800-4788",
@@ -83058,7 +84001,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weber-law",
@@ -83076,7 +84020,9 @@
                 "city": "Denver",
                 "address": "1777 S Harrison St.",
                 "address2": "Ste 450",
-                "zip": "80210"
+                "zip": "80210",
+                "lat": 39.6754,
+                "lng": -104.964
             },
             "contact": {
                 "phone": "720-953-1787",
@@ -83100,6 +84046,35 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Draper",
+                    "state": "UT",
+                    "zip": "84020",
+                    "address": "11629 S 700 E, Suite 160",
+                    "phone": "801-839-7984",
+                    "lat": 40.493,
+                    "lng": -111.8703
+                },
+                {
+                    "city": "Pasadena",
+                    "state": "CA",
+                    "zip": "91101",
+                    "address": "80 South Lake Avenue, Suite 590",
+                    "phone": "626-900-7126",
+                    "lat": 34.1468,
+                    "lng": -118.1382
+                },
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "810 3rd Avenue, Suite 120",
+                    "phone": "206-558-9629",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -83118,7 +84093,9 @@
                 "city": "Greeley",
                 "address": "822 7th Street",
                 "address2": "Suite 530",
-                "zip": "80631"
+                "zip": "80631",
+                "lat": 40.4361,
+                "lng": -104.6813
             },
             "contact": {
                 "phone": "970-573-7765",
@@ -83142,7 +84119,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-frickey-law-firm",
@@ -83160,7 +84138,9 @@
                 "city": "Lakewood",
                 "address": "940 Wadsworth Boulevard",
                 "address2": "4th floor",
-                "zip": "80214"
+                "zip": "80214",
+                "lat": 39.743,
+                "lng": -105.072
             },
             "contact": {
                 "phone": "303-237-7373",
@@ -83186,6 +84166,17 @@
             ],
             "official_practice_area": [
                 "Class Actions"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80205",
+                    "address": "2043 York Street",
+                    "phone": "(303) 237-7373",
+                    "lat": 39.7583,
+                    "lng": -104.9677
+                }
             ]
         },
         {
@@ -83204,7 +84195,9 @@
                 "city": "Grand Junction",
                 "address": "2454 Patterson Road",
                 "address2": "Suite 200",
-                "zip": "81505"
+                "zip": "81505",
+                "lat": 39.1834,
+                "lng": -108.5948
             },
             "contact": {
                 "phone": "970-644-6995",
@@ -83229,7 +84222,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-merkel-law-firm-llc",
@@ -83247,7 +84241,9 @@
                 "city": "Denver",
                 "address": "1736 Race Street",
                 "address2": "Suite B",
-                "zip": "80206"
+                "zip": "80206",
+                "lat": 39.7307,
+                "lng": -104.9532
             },
             "contact": {
                 "phone": "303-951-0351",
@@ -83270,6 +84266,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Castle Rock",
+                    "state": "CO",
+                    "zip": "80104",
+                    "address": "695 Jerry Street, #22",
+                    "phone": "+13039519077",
+                    "lat": 39.3039,
+                    "lng": -104.8215
+                }
             ]
         },
         {
@@ -83288,7 +84295,9 @@
                 "city": "Denver",
                 "address": "24 East Ellsworth Avenue",
                 "address2": null,
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "720-422-6502",
@@ -83305,7 +84314,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "warren-moore-rutherford-llp",
@@ -83323,7 +84333,9 @@
                 "city": "Niwot",
                 "address": "6964 N. 79th Street",
                 "address2": "Suite 3",
-                "zip": "80503"
+                "zip": "80503",
+                "lat": 40.1797,
+                "lng": -105.2055
             },
             "contact": {
                 "phone": "888-422-8076",
@@ -83354,7 +84366,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-n-mrzlak-p-c",
@@ -83372,7 +84385,9 @@
                 "city": "Center",
                 "address": "P.O. Box 180",
                 "address2": null,
-                "zip": "81125"
+                "zip": "81125",
+                "lat": 37.8222,
+                "lng": -106.0942
             },
             "contact": {
                 "phone": "719-852-5127",
@@ -83392,7 +84407,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ciancio-ciancio-brown-pc",
@@ -83410,7 +84426,9 @@
                 "city": "Westminster",
                 "address": "12001 Tejon Street",
                 "address2": "Suite 110",
-                "zip": "80234"
+                "zip": "80234",
+                "lat": 39.9141,
+                "lng": -105.011
             },
             "contact": {
                 "phone": "303-747-4748",
@@ -83449,6 +84467,26 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Broomfield",
+                    "state": "CO",
+                    "zip": "80020",
+                    "address": "4 Garden Center, Suite L2",
+                    "phone": "+13039519410",
+                    "lat": 39.9209,
+                    "lng": -105.077
+                },
+                {
+                    "city": "Olympia",
+                    "state": "WA",
+                    "zip": "98502",
+                    "address": "6121 Brenner Road, Northwest",
+                    "phone": "+13039519410",
+                    "lat": 47.1039,
+                    "lng": -123.0524
+                }
             ]
         },
         {
@@ -83467,7 +84505,9 @@
                 "city": "Steamboat Springs",
                 "address": "1710 Copper Ridge Ct",
                 "address2": null,
-                "zip": "80487"
+                "zip": "80487",
+                "lat": 40.4537,
+                "lng": -106.9032
             },
             "contact": {
                 "phone": "970-644-8708",
@@ -83496,7 +84536,8 @@
                 "Domestic Violence",
                 "Drug Crime",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-brien-legal-services-llc",
@@ -83514,7 +84555,9 @@
                 "city": "Denver",
                 "address": "3900 E. Mexico Avenue",
                 "address2": "Suite 300",
-                "zip": "80210"
+                "zip": "80210",
+                "lat": 39.6754,
+                "lng": -104.964
             },
             "contact": {
                 "phone": "720-370-7388",
@@ -83541,7 +84584,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oliver-law-firm-p-c",
@@ -83559,7 +84603,9 @@
                 "city": "Arvada",
                 "address": "7903 Ralston Road",
                 "address2": null,
-                "zip": "80002"
+                "zip": "80002",
+                "lat": 39.7934,
+                "lng": -105.1
             },
             "contact": {
                 "phone": "303-424-4463",
@@ -83580,7 +84626,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-m-kent-olsen-p-c",
@@ -83598,7 +84645,9 @@
                 "city": "Denver",
                 "address": "650 South Cherry Street",
                 "address2": "Suite 102",
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "720-767-3420",
@@ -83634,6 +84683,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Arvada",
+                    "state": "CO",
+                    "zip": "80002",
+                    "address": "5610 Ward Rd., Suite 300",
+                    "phone": "+17209841958",
+                    "lat": 39.7934,
+                    "lng": -105.1
+                }
             ]
         },
         {
@@ -83652,7 +84712,9 @@
                 "city": "Denver",
                 "address": "2150 South Bellaire Street",
                 "address2": "#202",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "303-732-8904",
@@ -83677,6 +84739,35 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Golden",
+                    "state": "CO",
+                    "zip": "80401",
+                    "address": "1536 Cole Blvd, #170",
+                    "phone": "303-732-8904",
+                    "lat": 39.714,
+                    "lng": -105.2441
+                },
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82001",
+                    "address": "1607 Capitol Ave.",
+                    "phone": "307-317-4529",
+                    "lat": 41.1418,
+                    "lng": -104.7792
+                },
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87108",
+                    "address": "131 Madison St. NE, Suite 105",
+                    "phone": "303-732-8904",
+                    "lat": 35.0693,
+                    "lng": -106.5775
+                }
             ]
         },
         {
@@ -83695,7 +84786,9 @@
                 "city": "Denver",
                 "address": "600 Grant Street",
                 "address2": "Suite 201",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "720-496-4740",
@@ -83715,6 +84808,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Silverthorne",
+                    "state": "CO",
+                    "zip": "80498",
+                    "address": "116 Allegra Lane, P.O. Box 144",
+                    "phone": "720-496-4740",
+                    "lat": 39.7941,
+                    "lng": -106.2335
+                }
             ]
         },
         {
@@ -83733,7 +84837,9 @@
                 "city": "Denver",
                 "address": "600 Grant Street",
                 "address2": "Suite 450",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-333-7751",
@@ -83756,7 +84862,8 @@
             ],
             "official_practice_area": [
                 "Labor Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-ryan-peterson-llc",
@@ -83774,7 +84881,9 @@
                 "city": "Denver",
                 "address": "7550 W. Yale Ave., A150",
                 "address2": null,
-                "zip": "80227"
+                "zip": "80227",
+                "lat": 39.6603,
+                "lng": -105.1186
             },
             "contact": {
                 "phone": "303-898-5349",
@@ -83797,7 +84906,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "plog-stein-p-c",
@@ -83815,7 +84925,9 @@
                 "city": "Denver",
                 "address": "6021 S Syracuse Way",
                 "address2": "Suite 202",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": "303-781-0322",
@@ -83843,6 +84955,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Broomfield",
+                    "state": "CO",
+                    "zip": "80021",
+                    "address": "10901 W. 120th Ave., Suite 110",
+                    "phone": "720-759-3023",
+                    "lat": 39.8926,
+                    "lng": -105.1492
+                }
             ]
         },
         {
@@ -83861,7 +84984,9 @@
                 "city": "Wheat Ridge",
                 "address": "4350 Wadsworth Blvd",
                 "address2": "Suite 300",
-                "zip": "80033"
+                "zip": "80033",
+                "lat": 39.7748,
+                "lng": -105.1092
             },
             "contact": {
                 "phone": "303-940-8370",
@@ -83887,7 +85012,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Whistleblower and Qui Tam"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-halliburton-law-firm-llc",
@@ -83905,7 +85031,9 @@
                 "city": "Denver",
                 "address": "1800 Glenarm Place",
                 "address2": "Unit 101",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "303-803-1060",
@@ -83935,7 +85063,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pulitzer-family-law",
@@ -83953,7 +85082,9 @@
                 "city": "Louisville",
                 "address": "357 S. McCaslin Blvd.",
                 "address2": "Ste. 200",
-                "zip": "80027"
+                "zip": "80027",
+                "lat": 39.957,
+                "lng": -105.1578
             },
             "contact": {
                 "phone": "303-421-5600",
@@ -83976,7 +85107,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richards-law-office-p-c",
@@ -83994,7 +85126,9 @@
                 "city": "Glenwood Springs",
                 "address": "826 1/2 Grand Ave.",
                 "address2": "Ste. R15",
-                "zip": "81601"
+                "zip": "81601",
+                "lat": 39.6103,
+                "lng": -107.3135
             },
             "contact": {
                 "phone": "970-456-1922",
@@ -84015,7 +85149,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-monte-j-robbins-esq",
@@ -84033,7 +85168,9 @@
                 "city": "Denver",
                 "address": "1733 High St.",
                 "address2": null,
-                "zip": "80218"
+                "zip": "80218",
+                "lat": 39.7324,
+                "lng": -104.9713
             },
             "contact": {
                 "phone": "303-927-0172",
@@ -84057,6 +85194,17 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greeley",
+                    "state": "CO",
+                    "zip": "80631",
+                    "address": "710 11th Ave., #309",
+                    "phone": "+13039270172",
+                    "lat": 40.4361,
+                    "lng": -104.6813
+                }
             ]
         },
         {
@@ -84075,7 +85223,9 @@
                 "city": "Denver",
                 "address": "1660 Lincoln Street",
                 "address2": "Suite #1600",
-                "zip": "80264"
+                "zip": "80264",
+                "lat": 39.7425,
+                "lng": -104.9856
             },
             "contact": {
                 "phone": "303-573-3882",
@@ -84114,7 +85264,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "van-roekel-law-firm-llc",
@@ -84132,7 +85283,9 @@
                 "city": "Greenwood Village",
                 "address": "7887 E Belleview Ave",
                 "address2": "Suite 110",
-                "zip": "80111"
+                "zip": "80111",
+                "lat": 39.624,
+                "lng": -104.872
             },
             "contact": {
                 "phone": null,
@@ -84145,7 +85298,8 @@
             "attorneys": [
                 "Hannah Van Roekel"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "peter-rogers-family-law",
@@ -84163,7 +85317,9 @@
                 "city": "Boulder",
                 "address": "885 Arapahoe Ave",
                 "address2": null,
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "303-951-6756",
@@ -84190,7 +85346,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-jeremy-rosenthal",
@@ -84208,7 +85365,9 @@
                 "city": "Denver",
                 "address": "600 17th Street",
                 "address2": "Suite 2800 South",
-                "zip": "80202"
+                "zip": "80202",
+                "lat": 39.7526,
+                "lng": -104.9981
             },
             "contact": {
                 "phone": "720-644-9676",
@@ -84238,6 +85397,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "600 17th Street, Suite 2803K",
+                    "phone": "720-644-9676",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                }
             ]
         },
         {
@@ -84256,7 +85426,9 @@
                 "city": "Denver",
                 "address": "3773 Cherry Creek Dr. N.",
                 "address2": "Ste. 575",
-                "zip": "80209"
+                "zip": "80209",
+                "lat": 39.7056,
+                "lng": -104.9649
             },
             "contact": {
                 "phone": "303-359-6114",
@@ -84276,7 +85448,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ross-law-p-c",
@@ -84294,7 +85467,9 @@
                 "city": "Centennial",
                 "address": "8030 S. Holly Street",
                 "address2": "Unit G",
-                "zip": "80122"
+                "zip": "80122",
+                "lat": 39.5806,
+                "lng": -104.9558
             },
             "contact": {
                 "phone": "303-231-1020",
@@ -84316,7 +85491,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-s-rubinstein-p-c",
@@ -84334,7 +85510,9 @@
                 "city": "Carbondale",
                 "address": "320 Main St #201",
                 "address2": null,
-                "zip": "81623"
+                "zip": "81623",
+                "lat": 39.2468,
+                "lng": -107.2261
             },
             "contact": {
                 "phone": "970-704-0888",
@@ -84359,6 +85537,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Glenwood Springs",
+                    "state": "CO",
+                    "zip": "81601",
+                    "address": "1338 Grand Ave",
+                    "phone": "(970) 945-7233",
+                    "lat": 39.6103,
+                    "lng": -107.3135
+                }
             ]
         },
         {
@@ -84377,7 +85566,9 @@
                 "city": "Littleton",
                 "address": "P.O. Box 270834",
                 "address2": null,
-                "zip": "80127"
+                "zip": "80127",
+                "lat": 39.5333,
+                "lng": -105.157
             },
             "contact": {
                 "phone": "720-545-1690",
@@ -84401,7 +85592,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "samuelson-law-p-c",
@@ -84419,7 +85611,9 @@
                 "city": "Fort Collins",
                 "address": "215 West Oak Street",
                 "address2": "Suite 601",
-                "zip": "80521"
+                "zip": "80521",
+                "lat": 40.5984,
+                "lng": -105.1264
             },
             "contact": {
                 "phone": "970-493-4371",
@@ -84451,7 +85645,8 @@
                 "DUI and DWI",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-keith-sandoval",
@@ -84469,7 +85664,9 @@
                 "city": "Denver",
                 "address": "1780 South Bellaire Street",
                 "address2": "Suite 600",
-                "zip": "80222"
+                "zip": "80222",
+                "lat": 39.673,
+                "lng": -104.9261
             },
             "contact": {
                 "phone": "303-736-6469",
@@ -84489,7 +85686,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schatten-law-firm",
@@ -84507,7 +85705,9 @@
                 "city": "Denver",
                 "address": "899 Logan Street",
                 "address2": "Suite 200",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-388-3200",
@@ -84536,7 +85736,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christian-a-schwaner-p-c",
@@ -84554,7 +85755,9 @@
                 "city": "Colorado Springs",
                 "address": "729 S Cascade Ave",
                 "address2": null,
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-577-9700",
@@ -84576,7 +85779,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shapiro-family-law",
@@ -84594,7 +85798,9 @@
                 "city": "Denver",
                 "address": "8751 E. Hampden Ave.",
                 "address2": "Suite B5",
-                "zip": "80231"
+                "zip": "80231",
+                "lat": 39.6757,
+                "lng": -104.886
             },
             "contact": {
                 "phone": "303-309-9580",
@@ -84613,7 +85819,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "silverman-associates-p-c",
@@ -84631,7 +85838,9 @@
                 "city": "Denver",
                 "address": "950 South Cherry Street, Suite 300",
                 "address2": null,
-                "zip": "80246"
+                "zip": "80246",
+                "lat": 39.7046,
+                "lng": -104.9312
             },
             "contact": {
                 "phone": "303-731-0734",
@@ -84654,7 +85863,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-amy-jane-simons",
@@ -84672,7 +85882,9 @@
                 "city": "Englewood",
                 "address": "8142 South Mobile Way",
                 "address2": null,
-                "zip": "80112"
+                "zip": "80112",
+                "lat": 39.5657,
+                "lng": -104.8578
             },
             "contact": {
                 "phone": "303-220-1320",
@@ -84693,7 +85905,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frank-azar-car-truck-accident-lawyers-thornton-colorado",
@@ -84711,7 +85924,9 @@
                 "city": "Thornton",
                 "address": "9351 Grant St",
                 "address2": "Suite 210",
-                "zip": "80229"
+                "zip": "80229",
+                "lat": 39.8486,
+                "lng": -104.9506
             },
             "contact": {
                 "phone": "303-997-2219",
@@ -84748,6 +85963,26 @@
                 "Dangerous Products",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lakeside",
+                    "state": "CO",
+                    "zip": "80212",
+                    "address": "4704 N. Harlan Street, Suite 205",
+                    "phone": "303-997-2219",
+                    "lat": 39.7706,
+                    "lng": -105.0486
+                },
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82009",
+                    "address": "2232 Dell Range Blvd, Suite 302",
+                    "phone": "303-997-2219",
+                    "lat": 41.3831,
+                    "lng": -104.731
+                }
             ]
         },
         {
@@ -84766,7 +86001,9 @@
                 "city": "Golden",
                 "address": "14143 Denver W Pkwy",
                 "address2": "Suite 100",
-                "zip": "80401"
+                "zip": "80401",
+                "lat": 39.714,
+                "lng": -105.2441
             },
             "contact": {
                 "phone": "303-247-9618",
@@ -84790,7 +86027,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "taibo-coombe-law",
@@ -84808,7 +86046,9 @@
                 "city": "Centennial",
                 "address": "6860 South Yosemite Court",
                 "address2": "Suite 2000",
-                "zip": "80112"
+                "zip": "80112",
+                "lat": 39.5657,
+                "lng": -104.8578
             },
             "contact": {
                 "phone": "303-991-2197",
@@ -84830,6 +86070,17 @@
             ],
             "official_practice_area": [
                 "Child Custody"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Aurora",
+                    "state": "CO",
+                    "zip": "80016",
+                    "address": "6105 S. Main Street, Suite 200",
+                    "phone": "(303) 395-4777",
+                    "lat": 39.6022,
+                    "lng": -104.7139
+                }
             ]
         },
         {
@@ -84848,7 +86099,9 @@
                 "city": "Boulder",
                 "address": "2521 Broadway Street",
                 "address2": "Suite A",
-                "zip": "80302"
+                "zip": "80302",
+                "lat": 40.0481,
+                "lng": -105.3802
             },
             "contact": {
                 "phone": "303-569-7540",
@@ -84874,6 +86127,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "1444 Blake Street",
+                    "phone": "303-569-7540",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                }
             ]
         },
         {
@@ -84892,7 +86156,9 @@
                 "city": "Wheat Ridge",
                 "address": "7827 W. 38th Ave.",
                 "address2": null,
-                "zip": "80033"
+                "zip": "80033",
+                "lat": 39.7748,
+                "lng": -105.1092
             },
             "contact": {
                 "phone": "303-940-0306",
@@ -84915,7 +86181,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "craig-l-truman-p-c",
@@ -84933,7 +86200,9 @@
                 "city": "Denver",
                 "address": "455 Sherman St.",
                 "address2": "#310",
-                "zip": "80203"
+                "zip": "80203",
+                "lat": 39.732,
+                "lng": -104.9825
             },
             "contact": {
                 "phone": "303-595-8008",
@@ -84958,7 +86227,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "torbet-tuft-llc",
@@ -84976,7 +86246,9 @@
                 "city": "Colorado Springs",
                 "address": "2 North Cascade Avenue",
                 "address2": "Suite 320",
-                "zip": "80903"
+                "zip": "80903",
+                "lat": 38.8308,
+                "lng": -104.8143
             },
             "contact": {
                 "phone": "719-475-9300",
@@ -85001,7 +86273,8 @@
             ],
             "official_practice_area": [
                 "Foreclosure and Alternatives"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frank-azar-car-truck-accident-lawyers-colorado-springs-colorado",
@@ -85019,7 +86292,9 @@
                 "city": "Colorado Springs",
                 "address": "5536 Library Ln",
                 "address2": null,
-                "zip": "80918"
+                "zip": "80918",
+                "lat": 38.9138,
+                "lng": -104.7819
             },
             "contact": {
                 "phone": "303-997-2219",
@@ -85070,6 +86345,26 @@
                 "Whistleblower and Qui Tam",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pueblo",
+                    "state": "CO",
+                    "zip": "81003",
+                    "address": "400 N Main Street",
+                    "phone": "303-997-2219",
+                    "lat": 38.2776,
+                    "lng": -104.645
+                },
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82009",
+                    "address": "2232 Dell Range Blvd, Suite 302",
+                    "phone": "303-997-2219",
+                    "lat": 41.3831,
+                    "lng": -104.731
+                }
             ]
         },
         {
@@ -85088,7 +86383,9 @@
                 "city": "Dillon",
                 "address": "P.O. Box 5268",
                 "address2": "114 Village Place, Suite 301",
-                "zip": "80435"
+                "zip": "80435",
+                "lat": 39.6069,
+                "lng": -105.9409
             },
             "contact": {
                 "phone": "970-468-0210",
@@ -85110,7 +86407,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frank-azar-car-truck-accident-lawyers-pueblo-colorado",
@@ -85128,7 +86426,9 @@
                 "city": "Pueblo",
                 "address": "400 N Main Street",
                 "address2": null,
-                "zip": "81003"
+                "zip": "81003",
+                "lat": 38.2776,
+                "lng": -104.645
             },
             "contact": {
                 "phone": "303-997-2219",
@@ -85179,6 +86479,26 @@
                 "Whistleblower and Qui Tam",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Colorado Springs",
+                    "state": "CO",
+                    "zip": "80918",
+                    "address": "5536 Library Ln",
+                    "phone": "303-997-2219",
+                    "lat": 38.9138,
+                    "lng": -104.7819
+                },
+                {
+                    "city": "Cheyenne",
+                    "state": "WY",
+                    "zip": "82009",
+                    "address": "2232 Dell Range Blvd, Suite 302",
+                    "phone": "303-997-2219",
+                    "lat": 41.3831,
+                    "lng": -104.731
+                }
             ]
         },
         {
@@ -85197,7 +86517,9 @@
                 "city": "Lafayette",
                 "address": "1120 W. South Boulder Road",
                 "address2": "Suite 101-A",
-                "zip": "80026"
+                "zip": "80026",
+                "lat": 40.0226,
+                "lng": -105.1054
             },
             "contact": {
                 "phone": "720-248-0721",
@@ -85226,6 +86548,17 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Englewood",
+                    "state": "CO",
+                    "zip": "80111",
+                    "address": "5460 South Quebec Street, Suite 333",
+                    "phone": "+13038653852",
+                    "lat": 39.624,
+                    "lng": -104.872
+                }
             ]
         },
         {
@@ -85244,7 +86577,9 @@
                 "city": "Broomfield",
                 "address": "720 Burbank Street",
                 "address2": null,
-                "zip": "80020"
+                "zip": "80020",
+                "lat": 39.9209,
+                "lng": -105.077
             },
             "contact": {
                 "phone": "720-985-2466",
@@ -85293,7 +86628,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilbrandt-law",
@@ -85311,7 +86647,9 @@
                 "city": "Golden",
                 "address": "The Armory",
                 "address2": "1301 Arapahoe Street, Ste. 105",
-                "zip": "80401"
+                "zip": "80401",
+                "lat": 39.714,
+                "lng": -105.2441
             },
             "contact": {
                 "phone": "720-389-2750",
@@ -85341,7 +86679,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schroer-williams-law-offices-pllc",
@@ -85359,7 +86698,9 @@
                 "city": "Colorado Springs",
                 "address": "7045 Campus Drive",
                 "address2": "Suite 103",
-                "zip": "80920"
+                "zip": "80920",
+                "lat": 38.9585,
+                "lng": -104.7667
             },
             "contact": {
                 "phone": "719-900-3967",
@@ -85394,7 +86735,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "randy-l-williams-clark-and-williams-llc",
@@ -85412,7 +86754,9 @@
                 "city": "Loveland",
                 "address": "2881 North Monroe Ave.",
                 "address2": "Suite 1",
-                "zip": "80538"
+                "zip": "80538",
+                "lat": 40.5039,
+                "lng": -105.1312
             },
             "contact": {
                 "phone": "970-744-4974",
@@ -85434,7 +86778,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bcwilliamson-pc",
@@ -85452,7 +86797,9 @@
                 "city": "Denver",
                 "address": "1001 Bannock St.",
                 "address2": null,
-                "zip": "80204"
+                "zip": "80204",
+                "lat": 39.7377,
+                "lng": -105.0203
             },
             "contact": {
                 "phone": "970-901-8317",
@@ -85474,7 +86821,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wright-law-llc",
@@ -85492,7 +86840,9 @@
                 "city": "Brighton",
                 "address": "30 S. 7th Avenue",
                 "address2": "Ste. 402",
-                "zip": "80601"
+                "zip": "80601",
+                "lat": 39.9429,
+                "lng": -104.7995
             },
             "contact": {
                 "phone": "720-800-4193",
@@ -85517,7 +86867,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "altitude-family-law-pc",
@@ -85535,7 +86886,9 @@
                 "city": "Littleton",
                 "address": "2546 W. Main St",
                 "address2": "Suite 200",
-                "zip": "80120"
+                "zip": "80120",
+                "lat": 39.5979,
+                "lng": -105.0147
             },
             "contact": {
                 "phone": null,
@@ -85548,7 +86901,8 @@
             "attorneys": [
                 "Daniel B. Zarnowski"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "zuckerman-law",
@@ -85566,7 +86920,9 @@
                 "city": "Denver",
                 "address": "1001 Bannock Street",
                 "address2": null,
-                "zip": "80204"
+                "zip": "80204",
+                "lat": 39.7377,
+                "lng": -105.0203
             },
             "contact": {
                 "phone": "720-500-5757",
@@ -85593,7 +86949,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

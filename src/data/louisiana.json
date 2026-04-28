@@ -56076,7 +56076,9 @@
                 "city": "Hammond",
                 "address": "106 S. Magnolia Street",
                 "address2": null,
-                "zip": "70403"
+                "zip": "70403",
+                "lat": 30.4742,
+                "lng": -90.4699
             },
             "contact": {
                 "phone": "985-542-6848",
@@ -56125,7 +56127,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oak-grove-estate-planning",
@@ -56143,7 +56146,9 @@
                 "city": "Lafayette",
                 "address": "324 Settlers Trace Blvd.",
                 "address2": null,
-                "zip": "70508"
+                "zip": "70508",
+                "lat": 30.1546,
+                "lng": -92.0283
             },
             "contact": {
                 "phone": "337-443-0700",
@@ -56167,7 +56172,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gertler-law-firm",
@@ -56185,7 +56191,9 @@
                 "city": "New Orleans",
                 "address": "935 Gravier Street",
                 "address2": "Suite 1900",
-                "zip": "70112"
+                "zip": "70112",
+                "lat": 29.9582,
+                "lng": -90.0767
             },
             "contact": {
                 "phone": "504-581-6411",
@@ -56218,7 +56226,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ballay-braud-colon-plc",
@@ -56236,7 +56245,9 @@
                 "city": "Belle Chasse",
                 "address": "8114 Highway 23",
                 "address2": "Suite 101",
-                "zip": "70037"
+                "zip": "70037",
+                "lat": 29.7507,
+                "lng": -89.9966
             },
             "contact": {
                 "phone": "877-275-7231",
@@ -56270,7 +56281,8 @@
                 "Professional Malpractice",
                 "Trusts",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barkemeyer-law-firm-dwi-lawyers",
@@ -56288,7 +56300,9 @@
                 "city": "Baton Rouge",
                 "address": "8550 United Plaza Boulevard",
                 "address2": "Ste 702",
-                "zip": "70809"
+                "zip": "70809",
+                "lat": 30.387,
+                "lng": -91.0641
             },
             "contact": {
                 "phone": "225-964-6720",
@@ -56327,6 +56341,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lafayette",
+                    "state": "LA",
+                    "zip": "70501",
+                    "address": "625 St. John Street",
+                    "phone": "337-761-3121",
+                    "lat": 30.2389,
+                    "lng": -91.9894
+                }
             ]
         },
         {
@@ -56345,7 +56370,9 @@
                 "city": "Breaux Bridge",
                 "address": "401 East Mills Ave",
                 "address2": null,
-                "zip": "70517"
+                "zip": "70517",
+                "lat": 30.2853,
+                "lng": -91.8278
             },
             "contact": {
                 "phone": "337-354-2437",
@@ -56362,7 +56389,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-rodney-baum-attorney-at-law",
@@ -56380,7 +56408,9 @@
                 "city": "Baton Rouge",
                 "address": "830 Main St.",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "800-352-0797",
@@ -56409,7 +56439,8 @@
                 "Drug Crime",
                 "Internet",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "salim-beasley-causey-deblieux-attorneys-at-law",
@@ -56427,7 +56458,9 @@
                 "city": "Natchitoches",
                 "address": "1901 Texas Street",
                 "address2": null,
-                "zip": "71457"
+                "zip": "71457",
+                "lat": 31.7108,
+                "lng": -93.065
             },
             "contact": {
                 "phone": "866-269-5561",
@@ -56471,7 +56504,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hawkins-legal",
@@ -56489,7 +56523,9 @@
                 "city": "Lake Charles",
                 "address": "716 Hodges Street",
                 "address2": "P.O. Box 3756",
-                "zip": "70602"
+                "zip": "70602",
+                "lat": 30.2265,
+                "lng": -93.2175
             },
             "contact": {
                 "phone": "337-313-4090",
@@ -56514,7 +56550,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-bruce-c-betzer",
@@ -56532,7 +56569,9 @@
                 "city": "Metairie",
                 "address": "3129 Bore Street",
                 "address2": null,
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-264-9523",
@@ -56554,7 +56593,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laperouse-alpc",
@@ -56572,7 +56612,9 @@
                 "city": "Baton Rouge",
                 "address": "8034 Jefferson Hwy",
                 "address2": null,
-                "zip": "70809"
+                "zip": "70809",
+                "lat": 30.387,
+                "lng": -91.0641
             },
             "contact": {
                 "phone": "225-234-8497",
@@ -56598,6 +56640,17 @@
             ],
             "official_practice_area": [
                 "Construction"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "zip": "75254",
+                    "address": "5220 Spring Valley Rd., Ste. 615",
+                    "phone": "+12252348497",
+                    "lat": 32.9464,
+                    "lng": -96.7995
+                }
             ]
         },
         {
@@ -56616,7 +56669,9 @@
                 "city": "Luling",
                 "address": "50 Wade Street",
                 "address2": "Ste 9",
-                "zip": "70070"
+                "zip": "70070",
+                "lat": 29.9143,
+                "lng": -90.3657
             },
             "contact": {
                 "phone": "504-223-0977",
@@ -56649,6 +56704,17 @@
                 "Disability Insurance",
                 "Personal Injury",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Metairie",
+                    "state": "LA",
+                    "zip": "70001",
+                    "address": "2325 N Hullen St, Ste 101",
+                    "phone": "504-223-0977",
+                    "lat": 29.9843,
+                    "lng": -90.1647
+                }
             ]
         },
         {
@@ -56667,7 +56733,9 @@
                 "city": "New Orleans",
                 "address": "1100 Poydras Street",
                 "address2": "Suite 1502",
-                "zip": "70163"
+                "zip": "70163",
+                "lat": 29.9501,
+                "lng": -90.0753
             },
             "contact": {
                 "phone": "504-934-1500",
@@ -56687,7 +56755,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brewster-law-firm-llc",
@@ -56705,7 +56774,9 @@
                 "city": "Metairie",
                 "address": "433 Metairie Road",
                 "address2": "Ste. 209",
-                "zip": "70005"
+                "zip": "70005",
+                "lat": 30.0838,
+                "lng": -90.1268
             },
             "contact": {
                 "phone": "504-717-4971",
@@ -56726,7 +56797,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "broussard-injury-lawyers",
@@ -56744,7 +56816,9 @@
                 "city": "Lake Charles",
                 "address": "1301 Common Street",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-439-2450",
@@ -56767,6 +56841,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Metairie",
+                    "state": "LA",
+                    "zip": "70005",
+                    "address": "321 Veterans Memorial Blvd., Suite 205",
+                    "phone": "504-264-5559",
+                    "lat": 30.0838,
+                    "lng": -90.1268
+                }
             ]
         },
         {
@@ -56785,7 +56870,9 @@
                 "city": "Hammond",
                 "address": "201 NW Railroad Ave",
                 "address2": "Ste 303",
-                "zip": "70403"
+                "zip": "70403",
+                "lat": 30.4742,
+                "lng": -90.4699
             },
             "contact": {
                 "phone": "985-800-4983",
@@ -56817,7 +56904,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roedel-parsons-koch-blache-balhoff-mccollister",
@@ -56835,7 +56923,9 @@
                 "city": "Baton Rouge",
                 "address": "8440 Jefferson Highway",
                 "address2": "Suite 301",
-                "zip": "70809"
+                "zip": "70809",
+                "lat": 30.387,
+                "lng": -91.0641
             },
             "contact": {
                 "phone": "225-929-7033",
@@ -56867,6 +56957,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70112",
+                    "address": "1515 Poydras Street, Suite 2330",
+                    "phone": "(504) 566-1801",
+                    "lat": 29.9582,
+                    "lng": -90.0767
+                }
             ]
         },
         {
@@ -56885,7 +56986,9 @@
                 "city": "New Orleans",
                 "address": "855 Baronne Street",
                 "address2": null,
-                "zip": "70113"
+                "zip": "70113",
+                "lat": 29.9441,
+                "lng": -90.0832
             },
             "contact": {
                 "phone": "504-564-7366",
@@ -56923,7 +57026,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bryan-law-firm-l-l-c",
@@ -56941,7 +57045,9 @@
                 "city": "Marksville",
                 "address": "419 South Preston Street",
                 "address2": "PO Box 707",
-                "zip": "71351"
+                "zip": "71351",
+                "lat": 31.1838,
+                "lng": -91.9674
             },
             "contact": {
                 "phone": "318-240-8282",
@@ -56961,7 +57067,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buchler-and-buchler-llc",
@@ -56979,7 +57086,9 @@
                 "city": "Metairie",
                 "address": "3014 Metairie Rd.",
                 "address2": null,
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-541-9020",
@@ -57014,7 +57123,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buhrer-law-firm",
@@ -57032,7 +57142,9 @@
                 "city": "Metairie",
                 "address": "3017 21st Street",
                 "address2": "Suite 110",
-                "zip": "70002"
+                "zip": "70002",
+                "lat": 30.1021,
+                "lng": -90.151
             },
             "contact": {
                 "phone": "504-508-5400",
@@ -57054,7 +57166,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sanchez-burke-llc",
@@ -57072,7 +57185,9 @@
                 "city": "Lake Charles",
                 "address": "1200 Ryan Street",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-576-2999",
@@ -57109,6 +57224,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Iberia",
+                    "state": "LA",
+                    "zip": "70563",
+                    "address": "223 East Main Street",
+                    "phone": "+13375463843",
+                    "lat": 30.0459,
+                    "lng": -91.7458
+                }
             ]
         },
         {
@@ -57127,7 +57253,9 @@
                 "city": "Slidell",
                 "address": "1290 7th St.",
                 "address2": "Ste. 1",
-                "zip": "70458"
+                "zip": "70458",
+                "lat": 30.2581,
+                "lng": -89.8134
             },
             "contact": {
                 "phone": "985-288-1732",
@@ -57153,7 +57281,8 @@
                 "Bankruptcy",
                 "DUI and DWI",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williamson-campbell-whittington-llc",
@@ -57171,7 +57300,9 @@
                 "city": "Baton Rouge",
                 "address": "955 Mc Clung Street",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-383-4010",
@@ -57202,7 +57333,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hargrove-smelley-strickland-langley-p-l-c",
@@ -57220,7 +57352,9 @@
                 "city": "Shreveport",
                 "address": "401 Market Street",
                 "address2": "Suite 600",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-429-7200",
@@ -57250,7 +57384,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cascio-law-firm",
@@ -57268,7 +57403,9 @@
                 "city": "Baton Rouge",
                 "address": "8480 Bluebonnet Blvd.",
                 "address2": "Suite A",
-                "zip": "70810"
+                "zip": "70810",
+                "lat": 30.3549,
+                "lng": -91.0789
             },
             "contact": {
                 "phone": "225-377-3595",
@@ -57289,7 +57426,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitworth-law-firm",
@@ -57307,7 +57445,9 @@
                 "city": "Baton Rouge",
                 "address": "900 France Street",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-364-0994",
@@ -57330,7 +57470,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nelson-hammons-attorneys-at-law",
@@ -57348,7 +57489,9 @@
                 "city": "Shreveport",
                 "address": "705 Milam Street",
                 "address2": null,
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-666-5067",
@@ -57379,6 +57522,17 @@
                 "Medical Malpractice",
                 "Nursing Home Abuse",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lafayette",
+                    "state": "LA",
+                    "zip": "70503",
+                    "address": "315 South College Road, Suite 146",
+                    "phone": "+13184084609",
+                    "lat": 30.1717,
+                    "lng": -92.0599
+                }
             ]
         },
         {
@@ -57397,7 +57551,9 @@
                 "city": "Mandeville",
                 "address": "1550 West Causeway Approach",
                 "address2": null,
-                "zip": "70471"
+                "zip": "70471",
+                "lat": 30.327,
+                "lng": -90.0593
             },
             "contact": {
                 "phone": "985-778-2733",
@@ -57420,7 +57576,8 @@
             ],
             "official_practice_area": [
                 "Asbestos Mesothelioma"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "donald-d-cleveland-aplc",
@@ -57438,7 +57595,9 @@
                 "city": "Lafayette",
                 "address": "113 West Convent Street",
                 "address2": null,
-                "zip": "70501"
+                "zip": "70501",
+                "lat": 30.2389,
+                "lng": -91.9894
             },
             "contact": {
                 "phone": "337-301-8566",
@@ -57458,7 +57617,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cloyd-wimberly-villemarette-l-l-c",
@@ -57476,7 +57636,9 @@
                 "city": "Lafayette",
                 "address": "302 La Rue France",
                 "address2": "Suite 204",
-                "zip": "70508"
+                "zip": "70508",
+                "lat": 30.1546,
+                "lng": -92.0283
             },
             "contact": {
                 "phone": "337-289-6906",
@@ -57499,7 +57661,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-ossie-brown",
@@ -57517,7 +57680,9 @@
                 "city": "Baton Rouge",
                 "address": "123 Saint Ferdinand Street",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-343-1111",
@@ -57539,7 +57704,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hesser-cooper-law-group-llc",
@@ -57557,7 +57723,9 @@
                 "city": "Alexandria",
                 "address": "812 Versailles Blvd.",
                 "address2": "Suite A",
-                "zip": "71303"
+                "zip": "71303",
+                "lat": 31.2788,
+                "lng": -92.5329
             },
             "contact": {
                 "phone": "318-684-3975",
@@ -57586,7 +57754,8 @@
                 "Family Law",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "corkern-crews-guillet-johnson-llc",
@@ -57604,7 +57773,9 @@
                 "city": "Natchitoches",
                 "address": "616 Front St.",
                 "address2": null,
-                "zip": "71457"
+                "zip": "71457",
+                "lat": 31.7108,
+                "lng": -93.065
             },
             "contact": {
                 "phone": "318-352-2302",
@@ -57627,7 +57798,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Personal Injury Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nicaud-sunseri-law-firm-llc",
@@ -57645,7 +57817,9 @@
                 "city": "Metairie",
                 "address": "3000 18th Street",
                 "address2": null,
-                "zip": "70002"
+                "zip": "70002",
+                "lat": 30.1021,
+                "lng": -90.151
             },
             "contact": {
                 "phone": "504-837-1304",
@@ -57672,6 +57846,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mandeville",
+                    "state": "LA",
+                    "zip": "70448",
+                    "address": "111 North Causeway Blvd., Suite 210",
+                    "phone": "(504) 837-1304",
+                    "lat": 30.3567,
+                    "lng": -90.049
+                }
             ]
         },
         {
@@ -57690,7 +57875,9 @@
                 "city": "Metairie",
                 "address": "3445 N. Causeway Blvd.",
                 "address2": "Suite 510",
-                "zip": "70002"
+                "zip": "70002",
+                "lat": 30.1021,
+                "lng": -90.151
             },
             "contact": {
                 "phone": "504-547-6109",
@@ -57724,7 +57911,8 @@
                 "Litigation and Appeals",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "colvin-smith-mckay",
@@ -57742,7 +57930,9 @@
                 "city": "Shreveport",
                 "address": "900 Market Street",
                 "address2": "Suite 300",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-429-6770",
@@ -57765,6 +57955,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Homer",
+                    "state": "LA",
+                    "zip": "71040",
+                    "address": "522 East Main Street, Post Office Box 239",
+                    "phone": "(318) 927-6149",
+                    "lat": 32.7772,
+                    "lng": -92.9703
+                }
             ]
         },
         {
@@ -57783,7 +57984,9 @@
                 "city": "Lake Charles",
                 "address": "517 West College Street",
                 "address2": null,
-                "zip": "70605"
+                "zip": "70605",
+                "lat": 30.1272,
+                "lng": -93.2804
             },
             "contact": {
                 "phone": "337-900-0000",
@@ -57806,7 +58009,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-gregory-p-dileo-aplc",
@@ -57824,7 +58028,9 @@
                 "city": "New Orleans",
                 "address": "1140 St. Charles Ave.",
                 "address2": null,
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-569-5982",
@@ -57845,7 +58051,8 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-robert-diliberto",
@@ -57863,7 +58070,9 @@
                 "city": "Metairie",
                 "address": "3636 S. I-10 Service Rd. W.",
                 "address2": "Suite 210 A",
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-383-7493",
@@ -57884,7 +58093,8 @@
             ],
             "official_practice_area": [
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "douglas-c-dominick-attorney-at-law",
@@ -57902,7 +58112,9 @@
                 "city": "Vivian",
                 "address": "203 W. Alabama Ave.",
                 "address2": "P.O. Box 20",
-                "zip": "71082"
+                "zip": "71082",
+                "lat": 32.7995,
+                "lng": -93.9485
             },
             "contact": {
                 "phone": "318-666-3518",
@@ -57935,7 +58147,8 @@
                 "Mergers and Acquisitions",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "downs-law-firm",
@@ -57953,7 +58166,9 @@
                 "city": "Monroe",
                 "address": "4214 Sterlington Rd.",
                 "address2": null,
-                "zip": "71203"
+                "zip": "71203",
+                "lat": 32.5979,
+                "lng": -92.0324
             },
             "contact": {
                 "phone": "318-900-7863",
@@ -57986,6 +58201,17 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bastrop",
+                    "state": "LA",
+                    "zip": "71220",
+                    "address": "517 North Washington Street",
+                    "phone": "+13184094537",
+                    "lat": 32.8439,
+                    "lng": -91.8978
+                }
             ]
         },
         {
@@ -58004,7 +58230,9 @@
                 "city": "Baton Rouge",
                 "address": "4127 W. E. Heck Court",
                 "address2": null,
-                "zip": "70816"
+                "zip": "70816",
+                "lat": 30.4282,
+                "lng": -91.0193
             },
             "contact": {
                 "phone": "225-234-8954",
@@ -58052,7 +58280,8 @@
                 "Same Sex",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-keating-law-firm-llc",
@@ -58070,7 +58299,9 @@
                 "city": "Metairie",
                 "address": "3714 Airline Drive",
                 "address2": null,
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-832-2232",
@@ -58095,6 +58326,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Covington",
+                    "state": "LA",
+                    "zip": "70443",
+                    "address": "222 N. Vermont Street",
+                    "phone": "(504) 832-2232",
+                    "lat": 30.6292,
+                    "lng": -90.5403
+                }
             ]
         },
         {
@@ -58113,7 +58355,9 @@
                 "city": "Hammond",
                 "address": "201 N.W. Railroad Ave",
                 "address2": "Suite 211",
-                "zip": "70401"
+                "zip": "70401",
+                "lat": 30.5358,
+                "lng": -90.4644
             },
             "contact": {
                 "phone": "833-604-3038",
@@ -58145,7 +58389,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "duncan-law-firm",
@@ -58163,7 +58408,9 @@
                 "city": "Baton Rouge",
                 "address": "8480 Bluebonnet Boulevard",
                 "address2": "Suite G",
-                "zip": "70810"
+                "zip": "70810",
+                "lat": 30.3549,
+                "lng": -91.0789
             },
             "contact": {
                 "phone": "225-341-7187",
@@ -58331,7 +58578,8 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charles-elliott-associates-llc",
@@ -58349,7 +58597,9 @@
                 "city": "Alexandria",
                 "address": "720 Murray Street",
                 "address2": null,
-                "zip": "71301"
+                "zip": "71301",
+                "lat": 31.2557,
+                "lng": -92.4742
             },
             "contact": {
                 "phone": "318-666-7352",
@@ -58380,7 +58630,8 @@
                 "Litigation and Appeals",
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeremy-epstein-law-llc",
@@ -58398,7 +58649,9 @@
                 "city": "New Orleans",
                 "address": "935 Gravier Street",
                 "address2": "Suite 1012",
-                "zip": "70112"
+                "zip": "70112",
+                "lat": 29.9582,
+                "lng": -90.0767
             },
             "contact": {
                 "phone": "504-900-3844",
@@ -58424,7 +58677,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "faustermann-law-firm-l-c",
@@ -58442,7 +58696,9 @@
                 "city": "Slidell",
                 "address": "1411 Lindberg Dr.",
                 "address2": null,
-                "zip": "70458"
+                "zip": "70458",
+                "lat": 30.2581,
+                "lng": -89.8134
             },
             "contact": {
                 "phone": "985-649-6010",
@@ -58461,7 +58717,8 @@
             ],
             "official_practice_area": [
                 "Child Support"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "farrugia-law-firm-llc",
@@ -58479,7 +58736,9 @@
                 "city": "New Orleans",
                 "address": "1340 Poydras Street",
                 "address2": "Suite 2100",
-                "zip": "70112"
+                "zip": "70112",
+                "lat": 29.9582,
+                "lng": -90.0767
             },
             "contact": {
                 "phone": "866-676-0856",
@@ -58509,7 +58768,8 @@
                 "Veteran's Benefits",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccollister-mccleary-fazio-aplc",
@@ -58527,7 +58787,9 @@
                 "city": "Baton Rouge",
                 "address": "11616 Southfork Avenue",
                 "address2": "Suite 302, P.O. Box 40686",
-                "zip": "70816"
+                "zip": "70816",
+                "lat": 30.4282,
+                "lng": -91.0193
             },
             "contact": {
                 "phone": "225-292-8898",
@@ -58579,7 +58841,8 @@
                 "State Local and Municipal Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-fawer-llc",
@@ -58597,7 +58860,9 @@
                 "city": "New Orleans",
                 "address": "201 St. Charles Ave. #3702",
                 "address2": null,
-                "zip": "70170"
+                "zip": "70170",
+                "lat": 29.9587,
+                "lng": -90.0695
             },
             "contact": {
                 "phone": "504-355-2589",
@@ -58634,7 +58899,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "veazeyfelder-llc",
@@ -58652,7 +58918,9 @@
                 "city": "Lafayette",
                 "address": "2 Flagg Place",
                 "address2": "Suite 3",
-                "zip": "70508"
+                "zip": "70508",
+                "lat": 30.1546,
+                "lng": -92.0283
             },
             "contact": {
                 "phone": "337-446-2709",
@@ -58685,7 +58953,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "betsy-a-fischer-associates-llc",
@@ -58703,7 +58972,9 @@
                 "city": "Metairie",
                 "address": "2309 North Hullen",
                 "address2": null,
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-688-2582",
@@ -58733,7 +59004,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fisher-injury-lawyers",
@@ -58751,7 +59023,9 @@
                 "city": "Baton Rouge",
                 "address": "10915 Perkins Road",
                 "address2": null,
-                "zip": "70810"
+                "zip": "70810",
+                "lat": 30.3549,
+                "lng": -91.0789
             },
             "contact": {
                 "phone": "225-234-8585",
@@ -58774,7 +59048,8 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flowers-long-llp",
@@ -58792,7 +59067,9 @@
                 "city": "Shreveport",
                 "address": "101 Milam Street",
                 "address2": "Suite 100",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-424-1111",
@@ -58814,7 +59091,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "foil-law-firm",
@@ -58832,7 +59110,9 @@
                 "city": "Baton Rouge",
                 "address": "6513 Perkins Road",
                 "address2": "Suite 111",
-                "zip": "70808"
+                "zip": "70808",
+                "lat": 30.4003,
+                "lng": -91.1442
             },
             "contact": {
                 "phone": "225-382-3264",
@@ -58852,7 +59132,8 @@
             ],
             "official_practice_area": [
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carl-henry-franklin-attorney-at-law",
@@ -58870,7 +59151,9 @@
                 "city": "Shreveport",
                 "address": "400 Travis St.",
                 "address2": "Suite 314",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-409-1770",
@@ -58893,7 +59176,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frischhertz-impastato",
@@ -58911,7 +59195,9 @@
                 "city": "New Orleans",
                 "address": "1140 St. Charles Ave.",
                 "address2": null,
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-447-9932",
@@ -58940,7 +59226,8 @@
             "official_practice_area": [
                 "Admiralty and Maritime",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gaudin-law-group-inc",
@@ -58958,7 +59245,9 @@
                 "city": "Baton Rouge",
                 "address": "703 Laurel St.",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-412-8048",
@@ -58983,7 +59272,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-lester-j-gauthier",
@@ -59001,7 +59291,9 @@
                 "city": "Lafayette",
                 "address": "PO Box 3371",
                 "address2": "306 South Pierce Street",
-                "zip": "70502"
+                "zip": "70502",
+                "lat": 30.2236,
+                "lng": -92.0198
             },
             "contact": {
                 "phone": "337-366-8047",
@@ -59031,7 +59323,8 @@
                 "Federal and White Collar Crimes",
                 "Internet",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "provosty-gankendorff-l-l-c",
@@ -59049,7 +59342,9 @@
                 "city": "New Orleans",
                 "address": "650 Poydras Street",
                 "address2": "Suite 2700",
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-410-2795",
@@ -59072,7 +59367,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-carlee-white-gonzales",
@@ -59090,7 +59386,9 @@
                 "city": "Hammond",
                 "address": "907 W. Thomas St.",
                 "address2": "Suite B",
-                "zip": "70401"
+                "zip": "70401",
+                "lat": 30.5358,
+                "lng": -90.4644
             },
             "contact": {
                 "phone": "985-888-0525",
@@ -59119,7 +59417,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ron-christopher-stamps-llc",
@@ -59137,7 +59436,9 @@
                 "city": "Shreveport",
                 "address": "1705 Irving Place",
                 "address2": null,
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-716-7301",
@@ -59177,7 +59478,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "logan-law-offices",
@@ -59195,7 +59497,9 @@
                 "city": "New Orleans",
                 "address": "1010 Common Street",
                 "address2": "Suite 2910",
-                "zip": "70112"
+                "zip": "70112",
+                "lat": 29.9582,
+                "lng": -90.0767
             },
             "contact": {
                 "phone": "504-522-5900",
@@ -59247,7 +59551,8 @@
                 "State Local and Municipal Law",
                 "Toxic Torts",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-e-griffith-attorney-at-law",
@@ -59265,7 +59570,9 @@
                 "city": "Shreveport",
                 "address": "839 Kings Hwy.",
                 "address2": "Suite 200",
-                "zip": "71104"
+                "zip": "71104",
+                "lat": 32.4854,
+                "lng": -93.7291
             },
             "contact": {
                 "phone": "318-222-0337",
@@ -59291,7 +59598,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hammond-law-firm-llc",
@@ -59309,7 +59617,9 @@
                 "city": "New Orleans",
                 "address": "650 Poydras St.",
                 "address2": "Ste. 2617",
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-586-3535",
@@ -59338,7 +59648,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "welborn-hargett-injury-attorneys",
@@ -59356,7 +59667,9 @@
                 "city": "Lafayette",
                 "address": "1031 Camellia Blvd",
                 "address2": null,
-                "zip": "70508"
+                "zip": "70508",
+                "lat": 30.1546,
+                "lng": -92.0283
             },
             "contact": {
                 "phone": "337-282-0278",
@@ -59388,7 +59701,8 @@
                 "Mergers and Acquisitions",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ware-immigration",
@@ -59406,7 +59720,9 @@
                 "city": "Metairie",
                 "address": "3850 North Causeway Boulevard",
                 "address2": "Suite 555",
-                "zip": "70002"
+                "zip": "70002",
+                "lat": 30.1021,
+                "lng": -90.151
             },
             "contact": {
                 "phone": "504-662-9539",
@@ -59436,6 +59752,26 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pensacola",
+                    "state": "FL",
+                    "zip": "32501",
+                    "address": "201 E. Government Street",
+                    "phone": "504-662-9539",
+                    "lat": 30.4242,
+                    "lng": -87.2211
+                },
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98004",
+                    "address": "800 Bellevue Way NE, Unit 500",
+                    "phone": "504-662-9539",
+                    "lat": 47.6177,
+                    "lng": -122.2108
+                }
             ]
         },
         {
@@ -59454,7 +59790,9 @@
                 "city": "Mandeville",
                 "address": "1401 W Causeway Approach",
                 "address2": null,
-                "zip": "70471"
+                "zip": "70471",
+                "lat": 30.327,
+                "lng": -90.0593
             },
             "contact": {
                 "phone": "985-800-2689",
@@ -59488,7 +59826,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "a-j-hodges-iv-attorney-at-law",
@@ -59506,7 +59845,9 @@
                 "city": "Shreveport",
                 "address": "416 Travis St.",
                 "address2": "Ste. 1004",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "833-662-2603",
@@ -59530,7 +59871,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-schwab-law-firm",
@@ -59548,7 +59890,9 @@
                 "city": "Houma",
                 "address": "7847 W. Main St.",
                 "address2": null,
-                "zip": "70360"
+                "zip": "70360",
+                "lat": 29.5989,
+                "lng": -90.822
             },
             "contact": {
                 "phone": "985-868-1342",
@@ -59577,7 +59921,8 @@
                 "Divorce and Separation",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pujol-pryor-irwin",
@@ -59595,7 +59940,9 @@
                 "city": "Gonzales",
                 "address": "12320 Highway 44",
                 "address2": "Building 4, Suite C",
-                "zip": "70737"
+                "zip": "70737",
+                "lat": 30.2254,
+                "lng": -90.9253
             },
             "contact": {
                 "phone": "225-644-0607",
@@ -59618,7 +59965,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jackson-jackson-pllc",
@@ -59636,7 +59984,9 @@
                 "city": "New Orleans",
                 "address": "825 Baronne Street",
                 "address2": null,
-                "zip": "70113"
+                "zip": "70113",
+                "lat": 29.9441,
+                "lng": -90.0832
             },
             "contact": {
                 "phone": "504-525-5090",
@@ -59663,6 +60013,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baton Rouge",
+                    "state": "LA",
+                    "zip": "70810",
+                    "address": "111 Founders Drive, Suite 400",
+                    "phone": "855-3JACKSONS",
+                    "lat": 30.3549,
+                    "lng": -91.0789
+                }
             ]
         },
         {
@@ -59681,7 +60042,9 @@
                 "city": "Baton Rouge",
                 "address": "12628 Hooper Road",
                 "address2": "Suite A",
-                "zip": "70818"
+                "zip": "70818",
+                "lat": 30.5431,
+                "lng": -91.0571
             },
             "contact": {
                 "phone": "225-364-0115",
@@ -59715,7 +60078,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-bryan-jones-iii-attorney-at-law",
@@ -59733,7 +60097,9 @@
                 "city": "Lafayette",
                 "address": "119 St. Landry Street",
                 "address2": null,
-                "zip": "70506"
+                "zip": "70506",
+                "lat": 30.1882,
+                "lng": -92.076
             },
             "contact": {
                 "phone": "855-437-1096",
@@ -59757,7 +60123,8 @@
             "official_practice_area": [
                 "Disability Insurance",
                 "Veteran's Benefits"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sudduth-associates-llc",
@@ -59775,7 +60142,9 @@
                 "city": "Lake Charles",
                 "address": "1109 Pithon Street",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-546-3541",
@@ -59814,7 +60183,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-j-ransdell-keene",
@@ -59832,7 +60202,9 @@
                 "city": "Shreveport",
                 "address": "9105 Ellerbe Rd",
                 "address2": "Suite 200",
-                "zip": "71106"
+                "zip": "71106",
+                "lat": 32.3938,
+                "lng": -93.7286
             },
             "contact": {
                 "phone": "318-219-3921",
@@ -59854,7 +60226,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "teresa-king-esquire-llc",
@@ -59872,7 +60245,9 @@
                 "city": "Houma",
                 "address": "522 Roussell Street",
                 "address2": null,
-                "zip": "70360"
+                "zip": "70360",
+                "lat": 29.5989,
+                "lng": -90.822
             },
             "contact": {
                 "phone": "985-262-7699",
@@ -59914,7 +60289,8 @@
                 "Sex Crime",
                 "Tax Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "erik-e-kjeldsen-attorney-at-law",
@@ -59932,7 +60308,9 @@
                 "city": "Baton Rouge",
                 "address": "412 N. 4th St.",
                 "address2": "Suite 337",
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-250-1759",
@@ -59960,6 +60338,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baton Rouge",
+                    "state": "LA",
+                    "zip": "70821",
+                    "address": "P.O. Box 4965",
+                    "phone": "225-250-1759",
+                    "lat": 30.4506,
+                    "lng": -91.1547
+                }
             ]
         },
         {
@@ -59978,7 +60367,9 @@
                 "city": "Baton Rouge",
                 "address": "2415 Government Street",
                 "address2": null,
-                "zip": "70806"
+                "zip": "70806",
+                "lat": 30.451,
+                "lng": -91.1277
             },
             "contact": {
                 "phone": "225-388-5265",
@@ -59999,7 +60390,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "manasseh-gill-knipe-b-langer",
@@ -60017,7 +60409,9 @@
                 "city": "Baton Rouge",
                 "address": "8075 Jefferson Highway",
                 "address2": null,
-                "zip": "70809"
+                "zip": "70809",
+                "lat": 30.387,
+                "lng": -91.0641
             },
             "contact": {
                 "phone": "225-383-9703",
@@ -60047,7 +60441,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "max-j-koeck-iv-llc-attorney-counselor-at-law",
@@ -60065,7 +60460,9 @@
                 "city": "Metairie",
                 "address": "3500 North Hullen Street",
                 "address2": "Suite 222",
-                "zip": "70002"
+                "zip": "70002",
+                "lat": 30.1021,
+                "lng": -90.151
             },
             "contact": {
                 "phone": "504-910-7537",
@@ -60087,7 +60484,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garcia-artigliere",
@@ -60105,7 +60503,9 @@
                 "city": "New Orleans",
                 "address": "400 Poydras Street",
                 "address2": "Suite 2045",
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-354-9750",
@@ -60138,6 +60538,44 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Maitland",
+                    "state": "FL",
+                    "zip": "32751",
+                    "address": "1751 N Park Ave",
+                    "phone": "(407) 754-0035",
+                    "lat": 28.6296,
+                    "lng": -81.3629
+                },
+                {
+                    "city": "Lexington",
+                    "state": "KY",
+                    "zip": "40507",
+                    "address": "444 East Main Street, Suite 108",
+                    "phone": "(502) 584-3805",
+                    "lat": 38.0459,
+                    "lng": -84.497
+                },
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85016",
+                    "address": "2575 E. Camelback Rd., 5th Floor",
+                    "phone": "(602) 456-9921",
+                    "lat": 33.517,
+                    "lng": -112.0214
+                },
+                {
+                    "city": "Long Beach",
+                    "state": "CA",
+                    "zip": "90802",
+                    "address": "180 E. Ocean Blvd, Suite 1100",
+                    "phone": "(562) 216-5270",
+                    "lat": 33.7465,
+                    "lng": -118.2133
+                }
             ]
         },
         {
@@ -60156,7 +60594,9 @@
                 "city": "Slidell",
                 "address": "676 East I-10 Service Road",
                 "address2": null,
-                "zip": "70461"
+                "zip": "70461",
+                "lat": 30.2475,
+                "lng": -89.6767
             },
             "contact": {
                 "phone": "985-643-6566",
@@ -60173,6 +60613,17 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70163",
+                    "address": "1100 Poydras Street, Suite 2900",
+                    "phone": "(985) 718-5395",
+                    "lat": 29.9501,
+                    "lng": -90.0753
+                }
             ]
         },
         {
@@ -60191,7 +60642,9 @@
                 "city": "Houma",
                 "address": "7837 Main St",
                 "address2": null,
-                "zip": "70360"
+                "zip": "70360",
+                "lat": 29.5989,
+                "lng": -90.822
             },
             "contact": {
                 "phone": "985-378-8841",
@@ -60214,7 +60667,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-b-landry-iii-plc",
@@ -60232,7 +60686,9 @@
                 "city": "Baton Rouge",
                 "address": "5420 Corporate Blvd, Ste #303",
                 "address2": null,
-                "zip": "70808"
+                "zip": "70808",
+                "lat": 30.4003,
+                "lng": -91.1442
             },
             "contact": {
                 "phone": "504-345-1220",
@@ -60252,6 +60708,17 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70130",
+                    "address": "365 Canal Street, Suite #2360",
+                    "phone": "(504) 345-1220",
+                    "lat": 29.9388,
+                    "lng": -90.0724
+                }
             ]
         },
         {
@@ -60270,7 +60737,9 @@
                 "city": "Shreveport",
                 "address": "4700 Line Avenue",
                 "address2": "Suite 200",
-                "zip": "71106"
+                "zip": "71106",
+                "lat": 32.3938,
+                "lng": -93.7286
             },
             "contact": {
                 "phone": "318-284-5565",
@@ -60299,6 +60768,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Alexandria",
+                    "state": "LA",
+                    "zip": "71301",
+                    "address": "1118 3rd Street",
+                    "phone": "318-526-8551",
+                    "lat": 31.2557,
+                    "lng": -92.4742
+                }
             ]
         },
         {
@@ -60317,7 +60797,9 @@
                 "city": "Bossier City",
                 "address": "2250 Hospital Drive",
                 "address2": "Suite 216A",
-                "zip": "71111"
+                "zip": "71111",
+                "lat": 32.5695,
+                "lng": -93.6941
             },
             "contact": {
                 "phone": "318-679-1127",
@@ -60354,7 +60836,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schexnaydre-law-firm-llc",
@@ -60372,7 +60855,9 @@
                 "city": "Mandeville",
                 "address": "2895 Highway 190",
                 "address2": "Suite 212",
-                "zip": "70471"
+                "zip": "70471",
+                "lat": 30.327,
+                "lng": -90.0593
             },
             "contact": {
                 "phone": "985-292-2020",
@@ -60396,7 +60881,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bacchus-law-group-llc",
@@ -60414,7 +60900,9 @@
                 "city": "Madisonville",
                 "address": "NORTHSHORE OFFICE",
                 "address2": "The Arbor Walk Professional Centre, 389 Highway 21 Ste 402B",
-                "zip": "70447"
+                "zip": "70447",
+                "lat": 30.3481,
+                "lng": -90.184
             },
             "contact": {
                 "phone": "985-206-9111",
@@ -60435,6 +60923,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Madisonville",
+                    "state": "LA",
+                    "zip": "70447",
+                    "address": "The Arbor Walk Professional Centre, 389Highway 21, Suite 402B",
+                    "phone": "(985) 206-9111",
+                    "lat": 30.3481,
+                    "lng": -90.184
+                }
             ]
         },
         {
@@ -60453,7 +60952,9 @@
                 "city": "Slidell",
                 "address": "1350 Gause Boulevard West",
                 "address2": null,
-                "zip": "70460"
+                "zip": "70460",
+                "lat": 30.3065,
+                "lng": -89.8242
             },
             "contact": {
                 "phone": "985-641-3311",
@@ -60476,7 +60977,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cook-yancey-king-galloway-aplc",
@@ -60494,7 +60996,9 @@
                 "city": "Shreveport",
                 "address": "333 Texas St.",
                 "address2": "Suite 1700",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-221-6277",
@@ -60526,7 +61030,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcbride-law-firm",
@@ -60544,7 +61049,9 @@
                 "city": "Alexandria",
                 "address": "301 Jackson Street",
                 "address2": "Suite 101",
-                "zip": "71301"
+                "zip": "71301",
+                "lat": 31.2557,
+                "lng": -92.4742
             },
             "contact": {
                 "phone": "318-679-1381",
@@ -60567,7 +61074,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keogh-cox",
@@ -60585,7 +61093,9 @@
                 "city": "Baton Rouge",
                 "address": "701 Main Street",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-383-3796",
@@ -60617,7 +61127,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "donald-j-melancon-llc",
@@ -60635,7 +61146,9 @@
                 "city": "New Orleans",
                 "address": "Mid-City Law Center",
                 "address2": "123 N. Dorgenois Street, Suite 2000",
-                "zip": "70119"
+                "zip": "70119",
+                "lat": 29.9736,
+                "lng": -90.0857
             },
             "contact": {
                 "phone": "504-827-5493",
@@ -60654,7 +61167,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olinde-mercer",
@@ -60672,7 +61186,9 @@
                 "city": "Baton Rouge",
                 "address": "6700 Jefferson Highway",
                 "address2": "Building 7, Suite B",
-                "zip": "70806"
+                "zip": "70806",
+                "lat": 30.451,
+                "lng": -91.1277
             },
             "contact": {
                 "phone": "877-741-0028",
@@ -60696,7 +61212,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "messina-kiefer-attorneys-at-law",
@@ -60714,7 +61231,9 @@
                 "city": "Baton Rouge",
                 "address": "216 S. TJ Jemison Boulevard",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-343-9422",
@@ -60736,7 +61255,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "slater-slater-schulman-llp",
@@ -60754,7 +61274,9 @@
                 "city": "New Orleans",
                 "address": "825 Baronne Street",
                 "address2": null,
-                "zip": "70113"
+                "zip": "70113",
+                "lat": 29.9441,
+                "lng": -90.0832
             },
             "contact": {
                 "phone": "212-922-0906",
@@ -60779,6 +61301,80 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bentonville",
+                    "state": "AR",
+                    "zip": "72712",
+                    "address": "201 S.W. 14th Street, Suite 201, P.O. Box 928",
+                    "phone": "212-922-0906",
+                    "lat": 36.3431,
+                    "lng": -94.2472
+                },
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27601",
+                    "address": "501 Fayetteville St., Suite 230",
+                    "phone": "212-922-0906",
+                    "lat": 35.7752,
+                    "lng": -78.6343
+                },
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21117",
+                    "address": "8 Park Center Court, Suite 100",
+                    "phone": "212-922-0906",
+                    "lat": 39.4305,
+                    "lng": -76.7943
+                },
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87113",
+                    "address": "9202 San Mateo Blvd NE",
+                    "phone": "212-922-0906",
+                    "lat": 35.1813,
+                    "lng": -106.5928
+                },
+                {
+                    "city": "Conshohocken",
+                    "state": "PA",
+                    "zip": "19428",
+                    "address": "101 West Elm Street, Suite 520",
+                    "phone": "212-922-0906",
+                    "lat": 40.0798,
+                    "lng": -75.3076
+                },
+                {
+                    "city": "Haddonfield",
+                    "state": "NJ",
+                    "zip": "08033",
+                    "address": "89 N. Haddon Ave, Suite D",
+                    "phone": "212-922-0906",
+                    "lat": 39.8952,
+                    "lng": -75.0408
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10022",
+                    "address": "488 Madison Avenue, 20th Floor",
+                    "phone": "212-922-0906",
+                    "lat": 40.7583,
+                    "lng": -73.968
+                },
+                {
+                    "city": "Beverly Hills",
+                    "state": "CA",
+                    "zip": "90211",
+                    "address": "8383 Wilshire Blvd, Suite 255",
+                    "phone": "212-922-0906",
+                    "lat": 34.0646,
+                    "lng": -118.3814
+                }
             ]
         },
         {
@@ -60797,7 +61393,9 @@
                 "city": "Shreveport",
                 "address": "628 Stoner Ave.",
                 "address2": null,
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-716-7243",
@@ -60822,7 +61420,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ronald-j-miciotto-llc",
@@ -60840,7 +61439,9 @@
                 "city": "Shreveport",
                 "address": "628 Stoner Ave.",
                 "address2": "Suite A",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-424-0200",
@@ -60868,7 +61469,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-j-miciotto-l-l-c",
@@ -60886,7 +61488,9 @@
                 "city": "Shreveport",
                 "address": "628 Stoner Avenue",
                 "address2": "Suite C",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-402-0138",
@@ -60905,7 +61509,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "molaison-law-firm-llc",
@@ -60923,7 +61528,9 @@
                 "city": "Metairie",
                 "address": "111 Veterans Memorial Boulevard",
                 "address2": "Suite 1810",
-                "zip": "70005"
+                "zip": "70005",
+                "lat": 30.0838,
+                "lng": -90.1268
             },
             "contact": {
                 "phone": "504-834-3788",
@@ -60942,7 +61549,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weems-schimpf-haines-moore-aplc",
@@ -60960,7 +61568,9 @@
                 "city": "Shreveport",
                 "address": "9105 Elelbre Rd",
                 "address2": "Ste A 100",
-                "zip": "71106"
+                "zip": "71106",
+                "lat": 32.3938,
+                "lng": -93.7286
             },
             "contact": {
                 "phone": "318-674-4977",
@@ -60983,7 +61593,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "steven-j-moore-llc",
@@ -61001,7 +61612,9 @@
                 "city": "Baton Rouge",
                 "address": "6513 Perkins Road",
                 "address2": "Suite 105",
-                "zip": "70808"
+                "zip": "70808",
+                "lat": 30.4003,
+                "lng": -91.1442
             },
             "contact": {
                 "phone": "225-767-7778",
@@ -61020,7 +61633,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "neal-law-firm",
@@ -61038,7 +61652,9 @@
                 "city": "Monroe",
                 "address": "2483 Tower Drive",
                 "address2": "Suite 1, Mailing Address, PO Box 14657",
-                "zip": "71201"
+                "zip": "71201",
+                "lat": 32.5309,
+                "lng": -92.1055
             },
             "contact": {
                 "phone": "318-383-7806",
@@ -61078,7 +61694,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thornhill-law-firm-aplc",
@@ -61096,7 +61713,9 @@
                 "city": "Slidell",
                 "address": "1308 Ninth Street",
                 "address2": null,
-                "zip": "70458"
+                "zip": "70458",
+                "lat": 30.2581,
+                "lng": -89.8134
             },
             "contact": {
                 "phone": "985-641-5010",
@@ -61132,7 +61751,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "blake-jones-law-firm-l-l-c",
@@ -61150,7 +61770,9 @@
                 "city": "New Orleans",
                 "address": "701 Poydras Street",
                 "address2": "Suite 4100",
-                "zip": "70139"
+                "zip": "70139",
+                "lat": 29.9582,
+                "lng": -90.0676
             },
             "contact": {
                 "phone": "504-323-4314",
@@ -61179,7 +61801,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-price-law-firm",
@@ -61197,7 +61820,9 @@
                 "city": "Denham Springs",
                 "address": "1930 Florida Ave SW",
                 "address2": null,
-                "zip": "70726"
+                "zip": "70726",
+                "lat": 30.4321,
+                "lng": -90.8811
             },
             "contact": {
                 "phone": "225-234-8961",
@@ -61222,7 +61847,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-w-raley-bankruptcy-lawyer",
@@ -61240,7 +61866,9 @@
                 "city": "Bossier City",
                 "address": "290 Benton Spur",
                 "address2": null,
-                "zip": "71111"
+                "zip": "71111",
+                "lat": 32.5695,
+                "lng": -93.6941
             },
             "contact": {
                 "phone": "318-747-2230",
@@ -61269,7 +61897,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reasonover-berg-llc",
@@ -61287,7 +61916,9 @@
                 "city": "New Orleans",
                 "address": "400 Poydras Street",
                 "address2": "#1980",
-                "zip": "70130"
+                "zip": "70130",
+                "lat": 29.9388,
+                "lng": -90.0724
             },
             "contact": {
                 "phone": "504-526-2921",
@@ -61309,7 +61940,8 @@
             ],
             "official_practice_area": [
                 "Securities"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-donald-r-richard-jr",
@@ -61327,7 +61959,9 @@
                 "city": "Eunice",
                 "address": "211 N. Second St.",
                 "address2": "PO Box 1460",
-                "zip": "70535"
+                "zip": "70535",
+                "lat": 30.5038,
+                "lng": -92.4323
             },
             "contact": {
                 "phone": "337-457-9610",
@@ -61358,7 +61992,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rozas-injury-law-llc",
@@ -61376,7 +62011,9 @@
                 "city": "Baton Rouge",
                 "address": "758 Royal Street",
                 "address2": null,
-                "zip": "70802"
+                "zip": "70802",
+                "lat": 30.4425,
+                "lng": -91.1694
             },
             "contact": {
                 "phone": "225-343-0010",
@@ -61402,7 +62039,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charles-m-rush-esq",
@@ -61420,7 +62058,9 @@
                 "city": "Lafayette",
                 "address": "202 Magnate Drive",
                 "address2": null,
-                "zip": "70508"
+                "zip": "70508",
+                "lat": 30.1546,
+                "lng": -92.0283
             },
             "contact": {
                 "phone": "337-235-2425",
@@ -61446,7 +62086,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "saunders-chabert",
@@ -61464,7 +62105,9 @@
                 "city": "Baton Rouge",
                 "address": "6525 Perkins Road",
                 "address2": null,
-                "zip": "70808"
+                "zip": "70808",
+                "lat": 30.4003,
+                "lng": -91.1442
             },
             "contact": {
                 "phone": "225-771-8100",
@@ -61487,7 +62130,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vincent-p-scallan-law",
@@ -61505,7 +62149,9 @@
                 "city": "New Orleans",
                 "address": "1515 Poydras Street",
                 "address2": "Suite 1825a",
-                "zip": "70112"
+                "zip": "70112",
+                "lat": 29.9582,
+                "lng": -90.0767
             },
             "contact": {
                 "phone": "504-410-7988",
@@ -61533,7 +62179,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "savoie-law",
@@ -61551,7 +62198,9 @@
                 "city": "Covington",
                 "address": "112 Innwood Drive",
                 "address2": "Suite H",
-                "zip": "70433"
+                "zip": "70433",
+                "lat": 30.4545,
+                "lng": -90.1443
             },
             "contact": {
                 "phone": "985-898-3434",
@@ -61575,6 +62224,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Thibodaux",
+                    "state": "LA",
+                    "zip": "70301",
+                    "address": "629 A East 1st Street",
+                    "phone": "985-898-3434",
+                    "lat": 29.8028,
+                    "lng": -90.7415
+                }
             ]
         },
         {
@@ -61593,7 +62253,9 @@
                 "city": "New Orleans",
                 "address": "4114 Saint Charles Ave.",
                 "address2": "Apt H",
-                "zip": "70115"
+                "zip": "70115",
+                "lat": 29.9265,
+                "lng": -90.0982
             },
             "contact": {
                 "phone": "504-525-1143",
@@ -61616,7 +62278,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lee-m-schwalben-m-d-j-d-llc",
@@ -61634,7 +62297,9 @@
                 "city": "Lake Charles",
                 "address": "616 Broad Street",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-305-7161",
@@ -61672,7 +62337,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leger-shaw",
@@ -61690,7 +62356,9 @@
                 "city": "Covington",
                 "address": "512 East Boston Street",
                 "address2": null,
-                "zip": "70433"
+                "zip": "70433",
+                "lat": 30.4545,
+                "lng": -90.1443
             },
             "contact": {
                 "phone": "504-588-9043",
@@ -61754,6 +62422,17 @@
                 "Toxic Torts",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70112",
+                    "address": "935 Gravier Street, Suite 2150",
+                    "phone": "(504) 588-9043",
+                    "lat": 29.9582,
+                    "lng": -90.0767
+                }
             ]
         },
         {
@@ -61772,7 +62451,9 @@
                 "city": "Lafayette",
                 "address": "1408 W. Pinhook Rd.",
                 "address2": null,
-                "zip": "70503"
+                "zip": "70503",
+                "lat": 30.1717,
+                "lng": -92.0599
             },
             "contact": {
                 "phone": "337-294-8581",
@@ -61792,7 +62473,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "d-smith-legal-l-l-c",
@@ -61810,7 +62492,9 @@
                 "city": "Lafayette",
                 "address": "1030 Lafayette St",
                 "address2": null,
-                "zip": "70501"
+                "zip": "70501",
+                "lat": 30.2389,
+                "lng": -91.9894
             },
             "contact": {
                 "phone": null,
@@ -61823,7 +62507,8 @@
             "attorneys": [
                 "Dwazendra J. Smith"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "mark-w-smith-associates",
@@ -61841,7 +62526,9 @@
                 "city": "Metairie",
                 "address": "500 N. Causeway Blvd.",
                 "address2": null,
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": "504-566-2404",
@@ -61866,7 +62553,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "catherine-l-stagg-attorney-at-law-l-l-c",
@@ -61884,7 +62572,9 @@
                 "city": "Lake Charles",
                 "address": "716 Hodges Street",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-497-0640",
@@ -61906,7 +62596,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-alan-stegall",
@@ -61924,7 +62615,9 @@
                 "city": "Shreveport",
                 "address": "212 Texas Street",
                 "address2": "Suite 100",
-                "zip": "71101"
+                "zip": "71101",
+                "lat": 32.5072,
+                "lng": -93.7444
             },
             "contact": {
                 "phone": "318-908-4159",
@@ -61949,7 +62642,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "toledano-disability-law",
@@ -61967,7 +62661,9 @@
                 "city": "New Orleans",
                 "address": "201 Saint Charles Avenue",
                 "address2": "Suite 3206",
-                "zip": "70170"
+                "zip": "70170",
+                "lat": 29.9587,
+                "lng": -90.0695
             },
             "contact": {
                 "phone": "877-280-8541",
@@ -61996,7 +62692,8 @@
             "official_practice_area": [
                 "ERISA",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-alyson-vamvoras",
@@ -62014,7 +62711,9 @@
                 "city": "Lake Charles",
                 "address": "1135 Hodges St",
                 "address2": null,
-                "zip": "70601"
+                "zip": "70601",
+                "lat": 30.24,
+                "lng": -93.227
             },
             "contact": {
                 "phone": "337-546-3404",
@@ -62042,7 +62741,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brown-weimer-llc",
@@ -62060,7 +62760,9 @@
                 "city": "Metairie",
                 "address": "2121 North Causeway",
                 "address2": "Suite 200",
-                "zip": "70001"
+                "zip": "70001",
+                "lat": 29.9843,
+                "lng": -90.1647
             },
             "contact": {
                 "phone": null,
@@ -62085,7 +62787,8 @@
             ],
             "official_practice_area": [
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "andrew-w-wise-llc",
@@ -62103,7 +62806,9 @@
                 "city": "Thibodaux",
                 "address": "101 St. Louis Street",
                 "address2": null,
-                "zip": "70301"
+                "zip": "70301",
+                "lat": 29.8028,
+                "lng": -90.7415
             },
             "contact": {
                 "phone": "985-446-0526",
@@ -62129,7 +62834,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rachel-d-wortham-attorney-at-law-llc",
@@ -62147,7 +62853,9 @@
                 "city": "Bossier City",
                 "address": "1000 Chinaberry Drive",
                 "address2": "Suite 1100",
-                "zip": "71111"
+                "zip": "71111",
+                "lat": 32.5695,
+                "lng": -93.6941
             },
             "contact": {
                 "phone": "318-409-7407",
@@ -62183,7 +62891,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

@@ -32369,7 +32369,9 @@
                 "city": "Oklahoma City",
                 "address": "9505 North Kelley Avenue",
                 "address2": null,
-                "zip": "73131"
+                "zip": "73131",
+                "lat": 35.5801,
+                "lng": -97.4603
             },
             "contact": {
                 "phone": "405-605-9000",
@@ -32398,7 +32400,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ball-morse-lowe-pllc",
@@ -32416,7 +32419,9 @@
                 "city": "Oklahoma City",
                 "address": "531 Couch Dr.",
                 "address2": "Suite 201",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-701-5355",
@@ -32475,6 +32480,35 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Edmond",
+                    "state": "OK",
+                    "zip": "73034",
+                    "address": "1008 S. Bryant Ave., Suite 100",
+                    "phone": "405-701-5355",
+                    "lat": 35.7072,
+                    "lng": -97.4274
+                },
+                {
+                    "city": "Frisco",
+                    "state": "TX",
+                    "zip": "75034",
+                    "address": "2591 Dallas Parkway, Suite 300",
+                    "phone": "405-701-5355",
+                    "lat": 33.1503,
+                    "lng": -96.8796
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "1801 California St., Suite 2400",
+                    "phone": "405-701-5355",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                }
             ]
         },
         {
@@ -32493,7 +32527,9 @@
                 "city": "Norman",
                 "address": "217 E. Main Street",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-501-0827",
@@ -32559,6 +32595,17 @@
                 "Sex Crime",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pauls Valley",
+                    "state": "OK",
+                    "zip": "73075",
+                    "address": "120 N. Willow Street, Suite C",
+                    "phone": "405-501-0827",
+                    "lat": 34.7602,
+                    "lng": -97.204
+                }
             ]
         },
         {
@@ -32577,7 +32624,9 @@
                 "city": "Enid",
                 "address": "202 W Broadway Ave.",
                 "address2": null,
-                "zip": "73701"
+                "zip": "73701",
+                "lat": 36.4053,
+                "lng": -97.8187
             },
             "contact": {
                 "phone": "580-498-1787",
@@ -32636,7 +32685,8 @@
                 "Real Estate",
                 "Sex Crime",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stephen-d-beam-a-professional-corporation",
@@ -32654,7 +32704,9 @@
                 "city": "Weatherford",
                 "address": "110 So. Broadway St.",
                 "address2": null,
-                "zip": "73096"
+                "zip": "73096",
+                "lat": 35.5515,
+                "lng": -98.7518
             },
             "contact": {
                 "phone": "580-302-5023",
@@ -32691,7 +32743,8 @@
                 "Oil Gas and Energy",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stipe-belote-llp",
@@ -32709,7 +32762,9 @@
                 "city": "Oklahoma City",
                 "address": "9400 Broadway Extension",
                 "address2": "Ste 420",
-                "zip": "73114"
+                "zip": "73114",
+                "lat": 35.5804,
+                "lng": -97.5226
             },
             "contact": {
                 "phone": "405-507-5442",
@@ -32734,7 +32789,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mahaffey-gore-p-c",
@@ -32752,7 +32808,9 @@
                 "city": "Oklahoma City",
                 "address": "300 NE 1st Street",
                 "address2": null,
-                "zip": "73104"
+                "zip": "73104",
+                "lat": 35.4747,
+                "lng": -97.5032
             },
             "contact": {
                 "phone": "405-694-4472",
@@ -32787,7 +32845,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Oil Gas and Energy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "talley-turner-stice-bertman",
@@ -32805,7 +32864,9 @@
                 "city": "Norman",
                 "address": "130 E Eufaula St",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-754-6639",
@@ -32854,7 +32915,8 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-biscone",
@@ -32872,7 +32934,9 @@
                 "city": "Oklahoma City",
                 "address": "105 N. Hudson Avenue",
                 "address2": "Suite 100",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-232-6490",
@@ -32897,7 +32961,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brent-blackstock-plc",
@@ -32915,7 +32980,9 @@
                 "city": "Tulsa",
                 "address": "Mid-Continent Tower",
                 "address2": "401 S Boston Ave., Suite 500",
-                "zip": "74103"
+                "zip": "74103",
+                "lat": 36.1557,
+                "lng": -95.9941
             },
             "contact": {
                 "phone": "918-383-6220",
@@ -32939,7 +33006,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-j-borg",
@@ -32957,7 +33025,9 @@
                 "city": "Tulsa",
                 "address": "5416 South Yale Avenue",
                 "address2": "Suite 225",
-                "zip": "74135"
+                "zip": "74135",
+                "lat": 36.0971,
+                "lng": -95.9223
             },
             "contact": {
                 "phone": "918-863-8920",
@@ -32994,7 +33064,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richardson-richardson-boudreaux",
@@ -33012,7 +33083,9 @@
                 "city": "Tulsa",
                 "address": "7447 South Lewis Avenue",
                 "address2": null,
-                "zip": "74136"
+                "zip": "74136",
+                "lat": 36.0616,
+                "lng": -95.9448
             },
             "contact": {
                 "phone": "918-347-6456",
@@ -33039,7 +33112,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcafee-taft-a-professional-corporation",
@@ -33057,7 +33131,9 @@
                 "city": "Tulsa",
                 "address": "Williams Center Tower II",
                 "address2": "Two West Second Street, Suite 1100",
-                "zip": "74103"
+                "zip": "74103",
+                "lat": 36.1557,
+                "lng": -95.9941
             },
             "contact": {
                 "phone": "918-587-0000",
@@ -33087,6 +33163,26 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oklahoma City",
+                    "state": "OK",
+                    "zip": "73102",
+                    "address": "Eighth Floor, Two Leadership Square, 211 North Robinson",
+                    "phone": "(405) 235-9621",
+                    "lat": 35.4715,
+                    "lng": -97.5189
+                },
+                {
+                    "city": "Springfield",
+                    "state": "MO",
+                    "zip": "65807",
+                    "address": "4050 S. Fairview Avenue",
+                    "phone": "(417) 409-6000",
+                    "lat": 37.171,
+                    "lng": -93.3319
+                }
             ]
         },
         {
@@ -33105,7 +33201,9 @@
                 "city": "Oklahoma City",
                 "address": "501 NW 13th Street",
                 "address2": null,
-                "zip": "73103"
+                "zip": "73103",
+                "lat": 35.4894,
+                "lng": -97.5185
             },
             "contact": {
                 "phone": "405-764-9496",
@@ -33118,7 +33216,8 @@
             "attorneys": [
                 "Jennifer A. Bruner"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "brydie-associates-pllc",
@@ -33136,7 +33235,9 @@
                 "city": "Tulsa",
                 "address": "2121 S. Columbia Ave.",
                 "address2": "Suite 602",
-                "zip": "74114"
+                "zip": "74114",
+                "lat": 36.1261,
+                "lng": -95.9483
             },
             "contact": {
                 "phone": "918-600-2367",
@@ -33169,7 +33270,8 @@
                 "Litigation and Appeals",
                 "Mergers and Acquisitions",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bundren-law-firm-p-c",
@@ -33187,7 +33289,9 @@
                 "city": "Tulsa",
                 "address": "900 Reunion Center",
                 "address2": "9 East Fourth Street",
-                "zip": "74103"
+                "zip": "74103",
+                "lat": 36.1557,
+                "lng": -95.9941
             },
             "contact": {
                 "phone": "918-299-9999",
@@ -33206,7 +33310,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pierce-couch-hendrickson-baysinger-green-llp",
@@ -33224,7 +33329,9 @@
                 "city": "Oklahoma City",
                 "address": "1109 North Francis",
                 "address2": null,
-                "zip": "73106"
+                "zip": "73106",
+                "lat": 35.4824,
+                "lng": -97.5367
             },
             "contact": {
                 "phone": "405-235-1611",
@@ -33255,6 +33362,17 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tulsa",
+                    "state": "OK",
+                    "zip": "74120",
+                    "address": "907 South Detroit Avenue, Suite 815",
+                    "phone": "(918) 583-8100",
+                    "lat": 36.1489,
+                    "lng": -95.9803
+                }
             ]
         },
         {
@@ -33273,7 +33391,9 @@
                 "city": "Edmond",
                 "address": "1425 South Fretz Avenue",
                 "address2": null,
-                "zip": "73003"
+                "zip": "73003",
+                "lat": 35.6675,
+                "lng": -97.496
             },
             "contact": {
                 "phone": "405-920-3203",
@@ -33324,6 +33444,17 @@
                 "Domestic Violence",
                 "Family Law",
                 "Federal and White Collar Crimes"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oklahoma City",
+                    "state": "OK",
+                    "zip": "73102",
+                    "address": "401 North Hudson Avenue",
+                    "phone": "405-920-3203",
+                    "lat": 35.4715,
+                    "lng": -97.5189
+                }
             ]
         },
         {
@@ -33342,7 +33473,9 @@
                 "city": "Edmond",
                 "address": "1109 N. Bryant Ave",
                 "address2": "Suite 100",
-                "zip": "73034"
+                "zip": "73034",
+                "lat": 35.7072,
+                "lng": -97.4274
             },
             "contact": {
                 "phone": "405-353-0875",
@@ -33373,7 +33506,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Science and Technology Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burrage-law-firm-pllc",
@@ -33391,7 +33525,9 @@
                 "city": "Durant",
                 "address": "1201 Westside Dr.",
                 "address2": null,
-                "zip": "74701"
+                "zip": "74701",
+                "lat": 34.0123,
+                "lng": -96.4051
             },
             "contact": {
                 "phone": "580-367-3472",
@@ -33428,7 +33564,8 @@
                 "Insurance Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitten-burrage",
@@ -33446,7 +33583,9 @@
                 "city": "Oklahoma City",
                 "address": "512 North Broadway Avenue",
                 "address2": "Ste 300",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "877-673-4351",
@@ -33476,7 +33615,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cantrell-law-firm",
@@ -33494,7 +33634,9 @@
                 "city": "Edmond",
                 "address": "15128 Traditions Blvd",
                 "address2": "Suite B",
-                "zip": "73013"
+                "zip": "73013",
+                "lat": 35.6155,
+                "lng": -97.5173
             },
             "contact": {
                 "phone": "405-400-1875",
@@ -33534,7 +33676,8 @@
                 "Mergers and Acquisitions",
                 "Oil Gas and Energy",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "warhawk-legal",
@@ -33552,7 +33695,9 @@
                 "city": "Oklahoma City",
                 "address": "3721 N Classen Blvd",
                 "address2": null,
-                "zip": "73118"
+                "zip": "73118",
+                "lat": 35.5189,
+                "lng": -97.5298
             },
             "contact": {
                 "phone": "405-397-1717",
@@ -33578,7 +33723,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frailey-chaffin-cordell-perryman-sterkel-llp",
@@ -33596,7 +33742,9 @@
                 "city": "Chickasha",
                 "address": "201 N 4th Street",
                 "address2": "P.O. Box 533",
-                "zip": "73023"
+                "zip": "73023",
+                "lat": 35.0527,
+                "lng": -97.9361
             },
             "contact": {
                 "phone": "405-224-0237",
@@ -33624,7 +33772,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rc-law-group",
@@ -33642,7 +33791,9 @@
                 "city": "Tulsa",
                 "address": "6539 East 31st Street",
                 "address2": "Suite 125",
-                "zip": "74145"
+                "zip": "74145",
+                "lat": 36.0972,
+                "lng": -95.8866
             },
             "contact": {
                 "phone": "918-221-0870",
@@ -33668,7 +33819,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "childers-law-office",
@@ -33686,7 +33838,9 @@
                 "city": "Norman",
                 "address": "226 W. Gray Street",
                 "address2": "Suite 217",
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-310-9890",
@@ -33708,7 +33862,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clement-legal-p-c",
@@ -33726,7 +33881,9 @@
                 "city": "Tulsa",
                 "address": "2121 South Columbia Avenue",
                 "address2": "Suite 410",
-                "zip": "74114"
+                "zip": "74114",
+                "lat": 36.1261,
+                "lng": -95.9483
             },
             "contact": {
                 "phone": "918-600-2423",
@@ -33749,7 +33906,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coffman-seidenberger-pllc",
@@ -33767,7 +33925,9 @@
                 "city": "Tulsa",
                 "address": "3745 E. 31st Street",
                 "address2": null,
-                "zip": "74135"
+                "zip": "74135",
+                "lat": 36.0971,
+                "lng": -95.9223
             },
             "contact": {
                 "phone": "918-771-6879",
@@ -33797,7 +33957,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dustin-l-compton-attorney-at-law",
@@ -33815,7 +33976,9 @@
                 "city": "Oklahoma City",
                 "address": "10401 West Reno Avenue",
                 "address2": "Suite 100",
-                "zip": "73127"
+                "zip": "73127",
+                "lat": 35.4845,
+                "lng": -97.6539
             },
             "contact": {
                 "phone": "405-907-1567",
@@ -33850,6 +34013,17 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hinton",
+                    "state": "OK",
+                    "zip": "73047",
+                    "address": "1325 S. Broadway, Suite D",
+                    "phone": "+14059071567",
+                    "lat": 35.4641,
+                    "lng": -98.3512
+                }
             ]
         },
         {
@@ -33868,7 +34042,9 @@
                 "city": "Oklahoma City",
                 "address": "4800 North Lincoln Boulevard",
                 "address2": null,
-                "zip": "73105"
+                "zip": "73105",
+                "lat": 35.5183,
+                "lng": -97.5041
             },
             "contact": {
                 "phone": "405-708-6784",
@@ -33920,7 +34096,8 @@
                 "Real Estate",
                 "State Local and Municipal Law",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jeff-contreras",
@@ -33938,7 +34115,9 @@
                 "city": "McAlester",
                 "address": "25 E. Carl Albert Parkway",
                 "address2": "Suite A",
-                "zip": "74501"
+                "zip": "74501",
+                "lat": 34.9528,
+                "lng": -95.7997
             },
             "contact": {
                 "phone": "918-209-3819",
@@ -33968,7 +34147,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cfc-law-office",
@@ -33986,7 +34166,9 @@
                 "city": "Tulsa",
                 "address": "11917 South Norwood Avenue",
                 "address2": null,
-                "zip": "74137"
+                "zip": "74137",
+                "lat": 36.0181,
+                "lng": -95.9395
             },
             "contact": {
                 "phone": "918-606-3848",
@@ -34009,7 +34191,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lily-debrah-cruickshank-associates-pllc",
@@ -34027,7 +34210,9 @@
                 "city": "Oklahoma City",
                 "address": "722 N Broadway Ave",
                 "address2": "Suite 402",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-694-4309",
@@ -34068,7 +34253,8 @@
                 "Military Divorce",
                 "Probate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "diana-cupps-law",
@@ -34086,7 +34272,9 @@
                 "city": "Tulsa",
                 "address": "8908 S. Yale Ave.",
                 "address2": "Suite 220",
-                "zip": "74137"
+                "zip": "74137",
+                "lat": 36.0181,
+                "lng": -95.9395
             },
             "contact": {
                 "phone": "918-202-7443",
@@ -34131,7 +34319,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dawkins-gowens-law-firm",
@@ -34149,7 +34338,9 @@
                 "city": "Oklahoma City",
                 "address": "14624 Bogert Parkway",
                 "address2": null,
-                "zip": "73134"
+                "zip": "73134",
+                "lat": 35.6161,
+                "lng": -97.5759
             },
             "contact": {
                 "phone": "405-724-4186",
@@ -34175,7 +34366,8 @@
                 "Car Accidents",
                 "Mergers and Acquisitions",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greg-denney-law-pllc",
@@ -34193,7 +34385,9 @@
                 "city": "Tulsa",
                 "address": "1204 S. Cheyenne Ave.",
                 "address2": null,
-                "zip": "74119"
+                "zip": "74119",
+                "lat": 36.1418,
+                "lng": -95.9929
             },
             "contact": {
                 "phone": "918-295-0077",
@@ -34216,7 +34410,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parrish-devaughn-injury-lawyers",
@@ -34234,7 +34429,9 @@
                 "city": "Oklahoma City",
                 "address": "3601 N. Classen Blvd.",
                 "address2": null,
-                "zip": "73118"
+                "zip": "73118",
+                "lat": 35.5189,
+                "lng": -97.5298
             },
             "contact": {
                 "phone": "405-529-9573",
@@ -34265,7 +34462,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nix-diesselhorst-pllc",
@@ -34283,7 +34481,9 @@
                 "city": "Edmond",
                 "address": "15401 North May Ave",
                 "address2": null,
-                "zip": "73013"
+                "zip": "73013",
+                "lat": 35.6155,
+                "lng": -97.5173
             },
             "contact": {
                 "phone": "405-478-3737",
@@ -34313,7 +34513,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dockrey-law-pllc",
@@ -34331,7 +34532,9 @@
                 "city": "Shawnee",
                 "address": "639 North Kickapoo Ave",
                 "address2": null,
-                "zip": "74801"
+                "zip": "74801",
+                "lat": 35.2968,
+                "lng": -96.9507
             },
             "contact": {
                 "phone": "405-273-2050",
@@ -34384,7 +34587,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mee-mee-hoge-epperson-pllp",
@@ -34402,7 +34606,9 @@
                 "city": "Oklahoma City",
                 "address": "50 Penn Place",
                 "address2": "1900 Northwest Expressway, Suite 1400",
-                "zip": "73118"
+                "zip": "73118",
+                "lat": 35.5189,
+                "lng": -97.5298
             },
             "contact": {
                 "phone": "405-848-9100",
@@ -34432,7 +34638,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "b-hall-law",
@@ -34450,7 +34657,9 @@
                 "city": "Norman",
                 "address": "123 E Tonhawa",
                 "address2": "Suite 109",
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-529-8372",
@@ -34486,6 +34695,17 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Purcell",
+                    "state": "OK",
+                    "zip": "73080",
+                    "address": "202 S. 2nd Avenue",
+                    "phone": "+14055292439",
+                    "lat": 34.9827,
+                    "lng": -97.497
+                }
             ]
         },
         {
@@ -34504,7 +34724,9 @@
                 "city": "Oklahoma City",
                 "address": "311 North Harvey",
                 "address2": "Suite 200",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-343-9683",
@@ -34535,7 +34757,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dana-law-inc",
@@ -34553,7 +34776,9 @@
                 "city": "Tulsa",
                 "address": "8990 S Sheridan Rd",
                 "address2": "Ste B PMB 250",
-                "zip": "74133"
+                "zip": "74133",
+                "lat": 36.0392,
+                "lng": -95.8776
             },
             "contact": {
                 "phone": "918-585-8500",
@@ -34575,7 +34800,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joyce-graddy-pllc",
@@ -34593,7 +34819,9 @@
                 "city": "Tulsa",
                 "address": "515 South Main Street",
                 "address2": "Suite 300",
-                "zip": "74103"
+                "zip": "74103",
+                "lat": 36.1557,
+                "lng": -95.9941
             },
             "contact": {
                 "phone": "918-880-3041",
@@ -34633,7 +34861,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stipe-law-firm",
@@ -34651,7 +34880,9 @@
                 "city": "McAlester",
                 "address": "343 E Carl Albert Pkwy",
                 "address2": null,
-                "zip": "74501"
+                "zip": "74501",
+                "lat": 34.9528,
+                "lng": -95.7997
             },
             "contact": {
                 "phone": "918-505-7741",
@@ -34733,7 +34964,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hasbrook-hasbrook",
@@ -34751,7 +34983,9 @@
                 "city": "Oklahoma City",
                 "address": "400 N Walker Ave",
                 "address2": "#130",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-235-1551",
@@ -34776,7 +35010,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hayes-law-firm",
@@ -34794,7 +35029,9 @@
                 "city": "Jenks",
                 "address": "303 E A St",
                 "address2": "#958",
-                "zip": "74037"
+                "zip": "74037",
+                "lat": 36.0118,
+                "lng": -95.9739
             },
             "contact": {
                 "phone": "918-878-0567",
@@ -34813,7 +35050,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hensley-and-associates-pllc",
@@ -34831,7 +35069,9 @@
                 "city": "Tulsa",
                 "address": "427 South Boston Ave.",
                 "address2": "Suite 402",
-                "zip": "74103"
+                "zip": "74103",
+                "lat": 36.1557,
+                "lng": -95.9941
             },
             "contact": {
                 "phone": "800-813-1832",
@@ -34857,7 +35097,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "self-legal-group",
@@ -34875,7 +35116,9 @@
                 "city": "Oklahoma City",
                 "address": "11200 S Pennsylvania Avenue",
                 "address2": null,
-                "zip": "73170"
+                "zip": "73170",
+                "lat": 35.3271,
+                "lng": -97.5554
             },
             "contact": {
                 "phone": "405-353-6037",
@@ -34901,7 +35144,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kistler-legal-group-pllc",
@@ -34919,7 +35163,9 @@
                 "city": "Oklahoma City",
                 "address": "100 N. Broadway",
                 "address2": "Suite 3020, BancFirst Tower",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-353-4328",
@@ -34948,7 +35194,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maureen-j-knudson-p-c",
@@ -34966,7 +35213,9 @@
                 "city": "Tulsa",
                 "address": "1861 East 15th Street",
                 "address2": null,
-                "zip": "74104"
+                "zip": "74104",
+                "lat": 36.1466,
+                "lng": -95.9538
             },
             "contact": {
                 "phone": "918-747-1400",
@@ -34985,7 +35234,8 @@
             "attorneys": [
                 "Maureen J Knudson"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "kuykendall-law",
@@ -35003,7 +35253,9 @@
                 "city": "Norman",
                 "address": "209 South Crawford Avenue",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-900-7109",
@@ -35050,7 +35302,8 @@
                 "Real Estate",
                 "Sex Crime",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lacourse-accident-and-injury-law",
@@ -35068,7 +35321,9 @@
                 "city": "Tulsa",
                 "address": "302 E Reconciliation Wy",
                 "address2": null,
-                "zip": "74120"
+                "zip": "74120",
+                "lat": 36.1489,
+                "lng": -95.9803
             },
             "contact": {
                 "phone": "918-744-7100",
@@ -35092,7 +35347,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laird-law-group",
@@ -35110,7 +35366,9 @@
                 "city": "Tulsa",
                 "address": "624 S. Denver Avenue",
                 "address2": null,
-                "zip": "74119"
+                "zip": "74119",
+                "lat": 36.1418,
+                "lng": -95.9929
             },
             "contact": {
                 "phone": null,
@@ -35123,7 +35381,18 @@
             "attorneys": [
                 "Greg Laird"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Claremore",
+                    "state": "OK",
+                    "zip": "74017",
+                    "address": "319 W. First Street, Suite 101",
+                    "phone": "405-264-3553",
+                    "lat": 36.3941,
+                    "lng": -95.5717
+                }
+            ]
         },
         {
             "slug": "ray-lahann-attorney-of-tulsa",
@@ -35141,7 +35410,9 @@
                 "city": "Tulsa",
                 "address": "4111 S Darlington Ave",
                 "address2": "Suite 140",
-                "zip": "74135"
+                "zip": "74135",
+                "lat": 36.0971,
+                "lng": -95.9223
             },
             "contact": {
                 "phone": "918-918-6460",
@@ -35176,7 +35447,8 @@
                 "Social Security Disability",
                 "Trusts",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "green-country-family-law",
@@ -35194,7 +35466,9 @@
                 "city": "Broken Arrow",
                 "address": "2017 South Elm Place",
                 "address2": "Suite 107",
-                "zip": "74012"
+                "zip": "74012",
+                "lat": 36.0609,
+                "lng": -95.8064
             },
             "contact": {
                 "phone": "918-236-0361",
@@ -35225,7 +35499,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "field-trojan-long-claypole-p-c",
@@ -35243,7 +35518,9 @@
                 "city": "Enid",
                 "address": "106 West Randolph Avenue",
                 "address2": null,
-                "zip": "73701"
+                "zip": "73701",
+                "lat": 36.4053,
+                "lng": -97.8187
             },
             "contact": {
                 "phone": "580-233-4625",
@@ -35268,7 +35545,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mazaheri-law-firm-pllc",
@@ -35286,7 +35564,9 @@
                 "city": "Oklahoma City",
                 "address": "3000 W. Memorial Rd",
                 "address2": "Suite 230",
-                "zip": "73120"
+                "zip": "73120",
+                "lat": 35.5763,
+                "lng": -97.5744
             },
             "contact": {
                 "phone": "405-414-2222",
@@ -35307,7 +35587,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcbride-mcbride",
@@ -35325,7 +35606,9 @@
                 "city": "Pryor",
                 "address": "​106 N Rowe St.",
                 "address2": null,
-                "zip": "74361"
+                "zip": "74361",
+                "lat": 36.2638,
+                "lng": -95.2937
             },
             "contact": {
                 "phone": "918-932-3440",
@@ -35361,7 +35644,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccorkle-law-pc",
@@ -35379,7 +35663,9 @@
                 "city": "Oklahoma City",
                 "address": "105 N. Hudson Ave.",
                 "address2": "Suite 300",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "405-888-5242",
@@ -35406,7 +35692,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcdonald-law-pllc",
@@ -35424,7 +35711,9 @@
                 "city": "Tulsa",
                 "address": "15 W 6th St",
                 "address2": "Suite 2606",
-                "zip": "74119"
+                "zip": "74119",
+                "lat": 36.1418,
+                "lng": -95.9929
             },
             "contact": {
                 "phone": "918-918-9410",
@@ -35448,7 +35737,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-ralph-moore-p-c",
@@ -35466,7 +35756,9 @@
                 "city": "Pryor",
                 "address": "2 Court Place",
                 "address2": "P.O. Box 368",
-                "zip": "74362"
+                "zip": "74362",
+                "lat": 36.3025,
+                "lng": -95.3167
             },
             "contact": {
                 "phone": "918-803-0481",
@@ -35496,7 +35788,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sheila-j-naifeh-attorney-at-law",
@@ -35514,7 +35807,9 @@
                 "city": "Tulsa",
                 "address": "1408 S. Denver Avenue",
                 "address2": null,
-                "zip": "74119"
+                "zip": "74119",
+                "lat": 36.1418,
+                "lng": -95.9929
             },
             "contact": {
                 "phone": "918-582-5444",
@@ -35536,7 +35831,8 @@
             ],
             "official_practice_area": [
                 "Ethics and Professional Responsibility"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "l-todd-nalagan",
@@ -35554,7 +35850,9 @@
                 "city": "Norman",
                 "address": "3750 W. Main St.",
                 "address2": "Suite AA",
-                "zip": "73072"
+                "zip": "73072",
+                "lat": 35.2215,
+                "lng": -97.4847
             },
             "contact": {
                 "phone": "405-225-6406",
@@ -35579,7 +35877,8 @@
                 "Bankruptcy",
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "neighbors-law",
@@ -35597,7 +35896,9 @@
                 "city": "Norman",
                 "address": "717 26th Avenue NW",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-907-1269",
@@ -35624,7 +35925,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "andrew-nestor-iii",
@@ -35642,7 +35944,9 @@
                 "city": "Drumright",
                 "address": "310 West Broadway",
                 "address2": null,
-                "zip": "74030"
+                "zip": "74030",
+                "lat": 35.967,
+                "lng": -96.5381
             },
             "contact": {
                 "phone": "918-352-9700",
@@ -35695,7 +35999,8 @@
                 "Social Security Disability",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-douglas-parr",
@@ -35713,7 +36018,9 @@
                 "city": "Oklahoma City",
                 "address": "105 North Hudson",
                 "address2": "Suite 300",
-                "zip": "73102"
+                "zip": "73102",
+                "lat": 35.4715,
+                "lng": -97.5189
             },
             "contact": {
                 "phone": "833-637-3587",
@@ -35741,7 +36048,8 @@
                 "Drug Crime",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "white-weddle-p-c",
@@ -35759,7 +36067,9 @@
                 "city": "Oklahoma City",
                 "address": "630 Northeast 63rd Street",
                 "address2": null,
-                "zip": "73105"
+                "zip": "73105",
+                "lat": 35.5183,
+                "lng": -97.5041
             },
             "contact": {
                 "phone": "405-463-9922",
@@ -35788,7 +36098,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charles-a-ramsey-pllc",
@@ -35806,7 +36117,9 @@
                 "city": "Pryor",
                 "address": "226 East Graham Ave.",
                 "address2": null,
-                "zip": "74361"
+                "zip": "74361",
+                "lat": 36.2638,
+                "lng": -95.2937
             },
             "contact": {
                 "phone": "918-981-2673",
@@ -35828,7 +36141,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "recker-recker-pc",
@@ -35846,7 +36160,9 @@
                 "city": "Weatherford",
                 "address": "109 S. Broadway",
                 "address2": null,
-                "zip": "73096"
+                "zip": "73096",
+                "lat": 35.5515,
+                "lng": -98.7518
             },
             "contact": {
                 "phone": "580-302-5028",
@@ -35869,7 +36185,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ritchie-rock-atwood-attorneys-at-law",
@@ -35887,7 +36204,9 @@
                 "city": "Pryor",
                 "address": "21 North Vann Street",
                 "address2": null,
-                "zip": "74361"
+                "zip": "74361",
+                "lat": 36.2638,
+                "lng": -95.2937
             },
             "contact": {
                 "phone": "918-803-4452",
@@ -35931,7 +36250,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcgill-rodgers",
@@ -35949,7 +36269,9 @@
                 "city": "Edmond",
                 "address": "3165 N Sooner Rd",
                 "address2": "Ste 150",
-                "zip": "73034"
+                "zip": "73034",
+                "lat": 35.7072,
+                "lng": -97.4274
             },
             "contact": {
                 "phone": "405-285-8048",
@@ -35972,7 +36294,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schantz-legal-office",
@@ -35990,7 +36313,9 @@
                 "city": "Claremore",
                 "address": "319 West 1st St.",
                 "address2": null,
-                "zip": "74017"
+                "zip": "74017",
+                "lat": 36.3941,
+                "lng": -95.5717
             },
             "contact": {
                 "phone": "918-882-0847",
@@ -36021,7 +36346,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smalley-law-firm",
@@ -36039,7 +36365,9 @@
                 "city": "Norman",
                 "address": "305 East Comanche Street",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-801-2222",
@@ -36061,7 +36389,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "douglas-j-smith-law-office-p-c",
@@ -36079,7 +36408,9 @@
                 "city": "Norman",
                 "address": "104 East Eufaula Street",
                 "address2": null,
-                "zip": "73069"
+                "zip": "73069",
+                "lat": 35.2485,
+                "lng": -97.459
             },
             "contact": {
                 "phone": "405-310-8032",
@@ -36101,7 +36432,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paul-e-swain-plc",
@@ -36119,7 +36451,9 @@
                 "city": "Tulsa",
                 "address": "2727 E. 21st Street",
                 "address2": "Suite 420",
-                "zip": "74114"
+                "zip": "74114",
+                "lat": 36.1261,
+                "lng": -95.9483
             },
             "contact": {
                 "phone": "800-734-2312",
@@ -36159,7 +36493,8 @@
                 "Mergers and Acquisitions",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeffrey-a-taylor-p-c",
@@ -36177,7 +36512,9 @@
                 "city": "Oklahoma City",
                 "address": "5621 N. Classen Blvd.",
                 "address2": null,
-                "zip": "73118"
+                "zip": "73118",
+                "lat": 35.5189,
+                "lng": -97.5298
             },
             "contact": {
                 "phone": "405-286-1600",
@@ -36206,7 +36543,8 @@
                 "Employment Rights",
                 "Sexual Harassment",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wirth-law-office-tulsa-attorneys",
@@ -36224,7 +36562,9 @@
                 "city": "Tulsa",
                 "address": "500 W. 7th St.",
                 "address2": null,
-                "zip": "74119"
+                "zip": "74119",
+                "lat": 36.1418,
+                "lng": -95.9929
             },
             "contact": {
                 "phone": "918-880-3055",
@@ -36270,6 +36610,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Okmulgee",
+                    "state": "OK",
+                    "zip": "74447",
+                    "address": "309 West 7th Street, Suite 100",
+                    "phone": "+19188803371",
+                    "lat": 35.6463,
+                    "lng": -96.0328
+                }
             ]
         }
     ]

@@ -63561,7 +63561,9 @@
                 "city": "Milwaukee",
                 "address": "411 E Wisconsin Ave",
                 "address2": "Floor 19",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-300-9985",
@@ -63628,7 +63630,8 @@
                 "Toxic Torts",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-center-s-c",
@@ -63646,7 +63649,9 @@
                 "city": "Madison",
                 "address": "433 W. Washington Avenue",
                 "address2": "Suite 300",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-821-8200",
@@ -63707,6 +63712,17 @@
                 "Real Estate",
                 "Same Sex",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oregon",
+                    "state": "WI",
+                    "zip": "53575",
+                    "address": "602 Pleasant Oak Dr.",
+                    "phone": "608-821-8200",
+                    "lat": 42.9325,
+                    "lng": -89.3921
+                }
             ]
         },
         {
@@ -63725,7 +63741,9 @@
                 "city": "Milwaukee",
                 "address": "3496 North Oakland Ave.",
                 "address2": null,
-                "zip": "53211"
+                "zip": "53211",
+                "lat": 43.0817,
+                "lng": -87.8903
             },
             "contact": {
                 "phone": "414-361-1900",
@@ -63753,7 +63771,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kaehne-barrette",
@@ -63771,7 +63790,9 @@
                 "city": "Sheboygan",
                 "address": "514 South 8th Street",
                 "address2": null,
-                "zip": "53081"
+                "zip": "53081",
+                "lat": 43.707,
+                "lng": -87.7431
             },
             "contact": {
                 "phone": "920-335-1547",
@@ -63795,7 +63816,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-paul-a-maranan",
@@ -63813,7 +63835,9 @@
                 "city": "Milwaukee",
                 "address": "4111 S. Howell Avenue",
                 "address2": null,
-                "zip": "53207"
+                "zip": "53207",
+                "lat": 42.9779,
+                "lng": -87.8941
             },
             "contact": {
                 "phone": "414-483-4400",
@@ -63849,6 +63873,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cudahy",
+                    "state": "WI",
+                    "zip": "53110",
+                    "address": "4757 S. Packard Ave.",
+                    "phone": "(414) 744-6822",
+                    "lat": 42.9484,
+                    "lng": -87.8653
+                }
             ]
         },
         {
@@ -63867,7 +63902,9 @@
                 "city": "Oshkosh",
                 "address": "103 High Avenue",
                 "address2": null,
-                "zip": "54901"
+                "zip": "54901",
+                "lat": 44.0464,
+                "lng": -88.4934
             },
             "contact": {
                 "phone": "920-332-5833",
@@ -63894,7 +63931,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murphy-desmond-s-c",
@@ -63912,7 +63950,9 @@
                 "city": "Madison",
                 "address": "33 East Main St.",
                 "address2": "Suite 500",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-509-9682",
@@ -63994,6 +64034,17 @@
                 "State Local and Municipal Law",
                 "Tax Law",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Janesville",
+                    "state": "WI",
+                    "zip": "53545",
+                    "address": "101 E. Milwaukee St., Suite 301",
+                    "phone": "608-509-9682",
+                    "lat": 42.7283,
+                    "lng": -89.0503
+                }
             ]
         },
         {
@@ -64012,7 +64063,9 @@
                 "city": "Madison",
                 "address": "33 East Main Street",
                 "address2": "Suite 400",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-571-6166",
@@ -64062,7 +64115,8 @@
                 "Land Use and Zoning",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmidlkofer-toth-loeb-drosen-llc",
@@ -64080,7 +64134,9 @@
                 "city": "Wauwatosa",
                 "address": "949 Glenview Avenue",
                 "address2": null,
-                "zip": "53213"
+                "zip": "53213",
+                "lat": 43.0493,
+                "lng": -87.9997
             },
             "contact": {
                 "phone": "414-396-8320",
@@ -64130,7 +64186,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nicholson-goetz-otis-s-c",
@@ -64148,7 +64205,9 @@
                 "city": "Madison",
                 "address": "22 East Mifflin Street",
                 "address2": "Suite 300",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-597-6547",
@@ -64207,7 +64266,8 @@
                 "Family Law",
                 "Real Estate",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hammett-bellin-oswald-llc",
@@ -64225,7 +64285,9 @@
                 "city": "Neenah",
                 "address": "675 Deerwood Ave",
                 "address2": null,
-                "zip": "54956"
+                "zip": "54956",
+                "lat": 44.1787,
+                "lng": -88.5109
             },
             "contact": {
                 "phone": "920-347-8599",
@@ -64254,6 +64316,17 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Appleton",
+                    "state": "WI",
+                    "zip": "54914",
+                    "address": "4321 W College Ave., Suite 200 PMB 1974",
+                    "phone": "+19203477897",
+                    "lat": 44.264,
+                    "lng": -88.4901
+                }
             ]
         },
         {
@@ -64272,7 +64345,9 @@
                 "city": "Hudson",
                 "address": "304 Locust Street",
                 "address2": null,
-                "zip": "54016"
+                "zip": "54016",
+                "lat": 44.9708,
+                "lng": -92.7003
             },
             "contact": {
                 "phone": "715-386-2694",
@@ -64312,7 +64387,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-benske-gatzke-mcfadden-and-rose",
@@ -64330,7 +64406,9 @@
                 "city": "New Berlin",
                 "address": "15730 W. National Avenue",
                 "address2": null,
-                "zip": "53151"
+                "zip": "53151",
+                "lat": 42.9734,
+                "lng": -88.103
             },
             "contact": {
                 "phone": "262-468-9608",
@@ -64363,7 +64441,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bentley-tuffnell-law",
@@ -64381,7 +64460,9 @@
                 "city": "Milwaukee",
                 "address": "933 N. Mayfair Rd.",
                 "address2": "Suite 325B",
-                "zip": "53226"
+                "zip": "53226",
+                "lat": 43.051,
+                "lng": -88.0382
             },
             "contact": {
                 "phone": "262-468-9103",
@@ -64423,6 +64504,17 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "West Bend",
+                    "state": "WI",
+                    "zip": "53095",
+                    "address": "18 E. Washington St., Suite 101",
+                    "phone": "+12624689602",
+                    "lat": 43.3809,
+                    "lng": -88.1708
+                }
             ]
         },
         {
@@ -64441,7 +64533,9 @@
                 "city": "La Crosse",
                 "address": "712 Main Street",
                 "address2": null,
-                "zip": "54601"
+                "zip": "54601",
+                "lat": 43.7955,
+                "lng": -91.1538
             },
             "contact": {
                 "phone": "608-904-3789",
@@ -64471,6 +64565,17 @@
                 "Probate",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Madison",
+                    "state": "WI",
+                    "zip": "53705",
+                    "address": "702 N Blackhawk Ave, Suite 101",
+                    "phone": "+16089046034",
+                    "lat": 43.0747,
+                    "lng": -89.4589
+                }
             ]
         },
         {
@@ -64489,7 +64594,9 @@
                 "city": "Elkhorn",
                 "address": "354 Seymour Court",
                 "address2": null,
-                "zip": "53121"
+                "zip": "53121",
+                "lat": 42.7247,
+                "lng": -88.5331
             },
             "contact": {
                 "phone": "262-263-5194",
@@ -64529,7 +64636,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gass-turek-llc",
@@ -64547,7 +64655,9 @@
                 "city": "Milwaukee",
                 "address": "241 North Broadway",
                 "address2": "Suite 300",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-261-8760",
@@ -64583,7 +64693,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "action-law-offices-s-c",
@@ -64601,7 +64712,9 @@
                 "city": "Milwaukee",
                 "address": "933 North Mayfair Road",
                 "address2": "Suite 200",
-                "zip": "53226"
+                "zip": "53226",
+                "lat": 43.051,
+                "lng": -88.0382
             },
             "contact": {
                 "phone": "888-681-4256",
@@ -64624,6 +64737,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Racine",
+                    "state": "WI",
+                    "zip": "53405",
+                    "address": "1020 West Boulevard, Newport Building",
+                    "phone": "(888) 681-4256",
+                    "lat": 42.734,
+                    "lng": -87.8211
+                }
             ]
         },
         {
@@ -64642,7 +64766,9 @@
                 "city": "Milwaukee",
                 "address": "1219 N. Cass Street",
                 "address2": null,
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-488-6832",
@@ -64682,7 +64808,8 @@
                 "Family Law",
                 "Real Estate",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lindner-law-llc",
@@ -64700,7 +64827,9 @@
                 "city": "Milwaukee",
                 "address": "648 N. Plankinton Ave.",
                 "address2": "Suite 280",
-                "zip": "53203"
+                "zip": "53203",
+                "lat": 43.0377,
+                "lng": -87.9152
             },
             "contact": {
                 "phone": "414-296-1694",
@@ -64740,6 +64869,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Appleton",
+                    "state": "WI",
+                    "zip": "54913",
+                    "address": "5793 Grande Market Drive, Suite I",
+                    "phone": "+19204135096",
+                    "lat": 44.3383,
+                    "lng": -88.4042
+                }
             ]
         },
         {
@@ -64758,7 +64898,9 @@
                 "city": "Manitowoc",
                 "address": "21 Maritime Drive",
                 "address2": "Suite 100",
-                "zip": "54220"
+                "zip": "54220",
+                "lat": 44.1085,
+                "lng": -87.7228
             },
             "contact": {
                 "phone": "920-683-3500",
@@ -64814,6 +64956,17 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sheboygan",
+                    "state": "WI",
+                    "zip": "53081",
+                    "address": "2108 Kohler Memorial Drive, Suite 110",
+                    "phone": "920-395-2028",
+                    "lat": 43.707,
+                    "lng": -87.7431
+                }
             ]
         },
         {
@@ -64832,7 +64985,9 @@
                 "city": "Fox Point",
                 "address": "8651 N. Port Washington Rd.",
                 "address2": "Suite A",
-                "zip": "53217"
+                "zip": "53217",
+                "lat": 43.1458,
+                "lng": -87.9197
             },
             "contact": {
                 "phone": "414-326-9773",
@@ -64855,6 +65010,17 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53224",
+                    "address": "11414 W. Park Pl., Suite 202",
+                    "phone": "+14143008741",
+                    "lat": 43.163,
+                    "lng": -88.0377
+                }
             ]
         },
         {
@@ -64873,7 +65039,9 @@
                 "city": "Green Bay",
                 "address": "107 North Broadway",
                 "address2": "Suite II",
-                "zip": "54303"
+                "zip": "54303",
+                "lat": 44.543,
+                "lng": -88.0558
             },
             "contact": {
                 "phone": "920-435-7300",
@@ -64897,6 +65065,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oconto",
+                    "state": "WI",
+                    "zip": "54153",
+                    "address": "1008 Pecor Street, Suite C",
+                    "phone": "(920) 393-3306",
+                    "lat": 44.8877,
+                    "lng": -87.9392
+                }
             ]
         },
         {
@@ -64915,7 +65094,9 @@
                 "city": "Racine",
                 "address": "840 Lake Ave.",
                 "address2": "Ste 280",
-                "zip": "53403"
+                "zip": "53403",
+                "lat": 42.6934,
+                "lng": -87.8332
             },
             "contact": {
                 "phone": "414-414-4529",
@@ -64949,6 +65130,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "1547 N. Farwell Ave.",
+                    "phone": "414-414-4529",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -64967,7 +65159,9 @@
                 "city": "La Crosse",
                 "address": "750 Third Street N.",
                 "address2": null,
-                "zip": "54601"
+                "zip": "54601",
+                "lat": 43.7955,
+                "lng": -91.1538
             },
             "contact": {
                 "phone": "608-433-9534",
@@ -65007,6 +65201,17 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sparta",
+                    "state": "WI",
+                    "zip": "54656",
+                    "address": "103 S. Water St., #2",
+                    "phone": "608-433-9534",
+                    "lat": 43.9858,
+                    "lng": -90.7997
+                }
             ]
         },
         {
@@ -65025,7 +65230,9 @@
                 "city": "Milwaukee",
                 "address": "413 N. 2nd St.",
                 "address2": "Suite 150",
-                "zip": "53203"
+                "zip": "53203",
+                "lat": 43.0377,
+                "lng": -87.9152
             },
             "contact": {
                 "phone": "414-396-8205",
@@ -65110,7 +65317,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doar-drill-skow",
@@ -65128,7 +65336,9 @@
                 "city": "New Richmond",
                 "address": "103 North Knowles Avenue",
                 "address2": null,
-                "zip": "54017"
+                "zip": "54017",
+                "lat": 45.1254,
+                "lng": -92.5022
             },
             "contact": {
                 "phone": "715-246-2211",
@@ -65158,7 +65368,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "domer-law",
@@ -65176,7 +65387,9 @@
                 "city": "Milwaukee",
                 "address": "3970 North Oakland Avenue",
                 "address2": "Suite 201",
-                "zip": "53211"
+                "zip": "53211",
+                "lat": 43.0817,
+                "lng": -87.8903
             },
             "contact": {
                 "phone": "414-666-6431",
@@ -65202,6 +65415,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waukesha",
+                    "state": "WI",
+                    "zip": "53186",
+                    "address": "741 N. Grand Ave., Suite 303",
+                    "phone": "+12623048905",
+                    "lat": 43.0291,
+                    "lng": -88.2135
+                }
             ]
         },
         {
@@ -65220,7 +65444,9 @@
                 "city": "Appleton",
                 "address": "135 E. College Avenue",
                 "address2": null,
-                "zip": "54911"
+                "zip": "54911",
+                "lat": 44.2758,
+                "lng": -88.3745
             },
             "contact": {
                 "phone": "920-944-3352",
@@ -65244,7 +65470,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schott-bublitz-engel-s-c",
@@ -65262,7 +65489,9 @@
                 "city": "Waukesha",
                 "address": "640 West Moreland Boulevard",
                 "address2": null,
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-649-1387",
@@ -65291,7 +65520,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gmdb",
@@ -65309,7 +65539,9 @@
                 "city": "Milwaukee",
                 "address": "735 North Water Street",
                 "address2": "Suite 731",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-273-5551",
@@ -65336,7 +65568,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buting-williams-stilling-s-c",
@@ -65354,7 +65587,9 @@
                 "city": "Brookfield",
                 "address": "400 N. Executive Drive",
                 "address2": "Suite 205",
-                "zip": "53005"
+                "zip": "53005",
+                "lat": 43.0606,
+                "lng": -88.0966
             },
             "contact": {
                 "phone": "262-821-0999",
@@ -65373,6 +65608,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Glendale",
+                    "state": "WI",
+                    "zip": "53217",
+                    "address": "7929 N. Port Washington Road, Suite B2",
+                    "phone": "262-923-8761",
+                    "lat": 43.1458,
+                    "lng": -87.9197
+                }
             ]
         },
         {
@@ -65391,7 +65637,9 @@
                 "city": "Eau Claire",
                 "address": "3409 Golf Rd",
                 "address2": "Suite A",
-                "zip": "54701"
+                "zip": "54701",
+                "lat": 44.7497,
+                "lng": -91.5149
             },
             "contact": {
                 "phone": "715-318-2533",
@@ -65426,7 +65674,8 @@
                 "Family Law",
                 "Father's Rights",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-miller-law-llc",
@@ -65444,7 +65693,9 @@
                 "city": "Milwaukee",
                 "address": "700 W Virginia St",
                 "address2": "Ste 605",
-                "zip": "53204"
+                "zip": "53204",
+                "lat": 43.0196,
+                "lng": -87.9254
             },
             "contact": {
                 "phone": "414-398-3622",
@@ -65489,6 +65740,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Glendale",
+                    "state": "WI",
+                    "zip": "53209",
+                    "address": "6333  N. Green Bay Avenue",
+                    "phone": "414-398-3622",
+                    "lat": 43.1409,
+                    "lng": -87.9417
+                }
             ]
         },
         {
@@ -65507,7 +65769,9 @@
                 "city": "Appleton",
                 "address": "1225 N. Hawthorne Drive",
                 "address2": null,
-                "zip": "54915"
+                "zip": "54915",
+                "lat": 44.247,
+                "lng": -88.3709
             },
             "contact": {
                 "phone": "920-518-7943",
@@ -65533,7 +65797,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-miller-carroll",
@@ -65551,7 +65816,9 @@
                 "city": "Appleton",
                 "address": "226 South State Street",
                 "address2": null,
-                "zip": "54911"
+                "zip": "54911",
+                "lat": 44.2758,
+                "lng": -88.3745
             },
             "contact": {
                 "phone": "920-347-8144",
@@ -65621,7 +65888,8 @@
                 "Sex Crime",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crooks-law-firm-s-c",
@@ -65639,7 +65907,9 @@
                 "city": "Wausau",
                 "address": "531 Washington St",
                 "address2": null,
-                "zip": "54403"
+                "zip": "54403",
+                "lat": 45.0194,
+                "lng": -89.5046
             },
             "contact": {
                 "phone": "715-972-8877",
@@ -65683,7 +65953,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bankruptcy-law-office-of-richard-a-check-s-c",
@@ -65701,7 +65972,9 @@
                 "city": "Milwaukee",
                 "address": "757 N. Broadway",
                 "address2": "Suite 401",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-567-1509",
@@ -65728,6 +66001,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waukesha",
+                    "state": "WI",
+                    "zip": "53186",
+                    "address": "1535 E. Racine Avenue, Suite 101",
+                    "phone": "+14145672061",
+                    "lat": 43.0291,
+                    "lng": -88.2135
+                }
             ]
         },
         {
@@ -65746,7 +66030,9 @@
                 "city": "Brookfield",
                 "address": "225 Regency Ct",
                 "address2": "STE 200",
-                "zip": "53045"
+                "zip": "53045",
+                "lat": 43.0608,
+                "lng": -88.1557
             },
             "contact": {
                 "phone": "262-449-8261",
@@ -65792,6 +66078,17 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "1661 N Water St",
+                    "phone": "+12624498087",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -65810,7 +66107,9 @@
                 "city": "Manitowoc",
                 "address": "1425 Memorial Dr.",
                 "address2": "Suite B",
-                "zip": "54220"
+                "zip": "54220",
+                "lat": 44.1085,
+                "lng": -87.7228
             },
             "contact": {
                 "phone": "920-934-1371",
@@ -65846,7 +66145,8 @@
                 "Bad Faith Insurance",
                 "Insurance Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cleghorn-jones-trial-attorneys",
@@ -65864,7 +66164,9 @@
                 "city": "Milwaukee",
                 "address": "6737 W. Washington Street",
                 "address2": "Suite 3265",
-                "zip": "53214"
+                "zip": "53214",
+                "lat": 43.0223,
+                "lng": -88.0158
             },
             "contact": {
                 "phone": "414-361-4900",
@@ -65896,7 +66198,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cohen-law-offices",
@@ -65914,7 +66217,9 @@
                 "city": "Eau Claire",
                 "address": "17 S. Barstow St.",
                 "address2": null,
-                "zip": "54702"
+                "zip": "54702",
+                "lat": 44.8115,
+                "lng": -91.4986
             },
             "contact": {
                 "phone": "715-952-1901",
@@ -65945,7 +66250,8 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "your-family-law-center",
@@ -65963,7 +66269,9 @@
                 "city": "Madison",
                 "address": "152 W. Johnson Street",
                 "address2": "Suite 210",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-802-8742",
@@ -65990,6 +66298,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jefferson",
+                    "state": "WI",
+                    "zip": "53549",
+                    "address": "121 E. Racine Street",
+                    "phone": "+16088028835",
+                    "lat": 42.9958,
+                    "lng": -88.7626
+                }
             ]
         },
         {
@@ -66008,7 +66327,9 @@
                 "city": "Milwaukee",
                 "address": "731 N. Jackson St.",
                 "address2": "Suite 600",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-278-8060",
@@ -66031,7 +66352,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cannon-dunphy-s-c",
@@ -66049,7 +66371,9 @@
                 "city": "Brookfield",
                 "address": "595 N. Barker Road",
                 "address2": null,
-                "zip": "53045"
+                "zip": "53045",
+                "lat": 43.0608,
+                "lng": -88.1557
             },
             "contact": {
                 "phone": "262-449-1510",
@@ -66093,6 +66417,17 @@
                 "Car Accidents",
                 "Nursing Home Abuse",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "1509 N Prospect Ave, Suite 300",
+                    "phone": "+12624491703",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -66111,7 +66446,9 @@
                 "city": "Milwaukee",
                 "address": "845 North 11th Street",
                 "address2": "Lawyers' Building",
-                "zip": "53233"
+                "zip": "53233",
+                "lat": 43.0359,
+                "lng": -87.933
             },
             "contact": {
                 "phone": "414-850-6894",
@@ -66142,6 +66479,17 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waukesha",
+                    "state": "WI",
+                    "zip": "53186",
+                    "address": "505 Arcadian Avenue",
+                    "phone": "+14148506405",
+                    "lat": 43.0291,
+                    "lng": -88.2135
+                }
             ]
         },
         {
@@ -66160,7 +66508,9 @@
                 "city": "Onalaska",
                 "address": "PO Box 68",
                 "address2": null,
-                "zip": "54650"
+                "zip": "54650",
+                "lat": 43.9099,
+                "lng": -91.2572
             },
             "contact": {
                 "phone": "608-797-8123",
@@ -66189,7 +66539,8 @@
                 "Employment Rights",
                 "Landlord and Tenant",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dempsey-law-firm-llp",
@@ -66207,7 +66558,9 @@
                 "city": "Oshkosh",
                 "address": "210 North Main Street",
                 "address2": "Suite 100",
-                "zip": "54903"
+                "zip": "54903",
+                "lat": 44.0247,
+                "lng": -88.5426
             },
             "contact": {
                 "phone": "920-230-8757",
@@ -66233,7 +66586,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sterling-lawyers-llc",
@@ -66251,7 +66605,9 @@
                 "city": "Madison",
                 "address": "2810 Crossroads Drive",
                 "address2": "#3100",
-                "zip": "53718"
+                "zip": "53718",
+                "lat": 43.108,
+                "lng": -89.2693
             },
             "contact": {
                 "phone": "608-208-6009",
@@ -66313,6 +66669,26 @@
                 "Military Divorce",
                 "Real Estate",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Middleton",
+                    "state": "WI",
+                    "zip": "53562",
+                    "address": "8383 Greenway Blvd #600",
+                    "phone": "608-208-6017",
+                    "lat": 43.1148,
+                    "lng": -89.5213
+                },
+                {
+                    "city": "Hoffman Estates",
+                    "state": "IL",
+                    "zip": "60192",
+                    "address": "2815 Forbs Ave,, Suite 107",
+                    "phone": "847-250-6450",
+                    "lat": 42.0778,
+                    "lng": -88.1653
+                }
             ]
         },
         {
@@ -66331,7 +66707,9 @@
                 "city": "Waukesha",
                 "address": "N19W24200 Riverwood Dr.",
                 "address2": "Ste. 120",
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-433-5679",
@@ -66371,7 +66749,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davey-goldman-law-firm",
@@ -66389,7 +66768,9 @@
                 "city": "Madison",
                 "address": "5609 Medical Circle",
                 "address2": "Suite 101",
-                "zip": "53719"
+                "zip": "53719",
+                "lat": 43.0285,
+                "lng": -89.4909
             },
             "contact": {
                 "phone": "608-671-6395",
@@ -66431,7 +66812,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-williams-davis",
@@ -66449,7 +66831,9 @@
                 "city": "Amery",
                 "address": "314 Keller Avenue North",
                 "address2": null,
-                "zip": "54001"
+                "zip": "54001",
+                "lat": 45.3437,
+                "lng": -92.3649
             },
             "contact": {
                 "phone": "715-268-8901",
@@ -66477,7 +66861,8 @@
                 "Car Accidents",
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "padway-padway-law-offices",
@@ -66495,7 +66880,9 @@
                 "city": "Glendale",
                 "address": "5150 N. Port Washington Rd.",
                 "address2": "Suite 151",
-                "zip": "53217"
+                "zip": "53217",
+                "lat": 43.1458,
+                "lng": -87.9197
             },
             "contact": {
                 "phone": "414-850-6461",
@@ -66567,7 +66954,8 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kirk-obear-associates",
@@ -66585,7 +66973,9 @@
                 "city": "Sheboygan",
                 "address": "603 S 8th St",
                 "address2": null,
-                "zip": "53081"
+                "zip": "53081",
+                "lat": 43.707,
+                "lng": -87.7431
             },
             "contact": {
                 "phone": "920-413-5789",
@@ -66612,6 +67002,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Madison",
+                    "state": "WI",
+                    "zip": "53703",
+                    "address": "121 S. Pinckney Street, Suite 320",
+                    "phone": "608-270-8777",
+                    "lat": 43.0707,
+                    "lng": -89.3757
+                }
             ]
         },
         {
@@ -66630,7 +67031,9 @@
                 "city": "Milwaukee",
                 "address": "839 N Jefferson Street",
                 "address2": "Suite 310",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-310-0136",
@@ -66681,7 +67084,8 @@
                 "Personal Injury",
                 "Same Sex",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burbach-stansbury-s-c",
@@ -66699,7 +67103,9 @@
                 "city": "Milwaukee",
                 "address": "11270 W. Park Place",
                 "address2": "Suite 220",
-                "zip": "53224"
+                "zip": "53224",
+                "lat": 43.163,
+                "lng": -88.0377
             },
             "contact": {
                 "phone": "262-592-4509",
@@ -66725,7 +67131,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "durkin-law-offices",
@@ -66743,7 +67150,9 @@
                 "city": "Racine",
                 "address": "840 Lake Avenue",
                 "address2": "Suite 100",
-                "zip": "53403"
+                "zip": "53403",
+                "lat": 42.6934,
+                "lng": -87.8332
             },
             "contact": {
                 "phone": "262-433-5490",
@@ -66771,6 +67180,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "1031 N. Astor Street",
+                    "phone": "+12624335507",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -66789,7 +67209,9 @@
                 "city": "Fitchburg",
                 "address": "10 Glen Brook Way",
                 "address2": "Unit 103",
-                "zip": "53711"
+                "zip": "53711",
+                "lat": 43.0204,
+                "lng": -89.4127
             },
             "contact": {
                 "phone": "608-802-7349",
@@ -66816,7 +67238,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "englund-associates-law-office-llc",
@@ -66834,7 +67257,9 @@
                 "city": "Baraboo",
                 "address": "315 Broadway Street",
                 "address2": "Suite 200",
-                "zip": "53913"
+                "zip": "53913",
+                "lat": 43.4653,
+                "lng": -89.7588
             },
             "contact": {
                 "phone": "608-671-8224",
@@ -66863,7 +67288,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grieve-law-llc",
@@ -66881,7 +67307,9 @@
                 "city": "Brookfield",
                 "address": "225 Regency Ct",
                 "address2": "STE 200",
-                "zip": "53045"
+                "zip": "53045",
+                "lat": 43.0608,
+                "lng": -88.1557
             },
             "contact": {
                 "phone": "262-449-1383",
@@ -66928,6 +67356,17 @@
                 "Domestic Violence",
                 "Drug Crime",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "1661 N Water St, #406",
+                    "phone": "+12624491383",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -66946,7 +67385,9 @@
                 "city": "Madison",
                 "address": "2424 Rimrock Road",
                 "address2": "Suite 240",
-                "zip": "53713"
+                "zip": "53713",
+                "lat": 43.0373,
+                "lng": -89.3869
             },
             "contact": {
                 "phone": "608-856-6923",
@@ -66982,7 +67423,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hawks-quindel-s-c",
@@ -67000,7 +67442,9 @@
                 "city": "Madison",
                 "address": "222 W. Washington Ave.",
                 "address2": "Suite 450, P.O. Box 2155",
-                "zip": "53701"
+                "zip": "53701",
+                "lat": 43.0733,
+                "lng": -89.4012
             },
             "contact": {
                 "phone": "608-257-0040",
@@ -67041,6 +67485,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "zip": "53202",
+                    "address": "222 East Erie Street, Suite 210",
+                    "phone": "(414) 271-8650",
+                    "lat": 43.0429,
+                    "lng": -87.8943
+                }
             ]
         },
         {
@@ -67059,7 +67514,9 @@
                 "city": "Milwaukee",
                 "address": "1578 W. National Ave.",
                 "address2": null,
-                "zip": "53204"
+                "zip": "53204",
+                "lat": 43.0196,
+                "lng": -87.9254
             },
             "contact": {
                 "phone": "414-395-5513",
@@ -67108,6 +67565,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wauwatosa",
+                    "state": "WI",
+                    "zip": "53226",
+                    "address": "11063 W. Bluemound Rd.",
+                    "phone": "414-395-5513",
+                    "lat": 43.051,
+                    "lng": -88.0382
+                }
             ]
         },
         {
@@ -67126,7 +67594,9 @@
                 "city": "Madison",
                 "address": "211 South Paterson Street",
                 "address2": "Suite 320",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-258-4660",
@@ -67153,7 +67623,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "halloin-law-group-s-c",
@@ -67171,7 +67642,9 @@
                 "city": "Milwaukee",
                 "address": "839 North Jefferson Street",
                 "address2": "Suite 503",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-338-9673",
@@ -67217,7 +67690,8 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thelen-flink-llc",
@@ -67235,7 +67709,9 @@
                 "city": "Waukesha",
                 "address": "400 W. Moreland Blv.",
                 "address2": "Suite #A",
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-315-9903",
@@ -67283,6 +67759,17 @@
                 "Family Law",
                 "Father's Rights",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "East Troy",
+                    "state": "WI",
+                    "zip": "53120",
+                    "address": "2100 Church Street, Suite 104",
+                    "phone": "+12623158161",
+                    "lat": 42.7944,
+                    "lng": -88.3995
+                }
             ]
         },
         {
@@ -67301,7 +67788,9 @@
                 "city": "Appleton",
                 "address": "5793 Grande Market Drive",
                 "address2": "Suite K",
-                "zip": "54913"
+                "zip": "54913",
+                "lat": 44.3383,
+                "lng": -88.4042
             },
             "contact": {
                 "phone": "920-200-5894",
@@ -67325,7 +67814,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "melms-hogan-francois-llc",
@@ -67343,7 +67833,9 @@
                 "city": "Minocqua",
                 "address": "7520 Highway 51 S.",
                 "address2": "Suite A",
-                "zip": "54548"
+                "zip": "54548",
+                "lat": 45.8738,
+                "lng": -89.8414
             },
             "contact": {
                 "phone": "715-365-1008",
@@ -67371,7 +67863,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frankel-adr-llc",
@@ -67389,7 +67882,9 @@
                 "city": "Madison",
                 "address": "109 East Wilson St.",
                 "address2": "Apt 1011",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-824-6409",
@@ -67409,7 +67904,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nelson-krueger-millenbach-llc",
@@ -67427,7 +67923,9 @@
                 "city": "Milwaukee",
                 "address": "2675 N Mayfair Rd",
                 "address2": "Suite 610",
-                "zip": "53226"
+                "zip": "53226",
+                "lat": 43.051,
+                "lng": -88.0382
             },
             "contact": {
                 "phone": "414-662-9897",
@@ -67468,6 +67966,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Berlin",
+                    "state": "WI",
+                    "zip": "53151",
+                    "address": "5000 South Towne Drive, Suite 190",
+                    "phone": "+14146629943",
+                    "lat": 42.9734,
+                    "lng": -88.103
+                }
             ]
         },
         {
@@ -67486,7 +67995,9 @@
                 "city": "Kenosha",
                 "address": "625 57th Street",
                 "address2": "Second Floor",
-                "zip": "53140"
+                "zip": "53140",
+                "lat": 42.6243,
+                "lng": -87.8286
             },
             "contact": {
                 "phone": "262-449-1671",
@@ -67519,7 +68030,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lee-law-firm-llc",
@@ -67537,7 +68049,9 @@
                 "city": "Milwaukee",
                 "address": "6737 W. Washington Street",
                 "address2": "Suite 1120",
-                "zip": "53214"
+                "zip": "53214",
+                "lat": 43.0223,
+                "lng": -88.0158
             },
             "contact": {
                 "phone": "414-710-2400",
@@ -67569,7 +68083,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "guza-law-office-llc",
@@ -67587,7 +68102,9 @@
                 "city": "Sussex",
                 "address": "N63 W23565 Silver Spring Dr",
                 "address2": null,
-                "zip": "53089"
+                "zip": "53089",
+                "lat": 43.1488,
+                "lng": -88.2451
             },
             "contact": {
                 "phone": "262-468-9761",
@@ -67618,7 +68135,8 @@
                 "DUI and DWI",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hanson-law-office",
@@ -67636,7 +68154,9 @@
                 "city": "Milwaukee",
                 "address": "1433 N. Water Street",
                 "address2": "Suite 400",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-253-1161",
@@ -67678,6 +68198,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Brookfield",
+                    "state": "WI",
+                    "zip": "53005",
+                    "address": "200 S Executive Dr.",
+                    "phone": "+14144880636",
+                    "lat": 43.0606,
+                    "lng": -88.0966
+                }
             ]
         },
         {
@@ -67696,7 +68227,9 @@
                 "city": "Hudson",
                 "address": "600 3rd Street",
                 "address2": null,
-                "zip": "54016"
+                "zip": "54016",
+                "lat": 44.9708,
+                "lng": -92.7003
             },
             "contact": {
                 "phone": "715-201-3910",
@@ -67731,7 +68264,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hart-powell-s-c",
@@ -67749,7 +68283,9 @@
                 "city": "Milwaukee",
                 "address": "735 N Water St #1212",
                 "address2": null,
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-396-8905",
@@ -67778,7 +68314,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "helbing-law-office-llc",
@@ -67796,7 +68333,9 @@
                 "city": "Appleton",
                 "address": "477 South Nicolet Road",
                 "address2": "Suite 8",
-                "zip": "54914"
+                "zip": "54914",
+                "lat": 44.264,
+                "lng": -88.4901
             },
             "contact": {
                 "phone": "920-955-3688",
@@ -67817,6 +68356,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Green Bay",
+                    "state": "WI",
+                    "zip": "54303",
+                    "address": "211 North Broadway Street, Suite 208",
+                    "phone": "920-857-2009",
+                    "lat": 44.543,
+                    "lng": -88.0558
+                }
             ]
         },
         {
@@ -67835,7 +68385,9 @@
                 "city": "Pewaukee",
                 "address": "N16W23233 Stone Ridge Drive",
                 "address2": "Suite 260",
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-244-5308",
@@ -67865,7 +68417,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "becker-hickey-poster-s-c",
@@ -67883,7 +68436,9 @@
                 "city": "Milwaukee",
                 "address": "222 E. Erie Street",
                 "address2": "Suite 320",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-454-9102",
@@ -67911,7 +68466,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hickey-turim-s-c",
@@ -67929,7 +68485,9 @@
                 "city": "Milwaukee",
                 "address": "735 N. Water Street",
                 "address2": "Suite 1222",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "262-373-9867",
@@ -67980,6 +68538,17 @@
                 "Professional Malpractice",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Green Bay",
+                    "state": "WI",
+                    "zip": "54301",
+                    "address": "130 E Walnut, Suite 904",
+                    "phone": "262-373-9867",
+                    "lat": 44.4834,
+                    "lng": -88.0227
+                }
             ]
         },
         {
@@ -67998,7 +68567,9 @@
                 "city": "Green Bay",
                 "address": "414 E Walnut St",
                 "address2": "Suite 290",
-                "zip": "54301"
+                "zip": "54301",
+                "lat": 44.4834,
+                "lng": -88.0227
             },
             "contact": {
                 "phone": "920-770-2719",
@@ -68021,7 +68592,8 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "icenogle-associates-llc",
@@ -68039,7 +68611,9 @@
                 "city": "Readstown",
                 "address": "S7563 Riley Road",
                 "address2": null,
-                "zip": "54652"
+                "zip": "54652",
+                "lat": 43.4695,
+                "lng": -90.7482
             },
             "contact": {
                 "phone": "866-625-9104",
@@ -68062,7 +68636,8 @@
             ],
             "official_practice_area": [
                 "Health Care Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kasieta-legal-group-llc",
@@ -68080,7 +68655,9 @@
                 "city": "Madison",
                 "address": "559 D'Onofrio Drive",
                 "address2": "Suite 222",
-                "zip": "53719"
+                "zip": "53719",
+                "lat": 43.0285,
+                "lng": -89.4909
             },
             "contact": {
                 "phone": "608-904-6291",
@@ -68113,7 +68690,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crothers-law-s-c",
@@ -68131,7 +68709,9 @@
                 "city": "Hales Corners",
                 "address": "5300 S. 108th Street",
                 "address2": "Suite 26",
-                "zip": "53130"
+                "zip": "53130",
+                "lat": 42.9408,
+                "lng": -88.0477
             },
             "contact": {
                 "phone": "414-373-2955",
@@ -68167,7 +68747,8 @@
                 "Elder Law",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "konstantakis-law-office-llc",
@@ -68185,7 +68766,9 @@
                 "city": "Greenfield",
                 "address": "5217 South 51st Street",
                 "address2": null,
-                "zip": "53220"
+                "zip": "53220",
+                "lat": 42.9596,
+                "lng": -87.9929
             },
             "contact": {
                 "phone": "414-387-1903",
@@ -68239,7 +68822,8 @@
                 "Insurance Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kowalski-wilson-vang-llc",
@@ -68257,7 +68841,9 @@
                 "city": "Madison",
                 "address": "725 Heartland Trail",
                 "address2": "#100",
-                "zip": "53717"
+                "zip": "53717",
+                "lat": 43.0746,
+                "lng": -89.5217
             },
             "contact": {
                 "phone": "608-405-6957",
@@ -68290,6 +68876,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Baraboo",
+                    "state": "WI",
+                    "zip": "53913",
+                    "address": "123 2nd Street",
+                    "phone": "608-405-6957",
+                    "lat": 43.4653,
+                    "lng": -89.7588
+                }
             ]
         },
         {
@@ -68308,7 +68905,9 @@
                 "city": "Madison",
                 "address": "26 Schroeder Court",
                 "address2": "Suite 300",
-                "zip": "53711"
+                "zip": "53711",
+                "lat": 43.0204,
+                "lng": -89.4127
             },
             "contact": {
                 "phone": "608-258-8555",
@@ -68333,7 +68932,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krische-moertel-llc",
@@ -68351,7 +68951,9 @@
                 "city": "Eau Claire",
                 "address": "21 S. Barstow Street",
                 "address2": "Suite 209",
-                "zip": "54701"
+                "zip": "54701",
+                "lat": 44.7497,
+                "lng": -91.5149
             },
             "contact": {
                 "phone": "715-318-2737",
@@ -68375,7 +68977,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-andrew-c-ladd-llc",
@@ -68393,7 +68996,9 @@
                 "city": "Waukesha",
                 "address": "707 W. Moreland Boulevard",
                 "address2": "Suite 7",
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-542-7460",
@@ -68414,7 +69019,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bruce-a-lanser",
@@ -68432,7 +69038,9 @@
                 "city": "Waukesha",
                 "address": "Tower Executive Office Building",
                 "address2": "N14 W24200 Tower Place, Suite 201",
-                "zip": "53188"
+                "zip": "53188",
+                "lat": 43.0282,
+                "lng": -88.2951
             },
             "contact": {
                 "phone": "262-522-2280",
@@ -68449,7 +69057,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lillesand-leonhard-law-llc",
@@ -68467,7 +69076,9 @@
                 "city": "Waukesha",
                 "address": "20965 Crossroads Cir",
                 "address2": null,
-                "zip": "53186"
+                "zip": "53186",
+                "lat": 43.0291,
+                "lng": -88.2135
             },
             "contact": {
                 "phone": "414-850-6887",
@@ -68498,7 +69109,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-peter-lloyd",
@@ -68516,7 +69128,9 @@
                 "city": "Wisconsin Rapids",
                 "address": "232 West Grand Avenue",
                 "address2": null,
-                "zip": "54495"
+                "zip": "54495",
+                "lat": 44.402,
+                "lng": -89.9527
             },
             "contact": {
                 "phone": "715-257-6426",
@@ -68540,7 +69154,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-geoffrey-j-lorenz-llc",
@@ -68558,7 +69173,9 @@
                 "city": "Lodi",
                 "address": "113 S. Main St.",
                 "address2": "#301",
-                "zip": "53555"
+                "zip": "53555",
+                "lat": 43.3158,
+                "lng": -89.5618
             },
             "contact": {
                 "phone": "608-515-5276",
@@ -68585,7 +69202,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mayer-law-office-llc",
@@ -68603,7 +69221,9 @@
                 "city": "West Bend",
                 "address": "120 North Main Street",
                 "address2": "Suite 360",
-                "zip": "53095"
+                "zip": "53095",
+                "lat": 43.3809,
+                "lng": -88.1708
             },
             "contact": {
                 "phone": "262-384-4296",
@@ -68632,6 +69252,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Menomonee Falls",
+                    "state": "WI",
+                    "zip": "53052",
+                    "address": "P.O. Box 768",
+                    "phone": "262-384-4296",
+                    "lat": 43.1789,
+                    "lng": -88.1174
+                }
             ]
         },
         {
@@ -68650,7 +69281,9 @@
                 "city": "Milwaukee",
                 "address": "4425 N. Port Washington Road",
                 "address2": "Suite 110",
-                "zip": "53212"
+                "zip": "53212",
+                "lat": 43.0747,
+                "lng": -87.9065
             },
             "contact": {
                 "phone": "414-332-3499",
@@ -68680,6 +69313,17 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waukesha",
+                    "state": "WI",
+                    "zip": "53187",
+                    "address": "1535 E. Racine Ave.",
+                    "phone": "414-332-3499",
+                    "lat": 43.0114,
+                    "lng": -88.2314
+                }
             ]
         },
         {
@@ -68698,7 +69342,9 @@
                 "city": "La Crosse",
                 "address": "201 Main St",
                 "address2": "Suite 403",
-                "zip": "54601"
+                "zip": "54601",
+                "lat": 43.7955,
+                "lng": -91.1538
             },
             "contact": {
                 "phone": "608-904-3610",
@@ -68721,7 +69367,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kim-lavoy-s-c",
@@ -68739,7 +69386,9 @@
                 "city": "Wauwatosa",
                 "address": "2360 N. 124th Street",
                 "address2": "Suite 200",
-                "zip": "53226"
+                "zip": "53226",
+                "lat": 43.051,
+                "lng": -88.0382
             },
             "contact": {
                 "phone": "414-257-2100",
@@ -68765,6 +69414,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "West Bend",
+                    "state": "WI",
+                    "zip": "53095",
+                    "address": "530 Walnut Street, Suite 3",
+                    "phone": "262-334-1000",
+                    "lat": 43.3809,
+                    "lng": -88.1708
+                }
             ]
         },
         {
@@ -68783,7 +69443,9 @@
                 "city": "Manitowoc",
                 "address": "846 North 8th Street",
                 "address2": "P.O. Box 609",
-                "zip": "54221"
+                "zip": "54221",
+                "lat": 44.0888,
+                "lng": -87.6578
             },
             "contact": {
                 "phone": "920-684-6694",
@@ -68806,7 +69468,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zimmer-rens-llc",
@@ -68824,7 +69487,9 @@
                 "city": "Brookfield",
                 "address": "15850 W. Bluemound Road",
                 "address2": "Suite 204",
-                "zip": "53005"
+                "zip": "53005",
+                "lat": 43.0606,
+                "lng": -88.0966
             },
             "contact": {
                 "phone": "414-240-7538",
@@ -68858,7 +69523,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rettko-law-offices-s-c",
@@ -68876,7 +69542,9 @@
                 "city": "Brookfield",
                 "address": "15460 W Capitol Dr.",
                 "address2": "Suite 150",
-                "zip": "53005"
+                "zip": "53005",
+                "lat": 43.0606,
+                "lng": -88.0966
             },
             "contact": {
                 "phone": "262-783-7200",
@@ -68895,7 +69563,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richman-richman-llc",
@@ -68913,7 +69582,9 @@
                 "city": "Madison",
                 "address": "122 W. Washington",
                 "address2": "Suite 850",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-480-5753",
@@ -68946,7 +69617,8 @@
                 "Foreclosure and Alternatives",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tisdale-law-offices-s-c",
@@ -68964,7 +69636,9 @@
                 "city": "Prairie du Chien",
                 "address": "216 East Blackhawk Ave.",
                 "address2": "P.O. Box 7",
-                "zip": "53821"
+                "zip": "53821",
+                "lat": 43.0103,
+                "lng": -91.041
             },
             "contact": {
                 "phone": "866-380-4670",
@@ -68988,7 +69662,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rose-rose",
@@ -69006,7 +69681,9 @@
                 "city": "Kenosha",
                 "address": "5529 6th Avenue",
                 "address2": null,
-                "zip": "53140"
+                "zip": "53140",
+                "lat": 42.6243,
+                "lng": -87.8286
             },
             "contact": {
                 "phone": "262-358-9243",
@@ -69056,7 +69733,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "niebler-pyzyk-roth-carrig-llp",
@@ -69074,7 +69752,9 @@
                 "city": "Menomonee Falls",
                 "address": "N94 W17900 Appleton Avenue",
                 "address2": "Suite 200",
-                "zip": "53051"
+                "zip": "53051",
+                "lat": 43.1485,
+                "lng": -88.1244
             },
             "contact": {
                 "phone": "262-251-5330",
@@ -69105,7 +69785,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "amy-f-scarr-s-c",
@@ -69123,7 +69804,9 @@
                 "city": "Madison",
                 "address": "5201 E. Terrace Dr.",
                 "address2": "Suite 375",
-                "zip": "53718"
+                "zip": "53718",
+                "lat": 43.108,
+                "lng": -89.2693
             },
             "contact": {
                 "phone": "608-814-4901",
@@ -69159,7 +69842,8 @@
                 "Litigation and Appeals",
                 "Sexual Harassment",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hannula-halom-scherz-attorneys",
@@ -69177,7 +69861,9 @@
                 "city": "Superior",
                 "address": "515 Belknap Street",
                 "address2": null,
-                "zip": "54880"
+                "zip": "54880",
+                "lat": 46.5829,
+                "lng": -92.1173
             },
             "contact": {
                 "phone": "715-392-3000",
@@ -69203,7 +69889,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stroud-willink-howard-llc",
@@ -69221,7 +69908,9 @@
                 "city": "Madison",
                 "address": "33 East Main Street",
                 "address2": "Suite 610",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-257-2281",
@@ -69251,7 +69940,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wessels-sherman-joerg-liszka-laverty-seneczko-p-c",
@@ -69269,7 +69959,9 @@
                 "city": "Oconomowoc",
                 "address": "1860 Executive Drive",
                 "address2": "Suite E-1",
-                "zip": "53066"
+                "zip": "53066",
+                "lat": 43.1187,
+                "lng": -88.5185
             },
             "contact": {
                 "phone": "262-560-9696",
@@ -69303,6 +69995,35 @@
                 "Litigation and Appeals",
                 "Workers' Compensation",
                 "Wrongful Termination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Saint Charles",
+                    "state": "IL",
+                    "zip": "60174",
+                    "address": "Dunham Center, 2035 Foxfield Road",
+                    "phone": "(630) 377-1554",
+                    "lat": 41.9319,
+                    "lng": -88.2949
+                },
+                {
+                    "city": "Davenport",
+                    "state": "IA",
+                    "zip": "52801",
+                    "address": "101 West Second Street, Suite 307",
+                    "phone": "(563) 333-9102",
+                    "lat": 41.5204,
+                    "lng": -90.5735
+                },
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55425",
+                    "address": "8009 34th Avenue South, Suite 185",
+                    "phone": "(952) 746-1700",
+                    "lat": 44.8369,
+                    "lng": -93.2326
+                }
             ]
         },
         {
@@ -69321,7 +70042,9 @@
                 "city": "Green Bay",
                 "address": "2670 S. Ashland Avenue",
                 "address2": "Ste. 201",
-                "zip": "54304"
+                "zip": "54304",
+                "lat": 44.4899,
+                "lng": -88.0699
             },
             "contact": {
                 "phone": "920-393-7787",
@@ -69349,7 +70072,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "snow-law-s-c",
@@ -69367,7 +70091,9 @@
                 "city": "Waupun",
                 "address": "514 East Main Street",
                 "address2": "P.O. Box 591",
-                "zip": "53963"
+                "zip": "53963",
+                "lat": 43.6402,
+                "lng": -88.7429
             },
             "contact": {
                 "phone": "920-324-4711",
@@ -69391,6 +70117,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbus",
+                    "state": "WI",
+                    "zip": "53925",
+                    "address": "207 South Ludington St.",
+                    "phone": "920-324-4711",
+                    "lat": 43.3397,
+                    "lng": -89.0555
+                }
             ]
         },
         {
@@ -69409,7 +70146,9 @@
                 "city": "Elkhorn",
                 "address": "6 South Church Street",
                 "address2": null,
-                "zip": "53121"
+                "zip": "53121",
+                "lat": 42.7247,
+                "lng": -88.5331
             },
             "contact": {
                 "phone": "800-837-6956",
@@ -69441,7 +70180,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "southworth-law-office-llc",
@@ -69459,7 +70199,9 @@
                 "city": "Wisconsin Dells",
                 "address": "133 Wisconsin Dells Parkway South",
                 "address2": null,
-                "zip": "53965"
+                "zip": "53965",
+                "lat": 43.6965,
+                "lng": -89.7602
             },
             "contact": {
                 "phone": "608-313-5646",
@@ -69490,7 +70232,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bollenbeck-fyfe-s-c",
@@ -69508,7 +70251,9 @@
                 "city": "Appleton",
                 "address": "W6260 Communication Court",
                 "address2": null,
-                "zip": "54914"
+                "zip": "54914",
+                "lat": 44.264,
+                "lng": -88.4901
             },
             "contact": {
                 "phone": "920-949-0925",
@@ -69531,7 +70276,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stanford-law-offices-s-c",
@@ -69549,7 +70295,9 @@
                 "city": "Milwaukee",
                 "address": "225 East Fairmount Avenue",
                 "address2": null,
-                "zip": "53217"
+                "zip": "53217",
+                "lat": 43.1458,
+                "lng": -87.9197
             },
             "contact": {
                 "phone": "414-387-8489",
@@ -69589,6 +70337,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fond Du Lac",
+                    "state": "WI",
+                    "zip": "54935",
+                    "address": "407 S Main St",
+                    "phone": "+14143878545",
+                    "lat": 43.756,
+                    "lng": -88.367
+                }
             ]
         },
         {
@@ -69607,7 +70366,9 @@
                 "city": "La Crosse",
                 "address": "505 King Street",
                 "address2": "Suite 300",
-                "zip": "54601"
+                "zip": "54601",
+                "lat": 43.7955,
+                "lng": -91.1538
             },
             "contact": {
                 "phone": "608-205-8826",
@@ -69634,7 +70395,8 @@
                 "Agriculture",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-josiah-r-stein-llc",
@@ -69652,7 +70414,9 @@
                 "city": "Green Bay",
                 "address": "801 East Walnut Street",
                 "address2": null,
-                "zip": "54305"
+                "zip": "54305",
+                "lat": 44.5195,
+                "lng": -88.0199
             },
             "contact": {
                 "phone": "920-569-3225",
@@ -69682,7 +70446,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "terschan-steinle-hodan-ganzer-ltd",
@@ -69700,7 +70465,9 @@
                 "city": "Milwaukee",
                 "address": "309 North Water Street",
                 "address2": "Suite 215",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-258-1010",
@@ -69722,7 +70489,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dahlberg-o-meara-law-group",
@@ -69740,7 +70508,9 @@
                 "city": "Wauwatosa",
                 "address": "933 N. Mayfair Road",
                 "address2": "#304",
-                "zip": "53226"
+                "zip": "53226",
+                "lat": 43.051,
+                "lng": -88.0382
             },
             "contact": {
                 "phone": "262-677-8999",
@@ -69764,6 +70534,17 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hartford",
+                    "state": "WI",
+                    "zip": "53027",
+                    "address": "124 E. Sumner Street, PO Box 270468",
+                    "phone": "262-677-8999",
+                    "lat": 43.3179,
+                    "lng": -88.3637
+                }
             ]
         },
         {
@@ -69782,7 +70563,9 @@
                 "city": "Madison",
                 "address": "110 E. Main Street",
                 "address2": "Suite 705",
-                "zip": "53703"
+                "zip": "53703",
+                "lat": 43.0707,
+                "lng": -89.3757
             },
             "contact": {
                 "phone": "608-620-6239",
@@ -69809,7 +70592,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "van-severen-law-office-s-c",
@@ -69827,7 +70611,9 @@
                 "city": "Milwaukee",
                 "address": "316 N. Milwaukee Street",
                 "address2": "Ste.200",
-                "zip": "53202"
+                "zip": "53202",
+                "lat": 43.0429,
+                "lng": -87.8943
             },
             "contact": {
                 "phone": "414-373-2974",
@@ -69891,7 +70677,8 @@
                 "Real Estate",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jane-l-walker",
@@ -69909,7 +70696,9 @@
                 "city": "Waukesha",
                 "address": "100 East Sunset Dr.",
                 "address2": "Associated Bank Building",
-                "zip": "53189"
+                "zip": "53189",
+                "lat": 42.9422,
+                "lng": -88.2965
             },
             "contact": {
                 "phone": "262-542-4420",
@@ -69941,7 +70730,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "werley-law-llc",
@@ -69959,7 +70749,9 @@
                 "city": "Green Bay",
                 "address": "414 E. Walnut Street",
                 "address2": "Suite 150",
-                "zip": "54301"
+                "zip": "54301",
+                "lat": 44.4834,
+                "lng": -88.0227
             },
             "contact": {
                 "phone": "920-934-1983",
@@ -69980,7 +70772,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wurtz-law-office-llc",
@@ -69998,7 +70791,9 @@
                 "city": "Ripon",
                 "address": "201 E Fond du Lac Street",
                 "address2": "PO Box 603",
-                "zip": "54971"
+                "zip": "54971",
+                "lat": 43.8699,
+                "lng": -88.821
             },
             "contact": {
                 "phone": "920-299-5836",
@@ -70026,7 +70821,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zegiel-law-offices-llc",
@@ -70044,7 +70840,9 @@
                 "city": "Racine",
                 "address": "840 Lake Avenue",
                 "address2": "Suite 100",
-                "zip": "53403"
+                "zip": "53403",
+                "lat": 42.6934,
+                "lng": -87.8332
             },
             "contact": {
                 "phone": "262-449-1831",
@@ -70078,7 +70876,8 @@
                 "Family Law",
                 "Immigration",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

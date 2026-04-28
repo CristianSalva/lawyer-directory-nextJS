@@ -24200,7 +24200,9 @@
                 "city": "Woonsocket",
                 "address": "603 Park Avenue",
                 "address2": null,
-                "zip": "02895"
+                "zip": "02895",
+                "lat": 41.9979,
+                "lng": -71.4989
             },
             "contact": {
                 "phone": "401-769-3700",
@@ -24223,6 +24225,17 @@
             "official_practice_area": [
                 "Mergers and Acquisitions",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "260 West Exchange Street, Suite 103",
+                    "phone": "401-216-9052",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -24241,7 +24254,9 @@
                 "city": "Middletown",
                 "address": "Aquidneck Corporate Park",
                 "address2": "97 John Clarke Road",
-                "zip": "02842"
+                "zip": "02842",
+                "lat": 41.5173,
+                "lng": -71.2719
             },
             "contact": {
                 "phone": "401-846-0120",
@@ -24276,7 +24291,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "strauss-factor-laing-lyons",
@@ -24294,7 +24310,9 @@
                 "city": "Providence",
                 "address": "One State Street",
                 "address2": "Suite 600",
-                "zip": "02908"
+                "zip": "02908",
+                "lat": 41.8393,
+                "lng": -71.4388
             },
             "contact": {
                 "phone": "401-400-4416",
@@ -24324,7 +24342,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-brett-v-beaubien-llc",
@@ -24342,7 +24361,9 @@
                 "city": "Providence",
                 "address": "1 Turks Head PI.",
                 "address2": "Suite 1440",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-638-7635",
@@ -24394,7 +24415,8 @@
                 "Federal and White Collar Crimes",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robinson-clapham",
@@ -24412,7 +24434,9 @@
                 "city": "Providence",
                 "address": "123 Dyer Street",
                 "address2": "1st Floor",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-638-5251",
@@ -24444,6 +24468,17 @@
                 "Employment Rights",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wakefield",
+                    "state": "RI",
+                    "zip": "02879",
+                    "address": "24 Salt Pond Road, Suite A-8",
+                    "phone": "+14014830741",
+                    "lat": 41.4277,
+                    "lng": -71.5364
+                }
             ]
         },
         {
@@ -24462,7 +24497,9 @@
                 "city": "West Warwick",
                 "address": "211 Quaker Lane",
                 "address2": "Suite 201",
-                "zip": "02893"
+                "zip": "02893",
+                "lat": 41.6973,
+                "lng": -71.5097
             },
             "contact": {
                 "phone": "401-240-8852",
@@ -24507,6 +24544,17 @@
                 "Litigation and Appeals",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newport",
+                    "state": "RI",
+                    "zip": "02840",
+                    "address": "195 Broadway",
+                    "phone": "+14012408792",
+                    "lat": 41.485,
+                    "lng": -71.3245
+                }
             ]
         },
         {
@@ -24525,7 +24573,9 @@
                 "city": "Providence",
                 "address": "566 Smith Street",
                 "address2": null,
-                "zip": "02908"
+                "zip": "02908",
+                "lat": 41.8393,
+                "lng": -71.4388
             },
             "contact": {
                 "phone": "401-383-6603",
@@ -24548,7 +24598,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bilodeau-capalbo-llc",
@@ -24566,7 +24617,9 @@
                 "city": "West Warwick",
                 "address": "1350 Division Rd #102",
                 "address2": null,
-                "zip": "02893"
+                "zip": "02893",
+                "lat": 41.6973,
+                "lng": -71.5097
             },
             "contact": {
                 "phone": "401-300-4055",
@@ -24590,6 +24643,26 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Westerly",
+                    "state": "RI",
+                    "zip": "02891",
+                    "address": "6 Franklin St",
+                    "phone": "401-414-5234",
+                    "lat": 41.3615,
+                    "lng": -71.8024
+                },
+                {
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "06103",
+                    "address": "100 Pearl St 14th Floor",
+                    "phone": "(401) 414-5234",
+                    "lat": 41.7652,
+                    "lng": -72.672
+                }
             ]
         },
         {
@@ -24608,7 +24681,9 @@
                 "city": "Providence",
                 "address": "40 Westminster Street",
                 "address2": "7th Floor, Suite 700",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-331-3400",
@@ -24639,6 +24714,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fall River",
+                    "state": "MA",
+                    "zip": "02720",
+                    "address": "373 North Main St.",
+                    "phone": "(401) 331-3400",
+                    "lat": 41.7316,
+                    "lng": -71.109
+                }
             ]
         },
         {
@@ -24657,7 +24743,9 @@
                 "city": "Providence",
                 "address": "685 Westminster St.",
                 "address2": null,
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-443-2991",
@@ -24700,6 +24788,26 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warwick",
+                    "state": "RI",
+                    "zip": "02888",
+                    "address": "51 Jefferson Blvd.",
+                    "phone": "401-443-2991",
+                    "lat": 41.7486,
+                    "lng": -71.4116
+                },
+                {
+                    "city": "Quincy",
+                    "state": "MA",
+                    "zip": "02169",
+                    "address": "20 Whitney Rd",
+                    "phone": "401-443-2991",
+                    "lat": 42.2429,
+                    "lng": -71.01
+                }
             ]
         },
         {
@@ -24718,7 +24826,9 @@
                 "city": "Providence",
                 "address": "128 Dorrance Street",
                 "address2": "Suite 250",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-336-5882",
@@ -24743,6 +24853,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Middletown",
+                    "state": "RI",
+                    "zip": "02842",
+                    "address": "850 Aquidneck Avenue, Unit A9",
+                    "phone": "(401) 336-6337",
+                    "lat": 41.5173,
+                    "lng": -71.2719
+                }
             ]
         },
         {
@@ -24761,7 +24882,9 @@
                 "city": "Pawtucket",
                 "address": "750 East Ave.",
                 "address2": null,
-                "zip": "02860"
+                "zip": "02860",
+                "lat": 41.8752,
+                "lng": -71.3945
             },
             "contact": {
                 "phone": "401-297-0311",
@@ -24784,7 +24907,8 @@
                 "Insurance Defense",
                 "Landlord and Tenant",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-john-l-calcagni-iii",
@@ -24802,7 +24926,9 @@
                 "city": "Providence",
                 "address": "72 Clifford St #300",
                 "address2": null,
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-351-5100",
@@ -24857,7 +24983,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "d-oliveira-associates-p-c",
@@ -24875,7 +25002,9 @@
                 "city": "Warwick",
                 "address": "120 Lavan St.",
                 "address2": "Suite 1",
-                "zip": "02888"
+                "zip": "02888",
+                "lat": 41.7486,
+                "lng": -71.4116
             },
             "contact": {
                 "phone": "401-490-6907",
@@ -25027,6 +25156,26 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cranston",
+                    "state": "RI",
+                    "zip": "02910",
+                    "address": "751 Reservoir Avenue",
+                    "phone": "401-275-2039",
+                    "lat": 41.7761,
+                    "lng": -71.4343
+                },
+                {
+                    "city": "Attleboro",
+                    "state": "MA",
+                    "zip": "02703",
+                    "address": "155 N. Main Street",
+                    "phone": "508-223-1133",
+                    "lat": 41.9383,
+                    "lng": -71.2942
+                }
             ]
         },
         {
@@ -25045,7 +25194,9 @@
                 "city": "Providence",
                 "address": "226 South Main Street",
                 "address2": null,
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-751-5522",
@@ -25075,7 +25226,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lynch-pine",
@@ -25093,7 +25245,9 @@
                 "city": "Providence",
                 "address": "1 Park Row",
                 "address2": "5th Floor",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-680-0921",
@@ -25133,6 +25287,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newport",
+                    "state": "RI",
+                    "zip": "02840",
+                    "address": "26 Washington Square, Suite 1",
+                    "phone": "401-680-0921",
+                    "lat": 41.485,
+                    "lng": -71.3245
+                }
             ]
         },
         {
@@ -25151,7 +25316,9 @@
                 "city": "Coventry",
                 "address": "1500 Nooseneck Hill Road",
                 "address2": null,
-                "zip": "02816"
+                "zip": "02816",
+                "lat": 41.6933,
+                "lng": -71.6363
             },
             "contact": {
                 "phone": "401-297-0194",
@@ -25202,7 +25369,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "comerford-saccoccio",
@@ -25220,7 +25388,9 @@
                 "city": "Johnston",
                 "address": "928 Atwood Avenue",
                 "address2": null,
-                "zip": "02919"
+                "zip": "02919",
+                "lat": 41.8279,
+                "lng": -71.5181
             },
             "contact": {
                 "phone": "401-944-1600",
@@ -25242,7 +25412,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burns-levinson-llp",
@@ -25260,7 +25431,9 @@
                 "city": "Providence",
                 "address": "One Citizens Plaza",
                 "address2": "Suite 1100",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-831-8330",
@@ -25289,6 +25462,26 @@
             "official_practice_area": [
                 "Banking and Finance Law",
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hingham",
+                    "state": "MA",
+                    "zip": "02043",
+                    "address": "175 Derby Street, Suite 6",
+                    "phone": "(617) 345-3000",
+                    "lat": 42.2158,
+                    "lng": -70.8792
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80204",
+                    "address": "1001 Bannock Street, Suite 10",
+                    "phone": "(303) 586-6940",
+                    "lat": 39.7377,
+                    "lng": -105.0203
+                }
             ]
         },
         {
@@ -25307,7 +25500,9 @@
                 "city": "Warren",
                 "address": "429 Main Street",
                 "address2": null,
-                "zip": "02885"
+                "zip": "02885",
+                "lat": 41.73,
+                "lng": -71.2582
             },
             "contact": {
                 "phone": "401-245-5300",
@@ -25340,6 +25535,17 @@
                 "Immigration",
                 "Personal Injury",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Miami",
+                    "state": "FL",
+                    "zip": "33155",
+                    "address": "6700 SW 38 Street",
+                    "phone": "305-547-1234",
+                    "lat": 25.7365,
+                    "lng": -80.3109
+                }
             ]
         },
         {
@@ -25358,7 +25564,9 @@
                 "city": "Providence",
                 "address": "400 Westminster Street",
                 "address2": "Suite 40",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-400-3313",
@@ -25383,7 +25591,8 @@
                 "Estate Planning",
                 "Landlord and Tenant",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "d-alessandro-wright-llc",
@@ -25401,7 +25610,9 @@
                 "city": "Providence",
                 "address": "1000 Smith St.",
                 "address2": null,
-                "zip": "02908"
+                "zip": "02908",
+                "lat": 41.8393,
+                "lng": -71.4388
             },
             "contact": {
                 "phone": "401-353-0440",
@@ -25425,6 +25636,17 @@
                 "Construction",
                 "Construction Accident",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warwick",
+                    "state": "RI",
+                    "zip": "02888",
+                    "address": "70 Jefferson blvd.",
+                    "phone": "(401) 308-3596",
+                    "lat": 41.7486,
+                    "lng": -71.4116
+                }
             ]
         },
         {
@@ -25443,7 +25665,9 @@
                 "city": "Providence",
                 "address": "50 Park Row West",
                 "address2": "Suite No. 107",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-453-2950",
@@ -25474,6 +25698,35 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "East Greenwich",
+                    "state": "RI",
+                    "zip": "02818",
+                    "address": "25 First Avenue",
+                    "phone": "401-453-2950",
+                    "lat": 41.6438,
+                    "lng": -71.4778
+                },
+                {
+                    "city": "So. Easton",
+                    "state": "MA",
+                    "zip": "02375",
+                    "address": "480 Turnpike Street",
+                    "phone": "508-238-2510",
+                    "lat": 42.0256,
+                    "lng": -71.1084
+                },
+                {
+                    "city": "Estero",
+                    "state": "FL",
+                    "zip": "33928",
+                    "address": "4680 Turnberry Lakes Drive, Unit 205",
+                    "phone": "401-453-2950",
+                    "lat": 26.4054,
+                    "lng": -81.7101
+                }
             ]
         },
         {
@@ -25492,7 +25745,9 @@
                 "city": "Providence",
                 "address": "146 Westminster Street",
                 "address2": "5th Floor",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-414-5325",
@@ -25530,6 +25785,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "East Greenwich",
+                    "state": "RI",
+                    "zip": "02818",
+                    "address": "990 Main Street",
+                    "phone": "401-414-5325",
+                    "lat": 41.6438,
+                    "lng": -71.4778
+                }
             ]
         },
         {
@@ -25548,7 +25814,9 @@
                 "city": "Tiverton",
                 "address": "3852 Main Road",
                 "address2": null,
-                "zip": "02878"
+                "zip": "02878",
+                "lat": 41.6092,
+                "lng": -71.1745
             },
             "contact": {
                 "phone": "401-638-7861",
@@ -25579,7 +25847,8 @@
                 "DUI and DWI",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "formisano-company",
@@ -25597,7 +25866,9 @@
                 "city": "Cranston",
                 "address": "100 Midway Place",
                 "address2": "Suite 1",
-                "zip": "02920"
+                "zip": "02920",
+                "lat": 41.7685,
+                "lng": -71.4685
             },
             "contact": {
                 "phone": "401-240-9182",
@@ -25640,7 +25911,8 @@
                 "Whistleblower and Qui Tam",
                 "Workers' Compensation",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "furtado-legal-services",
@@ -25658,7 +25930,9 @@
                 "city": "East Providence",
                 "address": "1 Grove Avenue",
                 "address2": null,
-                "zip": "02914"
+                "zip": "02914",
+                "lat": 41.8114,
+                "lng": -71.3631
             },
             "contact": {
                 "phone": "401-228-6080",
@@ -25679,7 +25953,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilstein-kinder-levin-llp",
@@ -25697,7 +25972,9 @@
                 "city": "Warwick",
                 "address": "300 Metro Center Blvd.",
                 "address2": "Suite 150A",
-                "zip": "02886"
+                "zip": "02886",
+                "lat": 41.7053,
+                "lng": -71.461
             },
             "contact": {
                 "phone": "401-751-1500",
@@ -25722,7 +25999,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcdevitt-law-group-p-c",
@@ -25740,7 +26018,9 @@
                 "city": "Providence",
                 "address": "10 Dorrance Street",
                 "address2": "Suite 700",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "617-282-7550",
@@ -25762,6 +26042,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Milton",
+                    "state": "MA",
+                    "zip": "02186",
+                    "address": "2 Granite Avenue, Suite 260",
+                    "phone": "617-282-7550",
+                    "lat": 42.2396,
+                    "lng": -71.0811
+                }
             ]
         },
         {
@@ -25780,7 +26071,9 @@
                 "city": "Warwick",
                 "address": "92 Jefferson Blvd.",
                 "address2": null,
-                "zip": "02888"
+                "zip": "02888",
+                "lat": 41.7486,
+                "lng": -71.4116
             },
             "contact": {
                 "phone": "401-941-5770",
@@ -25830,7 +26123,8 @@
                 "Probate",
                 "State Local and Municipal Law",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hca-law-llc",
@@ -25848,7 +26142,9 @@
                 "city": "Providence",
                 "address": "356 Eddy Street",
                 "address2": "Floor 3",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-638-4008",
@@ -25882,7 +26178,8 @@
                 "Personal Injury",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "herman-law-group",
@@ -25900,7 +26197,9 @@
                 "city": "East Providence",
                 "address": "1445 Wampanoag Trail",
                 "address2": "Suite 104",
-                "zip": "02915"
+                "zip": "02915",
+                "lat": 41.7769,
+                "lng": -71.3503
             },
             "contact": {
                 "phone": "401-277-4110",
@@ -25922,7 +26221,8 @@
             ],
             "official_practice_area": [
                 "Discrimination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charles-a-hirsch-attorney-at-law",
@@ -25940,7 +26240,9 @@
                 "city": "Providence",
                 "address": "The Calart Building",
                 "address2": "400 Reservoir Avenue, Suite 3G",
-                "zip": "02907"
+                "zip": "02907",
+                "lat": 41.7951,
+                "lng": -71.4248
             },
             "contact": {
                 "phone": "401-521-1211",
@@ -25959,7 +26261,8 @@
             ],
             "official_practice_area": [
                 "Nursing Home Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gunning-lafazia-inc",
@@ -25977,7 +26280,9 @@
                 "city": "Warwick",
                 "address": "33 College Hill Road",
                 "address2": "Suite 25B",
-                "zip": "02886"
+                "zip": "02886",
+                "lat": 41.7053,
+                "lng": -71.461
             },
             "contact": {
                 "phone": "401-521-6900",
@@ -26002,7 +26307,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "larochelle-law",
@@ -26020,7 +26326,9 @@
                 "city": "Providence",
                 "address": "1 Turks Head Place",
                 "address2": "Suite 1440",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-421-4407",
@@ -26054,7 +26362,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rob-levine-law",
@@ -26072,7 +26381,9 @@
                 "city": "Providence",
                 "address": "544 Douglas Ave",
                 "address2": null,
-                "zip": "02908"
+                "zip": "02908",
+                "lat": 41.8393,
+                "lng": -71.4388
             },
             "contact": {
                 "phone": "508-988-8755",
@@ -26135,6 +26446,44 @@
                 "Truck Accident",
                 "Veteran's Benefits",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warwick",
+                    "state": "RI",
+                    "zip": "02886",
+                    "address": "3970 Post Rd",
+                    "phone": "+15088343483",
+                    "lat": 41.7053,
+                    "lng": -71.461
+                },
+                {
+                    "city": "Fall River",
+                    "state": "MA",
+                    "zip": "02724",
+                    "address": "1068 Slade St",
+                    "phone": "+15088343483",
+                    "lat": 41.6869,
+                    "lng": -71.1802
+                },
+                {
+                    "city": "Pawcatuck",
+                    "state": "CT",
+                    "zip": "06379",
+                    "address": "100 W Broad St",
+                    "phone": "+15088343483",
+                    "lat": 41.3682,
+                    "lng": -71.8631
+                },
+                {
+                    "city": "Manchester",
+                    "state": "NH",
+                    "zip": "03104",
+                    "address": "103 Liberty St",
+                    "phone": "+15088343483",
+                    "lat": 43.0154,
+                    "lng": -71.4362
+                }
             ]
         },
         {
@@ -26153,7 +26502,9 @@
                 "city": "Warwick",
                 "address": "51 Jefferson Blvd",
                 "address2": null,
-                "zip": "02888"
+                "zip": "02888",
+                "lat": 41.7486,
+                "lng": -71.4116
             },
             "contact": {
                 "phone": "401-206-4659",
@@ -26183,6 +26534,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "55 Pine Street",
+                    "phone": "401-305-2934",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -26201,7 +26563,9 @@
                 "city": "East Greenwich",
                 "address": "6 Wanton Shippee Road",
                 "address2": null,
-                "zip": "02818"
+                "zip": "02818",
+                "lat": 41.6438,
+                "lng": -71.4778
             },
             "contact": {
                 "phone": "401-400-3787",
@@ -26237,7 +26601,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Internet"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rioles-law-offices",
@@ -26255,7 +26620,9 @@
                 "city": "Providence",
                 "address": "426 Broadway",
                 "address2": null,
-                "zip": "02909"
+                "zip": "02909",
+                "lat": 41.8222,
+                "lng": -71.4483
             },
             "contact": {
                 "phone": "401-484-6178",
@@ -26276,7 +26643,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-jeremy-m-rix",
@@ -26294,7 +26662,9 @@
                 "city": "Warwick",
                 "address": "469 Centerville Rd",
                 "address2": "Suite 206",
-                "zip": "02886"
+                "zip": "02886",
+                "lat": 41.7053,
+                "lng": -71.461
             },
             "contact": {
                 "phone": "401-638-4713",
@@ -26316,7 +26686,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-v-russo-law-offices-llc",
@@ -26334,7 +26705,9 @@
                 "city": "Providence",
                 "address": "1011 Smith Street, Suite 2",
                 "address2": null,
-                "zip": "02908"
+                "zip": "02908",
+                "lat": 41.8393,
+                "lng": -71.4388
             },
             "contact": {
                 "phone": "401-777-0000",
@@ -26366,7 +26739,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "national-military-justice-group",
@@ -26384,7 +26758,9 @@
                 "city": "East Greenwich",
                 "address": "2 Stenton Avenue",
                 "address2": null,
-                "zip": "02891"
+                "zip": "02891",
+                "lat": 41.3615,
+                "lng": -71.8024
             },
             "contact": {
                 "phone": "205-981-2500",
@@ -26404,6 +26780,35 @@
             ],
             "official_practice_area": [
                 "Military"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "zip": "15219",
+                    "address": "564 Forbes Avenue, Suite 802",
+                    "phone": "(205) 981-2500",
+                    "lat": 40.4433,
+                    "lng": -79.9973
+                },
+                {
+                    "city": "Brunswick",
+                    "state": "GA",
+                    "zip": "31523",
+                    "address": "122 Queens Court",
+                    "phone": "(205) 981-2500",
+                    "lat": 31.2214,
+                    "lng": -81.6112
+                },
+                {
+                    "city": "Birmingham",
+                    "state": "AL",
+                    "zip": "35238",
+                    "address": "P.O. Box 381028",
+                    "phone": "(205) 981-2500",
+                    "lat": 33.4975,
+                    "lng": -86.7638
+                }
             ]
         },
         {
@@ -26422,7 +26827,9 @@
                 "city": "Warwick",
                 "address": "156 Airport Road",
                 "address2": null,
-                "zip": "02889"
+                "zip": "02889",
+                "lat": 41.7012,
+                "lng": -71.3925
             },
             "contact": {
                 "phone": "401-287-4713",
@@ -26449,6 +26856,17 @@
                 "Discrimination",
                 "Employment Rights",
                 "Whistleblower and Qui Tam"
+            ],
+            "additional_locations": [
+                {
+                    "city": "North Kingstown",
+                    "state": "RI",
+                    "zip": "02852",
+                    "address": "70 Romano Vineyard Way, Suite 130",
+                    "phone": "401-287-4713",
+                    "lat": 41.5881,
+                    "lng": -71.462
+                }
             ]
         },
         {
@@ -26467,7 +26885,9 @@
                 "city": "Providence",
                 "address": "128 Dorrance St",
                 "address2": "Suite 530",
-                "zip": "02903"
+                "zip": "02903",
+                "lat": 41.8182,
+                "lng": -71.4097
             },
             "contact": {
                 "phone": "401-273-3000",
@@ -26499,7 +26919,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

@@ -14373,7 +14373,9 @@
                 "city": "Albuquerque",
                 "address": "9202 San Mateo Blvd NE",
                 "address2": null,
-                "zip": "87113"
+                "zip": "87113",
+                "lat": 35.1813,
+                "lng": -106.5928
             },
             "contact": {
                 "phone": "505-254-0000",
@@ -14398,7 +14400,8 @@
             ],
             "official_practice_area": [
                 "Nursing Home Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcginn-montoya-love-curry-sievers",
@@ -14416,7 +14419,9 @@
                 "city": "Albuquerque",
                 "address": "201 Broadway Blvd SE",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-499-5560",
@@ -14468,7 +14473,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "business-law-southwest-llc",
@@ -14486,7 +14492,9 @@
                 "city": "Albuquerque",
                 "address": "6801 Jefferson St NE",
                 "address2": "Suite 210",
-                "zip": "87109"
+                "zip": "87109",
+                "lat": 35.1512,
+                "lng": -106.57
             },
             "contact": {
                 "phone": "505-848-8581",
@@ -14522,7 +14530,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bencoe-lacour-law-pc",
@@ -14540,7 +14549,9 @@
                 "city": "Albuquerque",
                 "address": "9201 Montgomery Boulevard NE",
                 "address2": "Suite 404",
-                "zip": "87111"
+                "zip": "87111",
+                "lat": 35.1296,
+                "lng": -106.4947
             },
             "contact": {
                 "phone": "505-633-8949",
@@ -14570,7 +14581,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "allegra-law-llc",
@@ -14588,7 +14600,9 @@
                 "city": "Albuquerque",
                 "address": "500 Tijeras NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-340-3545",
@@ -14615,6 +14629,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Essex Junction",
+                    "state": "VT",
+                    "zip": "05452",
+                    "address": "29 Maple St.",
+                    "phone": "505-340-3545",
+                    "lat": 44.5108,
+                    "lng": -73.0528
+                }
             ]
         },
         {
@@ -14633,7 +14658,9 @@
                 "city": "Albuquerque",
                 "address": "4302 Carlisle Blvd. NE",
                 "address2": null,
-                "zip": "87107"
+                "zip": "87107",
+                "lat": 35.1446,
+                "lng": -106.6465
             },
             "contact": {
                 "phone": "505-883-5000",
@@ -14672,6 +14699,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rio Rancho",
+                    "state": "NM",
+                    "zip": "87124",
+                    "address": "1005 21st St. SE, Suite 11",
+                    "phone": "505-369-1495",
+                    "lat": 35.2842,
+                    "lng": -106.7461
+                }
             ]
         },
         {
@@ -14690,7 +14728,9 @@
                 "city": "Albuquerque",
                 "address": "40 First Plaza Center NW",
                 "address2": "Suite 610",
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-588-4135",
@@ -14717,7 +14757,8 @@
                 "Litigation and Appeals",
                 "Natural Resources",
                 "Oil Gas and Energy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cervantes-scherr-legate-l-c",
@@ -14735,7 +14776,9 @@
                 "city": "Las Cruces",
                 "address": "901 E. University Ave.",
                 "address2": "Suite 965L",
-                "zip": "88001"
+                "zip": "88001",
+                "lat": 32.2858,
+                "lng": -106.7449
             },
             "contact": {
                 "phone": "575-339-2180",
@@ -14762,7 +14805,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clark-ruyle-attorneys-at-law-llc",
@@ -14780,7 +14824,9 @@
                 "city": "Santa Fe",
                 "address": "432 Galisteo St.",
                 "address2": null,
-                "zip": "87501"
+                "zip": "87501",
+                "lat": 35.7091,
+                "lng": -105.8594
             },
             "contact": {
                 "phone": "505-499-5720",
@@ -14820,7 +14866,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Mergers and Acquisitions"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nathan-cobb",
@@ -14838,7 +14885,9 @@
                 "city": "Albuquerque",
                 "address": "812 Gold Ave SW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-225-2146",
@@ -14868,7 +14917,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-scott-m-davidson",
@@ -14886,7 +14936,9 @@
                 "city": "Albuquerque",
                 "address": "1011 Lomas Blvd NW",
                 "address2": "Suite 101",
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-302-0109",
@@ -14917,7 +14969,8 @@
                 "Federal and White Collar Crimes",
                 "Immigration",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-gilchrist-p-c",
@@ -14935,7 +14988,9 @@
                 "city": "Albuquerque",
                 "address": "1005 Marquette Ave. NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-435-9908",
@@ -14954,7 +15009,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-john-day-law-office-llc",
@@ -14972,7 +15028,9 @@
                 "city": "Santa Fe",
                 "address": "Luna Complex",
                 "address2": "505 Cerrillos Road, Suite A-205",
-                "zip": "87501"
+                "zip": "87501",
+                "lat": 35.7091,
+                "lng": -105.8594
             },
             "contact": {
                 "phone": "505-819-0564",
@@ -14994,7 +15052,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sheehan-sheehan-p-a",
@@ -15012,7 +15071,9 @@
                 "city": "Albuquerque",
                 "address": "6001 Indian School Road NorthWest",
                 "address2": "Suite 400",
-                "zip": "87110"
+                "zip": "87110",
+                "lat": 35.1091,
+                "lng": -106.5775
             },
             "contact": {
                 "phone": "505-247-0411",
@@ -15043,6 +15104,17 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sante Fe",
+                    "state": "NM",
+                    "zip": "87501",
+                    "address": "1613 Paseo De Peralta",
+                    "phone": "(505) 247-0411",
+                    "lat": 35.7091,
+                    "lng": -105.8594
+                }
             ]
         },
         {
@@ -15061,7 +15133,9 @@
                 "city": "Albuquerque",
                 "address": "220 9th St NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-889-3463",
@@ -15102,7 +15176,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ives-flores",
@@ -15120,7 +15195,9 @@
                 "city": "Albuquerque",
                 "address": "925 Luna Circle NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-364-3858",
@@ -15148,7 +15225,8 @@
             ],
             "official_practice_area": [
                 "Civil Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frechette-associates-pc",
@@ -15166,7 +15244,9 @@
                 "city": "Albuquerque",
                 "address": "116 Granite Aven NW",
                 "address2": null,
-                "zip": "87125"
+                "zip": "87125",
+                "lat": 35.0844,
+                "lng": -106.6508
             },
             "contact": {
                 "phone": "505-887-5464",
@@ -15209,7 +15289,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garrett-law",
@@ -15227,7 +15308,9 @@
                 "city": "Albuquerque",
                 "address": "6739 Academy Road NE",
                 "address2": "Suite 350",
-                "zip": "87109"
+                "zip": "87109",
+                "lat": 35.1512,
+                "lng": -106.57
             },
             "contact": {
                 "phone": "505-499-5955",
@@ -15261,7 +15344,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grandjean-law-firm-llc",
@@ -15279,7 +15363,9 @@
                 "city": "Roswell",
                 "address": "400 Penn Plaza",
                 "address2": "Suite 1010",
-                "zip": "88201"
+                "zip": "88201",
+                "lat": 33.4652,
+                "lng": -104.4145
             },
             "contact": {
                 "phone": "575-988-9656",
@@ -15308,7 +15394,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bannerman-johnson-p-a",
@@ -15326,7 +15413,9 @@
                 "city": "Albuquerque",
                 "address": "2201 San Pedro NE Building 2",
                 "address2": "Suite 207",
-                "zip": "87110"
+                "zip": "87110",
+                "lat": 35.1091,
+                "lng": -106.5775
             },
             "contact": {
                 "phone": "505-837-1900",
@@ -15351,7 +15440,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hinkle-shanor-llp",
@@ -15369,7 +15459,9 @@
                 "city": "Roswell",
                 "address": "400 Pennsylvania",
                 "address2": "Suite 640",
-                "zip": "88201"
+                "zip": "88201",
+                "lat": 33.4652,
+                "lng": -104.4145
             },
             "contact": {
                 "phone": "505-982-4554",
@@ -15400,6 +15492,17 @@
             "official_practice_area": [
                 "Natural Resources",
                 "Oil Gas and Energy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87109",
+                    "address": "7601 Jefferson NE, Suite 180",
+                    "phone": "505-982-4554",
+                    "lat": 35.1512,
+                    "lng": -106.57
+                }
             ]
         },
         {
@@ -15418,7 +15521,9 @@
                 "city": "Albuquerque",
                 "address": "122 Wellesley Dr SE",
                 "address2": null,
-                "zip": "87106"
+                "zip": "87106",
+                "lat": 35.0622,
+                "lng": -106.6198
             },
             "contact": {
                 "phone": "505-887-3902",
@@ -15455,7 +15560,8 @@
                 "Sexual Abuse",
                 "Whistleblower and Qui Tam",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sutin-thayer-browne",
@@ -15473,7 +15579,9 @@
                 "city": "Albuquerque",
                 "address": "6100 Uptown Boulevard NorthEast",
                 "address2": "Suite 400",
-                "zip": "87110"
+                "zip": "87110",
+                "lat": 35.1091,
+                "lng": -106.5775
             },
             "contact": {
                 "phone": "505-883-2500",
@@ -15503,6 +15611,17 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Santa Fe",
+                    "state": "NM",
+                    "zip": "87501",
+                    "address": "150 Washington Avenue",
+                    "phone": "(505) 988-5521",
+                    "lat": 35.7091,
+                    "lng": -105.8594
+                }
             ]
         },
         {
@@ -15521,7 +15640,9 @@
                 "city": "Albuquerque",
                 "address": "1011 Lomas Blvd NW",
                 "address2": "#105",
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-248-1400",
@@ -15591,6 +15712,17 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87109",
+                    "address": "8205 Spain Rd NE, #111-A",
+                    "phone": "+15054994852",
+                    "lat": 35.1512,
+                    "lng": -106.57
+                }
             ]
         },
         {
@@ -15609,7 +15741,9 @@
                 "city": "Albuquerque",
                 "address": "318 Elm St SE",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-588-5716",
@@ -15641,6 +15775,17 @@
                 "Personal Injury",
                 "Sexual Abuse",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Santa Fe",
+                    "state": "NM",
+                    "zip": "87501",
+                    "address": "505 Cerrillos Rd, A104",
+                    "phone": "505-431-2167",
+                    "lat": 35.7091,
+                    "lng": -105.8594
+                }
             ]
         },
         {
@@ -15659,7 +15804,9 @@
                 "city": "Santa Fe",
                 "address": "1800 Old Pecos Trail",
                 "address2": "Suite A",
-                "zip": "87505"
+                "zip": "87505",
+                "lat": 35.6148,
+                "lng": -105.8788
             },
             "contact": {
                 "phone": "505-675-0144",
@@ -15684,7 +15831,8 @@
             ],
             "official_practice_area": [
                 "Civil Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-christopher-d-lee-llc",
@@ -15702,7 +15850,9 @@
                 "city": "Albuquerque",
                 "address": "1121 4th Street NW",
                 "address2": "Suite 1-A",
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-226-0934",
@@ -15748,7 +15898,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-amalia-s-lucero-l-l-c",
@@ -15766,7 +15917,9 @@
                 "city": "Placitas",
                 "address": "26 Camino Don Juan",
                 "address2": null,
-                "zip": "87043"
+                "zip": "87043",
+                "lat": 35.2902,
+                "lng": -106.4433
             },
             "contact": {
                 "phone": "505-814-6254",
@@ -15794,7 +15947,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marshall-law-p-c",
@@ -15812,7 +15966,9 @@
                 "city": "Albuquerque",
                 "address": "509 Roma Ave NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-357-0007",
@@ -15853,7 +16009,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "simon-perdue-law",
@@ -15871,7 +16028,9 @@
                 "city": "Albuquerque",
                 "address": "2601 Wyoming Blvd NE",
                 "address2": "Suite 106",
-                "zip": "87112"
+                "zip": "87112",
+                "lat": 35.0999,
+                "lng": -106.516
             },
             "contact": {
                 "phone": "505-499-4672",
@@ -15896,6 +16055,26 @@
             "official_practice_area": [
                 "Oil Gas and Energy",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Santa Fe",
+                    "state": "NM",
+                    "zip": "87501",
+                    "address": "215 Lincoln Ave, Suite 204A",
+                    "phone": "+15054994672",
+                    "lat": 35.7091,
+                    "lng": -105.8594
+                },
+                {
+                    "city": "Houston",
+                    "state": "TX",
+                    "zip": "77002",
+                    "address": "440 Louisiana St, Suite 1450",
+                    "phone": "+15054994672",
+                    "lat": 29.7502,
+                    "lng": -95.3677
+                }
             ]
         },
         {
@@ -15914,7 +16093,9 @@
                 "city": "Albuquerque",
                 "address": "5720 Osuna Rd NE",
                 "address2": null,
-                "zip": "87109"
+                "zip": "87109",
+                "lat": 35.1512,
+                "lng": -106.57
             },
             "contact": {
                 "phone": "505-887-3349",
@@ -15943,7 +16124,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "albuquerque-legal-fiduciary",
@@ -15961,7 +16143,9 @@
                 "city": "Albuquerque",
                 "address": "1909 Carlisle Blvd. NE",
                 "address2": null,
-                "zip": "87110"
+                "zip": "87110",
+                "lat": 35.1091,
+                "lng": -106.5775
             },
             "contact": {
                 "phone": "505-985-5563",
@@ -15990,7 +16174,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stiver-law",
@@ -16008,7 +16193,9 @@
                 "city": "Albuquerque",
                 "address": "407 7th St NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-219-4440",
@@ -16036,7 +16223,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lisa-torraco-law",
@@ -16054,7 +16242,9 @@
                 "city": "Albuquerque",
                 "address": "823 Gold SW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-887-3631",
@@ -16082,7 +16272,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-wood-law",
@@ -16100,7 +16291,9 @@
                 "city": "Albuquerque",
                 "address": "601 Marble Ave NW",
                 "address2": null,
-                "zip": "87102"
+                "zip": "87102",
+                "lat": 35.0783,
+                "lng": -106.6455
             },
             "contact": {
                 "phone": "505-458-6059",
@@ -16137,7 +16330,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

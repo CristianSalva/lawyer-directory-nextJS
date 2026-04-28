@@ -104150,7 +104150,9 @@
                 "city": "Winston-Salem",
                 "address": "One Salem Tower",
                 "address2": "119 Brookstown Avenue, Suite 300",
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-794-6138",
@@ -104190,7 +104192,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arnold-smith-pllc",
@@ -104208,7 +104211,9 @@
                 "city": "Charlotte",
                 "address": "The Historic John Price Carr House",
                 "address2": "200 N. McDowell St.",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-831-7305",
@@ -104261,7 +104266,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dement-askew-johnson-marshall",
@@ -104279,7 +104285,9 @@
                 "city": "Raleigh",
                 "address": "333 Fayetteville Street",
                 "address2": "Suite 1513",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "919-578-4267",
@@ -104365,7 +104373,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-audino-llp",
@@ -104383,7 +104392,9 @@
                 "city": "Greenville",
                 "address": "2510 East 10th Street",
                 "address2": null,
-                "zip": "27858"
+                "zip": "27858",
+                "lat": 35.5238,
+                "lng": -77.2883
             },
             "contact": {
                 "phone": "252-604-8788",
@@ -104408,7 +104419,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garrett-walker-aycoth-olson-attorneys-at-law",
@@ -104426,7 +104438,9 @@
                 "city": "Greensboro",
                 "address": "317 S. Greene St.",
                 "address2": null,
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-944-6827",
@@ -104471,7 +104485,8 @@
                 "Personal Injury",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ayers-whitlow-dressler",
@@ -104489,7 +104504,9 @@
                 "city": "Charlotte",
                 "address": "301 South McDowell Street",
                 "address2": "Suite 410",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-377-5050",
@@ -104524,7 +104541,8 @@
                 "Personal Injury",
                 "Social Security",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brown-moore-associates-p-l-l-c",
@@ -104542,7 +104560,9 @@
                 "city": "Charlotte",
                 "address": "930 East Blvd",
                 "address2": null,
-                "zip": "28203"
+                "zip": "28203",
+                "lat": 35.2085,
+                "lng": -80.8581
             },
             "contact": {
                 "phone": "704-315-2556",
@@ -104575,7 +104595,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maginnis-howard",
@@ -104593,7 +104614,9 @@
                 "city": "Raleigh",
                 "address": "7706 Six Forks Rd",
                 "address2": "Suite 101",
-                "zip": "27615"
+                "zip": "27615",
+                "lat": 35.9022,
+                "lng": -78.6277
             },
             "contact": {
                 "phone": "919-504-6038",
@@ -104636,6 +104659,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fayetteville",
+                    "state": "NC",
+                    "zip": "28304",
+                    "address": "2850 Village Dr, Suite 206",
+                    "phone": "+19195046038",
+                    "lat": 35.018,
+                    "lng": -78.9932
+                }
             ]
         },
         {
@@ -104654,7 +104688,9 @@
                 "city": "Raleigh",
                 "address": "4917 Waters Edge Dr.",
                 "address2": "Suite 271",
-                "zip": "27606"
+                "zip": "27606",
+                "lat": 35.7376,
+                "lng": -78.7212
             },
             "contact": {
                 "phone": "919-769-5495",
@@ -104703,6 +104739,17 @@
                 "Father's Rights",
                 "Real Estate",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wilmington",
+                    "state": "NC",
+                    "zip": "28401",
+                    "address": "516 Princess Street",
+                    "phone": "+19104083607",
+                    "lat": 34.2659,
+                    "lng": -77.9697
+                }
             ]
         },
         {
@@ -104721,7 +104768,9 @@
                 "city": "Chapel Hill",
                 "address": "151 E. Rosemary St.",
                 "address2": "Suite 101",
-                "zip": "27514"
+                "zip": "27514",
+                "lat": 35.9671,
+                "lng": -79.0409
             },
             "contact": {
                 "phone": "919-822-8877",
@@ -104759,6 +104808,17 @@
             "official_practice_area": [
                 "DUI and DWI",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27603",
+                    "address": "608 W. Johnson St., Suite 13",
+                    "phone": "919-822-8877",
+                    "lat": 35.6837,
+                    "lng": -78.6641
+                }
             ]
         },
         {
@@ -104777,7 +104837,9 @@
                 "city": "Lillington",
                 "address": "65 Bain Street",
                 "address2": null,
-                "zip": "27546"
+                "zip": "27546",
+                "lat": 35.3452,
+                "lng": -78.8682
             },
             "contact": {
                 "phone": "910-832-9504",
@@ -104814,7 +104876,8 @@
                 "Probate",
                 "Real Estate",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kirschbaum-nanney-keenan-griffin-p-a",
@@ -104832,7 +104895,9 @@
                 "city": "Raleigh",
                 "address": "3714 Benson Drive",
                 "address2": null,
-                "zip": "27609"
+                "zip": "27609",
+                "lat": 35.8427,
+                "lng": -78.6319
             },
             "contact": {
                 "phone": "919-642-2272",
@@ -104873,7 +104938,8 @@
                 "Health Care Law",
                 "Probate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spidell-family-law",
@@ -104891,7 +104957,9 @@
                 "city": "Greensboro",
                 "address": "125 South Elm Street",
                 "address2": "Suite 410",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-515-0311",
@@ -104934,7 +105002,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robertson-associates",
@@ -104952,7 +105021,9 @@
                 "city": "Charlotte",
                 "address": "2730 East W.T. Harris Blvd",
                 "address2": "Suite 101",
-                "zip": "28213"
+                "zip": "28213",
+                "lat": 35.2846,
+                "lng": -80.7338
             },
             "contact": {
                 "phone": "704-597-5774",
@@ -104986,7 +105057,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sigmon-clark-mackie-hanvey-ferrell-p-a",
@@ -105004,7 +105076,9 @@
                 "city": "Hickory",
                 "address": "250 Second Avenue SW",
                 "address2": null,
-                "zip": "28602"
+                "zip": "28602",
+                "lat": 35.6768,
+                "lng": -81.3853
             },
             "contact": {
                 "phone": "828-597-0533",
@@ -105036,7 +105110,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "riddle-riddle-injury-lawyers",
@@ -105054,7 +105129,9 @@
                 "city": "Goldsboro",
                 "address": "601 N Spence Ave",
                 "address2": null,
-                "zip": "27534"
+                "zip": "27534",
+                "lat": 35.3607,
+                "lng": -77.9025
             },
             "contact": {
                 "phone": "919-504-4846",
@@ -105086,6 +105163,17 @@
                 "Car Accidents",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kinston",
+                    "state": "NC",
+                    "zip": "28501",
+                    "address": "807 North Queen Street",
+                    "phone": "+19192149146",
+                    "lat": 35.2644,
+                    "lng": -77.499
+                }
             ]
         },
         {
@@ -105104,7 +105192,9 @@
                 "city": "Charlotte",
                 "address": "Park View Building",
                 "address2": "5821 Fairview Road, Suite 405",
-                "zip": "28209"
+                "zip": "28209",
+                "lat": 35.1766,
+                "lng": -80.8526
             },
             "contact": {
                 "phone": "980-999-4539",
@@ -105135,6 +105225,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28204",
+                    "address": "Cameron Brown Building, 301 S. McDowell Street, Suite 1001",
+                    "phone": "980-999-4539",
+                    "lat": 35.2134,
+                    "lng": -80.8262
+                }
             ]
         },
         {
@@ -105153,7 +105254,9 @@
                 "city": "Southern Pines",
                 "address": "300 Pinehurst Avenue",
                 "address2": null,
-                "zip": "28387"
+                "zip": "28387",
+                "lat": 35.1721,
+                "lng": -79.3895
             },
             "contact": {
                 "phone": "910-585-6518",
@@ -105179,6 +105282,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Biscoe",
+                    "state": "NC",
+                    "zip": "27209",
+                    "address": "104 East Main Street",
+                    "phone": "910-325-2234",
+                    "lat": 35.338,
+                    "lng": -79.7551
+                }
             ]
         },
         {
@@ -105197,7 +105311,9 @@
                 "city": "Rocky Mount",
                 "address": "72 Success Ct.",
                 "address2": null,
-                "zip": "27804"
+                "zip": "27804",
+                "lat": 35.9873,
+                "lng": -77.8485
             },
             "contact": {
                 "phone": "252-977-1911",
@@ -105220,7 +105336,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berger-kindberg-law",
@@ -105238,7 +105355,9 @@
                 "city": "Charlotte",
                 "address": "5925 Carnegie Blvd.",
                 "address2": "Suite 200",
-                "zip": "28209"
+                "zip": "28209",
+                "lat": 35.1766,
+                "lng": -80.8526
             },
             "contact": {
                 "phone": "704-900-3816",
@@ -105267,7 +105386,8 @@
                 "Estate Planning",
                 "Mergers and Acquisitions",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buzzard-law-firm",
@@ -105285,7 +105405,9 @@
                 "city": "Lillington",
                 "address": "728 S. Main St.",
                 "address2": null,
-                "zip": "27546"
+                "zip": "27546",
+                "lat": 35.3452,
+                "lng": -78.8682
             },
             "contact": {
                 "phone": "910-808-4069",
@@ -105315,7 +105437,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "betz-law-pllc",
@@ -105333,7 +105456,9 @@
                 "city": "Charlotte",
                 "address": "615 South College Street",
                 "address2": "9th Floor",
-                "zip": "28202"
+                "zip": "28202",
+                "lat": 35.2276,
+                "lng": -80.8438
             },
             "contact": {
                 "phone": "704-954-8742",
@@ -105367,7 +105492,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Securities"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stubbs-cole-breedlove-prentis-biggs-p-l-l-c",
@@ -105385,7 +105511,9 @@
                 "city": "Durham",
                 "address": "4 Consultant Pl",
                 "address2": null,
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "919-682-9331",
@@ -105420,7 +105548,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "billick-rogers-family-law",
@@ -105438,7 +105567,9 @@
                 "city": "Concord",
                 "address": "404 Penny Lane NE",
                 "address2": null,
-                "zip": "28025"
+                "zip": "28025",
+                "lat": 35.3782,
+                "lng": -80.5243
             },
             "contact": {
                 "phone": "704-788-3262",
@@ -105460,7 +105591,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitley-law-firm-injury-lawyers",
@@ -105478,7 +105610,9 @@
                 "city": "Raleigh",
                 "address": "1000 Social St",
                 "address2": "Suite 200",
-                "zip": "27609"
+                "zip": "27609",
+                "lat": 35.8427,
+                "lng": -78.6319
             },
             "contact": {
                 "phone": "919-926-9100",
@@ -105507,6 +105641,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cary",
+                    "state": "NC",
+                    "zip": "27511",
+                    "address": "103 Kilmayne Dr, Suite A-2",
+                    "phone": "919-926-9100",
+                    "lat": 35.7596,
+                    "lng": -78.7795
+                }
             ]
         },
         {
@@ -105525,7 +105670,9 @@
                 "city": "Raleigh",
                 "address": "The Historic Briggs Hardware Building",
                 "address2": "220 Fayetteville Street, Suite 300",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "919-755-0025",
@@ -105570,6 +105717,17 @@
                 "Personal Injury",
                 "State Local and Municipal Law",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27603",
+                    "address": "721 W. Morgan St.",
+                    "phone": "919-834-4300",
+                    "lat": 35.6837,
+                    "lng": -78.6641
+                }
             ]
         },
         {
@@ -105588,7 +105746,9 @@
                 "city": "Raleigh",
                 "address": "3737 Glenwood Ave #100",
                 "address2": null,
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "866-466-0929",
@@ -105624,6 +105784,35 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Winston-Salem",
+                    "state": "NC",
+                    "zip": "27103",
+                    "address": "1373 Westgate Center Drive, Suite A",
+                    "phone": "866-466-0929",
+                    "lat": 36.0536,
+                    "lng": -80.3177
+                },
+                {
+                    "city": "Rock Hill",
+                    "state": "SC",
+                    "zip": "29732",
+                    "address": "410 S. Herlong Ave, Suite 102",
+                    "phone": "866-466-0929",
+                    "lat": 34.9659,
+                    "lng": -81.0776
+                },
+                {
+                    "city": "Jonesborough",
+                    "state": "TN",
+                    "zip": "37659",
+                    "address": "132 Boone Street, Suite 7",
+                    "phone": "866-466-0929",
+                    "lat": 36.2856,
+                    "lng": -82.4729
+                }
             ]
         },
         {
@@ -105642,7 +105831,9 @@
                 "city": "Asheville",
                 "address": "67 Charlotte Street",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-600-7634",
@@ -105668,6 +105859,17 @@
                 "Consumer Protection",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waynesville",
+                    "state": "NC",
+                    "zip": "28786",
+                    "address": "1433 South Main Street",
+                    "phone": "828-456-4800",
+                    "lat": 35.4501,
+                    "lng": -82.9788
+                }
             ]
         },
         {
@@ -105686,7 +105888,9 @@
                 "city": "Greenville",
                 "address": "1605 West Arlington Blvd",
                 "address2": "Suite 100",
-                "zip": "27834"
+                "zip": "27834",
+                "lat": 35.6631,
+                "lng": -77.3691
             },
             "contact": {
                 "phone": "252-787-4646",
@@ -105722,7 +105926,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hardee-massey-blodgett-llp",
@@ -105740,7 +105945,9 @@
                 "city": "Greenville",
                 "address": "202 E Arlington Blvd",
                 "address2": "Suite W",
-                "zip": "27858"
+                "zip": "27858",
+                "lat": 35.5238,
+                "lng": -77.2883
             },
             "contact": {
                 "phone": "252-557-9515",
@@ -105773,7 +105980,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ricci-law-firm-injury-lawyers",
@@ -105791,7 +105999,9 @@
                 "city": "Greenville",
                 "address": "2221 Stantonsburg Rd",
                 "address2": null,
-                "zip": "27834"
+                "zip": "27834",
+                "lat": 35.6631,
+                "lng": -77.3691
             },
             "contact": {
                 "phone": "252-594-5745",
@@ -105829,6 +106039,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greenville",
+                    "state": "NC",
+                    "zip": "27858",
+                    "address": "3208 Charles Blvd",
+                    "phone": "252-594-5745",
+                    "lat": 35.5238,
+                    "lng": -77.2883
+                }
             ]
         },
         {
@@ -105847,7 +106068,9 @@
                 "city": "Raleigh",
                 "address": "7 N Bloodworth St",
                 "address2": null,
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": null,
@@ -105860,7 +106083,8 @@
             "attorneys": [
                 "Andrea M. Bosquez-Porter"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "r-steve-bowden-associates",
@@ -105878,7 +106102,9 @@
                 "city": "Greensboro",
                 "address": "806 Summit Avenue",
                 "address2": null,
-                "zip": "27405"
+                "zip": "27405",
+                "lat": 36.1154,
+                "lng": -79.7382
             },
             "contact": {
                 "phone": "336-975-9461",
@@ -105918,7 +106144,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thurman-wilson-boutwell-galvin-p-a",
@@ -105936,7 +106163,9 @@
                 "city": "Charlotte",
                 "address": "301 S McDowell",
                 "address2": "St #608",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-312-8882",
@@ -105973,7 +106202,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bull-reinhardt-pllc",
@@ -105991,7 +106221,9 @@
                 "city": "Asheville",
                 "address": "160 E. Chestnut Street",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-254-0499",
@@ -106016,7 +106248,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kevin-r-brackett",
@@ -106034,7 +106267,9 @@
                 "city": "Greensboro",
                 "address": "620 Green Valley Road",
                 "address2": "Suite 303",
-                "zip": "27408"
+                "zip": "27408",
+                "lat": 36.1024,
+                "lng": -79.8154
             },
             "contact": {
                 "phone": "336-273-8595",
@@ -106063,7 +106298,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "combs-law-firm-pllc-winston",
@@ -106081,7 +106317,9 @@
                 "city": "Winston-Salem",
                 "address": "1 North Marshall Street",
                 "address2": "Suite 100",
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-276-0561",
@@ -106111,7 +106349,8 @@
                 "Business and Commercial Law",
                 "Criminal Defense",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bramble-bramble-pa",
@@ -106129,7 +106368,9 @@
                 "city": "Washington",
                 "address": "100 East Main Street",
                 "address2": null,
-                "zip": "27889"
+                "zip": "27889",
+                "lat": 35.5965,
+                "lng": -77.0063
             },
             "contact": {
                 "phone": "888-490-2108",
@@ -106149,7 +106390,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "breeden-law-office",
@@ -106167,7 +106409,9 @@
                 "city": "Raleigh",
                 "address": "891 Washington St",
                 "address2": null,
-                "zip": "27605"
+                "zip": "27605",
+                "lat": 35.7904,
+                "lng": -78.6528
             },
             "contact": {
                 "phone": "919-756-6970",
@@ -106194,6 +106438,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Garner",
+                    "state": "NC",
+                    "zip": "27529",
+                    "address": "283 D Glen Rd",
+                    "phone": "919-373-2079",
+                    "lat": 35.6466,
+                    "lng": -78.5757
+                }
             ]
         },
         {
@@ -106212,7 +106467,9 @@
                 "city": "Charlotte",
                 "address": "14835 Ballantyne Village Way #225",
                 "address2": null,
-                "zip": "28277"
+                "zip": "28277",
+                "lat": 35.0508,
+                "lng": -80.8221
             },
             "contact": {
                 "phone": "704-318-2185",
@@ -106249,7 +106506,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bridgman-gantt-law",
@@ -106267,7 +106525,9 @@
                 "city": "Charlotte",
                 "address": "2125 Southend Drive",
                 "address2": "Suite 453",
-                "zip": "28203"
+                "zip": "28203",
+                "lat": 35.2085,
+                "lng": -80.8581
             },
             "contact": {
                 "phone": "828-786-9057",
@@ -106304,6 +106564,26 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbia",
+                    "state": "SC",
+                    "zip": "29206",
+                    "address": "5111 Trenholm Rd., Suite 200",
+                    "phone": "+18287869057",
+                    "lat": 34.0254,
+                    "lng": -80.949
+                },
+                {
+                    "city": "Greensboro",
+                    "state": "NC",
+                    "zip": "27408",
+                    "address": "2309 West Cone Blvd., Suite 150F",
+                    "phone": "+18287869057",
+                    "lat": 36.1024,
+                    "lng": -79.8154
+                }
             ]
         },
         {
@@ -106322,7 +106602,9 @@
                 "city": "Greensboro",
                 "address": "517 Simpson Street",
                 "address2": null,
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-975-9995",
@@ -106351,6 +106633,17 @@
                 "Litigation and Appeals",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Burlington",
+                    "state": "NC",
+                    "zip": "27215",
+                    "address": "154 Huffman Mill Road, Suite 104",
+                    "phone": "+13369759176",
+                    "lat": 36.0287,
+                    "lng": -79.4972
+                }
             ]
         },
         {
@@ -106369,7 +106662,9 @@
                 "city": "Greenville",
                 "address": "410 W 14th St",
                 "address2": "Suite D",
-                "zip": "27834"
+                "zip": "27834",
+                "lat": 35.6631,
+                "lng": -77.3691
             },
             "contact": {
                 "phone": "252-557-9729",
@@ -106390,7 +106685,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "benson-brown-faucher-pllc",
@@ -106408,7 +106704,9 @@
                 "city": "Greensboro",
                 "address": "822 North Elm Street",
                 "address2": "Suite 200",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-478-6000",
@@ -106432,7 +106730,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "disability-attorney-services",
@@ -106450,7 +106749,9 @@
                 "city": "Charlotte",
                 "address": "6000 Fairview Rd.",
                 "address2": "SouthPark Towers, Suite 1200",
-                "zip": "28210"
+                "zip": "28210",
+                "lat": 35.131,
+                "lng": -80.8512
             },
             "contact": {
                 "phone": "888-683-8437",
@@ -106476,6 +106777,17 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Asheville",
+                    "state": "NC",
+                    "zip": "28803",
+                    "address": "28 Schenck Parkway",
+                    "phone": "866-952-4628",
+                    "lat": 35.532,
+                    "lng": -82.5227
+                }
             ]
         },
         {
@@ -106494,7 +106806,9 @@
                 "city": "Charlotte",
                 "address": "7300 Carmel Executive Park Drive",
                 "address2": "Suite 300",
-                "zip": "28226"
+                "zip": "28226",
+                "lat": 35.1068,
+                "lng": -80.8292
             },
             "contact": {
                 "phone": "888-885-9092",
@@ -106532,6 +106846,17 @@
                 "Litigation and Appeals",
                 "Mergers and Acquisitions",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mount Pleasant",
+                    "state": "SC",
+                    "zip": "29464",
+                    "address": "677 Oak Marsh Drive",
+                    "phone": "843-647-7022",
+                    "lat": 32.8215,
+                    "lng": -79.8524
+                }
             ]
         },
         {
@@ -106550,7 +106875,9 @@
                 "city": "Lincolnton",
                 "address": "210 East Main Street",
                 "address2": null,
-                "zip": "28092"
+                "zip": "28092",
+                "lat": 35.4805,
+                "lng": -81.2502
             },
             "contact": {
                 "phone": "704-666-1210",
@@ -106594,6 +106921,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "NC",
+                    "zip": "28037",
+                    "address": "1258 NC-16 Business Highway",
+                    "phone": "704-859-8737",
+                    "lat": 35.5073,
+                    "lng": -81.0372
+                }
             ]
         },
         {
@@ -106612,7 +106950,9 @@
                 "city": "Graham",
                 "address": "114C S Maple St",
                 "address2": null,
-                "zip": "27253"
+                "zip": "27253",
+                "lat": 35.9673,
+                "lng": -79.3357
             },
             "contact": {
                 "phone": "336-270-9964",
@@ -106649,7 +106989,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "king-latham-law-pllc",
@@ -106667,7 +107008,9 @@
                 "city": "Winston Salem",
                 "address": "301 North Main Street",
                 "address2": "Suite 2605",
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-419-1151",
@@ -106698,7 +107041,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harbinson-brzykcy",
@@ -106716,7 +107060,9 @@
                 "city": "Taylorsville",
                 "address": "70 East Main Avenue",
                 "address2": "P.O. Box 400",
-                "zip": "28681"
+                "zip": "28681",
+                "lat": 35.9165,
+                "lng": -81.2001
             },
             "contact": {
                 "phone": "828-786-2202",
@@ -106758,7 +107104,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bullock-clay-furr-pllc",
@@ -106776,7 +107123,9 @@
                 "city": "Greensboro",
                 "address": "125 S. Elm Street",
                 "address2": "Suite 400",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-975-9895",
@@ -106814,7 +107163,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "butler-quinn-hochman-pllc",
@@ -106832,7 +107182,9 @@
                 "city": "Charlotte",
                 "address": "4801 East Independence Blvd.",
                 "address2": "Suite 700",
-                "zip": "28212"
+                "zip": "28212",
+                "lat": 35.1815,
+                "lng": -80.7478
             },
             "contact": {
                 "phone": "704-800-8744",
@@ -106861,7 +107213,8 @@
                 "Criminal Defense",
                 "Immigration",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "modern-legal",
@@ -106879,7 +107232,9 @@
                 "city": "Charlotte",
                 "address": "6715 Fairview Road",
                 "address2": "Suite A",
-                "zip": "28210"
+                "zip": "28210",
+                "lat": 35.131,
+                "lng": -80.8512
             },
             "contact": {
                 "phone": "704-286-6302",
@@ -106923,6 +107278,17 @@
                 "Family Law",
                 "Father's Rights",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waxhaw",
+                    "state": "NC",
+                    "zip": "28173",
+                    "address": "102 Waxhaw Professional Park Drive, Suite C-600",
+                    "phone": "704-286-6302",
+                    "lat": 34.9259,
+                    "lng": -80.7347
+                }
             ]
         },
         {
@@ -106941,7 +107307,9 @@
                 "city": "Fayetteville",
                 "address": "327 Dick St.",
                 "address2": "Suite 104, P.O. Box 332",
-                "zip": "28302"
+                "zip": "28302",
+                "lat": 35.0527,
+                "lng": -78.8789
             },
             "contact": {
                 "phone": "910-678-0966",
@@ -106966,7 +107334,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lanier-fountain-ceruzzi",
@@ -106984,7 +107353,9 @@
                 "city": "Jacksonville",
                 "address": "114 Old Bridge Street",
                 "address2": null,
-                "zip": "28540"
+                "zip": "28540",
+                "lat": 34.7295,
+                "lng": -77.4984
             },
             "contact": {
                 "phone": "910-756-4532",
@@ -107023,6 +107394,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Swansboro",
+                    "state": "NC",
+                    "zip": "28584",
+                    "address": "219 South Water Street",
+                    "phone": "+19107564532",
+                    "lat": 34.74,
+                    "lng": -77.1095
+                }
             ]
         },
         {
@@ -107041,7 +107423,9 @@
                 "city": "Smithfield",
                 "address": "212 South Second Street",
                 "address2": null,
-                "zip": "27577"
+                "zip": "27577",
+                "lat": 35.4808,
+                "lng": -78.3491
             },
             "contact": {
                 "phone": "919-934-1149",
@@ -107070,7 +107454,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-william-g-causey-jr",
@@ -107088,7 +107473,9 @@
                 "city": "Greensboro",
                 "address": "204 Muirs Chapel Road",
                 "address2": "Suite 100",
-                "zip": "27410"
+                "zip": "27410",
+                "lat": 36.11,
+                "lng": -79.895
             },
             "contact": {
                 "phone": "336-827-2905",
@@ -107119,7 +107506,8 @@
                 "DUI and DWI",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "caudle-spears-p-a",
@@ -107137,7 +107525,9 @@
                 "city": "Charlotte",
                 "address": "121 West Trade Street",
                 "address2": "Suite 2020",
-                "zip": "28202"
+                "zip": "28202",
+                "lat": 35.2276,
+                "lng": -80.8438
             },
             "contact": {
                 "phone": "704-323-7965",
@@ -107187,7 +107577,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "b-joseph-causey-jr",
@@ -107205,7 +107596,9 @@
                 "city": "Shallotte",
                 "address": "Red Apple Professional Park",
                 "address2": "712 Village Road, Suite 201",
-                "zip": "28470"
+                "zip": "28470",
+                "lat": 33.9567,
+                "lng": -78.401
             },
             "contact": {
                 "phone": "910-782-4173",
@@ -107230,7 +107623,8 @@
             "official_practice_area": [
                 "Elder Law",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "epperson-law-group-pllc",
@@ -107248,7 +107642,9 @@
                 "city": "Charlotte",
                 "address": "10851 Sikes Place",
                 "address2": null,
-                "zip": "28277"
+                "zip": "28277",
+                "lat": 35.0508,
+                "lng": -80.8221
             },
             "contact": {
                 "phone": "704-741-3731",
@@ -107275,6 +107671,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Weddington",
+                    "state": "NC",
+                    "zip": "28104",
+                    "address": "1940 Weddington Rd.",
+                    "phone": "704-741-3844",
+                    "lat": 35.0742,
+                    "lng": -80.6869
+                }
             ]
         },
         {
@@ -107293,7 +107700,9 @@
                 "city": "Statesville",
                 "address": "129 North Green Street",
                 "address2": null,
-                "zip": "28677"
+                "zip": "28677",
+                "lat": 35.7229,
+                "lng": -80.9098
             },
             "contact": {
                 "phone": "888-397-7618",
@@ -107315,7 +107724,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clifford-and-harris-trial-lawyers",
@@ -107333,7 +107743,9 @@
                 "city": "Greensboro",
                 "address": "415 West Friendly Avenue",
                 "address2": null,
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-645-8392",
@@ -107374,7 +107786,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hensley-cloninger-greer-p-c",
@@ -107392,7 +107805,9 @@
                 "city": "Asheville",
                 "address": "366 Merrimon Avenue",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-585-6558",
@@ -107422,7 +107837,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coalter-law-pllc",
@@ -107440,7 +107856,9 @@
                 "city": "Greensboro",
                 "address": "910 North Elm Street",
                 "address2": "Suite A",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-646-7977",
@@ -107466,7 +107884,8 @@
                 "Federal and White Collar Crimes",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zachary-a-cohen-attorney-at-law",
@@ -107484,7 +107903,9 @@
                 "city": "Monroe",
                 "address": "105-C E. Jefferson St.",
                 "address2": null,
-                "zip": "28112"
+                "zip": "28112",
+                "lat": 34.9018,
+                "lng": -80.5381
             },
             "contact": {
                 "phone": "704-283-9090",
@@ -107507,7 +107928,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coward-hicks-siler-p-a-cashiers",
@@ -107525,7 +107947,9 @@
                 "city": "Cashiers",
                 "address": "211 Cashiers School Road",
                 "address2": null,
-                "zip": "28717"
+                "zip": "28717",
+                "lat": 35.0782,
+                "lng": -83.0937
             },
             "contact": {
                 "phone": "828-743-2401",
@@ -107550,6 +107974,17 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Franklin",
+                    "state": "NC",
+                    "zip": "28734",
+                    "address": "43 W. Main Street",
+                    "phone": "(828) 524-6475",
+                    "lat": 35.1637,
+                    "lng": -83.4339
+                }
             ]
         },
         {
@@ -107568,7 +108003,9 @@
                 "city": "Gastonia",
                 "address": "302 South York Street",
                 "address2": "P.O. Box 2335",
-                "zip": "28053"
+                "zip": "28053",
+                "lat": 35.2616,
+                "lng": -81.1875
             },
             "contact": {
                 "phone": "704-865-1271",
@@ -107592,7 +108029,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coltrane-overfield-pllc",
@@ -107610,7 +108048,9 @@
                 "city": "Greensboro",
                 "address": "106 N. Elm Street",
                 "address2": "Suite 300",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-975-9782",
@@ -107655,7 +108095,8 @@
                 "Father's Rights",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "connors-morgan-pllc",
@@ -107673,7 +108114,9 @@
                 "city": "Greensboro",
                 "address": "1175 Revolution Mill Dr. #8",
                 "address2": null,
-                "zip": "27405"
+                "zip": "27405",
+                "lat": 36.1154,
+                "lng": -79.7382
             },
             "contact": {
                 "phone": "336-333-7907",
@@ -107698,7 +108141,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-military-justice-center",
@@ -107716,7 +108160,9 @@
                 "city": "Fayetteville",
                 "address": "120 Westlake Road",
                 "address2": "Suite 6",
-                "zip": "28314"
+                "zip": "28314",
+                "lat": 35.0645,
+                "lng": -79.0187
             },
             "contact": {
                 "phone": "910-408-7812",
@@ -107748,7 +108194,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-h-cooke-jr-attorney-at-law",
@@ -107766,7 +108213,9 @@
                 "city": "Fayetteville",
                 "address": "717 Hay Street",
                 "address2": "Second floor",
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-728-4606",
@@ -107800,7 +108249,8 @@
                 "Litigation and Appeals",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cordes-law-pllc",
@@ -107818,7 +108268,9 @@
                 "city": "Charlotte",
                 "address": "1057 E. Morehead Street",
                 "address2": "Suite 120",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-332-3565",
@@ -107844,7 +108296,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-jones-pllc",
@@ -107862,7 +108315,9 @@
                 "city": "Raleigh",
                 "address": "4140 Parklake Avenue",
                 "address2": "Suite 400",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "919-821-0005",
@@ -107923,6 +108378,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Durham",
+                    "state": "NC",
+                    "zip": "27713",
+                    "address": "2530 Meridian Parkway, Suite 300",
+                    "phone": "919-544-3000",
+                    "lat": 35.8857,
+                    "lng": -78.9295
+                }
             ]
         },
         {
@@ -107941,7 +108407,9 @@
                 "city": "Sylva",
                 "address": "705 West Main Street",
                 "address2": null,
-                "zip": "28779"
+                "zip": "28779",
+                "lat": 35.3468,
+                "lng": -83.184
             },
             "contact": {
                 "phone": "828-743-2401",
@@ -107965,6 +108433,17 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Franklin",
+                    "state": "NC",
+                    "zip": "28734",
+                    "address": "43 W. Main Street",
+                    "phone": "(828) 524-6475",
+                    "lat": 35.1637,
+                    "lng": -83.4339
+                }
             ]
         },
         {
@@ -107983,7 +108462,9 @@
                 "city": "Raleigh",
                 "address": "421 Fayetteville Street",
                 "address2": "Suite 1101",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "984-900-8951",
@@ -108009,6 +108490,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fuquay Varina",
+                    "state": "NC",
+                    "zip": "27526",
+                    "address": "105 Raleigh Street",
+                    "phone": "919-586-7072",
+                    "lat": 35.5435,
+                    "lng": -78.8328
+                }
             ]
         },
         {
@@ -108027,7 +108519,9 @@
                 "city": "Franklin",
                 "address": "43 W. Main Street",
                 "address2": null,
-                "zip": "28734"
+                "zip": "28734",
+                "lat": 35.1637,
+                "lng": -83.4339
             },
             "contact": {
                 "phone": "828-524-6475",
@@ -108062,6 +108556,17 @@
                 "Probate",
                 "Real Estate",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sylva",
+                    "state": "NC",
+                    "zip": "28779",
+                    "address": "705 West Main Street",
+                    "phone": "828-743-2401",
+                    "lat": 35.3468,
+                    "lng": -83.184
+                }
             ]
         },
         {
@@ -108080,7 +108585,9 @@
                 "city": "Durham",
                 "address": "3500 Westgate Drive",
                 "address2": "Suite 501",
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "919-769-1963",
@@ -108113,7 +108620,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-crow-law-firm",
@@ -108131,7 +108639,9 @@
                 "city": "Monroe",
                 "address": "315-B North Main Street",
                 "address2": null,
-                "zip": "28112"
+                "zip": "28112",
+                "lat": 34.9018,
+                "lng": -80.5381
             },
             "contact": {
                 "phone": "704-283-1175",
@@ -108155,7 +108665,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-cummings-law-firm-p-a",
@@ -108173,7 +108684,9 @@
                 "city": "Charlotte",
                 "address": "1230 W. Morehead Street",
                 "address2": "Suite 404",
-                "zip": "28208"
+                "zip": "28208",
+                "lat": 35.2359,
+                "lng": -80.9085
             },
             "contact": {
                 "phone": "704-376-2853",
@@ -108196,7 +108709,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cummings-kennedy-law-firm-pllc",
@@ -108214,7 +108728,9 @@
                 "city": "Beaufort",
                 "address": "613 Cedar Street",
                 "address2": "Suite A",
-                "zip": "28516"
+                "zip": "28516",
+                "lat": 34.8911,
+                "lng": -76.5351
             },
             "contact": {
                 "phone": "252-728-1208",
@@ -108237,7 +108753,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hayes-williams-turner-daughtry-p-a",
@@ -108255,7 +108772,9 @@
                 "city": "Dunn",
                 "address": "111 Commerce Drive",
                 "address2": null,
-                "zip": "28334"
+                "zip": "28334",
+                "lat": 35.2771,
+                "lng": -78.5425
             },
             "contact": {
                 "phone": "910-558-1624",
@@ -108311,7 +108830,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "deal-moseley-di-santi-garrett-martin-llp",
@@ -108329,7 +108849,9 @@
                 "city": "Boone",
                 "address": "870 West King Street",
                 "address2": "Suite B",
-                "zip": "28607"
+                "zip": "28607",
+                "lat": 36.225,
+                "lng": -81.6569
             },
             "contact": {
                 "phone": "828-263-4721",
@@ -108371,7 +108893,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mewborn-deselms-attorneys-at-law",
@@ -108389,7 +108912,9 @@
                 "city": "Jacksonville",
                 "address": "829 Gum Branch Rd.",
                 "address2": "Ste. C",
-                "zip": "28540"
+                "zip": "28540",
+                "lat": 34.7295,
+                "lng": -77.4984
             },
             "contact": {
                 "phone": "910-782-4106",
@@ -108467,7 +108992,8 @@
                 "Workers' Compensation",
                 "Wrongful Death",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hiltzheimer-law-office-pllc",
@@ -108485,7 +109011,9 @@
                 "city": "Raleigh",
                 "address": "19 W Hargett St",
                 "address2": "#508",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "919-891-1461",
@@ -108519,6 +109047,17 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Durham",
+                    "state": "NC",
+                    "zip": "27701",
+                    "address": "331 W. Main St., Suite 604",
+                    "phone": "919-891-1461",
+                    "lat": 35.9959,
+                    "lng": -78.9021
+                }
             ]
         },
         {
@@ -108537,7 +109076,9 @@
                 "city": "Asheville",
                 "address": "80 Central Avenue",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-487-8232",
@@ -108570,7 +109111,8 @@
                 "Professional Malpractice",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dow-law-pa",
@@ -108588,7 +109130,9 @@
                 "city": "Asheville",
                 "address": "207 Hillside St.",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-487-8667",
@@ -108615,7 +109159,8 @@
                 "Business and Commercial Law",
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mitchener-law-firm",
@@ -108633,7 +109178,9 @@
                 "city": "Charlotte",
                 "address": "521 E Morehead St",
                 "address2": "Suite 120",
-                "zip": "28202"
+                "zip": "28202",
+                "lat": 35.2276,
+                "lng": -80.8438
             },
             "contact": {
                 "phone": "704-312-5942",
@@ -108657,7 +109204,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-downer-law-firm-p-a",
@@ -108675,7 +109223,9 @@
                 "city": "Charlotte",
                 "address": "1410 W. Morehead St",
                 "address2": "Suite 200",
-                "zip": "28208"
+                "zip": "28208",
+                "lat": 35.2359,
+                "lng": -80.9085
             },
             "contact": {
                 "phone": "704-594-4354",
@@ -108701,7 +109251,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lynch-eatman-l-l-p",
@@ -108719,7 +109270,9 @@
                 "city": "Raleigh",
                 "address": "4130 Parklake Ave",
                 "address2": "Suite 100",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "919-804-8035",
@@ -108759,7 +109312,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "etheridge-hamlett-murray-llp",
@@ -108777,7 +109331,9 @@
                 "city": "Nashville",
                 "address": "212 W. Church St.",
                 "address2": null,
-                "zip": "27856"
+                "zip": "27856",
+                "lat": 36.0205,
+                "lng": -77.9982
             },
             "contact": {
                 "phone": "252-557-9370",
@@ -108813,7 +109369,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nathan-earwood",
@@ -108831,7 +109388,9 @@
                 "city": "Sylva",
                 "address": "461 East Main St",
                 "address2": null,
-                "zip": "28786"
+                "zip": "28786",
+                "lat": 35.4501,
+                "lng": -82.9788
             },
             "contact": {
                 "phone": "828-786-2755",
@@ -108870,7 +109429,8 @@
                 "Federal and White Collar Crimes",
                 "Immigration",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daphne-edwards-divorce-family-law-pc",
@@ -108888,7 +109448,9 @@
                 "city": "Cary",
                 "address": "401 Harrison Oaks Blvd",
                 "address2": "Suite 145",
-                "zip": "27513"
+                "zip": "27513",
+                "lat": 35.8036,
+                "lng": -78.7957
             },
             "contact": {
                 "phone": "919-504-6134",
@@ -108918,7 +109480,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-roberta-l-edwards-p-a",
@@ -108936,7 +109499,9 @@
                 "city": "Rocky Mount",
                 "address": "4117 Sunset Avenue",
                 "address2": null,
-                "zip": "27804"
+                "zip": "27804",
+                "lat": 35.9873,
+                "lng": -77.8485
             },
             "contact": {
                 "phone": "252-937-8813",
@@ -108954,6 +109519,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warrenton",
+                    "state": "NC",
+                    "zip": "27589",
+                    "address": "219 E. Macon Street",
+                    "phone": "(252) 937-8813",
+                    "lat": 36.3249,
+                    "lng": -78.1356
+                }
             ]
         },
         {
@@ -108972,7 +109548,9 @@
                 "city": "Monroe",
                 "address": "340 West Morgan Street",
                 "address2": null,
-                "zip": "28111"
+                "zip": "28111",
+                "lat": 34.9853,
+                "lng": -80.5498
             },
             "contact": {
                 "phone": "704-761-4030",
@@ -108994,7 +109572,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "elam-rousseaux-pllc",
@@ -109012,7 +109591,9 @@
                 "city": "Charlotte",
                 "address": "128 North McDowell Street",
                 "address2": "Suite A",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-859-8979",
@@ -109038,7 +109619,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kerry-b-everett-attorney-at-law",
@@ -109056,7 +109638,9 @@
                 "city": "Charlotte",
                 "address": "3440 Toringdon Way",
                 "address2": "Ste. 205",
-                "zip": "28277"
+                "zip": "28277",
+                "lat": 35.0508,
+                "lng": -80.8221
             },
             "contact": {
                 "phone": "980-224-4297",
@@ -109078,7 +109662,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "everett-womble-lawrence-llp",
@@ -109096,7 +109681,9 @@
                 "city": "Goldsboro",
                 "address": "203 N. William Street",
                 "address2": null,
-                "zip": "27530"
+                "zip": "27530",
+                "lat": 35.37,
+                "lng": -78.1093
             },
             "contact": {
                 "phone": "919-778-6707",
@@ -109153,7 +109740,8 @@
                 "Tax Law",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hunter-everage",
@@ -109171,7 +109759,9 @@
                 "city": "Charlotte",
                 "address": "5457 Monroe Road",
                 "address2": null,
-                "zip": "28212"
+                "zip": "28212",
+                "lat": 35.1815,
+                "lng": -80.7478
             },
             "contact": {
                 "phone": "704-251-2945",
@@ -109202,6 +109792,35 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "York",
+                    "state": "SC",
+                    "zip": "29745",
+                    "address": "30 N Congress St, Suite 202",
+                    "phone": "704-251-2945",
+                    "lat": 34.9847,
+                    "lng": -81.2047
+                },
+                {
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "23230",
+                    "address": "5206 Markel Road, Suite 200",
+                    "phone": "704-251-2945",
+                    "lat": 37.5866,
+                    "lng": -77.4899
+                },
+                {
+                    "city": "Montgomery",
+                    "state": "AL",
+                    "zip": "36104",
+                    "address": "444 S Hull St",
+                    "phone": "704-251-2945",
+                    "lat": 32.3925,
+                    "lng": -86.3288
+                }
             ]
         },
         {
@@ -109220,7 +109839,9 @@
                 "city": "Charlotte",
                 "address": "4201 Congress St.",
                 "address2": "Suite 110",
-                "zip": "28209"
+                "zip": "28209",
+                "lat": 35.1766,
+                "lng": -80.8526
             },
             "contact": {
                 "phone": "704-900-3883",
@@ -109241,7 +109862,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "raleigh-divorce-law-firm",
@@ -109259,7 +109881,9 @@
                 "city": "Raleigh",
                 "address": "8341 Bandford Way",
                 "address2": "Suite 1",
-                "zip": "27615"
+                "zip": "27615",
+                "lat": 35.9022,
+                "lng": -78.6277
             },
             "contact": {
                 "phone": "919-799-5986",
@@ -109289,7 +109913,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "donna-ambler-davis-pc",
@@ -109307,7 +109932,9 @@
                 "city": "Chapel Hill",
                 "address": "127 Kingston Drive",
                 "address2": "Suite 105B",
-                "zip": "27514"
+                "zip": "27514",
+                "lat": 35.9671,
+                "lng": -79.0409
             },
             "contact": {
                 "phone": "919-933-0950",
@@ -109358,7 +109985,8 @@
                 "Health Care Law",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fitzpatrick-law-firm",
@@ -109376,7 +110004,9 @@
                 "city": "Greenville",
                 "address": "704 Cromwell Drive",
                 "address2": "Suite G",
-                "zip": "27858"
+                "zip": "27858",
+                "lat": 35.5238,
+                "lng": -77.2883
             },
             "contact": {
                 "phone": "252-832-8354",
@@ -109407,7 +110037,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "strauss-attorneys",
@@ -109425,7 +110056,9 @@
                 "city": "Hendersonville",
                 "address": "104 N. Washington St.",
                 "address2": null,
-                "zip": "28739"
+                "zip": "28739",
+                "lat": 35.2526,
+                "lng": -82.5333
             },
             "contact": {
                 "phone": "828-696-1811",
@@ -109456,6 +110089,26 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Landrum",
+                    "state": "SC",
+                    "zip": "29356",
+                    "address": "402 E. Rutherford Street, #1630",
+                    "phone": "828-407-1948",
+                    "lat": 35.1313,
+                    "lng": -82.2515
+                },
+                {
+                    "city": "Asheville",
+                    "state": "NC",
+                    "zip": "28801",
+                    "address": "77 Central Avenue, Suite F",
+                    "phone": "828-608-9401",
+                    "lat": 35.5901,
+                    "lng": -82.5582
+                }
             ]
         },
         {
@@ -109474,7 +110127,9 @@
                 "city": "Jacksonville",
                 "address": "309 New Bridge St.",
                 "address2": null,
-                "zip": "28540"
+                "zip": "28540",
+                "lat": 34.7295,
+                "lng": -77.4984
             },
             "contact": {
                 "phone": "910-938-7191",
@@ -109497,7 +110152,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "price-petho-associates",
@@ -109515,7 +110171,9 @@
                 "city": "Charlotte",
                 "address": "1430 Elizabeth Ave",
                 "address2": null,
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-859-8255",
@@ -109542,6 +110200,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rockingham",
+                    "state": "NC",
+                    "zip": "28379",
+                    "address": "801 E Broad Ave, #17",
+                    "phone": "704-859-8255",
+                    "lat": 34.9298,
+                    "lng": -79.7844
+                }
             ]
         },
         {
@@ -109560,7 +110229,9 @@
                 "city": "Winston-Salem",
                 "address": "3890 Vest Mill Road",
                 "address2": null,
-                "zip": "27103"
+                "zip": "27103",
+                "lat": 36.0536,
+                "lng": -80.3177
             },
             "contact": {
                 "phone": "715-392-3000",
@@ -109586,7 +110257,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "foyles-law-firm-pllc",
@@ -109604,7 +110276,9 @@
                 "city": "Southern Pines",
                 "address": "780A NW Broad Street",
                 "address2": "Suite 100",
-                "zip": "28387"
+                "zip": "28387",
+                "lat": 35.1721,
+                "lng": -79.3895
             },
             "contact": {
                 "phone": "910-421-2326",
@@ -109628,7 +110302,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frasier-griffin-pllc",
@@ -109646,7 +110321,9 @@
                 "city": "Durham",
                 "address": "100 East Parrish St",
                 "address2": "Suite 350",
-                "zip": "27701"
+                "zip": "27701",
+                "lat": 35.9959,
+                "lng": -78.9021
             },
             "contact": {
                 "phone": "919-391-8107",
@@ -109672,6 +110349,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27609",
+                    "address": "4400 Falls of Neuse Road, Suite 102",
+                    "phone": "+19193915283",
+                    "lat": 35.8427,
+                    "lng": -78.6319
+                }
             ]
         },
         {
@@ -109690,7 +110378,9 @@
                 "city": "Monroe",
                 "address": "205 Lancaster Avenue",
                 "address2": null,
-                "zip": "28112"
+                "zip": "28112",
+                "lat": 34.9018,
+                "lng": -80.5381
             },
             "contact": {
                 "phone": "866-890-0672",
@@ -109720,7 +110410,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gps-law-group",
@@ -109738,7 +110429,9 @@
                 "city": "Charlotte",
                 "address": "8210 Univ. Exec. Park Dr.",
                 "address2": "Suite 240",
-                "zip": "28262"
+                "zip": "28262",
+                "lat": 35.3262,
+                "lng": -80.7461
             },
             "contact": {
                 "phone": "704-549-1950",
@@ -109761,7 +110454,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gantt-family-law",
@@ -109779,7 +110473,9 @@
                 "city": "Raleigh",
                 "address": "4917 Waters Edge Dr",
                 "address2": "Suite 235",
-                "zip": "27606"
+                "zip": "27606",
+                "lat": 35.7376,
+                "lng": -78.7212
             },
             "contact": {
                 "phone": "919-737-7161",
@@ -109810,6 +110506,17 @@
                 "Business and Commercial Law",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27615",
+                    "address": "8601 Six Forks Road, Suite 400",
+                    "phone": "919-737-7161",
+                    "lat": 35.9022,
+                    "lng": -78.6277
+                }
             ]
         },
         {
@@ -109828,7 +110535,9 @@
                 "city": "Raleigh",
                 "address": "Glenwood Office Commons",
                 "address2": "3130 Fairhill Drive, Ste. 104",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "877-427-1252",
@@ -109882,7 +110591,8 @@
                 "State Local and Municipal Law",
                 "Toxic Mold",
                 "Toxic Torts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gerber-green-principe-pllc-winston",
@@ -109900,7 +110610,9 @@
                 "city": "Winston-Salem",
                 "address": "210 S. Cherry Street",
                 "address2": "Suite 101",
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-725-6611",
@@ -109928,7 +110640,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "phil-gibbons-law-p-c",
@@ -109946,7 +110659,9 @@
                 "city": "Charlotte",
                 "address": "14045 Ballantyne Corporate Place",
                 "address2": "Ste. 325",
-                "zip": "28277"
+                "zip": "28277",
+                "lat": 35.0508,
+                "lng": -80.8221
             },
             "contact": {
                 "phone": "704-612-0038",
@@ -109973,6 +110688,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28277",
+                    "address": "15720 Brixham Hill Ave, Ste 331",
+                    "phone": "704-612-0038",
+                    "lat": 35.0508,
+                    "lng": -80.8221
+                }
             ]
         },
         {
@@ -109991,7 +110717,9 @@
                 "city": "Durham",
                 "address": "3400 Croasdaile Drive",
                 "address2": "Suite 300",
-                "zip": "27705"
+                "zip": "27705",
+                "lat": 36.0336,
+                "lng": -78.9824
             },
             "contact": {
                 "phone": "919-401-4100",
@@ -110030,6 +110758,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sanford",
+                    "state": "NC",
+                    "zip": "27332",
+                    "address": "140 West Main Street",
+                    "phone": "+19192145987",
+                    "lat": 35.3657,
+                    "lng": -79.1482
+                }
             ]
         },
         {
@@ -110048,7 +110787,9 @@
                 "city": "Charlotte",
                 "address": "205 Regency Executive Park Dr.",
                 "address2": "Suite 510",
-                "zip": "28217"
+                "zip": "28217",
+                "lat": 35.171,
+                "lng": -80.9151
             },
             "contact": {
                 "phone": "704-444-0846",
@@ -110071,7 +110812,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "william-g-goldston-attorney-at-law",
@@ -110089,7 +110831,9 @@
                 "city": "Durham",
                 "address": "123 Orange Street",
                 "address2": null,
-                "zip": "27701"
+                "zip": "27701",
+                "lat": 35.9959,
+                "lng": -78.9021
             },
             "contact": {
                 "phone": "919-688-8856",
@@ -110108,7 +110852,8 @@
             ],
             "official_practice_area": [
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legacy-law-solutions",
@@ -110126,7 +110871,9 @@
                 "city": "Clemmons",
                 "address": "3540 Clemmons Road",
                 "address2": "Suite 133, Mailing Address:, PO Box 1006",
-                "zip": "27012"
+                "zip": "27012",
+                "lat": 36.004,
+                "lng": -80.3714
             },
             "contact": {
                 "phone": "336-967-1992",
@@ -110147,7 +110894,8 @@
             ],
             "official_practice_area": [
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stewart-schmidlin-bullock-gourley-pllc",
@@ -110165,7 +110913,9 @@
                 "city": "Smithfield",
                 "address": "115 South Third Street",
                 "address2": null,
-                "zip": "27577"
+                "zip": "27577",
+                "lat": 35.4808,
+                "lng": -78.3491
             },
             "contact": {
                 "phone": "919-989-8900",
@@ -110192,7 +110942,8 @@
                 "Business and Commercial Law",
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pope-mcmillan-p-a",
@@ -110210,7 +110961,9 @@
                 "city": "Statesville",
                 "address": "113 N. Center Street",
                 "address2": "Suite 200",
-                "zip": "28677"
+                "zip": "28677",
+                "lat": 35.7229,
+                "lng": -80.9098
             },
             "contact": {
                 "phone": "704-873-2131",
@@ -110255,7 +111008,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-george-oliver-pllc",
@@ -110273,7 +111027,9 @@
                 "city": "New Bern",
                 "address": "405 Middle Street",
                 "address2": "P.O. Box 1548",
-                "zip": "28563"
+                "zip": "28563",
+                "lat": 35.1084,
+                "lng": -77.0446
             },
             "contact": {
                 "phone": "252-633-1930",
@@ -110316,7 +111072,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "griffin-law-pllc",
@@ -110334,7 +111091,9 @@
                 "city": "Statesville",
                 "address": "321 N. Center Street",
                 "address2": null,
-                "zip": "28677"
+                "zip": "28677",
+                "lat": 35.7229,
+                "lng": -80.9098
             },
             "contact": {
                 "phone": "704-380-9128",
@@ -110366,7 +111125,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grimes-yeoman-pllc",
@@ -110384,7 +111144,9 @@
                 "city": "Mooresville",
                 "address": "179 Gasoline Alley",
                 "address2": "Suite 102-A",
-                "zip": "28117"
+                "zip": "28117",
+                "lat": 35.5715,
+                "lng": -80.896
             },
             "contact": {
                 "phone": "704-859-8787",
@@ -110413,7 +111175,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stauff-gross-pllc",
@@ -110431,7 +111194,9 @@
                 "city": "Raleigh",
                 "address": "8394 Six Forks Road",
                 "address2": "Suite 104",
-                "zip": "27615"
+                "zip": "27615",
+                "lat": 35.9022,
+                "lng": -78.6277
             },
             "contact": {
                 "phone": "919-891-8812",
@@ -110457,7 +111222,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "guirguis-law-p-a",
@@ -110475,7 +111241,9 @@
                 "city": "Raleigh",
                 "address": "434 Fayetteville Street",
                 "address2": "Suite 2140",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "919-804-8120",
@@ -110512,7 +111280,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hale-law-firm-pc",
@@ -110530,7 +111299,9 @@
                 "city": "Raleigh",
                 "address": "3801 Western Blvd",
                 "address2": "Suite 107",
-                "zip": "27606"
+                "zip": "27606",
+                "lat": 35.7376,
+                "lng": -78.7212
             },
             "contact": {
                 "phone": "919-642-1996",
@@ -110555,7 +111326,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mitchell-associates-law-firm-pllc",
@@ -110573,7 +111345,9 @@
                 "city": "Raleigh",
                 "address": "Suite 102",
                 "address2": "1033 Wade Avenue",
-                "zip": "27605"
+                "zip": "27605",
+                "lat": 35.7904,
+                "lng": -78.6528
             },
             "contact": {
                 "phone": "919-900-4339",
@@ -110593,7 +111367,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "attorney-frank-harper-of-everett-hite-llp",
@@ -110611,7 +111386,9 @@
                 "city": "Greenville",
                 "address": "200 South Washington Street",
                 "address2": null,
-                "zip": "27858"
+                "zip": "27858",
+                "lat": 35.5238,
+                "lng": -77.2883
             },
             "contact": {
                 "phone": "877-290-6948",
@@ -110632,7 +111409,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ranchor-harris-law",
@@ -110650,7 +111428,9 @@
                 "city": "Wake Forest",
                 "address": "1784 Heritage Center Drive",
                 "address2": "Suite 204E",
-                "zip": "27587"
+                "zip": "27587",
+                "lat": 35.9813,
+                "lng": -78.5502
             },
             "contact": {
                 "phone": "919-799-5628",
@@ -110697,7 +111477,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hartzog-law-group-llp",
@@ -110715,7 +111496,9 @@
                 "city": "Raleigh",
                 "address": "2626 Glenwood Ave",
                 "address2": "Suite 305",
-                "zip": "27608"
+                "zip": "27608",
+                "lat": 35.8092,
+                "lng": -78.6452
             },
             "contact": {
                 "phone": "919-670-0338",
@@ -110728,7 +111511,8 @@
             "attorneys": [
                 "Katie Weaver Hartzog"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "hartsoe-associates-p-c-winston",
@@ -110746,7 +111530,9 @@
                 "city": "Winston-Salem",
                 "address": "1068 W. Fourth Street",
                 "address2": null,
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-701-6550",
@@ -110777,6 +111563,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greensboro",
+                    "state": "NC",
+                    "zip": "27408",
+                    "address": "7 Corporate Center Court",
+                    "phone": "336-701-6550",
+                    "lat": 36.1024,
+                    "lng": -79.8154
+                }
             ]
         },
         {
@@ -110795,7 +111592,9 @@
                 "city": "Fayetteville",
                 "address": "230 Green Street",
                 "address2": null,
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-839-0021",
@@ -110822,6 +111621,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raeford",
+                    "state": "NC",
+                    "zip": "28376",
+                    "address": "127 W. Edinborough Ave., P.O. Box 688",
+                    "phone": "910-839-0021",
+                    "lat": 34.9787,
+                    "lng": -79.247
+                }
             ]
         },
         {
@@ -110840,7 +111650,9 @@
                 "city": "Rocky Mount",
                 "address": "3230 Zebulon Road",
                 "address2": "P.O. Box 8256",
-                "zip": "27804"
+                "zip": "27804",
+                "lat": 35.9873,
+                "lng": -77.8485
             },
             "contact": {
                 "phone": "252-231-2362",
@@ -110863,7 +111675,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "north-carolina-estate-planning-fiduciary-law",
@@ -110881,7 +111694,9 @@
                 "city": "Charlotte",
                 "address": "5605 Carnegie Blvd.",
                 "address2": "Suite 420",
-                "zip": "28209"
+                "zip": "28209",
+                "lat": 35.1766,
+                "lng": -80.8526
             },
             "contact": {
                 "phone": "704-899-4485",
@@ -110920,7 +111735,8 @@
                 "Probate",
                 "Tax Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-alan-high-pllc",
@@ -110938,7 +111754,9 @@
                 "city": "Whiteville",
                 "address": "102 Courthouse Square",
                 "address2": null,
-                "zip": "28472"
+                "zip": "28472",
+                "lat": 34.2854,
+                "lng": -78.6376
             },
             "contact": {
                 "phone": "910-558-1884",
@@ -110974,7 +111792,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "holt-longest-wall-moseley-p-l-l-c",
@@ -110992,7 +111811,9 @@
                 "city": "Burlington",
                 "address": "3453 Forestdale Drive",
                 "address2": null,
-                "zip": "27215"
+                "zip": "27215",
+                "lat": 36.0287,
+                "lng": -79.4972
             },
             "contact": {
                 "phone": "336-793-3773",
@@ -111028,7 +111849,8 @@
                 "Real Estate",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hopper-law-office",
@@ -111046,7 +111868,9 @@
                 "city": "Raleigh",
                 "address": "8315 Six Forks Road",
                 "address2": "Suite 103",
-                "zip": "27615"
+                "zip": "27615",
+                "lat": 35.9022,
+                "lng": -78.6277
             },
             "contact": {
                 "phone": "919-769-5439",
@@ -111071,7 +111895,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "horton-mendez-attorneys-at-law-pllc",
@@ -111089,7 +111914,9 @@
                 "city": "Wilmington",
                 "address": "6105 Oleander Dr.",
                 "address2": "Suite 102",
-                "zip": "28403"
+                "zip": "28403",
+                "lat": 34.2219,
+                "lng": -77.8704
             },
             "contact": {
                 "phone": "910-668-8339",
@@ -111125,7 +111952,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "l-howard-law-pllc",
@@ -111143,7 +111971,9 @@
                 "city": "Greensboro",
                 "address": "5415 W Friendly Ave",
                 "address2": "Suite C",
-                "zip": "27410"
+                "zip": "27410",
+                "lat": 36.11,
+                "lng": -79.895
             },
             "contact": {
                 "phone": "336-303-4597",
@@ -111165,7 +111995,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "waple-houk-pllc",
@@ -111183,7 +112014,9 @@
                 "city": "Charlotte",
                 "address": "1212 Kenilworth Avenue",
                 "address2": null,
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-954-8697",
@@ -111214,7 +112047,8 @@
                 "Family Law",
                 "Real Estate",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-tony-huynh-pllc",
@@ -111232,7 +112066,9 @@
                 "city": "Greensboro",
                 "address": "2800 Lawndale Drive",
                 "address2": "Suite 105",
-                "zip": "27408"
+                "zip": "27408",
+                "lat": 36.1024,
+                "lng": -79.8154
             },
             "contact": {
                 "phone": "336-355-8761",
@@ -111256,6 +112092,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "High Point",
+                    "state": "NC",
+                    "zip": "27265",
+                    "address": "2766 NC-68, Suite 109",
+                    "phone": "336-355-8761",
+                    "lat": 36.0119,
+                    "lng": -80.0392
+                }
             ]
         },
         {
@@ -111274,7 +112121,9 @@
                 "city": "Greensboro",
                 "address": "119 North Greene Street",
                 "address2": "Suite 100",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-355-7672",
@@ -111300,7 +112149,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-illikainen-attorneys-counselors-at-law",
@@ -111318,7 +112168,9 @@
                 "city": "Fayetteville",
                 "address": "108 Hay Street",
                 "address2": "Suite 2A",
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-485-5004",
@@ -111340,7 +112192,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "susan-williams-matthews-pllc",
@@ -111358,7 +112211,9 @@
                 "city": "Conover",
                 "address": "210-A First Avenue South",
                 "address2": null,
-                "zip": "28613"
+                "zip": "28613",
+                "lat": 35.741,
+                "lng": -81.2153
             },
             "contact": {
                 "phone": "828-548-3568",
@@ -111384,7 +112239,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "randolph-m-james-p-c-winston",
@@ -111402,7 +112258,9 @@
                 "city": "Winston-Salem",
                 "address": "116 North Spruce Street",
                 "address2": null,
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-794-6194",
@@ -111437,6 +112295,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Sexual Harassment"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oak Island",
+                    "state": "NC",
+                    "zip": "28465",
+                    "address": "8821 East Oak Island Drive, Suite 1",
+                    "phone": "336-794-6194",
+                    "lat": 33.9076,
+                    "lng": -78.1242
+                }
             ]
         },
         {
@@ -111455,7 +112324,9 @@
                 "city": "Hendersonville",
                 "address": "140 3rd Ave E",
                 "address2": null,
-                "zip": "28792"
+                "zip": "28792",
+                "lat": 35.3895,
+                "lng": -82.3809
             },
             "contact": {
                 "phone": "828-786-4283",
@@ -111492,7 +112363,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bagwell-holt-smith-p-a",
@@ -111510,7 +112382,9 @@
                 "city": "Morrisville",
                 "address": "2000 Aerial Center Parkway",
                 "address2": "Suite 110BC",
-                "zip": "27560"
+                "zip": "27560",
+                "lat": 35.862,
+                "lng": -78.8181
             },
             "contact": {
                 "phone": "919-460-2920",
@@ -111551,6 +112425,17 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chapel Hill",
+                    "state": "NC",
+                    "zip": "27514",
+                    "address": "111 Cloister Court, Suite 200",
+                    "phone": "(919) 401-0062",
+                    "lat": 35.9671,
+                    "lng": -79.0409
+                }
             ]
         },
         {
@@ -111569,7 +112454,9 @@
                 "city": "Garner",
                 "address": "Garner/Cleveland Office",
                 "address2": "5842 Hwy 42 West",
-                "zip": "27529"
+                "zip": "27529",
+                "lat": 35.6466,
+                "lng": -78.5757
             },
             "contact": {
                 "phone": "919-300-5081",
@@ -111622,6 +112509,17 @@
                 "Social Security Disability",
                 "Traffic Ticket",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Smithfield",
+                    "state": "NC",
+                    "zip": "27577",
+                    "address": "132 S. 3rd Street, Post Office Box 119",
+                    "phone": "919-300-5081",
+                    "lat": 35.4808,
+                    "lng": -78.3491
+                }
             ]
         },
         {
@@ -111640,7 +112538,9 @@
                 "city": "Hendersonville",
                 "address": "285 East Allen Street",
                 "address2": "P.O. Box 608",
-                "zip": "28792"
+                "zip": "28792",
+                "lat": 35.3895,
+                "lng": -82.3809
             },
             "contact": {
                 "phone": "828-697-4327",
@@ -111661,7 +112561,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kastrati-law",
@@ -111679,7 +112580,9 @@
                 "city": "Graham",
                 "address": "108 W Elm St",
                 "address2": null,
-                "zip": "27253"
+                "zip": "27253",
+                "lat": 35.9673,
+                "lng": -79.3357
             },
             "contact": {
                 "phone": null,
@@ -111692,7 +112595,8 @@
             "attorneys": [
                 "Arlind Kastrati"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "steven-t-meier-pllc-attorneys-at-law",
@@ -111710,7 +112614,9 @@
                 "city": "Charlotte",
                 "address": "1515 South Blvd.",
                 "address2": null,
-                "zip": "28203"
+                "zip": "28203",
+                "lat": 35.2085,
+                "lng": -80.8581
             },
             "contact": {
                 "phone": "704-885-1004",
@@ -111734,7 +112640,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "khan-law-firm",
@@ -111752,7 +112659,9 @@
                 "city": "Reidsville",
                 "address": "502 South Scales Street",
                 "address2": null,
-                "zip": "27320"
+                "zip": "27320",
+                "lat": 36.3419,
+                "lng": -79.6437
             },
             "contact": {
                 "phone": "336-899-0437",
@@ -111783,7 +112692,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-khan-law-offices-pllc",
@@ -111801,7 +112711,9 @@
                 "city": "Monroe",
                 "address": "210 E. Jefferson Street",
                 "address2": null,
-                "zip": "28112"
+                "zip": "28112",
+                "lat": 34.9018,
+                "lng": -80.5381
             },
             "contact": {
                 "phone": "704-954-8781",
@@ -111827,6 +112739,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albemarle",
+                    "state": "NC",
+                    "zip": "28001",
+                    "address": "213 E. Main St.",
+                    "phone": "+17048317197",
+                    "lat": 35.3385,
+                    "lng": -80.21
+                }
             ]
         },
         {
@@ -111845,7 +112768,9 @@
                 "city": "Asheville",
                 "address": "84 Walnut Street",
                 "address2": "Suite 201",
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-255-9881",
@@ -111874,6 +112799,17 @@
                 "Business and Commercial Law",
                 "Contracts",
                 "Debtor and Creditor"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Waynesville",
+                    "state": "NC",
+                    "zip": "28786",
+                    "address": "850 N. Main Street",
+                    "phone": "828-631-1818",
+                    "lat": 35.4501,
+                    "lng": -82.9788
+                }
             ]
         },
         {
@@ -111892,7 +112828,9 @@
                 "city": "Asheville",
                 "address": "8 Magnolia Ave",
                 "address2": "Suite B007",
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-786-2867",
@@ -111919,7 +112857,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rowland-yauger-attorneys-counselors-at-law",
@@ -111937,7 +112876,9 @@
                 "city": "Carthage",
                 "address": "107 Monroe Street",
                 "address2": "P.O. Box 39",
-                "zip": "28327"
+                "zip": "28327",
+                "lat": 35.3546,
+                "lng": -79.4369
             },
             "contact": {
                 "phone": "910-722-9717",
@@ -111983,6 +112924,17 @@
                 "DUI and DWI",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Asheboro",
+                    "state": "NC",
+                    "zip": "27203",
+                    "address": "236 North Cox Street",
+                    "phone": "910-722-9717",
+                    "lat": 35.737,
+                    "lng": -79.7704
+                }
             ]
         },
         {
@@ -112001,7 +112953,9 @@
                 "city": "Charlotte",
                 "address": "1018 East Blvd.",
                 "address2": "Suite 8",
-                "zip": "28203"
+                "zip": "28203",
+                "lat": 35.2085,
+                "lng": -80.8581
             },
             "contact": {
                 "phone": "704-272-1226",
@@ -112034,7 +112988,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "c-roland-krueger-attorney-and-counselor-at-law",
@@ -112052,7 +113007,9 @@
                 "city": "Lexington",
                 "address": "4 William St",
                 "address2": "P.O. Box 1896",
-                "zip": "27292"
+                "zip": "27292",
+                "lat": 35.7323,
+                "lng": -80.1916
             },
             "contact": {
                 "phone": "888-855-6187",
@@ -112079,7 +113036,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lapas-law-offices-pllc",
@@ -112097,7 +113055,9 @@
                 "city": "Goldsboro",
                 "address": "642 N. Spence Avenue",
                 "address2": null,
-                "zip": "27534"
+                "zip": "27534",
+                "lat": 35.3607,
+                "lng": -77.9025
             },
             "contact": {
                 "phone": "919-891-8902",
@@ -112125,7 +113085,8 @@
                 "Bankruptcy",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "langer-law-firm-ticket-defense",
@@ -112143,7 +113104,9 @@
                 "city": "Hendersonville",
                 "address": "244 5th Ave W",
                 "address2": "#300",
-                "zip": "28739"
+                "zip": "28739",
+                "lat": 35.2526,
+                "lng": -82.5333
             },
             "contact": {
                 "phone": "828-490-4442",
@@ -112165,6 +113128,17 @@
             ],
             "official_practice_area": [
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Asheville",
+                    "state": "NC",
+                    "zip": "28801",
+                    "address": "521 College St",
+                    "phone": "828-490-4442",
+                    "lat": 35.5901,
+                    "lng": -82.5582
+                }
             ]
         },
         {
@@ -112183,7 +113157,9 @@
                 "city": "Greensboro",
                 "address": "437 West Friendly Avenue, Suite 134",
                 "address2": null,
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-370-6760",
@@ -112218,7 +113194,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keel-lassiter-pllc",
@@ -112236,7 +113213,9 @@
                 "city": "Rocky Mount",
                 "address": "120 North Franklin St.",
                 "address2": "Suite A",
-                "zip": "27804"
+                "zip": "27804",
+                "lat": 35.9873,
+                "lng": -77.8485
             },
             "contact": {
                 "phone": "252-557-4582",
@@ -112263,7 +113242,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "van-camp-van-o-linda-pllc",
@@ -112281,7 +113261,9 @@
                 "city": "Pinehurst",
                 "address": "90 Cherokee Road",
                 "address2": "Third Floor Suite",
-                "zip": "28374"
+                "zip": "28374",
+                "lat": 35.2029,
+                "lng": -79.4609
             },
             "contact": {
                 "phone": "910-295-4000",
@@ -112311,7 +113293,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lucas-lucas-p-a",
@@ -112329,7 +113312,9 @@
                 "city": "Kenly",
                 "address": "209 W. Second St.",
                 "address2": "PO Box 910",
-                "zip": "27542"
+                "zip": "27542",
+                "lat": 35.6129,
+                "lng": -78.1505
             },
             "contact": {
                 "phone": "919-371-4325",
@@ -112357,6 +113342,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wilson",
+                    "state": "NC",
+                    "zip": "27893",
+                    "address": "2505-A Nash Street NE",
+                    "phone": "919-371-4325",
+                    "lat": 35.6775,
+                    "lng": -77.9125
+                }
             ]
         },
         {
@@ -112375,7 +113371,9 @@
                 "city": "Charlotte",
                 "address": "301 S McDowell St",
                 "address2": "Suite 900",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-599-1078",
@@ -112406,6 +113404,17 @@
                 "Personal Injury",
                 "Social Security",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greensboro",
+                    "state": "NC",
+                    "zip": "27401",
+                    "address": "300 N. Greene Street, Suite 805",
+                    "phone": "336-665-7072",
+                    "lat": 36.0719,
+                    "lng": -79.7693
+                }
             ]
         },
         {
@@ -112424,7 +113433,9 @@
                 "city": "Wilmington",
                 "address": "514 Princess Street",
                 "address2": null,
-                "zip": "28401"
+                "zip": "28401",
+                "lat": 34.2659,
+                "lng": -77.9697
             },
             "contact": {
                 "phone": "910-763-8106",
@@ -112494,7 +113505,8 @@
                 "Same Sex",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-sasser-law-firm-p-a",
@@ -112512,7 +113524,9 @@
                 "city": "Charlotte",
                 "address": "1011 East Morehead Street",
                 "address2": "Suite 350",
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-315-2584",
@@ -112573,7 +113587,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hedrick-murray-bryson-kennett-mauch",
@@ -112591,7 +113606,9 @@
                 "city": "Durham",
                 "address": "3100 Tower Boulevard",
                 "address2": "Suite 925",
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "919-419-3300",
@@ -112616,7 +113633,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maurer-law",
@@ -112634,7 +113652,9 @@
                 "city": "Cornelius",
                 "address": "19720 Jetton Rd",
                 "address2": "Ste 300-M",
-                "zip": "28031"
+                "zip": "28031",
+                "lat": 35.4708,
+                "lng": -80.8862
             },
             "contact": {
                 "phone": "704-469-1462",
@@ -112671,6 +113691,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cary",
+                    "state": "NC",
+                    "zip": "27513",
+                    "address": "2401 Weston Pkwy, #103-B",
+                    "phone": "+17045339632",
+                    "lat": 35.8036,
+                    "lng": -78.7957
+                }
             ]
         },
         {
@@ -112689,7 +113720,9 @@
                 "city": "New Bern",
                 "address": "2002 Trent Blvd.",
                 "address2": null,
-                "zip": "28560"
+                "zip": "28560",
+                "lat": 35.0992,
+                "lng": -76.9819
             },
             "contact": {
                 "phone": "252-504-4158",
@@ -112733,6 +113766,17 @@
                 "Military",
                 "Personal Injury",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Beaufort",
+                    "state": "NC",
+                    "zip": "28516",
+                    "address": "306 Cedar St.",
+                    "phone": "252-504-4158",
+                    "lat": 34.8911,
+                    "lng": -76.5351
+                }
             ]
         },
         {
@@ -112751,7 +113795,9 @@
                 "city": "Durham",
                 "address": "3518 Westgate Drive",
                 "address2": "Suite 425",
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "984-375-8131",
@@ -112779,7 +113825,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Veteran's Benefits"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcpherson-mills",
@@ -112797,7 +113844,9 @@
                 "city": "High Point",
                 "address": "405 W. Westwood",
                 "address2": null,
-                "zip": "27262"
+                "zip": "27262",
+                "lat": 35.9534,
+                "lng": -80.0443
             },
             "contact": {
                 "phone": "336-652-5259",
@@ -112825,7 +113874,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-melvin-law-firm",
@@ -112843,7 +113893,9 @@
                 "city": "Greenville",
                 "address": "650 Lynndale Ct.",
                 "address2": null,
-                "zip": "27858"
+                "zip": "27858",
+                "lat": 35.5238,
+                "lng": -77.2883
             },
             "contact": {
                 "phone": "877-376-0779",
@@ -112873,7 +113925,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mitchell-suhr-pllc",
@@ -112891,7 +113944,9 @@
                 "city": "Raleigh",
                 "address": "7200 Falls of Neuse Road",
                 "address2": "Suite 200",
-                "zip": "27609"
+                "zip": "27609",
+                "lat": 35.8427,
+                "lng": -78.6319
             },
             "contact": {
                 "phone": "919-876-4707",
@@ -112911,7 +113966,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "piedmont-eastern-litigation",
@@ -112929,7 +113985,9 @@
                 "city": "Raleigh",
                 "address": "5100 Oak Park Road",
                 "address2": "STE 200",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "919-214-9967",
@@ -112957,7 +114015,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tickle-law-office-pllc",
@@ -112975,7 +114034,9 @@
                 "city": "Louisburg",
                 "address": "105 S. Main Street",
                 "address2": null,
-                "zip": "27549"
+                "zip": "27549",
+                "lat": 36.0829,
+                "lng": -78.2129
             },
             "contact": {
                 "phone": "919-769-1205",
@@ -112998,7 +114059,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "todd-neal-law-pa",
@@ -113016,7 +114078,9 @@
                 "city": "Raleigh",
                 "address": "3301 Atlantic Avenue",
                 "address2": null,
-                "zip": "27604"
+                "zip": "27604",
+                "lat": 35.8169,
+                "lng": -78.5638
             },
             "contact": {
                 "phone": "919-704-7281",
@@ -113045,7 +114109,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heather-d-miller-nichols-pa",
@@ -113063,7 +114128,9 @@
                 "city": "Fayetteville",
                 "address": "108 Hay Street",
                 "address2": "Suite 2A",
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-484-4876",
@@ -113085,7 +114152,8 @@
             "official_practice_area": [
                 "Child Custody",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nichols-law-firm",
@@ -113103,7 +114171,9 @@
                 "city": "Raleigh",
                 "address": "The Professional Building",
                 "address2": "127 West Hargett St., Sixth Floor",
-                "zip": "27601"
+                "zip": "27601",
+                "lat": 35.7752,
+                "lng": -78.6343
             },
             "contact": {
                 "phone": "919-915-0212",
@@ -113129,7 +114199,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nixon-doermann-and-edwards-pllc",
@@ -113147,7 +114218,9 @@
                 "city": "High Point",
                 "address": "210 E. Lexington Ave.",
                 "address2": null,
-                "zip": "27262"
+                "zip": "27262",
+                "lat": 35.9534,
+                "lng": -80.0443
             },
             "contact": {
                 "phone": "336-885-5959",
@@ -113169,7 +114242,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-neal-law-office",
@@ -113187,7 +114261,9 @@
                 "city": "Greensboro",
                 "address": "7 Battleground Court",
                 "address2": "Suite 101",
-                "zip": "27408"
+                "zip": "27408",
+                "lat": 36.1024,
+                "lng": -79.8154
             },
             "contact": {
                 "phone": "336-265-0231",
@@ -113221,7 +114297,8 @@
                 "Personal Injury",
                 "Traffic Ticket",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olson-law-pllc",
@@ -113239,7 +114316,9 @@
                 "city": "Raleigh",
                 "address": "514 Daniels Street",
                 "address2": "#136",
-                "zip": "27605"
+                "zip": "27605",
+                "lat": 35.7904,
+                "lng": -78.6528
             },
             "contact": {
                 "phone": null,
@@ -113252,7 +114331,8 @@
             "attorneys": [
                 "G. Christopher Olson"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-john-drew-warlick-p-a",
@@ -113270,7 +114350,9 @@
                 "city": "Jacksonville",
                 "address": "313 New Bridge Street",
                 "address2": null,
-                "zip": "28540"
+                "zip": "28540",
+                "lat": 34.7295,
+                "lng": -77.4984
             },
             "contact": {
                 "phone": "910-455-7700",
@@ -113294,7 +114376,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stroud-panetti-p-c-winston",
@@ -113312,7 +114395,9 @@
                 "city": "Winston-Salem",
                 "address": "102 West Third Street",
                 "address2": "Suite 650",
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-790-7992",
@@ -113343,7 +114428,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "royster-royster-pllc",
@@ -113361,7 +114447,9 @@
                 "city": "Mount Airy",
                 "address": "851 Marshall Street",
                 "address2": null,
-                "zip": "27030"
+                "zip": "27030",
+                "lat": 36.4585,
+                "lng": -80.6207
             },
             "contact": {
                 "phone": "336-790-7843",
@@ -113391,6 +114479,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pilot Mountain",
+                    "state": "NC",
+                    "zip": "27041",
+                    "address": "110 South Davis Street",
+                    "phone": "336-368-4455",
+                    "lat": 36.4131,
+                    "lng": -80.4728
+                }
             ]
         },
         {
@@ -113409,7 +114508,9 @@
                 "city": "Charlotte",
                 "address": "122 N. McDowell Street",
                 "address2": null,
-                "zip": "28204"
+                "zip": "28204",
+                "lat": 35.2134,
+                "lng": -80.8262
             },
             "contact": {
                 "phone": "704-376-4488",
@@ -113434,7 +114535,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wallace-graham-p-a",
@@ -113452,7 +114554,9 @@
                 "city": "Salisbury",
                 "address": "525 N. Main Street",
                 "address2": null,
-                "zip": "28144"
+                "zip": "28144",
+                "lat": 35.7129,
+                "lng": -80.4442
             },
             "contact": {
                 "phone": "704-633-5244",
@@ -113483,7 +114587,8 @@
             ],
             "official_practice_area": [
                 "Asbestos Mesothelioma"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pendergrass-law-firm-pllc",
@@ -113501,7 +114606,9 @@
                 "city": "Raleigh",
                 "address": "5613 Duraleigh Road",
                 "address2": "Suite 111",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "919-710-8135",
@@ -113524,7 +114631,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-pendleton-law-firm",
@@ -113542,7 +114650,9 @@
                 "city": "Lincolnton",
                 "address": "211 N Academy Street",
                 "address2": null,
-                "zip": "28092"
+                "zip": "28092",
+                "lat": 35.4805,
+                "lng": -81.2502
             },
             "contact": {
                 "phone": "704-666-2368",
@@ -113566,7 +114676,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "watts-phanco-law-group-pllc",
@@ -113584,7 +114695,9 @@
                 "city": "Shallotte",
                 "address": "4617 Main Street",
                 "address2": null,
-                "zip": "28470"
+                "zip": "28470",
+                "lat": 33.9567,
+                "lng": -78.401
             },
             "contact": {
                 "phone": "910-250-9346",
@@ -113631,6 +114744,26 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Leland",
+                    "state": "NC",
+                    "zip": "28451",
+                    "address": "2002 South Baxter Drive",
+                    "phone": "910-250-9346",
+                    "lat": 34.2539,
+                    "lng": -78.1031
+                },
+                {
+                    "city": "Myrtle Beach",
+                    "state": "SC",
+                    "zip": "29577",
+                    "address": "4226 Mayfair Street, Suite 204",
+                    "phone": "910-250-9346",
+                    "lat": 33.6981,
+                    "lng": -78.9033
+                }
             ]
         },
         {
@@ -113649,7 +114782,9 @@
                 "city": "Wilmington",
                 "address": "2004 Eastwood Road",
                 "address2": "Suite 201",
-                "zip": "28403"
+                "zip": "28403",
+                "lat": 34.2219,
+                "lng": -77.8704
             },
             "contact": {
                 "phone": "910-558-1612",
@@ -113713,7 +114848,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "poole-family-law",
@@ -113731,7 +114867,9 @@
                 "city": "Apex",
                 "address": "800 W. Williams Street",
                 "address2": "Suite 231Q",
-                "zip": "27502"
+                "zip": "27502",
+                "lat": 35.7115,
+                "lng": -78.9187
             },
             "contact": {
                 "phone": "919-214-9472",
@@ -113773,7 +114911,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-anita-r-powers",
@@ -113791,7 +114930,9 @@
                 "city": "Wallace",
                 "address": "312 E Hall St",
                 "address2": null,
-                "zip": "28466"
+                "zip": "28466",
+                "lat": 34.7607,
+                "lng": -77.9396
             },
             "contact": {
                 "phone": "910-444-2813",
@@ -113818,7 +114959,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "quay-associates-p-a",
@@ -113836,7 +114978,9 @@
                 "city": "New Bern",
                 "address": "412 Broad Street",
                 "address2": null,
-                "zip": "28560"
+                "zip": "28560",
+                "lat": 35.0992,
+                "lng": -76.9819
             },
             "contact": {
                 "phone": "252-649-0530",
@@ -113869,7 +115013,8 @@
                 "Litigation and Appeals",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ganly-ramer-p-l-l-c",
@@ -113887,7 +115032,9 @@
                 "city": "Asheville",
                 "address": "61 N. Market Street",
                 "address2": null,
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-786-3132",
@@ -113925,7 +115072,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-brent-d-ratchford",
@@ -113943,7 +115091,9 @@
                 "city": "Gastonia",
                 "address": "407 S. York Street",
                 "address2": null,
-                "zip": "28052"
+                "zip": "28052",
+                "lat": 35.2298,
+                "lng": -81.2429
             },
             "contact": {
                 "phone": "704-215-4493",
@@ -113971,7 +115121,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-katlyn-a-reh-pllc",
@@ -113989,7 +115140,9 @@
                 "city": "Charlotte",
                 "address": "525 North Tryon Street",
                 "address2": "Suite 1600, Office 1602",
-                "zip": "28202"
+                "zip": "28202",
+                "lat": 35.2276,
+                "lng": -80.8438
             },
             "contact": {
                 "phone": "704-565-9106",
@@ -114010,7 +115163,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roberts-stevens-p-a",
@@ -114028,7 +115182,9 @@
                 "city": "Asheville",
                 "address": "301 College Street",
                 "address2": "Suite 400, City Centre Building",
-                "zip": "28801"
+                "zip": "28801",
+                "lat": 35.5901,
+                "lng": -82.5582
             },
             "contact": {
                 "phone": "828-252-6600",
@@ -114061,7 +115217,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-richardson-firm-pllc",
@@ -114079,7 +115236,9 @@
                 "city": "Fayetteville",
                 "address": "455 Ramsey Street",
                 "address2": null,
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-488-5050",
@@ -114100,7 +115259,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-zachary-s-rivenbark",
@@ -114118,7 +115278,9 @@
                 "city": "Burgaw",
                 "address": "PO Box 625",
                 "address2": "107 E. Fremont St.",
-                "zip": "28425"
+                "zip": "28425",
+                "lat": 34.5594,
+                "lng": -77.9453
             },
             "contact": {
                 "phone": "910-800-4223",
@@ -114144,7 +115306,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roane-law",
@@ -114162,7 +115325,9 @@
                 "city": "Greensboro",
                 "address": "107 Lindley Road",
                 "address2": null,
-                "zip": "27410"
+                "zip": "27410",
+                "lat": 36.11,
+                "lng": -79.895
             },
             "contact": {
                 "phone": "336-617-6125",
@@ -114191,7 +115356,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "patrick-roberts-law-pllc",
@@ -114209,7 +115375,9 @@
                 "city": "Raleigh",
                 "address": "314 W Millbrook Road",
                 "address2": "Suite 21",
-                "zip": "27609"
+                "zip": "27609",
+                "lat": 35.8427,
+                "lng": -78.6319
             },
             "contact": {
                 "phone": "919-258-2055",
@@ -114242,6 +115410,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cary",
+                    "state": "NC",
+                    "zip": "27518",
+                    "address": "543 Keisler Dr, Suite 202",
+                    "phone": "919-258-2055",
+                    "lat": 35.7338,
+                    "lng": -78.7714
+                }
             ]
         },
         {
@@ -114260,7 +115439,9 @@
                 "city": "Gastonia",
                 "address": "318 S. South St.",
                 "address2": "Suite B2",
-                "zip": "28052"
+                "zip": "28052",
+                "lat": 35.2298,
+                "lng": -81.2429
             },
             "contact": {
                 "phone": "704-303-8058",
@@ -114285,7 +115466,8 @@
                 "Landlord and Tenant",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-mary-leazer-rogers",
@@ -114303,7 +115485,9 @@
                 "city": "Charlotte",
                 "address": "1719 Euclid Avenue",
                 "address2": null,
-                "zip": "28203"
+                "zip": "28203",
+                "lat": 35.2085,
+                "lng": -80.8581
             },
             "contact": {
                 "phone": "980-643-0408",
@@ -114327,7 +115511,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lake-norman-wealth-counsel",
@@ -114345,7 +115530,9 @@
                 "city": "Huntersville",
                 "address": "11330 Vanstory Dr.",
                 "address2": null,
-                "zip": "28078"
+                "zip": "28078",
+                "lat": 35.4002,
+                "lng": -80.8664
             },
             "contact": {
                 "phone": "704-859-8277",
@@ -114373,7 +115560,8 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-salmon-law-firm-llp",
@@ -114391,7 +115579,9 @@
                 "city": "Lillington",
                 "address": "101 E Front St",
                 "address2": null,
-                "zip": "27546"
+                "zip": "27546",
+                "lat": 35.3452,
+                "lng": -78.8682
             },
             "contact": {
                 "phone": "910-984-0001",
@@ -114414,7 +115604,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schwartz-law-firm-p-c",
@@ -114432,7 +115623,9 @@
                 "city": "Charlotte",
                 "address": "SouthPark Towers",
                 "address2": "6100 Fairview Road, Suite 1135",
-                "zip": "28210"
+                "zip": "28210",
+                "lat": 35.131,
+                "lng": -80.8512
             },
             "contact": {
                 "phone": "704-325-6099",
@@ -114457,7 +115650,8 @@
                 "Patents",
                 "Real Estate",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ranee-singleton-pllc",
@@ -114475,7 +115669,9 @@
                 "city": "Washington",
                 "address": "155 North Market Street",
                 "address2": "Suite 203",
-                "zip": "27889"
+                "zip": "27889",
+                "lat": 35.5965,
+                "lng": -77.0063
             },
             "contact": {
                 "phone": "252-946-1944",
@@ -114502,7 +115698,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-b-smith-attorney-at-law",
@@ -114520,7 +115717,9 @@
                 "city": "Greensboro",
                 "address": "100 South Elm Street",
                 "address2": "Suite 520",
-                "zip": "27401"
+                "zip": "27401",
+                "lat": 36.0719,
+                "lng": -79.7693
             },
             "contact": {
                 "phone": "336-646-7984",
@@ -114556,7 +115755,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-west-smith-l-l-p",
@@ -114574,7 +115774,9 @@
                 "city": "Southern Pines",
                 "address": "140 West Vermont Avenue",
                 "address2": "P.O. Box 1140",
-                "zip": "28388"
+                "zip": "28388",
+                "lat": 35.1736,
+                "lng": -79.3925
             },
             "contact": {
                 "phone": "910-693-3411",
@@ -114595,7 +115797,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-sturges-attorneys-at-law",
@@ -114613,7 +115816,9 @@
                 "city": "Louisburg",
                 "address": "101 North Church Street",
                 "address2": "P.O. Drawer 708",
-                "zip": "27549"
+                "zip": "27549",
+                "lat": 36.0829,
+                "lng": -78.2129
             },
             "contact": {
                 "phone": "919-769-5598",
@@ -114669,7 +115874,8 @@
                 "Same Sex",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "white-allen-p-a",
@@ -114687,7 +115893,9 @@
                 "city": "Kinston",
                 "address": "106 South McLewean Street",
                 "address2": "Post Office Box 3169",
-                "zip": "28502"
+                "zip": "28502",
+                "lat": 35.2625,
+                "lng": -77.5817
             },
             "contact": {
                 "phone": "252-527-8000",
@@ -114716,6 +115924,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Snow Hill",
+                    "state": "NC",
+                    "zip": "28580",
+                    "address": "216 North Greene Street",
+                    "phone": "252-527-8000",
+                    "lat": 35.4511,
+                    "lng": -77.656
+                }
             ]
         },
         {
@@ -114734,7 +115953,9 @@
                 "city": "Bolivia",
                 "address": "3490 Old Ocean Highway",
                 "address2": "Unit 3",
-                "zip": "28422"
+                "zip": "28422",
+                "lat": 34.0152,
+                "lng": -78.1692
             },
             "contact": {
                 "phone": "910-945-1444",
@@ -114757,7 +115978,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-sumwalt-group-workers-comp-and-trial-lawyers",
@@ -114775,7 +115997,9 @@
                 "city": "Charlotte",
                 "address": "Post Office Box 31424",
                 "address2": null,
-                "zip": "28231"
+                "zip": "28231",
+                "lat": 35.2267,
+                "lng": -80.8434
             },
             "contact": {
                 "phone": "704-946-8293",
@@ -114803,7 +116027,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tally-tally-attorneys-and-counselors-at-law-pllc",
@@ -114821,7 +116046,9 @@
                 "city": "Fayetteville",
                 "address": "1318 Raeford Road",
                 "address2": "Suite B",
-                "zip": "28305"
+                "zip": "28305",
+                "lat": 35.0563,
+                "lng": -78.9087
             },
             "contact": {
                 "phone": "910-483-4176",
@@ -114843,7 +116070,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "szombatfalvy-law-pllc-durham-family-law-firm",
@@ -114861,7 +116089,9 @@
                 "city": "Durham",
                 "address": "3001 Academy Road",
                 "address2": "Suite 120",
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "919-726-7033",
@@ -114889,7 +116119,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-a-tetreault-p-a",
@@ -114907,7 +116138,9 @@
                 "city": "Smithfield",
                 "address": "229 East Market Street",
                 "address2": "Post Office Box 1028",
-                "zip": "27577"
+                "zip": "27577",
+                "lat": 35.4808,
+                "lng": -78.3491
             },
             "contact": {
                 "phone": "919-934-6670",
@@ -114932,7 +116165,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-thomas-law-firm",
@@ -114950,7 +116184,9 @@
                 "city": "Fayetteville",
                 "address": "304 Mason Street",
                 "address2": null,
-                "zip": "28301"
+                "zip": "28301",
+                "lat": 35.0663,
+                "lng": -78.8893
             },
             "contact": {
                 "phone": "910-223-3044",
@@ -114969,7 +116205,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "surratt-and-thompson-pllc-winston",
@@ -114987,7 +116224,9 @@
                 "city": "Winston-Salem",
                 "address": "210 South Cherry Street",
                 "address2": null,
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-464-7364",
@@ -115017,6 +116256,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Winston-Salem",
+                    "state": "NC",
+                    "zip": "27101",
+                    "address": "860 West Fifth Street",
+                    "phone": "336-725-1304",
+                    "lat": 36.118,
+                    "lng": -80.2004
+                }
             ]
         },
         {
@@ -115035,7 +116285,9 @@
                 "city": "Winston-Salem",
                 "address": "200 West First Street",
                 "address2": null,
-                "zip": "27101"
+                "zip": "27101",
+                "lat": 36.118,
+                "lng": -80.2004
             },
             "contact": {
                 "phone": "336-515-6552",
@@ -115062,7 +116314,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "titsworth-law-offices-p-a",
@@ -115080,7 +116333,9 @@
                 "city": "Cary",
                 "address": "1135 Kildaire Farm Road",
                 "address2": "Suite 301",
-                "zip": "27511"
+                "zip": "27511",
+                "lat": 35.7596,
+                "lng": -78.7795
             },
             "contact": {
                 "phone": "919-297-2372",
@@ -115108,7 +116363,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tortora-family-law",
@@ -115126,7 +116382,9 @@
                 "city": "Raleigh",
                 "address": "620 West Lane Street",
                 "address2": "Suite 101",
-                "zip": "27603"
+                "zip": "27603",
+                "lat": 35.6837,
+                "lng": -78.6641
             },
             "contact": {
                 "phone": "919-914-0882",
@@ -115150,7 +116408,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-vincent-law-firm-p-c",
@@ -115168,7 +116427,9 @@
                 "city": "Southern Shores",
                 "address": "8 Juniper Trail",
                 "address2": null,
-                "zip": "27949"
+                "zip": "27949",
+                "lat": 36.1361,
+                "lng": -75.7294
             },
             "contact": {
                 "phone": "252-557-9967",
@@ -115197,7 +116458,8 @@
                 "Social Security Disability",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "seth-m-woodall-associates-pllc",
@@ -115215,7 +116477,9 @@
                 "city": "Madison",
                 "address": "117 E. Murphy St.",
                 "address2": null,
-                "zip": "27025"
+                "zip": "27025",
+                "lat": 36.3722,
+                "lng": -79.9671
             },
             "contact": {
                 "phone": "336-548-2309",
@@ -115238,6 +116502,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Eden",
+                    "state": "NC",
+                    "zip": "27289",
+                    "address": "640 Fagg Drive",
+                    "phone": "336-623-3138",
+                    "lat": 36.4884,
+                    "lng": -79.7667
+                }
             ]
         },
         {
@@ -115256,7 +116531,9 @@
                 "city": "Durham",
                 "address": "3710 University Drive",
                 "address2": "Suite 110",
-                "zip": "27707"
+                "zip": "27707",
+                "lat": 35.9482,
+                "lng": -78.9555
             },
             "contact": {
                 "phone": "919-916-6000",
@@ -115295,7 +116572,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wickham-law",
@@ -115313,7 +116591,9 @@
                 "city": "Raleigh",
                 "address": "4509 Creedmoor Rd.",
                 "address2": "Suite 201",
-                "zip": "27612"
+                "zip": "27612",
+                "lat": 35.8519,
+                "lng": -78.702
             },
             "contact": {
                 "phone": "919-897-7418",
@@ -115334,7 +116614,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jessica-creech-williams-attorney-pllc",
@@ -115352,7 +116633,9 @@
                 "city": "Rocky Mount",
                 "address": "P.O. Box 8318",
                 "address2": null,
-                "zip": "27804"
+                "zip": "27804",
+                "lat": 35.9873,
+                "lng": -77.8485
             },
             "contact": {
                 "phone": "252-451-1515",
@@ -115374,7 +116657,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-gregory-reynald-williams-pllc",
@@ -115392,7 +116676,9 @@
                 "city": "Durham",
                 "address": "2232 Page Road",
                 "address2": "Suite 203",
-                "zip": "27703"
+                "zip": "27703",
+                "lat": 35.9469,
+                "lng": -78.7941
             },
             "contact": {
                 "phone": "984-377-7042",
@@ -115456,7 +116742,8 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "witt-law-firm-p-a",
@@ -115474,7 +116761,9 @@
                 "city": "Monroe",
                 "address": "110 E Jefferson Street",
                 "address2": null,
-                "zip": "28112"
+                "zip": "28112",
+                "lat": 34.9018,
+                "lng": -80.5381
             },
             "contact": {
                 "phone": "704-493-6851",
@@ -115519,6 +116808,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28204",
+                    "address": "301 S. McDowell Street, Suite 1014",
+                    "phone": "704-493-6851",
+                    "lat": 35.2134,
+                    "lng": -80.8262
+                }
             ]
         },
         {
@@ -115537,7 +116837,9 @@
                 "city": "Charlotte",
                 "address": "2101 Sardis Road North",
                 "address2": "Suite 208",
-                "zip": "28227"
+                "zip": "28227",
+                "lat": 35.1854,
+                "lng": -80.6493
             },
             "contact": {
                 "phone": "704-841-8772",
@@ -115555,7 +116857,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wootton-wootton-p-c",
@@ -115573,7 +116876,9 @@
                 "city": "Durham",
                 "address": "3200 Croasdaile Drive",
                 "address2": "Suite 504",
-                "zip": "27705"
+                "zip": "27705",
+                "lat": 36.0336,
+                "lng": -78.9824
             },
             "contact": {
                 "phone": "919-897-7517",
@@ -115599,6 +116904,17 @@
                 "Bankruptcy",
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Henderson",
+                    "state": "NC",
+                    "zip": "27536",
+                    "address": "1775 Graham Avenue, Suite 104",
+                    "phone": "+19198977735",
+                    "lat": 36.3218,
+                    "lng": -78.4124
+                }
             ]
         }
     ]

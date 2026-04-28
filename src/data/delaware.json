@@ -10414,7 +10414,9 @@
                 "city": "Wilmington",
                 "address": "1201 N. Orange St.",
                 "address2": "Suite 7300",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-268-6263",
@@ -10443,6 +10445,26 @@
                 "Construction",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "zip": "19103",
+                    "address": "1650 Market Street, Suite 3600, 1650 Market Street, Suite 3600",
+                    "phone": "(215) 367-1640",
+                    "lat": 39.9538,
+                    "lng": -75.1763
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10001",
+                    "address": "1250 Broadway, 36th Floor",
+                    "phone": "(212) 970-8600",
+                    "lat": 40.7508,
+                    "lng": -73.9961
+                }
             ]
         },
         {
@@ -10461,7 +10483,9 @@
                 "city": "Wilmington",
                 "address": "Cool Spring Meeting House",
                 "address2": "1106 West Tenth Street",
-                "zip": "19806"
+                "zip": "19806",
+                "lat": 39.7619,
+                "lng": -75.5642
             },
             "contact": {
                 "phone": "302-291-9413",
@@ -10490,7 +10514,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cooper-levenson-p-a",
@@ -10508,7 +10533,9 @@
                 "city": "Bear",
                 "address": "30 Fox Hunt Drive",
                 "address2": "Fox Run Shopping Center, Unit 30",
-                "zip": "19701"
+                "zip": "19701",
+                "lat": 39.5983,
+                "lng": -75.7061
             },
             "contact": {
                 "phone": "302-838-2600",
@@ -10535,6 +10562,44 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cherry Hill",
+                    "state": "NJ",
+                    "zip": "08034",
+                    "address": "1415 Marlton Pike (Route 70) East, Cherry Hill Plaza, Suite 205",
+                    "phone": "(856) 795-9110",
+                    "lat": 39.9071,
+                    "lng": -74.9965
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10111",
+                    "address": "45 Rockefeller Plaza, 20th floor",
+                    "phone": "212-372-7400",
+                    "lat": 40.7592,
+                    "lng": -73.9778
+                },
+                {
+                    "city": "Ft. Laudersale",
+                    "state": "FL",
+                    "zip": "33394",
+                    "address": "500 E. Broward Boulevard, Broward Financial Center, Suite 1710",
+                    "phone": "954-889-1860",
+                    "lat": 26.1214,
+                    "lng": -80.139
+                },
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89102",
+                    "address": "3016 W. Charleston Blvd., Suite 195",
+                    "phone": "(702) 366-1125",
+                    "lat": 36.1427,
+                    "lng": -115.1809
+                }
             ]
         },
         {
@@ -10553,7 +10618,9 @@
                 "city": "Dover",
                 "address": "116 West Water Street",
                 "address2": null,
-                "zip": "19904"
+                "zip": "19904",
+                "lat": 39.1565,
+                "lng": -75.6064
             },
             "contact": {
                 "phone": "302-678-3262",
@@ -10579,7 +10646,18 @@
                 "F. Michael Parkowski",
                 "William J. Walls Jr."
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Rehoboth Beach",
+                    "state": "DE",
+                    "zip": "19971",
+                    "address": "19354C Miller Road",
+                    "phone": "(302) 226-8702",
+                    "lat": 38.6842,
+                    "lng": -75.1078
+                }
+            ]
         },
         {
             "slug": "collins-associates",
@@ -10597,7 +10675,9 @@
                 "city": "Wilmington",
                 "address": "716 North Tatnall Street",
                 "address2": "Suite 300",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-655-4600",
@@ -10625,7 +10705,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schwartz-schwartz-attorneys-at-law-p-a",
@@ -10643,7 +10724,9 @@
                 "city": "Dover",
                 "address": "1140 South State St",
                 "address2": null,
-                "zip": "19901"
+                "zip": "19901",
+                "lat": 39.1576,
+                "lng": -75.494
             },
             "contact": {
                 "phone": "302-216-4498",
@@ -10680,6 +10763,35 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wilmington",
+                    "state": "DE",
+                    "zip": "19801",
+                    "address": "1228 N. King Street",
+                    "phone": "302-281-0791",
+                    "lat": 39.7205,
+                    "lng": -75.5175
+                },
+                {
+                    "city": "Salisbury",
+                    "state": "MD",
+                    "zip": "21801",
+                    "address": "Suite 500-A, 100 East Main Street",
+                    "phone": "410-546-6415",
+                    "lat": 38.376,
+                    "lng": -75.6411
+                },
+                {
+                    "city": "Havertown",
+                    "state": "PA",
+                    "zip": "19083",
+                    "address": "850 West Chester Pike, Suite 205",
+                    "phone": "267-675-7015",
+                    "lat": 39.9763,
+                    "lng": -75.3127
+                }
             ]
         },
         {
@@ -10698,7 +10810,9 @@
                 "city": "Wilmington",
                 "address": "2710 Centerville Road",
                 "address2": "Suite 101",
-                "zip": "19808"
+                "zip": "19808",
+                "lat": 39.7345,
+                "lng": -75.6651
             },
             "contact": {
                 "phone": "302-428-0100",
@@ -10728,7 +10842,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "andres-de-cos-llc",
@@ -10746,7 +10861,9 @@
                 "city": "Wilmington",
                 "address": "5211 West Woodmill Dr",
                 "address2": null,
-                "zip": "19808"
+                "zip": "19808",
+                "lat": 39.7345,
+                "lng": -75.6651
             },
             "contact": {
                 "phone": "302-514-2508",
@@ -10770,7 +10887,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "young-conaway-stargatt-taylor-llp",
@@ -10788,7 +10906,9 @@
                 "city": "Wilmington",
                 "address": "Rodney Square",
                 "address2": "1000 North King Street",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-550-3548",
@@ -10815,7 +10935,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dolan-law-llc",
@@ -10833,7 +10954,9 @@
                 "city": "Wilmington",
                 "address": "232 Philadelphia Pike",
                 "address2": null,
-                "zip": "19809"
+                "zip": "19809",
+                "lat": 39.7662,
+                "lng": -75.488
             },
             "contact": {
                 "phone": "302-504-4954",
@@ -10860,6 +10983,17 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Landenberg",
+                    "state": "PA",
+                    "zip": "19350",
+                    "address": "105 Stonegate  Drive",
+                    "phone": "302-504-4954",
+                    "lat": 39.7709,
+                    "lng": -75.8003
+                }
             ]
         },
         {
@@ -10878,7 +11012,9 @@
                 "city": "Wilmington",
                 "address": "1011 Centre Road",
                 "address2": "Suite 210",
-                "zip": "19805"
+                "zip": "19805",
+                "lat": 39.7471,
+                "lng": -75.5919
             },
             "contact": {
                 "phone": "302-472-8100",
@@ -10908,7 +11044,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "silverman-mcdonald-friedman-attorneys-at-law",
@@ -10926,7 +11063,9 @@
                 "city": "Wilmington",
                 "address": "1010 N. Bancroft Pkwy.",
                 "address2": null,
-                "zip": "19805"
+                "zip": "19805",
+                "lat": 39.7471,
+                "lng": -75.5919
             },
             "contact": {
                 "phone": "302-476-2098",
@@ -10956,6 +11095,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Castle",
+                    "state": "DE",
+                    "zip": "19720",
+                    "address": "182 Christiana Rd.",
+                    "phone": "302-476-2098",
+                    "lat": 39.6382,
+                    "lng": -75.5872
+                }
             ]
         },
         {
@@ -10974,7 +11124,9 @@
                 "city": "Wilmington",
                 "address": "Concord Plaza",
                 "address2": "Springer Building, Suite 203, 3411 Silverside Road",
-                "zip": "19810"
+                "zip": "19810",
+                "lat": 39.8151,
+                "lng": -75.5048
             },
             "contact": {
                 "phone": "302-478-4445",
@@ -10999,6 +11151,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dover",
+                    "state": "DE",
+                    "zip": "19901",
+                    "address": "1044 South State St",
+                    "phone": "(302) 336-7000",
+                    "lat": 39.1576,
+                    "lng": -75.494
+                }
             ]
         },
         {
@@ -11017,7 +11180,9 @@
                 "city": "Wilmington",
                 "address": "1907 Delaware Avenue",
                 "address2": null,
-                "zip": "19806"
+                "zip": "19806",
+                "lat": 39.7619,
+                "lng": -75.5642
             },
             "contact": {
                 "phone": "302-810-0803",
@@ -11054,7 +11219,8 @@
                 "Military",
                 "Military Divorce",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-d-haverly-attorney-at-law",
@@ -11072,7 +11238,9 @@
                 "city": "Wilmington",
                 "address": "Brandywood Plaza",
                 "address2": "2500 Grubb Road, Suite 240-B",
-                "zip": "19810"
+                "zip": "19810",
+                "lat": 39.8151,
+                "lng": -75.5048
             },
             "contact": {
                 "phone": "302-291-3691",
@@ -11094,7 +11262,8 @@
             "official_practice_area": [
                 "Employment Law (Employer)",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "beverly-l-bove-attorney-at-law",
@@ -11112,7 +11281,9 @@
                 "city": "Wilmington",
                 "address": "1020 West 18th Street",
                 "address2": null,
-                "zip": "19802"
+                "zip": "19802",
+                "lat": 39.7572,
+                "lng": -75.5276
             },
             "contact": {
                 "phone": "302-777-3500",
@@ -11139,7 +11310,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-c-heyden-law-office",
@@ -11157,7 +11329,9 @@
                 "city": "Wilmington",
                 "address": "1201 North King Street",
                 "address2": "Suite B",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-416-4695",
@@ -11183,7 +11357,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-nelson",
@@ -11201,7 +11376,9 @@
                 "city": "Wilmington",
                 "address": "1000 North West Street",
                 "address2": "Suite 1200",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-295-5050",
@@ -11232,6 +11409,17 @@
                 "Insurance Law",
                 "Personal Injury",
                 "Premises Liability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "zip": "19109",
+                    "address": "123 South Broad Street, Suite 1820",
+                    "phone": "215-858-8440",
+                    "lat": 39.9495,
+                    "lng": -75.1503
+                }
             ]
         },
         {
@@ -11250,7 +11438,9 @@
                 "city": "Wilmington",
                 "address": "1300 N. Grant Ave.",
                 "address2": "Suite 206",
-                "zip": "19806"
+                "zip": "19806",
+                "lat": 39.7619,
+                "lng": -75.5642
             },
             "contact": {
                 "phone": "302-810-1011",
@@ -11292,6 +11482,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dover",
+                    "state": "DE",
+                    "zip": "19901",
+                    "address": "970 N. State Street",
+                    "phone": "+13022913004",
+                    "lat": 39.1576,
+                    "lng": -75.494
+                }
             ]
         },
         {
@@ -11310,7 +11511,9 @@
                 "city": "Wilmington",
                 "address": "1225 King Street",
                 "address2": "Suite 802",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-810-1223",
@@ -11338,7 +11541,8 @@
                 "Litigation and Appeals",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-a-macconi-jr-llc",
@@ -11356,7 +11560,9 @@
                 "city": "Wilmington",
                 "address": "900 Philadelphia Pike",
                 "address2": "Suite B",
-                "zip": "19809"
+                "zip": "19809",
+                "lat": 39.7662,
+                "lng": -75.488
             },
             "contact": {
                 "phone": "302-660-0892",
@@ -11375,7 +11581,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mintzer-sarowitz-zeris-ledva-meyers-l-l-p",
@@ -11393,7 +11600,9 @@
                 "city": "Wilmington",
                 "address": "919 North Market Street",
                 "address2": "Suite 200",
-                "zip": "19801"
+                "zip": "19801",
+                "lat": 39.7205,
+                "lng": -75.5175
             },
             "contact": {
                 "phone": "302-655-2181",
@@ -11421,6 +11630,62 @@
             ],
             "official_practice_area": [
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "zip": "19102",
+                    "address": "Centre Square, West Tower, 1500 Market Street, Suite 4100",
+                    "phone": "(215) 735-7200",
+                    "lat": 39.9527,
+                    "lng": -75.1652
+                },
+                {
+                    "city": "Cherry Hill",
+                    "state": "NJ",
+                    "zip": "08003",
+                    "address": "2070 Springdale Road, Suite 400",
+                    "phone": "(856) 616-0700",
+                    "lat": 39.89,
+                    "lng": -74.9736
+                },
+                {
+                    "city": "Towson",
+                    "state": "MD",
+                    "zip": "21286",
+                    "address": "810 Gleneagles Court, Suite 304",
+                    "phone": "(410) 583-8081",
+                    "lat": 39.4146,
+                    "lng": -76.5718
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10006",
+                    "address": "39 Broadway, Suite 950",
+                    "phone": "(212) 968-8300",
+                    "lat": 40.7079,
+                    "lng": -74.0133
+                },
+                {
+                    "city": "Wheeling",
+                    "state": "WV",
+                    "zip": "26003",
+                    "address": "48 Fourteenth Street, Suite 200",
+                    "phone": "(304) 241-2976",
+                    "lat": 40.0688,
+                    "lng": -80.6463
+                },
+                {
+                    "city": "Jacksonville",
+                    "state": "FL",
+                    "zip": "32258",
+                    "address": "6100 Greenland Road, Suite 104",
+                    "phone": "(904) 516-0900",
+                    "lat": 30.1448,
+                    "lng": -81.541
+                }
             ]
         },
         {
@@ -11439,7 +11704,9 @@
                 "city": "Wilmington",
                 "address": "305 North Union Street",
                 "address2": "2nd Floor",
-                "zip": "19805"
+                "zip": "19805",
+                "lat": 39.7471,
+                "lng": -75.5919
             },
             "contact": {
                 "phone": "302-655-4040",
@@ -11467,6 +11734,17 @@
             ],
             "official_practice_area": [
                 "Child Support"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bear",
+                    "state": "DE",
+                    "zip": "19701",
+                    "address": "101 Becks Woods Drive, Suite 105",
+                    "phone": "(302) 834-4040",
+                    "lat": 39.5983,
+                    "lng": -75.7061
+                }
             ]
         },
         {
@@ -11485,7 +11763,9 @@
                 "city": "Wilmington",
                 "address": "2055 Limestone Rd",
                 "address2": "Suite 211",
-                "zip": "19808"
+                "zip": "19808",
+                "lat": 39.7345,
+                "lng": -75.6651
             },
             "contact": {
                 "phone": "302-892-9200",
@@ -11540,6 +11820,17 @@
                 "Sex Crime",
                 "Traffic Ticket",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newark",
+                    "state": "DE",
+                    "zip": "19702",
+                    "address": "1400 Peoples Plaza, Suite 121",
+                    "phone": "302-298-0597",
+                    "lat": 39.6148,
+                    "lng": -75.7091
+                }
             ]
         }
     ]

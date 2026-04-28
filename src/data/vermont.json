@@ -3779,7 +3779,9 @@
                 "city": "Barre",
                 "address": "105 North Main Street",
                 "address2": "Suite 307, Box 5",
-                "zip": "05641"
+                "zip": "05641",
+                "lat": 44.1844,
+                "lng": -72.4476
             },
             "contact": {
                 "phone": null,
@@ -3812,7 +3814,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shillen-mackall-seldon-spicer-fraas",
@@ -3830,7 +3833,9 @@
                 "city": "Woodstock",
                 "address": "21710 Maxham Meadow Way",
                 "address2": "Suite 2A",
-                "zip": "05091"
+                "zip": "05091",
+                "lat": 43.6515,
+                "lng": -72.5696
             },
             "contact": {
                 "phone": "802-455-7646",
@@ -3878,6 +3883,26 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manchester",
+                    "state": "NH",
+                    "zip": "03101",
+                    "address": "500 N. Commercial Street, Suite 502",
+                    "phone": "+18024557051",
+                    "lat": 42.9884,
+                    "lng": -71.4655
+                },
+                {
+                    "city": "Miami",
+                    "state": "FL",
+                    "zip": "33149",
+                    "address": "3301 Rickenbacker Causeway",
+                    "phone": "+18024557051",
+                    "lat": 25.7114,
+                    "lng": -80.1632
+                }
             ]
         },
         {
@@ -3896,7 +3921,9 @@
                 "city": "Rutland",
                 "address": "65 Grove Street",
                 "address2": null,
-                "zip": "05701"
+                "zip": "05701",
+                "lat": 43.639,
+                "lng": -72.9229
             },
             "contact": {
                 "phone": "802-747-0610",
@@ -3919,7 +3946,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-gregory-p-howe",
@@ -3937,7 +3965,9 @@
                 "city": "Newport",
                 "address": "5346 US Route 5",
                 "address2": null,
-                "zip": "05855"
+                "zip": "05855",
+                "lat": 44.9341,
+                "lng": -72.1937
             },
             "contact": {
                 "phone": "802-334-6718",
@@ -3962,7 +3992,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "larson-and-gallivan-law-plc",
@@ -3980,7 +4011,9 @@
                 "city": "Rutland",
                 "address": "128 Merchants Row",
                 "address2": "Suite 405",
-                "zip": "05701"
+                "zip": "05701",
+                "lat": 43.639,
+                "lng": -72.9229
             },
             "contact": {
                 "phone": "802-779-9771",
@@ -3997,7 +4030,8 @@
             "attorneys": [
                 "Tristan Larson"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "catamount-law-pllc",
@@ -4015,7 +4049,9 @@
                 "city": "Hinesburg",
                 "address": "10600 VT RT 116",
                 "address2": "Suite 2",
-                "zip": "05461"
+                "zip": "05461",
+                "lat": 44.3156,
+                "lng": -73.0909
             },
             "contact": {
                 "phone": "802-346-6306",
@@ -4043,7 +4079,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "biggam-fox-skinner-llp",
@@ -4061,7 +4098,9 @@
                 "city": "Montpelier",
                 "address": "535 Stone Cutters Way",
                 "address2": "Suite 204",
-                "zip": "05602"
+                "zip": "05602",
+                "lat": 44.28,
+                "lng": -72.6094
             },
             "contact": {
                 "phone": "802-448-8064",
@@ -4088,6 +4127,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Burlington",
+                    "state": "VT",
+                    "zip": "05401",
+                    "address": "112 Lake Street, Suite 130",
+                    "phone": "802-448-8064",
+                    "lat": 44.4841,
+                    "lng": -73.2479
+                }
             ]
         },
         {
@@ -4106,7 +4156,9 @@
                 "city": "Barre",
                 "address": "172 North Main Street",
                 "address2": "Suite 301",
-                "zip": "05641"
+                "zip": "05641",
+                "lat": 44.1844,
+                "lng": -72.4476
             },
             "contact": {
                 "phone": "802-200-9659",
@@ -4165,7 +4217,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sleigh-law",
@@ -4183,7 +4236,9 @@
                 "city": "St. Johnsbury",
                 "address": "364 Railroad Street",
                 "address2": "Suite E",
-                "zip": "05819"
+                "zip": "05819",
+                "lat": 44.4231,
+                "lng": -71.9689
             },
             "contact": {
                 "phone": "802-748-5176",
@@ -4198,7 +4253,8 @@
             "attorneys": [
                 "David C. Sleigh"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "gordon-e-r-troy-pc",
@@ -4216,7 +4272,9 @@
                 "city": "West Windsor",
                 "address": "183 Highfield Drive",
                 "address2": null,
-                "zip": "05089"
+                "zip": "05089",
+                "lat": 43.4837,
+                "lng": -72.4566
             },
             "contact": {
                 "phone": "802-881-0640",
@@ -4239,7 +4297,8 @@
             ],
             "official_practice_area": [
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stevens-law-office",
@@ -4257,7 +4316,9 @@
                 "city": "Stowe",
                 "address": "127 Mountain Road",
                 "address2": null,
-                "zip": "05672"
+                "zip": "05672",
+                "lat": 44.4808,
+                "lng": -72.7177
             },
             "contact": {
                 "phone": "802-253-8547",
@@ -4296,7 +4357,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

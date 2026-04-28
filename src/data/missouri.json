@@ -79799,7 +79799,9 @@
                 "city": "Webster Groves",
                 "address": "110 E. Lockwood Ave",
                 "address2": null,
-                "zip": "63119"
+                "zip": "63119",
+                "lat": 38.5892,
+                "lng": -90.3466
             },
             "contact": {
                 "phone": "314-742-3982",
@@ -79833,7 +79835,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "case-linden-pc",
@@ -79851,7 +79854,9 @@
                 "city": "Kansas City",
                 "address": "2600 Grand Blvd.",
                 "address2": "Suite 300",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-897-6548",
@@ -79882,7 +79887,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Personal Injury Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "holman-schiavone-llc",
@@ -79900,7 +79906,9 @@
                 "city": "Kansas City",
                 "address": "4600 Madison Avenue",
                 "address2": "Suite 810",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-479-3267",
@@ -79942,7 +79950,8 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "aubuchon-buescher-goodale-llc",
@@ -79960,7 +79969,9 @@
                 "city": "Union",
                 "address": "104 South McKinley",
                 "address2": "Suite B",
-                "zip": "63084"
+                "zip": "63084",
+                "lat": 38.4272,
+                "lng": -91.0043
             },
             "contact": {
                 "phone": "636-234-3172",
@@ -80003,7 +80014,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "long-robinson-llc",
@@ -80021,7 +80033,9 @@
                 "city": "Kansas City",
                 "address": "1800 Baltimore Avenue",
                 "address2": "Suite 500",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-710-3428",
@@ -80054,7 +80068,8 @@
                 "Construction",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-backer-law-firm-llc",
@@ -80072,7 +80087,9 @@
                 "city": "Independence",
                 "address": "14801 East 42nd Street South",
                 "address2": "Suite 100",
-                "zip": "64055"
+                "zip": "64055",
+                "lat": 39.0499,
+                "lng": -94.3976
             },
             "contact": {
                 "phone": "816-399-5219",
@@ -80112,7 +80129,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-baerveldt-boedefeld-llc",
@@ -80130,7 +80148,9 @@
                 "city": "Saint Charles",
                 "address": "820 South Main St",
                 "address2": "Suite 208",
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-444-9637",
@@ -80167,7 +80187,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "albano-richart-welch-bajackson-llc",
@@ -80185,7 +80206,9 @@
                 "city": "Independence",
                 "address": "311 West Kansas Avenue",
                 "address2": null,
-                "zip": "64050"
+                "zip": "64050",
+                "lat": 39.1233,
+                "lng": -94.4117
             },
             "contact": {
                 "phone": "816-533-7673",
@@ -80210,7 +80233,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-worstell-law-firm",
@@ -80228,7 +80252,9 @@
                 "city": "Lee's Summit",
                 "address": "218 NE Tudor Road",
                 "address2": null,
-                "zip": "64086"
+                "zip": "64086",
+                "lat": 38.8985,
+                "lng": -94.2994
             },
             "contact": {
                 "phone": "913-521-3066",
@@ -80251,6 +80277,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Leawood",
+                    "state": "KS",
+                    "zip": "66206",
+                    "address": "10601 Mission Road, Suite 250",
+                    "phone": "+19135213066",
+                    "lat": 38.9585,
+                    "lng": -94.6192
+                }
             ]
         },
         {
@@ -80269,7 +80306,9 @@
                 "city": "St. Louis",
                 "address": "7710 Carondelet Avenue",
                 "address2": "Suite 350",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-987-3967",
@@ -80296,7 +80335,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schuchat-cook-werner",
@@ -80314,7 +80354,9 @@
                 "city": "St. Louis",
                 "address": "555 Washington Avenue",
                 "address2": "Ste. 520",
-                "zip": "63101"
+                "zip": "63101",
+                "lat": 38.6314,
+                "lng": -90.1924
             },
             "contact": {
                 "phone": "314-784-9930",
@@ -80354,7 +80396,8 @@
                 "Election Campaign and Political Law",
                 "Employment Rights",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmidt-basch-llc",
@@ -80372,7 +80415,9 @@
                 "city": "St Louis",
                 "address": "1034 S. Brentwood Blvd.",
                 "address2": "Suite 1555",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-804-6969",
@@ -80416,7 +80461,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-brien-law-firm",
@@ -80434,7 +80480,9 @@
                 "city": "St Louis",
                 "address": "815 Geyer Avenue",
                 "address2": null,
-                "zip": "63104"
+                "zip": "63104",
+                "lat": 38.608,
+                "lng": -90.2128
             },
             "contact": {
                 "phone": "314-254-3038",
@@ -80467,7 +80515,8 @@
                 "Asbestos Mesothelioma",
                 "Personal Injury",
                 "Sexual Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kathryn-l-beeman-attorney-at-law",
@@ -80485,7 +80534,9 @@
                 "city": "Liberty",
                 "address": "100 N. Main, Suite 1-A",
                 "address2": null,
-                "zip": "64068"
+                "zip": "64068",
+                "lat": 39.2677,
+                "lng": -94.3893
             },
             "contact": {
                 "phone": "816-781-4403",
@@ -80504,7 +80555,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dm-injury-law",
@@ -80522,7 +80574,9 @@
                 "city": "Kansas City",
                 "address": "4600 Madison Ave.",
                 "address2": "Suite 1200",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-429-4424",
@@ -80561,6 +80615,44 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Topeka",
+                    "state": "KS",
+                    "zip": "66603",
+                    "address": "534 S. Kansas Ave., Suite 160",
+                    "phone": "+18164294424",
+                    "lat": 39.0557,
+                    "lng": -95.6733
+                },
+                {
+                    "city": "Columbia",
+                    "state": "MO",
+                    "zip": "65203",
+                    "address": "33 East Broadway, Suite 290",
+                    "phone": "+18164294424",
+                    "lat": 38.8814,
+                    "lng": -92.3973
+                },
+                {
+                    "city": "Tulsa",
+                    "state": "OK",
+                    "zip": "74119",
+                    "address": "110 W. 7th St, Suite 1720",
+                    "phone": "+18164294424",
+                    "lat": 36.1418,
+                    "lng": -95.9929
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80207",
+                    "address": "3401 Quebec St., Suite 4060",
+                    "phone": "+18164294424",
+                    "lat": 39.7618,
+                    "lng": -104.9134
+                }
             ]
         },
         {
@@ -80579,7 +80671,9 @@
                 "city": "Kansas City",
                 "address": "926 Cherry Street",
                 "address2": null,
-                "zip": "64106"
+                "zip": "64106",
+                "lat": 39.1062,
+                "lng": -94.5733
             },
             "contact": {
                 "phone": "816-631-8864",
@@ -80605,6 +80699,17 @@
             ],
             "official_practice_area": [
                 "Federal and White Collar Crimes"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Telluride",
+                    "state": "CO",
+                    "zip": "81435",
+                    "address": "618 Mountain Village Blvd., Suite 201",
+                    "phone": "+18166318864",
+                    "lat": 37.9399,
+                    "lng": -107.8617
+                }
             ]
         },
         {
@@ -80623,7 +80728,9 @@
                 "city": "Columbia",
                 "address": "2511 Broadway Bluffs Drive",
                 "address2": "Suite 201",
-                "zip": "65201"
+                "zip": "65201",
+                "lat": 38.8822,
+                "lng": -92.2523
             },
             "contact": {
                 "phone": "573-355-9271",
@@ -80666,7 +80773,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berkowitz-cook-gondring-driskell-drobeck-llc",
@@ -80684,7 +80792,9 @@
                 "city": "Kansas City",
                 "address": "2600 Grand Blvd.",
                 "address2": "Suite 490",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-890-9383",
@@ -80711,7 +80821,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bergmanis-law-firm-l-l-c",
@@ -80729,7 +80840,9 @@
                 "city": "Camdenton",
                 "address": "380 West U.S. Highway 54",
                 "address2": "Suite 201",
-                "zip": "65020"
+                "zip": "65020",
+                "lat": 38.0455,
+                "lng": -92.8027
             },
             "contact": {
                 "phone": "573-948-1422",
@@ -80778,7 +80891,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-bethune-jones-l-l-c",
@@ -80796,7 +80910,9 @@
                 "city": "Kansas City",
                 "address": "City Center Square",
                 "address2": "1100 Main Street, Suite 2930",
-                "zip": "64105"
+                "zip": "64105",
+                "lat": 39.1048,
+                "lng": -94.5949
             },
             "contact": {
                 "phone": "816-643-3674",
@@ -80829,7 +80945,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bishop-hayes",
@@ -80847,7 +80964,9 @@
                 "city": "Joplin",
                 "address": "630 S. Northpark Lane",
                 "address2": null,
-                "zip": "64801"
+                "zip": "64801",
+                "lat": 37.1194,
+                "lng": -94.4968
             },
             "contact": {
                 "phone": "417-222-8937",
@@ -80872,6 +80991,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Miami",
+                    "state": "OK",
+                    "zip": "74354",
+                    "address": "2 N Main Street, #501",
+                    "phone": "+14172228937",
+                    "lat": 36.8785,
+                    "lng": -94.868
+                },
+                {
+                    "city": "Springfield",
+                    "state": "MO",
+                    "zip": "65804",
+                    "address": "1437 E Primrose St",
+                    "phone": "+14172228937",
+                    "lat": 37.1488,
+                    "lng": -93.2554
+                }
             ]
         },
         {
@@ -80890,7 +81029,9 @@
                 "city": "St. Louis",
                 "address": "165 North Meramec Avenue",
                 "address2": "Suite 110",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-727-2266",
@@ -80923,6 +81064,17 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. Charles",
+                    "state": "MO",
+                    "zip": "63303",
+                    "address": "800 Friedens Road, Suite 203",
+                    "phone": "(314) 727-2266",
+                    "lat": 38.7374,
+                    "lng": -90.5325
+                }
             ]
         },
         {
@@ -80941,7 +81093,9 @@
                 "city": "St. Charles",
                 "address": "1603 Boones Lick Road",
                 "address2": null,
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-600-4967",
@@ -80988,7 +81142,8 @@
                 "Sex Crime",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bollwerk-associates-llc",
@@ -81006,7 +81161,9 @@
                 "city": "St. Louis",
                 "address": "12250 Weber Hill Road",
                 "address2": "Suite 125",
-                "zip": "63127"
+                "zip": "63127",
+                "lat": 38.5357,
+                "lng": -90.4081
             },
             "contact": {
                 "phone": "314-315-8111",
@@ -81037,7 +81194,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hein-schneider-bond-p-c",
@@ -81055,7 +81213,9 @@
                 "city": "St. Louis",
                 "address": "2244 S. Brentwood Blvd.",
                 "address2": null,
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-863-9100",
@@ -81105,7 +81265,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcdonald-law-group-p-a",
@@ -81123,7 +81284,9 @@
                 "city": "Kansas City",
                 "address": "4717 Grand Ave",
                 "address2": "Park Central Plaza One, Suite 250",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-579-6551",
@@ -81148,7 +81311,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Personal Injury Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bradley-and-bradley-l-c",
@@ -81166,7 +81330,9 @@
                 "city": "Lexington",
                 "address": "P. O. Box 130",
                 "address2": "105 South 10th Street",
-                "zip": "64067"
+                "zip": "64067",
+                "lat": 39.149,
+                "lng": -93.8389
             },
             "contact": {
                 "phone": "660-259-2288",
@@ -81211,6 +81377,17 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64112",
+                    "address": "800 West 47th Street, Suite 705",
+                    "phone": "816-527-9000",
+                    "lat": 39.0361,
+                    "lng": -94.595
+                }
             ]
         },
         {
@@ -81229,7 +81406,9 @@
                 "city": "Kansas Ctiy",
                 "address": "510 Walnut St",
                 "address2": "Suite 100",
-                "zip": "64106"
+                "zip": "64106",
+                "lat": 39.1062,
+                "lng": -94.5733
             },
             "contact": {
                 "phone": "816-479-3451",
@@ -81272,6 +81451,26 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Parkville",
+                    "state": "MO",
+                    "zip": "64152",
+                    "address": "8600 NW 64th St., #945",
+                    "phone": "+18164793451",
+                    "lat": 39.2176,
+                    "lng": -94.7468
+                },
+                {
+                    "city": "Kansas City",
+                    "state": "KS",
+                    "zip": "66112",
+                    "address": "8040 Parallel Parkway, Suite 112C",
+                    "phone": "+18164793451",
+                    "lat": 39.108,
+                    "lng": -94.7676
+                }
             ]
         },
         {
@@ -81290,7 +81489,9 @@
                 "city": "Fulton",
                 "address": "13 E. 5th Street",
                 "address2": null,
-                "zip": "65251"
+                "zip": "65251",
+                "lat": 38.8259,
+                "lng": -91.9529
             },
             "contact": {
                 "phone": "573-948-2357",
@@ -81327,7 +81528,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "torhoerman-law-llc",
@@ -81345,7 +81547,9 @@
                 "city": "St. Louis",
                 "address": "100 S 4th St",
                 "address2": "Suite 550 - #197",
-                "zip": "63102"
+                "zip": "63102",
+                "lat": 38.6356,
+                "lng": -90.1897
             },
             "contact": {
                 "phone": "618-663-6327",
@@ -81392,6 +81596,26 @@
                 "Toxic Torts",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Clayton",
+                    "state": "MO",
+                    "zip": "63105",
+                    "address": "222 South Central Ave, Suite #1120",
+                    "phone": "+16186636947",
+                    "lat": 38.6453,
+                    "lng": -90.3261
+                },
+                {
+                    "city": "Edwardsville",
+                    "state": "IL",
+                    "zip": "62025",
+                    "address": "210 S Main Street",
+                    "phone": "+16186636947",
+                    "lat": 38.8551,
+                    "lng": -89.9482
+                }
             ]
         },
         {
@@ -81410,7 +81634,9 @@
                 "city": "Springfield",
                 "address": "300 S. John Q. Hammons Parkway",
                 "address2": "Suite 600",
-                "zip": "65806"
+                "zip": "65806",
+                "lat": 37.2061,
+                "lng": -93.3033
             },
             "contact": {
                 "phone": "417-864-4500",
@@ -81448,6 +81674,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbia",
+                    "state": "MO",
+                    "zip": "65201",
+                    "address": "302 Campusview Drive, Suite 204",
+                    "phone": "573-442-0131",
+                    "lat": 38.8822,
+                    "lng": -92.2523
+                }
             ]
         },
         {
@@ -81466,7 +81703,9 @@
                 "city": "Clayton",
                 "address": "7730 Carondelet Ave.",
                 "address2": "Suite 135",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-947-4419",
@@ -81497,7 +81736,8 @@
                 "Consumer Protection",
                 "Lemon Law",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fischer-law-firm-llc",
@@ -81515,7 +81755,9 @@
                 "city": "St. Louis",
                 "address": "1034 S. Brentwood Blvd.",
                 "address2": "Suite 1540",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-675-1598",
@@ -81568,7 +81810,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "deputy-mizell-l-l-c",
@@ -81586,7 +81829,9 @@
                 "city": "Camdenton",
                 "address": "16 Camden Court, N.E.",
                 "address2": "P.O. Box 3319",
-                "zip": "65020"
+                "zip": "65020",
+                "lat": 38.0455,
+                "lng": -92.8027
             },
             "contact": {
                 "phone": "573-346-9990",
@@ -81644,6 +81889,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lebanon",
+                    "state": "MO",
+                    "zip": "65536",
+                    "address": "120 East Second Street",
+                    "phone": "(417) 532-2191",
+                    "lat": 37.7005,
+                    "lng": -92.6416
+                }
             ]
         },
         {
@@ -81662,7 +81918,9 @@
                 "city": "Joplin",
                 "address": "502 S Pearl Street",
                 "address2": null,
-                "zip": "64801"
+                "zip": "64801",
+                "lat": 37.1194,
+                "lng": -94.4968
             },
             "contact": {
                 "phone": "417-622-4348",
@@ -81695,7 +81953,8 @@
                 "Personal Injury",
                 "Probate",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-tracy-a-brown-p-c",
@@ -81713,7 +81972,9 @@
                 "city": "St Louis",
                 "address": "1034 South Brentwood Boulevard",
                 "address2": "Suite 1830",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-644-0303",
@@ -81735,7 +81996,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-t-bryant-associates-p-c",
@@ -81753,7 +82015,9 @@
                 "city": "Kansas City",
                 "address": "1111 Main Street",
                 "address2": "Suite 750",
-                "zip": "64105"
+                "zip": "64105",
+                "lat": 39.1048,
+                "lng": -94.5949
             },
             "contact": {
                 "phone": "816-641-3794",
@@ -81783,7 +82047,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lake-munro-llc",
@@ -81801,7 +82066,9 @@
                 "city": "St Louis",
                 "address": "1650 Des Peres Rd.",
                 "address2": "Suite 220",
-                "zip": "63131"
+                "zip": "63131",
+                "lat": 38.6159,
+                "lng": -90.4456
             },
             "contact": {
                 "phone": "314-701-8712",
@@ -81840,6 +82107,17 @@
                 "Personal Injury",
                 "Probate",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St Charles",
+                    "state": "MO",
+                    "zip": "63301",
+                    "address": "6 Westbury Dr.",
+                    "phone": "+13147018712",
+                    "lat": 38.8568,
+                    "lng": -90.4516
+                }
             ]
         },
         {
@@ -81858,7 +82136,9 @@
                 "city": "Raymore",
                 "address": "401 West Foxwood Drive",
                 "address2": null,
-                "zip": "64083"
+                "zip": "64083",
+                "lat": 38.7959,
+                "lng": -94.436
             },
             "contact": {
                 "phone": "816-892-9603",
@@ -81885,7 +82165,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-l-campbell-law-offices-llc",
@@ -81903,7 +82184,9 @@
                 "city": "Platte City",
                 "address": "351 Main Street",
                 "address2": "Suite 1",
-                "zip": "64079"
+                "zip": "64079",
+                "lat": 39.3732,
+                "lng": -94.7831
             },
             "contact": {
                 "phone": "816-866-8022",
@@ -81925,7 +82208,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-webster-carlton",
@@ -81943,7 +82227,9 @@
                 "city": "Springfield",
                 "address": "2142 West Chesterfield Blvd.",
                 "address2": "Suite E204",
-                "zip": "65807"
+                "zip": "65807",
+                "lat": 37.171,
+                "lng": -93.3319
             },
             "contact": {
                 "phone": "417-357-5928",
@@ -81973,6 +82259,17 @@
                 "Personal Injury",
                 "Railroad Worker Injury and FELA",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Joplin",
+                    "state": "MO",
+                    "zip": "64801",
+                    "address": "602 South Wall Ave.",
+                    "phone": "+14173575928",
+                    "lat": 37.1194,
+                    "lng": -94.4968
+                }
             ]
         },
         {
@@ -81991,7 +82288,9 @@
                 "city": "St. Louis",
                 "address": "1001 Highlands Plaza Dr.",
                 "address2": "Suite 300",
-                "zip": "63110"
+                "zip": "63110",
+                "lat": 38.6266,
+                "lng": -90.2694
             },
             "contact": {
                 "phone": "800-701-8729",
@@ -82035,6 +82334,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64111",
+                    "address": "3145 Broadway",
+                    "phone": "800-701-8729",
+                    "lat": 39.0573,
+                    "lng": -94.5937
+                }
             ]
         },
         {
@@ -82053,7 +82363,9 @@
                 "city": "Kansas City",
                 "address": "2600 Grand Blvd.",
                 "address2": "Suite 560",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-476-4933",
@@ -82079,7 +82391,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hunter-cassidy-law",
@@ -82097,7 +82410,9 @@
                 "city": "Kansas City",
                 "address": "1300 NW Briarcliff Pkwy",
                 "address2": "Suite 120",
-                "zip": "64150"
+                "zip": "64150",
+                "lat": 39.1716,
+                "lng": -94.6314
             },
             "contact": {
                 "phone": "816-692-2926",
@@ -82137,7 +82452,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kayla-s-survivors",
@@ -82155,7 +82471,9 @@
                 "city": "St. Louis",
                 "address": "1401 S Brentwood Blvd",
                 "address2": "#425",
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "800-509-9747",
@@ -82182,6 +82500,53 @@
             ],
             "official_practice_area": [
                 "Sexual Abuse"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60604",
+                    "address": "332 S Michigan Ave #920",
+                    "phone": "(312) 248-4800",
+                    "lat": 41.8771,
+                    "lng": -87.6247
+                },
+                {
+                    "city": "Ann Arbor",
+                    "state": "MI",
+                    "zip": "48105",
+                    "address": "24 Frank Lloyd Wright Dr l 4100",
+                    "phone": "(800) 509-9747",
+                    "lat": 42.3245,
+                    "lng": -83.7143
+                },
+                {
+                    "city": "Jacksonville",
+                    "state": "CA",
+                    "zip": "32258",
+                    "address": "12724 Gran Bay Pkwy #440",
+                    "phone": "(904) 906-8070",
+                    "lat": 30.1448,
+                    "lng": -81.541
+                },
+                {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "zip": "33609",
+                    "address": "4830 W Kennedy Blvd #610",
+                    "phone": "(656) 225-3708",
+                    "lat": 27.9427,
+                    "lng": -82.5237
+                },
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "450 Alaskan Way S, #240",
+                    "phone": "(206) 888-6409",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -82200,7 +82565,9 @@
                 "city": "Kansas City",
                 "address": "1201 NW Briarcliff Pkwy",
                 "address2": "Suite 200",
-                "zip": "64116"
+                "zip": "64116",
+                "lat": 39.1464,
+                "lng": -94.5708
             },
             "contact": {
                 "phone": "816-652-9900",
@@ -82236,7 +82603,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carl-j-civella",
@@ -82254,7 +82622,9 @@
                 "city": "Clayton",
                 "address": "107 S. Meramec Avenue",
                 "address2": null,
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-492-8840",
@@ -82289,7 +82659,8 @@
                 "Federal and White Collar Crimes",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-ron-cleek",
@@ -82307,7 +82678,9 @@
                 "city": "Ozark",
                 "address": "204 S 2nd Ave.",
                 "address2": null,
-                "zip": "65721"
+                "zip": "65721",
+                "lat": 36.9691,
+                "lng": -93.2097
             },
             "contact": {
                 "phone": "417-470-2167",
@@ -82335,7 +82708,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whiteaker-wilson-pc-d-b-a-law-office-of-stuart-p-huffman",
@@ -82353,7 +82727,9 @@
                 "city": "Springfield",
                 "address": "3315 E. Ridgeview",
                 "address2": "Suite 4000",
-                "zip": "65804"
+                "zip": "65804",
+                "lat": 37.1488,
+                "lng": -93.2554
             },
             "contact": {
                 "phone": "417-245-2574",
@@ -82394,7 +82770,8 @@
                 "Traffic Ticket",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brydon-swearengen-england",
@@ -82412,7 +82789,9 @@
                 "city": "Jefferson City",
                 "address": "312 E. Capitol Ave.",
                 "address2": "P.O. Box 456",
-                "zip": "65102"
+                "zip": "65102",
+                "lat": 38.5764,
+                "lng": -92.1736
             },
             "contact": {
                 "phone": "573-635-7166",
@@ -82446,7 +82825,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-julie-r-cooper",
@@ -82464,7 +82844,9 @@
                 "city": "Liberty",
                 "address": "14 S. Main St.",
                 "address2": null,
-                "zip": "64068"
+                "zip": "64068",
+                "lat": 39.2677,
+                "lng": -94.3893
             },
             "contact": {
                 "phone": "816-407-7700",
@@ -82489,7 +82871,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tarry-law-firm-l-l-c",
@@ -82507,7 +82890,9 @@
                 "city": "Cape Girardeau",
                 "address": "815 Independence Street",
                 "address2": null,
-                "zip": "63703"
+                "zip": "63703",
+                "lat": 37.2842,
+                "lng": -89.5461
             },
             "contact": {
                 "phone": "573-651-8644",
@@ -82541,6 +82926,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fredericktown",
+                    "state": "MO",
+                    "zip": "63645",
+                    "address": "129 E. Main St",
+                    "phone": "573-783-5100",
+                    "lat": 37.5363,
+                    "lng": -90.3297
+                }
             ]
         },
         {
@@ -82559,7 +82955,9 @@
                 "city": "Clayton",
                 "address": "130 S. Bemiston Ave.",
                 "address2": "Suite 400",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-675-1065",
@@ -82592,6 +82990,17 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St Charles",
+                    "state": "MO",
+                    "zip": "63301",
+                    "address": "814 1st Capitol Dr.",
+                    "phone": "314-309-2377",
+                    "lat": 38.8568,
+                    "lng": -90.4516
+                }
             ]
         },
         {
@@ -82610,7 +83019,9 @@
                 "city": "Saint Louis",
                 "address": "8820 Ladue Road",
                 "address2": "Suite 203",
-                "zip": "63124"
+                "zip": "63124",
+                "lat": 38.6366,
+                "lng": -90.3769
             },
             "contact": {
                 "phone": "314-991-2925",
@@ -82630,7 +83041,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pettit-cowherd-injury-law",
@@ -82648,7 +83060,9 @@
                 "city": "Monett",
                 "address": "401E Plaza Drive",
                 "address2": null,
-                "zip": "65708"
+                "zip": "65708",
+                "lat": 36.9207,
+                "lng": -93.9465
             },
             "contact": {
                 "phone": "417-235-2300",
@@ -82673,7 +83087,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelly-law-office-p-c",
@@ -82691,7 +83106,9 @@
                 "city": "Liberty",
                 "address": "134 N. Water St.",
                 "address2": null,
-                "zip": "64068"
+                "zip": "64068",
+                "lat": 39.2677,
+                "lng": -94.3893
             },
             "contact": {
                 "phone": "816-479-3200",
@@ -82717,7 +83134,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-wilbers-law-firm-llc",
@@ -82735,7 +83153,9 @@
                 "city": "St. Louis",
                 "address": "130 South Bemiston Ave",
                 "address2": "Suite 302",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-947-4578",
@@ -82761,6 +83181,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jefferson City",
+                    "state": "MO",
+                    "zip": "65101",
+                    "address": "114 E High Street, Suite A",
+                    "phone": "+13149474578",
+                    "lat": 38.4834,
+                    "lng": -92.1239
+                }
             ]
         },
         {
@@ -82779,7 +83210,9 @@
                 "city": "St. Louis",
                 "address": "1401 South Brentwood Boulevard",
                 "address2": "Suite 500",
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-248-9786",
@@ -82805,7 +83238,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "growe-eisen-karlen-eilerts",
@@ -82823,7 +83257,9 @@
                 "city": "St. Louis",
                 "address": "120 S. Central Avenue",
                 "address2": "Suite 150",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-725-1912",
@@ -82853,7 +83289,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dodson-waters",
@@ -82871,7 +83308,9 @@
                 "city": "Jefferson City",
                 "address": "212 Lafayette St.",
                 "address2": null,
-                "zip": "65101"
+                "zip": "65101",
+                "lat": 38.4834,
+                "lng": -92.1239
             },
             "contact": {
                 "phone": "573-636-9222",
@@ -82894,7 +83333,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-leyhe-stuckmeyer-associates-llc",
@@ -82912,7 +83352,9 @@
                 "city": "Saint Charles",
                 "address": "330 Jefferson Street",
                 "address2": null,
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-699-1731",
@@ -82956,7 +83398,8 @@
                 "Real Estate",
                 "State Local and Municipal Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dougan-law-firm-llc",
@@ -82974,7 +83417,9 @@
                 "city": "Platte City",
                 "address": "112 Marshall Road",
                 "address2": "PO Box 377",
-                "zip": "64079"
+                "zip": "64079",
+                "lat": 39.3732,
+                "lng": -94.7831
             },
             "contact": {
                 "phone": "816-891-6677",
@@ -83025,7 +83470,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reinker-hamilton-fenley-llc",
@@ -83043,7 +83489,9 @@
                 "city": "St. Louis",
                 "address": "2016 S. Big Bend Boulevard",
                 "address2": null,
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-669-3205",
@@ -83096,7 +83544,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carrie-sue-doxsee",
@@ -83114,7 +83563,9 @@
                 "city": "Kansas City",
                 "address": "721 NE 76th St",
                 "address2": null,
-                "zip": "64118"
+                "zip": "64118",
+                "lat": 39.214,
+                "lng": -94.5751
             },
             "contact": {
                 "phone": "816-479-2700",
@@ -83133,7 +83584,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "holland-injury-law-llc",
@@ -83151,7 +83603,9 @@
                 "city": "Clayton",
                 "address": "101 S Hanley",
                 "address2": "Suite 1025",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-784-9211",
@@ -83209,6 +83663,17 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Leawood",
+                    "state": "KS",
+                    "zip": "66211",
+                    "address": "5300 College Blvd",
+                    "phone": "+13147845803",
+                    "lat": 38.9256,
+                    "lng": -94.6383
+                }
             ]
         },
         {
@@ -83227,7 +83692,9 @@
                 "city": "Clinton",
                 "address": "1116 East Ohio Street",
                 "address2": null,
-                "zip": "64735"
+                "zip": "64735",
+                "lat": 38.3781,
+                "lng": -93.7939
             },
             "contact": {
                 "phone": "660-924-0224",
@@ -83265,6 +83732,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warsaw",
+                    "state": "MO",
+                    "zip": "65355",
+                    "address": "220 Main Street",
+                    "phone": "660-924-0224",
+                    "lat": 38.2196,
+                    "lng": -93.3084
+                }
             ]
         },
         {
@@ -83283,7 +83761,9 @@
                 "city": "Clinton",
                 "address": "102 West Jefferson Street",
                 "address2": null,
-                "zip": "64735"
+                "zip": "64735",
+                "lat": 38.3781,
+                "lng": -93.7939
             },
             "contact": {
                 "phone": "660-383-4059",
@@ -83321,7 +83801,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edelman-muehleisen-llc",
@@ -83339,7 +83820,9 @@
                 "city": "St Louis",
                 "address": "13610 Barrett Office Dr.",
                 "address2": "Suite 106",
-                "zip": "63021"
+                "zip": "63021",
+                "lat": 38.5647,
+                "lng": -90.5345
             },
             "contact": {
                 "phone": "314-656-8904",
@@ -83371,7 +83854,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lashly-baer-p-c",
@@ -83389,7 +83873,9 @@
                 "city": "St. Louis",
                 "address": "714 Locust Street",
                 "address2": null,
-                "zip": "63101"
+                "zip": "63101",
+                "lat": 38.6314,
+                "lng": -90.1924
             },
             "contact": {
                 "phone": "314-621-2939",
@@ -83420,6 +83906,17 @@
             "official_practice_area": [
                 "Business Organizations",
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Belleville",
+                    "state": "IL",
+                    "zip": "62220",
+                    "address": "By Appointment Only, 20 East Main Street",
+                    "phone": "(618) 233-5587",
+                    "lat": 38.4649,
+                    "lng": -89.9709
+                }
             ]
         },
         {
@@ -83438,7 +83935,9 @@
                 "city": "Kansas City",
                 "address": "2600 Grand Blvd",
                 "address2": "Suite 440",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "888-352-0338",
@@ -83469,6 +83968,35 @@
                 "Class Actions",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Clayton",
+                    "state": "MO",
+                    "zip": "63105",
+                    "address": "7777 Bonhomme Avenue, Suite 1800",
+                    "phone": "314-219-7832",
+                    "lat": 38.6453,
+                    "lng": -90.3261
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "216 16th Street, Suite 850",
+                    "phone": "720-529-0505",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                },
+                {
+                    "city": "Santa Monica",
+                    "state": "CA",
+                    "zip": "90401",
+                    "address": "233 Wilshire Blvd., Suite 900",
+                    "phone": "310-984-6888",
+                    "lat": 34.0153,
+                    "lng": -118.4936
+                }
             ]
         },
         {
@@ -83487,7 +84015,9 @@
                 "city": "Osage Beach",
                 "address": "5754 Parkside Village Ct.",
                 "address2": null,
-                "zip": "65065"
+                "zip": "65065",
+                "lat": 38.1218,
+                "lng": -92.6713
             },
             "contact": {
                 "phone": "573-302-7211",
@@ -83526,6 +84056,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lebanon",
+                    "state": "MO",
+                    "zip": "65536",
+                    "address": "519 S. Jefferson Ave., Suite A",
+                    "phone": "417-322-6418",
+                    "lat": 37.7005,
+                    "lng": -92.6416
+                }
             ]
         },
         {
@@ -83544,7 +84085,9 @@
                 "city": "Kansas City",
                 "address": "2345 Grand Boulevard",
                 "address2": "#750",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "-185-54M-EDMAL",
@@ -83580,7 +84123,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eslinger-law-firm",
@@ -83598,7 +84142,9 @@
                 "city": "Saint Joseph",
                 "address": "507 Francis Street",
                 "address2": "Suite 214",
-                "zip": "64501"
+                "zip": "64501",
+                "lat": 39.7581,
+                "lng": -94.8383
             },
             "contact": {
                 "phone": "816-479-7946",
@@ -83638,7 +84184,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "conquer-law",
@@ -83656,7 +84203,9 @@
                 "city": "St. Louis",
                 "address": "9109 Watson Rd.",
                 "address2": "Suite 310",
-                "zip": "63126"
+                "zip": "63126",
+                "lat": 38.5496,
+                "lng": -90.3796
             },
             "contact": {
                 "phone": "314-947-4730",
@@ -83678,7 +84227,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "federer-federer-pc-attorneys-at-law",
@@ -83696,7 +84246,9 @@
                 "city": "St. Charles",
                 "address": "201 South Fifth Street",
                 "address2": null,
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-949-2424",
@@ -83719,6 +84271,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chesterfield",
+                    "state": "MO",
+                    "zip": "63005",
+                    "address": "17998 Chesterfield Airport Road, Suite 204",
+                    "phone": "(636) 530-1400",
+                    "lat": 38.6348,
+                    "lng": -90.6689
+                }
             ]
         },
         {
@@ -83737,7 +84300,9 @@
                 "city": "St. Louis",
                 "address": "13205 Manchester Road",
                 "address2": "Suite 210",
-                "zip": "63131"
+                "zip": "63131",
+                "lat": 38.6159,
+                "lng": -90.4456
             },
             "contact": {
                 "phone": "314-328-7164",
@@ -83768,7 +84333,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kevin-mcmanus-law-kansas-city-personal-injury-accident-lawyers",
@@ -83786,7 +84352,9 @@
                 "city": "Kansas City",
                 "address": "1100 Main Street",
                 "address2": "Suite 2300",
-                "zip": "64105"
+                "zip": "64105",
+                "lat": 39.1048,
+                "lng": -94.5949
             },
             "contact": {
                 "phone": "816-441-4495",
@@ -83815,6 +84383,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Overland Park",
+                    "state": "KS",
+                    "zip": "66210",
+                    "address": "7500 College Blvd, Suite 559",
+                    "phone": "816-441-4495",
+                    "lat": 38.9245,
+                    "lng": -94.7049
+                },
+                {
+                    "city": "Lee's Summit",
+                    "state": "MO",
+                    "zip": "64086",
+                    "address": "1308 NE Windsor Dr, Suite #6",
+                    "phone": "816-441-4495",
+                    "lat": 38.8985,
+                    "lng": -94.2994
+                }
             ]
         },
         {
@@ -83833,7 +84421,9 @@
                 "city": "Joplin",
                 "address": "320 West 4th Street",
                 "address2": "Suite 5",
-                "zip": "64801"
+                "zip": "64801",
+                "lat": 37.1194,
+                "lng": -94.4968
             },
             "contact": {
                 "phone": "417-238-2748",
@@ -83863,7 +84453,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grant-miller-smith-llc",
@@ -83881,7 +84472,9 @@
                 "city": "St. Louis",
                 "address": "7733 Forsyth Blvd.",
                 "address2": "Suite 1850",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-461-0413",
@@ -83927,6 +84520,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. Charles",
+                    "state": "MO",
+                    "zip": "63301",
+                    "address": "519 Madison Street",
+                    "phone": "+13144610147",
+                    "lat": 38.8568,
+                    "lng": -90.4516
+                }
             ]
         },
         {
@@ -83945,7 +84549,9 @@
                 "city": "St Louis",
                 "address": "8000 Maryland Avenue",
                 "address2": "Suite 910",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-987-6888",
@@ -83971,7 +84577,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "foster-wallace-personal-injury-lawyers",
@@ -83989,7 +84596,9 @@
                 "city": "Kansas City",
                 "address": "4700 Belleview Ave.",
                 "address2": "Suite 304",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-249-2101",
@@ -84042,7 +84651,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monsees-mayer-p-c",
@@ -84060,7 +84670,9 @@
                 "city": "Springfield",
                 "address": "1021 East Walnut Street",
                 "address2": null,
-                "zip": "65806"
+                "zip": "65806",
+                "lat": 37.2061,
+                "lng": -93.3033
             },
             "contact": {
                 "phone": "417-374-3852",
@@ -84088,6 +84700,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64112",
+                    "address": "4717 Grand Ave., Suite 820",
+                    "phone": "816-451-3945",
+                    "lat": 39.0361,
+                    "lng": -94.595
+                }
             ]
         },
         {
@@ -84106,7 +84729,9 @@
                 "city": "Saint Louis",
                 "address": "8909 Ladue Road",
                 "address2": null,
-                "zip": "63124"
+                "zip": "63124",
+                "lat": 38.6366,
+                "lng": -90.3769
             },
             "contact": {
                 "phone": "314-881-8462",
@@ -84131,7 +84756,8 @@
             "official_practice_area": [
                 "Nursing Home Abuse",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-furniss-law-firm",
@@ -84149,7 +84775,9 @@
                 "city": "St. Louis",
                 "address": "7750 Clayton Rd.",
                 "address2": "Suite 102",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "855-803-9121",
@@ -84189,7 +84817,8 @@
                 "Railroad Worker Injury and FELA",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garland-law-p-c",
@@ -84207,7 +84836,9 @@
                 "city": "Saint Louis",
                 "address": "101 W. Argonne Dr.",
                 "address2": "#202",
-                "zip": "63122"
+                "zip": "63122",
+                "lat": 38.5773,
+                "lng": -90.4242
             },
             "contact": {
                 "phone": "314-332-6228",
@@ -84238,7 +84869,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-curtis-m-garner-and-associates-llc",
@@ -84256,7 +84888,9 @@
                 "city": "Springfield",
                 "address": "3039 S. Fort Ave.",
                 "address2": "Suite C",
-                "zip": "65807"
+                "zip": "65807",
+                "lat": 37.171,
+                "lng": -93.3319
             },
             "contact": {
                 "phone": "417-865-5297",
@@ -84279,7 +84913,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gartner-law-firm",
@@ -84297,7 +84932,9 @@
                 "city": "St. Peters",
                 "address": "220 Salt Lick Rd.",
                 "address2": null,
-                "zip": "63376"
+                "zip": "63376",
+                "lat": 38.7951,
+                "lng": -90.6268
             },
             "contact": {
                 "phone": "636-397-2111",
@@ -84320,7 +84957,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bautista-leroy-llc",
@@ -84338,7 +84976,9 @@
                 "city": "Kansas City",
                 "address": "3770 Broadway Blvd",
                 "address2": "Fl 2",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": null,
@@ -84351,7 +84991,8 @@
             "attorneys": [
                 "Ryan J. Gavin"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-amy-l-gervich",
@@ -84369,7 +85010,9 @@
                 "city": "Clayton",
                 "address": "231 S. Bemiston Ave.",
                 "address2": "Suite 1111",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-480-5541",
@@ -84395,7 +85038,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jesse-a-granneman-l-l-c",
@@ -84413,7 +85057,9 @@
                 "city": "Troy",
                 "address": "20 Manor Dr.",
                 "address2": null,
-                "zip": "63379"
+                "zip": "63379",
+                "lat": 38.9954,
+                "lng": -90.9849
             },
             "contact": {
                 "phone": "888-501-0410",
@@ -84454,7 +85100,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grayson-grayson",
@@ -84472,7 +85119,9 @@
                 "city": "Jefferson City",
                 "address": "915 Southwest Blvd.",
                 "address2": "Suite N",
-                "zip": "65109"
+                "zip": "65109",
+                "lat": 38.5582,
+                "lng": -92.2831
             },
             "contact": {
                 "phone": "573-388-0520",
@@ -84527,7 +85176,8 @@
                 "State Local and Municipal Law",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-scott-h-green-p-c",
@@ -84545,7 +85195,9 @@
                 "city": "St Louis",
                 "address": "2 City Place Drive",
                 "address2": "Suite 200",
-                "zip": "63141"
+                "zip": "63141",
+                "lat": 38.6554,
+                "lng": -90.4525
             },
             "contact": {
                 "phone": "314-567-7766",
@@ -84565,7 +85217,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cleaveland-macoubrie-cox-l-l-c-attorneys-at-law",
@@ -84583,7 +85236,9 @@
                 "city": "Chillicothe",
                 "address": "515 Washington Street",
                 "address2": "Second Floor; Southern Bank Bldg.",
-                "zip": "64601"
+                "zip": "64601",
+                "lat": 39.7547,
+                "lng": -93.5099
             },
             "contact": {
                 "phone": "660-262-4220",
@@ -84611,7 +85266,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "troppito-miller-griffin-llc",
@@ -84629,7 +85285,9 @@
                 "city": "Kansas City",
                 "address": "105 E. 5th St.",
                 "address2": "Suite 500",
-                "zip": "64106"
+                "zip": "64106",
+                "lat": 39.1062,
+                "lng": -94.5733
             },
             "contact": {
                 "phone": "866-578-5199",
@@ -84653,7 +85311,8 @@
                 "Construction",
                 "Construction Accident",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wichmer-groneck-llc",
@@ -84671,7 +85330,9 @@
                 "city": "Chesterfield",
                 "address": "15400 South Outer Forty Road",
                 "address2": null,
-                "zip": "63017"
+                "zip": "63017",
+                "lat": 38.6723,
+                "lng": -90.5332
             },
             "contact": {
                 "phone": "314-863-1212",
@@ -84707,7 +85368,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "griggs-injury-law-llc",
@@ -84725,7 +85387,9 @@
                 "city": "Kansas City",
                 "address": "800 W 47th Street",
                 "address2": "Suite 705",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-474-0202",
@@ -84747,7 +85411,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-g-waltrip-l-l-c",
@@ -84765,7 +85430,9 @@
                 "city": "Saint Louis",
                 "address": "8151 Clayton Rd.",
                 "address2": "Suite 200",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-782-3480",
@@ -84821,7 +85488,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nichols-lang-hamlin-llc",
@@ -84839,7 +85507,9 @@
                 "city": "Chesterfield",
                 "address": "1795 Clarkson Road",
                 "address2": "Suite 230",
-                "zip": "63017"
+                "zip": "63017",
+                "lat": 38.6723,
+                "lng": -90.5332
             },
             "contact": {
                 "phone": "314-675-1590",
@@ -84880,7 +85550,8 @@
                 "Toxic Torts",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harlan-still-koch",
@@ -84898,7 +85569,9 @@
                 "city": "Columbia",
                 "address": "515 Cherry Street",
                 "address2": "Suite 300",
-                "zip": "65201"
+                "zip": "65201",
+                "lat": 38.8822,
+                "lng": -92.2523
             },
             "contact": {
                 "phone": "833-985-3987",
@@ -84929,7 +85602,8 @@
                 "ERISA",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-hine-llc",
@@ -84947,7 +85621,9 @@
                 "city": "St. Louis",
                 "address": "8764 Manchester Rd.",
                 "address2": "Suite 204",
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-329-2140",
@@ -84973,6 +85649,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cape Girardeau",
+                    "state": "MO",
+                    "zip": "63701",
+                    "address": "3071 Lexington Ave",
+                    "phone": "+13143292140",
+                    "lat": 37.3382,
+                    "lng": -89.5908
+                }
             ]
         },
         {
@@ -84991,7 +85678,9 @@
                 "city": "Frontenac",
                 "address": "601 S. Lindbergh Blvd.",
                 "address2": null,
-                "zip": "63131"
+                "zip": "63131",
+                "lat": 38.6159,
+                "lng": -90.4456
             },
             "contact": {
                 "phone": "813-540-1484",
@@ -85023,6 +85712,35 @@
                 "Litigation and Appeals",
                 "Mergers and Acquisitions",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "O’Fallon",
+                    "state": "IL",
+                    "zip": "62269",
+                    "address": "807 West Highway 50, Suite 1",
+                    "phone": "813-540-1484",
+                    "lat": 38.6042,
+                    "lng": -89.9011
+                },
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64106",
+                    "address": "1600 Genessee St., Suite 460",
+                    "phone": "813-540-1484",
+                    "lat": 39.1062,
+                    "lng": -94.5733
+                },
+                {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "zip": "33602",
+                    "address": "615 Channelside Drive, Suite 207",
+                    "phone": "813-999-0199",
+                    "lat": 27.9495,
+                    "lng": -82.4612
+                }
             ]
         },
         {
@@ -85041,7 +85759,9 @@
                 "city": "Columbia",
                 "address": "107 North 7th Street",
                 "address2": null,
-                "zip": "65201"
+                "zip": "65201",
+                "lat": 38.8822,
+                "lng": -92.2523
             },
             "contact": {
                 "phone": "573-499-1700",
@@ -85065,7 +85785,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldblatt-singer-p-c",
@@ -85083,7 +85804,9 @@
                 "city": "St. Louis",
                 "address": "8182 Maryland Avenue",
                 "address2": "Suite 801",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-231-4100",
@@ -85134,7 +85857,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hotz-law-llc",
@@ -85152,7 +85876,9 @@
                 "city": "Washington",
                 "address": "224 Elm Street",
                 "address2": null,
-                "zip": "63090"
+                "zip": "63090",
+                "lat": 38.5318,
+                "lng": -91.0342
             },
             "contact": {
                 "phone": "636-200-1996",
@@ -85182,7 +85908,8 @@
                 "Mergers and Acquisitions",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-david-j-howard",
@@ -85200,7 +85927,9 @@
                 "city": "Town And Country",
                 "address": "13321 N. Outer 40 Road",
                 "address2": "Ste 100",
-                "zip": "63017"
+                "zip": "63017",
+                "lat": 38.6723,
+                "lng": -90.5332
             },
             "contact": {
                 "phone": "314-804-2937",
@@ -85236,7 +85965,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jackoboice-law-firm",
@@ -85254,7 +85984,9 @@
                 "city": "Kansas City",
                 "address": "4520 Main St",
                 "address2": "Suite 700",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": "816-751-0570",
@@ -85275,7 +86007,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-b-jackson",
@@ -85293,7 +86026,9 @@
                 "city": "Independence",
                 "address": "14500 East 42nd Street",
                 "address2": "Suite 260",
-                "zip": "64055"
+                "zip": "64055",
+                "lat": 39.0499,
+                "lng": -94.3976
             },
             "contact": {
                 "phone": "816-461-4762",
@@ -85312,7 +86047,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spooner-law-llc",
@@ -85330,7 +86066,9 @@
                 "city": "Clayton",
                 "address": "34 N Brentwood Blvd",
                 "address2": "Suite 210",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-529-0000",
@@ -85368,7 +86106,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "siegel-injury-law-llc",
@@ -85386,7 +86125,9 @@
                 "city": "St Louis",
                 "address": "130 South Bemiston Ave",
                 "address2": "Suite 608",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-784-9601",
@@ -85410,7 +86151,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kapke-willerth-llc",
@@ -85428,7 +86170,9 @@
                 "city": "Lee's Summit",
                 "address": "3304 North East Ralph Powell Road",
                 "address2": null,
-                "zip": "64064"
+                "zip": "64064",
+                "lat": 38.9873,
+                "lng": -94.3362
             },
             "contact": {
                 "phone": "816-461-3800",
@@ -85456,7 +86200,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelly-symonds-reed-llc",
@@ -85474,7 +86219,9 @@
                 "city": "Lee's Summit",
                 "address": "114 SW Third Street",
                 "address2": null,
-                "zip": "64063"
+                "zip": "64063",
+                "lat": 38.9132,
+                "lng": -94.3506
             },
             "contact": {
                 "phone": "816-347-1818",
@@ -85500,7 +86247,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spradlin-kennedy-law-firm",
@@ -85518,7 +86266,9 @@
                 "city": "Kansas City",
                 "address": "3770 Broadway Blvd.",
                 "address2": "Suite 111",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": "816-340-6736",
@@ -85544,7 +86294,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kennedy-kennedy-robbins-yarbro-lc",
@@ -85562,7 +86313,9 @@
                 "city": "Poplar Bluff",
                 "address": "1165 Cherry Street",
                 "address2": "Post Office Box 696",
-                "zip": "63901"
+                "zip": "63901",
+                "lat": 36.7579,
+                "lng": -90.4609
             },
             "contact": {
                 "phone": "573-686-2459",
@@ -85598,7 +86351,8 @@
                 "Land Use and Zoning",
                 "Personal Injury",
                 "Social Security"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-roffmann-law-office-llc",
@@ -85616,7 +86370,9 @@
                 "city": "Liberty",
                 "address": "11 E. Kansas",
                 "address2": null,
-                "zip": "64068"
+                "zip": "64068",
+                "lat": 39.2677,
+                "lng": -94.3893
             },
             "contact": {
                 "phone": "816-479-3841",
@@ -85640,7 +86396,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carl-d-kinsky-attorney-at-law-llc",
@@ -85658,7 +86415,9 @@
                 "city": "Ste. Genevieve",
                 "address": "720 Market Street",
                 "address2": null,
-                "zip": "63670"
+                "zip": "63670",
+                "lat": 37.8818,
+                "lng": -90.1443
             },
             "contact": {
                 "phone": "573-283-0990",
@@ -85688,7 +86447,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jcs-law-john-c-schleiffarth-p-c",
@@ -85706,7 +86466,9 @@
                 "city": "St. Louis",
                 "address": "120 S Central Ave",
                 "address2": "#1550",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-315-4946",
@@ -85743,7 +86505,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "suddarth-koor-llc",
@@ -85761,7 +86524,9 @@
                 "city": "O'Fallon",
                 "address": "‍755 West Terra Lane",
                 "address2": null,
-                "zip": "63366"
+                "zip": "63366",
+                "lat": 38.8535,
+                "lng": -90.7027
             },
             "contact": {
                 "phone": "636-699-4644",
@@ -85837,7 +86602,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jason-a-korner",
@@ -85855,7 +86621,9 @@
                 "city": "Saint Louis",
                 "address": "7911 Forsyth Boulevard",
                 "address2": "Suite 300",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-656-8493",
@@ -85879,7 +86647,8 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jungle-law",
@@ -85897,7 +86666,9 @@
                 "city": "Kansas City",
                 "address": "2300 Main St.",
                 "address2": "Suite 900",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-300-6713",
@@ -85937,6 +86708,35 @@
                 "Sex Crime",
                 "Sexual Harassment",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Olathe",
+                    "state": "KS",
+                    "zip": "66061",
+                    "address": "115 East Park Street, Suite C",
+                    "phone": "+18163006713",
+                    "lat": 38.8841,
+                    "lng": -94.9016
+                },
+                {
+                    "city": "Maysville",
+                    "state": "MO",
+                    "zip": "64469",
+                    "address": "118 N Washington St",
+                    "phone": "+18163006713",
+                    "lat": 39.9364,
+                    "lng": -94.3659
+                },
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85050",
+                    "address": "20860 North N. Tatum Blvd., Suite 300",
+                    "phone": "+18163006713",
+                    "lat": 33.6909,
+                    "lng": -111.9956
+                }
             ]
         },
         {
@@ -85955,7 +86755,9 @@
                 "city": "Springfield",
                 "address": "1531 E. Bradford Pkwy.",
                 "address2": "Suite 200",
-                "zip": "65804"
+                "zip": "65804",
+                "lat": 37.1488,
+                "lng": -93.2554
             },
             "contact": {
                 "phone": "417-886-3330",
@@ -85985,7 +86787,8 @@
                 "Employment Rights",
                 "Estate Planning",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lieser-law-firm",
@@ -86003,7 +86806,9 @@
                 "city": "Saint Louis",
                 "address": "1034 S. Brentwood Blvd.",
                 "address2": "PH-1C",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-947-4418",
@@ -86051,6 +86856,17 @@
                 "Railroad Worker Injury and FELA",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Belleville",
+                    "state": "IL",
+                    "zip": "62226",
+                    "address": "6 Executive Woods Court, (By Appointment Only)",
+                    "phone": "+13149877895",
+                    "lat": 38.5196,
+                    "lng": -89.9942
+                }
             ]
         },
         {
@@ -86069,7 +86885,9 @@
                 "city": "St Louis",
                 "address": "11756 Borman Dr.",
                 "address2": "Suite 101",
-                "zip": "63146"
+                "zip": "63146",
+                "lat": 38.7099,
+                "lng": -90.4634
             },
             "contact": {
                 "phone": "314-329-2354",
@@ -86110,7 +86928,8 @@
                 "Family Law",
                 "Father's Rights",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-schriener-llc",
@@ -86128,7 +86947,9 @@
                 "city": "St. Louis",
                 "address": "231 S Bemiston Ave",
                 "address2": "Suite 800",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-721-7095",
@@ -86150,7 +86971,8 @@
             ],
             "official_practice_area": [
                 "Constitutional Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leritz-plunkert",
@@ -86168,7 +86990,9 @@
                 "city": "St. Louis",
                 "address": "1034 S. Brentwood Blvd",
                 "address2": "Suite 1280 (University Tower)",
-                "zip": "63117"
+                "zip": "63117",
+                "lat": 38.6299,
+                "lng": -90.3331
             },
             "contact": {
                 "phone": "314-269-0135",
@@ -86202,7 +87026,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Personal Injury Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-company-p-c",
@@ -86220,7 +87045,9 @@
                 "city": "Kansas City",
                 "address": "4929 Main Street",
                 "address2": null,
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "855-930-6414",
@@ -86250,6 +87077,26 @@
             "official_practice_area": [
                 "International Law",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20005",
+                    "address": "1300 I Street N.W., Suite 400E",
+                    "phone": "+18559306414",
+                    "lat": 38.9042,
+                    "lng": -77.0318
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10023",
+                    "address": "140 West End Ave., Suite 15-C",
+                    "phone": "+18559306414",
+                    "lat": 40.7737,
+                    "lng": -73.9801
+                }
             ]
         },
         {
@@ -86268,7 +87115,9 @@
                 "city": "St. Louis",
                 "address": "1750 South Brentwood Boulevard",
                 "address2": "Suite 295",
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-727-0702",
@@ -86289,7 +87138,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-m-lurie",
@@ -86307,7 +87157,9 @@
                 "city": "Kansas City",
                 "address": "1100 Walnut St.",
                 "address2": "Suite #2940",
-                "zip": "64106"
+                "zip": "64106",
+                "lat": 39.1062,
+                "lng": -94.5733
             },
             "contact": {
                 "phone": "816-221-5900",
@@ -86371,6 +87223,17 @@
                 "Real Estate",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lee's Summit",
+                    "state": "MO",
+                    "zip": "64063",
+                    "address": "688 S.E. Bayberry Ln. #105",
+                    "phone": "816-525-1500",
+                    "lat": 38.9132,
+                    "lng": -94.3506
+                }
             ]
         },
         {
@@ -86389,7 +87252,9 @@
                 "city": "Springfield",
                 "address": "313 S. Glenstone",
                 "address2": null,
-                "zip": "65802"
+                "zip": "65802",
+                "lat": 37.2208,
+                "lng": -93.3282
             },
             "contact": {
                 "phone": "417-877-0888",
@@ -86427,7 +87292,8 @@
                 "Probate",
                 "Tax Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ray-b-marglous-p-c-associates",
@@ -86445,7 +87311,9 @@
                 "city": "Clayton",
                 "address": "7711 Bonhomme Ave",
                 "address2": "Suite 300",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-782-3371",
@@ -86481,7 +87349,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marler-law-partners",
@@ -86499,7 +87368,9 @@
                 "city": "St. Louis",
                 "address": "10805 Sunset Office Dr.",
                 "address2": "Suite 210",
-                "zip": "63127"
+                "zip": "63127",
+                "lat": 38.5357,
+                "lng": -90.4081
             },
             "contact": {
                 "phone": "573-747-4573",
@@ -86529,6 +87400,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Farmington",
+                    "state": "MO",
+                    "zip": "63640",
+                    "address": "406 East Karsch Blvd.",
+                    "phone": "314-582-0729",
+                    "lat": 37.7474,
+                    "lng": -90.3635
+                }
             ]
         },
         {
@@ -86547,7 +87429,9 @@
                 "city": "Liberty",
                 "address": "24 South Main Street",
                 "address2": "Suite 201",
-                "zip": "64068"
+                "zip": "64068",
+                "lat": 39.2677,
+                "lng": -94.3893
             },
             "contact": {
                 "phone": "816-479-7658",
@@ -86574,7 +87458,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mayer-law-office",
@@ -86592,7 +87477,9 @@
                 "city": "Dexter",
                 "address": "130 E Stoddard Street",
                 "address2": null,
-                "zip": "63841"
+                "zip": "63841",
+                "lat": 36.7822,
+                "lng": -89.9724
             },
             "contact": {
                 "phone": "573-624-7876",
@@ -86628,7 +87515,8 @@
                 "Professional Malpractice",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "german-may-pc",
@@ -86646,7 +87534,9 @@
                 "city": "Kansas City",
                 "address": "1201 Walnut 20th Floor",
                 "address2": null,
-                "zip": "64106"
+                "zip": "64106",
+                "lat": 39.1062,
+                "lng": -94.5733
             },
             "contact": {
                 "phone": "816-471-7700",
@@ -86676,7 +87566,8 @@
             ],
             "official_practice_area": [
                 "Antitrust"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcneil-associates",
@@ -86694,7 +87585,9 @@
                 "city": "North Kansas City",
                 "address": "2103 Swift Street",
                 "address2": "Suite 201",
-                "zip": "64116"
+                "zip": "64116",
+                "lat": 39.1464,
+                "lng": -94.5708
             },
             "contact": {
                 "phone": "816-704-7484",
@@ -86738,7 +87631,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "menees-menees",
@@ -86756,7 +87650,9 @@
                 "city": "Saint Louis",
                 "address": "121 W. Adams Ave.",
                 "address2": null,
-                "zip": "63122"
+                "zip": "63122",
+                "lat": 38.5773,
+                "lng": -90.4242
             },
             "contact": {
                 "phone": "314-391-8747",
@@ -86792,7 +87688,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meyerkord-kurth-llc",
@@ -86810,7 +87707,9 @@
                 "city": "St. Louis",
                 "address": "353 Marshall Ave",
                 "address2": "# B",
-                "zip": "63119"
+                "zip": "63119",
+                "lat": 38.5892,
+                "lng": -90.3466
             },
             "contact": {
                 "phone": "314-300-3000",
@@ -86837,7 +87736,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-gretchen-myers-pc",
@@ -86855,7 +87755,9 @@
                 "city": "Saint Louis",
                 "address": "222 S. Central Avenue",
                 "address2": "Suite 675",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-621-5454",
@@ -86875,7 +87777,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-nail-law-firm",
@@ -86893,7 +87796,9 @@
                 "city": "Kansas City",
                 "address": "Country Club Plaza",
                 "address2": "201 West 47th Street",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-251-1001",
@@ -86916,6 +87821,17 @@
             "official_practice_area": [
                 "Nursing Home Abuse",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lee's Summit",
+                    "state": "MO",
+                    "zip": "64064",
+                    "address": "800 NE Vanderbilt Lane",
+                    "phone": "816-607-9206",
+                    "lat": 38.9873,
+                    "lng": -94.3362
+                }
             ]
         },
         {
@@ -86934,7 +87850,9 @@
                 "city": "Saint Peters",
                 "address": "819 Mid Rivers Mall",
                 "address2": null,
-                "zip": "63376"
+                "zip": "63376",
+                "lat": 38.7951,
+                "lng": -90.6268
             },
             "contact": {
                 "phone": "636-875-1492",
@@ -86964,7 +87882,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "norton-spencer-p-c",
@@ -86982,7 +87901,9 @@
                 "city": "Kansas City",
                 "address": "6000 N. Oak Trafficway",
                 "address2": "Suite 201",
-                "zip": "64118"
+                "zip": "64118",
+                "lat": 39.214,
+                "lng": -94.5751
             },
             "contact": {
                 "phone": "844-915-4344",
@@ -87006,7 +87927,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edelman-thompson-l-l-c",
@@ -87024,7 +87946,9 @@
                 "city": "Kansas City",
                 "address": "4520 Main Street",
                 "address2": "#500",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": "816-561-3400",
@@ -87060,6 +87984,26 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lenexa",
+                    "state": "KS",
+                    "zip": "66215",
+                    "address": "8700 Monrovia, Suite 310",
+                    "phone": "(816) 561-3400",
+                    "lat": 38.9506,
+                    "lng": -94.7401
+                },
+                {
+                    "city": "Independence",
+                    "state": "MO",
+                    "zip": "64057",
+                    "address": "3720 Arrowhead Ave., Suite 102",
+                    "phone": "(816) 561-3400",
+                    "lat": 39.0617,
+                    "lng": -94.3101
+                }
             ]
         },
         {
@@ -87078,7 +88022,9 @@
                 "city": "Kirkwood",
                 "address": "214 N. Clay Ave.",
                 "address2": "Suite 210",
-                "zip": "63122"
+                "zip": "63122",
+                "lat": 38.5773,
+                "lng": -90.4242
             },
             "contact": {
                 "phone": "314-947-4630",
@@ -87115,7 +88061,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopher-t-patterson",
@@ -87133,7 +88080,9 @@
                 "city": "Platte City",
                 "address": "351 Main Street",
                 "address2": "Suite 3",
-                "zip": "64079"
+                "zip": "64079",
+                "lat": 39.3732,
+                "lng": -94.7831
             },
             "contact": {
                 "phone": "816-471-7722",
@@ -87154,7 +88103,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-patel-law-firm-llc",
@@ -87172,7 +88122,9 @@
                 "city": "Lee's Summit",
                 "address": "1308 NE Windsor Dr.",
                 "address2": null,
-                "zip": "64086"
+                "zip": "64086",
+                "lat": 38.8985,
+                "lng": -94.2994
             },
             "contact": {
                 "phone": "816-533-7664",
@@ -87198,7 +88150,8 @@
             "official_practice_area": [
                 "Collections",
                 "Landlord and Tenant"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wood-peterson-llc",
@@ -87216,7 +88169,9 @@
                 "city": "Neosho",
                 "address": "217 S. Lafayette Street",
                 "address2": null,
-                "zip": "64850"
+                "zip": "64850",
+                "lat": 36.8753,
+                "lng": -94.4172
             },
             "contact": {
                 "phone": "417-357-5705",
@@ -87261,6 +88216,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Termination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Joplin",
+                    "state": "MO",
+                    "zip": "64801",
+                    "address": "413 S. Virginia Avenue",
+                    "phone": "+14173575705",
+                    "lat": 37.1194,
+                    "lng": -94.4968
+                }
             ]
         },
         {
@@ -87279,7 +88245,9 @@
                 "city": "Springfield",
                 "address": "901 East St. Louis Street",
                 "address2": "Hammons Tower Ste 1600",
-                "zip": "65806"
+                "zip": "65806",
+                "lat": 37.2061,
+                "lng": -93.3033
             },
             "contact": {
                 "phone": "417-203-8227",
@@ -87315,7 +88283,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pingelton-law-firm",
@@ -87333,7 +88302,9 @@
                 "city": "Columbia",
                 "address": "28 North 8th Street",
                 "address2": "#408",
-                "zip": "65201"
+                "zip": "65201",
+                "lat": 38.8822,
+                "lng": -92.2523
             },
             "contact": {
                 "phone": "573-283-0817",
@@ -87361,7 +88332,8 @@
                 "Education",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "turken-porzenski-l-l-c",
@@ -87379,7 +88351,9 @@
                 "city": "Saint Charles",
                 "address": "131 Jefferson St.",
                 "address2": "Ste. 101",
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-352-1619",
@@ -87411,7 +88385,8 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-patrick-e-poston-llc",
@@ -87429,7 +88404,9 @@
                 "city": "Saint Louis",
                 "address": "6736 Black Water Dr",
                 "address2": null,
-                "zip": "63129"
+                "zip": "63129",
+                "lat": 38.4484,
+                "lng": -90.3258
             },
             "contact": {
                 "phone": "314-666-6230",
@@ -87461,7 +88438,8 @@
                 "Personal Injury",
                 "Railroad Worker Injury and FELA",
                 "Whistleblower and Qui Tam"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kevin-puckett-attorney-at-law-llc",
@@ -87479,7 +88457,9 @@
                 "city": "Kansas City",
                 "address": "4700 Belleview Avenue",
                 "address2": "Suite 100C",
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-473-0136",
@@ -87512,7 +88492,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-quitmeier-law-firm",
@@ -87530,7 +88511,9 @@
                 "city": "Kansas City",
                 "address": "10150 N Ambassador Dr.",
                 "address2": "Suite 100",
-                "zip": "64153"
+                "zip": "64153",
+                "lat": 39.288,
+                "lng": -94.7379
             },
             "contact": {
                 "phone": "816-479-7882",
@@ -87555,7 +88538,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reeves-law-llc",
@@ -87573,7 +88557,9 @@
                 "city": "St. Louis",
                 "address": "7733 Forsyth Blvd",
                 "address2": "Suite 1100 – #1192",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-804-2586",
@@ -87597,7 +88583,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stecklein-robertson-law",
@@ -87615,7 +88602,9 @@
                 "city": "Kansas City",
                 "address": "1503 Westport Road",
                 "address2": "Suite 1A",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": "913-427-5777",
@@ -87638,7 +88627,8 @@
             ],
             "official_practice_area": [
                 "Auto Dealer Fraud"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rowe-law-office-llc",
@@ -87656,7 +88646,9 @@
                 "city": "St Louis",
                 "address": "By appointment only",
                 "address2": null,
-                "zip": "63104"
+                "zip": "63104",
+                "lat": 38.608,
+                "lng": -90.2128
             },
             "contact": {
                 "phone": "314-248-8128",
@@ -87685,7 +88677,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "columbia-family-law-group",
@@ -87703,7 +88696,9 @@
                 "city": "Columbia",
                 "address": "1200 Rogers Street",
                 "address2": null,
-                "zip": "65201"
+                "zip": "65201",
+                "lat": 38.8822,
+                "lng": -92.2523
             },
             "contact": {
                 "phone": "573-303-5530",
@@ -87728,7 +88723,8 @@
                 "Child Custody",
                 "Child Support",
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "samani-law-llc",
@@ -87746,7 +88742,9 @@
                 "city": "Kansas City",
                 "address": "Corrigan Station",
                 "address2": "1828 Walnut Street, #5-111",
-                "zip": "64108"
+                "zip": "64108",
+                "lat": 39.0856,
+                "lng": -94.5841
             },
             "contact": {
                 "phone": "816-429-1598",
@@ -87781,7 +88779,8 @@
                 "Professional Malpractice",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schlapprizzi-attorneys-at-law",
@@ -87799,7 +88798,9 @@
                 "city": "St. Louis",
                 "address": "211 North Broadway",
                 "address2": "Suite 2430",
-                "zip": "63102"
+                "zip": "63102",
+                "lat": 38.6356,
+                "lng": -90.1897
             },
             "contact": {
                 "phone": "314-492-8869",
@@ -87823,7 +88824,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmuke-law-firm-llc",
@@ -87841,7 +88843,9 @@
                 "city": "St. Peters",
                 "address": "One Mid Rivers Mall Drive, Suite 256",
                 "address2": null,
-                "zip": "63376"
+                "zip": "63376",
+                "lat": 38.7951,
+                "lng": -90.6268
             },
             "contact": {
                 "phone": "636-777-4425",
@@ -87869,7 +88873,8 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schormann-law-firm-llc",
@@ -87887,7 +88892,9 @@
                 "city": "Saint Peters",
                 "address": "One Mid Rivers Mall Drive",
                 "address2": "Suite 256",
-                "zip": "63376"
+                "zip": "63376",
+                "lat": 38.7951,
+                "lng": -90.6268
             },
             "contact": {
                 "phone": "636-875-1999",
@@ -87920,7 +88927,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-h-sindel-inc",
@@ -87938,7 +88946,9 @@
                 "city": "St. Louis",
                 "address": "8000 Maryland Avenue",
                 "address2": "Suite 910",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-329-2942",
@@ -87970,7 +88980,8 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-a-w-smith-law-firm-p-c",
@@ -87988,7 +88999,9 @@
                 "city": "Columbia",
                 "address": "2100 W Broadway",
                 "address2": null,
-                "zip": "65203"
+                "zip": "65203",
+                "lat": 38.8814,
+                "lng": -92.3973
             },
             "contact": {
                 "phone": "573-388-9412",
@@ -88015,7 +89028,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-gregory-n-smith",
@@ -88033,7 +89047,9 @@
                 "city": "St Louis",
                 "address": "7733 Forsyth Blvd.",
                 "address2": "Suite 1850",
-                "zip": "63105"
+                "zip": "63105",
+                "lat": 38.6453,
+                "lng": -90.3261
             },
             "contact": {
                 "phone": "314-721-6677",
@@ -88066,6 +89082,17 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St Charles",
+                    "state": "MO",
+                    "zip": "63301",
+                    "address": "519 Madison Street",
+                    "phone": "314-721-6677",
+                    "lat": 38.8568,
+                    "lng": -90.4516
+                }
             ]
         },
         {
@@ -88084,7 +89111,9 @@
                 "city": "Blue Springs",
                 "address": "801 NW Vesper Street",
                 "address2": null,
-                "zip": "64015"
+                "zip": "64015",
+                "lat": 39.015,
+                "lng": -94.3121
             },
             "contact": {
                 "phone": "816-229-9111",
@@ -88118,7 +89147,8 @@
                 "Probate",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopher-stokes-attorney-at-law",
@@ -88136,7 +89166,9 @@
                 "city": "St Louis",
                 "address": "701 Market St. 1425",
                 "address2": null,
-                "zip": "63101"
+                "zip": "63101",
+                "lat": 38.6314,
+                "lng": -90.1924
             },
             "contact": {
                 "phone": "314-786-3495",
@@ -88160,7 +89192,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fernandez-law",
@@ -88178,7 +89211,9 @@
                 "city": "St Louis",
                 "address": "133 South 11th Street",
                 "address2": "Suite 350",
-                "zip": "63102"
+                "zip": "63102",
+                "lat": 38.6356,
+                "lng": -90.1897
             },
             "contact": {
                 "phone": "314-433-9131",
@@ -88202,7 +89237,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-susan-l-ward-llc",
@@ -88220,7 +89256,9 @@
                 "city": "Brentwood",
                 "address": "2652 Melvin Ave",
                 "address2": null,
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-783-9400",
@@ -88243,7 +89281,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-summary-law-firm",
@@ -88261,7 +89300,9 @@
                 "city": "St Louis",
                 "address": "4542 W. Pine Blvd.",
                 "address2": "Suite 2A",
-                "zip": "63108"
+                "zip": "63108",
+                "lat": 38.6446,
+                "lng": -90.252
             },
             "contact": {
                 "phone": "314-784-9630",
@@ -88291,7 +89332,8 @@
                 "DUI and DWI",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-swanson-law-firm",
@@ -88309,7 +89351,9 @@
                 "city": "St. Louis",
                 "address": "4433 Woodson Road",
                 "address2": "Suite 102 A",
-                "zip": "63134"
+                "zip": "63134",
+                "lat": 38.7438,
+                "lng": -90.3416
             },
             "contact": {
                 "phone": "314-947-4694",
@@ -88335,7 +89379,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tomich-law-firm-llc",
@@ -88353,7 +89398,9 @@
                 "city": "St Charles",
                 "address": "309 N. Main St.",
                 "address2": "Suite 210",
-                "zip": "63301"
+                "zip": "63301",
+                "lat": 38.8568,
+                "lng": -90.4516
             },
             "contact": {
                 "phone": "636-444-9389",
@@ -88391,7 +89438,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daniel-j-voss-attorney-at-law",
@@ -88409,7 +89457,9 @@
                 "city": "Kansas City",
                 "address": "4723 Terrace Street",
                 "address2": null,
-                "zip": "64112"
+                "zip": "64112",
+                "lat": 39.0361,
+                "lng": -94.595
             },
             "contact": {
                 "phone": "816-787-1245",
@@ -88444,7 +89494,8 @@
                 "Employment Rights",
                 "Sexual Harassment",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-dan-moody-and-paul-wacker-l-l-c",
@@ -88462,7 +89513,9 @@
                 "city": "Springfield",
                 "address": "1345 East Sunshine Street",
                 "address2": "Suite 106",
-                "zip": "65804"
+                "zip": "65804",
+                "lat": 37.1488,
+                "lng": -93.2554
             },
             "contact": {
                 "phone": "417-882-1933",
@@ -88482,7 +89535,8 @@
             ],
             "official_practice_area": [
                 "Assault and Battery (Plaintiff)"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kyle-e-walsh",
@@ -88500,7 +89554,9 @@
                 "city": "Poplar Bluff",
                 "address": "433 North Main St.",
                 "address2": null,
-                "zip": "63901"
+                "zip": "63901",
+                "lat": 36.7579,
+                "lng": -90.4609
             },
             "contact": {
                 "phone": "573-429-7062",
@@ -88520,7 +89576,8 @@
             ],
             "official_practice_area": [
                 "Civil Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walker-law",
@@ -88538,7 +89595,9 @@
                 "city": "Town and Country",
                 "address": "13321 N Outer 40 Rd.",
                 "address2": "Ste. 700",
-                "zip": "63017"
+                "zip": "63017",
+                "lat": 38.6723,
+                "lng": -90.5332
             },
             "contact": {
                 "phone": "636-735-8034",
@@ -88578,6 +89637,17 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cottleville",
+                    "state": "MO",
+                    "zip": "63304",
+                    "address": "5733 Highway N, Suite 215",
+                    "phone": "636-735-8034",
+                    "lat": 38.7107,
+                    "lng": -90.6663
+                }
             ]
         },
         {
@@ -88596,7 +89666,9 @@
                 "city": "Jefferson City",
                 "address": "West Point Executive Center",
                 "address2": "2701 West Main Street, Suite 201, P. O. Box 1496",
-                "zip": "65102"
+                "zip": "65102",
+                "lat": 38.5764,
+                "lng": -92.1736
             },
             "contact": {
                 "phone": "573-634-2522",
@@ -88654,7 +89726,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kevin-d-wayman-attorney-at-law-llc",
@@ -88672,7 +89745,9 @@
                 "city": "St. Louis",
                 "address": "2333 South Hanley Road",
                 "address2": "Suite 101",
-                "zip": "63144"
+                "zip": "63144",
+                "lat": 38.6182,
+                "lng": -90.3484
             },
             "contact": {
                 "phone": "314-525-7177",
@@ -88694,7 +89769,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weber-law-firm-l-c",
@@ -88712,7 +89788,9 @@
                 "city": "Saint Peters",
                 "address": "340 Mid Rivers Mall Drive",
                 "address2": "Suite C",
-                "zip": "63376"
+                "zip": "63376",
+                "lat": 38.7951,
+                "lng": -90.6268
             },
             "contact": {
                 "phone": "636-487-4139",
@@ -88755,7 +89833,8 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wegge-law-firm",
@@ -88773,7 +89852,9 @@
                 "city": "Hillsboro",
                 "address": "473 Maple Street",
                 "address2": null,
-                "zip": "63050"
+                "zip": "63050",
+                "lat": 38.2634,
+                "lng": -90.5732
             },
             "contact": {
                 "phone": "636-310-0219",
@@ -88807,7 +89888,8 @@
                 "Drug Crime",
                 "Probate",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wehage-zickwolf-law-firm",
@@ -88825,7 +89907,9 @@
                 "city": "Harrisonville",
                 "address": "1300 E Locust Street",
                 "address2": "Suite E",
-                "zip": "64701"
+                "zip": "64701",
+                "lat": 38.6238,
+                "lng": -94.3175
             },
             "contact": {
                 "phone": "816-429-1367",
@@ -88853,7 +89937,8 @@
                 "Immigration",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-f-a-white-jr",
@@ -88871,7 +89956,9 @@
                 "city": "Kansas City",
                 "address": "7924 North Cherry Street",
                 "address2": null,
-                "zip": "64118"
+                "zip": "64118",
+                "lat": 39.214,
+                "lng": -94.5751
             },
             "contact": {
                 "phone": "816-704-6682",
@@ -88893,7 +89980,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "yonke-law-llc",
@@ -88911,7 +89999,9 @@
                 "city": "Kansas City",
                 "address": "4310 Madison Avenue",
                 "address2": "Suite 100",
-                "zip": "64111"
+                "zip": "64111",
+                "lat": 39.0573,
+                "lng": -94.5937
             },
             "contact": {
                 "phone": "816-800-9282",
@@ -88949,7 +90039,8 @@
                 "Professional Malpractice",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

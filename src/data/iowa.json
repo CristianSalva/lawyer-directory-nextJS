@@ -20934,7 +20934,9 @@
                 "city": "Des Moines",
                 "address": "2423 Ingersoll Ave.",
                 "address2": null,
-                "zip": "50312"
+                "zip": "50312",
+                "lat": 41.5785,
+                "lng": -93.6797
             },
             "contact": {
                 "phone": "515-620-3355",
@@ -20961,7 +20963,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "babich-sarcone-attorneys-at-law",
@@ -20979,7 +20982,9 @@
                 "city": "Des Moines",
                 "address": "501 SW 7th Street",
                 "address2": "Suite J",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-522-8939",
@@ -21016,7 +21021,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "baer-law-office",
@@ -21034,7 +21040,9 @@
                 "city": "Des Moines",
                 "address": "838 5th Avenue",
                 "address2": null,
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-279-2000",
@@ -21079,7 +21087,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schoenthaler-kahler-reicks-petersen",
@@ -21097,7 +21106,9 @@
                 "city": "Maquoketa",
                 "address": "123 North Main Street",
                 "address2": null,
-                "zip": "52060"
+                "zip": "52060",
+                "lat": 42.0984,
+                "lng": -90.6775
             },
             "contact": {
                 "phone": "563-275-7232",
@@ -21128,7 +21139,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berger-law-firm-p-c",
@@ -21146,7 +21158,9 @@
                 "city": "Urbandale",
                 "address": "P.O. Box 42533",
                 "address2": "2957 100th St., Suite 2",
-                "zip": "50322"
+                "zip": "50322",
+                "lat": 41.633,
+                "lng": -93.7373
             },
             "contact": {
                 "phone": "515-288-8888",
@@ -21166,7 +21180,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hedberg-boulton-p-c",
@@ -21184,7 +21199,9 @@
                 "city": "Des Moines",
                 "address": "100 Court Avenue",
                 "address2": "Suite 425",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-522-8626",
@@ -21220,7 +21237,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hixson-brown-p-c",
@@ -21238,7 +21256,9 @@
                 "city": "West Des Moines",
                 "address": "160 South 68th Street",
                 "address2": "Suite 1108",
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "515-361-7048",
@@ -21259,7 +21279,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carr-law-firm-p-l-c",
@@ -21277,7 +21298,9 @@
                 "city": "Des Moines",
                 "address": "300 Walnut Street",
                 "address2": "Suite 140",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-575-4574",
@@ -21308,7 +21331,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcmahon-stowater-laddusaw-buske",
@@ -21326,7 +21350,9 @@
                 "city": "Algona",
                 "address": "120 North Thorington Street",
                 "address2": null,
-                "zip": "50511"
+                "zip": "50511",
+                "lat": 43.0712,
+                "lng": -94.197
             },
             "contact": {
                 "phone": "833-675-7404",
@@ -21363,6 +21389,17 @@
                 "Real Estate",
                 "Tax Law",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pocahontas",
+                    "state": "IA",
+                    "zip": "50574",
+                    "address": "229 Main Street",
+                    "phone": "+18449435101",
+                    "lat": 42.6966,
+                    "lng": -94.6885
+                }
             ]
         },
         {
@@ -21381,7 +21418,9 @@
                 "city": "Des Moines",
                 "address": "300 Walnut Street",
                 "address2": "Suite 260",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-395-5163",
@@ -21420,6 +21459,17 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Omaha",
+                    "state": "NE",
+                    "zip": "68102",
+                    "address": "1299 Farnam Street, Suite 300",
+                    "phone": "+15153959583",
+                    "lat": 41.2633,
+                    "lng": -95.9305
+                }
             ]
         },
         {
@@ -21438,7 +21488,9 @@
                 "city": "Waterloo",
                 "address": "3324 Kimball Avenue",
                 "address2": null,
-                "zip": "50702"
+                "zip": "50702",
+                "lat": 42.4595,
+                "lng": -92.316
             },
             "contact": {
                 "phone": "319-387-8467",
@@ -21481,6 +21533,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Iowa City",
+                    "state": "IA",
+                    "zip": "52240",
+                    "address": "1570 South 1st Avenue, Suite G",
+                    "phone": "+13193870923",
+                    "lat": 41.6426,
+                    "lng": -91.5416
+                }
             ]
         },
         {
@@ -21499,7 +21562,9 @@
                 "city": "Fort Dodge",
                 "address": "809 Central Avenue",
                 "address2": "Suite 600",
-                "zip": "50501"
+                "zip": "50501",
+                "lat": 42.456,
+                "lng": -94.1965
             },
             "contact": {
                 "phone": "515-395-9866",
@@ -21561,6 +21626,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gowrie",
+                    "state": "IA",
+                    "zip": "50543",
+                    "address": "1103 Market Street",
+                    "phone": "+15152007850",
+                    "lat": 42.2818,
+                    "lng": -94.281
+                }
             ]
         },
         {
@@ -21579,7 +21655,9 @@
                 "city": "Cedar Rapids",
                 "address": "401 Old Marion Rd NE",
                 "address2": null,
-                "zip": "52402"
+                "zip": "52402",
+                "lat": 42.0247,
+                "lng": -91.6613
             },
             "contact": {
                 "phone": "319-220-8816",
@@ -21614,7 +21692,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stuart-tinley-law-firm-llp",
@@ -21632,7 +21711,9 @@
                 "city": "Council Bluffs",
                 "address": "300 West Broadway",
                 "address2": "Suite 175",
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "712-286-8845",
@@ -21667,7 +21748,8 @@
                 "Personal Injury",
                 "Personal Injury Defense",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-bradford-davis",
@@ -21685,7 +21767,9 @@
                 "city": "Council Bluffs",
                 "address": "421 West Broadway",
                 "address2": "Suite 306",
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "712-325-1400",
@@ -21706,7 +21790,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "telpner-peterson-law-firm-llp",
@@ -21724,7 +21809,9 @@
                 "city": "Council Bluffs",
                 "address": "25 Main Place",
                 "address2": "Suite 200",
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "712-286-2653",
@@ -21760,7 +21847,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "drew-law-firm-pc-injury-settlement-solutions",
@@ -21778,7 +21866,9 @@
                 "city": "Des Moines",
                 "address": "535 40th Street",
                 "address2": null,
-                "zip": "50312"
+                "zip": "50312",
+                "lat": 41.5785,
+                "lng": -93.6797
             },
             "contact": {
                 "phone": "515-395-9452",
@@ -21817,7 +21907,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "foster-law-office",
@@ -21835,7 +21926,9 @@
                 "city": "Iowa City",
                 "address": "1519 South Gilbert Street",
                 "address2": null,
-                "zip": "52240"
+                "zip": "52240",
+                "lat": 41.6426,
+                "lng": -91.5416
             },
             "contact": {
                 "phone": "319-317-2444",
@@ -21861,7 +21954,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "galligan-law",
@@ -21879,7 +21973,9 @@
                 "city": "Clive",
                 "address": "13375 University Ave.",
                 "address2": "Suite 302",
-                "zip": "50325"
+                "zip": "50325",
+                "lat": 41.6103,
+                "lng": -93.7808
             },
             "contact": {
                 "phone": "515-395-9617",
@@ -21923,7 +22019,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sellers-galenbeck-nelson",
@@ -21941,7 +22038,9 @@
                 "city": "Clive",
                 "address": "8230 Hickman Road",
                 "address2": "Suite 100",
-                "zip": "50325"
+                "zip": "50325",
+                "lat": 41.6103,
+                "lng": -93.7808
             },
             "contact": {
                 "phone": "515-221-0111",
@@ -21965,7 +22064,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dai-gwilliam-attorney-at-law",
@@ -21983,7 +22083,9 @@
                 "city": "Iowa City",
                 "address": "432 East Bloomington",
                 "address2": null,
-                "zip": "52244"
+                "zip": "52244",
+                "lat": 41.6611,
+                "lng": -91.5302
             },
             "contact": {
                 "phone": "319-354-6000",
@@ -22005,7 +22107,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hansen-law-offices",
@@ -22023,7 +22126,9 @@
                 "city": "Burlington",
                 "address": "319 North Main Street",
                 "address2": null,
-                "zip": "52601"
+                "zip": "52601",
+                "lat": 40.8413,
+                "lng": -91.1138
             },
             "contact": {
                 "phone": "319-752-5515",
@@ -22054,7 +22159,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kaeding-law-office-plc",
@@ -22072,7 +22178,9 @@
                 "city": "Council Bluffs",
                 "address": "535 W. Broadway",
                 "address2": "Suite 202",
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "712-286-8700",
@@ -22094,7 +22202,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "betty-neuman-mcmahon-plc",
@@ -22112,7 +22221,9 @@
                 "city": "Davenport",
                 "address": "1900 East 54th Street",
                 "address2": null,
-                "zip": "52807"
+                "zip": "52807",
+                "lat": 41.5782,
+                "lng": -90.5307
             },
             "contact": {
                 "phone": "563-326-4491",
@@ -22173,6 +22284,17 @@
                 "Sex Crime",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dearborn",
+                    "state": "MI",
+                    "zip": "48120",
+                    "address": "3200 Greenfield Road, Suite 300",
+                    "phone": "563-326-4491",
+                    "lat": 42.3045,
+                    "lng": -83.1798
+                }
             ]
         },
         {
@@ -22191,7 +22313,9 @@
                 "city": "Des Moines",
                 "address": "104 SW 4th Street",
                 "address2": "Suite A, Rumely Building",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-883-2222",
@@ -22224,7 +22348,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krehbiel-law-office-plc",
@@ -22242,7 +22367,9 @@
                 "city": "Donnellson",
                 "address": "712 Orchard Street",
                 "address2": "PO Box 150",
-                "zip": "52625"
+                "zip": "52625",
+                "lat": 40.6739,
+                "lng": -91.5693
             },
             "contact": {
                 "phone": "319-569-0498",
@@ -22262,7 +22389,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-timothy-l-lapointe-p-c",
@@ -22280,7 +22408,9 @@
                 "city": "Mason City",
                 "address": "Courtside Offices",
                 "address2": "23 3rd Street NW",
-                "zip": "50401"
+                "zip": "50401",
+                "lat": 43.1464,
+                "lng": -93.1816
             },
             "contact": {
                 "phone": "641-426-3736",
@@ -22309,7 +22439,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-gallner-pattermann-p-c",
@@ -22327,7 +22458,9 @@
                 "city": "Council Bluffs",
                 "address": "300 West Broadway",
                 "address2": "Suite 145",
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "877-840-0291",
@@ -22354,7 +22487,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "soper-leddin-law-firm-p-c",
@@ -22372,7 +22506,9 @@
                 "city": "Davenport",
                 "address": "5108 Jersey Ridge Road",
                 "address2": null,
-                "zip": "52807"
+                "zip": "52807",
+                "lat": 41.5782,
+                "lng": -90.5307
             },
             "contact": {
                 "phone": "563-441-1616",
@@ -22394,7 +22530,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legrant-law-firm",
@@ -22412,7 +22549,9 @@
                 "city": "Clive",
                 "address": "12257 University Ave.",
                 "address2": "Suite 201",
-                "zip": "50325"
+                "zip": "50325",
+                "lat": 41.6103,
+                "lng": -93.7808
             },
             "contact": {
                 "phone": "515-331-6500",
@@ -22441,7 +22580,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lombardi-miler-law-firm-pllc",
@@ -22459,7 +22599,9 @@
                 "city": "West Des Moines",
                 "address": "595 S 60th St",
                 "address2": "Suite 175",
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "515-217-5933",
@@ -22492,7 +22634,8 @@
                 "Drug Crime",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "loney-schueller-llc",
@@ -22510,7 +22653,9 @@
                 "city": "West Des Moines",
                 "address": "1311 50th Street",
                 "address2": null,
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "515-522-8490",
@@ -22531,7 +22676,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "luneckas-law-p-c",
@@ -22549,7 +22695,9 @@
                 "city": "Cedar Rapids",
                 "address": "866 First Avenue NE",
                 "address2": "Suite A",
-                "zip": "52402"
+                "zip": "52402",
+                "lat": 42.0247,
+                "lng": -91.6613
             },
             "contact": {
                 "phone": "319-294-8777",
@@ -22573,7 +22721,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "billings-mensen",
@@ -22591,7 +22740,9 @@
                 "city": "Red Oak",
                 "address": "608 N. 2nd St.",
                 "address2": "Ste. 100, PO Box 76",
-                "zip": "51566"
+                "zip": "51566",
+                "lat": 41.0232,
+                "lng": -95.2184
             },
             "contact": {
                 "phone": "800-875-4310",
@@ -22634,7 +22785,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stowers-nelsen",
@@ -22652,7 +22804,9 @@
                 "city": "West Des Moines",
                 "address": "650 South Prairie View Drive",
                 "address2": "Suite 130",
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "800-320-7288",
@@ -22675,7 +22829,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "norris-injury-law-group",
@@ -22693,7 +22848,9 @@
                 "city": "West Des Moines",
                 "address": "1200 Valley West Drive",
                 "address2": "Suite 606",
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "515-395-5894",
@@ -22718,7 +22875,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "platt-law-firm-pc",
@@ -22736,7 +22894,9 @@
                 "city": "Urbandale",
                 "address": "2900 100th St",
                 "address2": "Ste 304",
-                "zip": "50322"
+                "zip": "50322",
+                "lat": 41.633,
+                "lng": -93.7373
             },
             "contact": {
                 "phone": "515-361-7114",
@@ -22761,7 +22921,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-a-poore-attorney",
@@ -22779,7 +22940,9 @@
                 "city": "51503 Council Bluffs",
                 "address": "421 W Broadway",
                 "address2": null,
-                "zip": "51503"
+                "zip": "51503",
+                "lat": 41.2463,
+                "lng": -95.7721
             },
             "contact": {
                 "phone": "712-328-3071",
@@ -22800,7 +22963,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paul-rosenberg-p-c",
@@ -22818,7 +22982,9 @@
                 "city": "Des Moines",
                 "address": "666 Grand Avenue",
                 "address2": "Suite 921",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-650-2106",
@@ -22841,7 +23007,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rush-m-shortley-attorney-at-law",
@@ -22859,7 +23026,9 @@
                 "city": "Coralville",
                 "address": "2140 Norcor Ave.",
                 "address2": "Suite 103",
-                "zip": "52241"
+                "zip": "52241",
+                "lat": 41.6928,
+                "lng": -91.5875
             },
             "contact": {
                 "phone": "319-354-2096",
@@ -22891,6 +23060,17 @@
                 "Debtor and Creditor",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cedar Rapids",
+                    "state": "IA",
+                    "zip": "52402",
+                    "address": "1921 51st Street N.E.",
+                    "phone": "800-592-1969",
+                    "lat": 42.0247,
+                    "lng": -91.6613
+                }
             ]
         },
         {
@@ -22909,7 +23089,9 @@
                 "city": "West Des Moines",
                 "address": "5070 Grand Ridge Drive",
                 "address2": null,
-                "zip": "50265"
+                "zip": "50265",
+                "lat": 41.5597,
+                "lng": -93.738
             },
             "contact": {
                 "phone": "833-945-4200",
@@ -22947,7 +23129,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spellman-law-p-c",
@@ -22965,7 +23148,9 @@
                 "city": "West Des Moines",
                 "address": "4000 Westown Pkwy",
                 "address2": "Suite 120",
-                "zip": "50266"
+                "zip": "50266",
+                "lat": 41.5599,
+                "lng": -93.7856
             },
             "contact": {
                 "phone": "515-222-4330",
@@ -23006,7 +23191,8 @@
                 "Federal and White Collar Crimes",
                 "Internet",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tripp-p-c",
@@ -23024,7 +23210,9 @@
                 "city": "Des Moines",
                 "address": "500 E Court Ave",
                 "address2": "Suite 200",
-                "zip": "50309"
+                "zip": "50309",
+                "lat": 41.5848,
+                "lng": -93.6208
             },
             "contact": {
                 "phone": "515-267-0110",
@@ -23046,6 +23234,17 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Pella",
+                    "state": "IA",
+                    "zip": "50219",
+                    "address": "810 Washington Street",
+                    "phone": "(641) 628-9343",
+                    "lat": 41.4035,
+                    "lng": -92.9019
+                }
             ]
         },
         {
@@ -23064,7 +23263,9 @@
                 "city": "Bettendorf",
                 "address": "3285 Utica Ridge Rd.",
                 "address2": null,
-                "zip": "52722"
+                "zip": "52722",
+                "lat": 41.5651,
+                "lng": -90.4559
             },
             "contact": {
                 "phone": "563-484-2343",
@@ -23090,7 +23291,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wertz-law-firm-p-c",
@@ -23108,7 +23310,9 @@
                 "city": "Cedar Rapids",
                 "address": "1500 Center Street NE",
                 "address2": "Suite 101",
-                "zip": "52402"
+                "zip": "52402",
+                "lat": 42.0247,
+                "lng": -91.6613
             },
             "contact": {
                 "phone": "319-777-0955",
@@ -23132,7 +23336,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jenny-l-weiss-pllc",
@@ -23150,7 +23355,9 @@
                 "city": "Dubuque",
                 "address": "890 Main Street",
                 "address2": "Suite 200B",
-                "zip": "52001"
+                "zip": "52001",
+                "lat": 42.559,
+                "lng": -90.6961
             },
             "contact": {
                 "phone": "563-275-7648",
@@ -23183,7 +23390,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

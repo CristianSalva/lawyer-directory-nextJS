@@ -9929,7 +9929,9 @@
                 "city": "Twin Falls",
                 "address": "132 3rd Ave. E.",
                 "address2": null,
-                "zip": "83301"
+                "zip": "83301",
+                "lat": 42.314,
+                "lng": -114.6595
             },
             "contact": {
                 "phone": "208-733-5566",
@@ -9968,6 +9970,17 @@
                 "Personal Injury",
                 "Personal Injury Defense",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boise",
+                    "state": "ID",
+                    "zip": "83703",
+                    "address": "3100 N. Lakeharbor Lane, Suite 285",
+                    "phone": "208-733-5566",
+                    "lat": 43.6594,
+                    "lng": -116.2417
+                }
             ]
         },
         {
@@ -9986,7 +9999,9 @@
                 "city": "Boise",
                 "address": "604 N. 16th St.",
                 "address2": null,
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-344-5500",
@@ -10010,6 +10025,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Caldwell",
+                    "state": "ID",
+                    "zip": "83605",
+                    "address": "1016 E. Chicago St",
+                    "phone": "(208) 344-5500",
+                    "lat": 43.6681,
+                    "lng": -116.6483
+                }
             ]
         },
         {
@@ -10028,7 +10054,9 @@
                 "city": "Coeur d'Alene",
                 "address": "320 E. Neider Ave.",
                 "address2": "#207",
-                "zip": "83815"
+                "zip": "83815",
+                "lat": 47.7255,
+                "lng": -116.7899
             },
             "contact": {
                 "phone": "208-719-7441",
@@ -10056,7 +10084,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "amendola-doty-zanetti-pllc",
@@ -10074,7 +10103,9 @@
                 "city": "Coeur d’Alene",
                 "address": "Coeur d’Alene, ID",
                 "address2": "702 North 4th Street",
-                "zip": "83814"
+                "zip": "83814",
+                "lat": 47.6193,
+                "lng": -116.6826
             },
             "contact": {
                 "phone": "208-449-1179",
@@ -10125,7 +10156,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcconnell-wagner-sykes-stacey-pllc",
@@ -10143,7 +10175,9 @@
                 "city": "Boise",
                 "address": "827 E. Park Blvd.",
                 "address2": "Suite 201",
-                "zip": "83712"
+                "zip": "83712",
+                "lat": 43.6106,
+                "lng": -116.1237
             },
             "contact": {
                 "phone": "208-994-5029",
@@ -10167,7 +10201,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "everman-mediation-law-pllc",
@@ -10185,7 +10220,9 @@
                 "city": "Meridian",
                 "address": "39 W. Pine Avenue",
                 "address2": "Suite B20",
-                "zip": "83642"
+                "zip": "83642",
+                "lat": 43.5695,
+                "lng": -116.404
             },
             "contact": {
                 "phone": "208-639-3918",
@@ -10207,7 +10244,8 @@
             ],
             "official_practice_area": [
                 "Collaborative Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-matthew-g-gunn",
@@ -10225,7 +10263,9 @@
                 "city": "Boise",
                 "address": "2710 Sunrise Rim Road",
                 "address2": "Ste. 100",
-                "zip": "83705"
+                "zip": "83705",
+                "lat": 43.5606,
+                "lng": -116.2198
             },
             "contact": {
                 "phone": "208-243-8991",
@@ -10255,7 +10295,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mossman-law-office",
@@ -10273,7 +10314,9 @@
                 "city": "Boise",
                 "address": "611 West Hays Street",
                 "address2": null,
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-932-8115",
@@ -10307,7 +10350,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-hawkins-pllc",
@@ -10325,7 +10369,9 @@
                 "city": "Boise",
                 "address": "600 E Riverpark Ln",
                 "address2": "Ste 210",
-                "zip": "83706"
+                "zip": "83706",
+                "lat": 43.5944,
+                "lng": -116.1924
             },
             "contact": {
                 "phone": "208-719-8726",
@@ -10355,7 +10401,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jones-law-partners",
@@ -10373,7 +10420,9 @@
                 "city": "Boise",
                 "address": "250 S 5th St",
                 "address2": "Suite 300",
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-932-9965",
@@ -10394,7 +10443,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kormanik-sneed-llp",
@@ -10412,7 +10462,9 @@
                 "city": "Boise",
                 "address": "206 W. Jefferson St.",
                 "address2": null,
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-288-1888",
@@ -10434,7 +10486,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "owens-mccrea-linscott-pllc",
@@ -10452,7 +10505,9 @@
                 "city": "Coeur d’Alene",
                 "address": "Coeur d’Alene, ID",
                 "address2": "HECLA BUILDING, 6500 N. Mineral Drive, Suite 103",
-                "zip": "83815"
+                "zip": "83815",
+                "lat": 47.7255,
+                "lng": -116.7899
             },
             "contact": {
                 "phone": "208-762-0203",
@@ -10490,7 +10545,8 @@
                 "Personal Injury",
                 "Probate",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barker-rosholt-simpson-llp",
@@ -10508,7 +10564,9 @@
                 "city": "Twin Falls",
                 "address": "163 2nd Avenue West",
                 "address2": null,
-                "zip": "83301"
+                "zip": "83301",
+                "lat": 42.314,
+                "lng": -114.6595
             },
             "contact": {
                 "phone": "208-534-9769",
@@ -10551,6 +10609,17 @@
                 "Insurance Defense",
                 "Land Use and Zoning",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boise",
+                    "state": "ID",
+                    "zip": "83702",
+                    "address": "1010 W. Jefferson St., Suite 102",
+                    "phone": "208-534-9769",
+                    "lat": 43.6645,
+                    "lng": -116.1646
+                }
             ]
         },
         {
@@ -10569,7 +10638,9 @@
                 "city": "Boise",
                 "address": "1211 W Myrtle St",
                 "address2": "#350",
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-296-6451",
@@ -10604,7 +10675,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcpherson-law-office-pllc",
@@ -10622,7 +10694,9 @@
                 "city": "Moscow",
                 "address": "220 E 5th St",
                 "address2": "Ste 315",
-                "zip": "83843"
+                "zip": "83843",
+                "lat": 46.7172,
+                "lng": -116.9215
             },
             "contact": {
                 "phone": "208-701-0886",
@@ -10648,7 +10722,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jon3law-pllc",
@@ -10666,7 +10741,9 @@
                 "city": "Twin Falls",
                 "address": "1031 Eastland Dr.",
                 "address2": "Suite 1B",
-                "zip": "83303"
+                "zip": "83303",
+                "lat": 42.5632,
+                "lng": -114.46
             },
             "contact": {
                 "phone": "208-734-5663",
@@ -10685,7 +10762,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thomas-williams-park-llp",
@@ -10703,7 +10781,9 @@
                 "city": "Boise",
                 "address": "225 N. 9th Street",
                 "address2": "Suite 810",
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-345-7800",
@@ -10724,7 +10804,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "perkins-law-pllc",
@@ -10742,7 +10823,9 @@
                 "city": "Caldwell",
                 "address": "PO Box 1117",
                 "address2": null,
-                "zip": "83606"
+                "zip": "83606",
+                "lat": 43.6631,
+                "lng": -116.6865
             },
             "contact": {
                 "phone": "208-473-2891",
@@ -10762,7 +10845,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leon-rothstein-attorney-at-law",
@@ -10780,7 +10864,9 @@
                 "city": "Boise",
                 "address": "2627 W. Idaho St.",
                 "address2": null,
-                "zip": "83702"
+                "zip": "83702",
+                "lat": 43.6645,
+                "lng": -116.1646
             },
             "contact": {
                 "phone": "208-338-1001",
@@ -10811,7 +10897,8 @@
                 "Contracts",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

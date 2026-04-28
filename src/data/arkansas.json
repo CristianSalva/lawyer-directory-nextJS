@@ -14727,7 +14727,9 @@
                 "city": "Fayetteville",
                 "address": "100 West Center Street",
                 "address2": "Suite 200, P.O. Box 1506",
-                "zip": "72702"
+                "zip": "72702",
+                "lat": 36.0625,
+                "lng": -94.1573
             },
             "contact": {
                 "phone": "479-582-5353",
@@ -14778,6 +14780,17 @@
                 "Professional Malpractice",
                 "Real Estate",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jonesboro",
+                    "state": "AR",
+                    "zip": "72401",
+                    "address": "300 South Church Street, Third Floor",
+                    "phone": "(870) 931-1700",
+                    "lat": 35.8881,
+                    "lng": -90.638
+                }
             ]
         },
         {
@@ -14796,7 +14809,9 @@
                 "city": "Little Rock",
                 "address": "221 W. 2nd St.",
                 "address2": "Suite 427",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-7181",
@@ -14826,7 +14841,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-bennett-williams",
@@ -14844,7 +14860,9 @@
                 "city": "Conway",
                 "address": "701 Chestnut St.",
                 "address2": null,
-                "zip": "72032"
+                "zip": "72032",
+                "lat": 35.064,
+                "lng": -92.3706
             },
             "contact": {
                 "phone": "501-336-8788",
@@ -14870,6 +14888,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Little Rock",
+                    "state": "AR",
+                    "zip": "72201",
+                    "address": "425 W. Capitol Ave., Suite 211",
+                    "phone": "(501) 336-8788",
+                    "lat": 34.7467,
+                    "lng": -92.2801
+                }
             ]
         },
         {
@@ -14888,7 +14917,9 @@
                 "city": "Fayetteville",
                 "address": "121 W. South Street",
                 "address2": "P.O. Box 4248",
-                "zip": "72702"
+                "zip": "72702",
+                "lat": 36.0625,
+                "lng": -94.1573
             },
             "contact": {
                 "phone": "479-802-4834",
@@ -14917,7 +14948,8 @@
                 "Construction",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mgw-law-partners",
@@ -14935,7 +14967,9 @@
                 "city": "Fayetteville",
                 "address": "3729 N Crossover Rd",
                 "address2": "Suite 111",
-                "zip": "72703"
+                "zip": "72703",
+                "lat": 36.1182,
+                "lng": -94.06
             },
             "contact": {
                 "phone": "479-521-7050",
@@ -14965,7 +14999,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-cardwell-firm-p-a",
@@ -14983,7 +15018,9 @@
                 "city": "Little Rock",
                 "address": "201 East Markham Street",
                 "address2": "Suite 70",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-734-9326",
@@ -15013,7 +15050,8 @@
                 "Family Law",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-wesley-hall",
@@ -15031,7 +15069,9 @@
                 "city": "Little Rock",
                 "address": "1202 Main Street",
                 "address2": "Suite 210",
-                "zip": "72202"
+                "zip": "72202",
+                "lat": 34.7529,
+                "lng": -92.2748
             },
             "contact": {
                 "phone": "501-263-9917",
@@ -15069,7 +15109,8 @@
                 "Internet",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-carter-plc",
@@ -15087,7 +15128,9 @@
                 "city": "Little Rock",
                 "address": "100 River Bluff Dr.",
                 "address2": "Suite 420",
-                "zip": "72202"
+                "zip": "72202",
+                "lat": 34.7529,
+                "lng": -92.2748
             },
             "contact": {
                 "phone": "501-496-7802",
@@ -15119,7 +15162,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "natural-state-trial-attorneys",
@@ -15137,7 +15181,9 @@
                 "city": "Lowell",
                 "address": "117 Parkwood St.",
                 "address2": null,
-                "zip": "72745"
+                "zip": "72745",
+                "lat": 36.2471,
+                "lng": -94.1118
             },
             "contact": {
                 "phone": "479-480-9670",
@@ -15163,7 +15209,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcmullan-brown",
@@ -15181,7 +15228,9 @@
                 "city": "Benton",
                 "address": "117 S. Market Street, Suite 215",
                 "address2": null,
-                "zip": "72015"
+                "zip": "72015",
+                "lat": 34.5345,
+                "lng": -92.6219
             },
             "contact": {
                 "phone": "501-490-9298",
@@ -15208,7 +15257,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legacy-estates-trusts-pllc",
@@ -15226,7 +15276,9 @@
                 "city": "Cabot",
                 "address": "909 South Pine Street",
                 "address2": "Suite A",
-                "zip": "72023"
+                "zip": "72023",
+                "lat": 34.9419,
+                "lng": -92.0685
             },
             "contact": {
                 "phone": "501-496-7784",
@@ -15255,7 +15307,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cortinez-law-firm",
@@ -15273,7 +15326,9 @@
                 "city": "Little Rock",
                 "address": "#2 Van Circle",
                 "address2": "Suite 5",
-                "zip": "72207"
+                "zip": "72207",
+                "lat": 34.7762,
+                "lng": -92.3417
             },
             "contact": {
                 "phone": "501-496-7170",
@@ -15330,7 +15385,8 @@
                 "Sex Crime",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jurist-law-group-pllc",
@@ -15348,7 +15404,9 @@
                 "city": "Little Rock",
                 "address": "10809 Executive Center Dr.",
                 "address2": "Suite - Plaza 9",
-                "zip": "72211"
+                "zip": "72211",
+                "lat": 34.742,
+                "lng": -92.4177
             },
             "contact": {
                 "phone": "501-496-7396",
@@ -15384,7 +15442,8 @@
                 "Probate",
                 "Real Estate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-dewitt-firm",
@@ -15402,7 +15461,9 @@
                 "city": "Little Rock",
                 "address": "18601 Kanis Road",
                 "address2": "Suite 1",
-                "zip": "72223"
+                "zip": "72223",
+                "lat": 34.7968,
+                "lng": -92.5152
             },
             "contact": {
                 "phone": "501-404-2055",
@@ -15431,7 +15492,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "digby-law-firm",
@@ -15449,7 +15511,9 @@
                 "city": "Benton",
                 "address": "109 W South Street",
                 "address2": null,
-                "zip": "72015"
+                "zip": "72015",
+                "lat": 34.5345,
+                "lng": -92.6219
             },
             "contact": {
                 "phone": null,
@@ -15462,7 +15526,8 @@
             "attorneys": [
                 "Bobby R. Digby II"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "hart-law-firm-l-l-p",
@@ -15480,7 +15545,9 @@
                 "city": "Little Rock",
                 "address": "415 North McKinley Street",
                 "address2": "Suite 330",
-                "zip": "72205"
+                "zip": "72205",
+                "lat": 34.7449,
+                "lng": -92.3465
             },
             "contact": {
                 "phone": "501-978-5444",
@@ -15508,7 +15575,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reddick-law-pllc",
@@ -15526,7 +15594,9 @@
                 "city": "Little Rock",
                 "address": "One Information Way",
                 "address2": "Suite 105",
-                "zip": "72202"
+                "zip": "72202",
+                "lat": 34.7529,
+                "lng": -92.2748
             },
             "contact": {
                 "phone": "888-649-5934",
@@ -15573,6 +15643,26 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80237",
+                    "address": "7900 E Union Ave., Suite 1101/1103",
+                    "phone": "+18444740162",
+                    "lat": 39.6385,
+                    "lng": -104.9059
+                },
+                {
+                    "city": "Santa Fe",
+                    "state": "NM",
+                    "zip": "87501",
+                    "address": "150 Washington Ave, Suite 269",
+                    "phone": "+18444740162",
+                    "lat": 35.7091,
+                    "lng": -105.8594
+                }
             ]
         },
         {
@@ -15591,7 +15681,9 @@
                 "city": "Fayetteville",
                 "address": "4302 North Waterside Court",
                 "address2": null,
-                "zip": "72703"
+                "zip": "72703",
+                "lat": 36.1182,
+                "lng": -94.06
             },
             "contact": {
                 "phone": "479-587-8423",
@@ -15618,7 +15710,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murad-law-firm-pllc",
@@ -15636,7 +15729,9 @@
                 "city": "Little Rock",
                 "address": "900 S. Shackleford Road",
                 "address2": "Suite 300",
-                "zip": "72211"
+                "zip": "72211",
+                "lat": 34.742,
+                "lng": -92.4177
             },
             "contact": {
                 "phone": "501-508-6788",
@@ -15660,7 +15755,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "epperson-panasiuk-law",
@@ -15678,7 +15774,9 @@
                 "city": "Little Rock",
                 "address": "11300 N Rodney Parham Rd",
                 "address2": "Suite 110",
-                "zip": "72212"
+                "zip": "72212",
+                "lat": 34.7896,
+                "lng": -92.4119
             },
             "contact": {
                 "phone": "501-200-1255",
@@ -15712,7 +15810,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bef-law-firm-pllc",
@@ -15730,7 +15829,9 @@
                 "city": "Hot Springs",
                 "address": "229 Hazel St.",
                 "address2": null,
-                "zip": "71901"
+                "zip": "71901",
+                "lat": 34.5329,
+                "lng": -92.9743
             },
             "contact": {
                 "phone": "501-359-3882",
@@ -15752,7 +15853,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "aundrea-stone-hanna-p-l-l-c",
@@ -15770,7 +15872,9 @@
                 "city": "Fort Smith",
                 "address": "120 N 16th St.",
                 "address2": null,
-                "zip": "72901"
+                "zip": "72901",
+                "lat": 35.3667,
+                "lng": -94.4147
             },
             "contact": {
                 "phone": "479-935-2419",
@@ -15799,6 +15903,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fayetteville",
+                    "state": "AR",
+                    "zip": "72701",
+                    "address": "7 1/2 E Mountain",
+                    "phone": "479-935-2419",
+                    "lat": 35.9445,
+                    "lng": -94.0914
+                }
             ]
         },
         {
@@ -15817,7 +15932,9 @@
                 "city": "Fort Smith",
                 "address": "511 Garrison Avenue",
                 "address2": null,
-                "zip": "72901"
+                "zip": "72901",
+                "lat": 35.3667,
+                "lng": -94.4147
             },
             "contact": {
                 "phone": "479-480-9769",
@@ -15848,7 +15965,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mays-gore-gipson-pllc",
@@ -15866,7 +15984,9 @@
                 "city": "Little Rock",
                 "address": "2226 Cottondale Lane",
                 "address2": "Suite 210",
-                "zip": "72202"
+                "zip": "72202",
+                "lat": 34.7529,
+                "lng": -92.2748
             },
             "contact": {
                 "phone": "501-451-5405",
@@ -15909,7 +16029,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gramling-law-firm-plc",
@@ -15927,7 +16048,9 @@
                 "city": "Jonesboro",
                 "address": "2500 Alexander Drive",
                 "address2": "Suite B",
-                "zip": "72401"
+                "zip": "72401",
+                "lat": 35.8881,
+                "lng": -90.638
             },
             "contact": {
                 "phone": "870-912-5049",
@@ -15958,7 +16081,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hatfield-harris-pllc",
@@ -15976,7 +16100,9 @@
                 "city": "Rogers",
                 "address": "5208 Village Parkway",
                 "address2": "Suite 9",
-                "zip": "72758"
+                "zip": "72758",
+                "lat": 36.3021,
+                "lng": -94.1214
             },
             "contact": {
                 "phone": "479-480-9038",
@@ -16013,7 +16139,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reeves-law-firm",
@@ -16031,7 +16158,9 @@
                 "city": "Batesville",
                 "address": "520 Harrison St.",
                 "address2": null,
-                "zip": "72501"
+                "zip": "72501",
+                "lat": 35.7926,
+                "lng": -91.6656
             },
             "contact": {
                 "phone": "870-912-5935",
@@ -16056,6 +16185,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Melbourne",
+                    "state": "AR",
+                    "zip": "72556",
+                    "address": "8 Lunen St.",
+                    "phone": "+18709125935",
+                    "lat": 36.0245,
+                    "lng": -91.925
+                }
             ]
         },
         {
@@ -16074,7 +16214,9 @@
                 "city": "Conway",
                 "address": "611 Court St.",
                 "address2": "Suite 9",
-                "zip": "72032"
+                "zip": "72032",
+                "lat": 35.064,
+                "lng": -92.3706
             },
             "contact": {
                 "phone": "501-588-3427",
@@ -16105,7 +16247,8 @@
                 "Collaborative Law",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-law-firm",
@@ -16123,7 +16266,9 @@
                 "city": "Little Rock",
                 "address": "1001 La Harpe Blvd.",
                 "address2": null,
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-214-1095",
@@ -16161,7 +16306,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robertson-oswalt-nony-kennedy-pllc",
@@ -16179,7 +16325,9 @@
                 "city": "Little Rock",
                 "address": "The Simmons Tower - 35th Floor",
                 "address2": "425 West Capitol Ave., Suite 3550",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-6937",
@@ -16208,7 +16356,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kidder-criminal-defense",
@@ -16226,7 +16375,9 @@
                 "city": "Little Rock",
                 "address": "221 W 2nd St",
                 "address2": "Suite 427",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-6653",
@@ -16251,7 +16402,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dodds-kidd-ryan",
@@ -16269,7 +16421,9 @@
                 "city": "Little Rock",
                 "address": "313 West Second Street",
                 "address2": null,
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "877-885-8839",
@@ -16292,7 +16446,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-brad-hendricks-law-firm",
@@ -16310,7 +16465,9 @@
                 "city": "Little Rock",
                 "address": "500 Pleasant Valley Drive",
                 "address2": "Building C",
-                "zip": "72227"
+                "zip": "72227",
+                "lat": 34.7784,
+                "lng": -92.3743
             },
             "contact": {
                 "phone": "501-221-0444",
@@ -16337,7 +16494,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "odom-law-firm",
@@ -16355,7 +16513,9 @@
                 "city": "Fayetteville",
                 "address": "161 W. Van Asche Loop",
                 "address2": "Ste. 1",
-                "zip": "72703"
+                "zip": "72703",
+                "lat": 36.1182,
+                "lng": -94.06
             },
             "contact": {
                 "phone": "479-442-7575",
@@ -16378,7 +16538,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laporte-jenner-law-pllc",
@@ -16396,7 +16557,9 @@
                 "city": "Little Rock",
                 "address": "1220 W 6th St.",
                 "address2": null,
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-6515",
@@ -16427,7 +16590,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mustain-law-firm-pllc",
@@ -16445,7 +16609,9 @@
                 "city": "Benton",
                 "address": "1227 Military Rd",
                 "address2": "Suite #8",
-                "zip": "72015"
+                "zip": "72015",
+                "lat": 34.5345,
+                "lng": -92.6219
             },
             "contact": {
                 "phone": "501-496-6900",
@@ -16477,7 +16643,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "niswanger-law-firm-plc",
@@ -16495,7 +16662,9 @@
                 "city": "Little Rock",
                 "address": "212 Center Street",
                 "address2": "6th Floor",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-260-8226",
@@ -16540,7 +16709,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wesley-rhodes-attorney-at-law",
@@ -16558,7 +16728,9 @@
                 "city": "Little Rock",
                 "address": "217 W 2nd St.",
                 "address2": "Suite 303",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-7461",
@@ -16582,7 +16754,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scholl-law-firm-pllc",
@@ -16600,7 +16773,9 @@
                 "city": "Little Rock",
                 "address": "111 Center Street",
                 "address2": "Suite 1200",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-588-1148",
@@ -16653,7 +16828,8 @@
                 "Military Divorce",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-smith-firm",
@@ -16671,7 +16847,9 @@
                 "city": "Little Rock",
                 "address": "400 W. Capitol Ave.",
                 "address2": "Suite 1700",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-496-6671",
@@ -16692,7 +16870,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tapp-law-firm",
@@ -16710,7 +16889,9 @@
                 "city": "Hot Springs",
                 "address": "1018 Airport Road",
                 "address2": "Suite 120",
-                "zip": "71913"
+                "zip": "71913",
+                "lat": 34.4777,
+                "lng": -93.0604
             },
             "contact": {
                 "phone": "501-623-9800",
@@ -16747,7 +16928,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "veon-law-firm-p-a",
@@ -16765,7 +16947,9 @@
                 "city": "Texarkana",
                 "address": "210 N State Line Ave",
                 "address2": "Suite 303",
-                "zip": "71854"
+                "zip": "71854",
+                "lat": 33.4628,
+                "lng": -93.8832
             },
             "contact": {
                 "phone": "870-774-7390",
@@ -16784,7 +16968,8 @@
                 "Ashley Camille Henson",
                 "Sarah C. Ross"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "daniel-a-webb-pa",
@@ -16802,7 +16987,9 @@
                 "city": "Little Rock",
                 "address": "111 Center Street",
                 "address2": "Suite 1200",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "501-372-2400",
@@ -16843,7 +17030,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rice-adams-woodruff",
@@ -16861,7 +17049,9 @@
                 "city": "Jacksonville",
                 "address": "501 West Main Street",
                 "address2": null,
-                "zip": "72076"
+                "zip": "72076",
+                "lat": 34.9157,
+                "lng": -92.1519
             },
             "contact": {
                 "phone": "501-982-6556",
@@ -16884,6 +17074,17 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cabot",
+                    "state": "AR",
+                    "zip": "72023",
+                    "address": "2120 West Main Street",
+                    "phone": "(501) 982-6556",
+                    "lat": 34.9419,
+                    "lng": -92.0685
+                }
             ]
         },
         {
@@ -16902,7 +17103,9 @@
                 "city": "Little Rock",
                 "address": "111 Center Street",
                 "address2": "Suite 1200",
-                "zip": "72201"
+                "zip": "72201",
+                "lat": 34.7467,
+                "lng": -92.2801
             },
             "contact": {
                 "phone": "888-594-6145",
@@ -16929,7 +17132,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

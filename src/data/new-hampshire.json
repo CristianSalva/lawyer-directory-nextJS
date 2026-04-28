@@ -27498,7 +27498,9 @@
                 "city": "Nashua",
                 "address": "20 Trafalgar Square",
                 "address2": "Suite 505",
-                "zip": "03063"
+                "zip": "03063",
+                "lat": 42.7713,
+                "lng": -71.527
             },
             "contact": {
                 "phone": "603-883-5501",
@@ -27552,6 +27554,17 @@
                 "Probate",
                 "Real Estate",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portsmouth",
+                    "state": "NH",
+                    "zip": "03801",
+                    "address": "155 Fleet Street",
+                    "phone": "603-825-5411",
+                    "lat": 43.0675,
+                    "lng": -70.7998
+                }
             ]
         },
         {
@@ -27570,7 +27583,9 @@
                 "city": "Manchester",
                 "address": "694 Pine Street",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-259-4495",
@@ -27599,7 +27614,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ransmeier-spellman-p-c",
@@ -27617,7 +27633,9 @@
                 "city": "Concord",
                 "address": "One Capitol Street",
                 "address2": "Fourth Floor",
-                "zip": "03301"
+                "zip": "03301",
+                "lat": 43.2305,
+                "lng": -71.548
             },
             "contact": {
                 "phone": "603-290-5104",
@@ -27660,6 +27678,17 @@
                 "Personal Injury",
                 "Real Estate",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rochester",
+                    "state": "NH",
+                    "zip": "03867",
+                    "address": "One Windhaven Drive",
+                    "phone": "603-290-5104",
+                    "lat": 43.3013,
+                    "lng": -70.9929
+                }
             ]
         },
         {
@@ -27678,7 +27707,9 @@
                 "city": "Manchester",
                 "address": "722 Chestnut Street",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-709-0406",
@@ -27706,7 +27737,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "black-lafrance-bollinger-llc",
@@ -27724,7 +27756,9 @@
                 "city": "Nashua",
                 "address": "61 Spit Brook Rd.",
                 "address2": "Ste. 407",
-                "zip": "03060"
+                "zip": "03060",
+                "lat": 42.7345,
+                "lng": -71.4624
             },
             "contact": {
                 "phone": "603-457-4399",
@@ -27759,6 +27793,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Woburn",
+                    "state": "MA",
+                    "zip": "01801",
+                    "address": "300 Tradecenter Dr, #4690",
+                    "phone": "+17813469928",
+                    "lat": 42.4895,
+                    "lng": -71.1589
+                }
             ]
         },
         {
@@ -27777,7 +27822,9 @@
                 "city": "Manchester",
                 "address": "815 Elm Street",
                 "address2": "Suite 5B",
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-373-1600",
@@ -27802,7 +27849,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rousseau-ross-pllc",
@@ -27820,7 +27868,9 @@
                 "city": "Lebanon",
                 "address": "367 NH Route 120",
                 "address2": "Suite B-7",
-                "zip": "03766"
+                "zip": "03766",
+                "lat": 43.635,
+                "lng": -72.2319
             },
             "contact": {
                 "phone": "603-212-1176",
@@ -27850,7 +27900,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "backus-meyer-branch-llp",
@@ -27868,7 +27919,9 @@
                 "city": "Manchester",
                 "address": "116 Lowell St.",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-244-3282",
@@ -27894,7 +27947,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilson-bush-keefe-p-c",
@@ -27912,7 +27966,9 @@
                 "city": "Nashua",
                 "address": "378 Main Street",
                 "address2": null,
-                "zip": "03060"
+                "zip": "03060",
+                "lat": 42.7345,
+                "lng": -71.4624
             },
             "contact": {
                 "phone": "603-236-7605",
@@ -27944,7 +28000,8 @@
                 "DUI and DWI",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coates-law-office",
@@ -27962,7 +28019,9 @@
                 "city": "Nashua",
                 "address": "400 Amherst Street",
                 "address2": "Suite 102",
-                "zip": "03063"
+                "zip": "03063",
+                "lat": 42.7713,
+                "lng": -71.527
             },
             "contact": {
                 "phone": "603-262-5766",
@@ -28002,7 +28061,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ward-law-group-pllc",
@@ -28020,7 +28080,9 @@
                 "city": "Manchester",
                 "address": "28 Webster Street",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-232-5220",
@@ -28062,6 +28124,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashua",
+                    "state": "NH",
+                    "zip": "03062",
+                    "address": "1 Tara Boulevard, Suite 200",
+                    "phone": "(603) 384-3272",
+                    "lat": 42.7304,
+                    "lng": -71.4948
+                }
             ]
         },
         {
@@ -28080,7 +28153,9 @@
                 "city": "Manchester",
                 "address": "36 Salmon Street",
                 "address2": "Suite #1",
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-246-5650",
@@ -28126,6 +28201,17 @@
                 "Truck Accident",
                 "Wills",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Londonderry",
+                    "state": "NH",
+                    "zip": "03053",
+                    "address": "One Buttrick Road",
+                    "phone": "+16032465652",
+                    "lat": 42.8731,
+                    "lng": -71.3909
+                }
             ]
         },
         {
@@ -28144,7 +28230,9 @@
                 "city": "Concord",
                 "address": "2 Greenwood Ave.",
                 "address2": null,
-                "zip": "03301"
+                "zip": "03301",
+                "lat": 43.2305,
+                "lng": -71.548
             },
             "contact": {
                 "phone": "603-225-9900",
@@ -28163,7 +28251,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rainboth-coughenour-lown-pa",
@@ -28181,7 +28270,9 @@
                 "city": "Portsmouth",
                 "address": "439 Middle Street",
                 "address2": null,
-                "zip": "03801"
+                "zip": "03801",
+                "lat": 43.0675,
+                "lng": -70.7998
             },
             "contact": {
                 "phone": "603-212-1747",
@@ -28229,7 +28320,8 @@
                 "Professional Malpractice",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "craighead-martin-pllc",
@@ -28247,7 +28339,9 @@
                 "city": "Manchester",
                 "address": "91 Middle Street",
                 "address2": null,
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-316-6769",
@@ -28280,7 +28374,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-darlene-m-daniele",
@@ -28298,7 +28393,9 @@
                 "city": "Salem",
                 "address": "56 Stiles Road",
                 "address2": "Suite 103B",
-                "zip": "03079"
+                "zip": "03079",
+                "lat": 42.795,
+                "lng": -71.2256
             },
             "contact": {
                 "phone": "603-513-2766",
@@ -28331,7 +28428,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dwyer-donovan-reis",
@@ -28349,7 +28447,9 @@
                 "city": "Portsmouth",
                 "address": "461 Middle Street",
                 "address2": null,
-                "zip": "03801"
+                "zip": "03801",
+                "lat": 43.0675,
+                "lng": -70.7998
             },
             "contact": {
                 "phone": "603-433-7040",
@@ -28371,7 +28471,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-daniel-duckett",
@@ -28389,7 +28490,9 @@
                 "city": "Manchester",
                 "address": "99 Middle Street",
                 "address2": null,
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-836-9028",
@@ -28411,7 +28514,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-william-m-gillen-pc",
@@ -28429,7 +28533,9 @@
                 "city": "Manchester",
                 "address": "913 Elm Street",
                 "address2": "Suite 511A",
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-625-5333",
@@ -28450,6 +28556,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashua",
+                    "state": "NH",
+                    "zip": "03063",
+                    "address": "20 Trafalgar Square, 4th Floor",
+                    "phone": "603-882-3223",
+                    "lat": 42.7713,
+                    "lng": -71.527
+                }
             ]
         },
         {
@@ -28468,7 +28585,9 @@
                 "city": "Manchester",
                 "address": "1838 Elm Street",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-819-5187",
@@ -28494,6 +28613,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portsmouth",
+                    "state": "NH",
+                    "zip": "03801",
+                    "address": "1 New Hampshire Ave., Suite 125",
+                    "phone": "603-819-5187",
+                    "lat": 43.0675,
+                    "lng": -70.7998
+                }
             ]
         },
         {
@@ -28512,7 +28642,9 @@
                 "city": "Nashua",
                 "address": "253 Main Street",
                 "address2": null,
-                "zip": "03060"
+                "zip": "03060",
+                "lat": 42.7345,
+                "lng": -71.4624
             },
             "contact": {
                 "phone": "603-988-0997",
@@ -28550,6 +28682,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Laconia",
+                    "state": "NH",
+                    "zip": "03246",
+                    "address": "486 Union Ave.",
+                    "phone": "+18664921094",
+                    "lat": 43.5655,
+                    "lng": -71.4815
+                }
             ]
         },
         {
@@ -28568,7 +28711,9 @@
                 "city": "Salem",
                 "address": "One Stiles Road",
                 "address2": "Suite 103",
-                "zip": "03079"
+                "zip": "03079",
+                "lat": 42.795,
+                "lng": -71.2256
             },
             "contact": {
                 "phone": "603-893-8008",
@@ -28593,6 +28738,17 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Andover",
+                    "state": "MA",
+                    "zip": "01810",
+                    "address": "300 Brickstone Square, Suite 201",
+                    "phone": "978-853-0982",
+                    "lat": 42.6496,
+                    "lng": -71.166
+                }
             ]
         },
         {
@@ -28611,7 +28767,9 @@
                 "city": "Manchester",
                 "address": "814 Elm Street",
                 "address2": "Suite 200",
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-463-0055",
@@ -28633,7 +28791,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kalled-law-offices-pllc",
@@ -28651,7 +28810,9 @@
                 "city": "Ossipee",
                 "address": "15 Courthouse Square",
                 "address2": null,
-                "zip": "03864"
+                "zip": "03864",
+                "lat": 43.6921,
+                "lng": -71.1132
             },
             "contact": {
                 "phone": "603-945-7259",
@@ -28686,6 +28847,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portsmouth",
+                    "state": "NH",
+                    "zip": "03801",
+                    "address": "1 New Hampshire Ave., Suite 125",
+                    "phone": "603-945-7259",
+                    "lat": 43.0675,
+                    "lng": -70.7998
+                }
             ]
         },
         {
@@ -28704,7 +28876,9 @@
                 "city": "Manchester",
                 "address": "40 W Brook St.",
                 "address2": null,
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-217-2428",
@@ -28733,7 +28907,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "small-lee-attorneys-at-law",
@@ -28751,7 +28926,9 @@
                 "city": "Nashua",
                 "address": "193 Kinsley Street",
                 "address2": null,
-                "zip": "03060"
+                "zip": "03060",
+                "lat": 42.7345,
+                "lng": -71.4624
             },
             "contact": {
                 "phone": "603-318-0025",
@@ -28784,7 +28961,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lehmann-major-list-pllc",
@@ -28802,7 +28980,9 @@
                 "city": "Concord",
                 "address": "6 Garvins Falls Rd",
                 "address2": null,
-                "zip": "03301"
+                "zip": "03301",
+                "lat": 43.2305,
+                "lng": -71.548
             },
             "contact": {
                 "phone": "603-715-2516",
@@ -28826,7 +29006,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "associated-attorneys-of-new-england",
@@ -28844,7 +29025,9 @@
                 "city": "Manchester",
                 "address": "1000 Elm St",
                 "address2": "Ste 803",
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-633-3854",
@@ -28888,7 +29071,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "newborn-law-pllc",
@@ -28906,7 +29090,9 @@
                 "city": "Keene",
                 "address": "163 Washington St.",
                 "address2": "1st Floor",
-                "zip": "03431"
+                "zip": "03431",
+                "lat": 42.9761,
+                "lng": -72.2765
             },
             "contact": {
                 "phone": "603-352-0600",
@@ -28943,7 +29129,8 @@
                 "Premises Liability",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "alvin-e-nix-jr-p-c",
@@ -28961,7 +29148,9 @@
                 "city": "Laconia",
                 "address": "261 South Main Street",
                 "address2": null,
-                "zip": "03246"
+                "zip": "03246",
+                "lat": 43.5655,
+                "lng": -71.4815
             },
             "contact": {
                 "phone": "603-403-5231",
@@ -28989,7 +29178,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "petrakis-law-pllc",
@@ -29007,7 +29197,9 @@
                 "city": "Milford",
                 "address": "52 Nashua Street",
                 "address2": "Suite 9",
-                "zip": "03055"
+                "zip": "03055",
+                "lat": 42.8195,
+                "lng": -71.668
             },
             "contact": {
                 "phone": "603-565-0035",
@@ -29035,7 +29227,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sulloway-hollis-p-l-l-c",
@@ -29053,7 +29246,9 @@
                 "city": "Concord",
                 "address": "9 Capitol Street",
                 "address2": "29 School Street",
-                "zip": "03301"
+                "zip": "03301",
+                "lat": 43.2305,
+                "lng": -71.548
             },
             "contact": {
                 "phone": "603-224-2341",
@@ -29083,6 +29278,44 @@
             ],
             "official_practice_area": [
                 "Health Care Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02110",
+                    "address": "265 Franklin Street, Suite 1702",
+                    "phone": "(781) 320-5400",
+                    "lat": 42.3582,
+                    "lng": -71.0541
+                },
+                {
+                    "city": "Portland",
+                    "state": "ME",
+                    "zip": "04101",
+                    "address": "477 Congress Street, 5th Floor",
+                    "phone": "(207) 253-5141",
+                    "lat": 43.6608,
+                    "lng": -70.2613
+                },
+                {
+                    "city": "Gorham",
+                    "state": "NH",
+                    "zip": "03581",
+                    "address": "30 Exchange Street, P.O Box 335",
+                    "phone": "(603) 466-5946",
+                    "lat": 44.395,
+                    "lng": -71.1316
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "40 Westminster Street, Suite 201",
+                    "phone": "(401) 421-7110",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -29101,7 +29334,9 @@
                 "city": "Portsmouth",
                 "address": "One New Hampshire Avenue",
                 "address2": "Suite 125",
-                "zip": "03801"
+                "zip": "03801",
+                "lat": 43.0675,
+                "lng": -70.7998
             },
             "contact": {
                 "phone": "603-610-1580",
@@ -29120,7 +29355,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-nancy-richards-stower",
@@ -29138,7 +29374,9 @@
                 "city": "Merrimack",
                 "address": "Presently Remote",
                 "address2": null,
-                "zip": "03054"
+                "zip": "03054",
+                "lat": 42.8518,
+                "lng": -71.5148
             },
             "contact": {
                 "phone": "603-881-3312",
@@ -29157,7 +29395,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "samaha-russell-hodgdon-pa",
@@ -29175,7 +29414,9 @@
                 "city": "Littleton",
                 "address": "Post Office Box 70",
                 "address2": "125 Main Street, Suite 300",
-                "zip": "03561"
+                "zip": "03561",
+                "lat": 44.3391,
+                "lng": -71.8126
             },
             "contact": {
                 "phone": "603-444-7418",
@@ -29199,6 +29440,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Plymouth",
+                    "state": "NH",
+                    "zip": "03264",
+                    "address": "620 Tenney Mountain Highway",
+                    "phone": "(603) 444-7418",
+                    "lat": 43.7217,
+                    "lng": -71.6844
+                }
             ]
         },
         {
@@ -29217,7 +29469,9 @@
                 "city": "Exeter",
                 "address": "100 High Street",
                 "address2": null,
-                "zip": "03833"
+                "zip": "03833",
+                "lat": 42.9614,
+                "lng": -70.988
             },
             "contact": {
                 "phone": "603-583-4408",
@@ -29246,6 +29500,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portsmouth",
+                    "state": "NH",
+                    "zip": "03801",
+                    "address": "155 Fleet Street",
+                    "phone": "603-583-4408",
+                    "lat": 43.0675,
+                    "lng": -70.7998
+                }
             ]
         },
         {
@@ -29264,7 +29529,9 @@
                 "city": "Plymouth",
                 "address": "572 Tenney Mountain Highway",
                 "address2": null,
-                "zip": "03264"
+                "zip": "03264",
+                "lat": 43.7217,
+                "lng": -71.6844
             },
             "contact": {
                 "phone": "603-316-6553",
@@ -29289,7 +29556,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sherman-law-pllc",
@@ -29307,7 +29575,9 @@
                 "city": "Portsmouth",
                 "address": "111 Bow St",
                 "address2": "Unit 2",
-                "zip": "03801"
+                "zip": "03801",
+                "lat": 43.0675,
+                "lng": -70.7998
             },
             "contact": {
                 "phone": "603-570-4837",
@@ -29330,7 +29600,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "attorney-jon-n-strasburger",
@@ -29348,7 +29619,9 @@
                 "city": "Manchester",
                 "address": "25 Bay Street",
                 "address2": null,
-                "zip": "03104"
+                "zip": "03104",
+                "lat": 43.0154,
+                "lng": -71.4362
             },
             "contact": {
                 "phone": "603-755-6788",
@@ -29400,7 +29673,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tenn-and-tenn-p-a",
@@ -29418,7 +29692,9 @@
                 "city": "Manchester",
                 "address": "16 High St.",
                 "address2": "#3",
-                "zip": "03101"
+                "zip": "03101",
+                "lat": 42.9884,
+                "lng": -71.4655
             },
             "contact": {
                 "phone": "603-624-3700",
@@ -29449,7 +29725,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-william-a-trafidlo-p-l-l-c",
@@ -29467,7 +29744,9 @@
                 "city": "Portsmouth",
                 "address": "One New Hampshire Ave",
                 "address2": "Ste 125",
-                "zip": "03801"
+                "zip": "03801",
+                "lat": 43.0675,
+                "lng": -70.7998
             },
             "contact": {
                 "phone": "603-431-2159",
@@ -29496,7 +29775,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wells-law-pc",
@@ -29514,7 +29794,9 @@
                 "city": "Keene",
                 "address": "20 Central Square",
                 "address2": "Suite 1",
-                "zip": "03431"
+                "zip": "03431",
+                "lat": 42.9761,
+                "lng": -72.2765
             },
             "contact": {
                 "phone": "603-276-3285",
@@ -29543,7 +29825,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

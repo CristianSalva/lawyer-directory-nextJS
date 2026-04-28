@@ -8371,7 +8371,9 @@
                 "city": "Rapid City",
                 "address": "4200 Beach Dr.",
                 "address2": "Suite #3",
-                "zip": "57702"
+                "zip": "57702",
+                "lat": 44.0113,
+                "lng": -103.4046
             },
             "contact": {
                 "phone": "605-939-3630",
@@ -8414,7 +8416,8 @@
                 "Insurance Law",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "beck-law-prof-llc",
@@ -8432,7 +8435,9 @@
                 "city": "Sioux Falls",
                 "address": "221 S. Phillips Ave.",
                 "address2": "Suite 204",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-271-0488",
@@ -8468,7 +8473,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thomas-braun-bernard-burke-llp",
@@ -8486,7 +8492,9 @@
                 "city": "Rapid City",
                 "address": "4200 Beach Drive",
                 "address2": "Suite 1",
-                "zip": "57702"
+                "zip": "57702",
+                "lat": 44.0113,
+                "lng": -103.4046
             },
             "contact": {
                 "phone": "605-349-2221",
@@ -8513,7 +8521,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brende-meadors-llp",
@@ -8531,7 +8540,9 @@
                 "city": "Sioux Falls",
                 "address": "2900 S Phillips Ave.",
                 "address2": "Suite 100",
-                "zip": "57105"
+                "zip": "57105",
+                "lat": 43.5221,
+                "lng": -96.734
             },
             "contact": {
                 "phone": "605-789-5102",
@@ -8566,7 +8577,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christensen-law-office-pc",
@@ -8584,7 +8596,9 @@
                 "city": "Sioux Falls",
                 "address": "431 N. Phillips Avenue",
                 "address2": "Suite 300",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-0799",
@@ -8616,7 +8630,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "northern-plains-justice-llp",
@@ -8634,7 +8649,9 @@
                 "city": "Sioux Falls",
                 "address": "4301 W 57th St.",
                 "address2": "Suite 121",
-                "zip": "57108"
+                "zip": "57108",
+                "lat": 43.4733,
+                "lng": -96.6896
             },
             "contact": {
                 "phone": "605-865-0975",
@@ -8657,7 +8674,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "denevan-falon-law-firm-prof-llc",
@@ -8675,7 +8693,9 @@
                 "city": "Sioux Falls",
                 "address": "122 South Phillips Ave.",
                 "address2": "Suite 250",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-8093",
@@ -8705,7 +8725,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "griese-law-firm-p-c",
@@ -8723,7 +8744,9 @@
                 "city": "Sioux Falls",
                 "address": "101 N. Phillips Ave",
                 "address2": "Suite 605",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-2140",
@@ -8769,7 +8792,8 @@
                 "Federal and White Collar Crimes",
                 "Same Sex",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ryan-duffy-law",
@@ -8787,7 +8811,9 @@
                 "city": "Sioux Falls",
                 "address": "524 N Main Ave",
                 "address2": "Suite 110",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-2388",
@@ -8820,7 +8846,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopherson-anderson-paulson-fideler-llp",
@@ -8838,7 +8865,9 @@
                 "city": "Sioux Falls",
                 "address": "426 E. 8th Street",
                 "address2": null,
-                "zip": "57103"
+                "zip": "57103",
+                "lat": 43.5438,
+                "lng": -96.6938
             },
             "contact": {
                 "phone": "605-865-2248",
@@ -8879,7 +8908,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "resolute-law-firm-p-c",
@@ -8897,7 +8927,9 @@
                 "city": "Sioux Falls",
                 "address": "400 N. Main Avenue",
                 "address2": "Suite 207",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-2097",
@@ -8930,7 +8962,8 @@
                 "Divorce and Separation",
                 "Father's Rights",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flynn-law-p-c",
@@ -8948,7 +8981,9 @@
                 "city": "Sioux Falls",
                 "address": "6901 S Lyncrest Pl",
                 "address2": "Unit 106",
-                "zip": "57108"
+                "zip": "57108",
+                "lat": 43.4733,
+                "lng": -96.6896
             },
             "contact": {
                 "phone": "605-941-4681",
@@ -8982,7 +9017,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heidepriem-purtell-siegel-hinrichs-llp",
@@ -9000,7 +9036,9 @@
                 "city": "Sioux Falls",
                 "address": "101 West 69th Street",
                 "address2": "Suite 105A",
-                "zip": "57108"
+                "zip": "57108",
+                "lat": 43.4733,
+                "lng": -96.6896
             },
             "contact": {
                 "phone": "605-865-8809",
@@ -9046,7 +9084,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reiter-law-firm",
@@ -9064,7 +9103,9 @@
                 "city": "Sioux Falls",
                 "address": "5032 S. Bur Oak Place",
                 "address2": "Suite 205",
-                "zip": "57108"
+                "zip": "57108",
+                "lat": 43.4733,
+                "lng": -96.6896
             },
             "contact": {
                 "phone": "605-865-7796",
@@ -9106,7 +9147,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "southern-hills-law-pllc",
@@ -9124,7 +9166,9 @@
                 "city": "Custer",
                 "address": "8 W. Mt Rushmore Rd",
                 "address2": null,
-                "zip": "57730"
+                "zip": "57730",
+                "lat": 43.7084,
+                "lng": -103.7452
             },
             "contact": {
                 "phone": "605-865-0739",
@@ -9166,7 +9210,8 @@
                 "Real Estate",
                 "Traffic Ticket",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kinney-law-pc",
@@ -9184,7 +9229,9 @@
                 "city": "Spearfish",
                 "address": "121 W Hudson St",
                 "address2": null,
-                "zip": "57783"
+                "zip": "57783",
+                "lat": 44.4742,
+                "lng": -103.8837
             },
             "contact": {
                 "phone": "605-865-8616",
@@ -9209,6 +9256,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sturgis",
+                    "state": "SD",
+                    "zip": "57785",
+                    "address": "720 14th St",
+                    "phone": "+16058650481",
+                    "lat": 44.4289,
+                    "lng": -103.2341
+                }
             ]
         },
         {
@@ -9227,7 +9285,9 @@
                 "city": "Sioux Falls",
                 "address": "505 West 9th Street",
                 "address2": "Suite 102",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-8858",
@@ -9259,7 +9319,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olson-law-firm-pllc",
@@ -9277,7 +9338,9 @@
                 "city": "Sioux Falls",
                 "address": "519 W. 10th Street",
                 "address2": null,
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-8971",
@@ -9313,7 +9376,8 @@
                 "Family Law",
                 "Sex Crime",
                 "Sexual Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rensch-law",
@@ -9331,7 +9395,9 @@
                 "city": "Rapid City",
                 "address": "832 Saint Joseph Street",
                 "address2": null,
-                "zip": "57701"
+                "zip": "57701",
+                "lat": 44.1188,
+                "lng": -103.1879
             },
             "contact": {
                 "phone": "605-860-3028",
@@ -9370,7 +9436,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "skinner-law-office-p-c",
@@ -9388,7 +9455,9 @@
                 "city": "Rapid City",
                 "address": "508 Columbus Street",
                 "address2": null,
-                "zip": "57701"
+                "zip": "57701",
+                "lat": 44.1188,
+                "lng": -103.1879
             },
             "contact": {
                 "phone": "605-865-8146",
@@ -9412,7 +9481,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tucker-james-volesky-attorney-at-law",
@@ -9430,7 +9500,9 @@
                 "city": "Huron",
                 "address": "356 Dakota Ave S",
                 "address2": null,
-                "zip": "57350"
+                "zip": "57350",
+                "lat": 44.3792,
+                "lng": -98.1758
             },
             "contact": {
                 "phone": "605-865-0871",
@@ -9471,6 +9543,17 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Sexual Abuse"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mitchell",
+                    "state": "SD",
+                    "zip": "57301",
+                    "address": "305 N Kimball St.",
+                    "phone": "+16058650750",
+                    "lat": 43.7183,
+                    "lng": -98.0263
+                }
             ]
         },
         {
@@ -9489,7 +9572,9 @@
                 "city": "Sioux Falls",
                 "address": "335 N. Main Ave",
                 "address2": "Suite 230",
-                "zip": "57104"
+                "zip": "57104",
+                "lat": 43.5974,
+                "lng": -96.7013
             },
             "contact": {
                 "phone": "605-865-0776",
@@ -9521,7 +9606,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

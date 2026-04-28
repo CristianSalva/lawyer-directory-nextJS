@@ -18651,7 +18651,9 @@
                 "city": "Charleston",
                 "address": "213 Hale Street",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "866-773-7175",
@@ -18709,6 +18711,26 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Morgantown",
+                    "state": "WV",
+                    "zip": "26501",
+                    "address": "125 Granville Square, Suite 250",
+                    "phone": "866-773-7175",
+                    "lat": 39.6346,
+                    "lng": -80.0744
+                },
+                {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "zip": "30339",
+                    "address": "3350 Riverwood Pkwy SE, Suite GL-25",
+                    "phone": "866-773-7175",
+                    "lat": 33.8759,
+                    "lng": -84.4546
+                }
             ]
         },
         {
@@ -18727,7 +18749,9 @@
                 "city": "Beckley",
                 "address": "101 North Kanawha Street",
                 "address2": "Suite 101",
-                "zip": "25801"
+                "zip": "25801",
+                "lat": 37.8226,
+                "lng": -81.2318
             },
             "contact": {
                 "phone": "877-672-3653",
@@ -18784,6 +18808,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "WV",
+                    "zip": "25314",
+                    "address": "746 Myrtle Road",
+                    "phone": "+18556170810",
+                    "lat": 38.2879,
+                    "lng": -81.6663
+                }
             ]
         },
         {
@@ -18802,7 +18837,9 @@
                 "city": "Charleston",
                 "address": "181 Summers Street",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-916-7012",
@@ -18852,7 +18889,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bouchillon-crossan-colburn-l-c",
@@ -18870,7 +18908,9 @@
                 "city": "Huntington",
                 "address": "731 5th Ave",
                 "address2": null,
-                "zip": "25701"
+                "zip": "25701",
+                "lat": 38.3689,
+                "lng": -82.4128
             },
             "contact": {
                 "phone": "304-521-4636",
@@ -18911,7 +18951,8 @@
                 "Sexual Harassment",
                 "Wills",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bottner-associates-attorneys-at-law",
@@ -18929,7 +18970,9 @@
                 "city": "Charles Town",
                 "address": "116 W. Washington St.",
                 "address2": "Suite 2A",
-                "zip": "25414"
+                "zip": "25414",
+                "lat": 39.2579,
+                "lng": -77.8626
             },
             "contact": {
                 "phone": "304-464-9165",
@@ -18962,7 +19005,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brewster-morhous-cameron-caruth-moore-kersey-stafford-pllc",
@@ -18980,7 +19024,9 @@
                 "city": "Bluefield",
                 "address": "418 Bland Street",
                 "address2": "PO Box 529",
-                "zip": "24701"
+                "zip": "24701",
+                "lat": 37.3009,
+                "lng": -81.2118
             },
             "contact": {
                 "phone": "304-325-9177",
@@ -19021,6 +19067,17 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bluefield",
+                    "state": "WV",
+                    "zip": "24701",
+                    "address": "418 Bland Street, Post Office Box 529",
+                    "phone": "(304) 325-9177",
+                    "lat": 37.3009,
+                    "lng": -81.2118
+                }
             ]
         },
         {
@@ -19039,7 +19096,9 @@
                 "city": "Charleston",
                 "address": "500 Virginia Street E.",
                 "address2": "Ste. 710",
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-512-0203",
@@ -19067,6 +19126,26 @@
                 "Personal Injury",
                 "Social Security",
                 "Veteran's Benefits"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Logan",
+                    "state": "WV",
+                    "zip": "25601",
+                    "address": "107 LB & T Way",
+                    "phone": "+13045120197",
+                    "lat": 37.8445,
+                    "lng": -82.0345
+                },
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28277",
+                    "address": "10800 Sikes Place, Suite 170",
+                    "phone": "+13045120197",
+                    "lat": 35.0508,
+                    "lng": -80.8221
+                }
             ]
         },
         {
@@ -19085,7 +19164,9 @@
                 "city": "Weirton",
                 "address": "3169 Main Street",
                 "address2": null,
-                "zip": "26062"
+                "zip": "26062",
+                "lat": 40.4226,
+                "lng": -80.5756
             },
             "contact": {
                 "phone": "844-580-2839",
@@ -19137,7 +19218,8 @@
                 "Wage and Hour",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carrico-law-offices-lc",
@@ -19155,7 +19237,9 @@
                 "city": "Charleston",
                 "address": "1554 Kanawha Blvd East",
                 "address2": "Ste 100",
-                "zip": "25311"
+                "zip": "25311",
+                "lat": 38.3583,
+                "lng": -81.5546
             },
             "contact": {
                 "phone": "304-881-0632",
@@ -19186,7 +19270,8 @@
                 "Elder Law",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-james-t-cooper",
@@ -19204,7 +19289,9 @@
                 "city": "Charleston",
                 "address": "108 Hills Plaza",
                 "address2": null,
-                "zip": "25387"
+                "zip": "25387",
+                "lat": 38.3491,
+                "lng": -81.6317
             },
             "contact": {
                 "phone": "304-344-3542",
@@ -19225,7 +19312,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schrader-duff-law-lowe-pllc",
@@ -19243,7 +19331,9 @@
                 "city": "Wheeling",
                 "address": "401 Main Street",
                 "address2": null,
-                "zip": "26003"
+                "zip": "26003",
+                "lat": 40.0688,
+                "lng": -80.6463
             },
             "contact": {
                 "phone": "304-973-7691",
@@ -19287,7 +19377,8 @@
                 "Oil Gas and Energy",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "forbes-law-offices-pllc",
@@ -19305,7 +19396,9 @@
                 "city": "Charleston",
                 "address": "1118 Kanawha Blvd. E.",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "800-758-1592",
@@ -19339,7 +19432,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Sexual Abuse"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-robert-j-frank-associates-llc",
@@ -19357,7 +19451,9 @@
                 "city": "Lewisburg",
                 "address": "900 W. Washington Street",
                 "address2": "Suite 1",
-                "zip": "24901"
+                "zip": "24901",
+                "lat": 37.8526,
+                "lng": -80.4376
             },
             "contact": {
                 "phone": "304-520-4925",
@@ -19376,7 +19472,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnstone-gabhart-llp",
@@ -19394,7 +19491,9 @@
                 "city": "Charleston",
                 "address": "1125 Virginia Street East",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-343-7100",
@@ -19416,7 +19515,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gellner-law-offices",
@@ -19434,7 +19534,9 @@
                 "city": "Wheeling",
                 "address": "1440 National Road",
                 "address2": null,
-                "zip": "26003"
+                "zip": "26003",
+                "lat": 40.0688,
+                "lng": -80.6463
             },
             "contact": {
                 "phone": "304-242-2900",
@@ -19469,7 +19571,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lyne-ranson-law-offices-pllc",
@@ -19487,7 +19590,9 @@
                 "city": "Charleston",
                 "address": "1528 Kanawha Blvd., East",
                 "address2": null,
-                "zip": "25311"
+                "zip": "25311",
+                "lat": 38.3583,
+                "lng": -81.5546
             },
             "contact": {
                 "phone": "304-512-0270",
@@ -19532,7 +19637,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-grubb-law-group",
@@ -19550,7 +19656,9 @@
                 "city": "Charleston",
                 "address": "1114 Kanawha Boulevard East",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-982-7755",
@@ -19595,7 +19703,8 @@
                 "Wage and Hour",
                 "Workers' Compensation",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "taylor-law-office",
@@ -19613,7 +19722,9 @@
                 "city": "Westover",
                 "address": "34 Commerce Drive",
                 "address2": "Suite 201",
-                "zip": "26501"
+                "zip": "26501",
+                "lat": 39.6346,
+                "lng": -80.0744
             },
             "contact": {
                 "phone": "304-225-8529",
@@ -19626,7 +19737,8 @@
             "attorneys": [
                 "Paul Wayne Gwaltney Jr."
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "hayden-associates",
@@ -19644,7 +19756,9 @@
                 "city": "Beckley",
                 "address": "102 McCreery Street",
                 "address2": null,
-                "zip": "25801"
+                "zip": "25801",
+                "lat": 37.8226,
+                "lng": -81.2318
             },
             "contact": {
                 "phone": "304-512-0213",
@@ -19703,7 +19817,8 @@
                 "Same Sex",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jackson-law-office",
@@ -19721,7 +19836,9 @@
                 "city": "Wheeling",
                 "address": "1031 National Road",
                 "address2": null,
-                "zip": "26003"
+                "zip": "26003",
+                "lat": 40.0688,
+                "lng": -80.6463
             },
             "contact": {
                 "phone": "304-243-5440",
@@ -19754,7 +19871,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pullin-fowler-flanagan-brown-poe-pllc",
@@ -19772,7 +19890,9 @@
                 "city": "Beckley",
                 "address": "252 George Street",
                 "address2": null,
-                "zip": "25801"
+                "zip": "25801",
+                "lat": 37.8226,
+                "lng": -81.2318
             },
             "contact": {
                 "phone": "304-254-9300",
@@ -19801,6 +19921,17 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "WV",
+                    "zip": "25301",
+                    "address": "901 Quarrier Street, James Mark Building",
+                    "phone": "(304) 344-0100",
+                    "lat": 38.3495,
+                    "lng": -81.6318
+                }
             ]
         },
         {
@@ -19819,7 +19950,9 @@
                 "city": "Charleston",
                 "address": "500 Virginia Street East",
                 "address2": "Suite 600",
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-345-4222",
@@ -19851,6 +19984,17 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wheeling",
+                    "state": "WV",
+                    "zip": "26003",
+                    "address": "1219 Chapline Street",
+                    "phone": "(304) 233-3100",
+                    "lat": 40.0688,
+                    "lng": -80.6463
+                }
             ]
         },
         {
@@ -19869,7 +20013,9 @@
                 "city": "Morgantown",
                 "address": "211 Everhart Dr",
                 "address2": "Suite 200",
-                "zip": "26508"
+                "zip": "26508",
+                "lat": 39.5866,
+                "lng": -79.9012
             },
             "contact": {
                 "phone": "304-931-4139",
@@ -19906,7 +20052,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gold-khourey-turak-l-c",
@@ -19924,7 +20071,9 @@
                 "city": "Moundsville",
                 "address": "510 Tomlinson Avenue",
                 "address2": null,
-                "zip": "26041"
+                "zip": "26041",
+                "lat": 39.8812,
+                "lng": -80.707
             },
             "contact": {
                 "phone": "304-845-9750",
@@ -19948,7 +20097,8 @@
                 "Christopher M. Turak",
                 "Jonathan E. Turak"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "stephen-p-new-attorney-at-law",
@@ -19966,7 +20116,9 @@
                 "city": "Beckley",
                 "address": "114 Main Street",
                 "address2": null,
-                "zip": "25801"
+                "zip": "25801",
+                "lat": 37.8226,
+                "lng": -81.2318
             },
             "contact": {
                 "phone": "304-250-6017",
@@ -19990,7 +20142,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zerbe-and-pence",
@@ -20008,7 +20161,9 @@
                 "city": "Charleston",
                 "address": "205 Capitol Street",
                 "address2": "Suite 500",
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "304-205-1556",
@@ -20039,7 +20194,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lamp-bartram-levy-trautwein-perry-powell-pllc",
@@ -20057,7 +20213,9 @@
                 "city": "Huntington",
                 "address": "720 Fourth Avenue",
                 "address2": null,
-                "zip": "25701"
+                "zip": "25701",
+                "lat": 38.3689,
+                "lng": -82.4128
             },
             "contact": {
                 "phone": "304-523-5400",
@@ -20085,7 +20243,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lance-e-rollo-attorney-at-law",
@@ -20103,7 +20262,9 @@
                 "city": "Morgantown",
                 "address": "44 High Street",
                 "address2": null,
-                "zip": "26505"
+                "zip": "26505",
+                "lat": 39.6496,
+                "lng": -79.9458
             },
             "contact": {
                 "phone": "304-906-4458",
@@ -20130,7 +20291,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scales-law-office",
@@ -20148,7 +20310,9 @@
                 "city": "Martinsburg",
                 "address": "314 West John Street",
                 "address2": null,
-                "zip": "25401"
+                "zip": "25401",
+                "lat": 39.4656,
+                "lng": -77.9645
             },
             "contact": {
                 "phone": "304-579-4468",
@@ -20169,7 +20333,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shawn-taylor-pllc",
@@ -20187,7 +20352,9 @@
                 "city": "Charleston",
                 "address": "209 Capitol Street",
                 "address2": null,
-                "zip": "25301"
+                "zip": "25301",
+                "lat": 38.3495,
+                "lng": -81.6318
             },
             "contact": {
                 "phone": "855-969-4648",
@@ -20212,7 +20379,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Veteran's Benefits"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-folickman-and-turkett",
@@ -20230,7 +20398,9 @@
                 "city": "Fairmont",
                 "address": "421 Fairmont Avenue",
                 "address2": null,
-                "zip": "26554"
+                "zip": "26554",
+                "lat": 39.4812,
+                "lng": -80.0994
             },
             "contact": {
                 "phone": "304-363-4529",
@@ -20250,7 +20420,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "umina-davis-minutelli-gutta",
@@ -20268,7 +20439,9 @@
                 "city": "Morgantown",
                 "address": "125 Green Bag Road",
                 "address2": null,
-                "zip": "26501"
+                "zip": "26501",
+                "lat": 39.6346,
+                "lng": -80.0744
             },
             "contact": {
                 "phone": "304-838-8024",
@@ -20287,7 +20460,8 @@
                 "Lori J. Paletta-Davis Esq.",
                 "Ryan J. Umina Esq."
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "bailey-javins-carter-l-c",
@@ -20305,7 +20479,9 @@
                 "city": "Morgantown",
                 "address": "125 Granville Square",
                 "address2": "Suite 250",
-                "zip": "26501"
+                "zip": "26501",
+                "lat": 39.6346,
+                "lng": -80.0744
             },
             "contact": {
                 "phone": "866-773-7175",
@@ -20356,6 +20532,26 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "WV",
+                    "zip": "25301",
+                    "address": "213 Hale Street",
+                    "phone": "866-773-7175",
+                    "lat": 38.3495,
+                    "lng": -81.6318
+                },
+                {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "zip": "30339",
+                    "address": "3350 Riverwood Pkwy SE, Suite GL-25",
+                    "phone": "866-773-7175",
+                    "lat": 33.8759,
+                    "lng": -84.4546
+                }
             ]
         },
         {
@@ -20374,7 +20570,9 @@
                 "city": "Charleston",
                 "address": "1514 Kanawha Blvd E.",
                 "address2": "Suite 2",
-                "zip": "25311"
+                "zip": "25311",
+                "lat": 38.3583,
+                "lng": -81.5546
             },
             "contact": {
                 "phone": "304-343-9378",
@@ -20423,7 +20621,8 @@
                 "Toxic Torts",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

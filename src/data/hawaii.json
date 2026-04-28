@@ -16476,7 +16476,9 @@
                 "city": "Honolulu",
                 "address": "1001 Bishop St.",
                 "address2": "Suite 1330",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-518-6976",
@@ -16502,7 +16504,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goodsill-anderson-quinn-stifel-a-limited-liability-law-partnership-llp",
@@ -16520,7 +16523,9 @@
                 "city": "Honolulu",
                 "address": "999 Bishop Street",
                 "address2": "Suite 1600",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-547-5600",
@@ -16615,7 +16620,8 @@
                 "Securities",
                 "Tax Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-rod-bridgers-lllc",
@@ -16633,7 +16639,9 @@
                 "city": "Honolulu",
                 "address": "707 Richards Street",
                 "address2": "Suite 526",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-536-3255",
@@ -16652,7 +16660,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-scot-stuart-brower",
@@ -16670,7 +16679,9 @@
                 "city": "Honolulu",
                 "address": "Executive Centre",
                 "address2": "1088 Bishop Street, Suite 803",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-522-0053",
@@ -16700,7 +16711,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bushnell-law-group",
@@ -16718,7 +16730,9 @@
                 "city": "Honolulu",
                 "address": "1099 Alakea Street",
                 "address2": "Suite 2500",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-585-6050",
@@ -16742,7 +16756,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bays-lung-rose-holma",
@@ -16760,7 +16775,9 @@
                 "city": "Honolulu",
                 "address": "Topa Financial Center",
                 "address2": "Suite 900, 700 Bishop Street",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-523-9000",
@@ -16793,6 +16810,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Honolulu",
+                    "state": "HI",
+                    "zip": "96813",
+                    "address": "Topa Financial Center, 700 Bishop Street, Suite 900",
+                    "phone": "808-523-9000",
+                    "lat": 21.3286,
+                    "lng": -157.8286
+                }
             ]
         },
         {
@@ -16811,7 +16839,9 @@
                 "city": "Honolulu",
                 "address": "1003 Bishop Street",
                 "address2": "Suite 1188",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-377-4030",
@@ -16830,7 +16860,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-carmen-di-amore-siah-and-associates",
@@ -16848,7 +16879,9 @@
                 "city": "Honolulu",
                 "address": "820 S Beretania Street",
                 "address2": "Suite 200",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-531-2277",
@@ -16876,7 +16909,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fukunaga-matayoshi-ching-kon-herrera",
@@ -16894,7 +16928,9 @@
                 "city": "Honolulu",
                 "address": "Topa Financial Tower. Bishop Street Tower",
                 "address2": "700 Bishop Street Suite 2003",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-533-4300",
@@ -16918,7 +16954,8 @@
                 "Jerold T. Matayoshi",
                 "Tracy Chuc"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "turbin-chu-heidt-attorneys-at-law",
@@ -16936,7 +16973,9 @@
                 "city": "Honolulu",
                 "address": "737 Bishop Street",
                 "address2": "Suite 2730",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-808-9782",
@@ -16965,7 +17004,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "coates-frey-hackett-aal-lllc",
@@ -16983,7 +17023,9 @@
                 "city": "Honolulu",
                 "address": "900 Fort Street Mall",
                 "address2": "Suite 1400",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-458-4135",
@@ -17013,7 +17055,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leavitt-yamane-soldner",
@@ -17031,7 +17074,9 @@
                 "city": "Honolulu",
                 "address": "737 Bishop Street",
                 "address2": "Suite 1740",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "833-734-2658",
@@ -17060,7 +17105,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-dean-c-m-hoe",
@@ -17078,7 +17124,9 @@
                 "city": "Honolulu",
                 "address": "1136 Union Mall",
                 "address2": "Suite 603",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-400-5046",
@@ -17109,7 +17157,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doi-luke-attorneys-at-law-lllc",
@@ -17127,7 +17176,9 @@
                 "city": "Honolulu",
                 "address": "1600 Kapiolani Boulevard",
                 "address2": "Suite 1300",
-                "zip": "96814"
+                "zip": "96814",
+                "lat": 21.2939,
+                "lng": -157.8467
             },
             "contact": {
                 "phone": "808-379-3585",
@@ -17149,7 +17200,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "trecker-fritz-williams-attorneys-at-law",
@@ -17167,7 +17219,9 @@
                 "city": "Honolulu",
                 "address": "820 Mililani Street",
                 "address2": "Suite 701",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-913-1832",
@@ -17196,6 +17250,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lihue",
+                    "state": "HI",
+                    "zip": "96766",
+                    "address": "4265 Halenani Street",
+                    "phone": "+18089131832",
+                    "lat": 21.9855,
+                    "lng": -159.4177
+                }
             ]
         },
         {
@@ -17214,7 +17279,9 @@
                 "city": "Kailua",
                 "address": "66 Kaiholu PL",
                 "address2": null,
-                "zip": "96734"
+                "zip": "96734",
+                "lat": 21.3961,
+                "lng": -157.7447
             },
             "contact": {
                 "phone": "808-535-1500",
@@ -17235,7 +17302,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-robert-marx",
@@ -17253,7 +17321,9 @@
                 "city": "Hilo",
                 "address": "688 Kinoole St",
                 "address2": "#105",
-                "zip": "96720"
+                "zip": "96720",
+                "lat": 19.6829,
+                "lng": -155.2732
             },
             "contact": {
                 "phone": "808-935-8988",
@@ -17276,7 +17346,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mitsuyama-rebman-lllc",
@@ -17294,7 +17365,9 @@
                 "city": "Honolulu",
                 "address": "733 Bishop St.",
                 "address2": "Suite 2500",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-545-7035",
@@ -17317,6 +17390,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hilo",
+                    "state": "HI",
+                    "zip": "96720",
+                    "address": "344 Kileaua Ave.",
+                    "phone": "808-545-7035",
+                    "lat": 19.6829,
+                    "lng": -155.2732
+                }
             ]
         },
         {
@@ -17335,7 +17419,9 @@
                 "city": "Honolulu",
                 "address": "1001 Bishop St.",
                 "address2": "Suite 2828",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-452-1091",
@@ -17362,7 +17448,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ted-h-s-hong-attorney-at-law-lllc",
@@ -17380,7 +17467,9 @@
                 "city": "Hilo",
                 "address": "Hilo Lagoon Centre",
                 "address2": "101 Aupuni Street, Suite 1001-A",
-                "zip": "96720"
+                "zip": "96720",
+                "lat": 19.6829,
+                "lng": -155.2732
             },
             "contact": {
                 "phone": "808-796-5915",
@@ -17404,7 +17493,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-brian-s-kim",
@@ -17422,7 +17512,9 @@
                 "city": "Honolulu",
                 "address": "1001 Bishop Street",
                 "address2": "Suite 580",
-                "zip": "96813"
+                "zip": "96813",
+                "lat": 21.3286,
+                "lng": -157.8286
             },
             "contact": {
                 "phone": "808-427-5818",
@@ -17444,7 +17536,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lynnae-lee-associates",
@@ -17462,7 +17555,9 @@
                 "city": "Honolulu",
                 "address": "1620 Ala Moana Boulevard, Suite 510",
                 "address2": null,
-                "zip": "96815"
+                "zip": "96815",
+                "lat": 21.272,
+                "lng": -157.8214
             },
             "contact": {
                 "phone": "808-379-3556",
@@ -17484,7 +17579,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tipon-law-firm-lllc",
@@ -17502,7 +17598,9 @@
                 "city": "Kailua",
                 "address": "PO Box",
                 "address2": null,
-                "zip": "96734"
+                "zip": "96734",
+                "lat": 21.3961,
+                "lng": -157.7447
             },
             "contact": {
                 "phone": "808-468-5347",
@@ -17523,7 +17621,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carol-a-tribbey-attorney-at-law-a-limited-liability-law-company",
@@ -17541,7 +17640,9 @@
                 "city": "Kailua",
                 "address": "417H Uluniu Street",
                 "address2": null,
-                "zip": "96734"
+                "zip": "96734",
+                "lat": 21.3961,
+                "lng": -157.7447
             },
             "contact": {
                 "phone": "808-263-8637",
@@ -17563,7 +17664,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

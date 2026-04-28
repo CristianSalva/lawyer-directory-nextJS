@@ -94453,7 +94453,9 @@
                 "city": "Minneapolis",
                 "address": "333 Washington Avenue North",
                 "address2": "Suite 405",
-                "zip": "55401"
+                "zip": "55401",
+                "lat": 44.9848,
+                "lng": -93.2697
             },
             "contact": {
                 "phone": "612-465-8581",
@@ -94487,7 +94489,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "atkinson-gerber-law-office",
@@ -94505,7 +94508,9 @@
                 "city": "Arden Hills",
                 "address": "6 Pinetree Drive",
                 "address2": "Suite 225",
-                "zip": "55112"
+                "zip": "55112",
+                "lat": 45.0792,
+                "lng": -93.1875
             },
             "contact": {
                 "phone": "800-583-7016",
@@ -94530,6 +94535,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55402",
+                    "address": "10 S. 5th Street",
+                    "phone": "800-583-7016",
+                    "lat": 44.9759,
+                    "lng": -93.2722
+                }
             ]
         },
         {
@@ -94548,7 +94564,9 @@
                 "city": "Bloomington",
                 "address": "7900 Xerxes Ave. South",
                 "address2": "Suite 2020",
-                "zip": "55431"
+                "zip": "55431",
+                "lat": 44.8266,
+                "lng": -93.3108
             },
             "contact": {
                 "phone": "952-388-0289",
@@ -94592,6 +94610,35 @@
                 "Housing and Construction Defects",
                 "Insurance Law",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cedar Rapids",
+                    "state": "IA",
+                    "zip": "52401",
+                    "address": "1120 Depot Lane SE, Suite 100",
+                    "phone": "866-291-7528",
+                    "lat": 41.9747,
+                    "lng": -91.6554
+                },
+                {
+                    "city": "Columbus",
+                    "state": "OH",
+                    "zip": "43215",
+                    "address": "470 W. Broad St., Suite 725",
+                    "phone": "866-291-7528",
+                    "lat": 39.9687,
+                    "lng": -83.0257
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80203",
+                    "address": "1775 Sherman Street, Suite 2750",
+                    "phone": "866-291-7528",
+                    "lat": 39.732,
+                    "lng": -104.9825
+                }
             ]
         },
         {
@@ -94610,7 +94657,9 @@
                 "city": "Woodbury",
                 "address": "539 Bielenberg Drive",
                 "address2": "Suite 202",
-                "zip": "55125"
+                "zip": "55125",
+                "lat": 44.9196,
+                "lng": -92.9439
             },
             "contact": {
                 "phone": "651-403-6203",
@@ -94631,7 +94680,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "malone-bailey",
@@ -94649,7 +94699,9 @@
                 "city": "Edina",
                 "address": "7650 Edinborough Way",
                 "address2": "Suite 100",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "320-497-7006",
@@ -94680,6 +94732,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St Cloud",
+                    "state": "MN",
+                    "zip": "56301",
+                    "address": "4150 2nd Street South, Suite 320",
+                    "phone": "+13203085804",
+                    "lat": 45.4939,
+                    "lng": -94.2426
+                }
             ]
         },
         {
@@ -94698,7 +94761,9 @@
                 "city": "Eden Prairie",
                 "address": "9531 West 78th Street",
                 "address2": "Suite 305",
-                "zip": "55344"
+                "zip": "55344",
+                "lat": 44.8641,
+                "lng": -93.4417
             },
             "contact": {
                 "phone": "952-952-6856",
@@ -94723,7 +94788,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bartz-bartz-p-a",
@@ -94741,7 +94807,9 @@
                 "city": "Edina",
                 "address": "Galleria Offices on France",
                 "address2": "6950 France Avenue South, Suite 119",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "952-920-3959",
@@ -94759,7 +94827,8 @@
                 "Richard O. Bartz",
                 "Douglas C. Mezera"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "bass-law-firm-pllc",
@@ -94777,7 +94846,9 @@
                 "city": "Burnsville",
                 "address": "3000 County Road 42 West",
                 "address2": "Suite 310",
-                "zip": "55337"
+                "zip": "55337",
+                "lat": 44.7795,
+                "lng": -93.2756
             },
             "contact": {
                 "phone": "952-466-6718",
@@ -94805,7 +94876,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dougherty-molenda-solfest-hills-bauer-p-a",
@@ -94823,7 +94895,9 @@
                 "city": "Apple Valley",
                 "address": "14985 Glazier Avenue",
                 "address2": "Suite 525",
-                "zip": "55124"
+                "zip": "55124",
+                "lat": 44.7465,
+                "lng": -93.202
             },
             "contact": {
                 "phone": "952-432-3136",
@@ -94901,7 +94975,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bauer-law-office",
@@ -94919,7 +94994,9 @@
                 "city": "Brooklyn Park",
                 "address": "7040 Lakeland Ave. N.",
                 "address2": "Suite 100",
-                "zip": "55428"
+                "zip": "55428",
+                "lat": 45.0637,
+                "lng": -93.3803
             },
             "contact": {
                 "phone": "763-445-9911",
@@ -94944,7 +95021,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "groshek-law-pa",
@@ -94962,7 +95040,9 @@
                 "city": "Minneapolis",
                 "address": "302 N 10th Ave",
                 "address2": null,
-                "zip": "55401"
+                "zip": "55401",
+                "lat": 44.9848,
+                "lng": -93.2697
             },
             "contact": {
                 "phone": "612-614-6888",
@@ -95009,7 +95089,8 @@
                 "Father's Rights",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mohrman-kaardal-erickson-p-a",
@@ -95027,7 +95108,9 @@
                 "city": "Minneapolis",
                 "address": "150 South Fifth Street",
                 "address2": "Suite 3100",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-746-7724",
@@ -95061,7 +95144,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "midwest-disability-llc",
@@ -95079,7 +95163,9 @@
                 "city": "Coon Rapids",
                 "address": "408 Northdale Boulevard NW",
                 "address2": null,
-                "zip": "55448"
+                "zip": "55448",
+                "lat": 45.1704,
+                "lng": -93.3186
             },
             "contact": {
                 "phone": "833-992-0263",
@@ -95110,7 +95196,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "beito-law",
@@ -95128,7 +95215,9 @@
                 "city": "Minneapolis",
                 "address": "310 4th Ave S.",
                 "address2": "Suite 1050",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-425-0103",
@@ -95148,7 +95237,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sjoberg-tebelius-p-a",
@@ -95166,7 +95256,9 @@
                 "city": "Woodbury",
                 "address": "2145 Woodlane Drive",
                 "address2": "Suite 101",
-                "zip": "55125"
+                "zip": "55125",
+                "lat": 44.9196,
+                "lng": -92.9439
             },
             "contact": {
                 "phone": "651-383-2268",
@@ -95209,7 +95301,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monroe-moxness-berg",
@@ -95227,7 +95320,9 @@
                 "city": "Minneapolis",
                 "address": "7760 France Avenue South",
                 "address2": "Suite 700",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "952-444-9912",
@@ -95284,7 +95379,8 @@
                 "Real Estate",
                 "Tax Law",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berens-miller-p-a",
@@ -95302,7 +95398,9 @@
                 "city": "Minneapolis",
                 "address": "3720 IDS Center",
                 "address2": "80 South Eighth Street",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-540-1402",
@@ -95348,7 +95446,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gislason-hunter-attorneys-at-law",
@@ -95366,7 +95465,9 @@
                 "city": "New Ulm",
                 "address": "2700 South Broadway",
                 "address2": null,
-                "zip": "56073"
+                "zip": "56073",
+                "lat": 44.3263,
+                "lng": -94.4582
             },
             "contact": {
                 "phone": "507-354-3111",
@@ -95402,6 +95503,17 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mankato",
+                    "state": "MN",
+                    "zip": "56001",
+                    "address": "Eide Bailly Center, 111 South 2nd Street, Suite 500",
+                    "phone": "507-387-1115",
+                    "lat": 44.1307,
+                    "lng": -93.9938
+                }
             ]
         },
         {
@@ -95420,7 +95532,9 @@
                 "city": "Winona",
                 "address": "53 E. Third Street",
                 "address2": "Suite 210",
-                "zip": "55987"
+                "zip": "55987",
+                "lat": 43.9881,
+                "lng": -91.6029
             },
             "contact": {
                 "phone": "507-414-6486",
@@ -95451,7 +95565,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bertelson-law-office-p-a",
@@ -95469,7 +95584,9 @@
                 "city": "Minneapolis",
                 "address": "Union Plaza",
                 "address2": "333 Washington Ave. N., Suite 402",
-                "zip": "55401"
+                "zip": "55401",
+                "lat": 44.9848,
+                "lng": -93.2697
             },
             "contact": {
                 "phone": "612-278-9832",
@@ -95492,7 +95609,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bialke-law",
@@ -95510,7 +95628,9 @@
                 "city": "Coon Rapids",
                 "address": "Northtown Financial Plaza - Suite 320",
                 "address2": "200 Coon Rapids Blvd NW",
-                "zip": "55433"
+                "zip": "55433",
+                "lat": 45.1579,
+                "lng": -93.3194
             },
             "contact": {
                 "phone": "763-571-2410",
@@ -95532,7 +95652,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bird-stevens-borgen-p-c",
@@ -95550,7 +95671,9 @@
                 "city": "Rochester",
                 "address": "300 3rd Avenue SE",
                 "address2": "Suite 305",
-                "zip": "55904"
+                "zip": "55904",
+                "lat": 43.9532,
+                "lng": -92.4005
             },
             "contact": {
                 "phone": "507-414-6021",
@@ -95585,6 +95708,17 @@
                 "DUI and DWI",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bloomington",
+                    "state": "MN",
+                    "zip": "55425",
+                    "address": "2626 East 82nd Street, Suite 263",
+                    "phone": "+15074146021",
+                    "lat": 44.8369,
+                    "lng": -93.2326
+                }
             ]
         },
         {
@@ -95603,7 +95737,9 @@
                 "city": "Mankato",
                 "address": "151 Saint Andrews Ct, Bldg 1010",
                 "address2": null,
-                "zip": "56001"
+                "zip": "56001",
+                "lat": 44.1307,
+                "lng": -93.9938
             },
             "contact": {
                 "phone": "507-625-6600",
@@ -95655,7 +95791,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-joshua-borken",
@@ -95673,7 +95810,9 @@
                 "city": "St. Paul",
                 "address": "400 Robert St. N.",
                 "address2": "Suite 1800",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-758-3350",
@@ -95699,7 +95838,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "madigan-dahl-harlan-p-a",
@@ -95717,7 +95857,9 @@
                 "city": "Minneapolis",
                 "address": "33 S. 6th Street",
                 "address2": "Suite 3675",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-604-2000",
@@ -95753,7 +95895,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "messick-law-pllc",
@@ -95771,7 +95914,9 @@
                 "city": "Woodbury",
                 "address": "724 Bielenberg Drive",
                 "address2": "#18",
-                "zip": "55125"
+                "zip": "55125",
+                "lat": 44.9196,
+                "lng": -92.9439
             },
             "contact": {
                 "phone": "651-666-4862",
@@ -95823,6 +95968,17 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. Paul",
+                    "state": "MN",
+                    "zip": "55101",
+                    "address": "444 Cedar Street, Suite 1150",
+                    "phone": "+16516664968",
+                    "lat": 44.9508,
+                    "lng": -93.0836
+                }
             ]
         },
         {
@@ -95841,7 +95997,9 @@
                 "city": "Anoka",
                 "address": "2150 Third Avenue North",
                 "address2": "Suite 210",
-                "zip": "55303"
+                "zip": "55303",
+                "lat": 45.2816,
+                "lng": -93.4298
             },
             "contact": {
                 "phone": "763-401-6427",
@@ -95874,6 +96032,17 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hopkins",
+                    "state": "MN",
+                    "zip": "55343",
+                    "address": "25 9th Ave North, PO Box 458",
+                    "phone": "763-401-6427",
+                    "lat": 44.9135,
+                    "lng": -93.4112
+                }
             ]
         },
         {
@@ -95892,7 +96061,9 @@
                 "city": "Rochester",
                 "address": "117 East Center Street",
                 "address2": null,
-                "zip": "55904"
+                "zip": "55904",
+                "lat": 43.9532,
+                "lng": -92.4005
             },
             "contact": {
                 "phone": "507-366-1358",
@@ -95923,7 +96094,8 @@
                 "DUI and DWI",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-jab-firm",
@@ -95941,7 +96113,9 @@
                 "city": "Minneapolis",
                 "address": "150 South 5th Street",
                 "address2": "Suite 1850",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "651-222-9990",
@@ -95970,7 +96144,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ryan-brucker-ltd",
@@ -95988,7 +96163,9 @@
                 "city": "Aitkin",
                 "address": "201 Minnesota Avenue North",
                 "address2": "P.O. Box 388",
-                "zip": "56431"
+                "zip": "56431",
+                "lat": 46.4555,
+                "lng": -93.6414
             },
             "contact": {
                 "phone": "218-203-5738",
@@ -96020,7 +96197,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kb-law-pllc",
@@ -96038,7 +96216,9 @@
                 "city": "St Louis Park",
                 "address": "4100 Excelsior Blvd",
                 "address2": null,
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "612-930-5138",
@@ -96061,7 +96241,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burris-law-offices-pllc",
@@ -96079,7 +96260,9 @@
                 "city": "Minneapolis",
                 "address": "IDS Tower",
                 "address2": "80 South 8th Street, Suite 900",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-208-7926",
@@ -96124,7 +96307,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cjb-law",
@@ -96142,7 +96326,9 @@
                 "city": "Fergus Falls",
                 "address": "914 East Channing Avenue",
                 "address2": null,
-                "zip": "56537"
+                "zip": "56537",
+                "lat": 46.2698,
+                "lng": -96.0873
             },
             "contact": {
                 "phone": "218-521-2418",
@@ -96184,6 +96370,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Battle Lake",
+                    "state": "MN",
+                    "zip": "56515",
+                    "address": "116 1/2 North Lake Ave",
+                    "phone": "+12182775726",
+                    "lat": 46.2843,
+                    "lng": -95.7057
+                }
             ]
         },
         {
@@ -96202,7 +96399,9 @@
                 "city": "Marshall",
                 "address": "109 South 4th Street",
                 "address2": null,
-                "zip": "56258"
+                "zip": "56258",
+                "lat": 44.4712,
+                "lng": -95.746
             },
             "contact": {
                 "phone": "507-461-8013",
@@ -96231,6 +96430,17 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Ivanhoe",
+                    "state": "MN",
+                    "zip": "56142",
+                    "address": "214 N. Norman Street",
+                    "phone": "507-461-8013",
+                    "lat": 44.5306,
+                    "lng": -96.2089
+                }
             ]
         },
         {
@@ -96249,7 +96459,9 @@
                 "city": "White Bear Lake",
                 "address": "4669 White Bear Pkwy",
                 "address2": null,
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": "651-429-5500",
@@ -96271,7 +96483,8 @@
             ],
             "official_practice_area": [
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kohlmeyer-hagen-law-office-chtd",
@@ -96289,7 +96502,9 @@
                 "city": "Mankato",
                 "address": "3 Civic Center Plaza",
                 "address2": "Suite 400",
-                "zip": "56001"
+                "zip": "56001",
+                "lat": 44.1307,
+                "lng": -93.9938
             },
             "contact": {
                 "phone": "507-625-5000",
@@ -96321,6 +96536,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rochester",
+                    "state": "MN",
+                    "zip": "55901",
+                    "address": "975 34th Ave. NW, Suite 302",
+                    "phone": "507-625-5000",
+                    "lat": 44.0751,
+                    "lng": -92.5124
+                }
             ]
         },
         {
@@ -96339,7 +96565,9 @@
                 "city": "Minneapolis",
                 "address": "IDS Center",
                 "address2": "80 South Eighth Street, Suite 900",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-930-5847",
@@ -96377,6 +96605,17 @@
                 "Business and Commercial Law",
                 "Securities",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Miami",
+                    "state": "FL",
+                    "zip": "33134",
+                    "address": "121 Alhambra Plaza, Suite 1500",
+                    "phone": "+16129305847",
+                    "lat": 25.753,
+                    "lng": -80.2711
+                }
             ]
         },
         {
@@ -96395,7 +96634,9 @@
                 "city": "Buffalo",
                 "address": "215 East Highway 55",
                 "address2": "Suite 201",
-                "zip": "55313"
+                "zip": "55313",
+                "lat": 45.19,
+                "lng": -93.8371
             },
             "contact": {
                 "phone": "763-682-2220",
@@ -96425,6 +96666,17 @@
                 "Car Accidents",
                 "Criminal Defense",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minnetonka",
+                    "state": "MN",
+                    "zip": "55305",
+                    "address": "13911 Ridgedale Dr, Suite 404E",
+                    "phone": "763-682-2220",
+                    "lat": 44.952,
+                    "lng": -93.4361
+                }
             ]
         },
         {
@@ -96443,7 +96695,9 @@
                 "city": "Minnetonka",
                 "address": "12301 Whitewater Drive",
                 "address2": "Suite 80",
-                "zip": "55343"
+                "zip": "55343",
+                "lat": 44.9135,
+                "lng": -93.4112
             },
             "contact": {
                 "phone": "952-373-8617",
@@ -96469,7 +96723,8 @@
             ],
             "official_practice_area": [
                 "ERISA"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carter-legal-services-p-a",
@@ -96487,7 +96742,9 @@
                 "city": "Minnetonka",
                 "address": "13911 Ridgedale Drive",
                 "address2": "Suite 355",
-                "zip": "55305"
+                "zip": "55305",
+                "lat": 44.952,
+                "lng": -93.4361
             },
             "contact": {
                 "phone": "952-955-6886",
@@ -96513,7 +96770,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fuller-wallner-attorneys-at-law",
@@ -96531,7 +96789,9 @@
                 "city": "Bemidji",
                 "address": "514 America Avenue NW",
                 "address2": "P.O. Box 880",
-                "zip": "56601"
+                "zip": "56601",
+                "lat": 47.5132,
+                "lng": -94.7456
             },
             "contact": {
                 "phone": "218-277-1138",
@@ -96578,7 +96838,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pcg-law",
@@ -96596,7 +96857,9 @@
                 "city": "Saint Cloud",
                 "address": "630 Roosevelt Road",
                 "address2": "Suite 101",
-                "zip": "56301"
+                "zip": "56301",
+                "lat": 45.4939,
+                "lng": -94.2426
             },
             "contact": {
                 "phone": "320-345-3704",
@@ -96629,7 +96892,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "claffey-law",
@@ -96647,7 +96911,9 @@
                 "city": "White Bear Lake",
                 "address": "4756 Banning Ave.",
                 "address2": "Suite 206",
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": "763-319-8996",
@@ -96669,7 +96935,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clippert-law-firm",
@@ -96687,7 +96954,9 @@
                 "city": "St Paul",
                 "address": "101 E. 5th Street",
                 "address2": "Suite 1500",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-300-4109",
@@ -96708,7 +96977,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-cody-law-group",
@@ -96726,7 +96996,9 @@
                 "city": "Vadnais Heights",
                 "address": "359 Commerce Court",
                 "address2": null,
-                "zip": "55127"
+                "zip": "55127",
+                "lat": 45.0798,
+                "lng": -93.0883
             },
             "contact": {
                 "phone": "612-444-9418",
@@ -96749,7 +97021,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gallagher-law-firm",
@@ -96767,7 +97040,9 @@
                 "city": "St. Paul",
                 "address": "3252 Rice Street",
                 "address2": null,
-                "zip": "55126"
+                "zip": "55126",
+                "lat": 45.0801,
+                "lng": -93.1377
             },
             "contact": {
                 "phone": "651-661-7490",
@@ -96798,7 +97073,8 @@
                 "Insurance Law",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jaspers-moriarty-wetherille-p-a",
@@ -96816,7 +97092,9 @@
                 "city": "Shakopee",
                 "address": "206 Scott St S",
                 "address2": null,
-                "zip": "55379"
+                "zip": "55379",
+                "lat": 44.7463,
+                "lng": -93.5157
             },
             "contact": {
                 "phone": "952-522-0859",
@@ -96855,7 +97133,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "two-rivers-law-p-a",
@@ -96873,7 +97152,9 @@
                 "city": "Otsego",
                 "address": "9040 Quaday Ave. NE",
                 "address2": "Suite 201",
-                "zip": "55330"
+                "zip": "55330",
+                "lat": 45.3257,
+                "lng": -93.6032
             },
             "contact": {
                 "phone": "763-298-4931",
@@ -96911,7 +97192,8 @@
                 "Family Law",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "katz-manka-teplinsky-graves-sobol-ltd",
@@ -96929,7 +97211,9 @@
                 "city": "Minneapolis",
                 "address": "225 South Sixth Street",
                 "address2": "Suite 4150",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-333-1671",
@@ -96952,7 +97236,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hill-crabb-llc",
@@ -96970,7 +97255,9 @@
                 "city": "Edina",
                 "address": "7300 Metro Blvd",
                 "address2": "Suite 585",
-                "zip": "55439"
+                "zip": "55439",
+                "lat": 44.8748,
+                "lng": -93.3748
             },
             "contact": {
                 "phone": "612-662-7257",
@@ -97003,7 +97290,8 @@
                 "Family Law",
                 "Military",
                 "Military Divorce"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eckland-blando",
@@ -97021,7 +97309,9 @@
                 "city": "Minneapolis",
                 "address": "10 South Fifth Street",
                 "address2": "Suite 800",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-236-0160",
@@ -97051,6 +97341,44 @@
             "official_practice_area": [
                 "Contracts",
                 "Government Contracts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20001",
+                    "address": "650 Massachusetts Avenue NW, Suite 600",
+                    "phone": "(202) 977-4631",
+                    "lat": 38.9107,
+                    "lng": -77.0167
+                },
+                {
+                    "city": "Bronx",
+                    "state": "NY",
+                    "zip": "10470",
+                    "address": "4265 Webster Avenue, Unit 7D",
+                    "phone": "617-217-6936",
+                    "lat": 40.9025,
+                    "lng": -73.8624
+                },
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70163",
+                    "address": "Energy Centre Building, 1100 Poydras Street, Suite 2900",
+                    "phone": "504-662-1593",
+                    "lat": 29.9501,
+                    "lng": -90.0753
+                },
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02210",
+                    "address": "22 Boston Wharf Road, 7th Floor",
+                    "phone": "617-217-6936",
+                    "lat": 42.3466,
+                    "lng": -71.0396
+                }
             ]
         },
         {
@@ -97069,7 +97397,9 @@
                 "city": "Minneapolis",
                 "address": "5001 Chowen Avenue S.",
                 "address2": null,
-                "zip": "55410"
+                "zip": "55410",
+                "lat": 44.9124,
+                "lng": -93.3186
             },
             "contact": {
                 "phone": "612-922-2260",
@@ -97105,7 +97435,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "culberth-lienemann-llp",
@@ -97123,7 +97454,9 @@
                 "city": "Saint Paul",
                 "address": "1050 UBS Plaza",
                 "address2": "444 Cedar Street",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-243-6234",
@@ -97145,7 +97478,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cylkowski-law-office-p-a",
@@ -97163,7 +97497,9 @@
                 "city": "Eagan",
                 "address": "4590 Scott Trail",
                 "address2": "Suite 200",
-                "zip": "55122"
+                "zip": "55122",
+                "lat": 44.8028,
+                "lng": -93.1977
             },
             "contact": {
                 "phone": "612-205-6897",
@@ -97185,7 +97521,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "padmanabhan-dawson-pllc",
@@ -97203,7 +97540,9 @@
                 "city": "Plymouth",
                 "address": "9800 Shelard Parkway",
                 "address2": "STE 120",
-                "zip": "55441"
+                "zip": "55441",
+                "lat": 45.0059,
+                "lng": -93.4302
             },
             "contact": {
                 "phone": "866-804-8678",
@@ -97231,7 +97570,8 @@
             ],
             "official_practice_area": [
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "evenson-decker-p-a",
@@ -97249,7 +97589,9 @@
                 "city": "St. Cloud",
                 "address": "1011 Second Street North",
                 "address2": "Suite 201",
-                "zip": "56302"
+                "zip": "56302",
+                "lat": 45.5605,
+                "lng": -94.1622
             },
             "contact": {
                 "phone": "320-253-7130",
@@ -97293,7 +97635,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "klampe-law-firm-llc",
@@ -97311,7 +97654,9 @@
                 "city": "Rochester",
                 "address": "975 34th Ave NW",
                 "address2": "Suite 400",
-                "zip": "55901"
+                "zip": "55901",
+                "lat": 44.0751,
+                "lng": -92.5124
             },
             "contact": {
                 "phone": "507-214-0101",
@@ -97360,7 +97705,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "delmore-law-office",
@@ -97378,7 +97724,9 @@
                 "city": "Minneapolis",
                 "address": "2600 Wayzata Blvd. N.",
                 "address2": null,
-                "zip": "55405"
+                "zip": "55405",
+                "lat": 44.9676,
+                "lng": -93.303
             },
             "contact": {
                 "phone": "612-419-3145",
@@ -97398,7 +97746,8 @@
             ],
             "official_practice_area": [
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "desmidt-rabuse-pllc",
@@ -97416,7 +97765,9 @@
                 "city": "Minneapolis",
                 "address": "80 South 8th Street",
                 "address2": null,
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-503-9731",
@@ -97441,7 +97792,8 @@
             "official_practice_area": [
                 "Adoption",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doda-mcgeeney-p-a",
@@ -97459,7 +97811,9 @@
                 "city": "Rochester",
                 "address": "421 1st Avenue SW",
                 "address2": "Suite 300 East",
-                "zip": "55902"
+                "zip": "55902",
+                "lat": 43.9583,
+                "lng": -92.5203
             },
             "contact": {
                 "phone": "507-536-0555",
@@ -97483,6 +97837,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Duluth",
+                    "state": "MN",
+                    "zip": "55802",
+                    "address": "Alworth Building, 306 West Superior Street, Suite 1105",
+                    "phone": "507-536-0555",
+                    "lat": 46.7529,
+                    "lng": -92.0692
+                }
             ]
         },
         {
@@ -97501,7 +97866,9 @@
                 "city": "Edina",
                 "address": "7300 Metro Boulevard",
                 "address2": "Suite 350",
-                "zip": "55439"
+                "zip": "55439",
+                "lat": 44.8748,
+                "lng": -93.3748
             },
             "contact": {
                 "phone": "612-504-5732",
@@ -97532,7 +97899,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "steven-c-thal-p-a",
@@ -97550,7 +97918,9 @@
                 "city": "Minnetonka",
                 "address": "10580 Wayzata Boulevard",
                 "address2": "Suite 100",
-                "zip": "55305"
+                "zip": "55305",
+                "lat": 44.952,
+                "lng": -93.4361
             },
             "contact": {
                 "phone": "612-424-2942",
@@ -97583,7 +97953,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paige-j-donnelly-ltd",
@@ -97601,7 +97972,9 @@
                 "city": "St Paul",
                 "address": "444 Cedar Street",
                 "address2": "Suite 2300",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-728-7070",
@@ -97626,7 +97999,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mauzy-law-office-p-a",
@@ -97644,7 +98018,9 @@
                 "city": "Minneapolis",
                 "address": "650 Third Avenue South",
                 "address2": "Suite 260",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-888-0850",
@@ -97670,7 +98046,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reichert-wenner-p-a",
@@ -97688,7 +98065,9 @@
                 "city": "St. Cloud",
                 "address": "616 Roosevelt Road",
                 "address2": "Suite 100",
-                "zip": "56301"
+                "zip": "56301",
+                "lat": 45.4939,
+                "lng": -94.2426
             },
             "contact": {
                 "phone": "320-318-2591",
@@ -97738,7 +98117,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "adam-dowd-law",
@@ -97756,7 +98136,9 @@
                 "city": "Northfield",
                 "address": "Box 236",
                 "address2": null,
-                "zip": "55057"
+                "zip": "55057",
+                "lat": 44.4627,
+                "lng": -93.206
             },
             "contact": {
                 "phone": "952-465-6576",
@@ -97794,7 +98176,8 @@
                 "Probate",
                 "Real Estate",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-ahlgren-law-office-pllc",
@@ -97812,7 +98195,9 @@
                 "city": "Fergus Falls",
                 "address": "220 West Washington Avenue",
                 "address2": "Suite 105",
-                "zip": "56537"
+                "zip": "56537",
+                "lat": 46.2698,
+                "lng": -96.0873
             },
             "contact": {
                 "phone": "218-998-2775",
@@ -97828,7 +98213,8 @@
                 "Erik A. Ahlgren",
                 "Sarah Duffy"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "dusek-law",
@@ -97846,7 +98232,9 @@
                 "city": "East Grand Forks",
                 "address": "712 Demers Avenue",
                 "address2": null,
-                "zip": "56721"
+                "zip": "56721",
+                "lat": 48.0186,
+                "lng": -96.9648
             },
             "contact": {
                 "phone": "701-746-4107",
@@ -97869,6 +98257,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Grand Forks",
+                    "state": "ND",
+                    "zip": "58201",
+                    "address": "1005 S Washington Street, Suite D",
+                    "phone": "701-746-4107",
+                    "lat": 47.8722,
+                    "lng": -97.1226
+                }
             ]
         },
         {
@@ -97887,7 +98286,9 @@
                 "city": "Lakeville",
                 "address": "20686 Holyoke Avenue",
                 "address2": "P.O. Box 427",
-                "zip": "55044"
+                "zip": "55044",
+                "lat": 44.6323,
+                "lng": -93.3014
             },
             "contact": {
                 "phone": "888-280-0736",
@@ -97928,7 +98329,8 @@
                 "Military",
                 "Military Divorce",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-thomas-b-schway",
@@ -97946,7 +98348,9 @@
                 "city": "Oakdale",
                 "address": "6230 10th Street North",
                 "address2": "Suite 410",
-                "zip": "55128"
+                "zip": "55128",
+                "lat": 44.9923,
+                "lng": -92.9594
             },
             "contact": {
                 "phone": "651-315-8139",
@@ -97969,7 +98373,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sieben-edmunds-miller-pllc",
@@ -97987,7 +98392,9 @@
                 "city": "Eagan",
                 "address": "2640 Eagan Woods Drive",
                 "address2": "Suite 220",
-                "zip": "55121"
+                "zip": "55121",
+                "lat": 44.8422,
+                "lng": -93.168
             },
             "contact": {
                 "phone": "651-395-4872",
@@ -98018,7 +98425,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "levander-gillen-miller-p-a",
@@ -98036,7 +98444,9 @@
                 "city": "Eagan",
                 "address": "1305 Corporate Center Drive",
                 "address2": "Suite 300",
-                "zip": "55121"
+                "zip": "55121",
+                "lat": 44.8422,
+                "lng": -93.168
             },
             "contact": {
                 "phone": "651-451-1831",
@@ -98068,7 +98478,8 @@
                 "Debtor and Creditor",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "engelmeier-umanah-p-a",
@@ -98086,7 +98497,9 @@
                 "city": "Minneapolis",
                 "address": "121 South Eighth Street",
                 "address2": "Suite 1300",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-455-7720",
@@ -98118,6 +98531,17 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. Cloud",
+                    "state": "MN",
+                    "zip": "56303",
+                    "address": "1521 Northway Drive, Suite 115",
+                    "phone": "320-230-0375",
+                    "lat": 45.5808,
+                    "lng": -94.2152
+                }
             ]
         },
         {
@@ -98136,7 +98560,9 @@
                 "city": "Minneapolis",
                 "address": "43 SE Main Street",
                 "address2": "Suite #500",
-                "zip": "55414"
+                "zip": "55414",
+                "lat": 44.9732,
+                "lng": -93.2338
             },
             "contact": {
                 "phone": "651-314-9228",
@@ -98191,6 +98617,44 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Roseville",
+                    "state": "MN",
+                    "zip": "55113",
+                    "address": "1700 S Hwy 36 Service Dr, #220",
+                    "phone": "855-642-6538",
+                    "lat": 45.0121,
+                    "lng": -93.1559
+                },
+                {
+                    "city": "Hudson",
+                    "state": "WI",
+                    "zip": "54016",
+                    "address": "517 2nd Street, Unit #205",
+                    "phone": "(715) 304-0222",
+                    "lat": 44.9708,
+                    "lng": -92.7003
+                },
+                {
+                    "city": "Fargo",
+                    "state": "ND",
+                    "zip": "58102",
+                    "address": "1 2nd St N, Ste 228",
+                    "phone": "701-970-2185",
+                    "lat": 46.9258,
+                    "lng": -96.8289
+                },
+                {
+                    "city": "Dubuque",
+                    "state": "IA",
+                    "zip": "52001",
+                    "address": "210 Jones St, Suite 209",
+                    "phone": "(715) 304-0222",
+                    "lat": 42.559,
+                    "lng": -90.6961
+                }
             ]
         },
         {
@@ -98209,7 +98673,9 @@
                 "city": "Little Falls",
                 "address": "118 Wood Street",
                 "address2": "Suite 105",
-                "zip": "56345"
+                "zip": "56345",
+                "lat": 45.9889,
+                "lng": -94.3926
             },
             "contact": {
                 "phone": "320-632-5458",
@@ -98246,7 +98712,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "soucie-eyberg-law",
@@ -98264,7 +98731,9 @@
                 "city": "Andover",
                 "address": "PO Box 160",
                 "address2": null,
-                "zip": "55304"
+                "zip": "55304",
+                "lat": 45.2549,
+                "lng": -93.2744
             },
             "contact": {
                 "phone": "763-515-0710",
@@ -98287,7 +98756,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "faricy-law-firm-p-a",
@@ -98305,7 +98775,9 @@
                 "city": "Minneapolis",
                 "address": "120 South 6th Street",
                 "address2": "Suite 2450",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-371-4400",
@@ -98327,7 +98799,8 @@
             ],
             "official_practice_area": [
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "huson-law-firm-pllc",
@@ -98345,7 +98818,9 @@
                 "city": "Maplewood",
                 "address": "2109 County Road D East",
                 "address2": "Suite C",
-                "zip": "55109"
+                "zip": "55109",
+                "lat": 45.0139,
+                "lng": -93.027
             },
             "contact": {
                 "phone": "651-758-3230",
@@ -98376,7 +98851,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flanagan-law-office",
@@ -98394,7 +98870,9 @@
                 "city": "St. Paul",
                 "address": "332 Minnesota Street",
                 "address2": "Suite W1610",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-291-5453",
@@ -98416,6 +98894,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fridley",
+                    "state": "MN",
+                    "zip": "55432",
+                    "address": "University Business Center, 7984 University Avenue NE",
+                    "phone": "(866) 585-3056",
+                    "lat": 45.0949,
+                    "lng": -93.2616
+                }
             ]
         },
         {
@@ -98434,7 +98923,9 @@
                 "city": "Minneapolis",
                 "address": "2124 Dupont Ave S",
                 "address2": "Suite 101",
-                "zip": "55405"
+                "zip": "55405",
+                "lat": 44.9676,
+                "lng": -93.303
             },
             "contact": {
                 "phone": "612-915-0281",
@@ -98458,7 +98949,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frankman-law-offices",
@@ -98476,7 +98968,9 @@
                 "city": "Minneapolis",
                 "address": "900 IDS Center",
                 "address2": "80 South 8th Street",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-375-1600",
@@ -98502,7 +98996,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "neff-law-firm-p-a",
@@ -98520,7 +99015,9 @@
                 "city": "Edina",
                 "address": "One Corporate Office Plaza",
                 "address2": "7400 Metro Boulevard, Suite 390",
-                "zip": "55439"
+                "zip": "55439",
+                "lat": 44.8748,
+                "lng": -93.3748
             },
             "contact": {
                 "phone": "952-831-6555",
@@ -98540,6 +99037,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Roseville",
+                    "state": "MN",
+                    "zip": "55113",
+                    "address": "Roseville Professional Center, 2233 Hamline Avenue North, Suite 523",
+                    "phone": "(952) 831-6555",
+                    "lat": 45.0121,
+                    "lng": -93.1559
+                }
             ]
         },
         {
@@ -98558,7 +99066,9 @@
                 "city": "Wayzata",
                 "address": "1000 Twelve Oaks Center Drive",
                 "address2": "Suite 100",
-                "zip": "55391"
+                "zip": "55391",
+                "lat": 44.9653,
+                "lng": -93.5432
             },
             "contact": {
                 "phone": "800-724-2883",
@@ -98578,7 +99088,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gabrielson-law-offices-ltd",
@@ -98596,7 +99107,9 @@
                 "city": "Sartell",
                 "address": "18 Riverside Avenue S.",
                 "address2": "Suite 200",
-                "zip": "56377"
+                "zip": "56377",
+                "lat": 45.6446,
+                "lng": -94.2199
             },
             "contact": {
                 "phone": "320-281-1947",
@@ -98621,6 +99134,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Brainerd",
+                    "state": "MN",
+                    "zip": "56401",
+                    "address": "102 Laurel St",
+                    "phone": "320-281-1947",
+                    "lat": 46.3217,
+                    "lng": -94.1168
+                }
             ]
         },
         {
@@ -98639,7 +99163,9 @@
                 "city": "Maple Grove",
                 "address": "11210 86th Avenue North",
                 "address2": null,
-                "zip": "55369"
+                "zip": "55369",
+                "lat": 45.1267,
+                "lng": -93.4606
             },
             "contact": {
                 "phone": "763-298-4745",
@@ -98661,7 +99187,8 @@
             ],
             "official_practice_area": [
                 "Lemon Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walsh-gaertner-p-a",
@@ -98679,7 +99206,9 @@
                 "city": "St. Paul",
                 "address": "24 4th Street East",
                 "address2": null,
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-867-6364",
@@ -98712,7 +99241,8 @@
                 "Premises Liability",
                 "Probate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gerlach-law",
@@ -98730,7 +99260,9 @@
                 "city": "St. Paul",
                 "address": "127 E County Rd C",
                 "address2": "Suite 4",
-                "zip": "55117"
+                "zip": "55117",
+                "lat": 45.0031,
+                "lng": -93.1063
             },
             "contact": {
                 "phone": "952-952-6989",
@@ -98762,7 +99294,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilbert-law-pllc",
@@ -98780,7 +99313,9 @@
                 "city": "White Bear Lake",
                 "address": "4661 Highway 61",
                 "address2": "Suite 207",
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": "612-504-5806",
@@ -98813,7 +99348,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-barbara-j-gislason",
@@ -98831,7 +99367,9 @@
                 "city": "Fridley",
                 "address": "7362 University Avenue NE, Suite 120",
                 "address2": null,
-                "zip": "55432"
+                "zip": "55432",
+                "lat": 45.0949,
+                "lng": -93.2616
             },
             "contact": {
                 "phone": "763-220-2983",
@@ -98863,7 +99401,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "villaume-schiek",
@@ -98881,7 +99420,9 @@
                 "city": "Bloomington",
                 "address": "2001 Killebrew Drive",
                 "address2": "Suite 210",
-                "zip": "55425"
+                "zip": "55425",
+                "lat": 44.8369,
+                "lng": -93.2326
             },
             "contact": {
                 "phone": "952-333-4309",
@@ -98928,7 +99469,8 @@
                 "Whistleblower and Qui Tam",
                 "Workers' Compensation",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "janet-l-goehle-attorney-at-law",
@@ -98946,7 +99488,9 @@
                 "city": "Roseville",
                 "address": "1912 Lexington Avenue North",
                 "address2": "Suite 300",
-                "zip": "55113"
+                "zip": "55113",
+                "lat": 45.0121,
+                "lng": -93.1559
             },
             "contact": {
                 "phone": "651-243-6005",
@@ -98995,7 +99539,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goerlitz-law-pllc",
@@ -99013,7 +99558,9 @@
                 "city": "Woodbury",
                 "address": "724 Bielenberg Drive",
                 "address2": null,
-                "zip": "55125"
+                "zip": "55125",
+                "lat": 44.9196,
+                "lng": -92.9439
             },
             "contact": {
                 "phone": "651-447-5724",
@@ -99045,7 +99592,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccollum-crowley-p-a",
@@ -99063,7 +99611,9 @@
                 "city": "Minneapolis",
                 "address": "700 Wells Fargo Plaza",
                 "address2": "7900 Xerxes Avenue South",
-                "zip": "55431"
+                "zip": "55431",
+                "lat": 44.8266,
+                "lng": -93.3108
             },
             "contact": {
                 "phone": "952-831-4980",
@@ -99094,6 +99644,35 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bloomington",
+                    "state": "MN",
+                    "zip": "55431",
+                    "address": "700 Wells Fargo Plaza, 7900 Xerxes Avenue South, Suite 700",
+                    "phone": "(952) 831-4980",
+                    "lat": 44.8266,
+                    "lng": -93.3108
+                },
+                {
+                    "city": "Rice Lake",
+                    "state": "WI",
+                    "zip": "54868",
+                    "address": "315 E. South Street, Suite B",
+                    "phone": "(715) 234-2656",
+                    "lat": 45.5142,
+                    "lng": -91.705
+                },
+                {
+                    "city": "Boulder",
+                    "state": "CO",
+                    "zip": "80303",
+                    "address": "4450 Arapahoe Avenue, Suite 100",
+                    "phone": "(303) 415-2068",
+                    "lat": 39.9532,
+                    "lng": -105.2267
+                }
             ]
         },
         {
@@ -99112,7 +99691,9 @@
                 "city": "St Cloud",
                 "address": "4140 Thielman Lane, Suite 110",
                 "address2": "PO Box 7456",
-                "zip": "56302"
+                "zip": "56302",
+                "lat": 45.5605,
+                "lng": -94.1622
             },
             "contact": {
                 "phone": "320-251-1055",
@@ -99145,6 +99726,17 @@
             ],
             "official_practice_area": [
                 "Insurance Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bismarck",
+                    "state": "ND",
+                    "zip": "58501",
+                    "address": "220 N. 4th Street",
+                    "phone": "701-222-6397",
+                    "lat": 46.8225,
+                    "lng": -100.719
+                }
             ]
         },
         {
@@ -99163,7 +99755,9 @@
                 "city": "Eden Prairie",
                 "address": "PO Box 46424",
                 "address2": null,
-                "zip": "55344"
+                "zip": "55344",
+                "lat": 44.8641,
+                "lng": -93.4417
             },
             "contact": {
                 "phone": "612-886-8109",
@@ -99199,7 +99793,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meshbesher-associates-p-a",
@@ -99217,7 +99812,9 @@
                 "city": "Minneapolis",
                 "address": "9800 Shelard Parkway",
                 "address2": "Ste. 310",
-                "zip": "55441"
+                "zip": "55441",
+                "lat": 45.0059,
+                "lng": -93.4302
             },
             "contact": {
                 "phone": "612-200-1526",
@@ -99242,7 +99839,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "donohue-mckenney-ltd",
@@ -99260,7 +99858,9 @@
                 "city": "Maple Grove",
                 "address": "11222 86th Avenue N.",
                 "address2": null,
-                "zip": "55369"
+                "zip": "55369",
+                "lat": 45.1267,
+                "lng": -93.4606
             },
             "contact": {
                 "phone": "763-301-5917",
@@ -99296,7 +99896,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "minnesota-esquire-llc",
@@ -99314,7 +99915,9 @@
                 "city": "Mendota Heights",
                 "address": "1850 Eagle Ridge Drive",
                 "address2": "Suite E-102",
-                "zip": "55118"
+                "zip": "55118",
+                "lat": 44.8925,
+                "lng": -93.1221
             },
             "contact": {
                 "phone": "651-905-4453",
@@ -99335,6 +99938,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Edina",
+                    "state": "MN",
+                    "zip": "55435",
+                    "address": "3209 West 76th st, Ste 202b",
+                    "phone": "(651) 905-4453",
+                    "lat": 44.8744,
+                    "lng": -93.3347
+                }
             ]
         },
         {
@@ -99353,7 +99967,9 @@
                 "city": "Walker",
                 "address": "111 6th Street South",
                 "address2": "PO Box 392",
-                "zip": "56484"
+                "zip": "56484",
+                "lat": 47.0934,
+                "lng": -94.4739
             },
             "contact": {
                 "phone": "218-547-3800",
@@ -99379,6 +99995,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Longville",
+                    "state": "MN",
+                    "zip": "56655",
+                    "address": "1481 County Road 5, PO Box 466",
+                    "phone": "218-363-3230",
+                    "lat": 47.0307,
+                    "lng": -94.1726
+                }
             ]
         },
         {
@@ -99397,7 +100024,9 @@
                 "city": "Champlin",
                 "address": "11468 Marketplace Drive N",
                 "address2": "STE 600-1030",
-                "zip": "55316"
+                "zip": "55316",
+                "lat": 45.1812,
+                "lng": -93.3763
             },
             "contact": {
                 "phone": "763-296-0672",
@@ -99429,7 +100058,8 @@
                 "Contracts",
                 "Estate Planning",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heine-law-pa",
@@ -99447,7 +100077,9 @@
                 "city": "New Ulm",
                 "address": "108 N. Minnesota St.",
                 "address2": null,
-                "zip": "56073"
+                "zip": "56073",
+                "lat": 44.3263,
+                "lng": -94.4582
             },
             "contact": {
                 "phone": "507-366-1667",
@@ -99478,7 +100110,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mason-helmers",
@@ -99496,7 +100129,9 @@
                 "city": "St. Paul",
                 "address": "332 Minnesota Street",
                 "address2": "Suite W-3070",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-758-0722",
@@ -99528,7 +100163,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "herman-law-pllc",
@@ -99546,7 +100182,9 @@
                 "city": "Minneapolis",
                 "address": "400 S 4th St",
                 "address2": "Suite 401",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "855-457-8572",
@@ -99574,7 +100212,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jacobsen-law-firm-p-a",
@@ -99592,7 +100231,9 @@
                 "city": "Northfield",
                 "address": "158 Water Street N.",
                 "address2": "Suite 1",
-                "zip": "55057"
+                "zip": "55057",
+                "lat": 44.4627,
+                "lng": -93.206
             },
             "contact": {
                 "phone": "507-214-2760",
@@ -99631,7 +100272,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hess-jendro-law-office-p-a",
@@ -99649,7 +100291,9 @@
                 "city": "Elk River",
                 "address": "The Pines Town Offices",
                 "address2": "11070 183rd Circle NW, Suite A",
-                "zip": "55330"
+                "zip": "55330",
+                "lat": 45.3257,
+                "lng": -93.6032
             },
             "contact": {
                 "phone": "763-200-6626",
@@ -99683,7 +100327,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hurd-law-pllc",
@@ -99701,7 +100346,9 @@
                 "city": "Roseville",
                 "address": "1700 Highway 36 West",
                 "address2": "Suite 610",
-                "zip": "55113"
+                "zip": "55113",
+                "lat": 45.0121,
+                "lng": -93.1559
             },
             "contact": {
                 "phone": "612-444-6110",
@@ -99724,7 +100371,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jeffrey-a-jones-p-a",
@@ -99742,7 +100390,9 @@
                 "city": "Golden Valley",
                 "address": "Golden Hills Office Center",
                 "address2": "701 Xenia Avenue South, Suite 475",
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "612-688-0532",
@@ -99781,7 +100431,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rock-hutchinson-pllp",
@@ -99799,7 +100450,9 @@
                 "city": "Minneapolis",
                 "address": "120 South Sixth Street",
                 "address2": "Suite 2480",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-573-3688",
@@ -99823,7 +100476,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jarvis-fleming-law-ltd",
@@ -99841,7 +100495,9 @@
                 "city": "Minneapolis",
                 "address": "3621 85th Ave N.Ste 201",
                 "address2": null,
-                "zip": "55443"
+                "zip": "55443",
+                "lat": 45.1197,
+                "lng": -93.3415
             },
             "contact": {
                 "phone": "612-778-0597",
@@ -99881,7 +100537,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jensen-law-offices-pllp",
@@ -99899,7 +100556,9 @@
                 "city": "Edina",
                 "address": "3300 Edinborough Way",
                 "address2": "Suite 600",
-                "zip": "55431"
+                "zip": "55431",
+                "lat": 44.8266,
+                "lng": -93.3108
             },
             "contact": {
                 "phone": "952-893-5532",
@@ -99922,7 +100581,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-criminal-defense",
@@ -99940,7 +100600,9 @@
                 "city": "Minneapolis",
                 "address": "3109 Hennepin Avenue South",
                 "address2": null,
-                "zip": "55408"
+                "zip": "55408",
+                "lat": 44.945,
+                "lng": -93.294
             },
             "contact": {
                 "phone": "612-889-8808",
@@ -99963,7 +100625,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-brothers-law",
@@ -99981,7 +100644,9 @@
                 "city": "Chisago City",
                 "address": "11484 Brink Avenue",
                 "address2": null,
-                "zip": "55013"
+                "zip": "55013",
+                "lat": 45.3656,
+                "lng": -92.8892
             },
             "contact": {
                 "phone": "651-313-7191",
@@ -100003,7 +100668,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnston-martineau-p-l-l-p",
@@ -100021,7 +100687,9 @@
                 "city": "Roseville",
                 "address": "1700 West Highway 36",
                 "address2": "Suite 620",
-                "zip": "55113"
+                "zip": "55113",
+                "lat": 45.0121,
+                "lng": -93.1559
             },
             "contact": {
                 "phone": "-651-ANY-TIME",
@@ -100041,7 +100709,8 @@
             ],
             "official_practice_area": [
                 "Consumer Protection"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-bigelbach-law-pllc",
@@ -100059,7 +100728,9 @@
                 "city": "St. Paul",
                 "address": "444 Cedar Street",
                 "address2": "Suite 1070",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "612-778-1717",
@@ -100082,7 +100753,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krueger-juelich-schmisek-pllc",
@@ -100100,7 +100772,9 @@
                 "city": "Minnetonka",
                 "address": "601 Carlson Parkway",
                 "address2": "Suite 1025",
-                "zip": "55305"
+                "zip": "55305",
+                "lat": 44.952,
+                "lng": -93.4361
             },
             "contact": {
                 "phone": "855-378-4482",
@@ -100128,7 +100802,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kauffman-law-firm",
@@ -100146,7 +100821,9 @@
                 "city": "Rochester",
                 "address": "302 Ironwood Square",
                 "address2": "300 Third Avenue Southeast",
-                "zip": "55904"
+                "zip": "55904",
+                "lat": 43.9532,
+                "lng": -92.4005
             },
             "contact": {
                 "phone": "507-285-5350",
@@ -100163,7 +100840,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lang-kauppi-overhaug-law-pllc",
@@ -100181,7 +100859,9 @@
                 "city": "Chanhassen",
                 "address": "455 Pond Promenade",
                 "address2": "Suite 210",
-                "zip": "55317"
+                "zip": "55317",
+                "lat": 44.8519,
+                "lng": -93.5542
             },
             "contact": {
                 "phone": "952-470-6361",
@@ -100217,7 +100897,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keller-woods-thompson-p-a",
@@ -100235,7 +100916,9 @@
                 "city": "Minneapolis",
                 "address": "1300 Godward Street NE",
                 "address2": "Suite 4000",
-                "zip": "55413"
+                "zip": "55413",
+                "lat": 45.0022,
+                "lng": -93.2416
             },
             "contact": {
                 "phone": "763-645-8261",
@@ -100259,6 +100942,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Little Falls",
+                    "state": "MN",
+                    "zip": "56345",
+                    "address": "210 NE 2nd Street, Suite 100",
+                    "phone": "+17636458348",
+                    "lat": 45.9889,
+                    "lng": -94.3926
+                }
             ]
         },
         {
@@ -100277,7 +100971,9 @@
                 "city": "White Bear Lake",
                 "address": "4856 Banning Avenue",
                 "address2": null,
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": "612-568-8758",
@@ -100297,7 +100993,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelm-reuter-p-a",
@@ -100315,7 +101012,9 @@
                 "city": "Sauk Rapids",
                 "address": "1287 2nd Street North",
                 "address2": "Suite 101",
-                "zip": "56379"
+                "zip": "56379",
+                "lat": 45.6474,
+                "lng": -94.0851
             },
             "contact": {
                 "phone": "320-347-7069",
@@ -100341,7 +101040,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelsch-law-firm-p-a",
@@ -100359,7 +101059,9 @@
                 "city": "Champlin",
                 "address": "11108 Zealand Ave North",
                 "address2": "Suite 107",
-                "zip": "55316"
+                "zip": "55316",
+                "lat": 45.1812,
+                "lng": -93.3763
             },
             "contact": {
                 "phone": "763-726-8745",
@@ -100390,7 +101092,8 @@
                 "Legal Malpractice",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kennedy-kennedy-law-office",
@@ -100408,7 +101111,9 @@
                 "city": "Mankato",
                 "address": "99 Navaho Avenue",
                 "address2": "Suite 104",
-                "zip": "56001"
+                "zip": "56001",
+                "lat": 44.1307,
+                "lng": -93.9938
             },
             "contact": {
                 "phone": "507-550-1519",
@@ -100435,7 +101140,8 @@
                 "Bankruptcy",
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "emeriti-law-pllc",
@@ -100453,7 +101159,9 @@
                 "city": "St. Paul",
                 "address": "444 Cedar Street",
                 "address2": "Suite 1150",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "844-225-6420",
@@ -100477,6 +101185,35 @@
             "official_practice_area": [
                 "Immigration",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "zip": "44113",
+                    "address": "1468 West 9th Street, Suite #100",
+                    "phone": "+18664144794",
+                    "lat": 41.4858,
+                    "lng": -81.6944
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20005",
+                    "address": "1500 K St NW, Spaces 2nd Floor",
+                    "phone": "+18664144794",
+                    "lat": 38.9042,
+                    "lng": -77.0318
+                },
+                {
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "zip": "94104",
+                    "address": "580 California St., Suite 1200",
+                    "phone": "+18664144794",
+                    "lat": 37.791,
+                    "lng": -122.4019
+                }
             ]
         },
         {
@@ -100495,7 +101232,9 @@
                 "city": "Roseville",
                 "address": "3101 Old Highway 8",
                 "address2": "#204",
-                "zip": "55113"
+                "zip": "55113",
+                "lat": 45.0121,
+                "lng": -93.1559
             },
             "contact": {
                 "phone": "612-424-0747",
@@ -100524,7 +101263,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oney-kim-family-law-pllc",
@@ -100542,7 +101282,9 @@
                 "city": "Eagan",
                 "address": "3445 Washington Drive",
                 "address2": "Suite #104",
-                "zip": "55122"
+                "zip": "55122",
+                "lat": 44.8028,
+                "lng": -93.1977
             },
             "contact": {
                 "phone": "612-515-8139",
@@ -100569,7 +101311,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-a-klassen-p-a",
@@ -100587,7 +101330,9 @@
                 "city": "Minneapolis",
                 "address": "310 4th Avenue South",
                 "address2": "Suite 5010",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-204-4533",
@@ -100610,7 +101355,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lighthouse-law-pllc",
@@ -100628,7 +101374,9 @@
                 "city": "White Bear Lake",
                 "address": "4527 Allendale Drive",
                 "address2": null,
-                "zip": "55127"
+                "zip": "55127",
+                "lat": 45.0798,
+                "lng": -93.0883
             },
             "contact": {
                 "phone": "651-491-8847",
@@ -100649,7 +101397,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-james-perunovich",
@@ -100667,7 +101416,9 @@
                 "city": "Hibbing",
                 "address": "106 East 23rd Street",
                 "address2": null,
-                "zip": "55746"
+                "zip": "55746",
+                "lat": 47.3704,
+                "lng": -92.8759
             },
             "contact": {
                 "phone": "218-277-5368",
@@ -100710,6 +101461,17 @@
                 "Drug Crime",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Grand Rapids",
+                    "state": "MN",
+                    "zip": "55744",
+                    "address": "20 NE 4th St",
+                    "phone": "218-326-1435",
+                    "lat": 47.2868,
+                    "lng": -93.5462
+                }
             ]
         },
         {
@@ -100728,7 +101490,9 @@
                 "city": "Inver Grove Heights",
                 "address": "6115 Cahill Ave",
                 "address2": "Suite 200",
-                "zip": "55076"
+                "zip": "55076",
+                "lat": 44.8295,
+                "lng": -93.0356
             },
             "contact": {
                 "phone": "651-346-3070",
@@ -100765,7 +101529,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "montpetit-kranz-pllc",
@@ -100783,7 +101548,9 @@
                 "city": "South St Paul",
                 "address": "105 Hardman Ct.",
                 "address2": "Suite 110",
-                "zip": "55075"
+                "zip": "55075",
+                "lat": 44.8857,
+                "lng": -93.038
             },
             "contact": {
                 "phone": "651-450-9000",
@@ -100806,7 +101573,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krenner-law-llc",
@@ -100824,7 +101592,9 @@
                 "city": "Oakdale",
                 "address": "7845 3rd Street North",
                 "address2": "Suite 110A",
-                "zip": "55128"
+                "zip": "55128",
+                "lat": 44.9923,
+                "lng": -92.9594
             },
             "contact": {
                 "phone": "651-447-6478",
@@ -100844,7 +101614,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kretchmer-family-law-pllc",
@@ -100862,7 +101633,9 @@
                 "city": "Minneapolis",
                 "address": "1600 Utica Ave S",
                 "address2": "Suite 900",
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "612-482-0120",
@@ -100895,7 +101668,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-ashley-m-kuhn-pllc",
@@ -100913,7 +101687,9 @@
                 "city": "Rochester",
                 "address": "2778 Commerce Drive NW",
                 "address2": "Unit C",
-                "zip": "55901"
+                "zip": "55901",
+                "lat": 44.0751,
+                "lng": -92.5124
             },
             "contact": {
                 "phone": "507-214-3927",
@@ -100942,7 +101718,8 @@
                 "Elder Law",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeffrey-w-lambert-p-a",
@@ -100960,7 +101737,9 @@
                 "city": "Wayzata",
                 "address": "1000 Twelve Oaks Center Drive",
                 "address2": "Suite 100",
-                "zip": "55391"
+                "zip": "55391",
+                "lat": 44.9653,
+                "lng": -93.5432
             },
             "contact": {
                 "phone": "952-314-6356",
@@ -100982,7 +101761,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-larson-peterson-p-a",
@@ -101000,7 +101780,9 @@
                 "city": "Buffalo",
                 "address": "908 Commercial Dr.",
                 "address2": null,
-                "zip": "55313"
+                "zip": "55313",
+                "lat": 45.19,
+                "lng": -93.8371
             },
             "contact": {
                 "phone": "763-682-4550",
@@ -101028,7 +101810,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lindell-lavoie-llp",
@@ -101046,7 +101829,9 @@
                 "city": "Minneapolis",
                 "address": "2420 Centre Village",
                 "address2": "431 South Seventh Street",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-514-0020",
@@ -101072,7 +101857,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lees-family-law-ltd",
@@ -101090,7 +101876,9 @@
                 "city": "Edina",
                 "address": "7650 Edinborough Way",
                 "address2": "Suite 100",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "651-222-9093",
@@ -101125,7 +101913,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lindberg-mclaughlin-p-c",
@@ -101143,7 +101932,9 @@
                 "city": "Sauk Rapids",
                 "address": "1277 2nd Street North",
                 "address2": null,
-                "zip": "56379"
+                "zip": "56379",
+                "lat": 45.6474,
+                "lng": -94.0851
             },
             "contact": {
                 "phone": "888-391-3216",
@@ -101172,6 +101963,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55403",
+                    "address": "88 South Tenth St., Suite 300",
+                    "phone": "+18443357183",
+                    "lat": 44.9729,
+                    "lng": -93.2875
+                }
             ]
         },
         {
@@ -101190,7 +101992,9 @@
                 "city": "Milaca",
                 "address": "210 Central Avenue North",
                 "address2": "Suite 1",
-                "zip": "56353"
+                "zip": "56353",
+                "lat": 45.7814,
+                "lng": -93.6151
             },
             "contact": {
                 "phone": "320-308-3359",
@@ -101212,7 +102016,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "srl-law",
@@ -101230,7 +102035,9 @@
                 "city": "St Paul",
                 "address": "101 5th St. E.",
                 "address2": "Ste. 1500",
-                "zip": "55101"
+                "zip": "55101",
+                "lat": 44.9508,
+                "lng": -93.0836
             },
             "contact": {
                 "phone": "651-371-9350",
@@ -101258,7 +102065,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tarrant-liska-p-l-l-c",
@@ -101276,7 +102084,9 @@
                 "city": "Saint Paul",
                 "address": "1570 Concordia Avenue",
                 "address2": "Suite 200",
-                "zip": "55104"
+                "zip": "55104",
+                "lat": 44.953,
+                "lng": -93.167
             },
             "contact": {
                 "phone": "651-699-5472",
@@ -101296,7 +102106,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-a-litman-and-associates-p-a",
@@ -101314,7 +102125,9 @@
                 "city": "Edina",
                 "address": "York Business Center",
                 "address2": "Suite 205, 3209 West 76th Street",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "952-832-9090",
@@ -101336,7 +102149,8 @@
             "official_practice_area": [
                 "Patents",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "loftness-law-office-p-a",
@@ -101354,7 +102168,9 @@
                 "city": "Shakopee",
                 "address": "327 Marschall Road",
                 "address2": "Suite 370",
-                "zip": "55379"
+                "zip": "55379",
+                "lat": 44.7463,
+                "lng": -93.5157
             },
             "contact": {
                 "phone": "952-303-0559",
@@ -101381,7 +102197,8 @@
                 "DUI and DWI",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-david-c-keegan-and-mikkel-a-long",
@@ -101399,7 +102216,9 @@
                 "city": "Duluth",
                 "address": "650 Lonsdale Building",
                 "address2": "302 West Superior Street",
-                "zip": "55802"
+                "zip": "55802",
+                "lat": 46.7529,
+                "lng": -92.0692
             },
             "contact": {
                 "phone": "218-722-7813",
@@ -101423,7 +102242,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-dennis-m-lothspeich-pa",
@@ -101441,7 +102261,9 @@
                 "city": "Brainerd",
                 "address": "417 Laurel St.",
                 "address2": null,
-                "zip": "56401"
+                "zip": "56401",
+                "lat": 46.3217,
+                "lng": -94.1168
             },
             "contact": {
                 "phone": "218-825-0861",
@@ -101471,7 +102293,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lund-law-p-a",
@@ -101489,7 +102312,9 @@
                 "city": "St. Cloud",
                 "address": "41 Riverside Drive NE",
                 "address2": null,
-                "zip": "56304"
+                "zip": "56304",
+                "lat": 45.5191,
+                "lng": -94.0482
             },
             "contact": {
                 "phone": "320-230-1222",
@@ -101518,7 +102343,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "migala-law-office",
@@ -101536,7 +102362,9 @@
                 "city": "St. Cloud",
                 "address": "14 7th Ave N",
                 "address2": null,
-                "zip": "56303"
+                "zip": "56303",
+                "lat": 45.5808,
+                "lng": -94.2152
             },
             "contact": {
                 "phone": "320-228-6156",
@@ -101581,7 +102409,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "consumer-justice-center-p-a",
@@ -101599,7 +102428,9 @@
                 "city": "Vadnais Heights",
                 "address": "367 Commerce Court",
                 "address2": null,
-                "zip": "55127"
+                "zip": "55127",
+                "lat": 45.0798,
+                "lng": -93.0883
             },
             "contact": {
                 "phone": "612-800-9778",
@@ -101632,7 +102463,8 @@
                 "Drug Crime",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rhonda-j-magnussen-llc",
@@ -101650,7 +102482,9 @@
                 "city": "Elk River",
                 "address": "318 Jackson Ave NW",
                 "address2": "Suite A",
-                "zip": "55330"
+                "zip": "55330",
+                "lat": 45.3257,
+                "lng": -93.6032
             },
             "contact": {
                 "phone": "763-251-1600",
@@ -101680,7 +102514,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mankey-law-office",
@@ -101698,7 +102533,9 @@
                 "city": "Minneapolis",
                 "address": "701 Xenia Ave S",
                 "address2": "Suite 565",
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "612-688-7398",
@@ -101730,7 +102567,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "markiewicz-law-now-partner-with-meagher-geer-pllp",
@@ -101748,7 +102586,9 @@
                 "city": "Minneapolis",
                 "address": "33 South 6th St",
                 "address2": "Suite 4300",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "651-964-6167",
@@ -101796,7 +102636,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sekula-law-offices-pllc",
@@ -101814,7 +102655,9 @@
                 "city": "Anoka",
                 "address": "320 East Main Street",
                 "address2": null,
-                "zip": "55303"
+                "zip": "55303",
+                "lat": 45.2816,
+                "lng": -93.4298
             },
             "contact": {
                 "phone": "763-401-6890",
@@ -101836,7 +102679,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brad-mathis-law-office",
@@ -101854,7 +102698,9 @@
                 "city": "Burnsville",
                 "address": "1713 Southcross Dr W",
                 "address2": "Unit 101",
-                "zip": "55306"
+                "zip": "55306",
+                "lat": 44.7318,
+                "lng": -93.288
             },
             "contact": {
                 "phone": "612-328-9826",
@@ -101888,7 +102734,8 @@
                 "DUI and DWI",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "price-mccluer-plachecki",
@@ -101906,7 +102753,9 @@
                 "city": "Winona",
                 "address": "59 W 3rd Street",
                 "address2": null,
-                "zip": "55987"
+                "zip": "55987",
+                "lat": 43.9881,
+                "lng": -91.6029
             },
             "contact": {
                 "phone": "507-366-9916",
@@ -101939,7 +102788,8 @@
                 "DUI and DWI",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olson-law-llc",
@@ -101957,7 +102807,9 @@
                 "city": "Buffalo",
                 "address": "201 5th St NE",
                 "address2": "Suite 1",
-                "zip": "55313"
+                "zip": "55313",
+                "lat": 45.19,
+                "lng": -93.8371
             },
             "contact": {
                 "phone": "763-298-4688",
@@ -101995,7 +102847,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meier-schack-llc",
@@ -102013,7 +102866,9 @@
                 "city": "Minneapolis",
                 "address": "8000 Flour Exchange Building",
                 "address2": "310 Fourth Avenue South",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-470-8885",
@@ -102038,7 +102893,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meinerts-law-office-p-a",
@@ -102056,7 +102912,9 @@
                 "city": "Burnsville",
                 "address": "350 West Burnsville Parkway",
                 "address2": "Suite 500",
-                "zip": "55337"
+                "zip": "55337",
+                "lat": 44.7795,
+                "lng": -93.2756
             },
             "contact": {
                 "phone": "952-208-8500",
@@ -102085,7 +102943,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "menk-menk",
@@ -102103,7 +102962,9 @@
                 "city": "Coon Rapids",
                 "address": "9148 E. River Rd NW",
                 "address2": null,
-                "zip": "55433"
+                "zip": "55433",
+                "lat": 45.1579,
+                "lng": -93.3194
             },
             "contact": {
                 "phone": "800-653-3190",
@@ -102122,6 +102983,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55417",
+                    "address": "5038 34th Avenue South",
+                    "phone": "800-653-3190",
+                    "lat": 44.9044,
+                    "lng": -93.2307
+                }
             ]
         },
         {
@@ -102140,7 +103012,9 @@
                 "city": "White Bear Lake",
                 "address": "4756 Banning Avenue",
                 "address2": "Suite 206",
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": "651-867-9180",
@@ -102162,7 +103036,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "msb-employment-justice",
@@ -102180,7 +103055,9 @@
                 "city": "Eden Prairie",
                 "address": "6400 Flying Cloud Dr",
                 "address2": "Suite 215",
-                "zip": "55344"
+                "zip": "55344",
+                "lat": 44.8641,
+                "lng": -93.4417
             },
             "contact": {
                 "phone": null,
@@ -102193,7 +103070,8 @@
             "attorneys": [
                 "Christopher J. Moreland"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "mortel-law-pllc",
@@ -102211,7 +103089,9 @@
                 "city": "Oakdale",
                 "address": "7845 3rd Street North",
                 "address2": "Suite 110",
-                "zip": "55128"
+                "zip": "55128",
+                "lat": 44.9923,
+                "lng": -92.9594
             },
             "contact": {
                 "phone": "651-515-1004",
@@ -102241,7 +103121,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murray-law-llc",
@@ -102259,7 +103140,9 @@
                 "city": "Minneapolis",
                 "address": "310 4th Avenue South",
                 "address2": "Suite 5010",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-339-5160",
@@ -102292,6 +103175,17 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Federal and White Collar Crimes"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10004",
+                    "address": "80 Broad Street, 19th Floor",
+                    "phone": "612-339-5160",
+                    "lat": 40.6954,
+                    "lng": -74.0265
+                }
             ]
         },
         {
@@ -102310,7 +103204,9 @@
                 "city": "Bemidji",
                 "address": "205 7th Street NW",
                 "address2": "Suite 3",
-                "zip": "56601"
+                "zip": "56601",
+                "lat": 47.5132,
+                "lng": -94.7456
             },
             "contact": {
                 "phone": "218-551-8645",
@@ -102345,7 +103241,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "newmark-law-office-llc",
@@ -102363,7 +103260,9 @@
                 "city": "Minnetonka",
                 "address": "1600 Hopkins Crossroad",
                 "address2": null,
-                "zip": "55305"
+                "zip": "55305",
+                "lat": 44.952,
+                "lng": -93.4361
             },
             "contact": {
                 "phone": "612-778-8832",
@@ -102385,7 +103284,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dewitt-llp",
@@ -102403,7 +103303,9 @@
                 "city": "Minneapolis",
                 "address": "901 Marquette Ave",
                 "address2": "Suite 2100",
-                "zip": "55402"
+                "zip": "55402",
+                "lat": 44.9759,
+                "lng": -93.2722
             },
             "contact": {
                 "phone": "612-305-1400",
@@ -102433,6 +103335,17 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Madison",
+                    "state": "WI",
+                    "zip": "53703",
+                    "address": "25 W Main Street, Suite 800",
+                    "phone": "(608) 255-8891",
+                    "lat": 43.0707,
+                    "lng": -89.3757
+                }
             ]
         },
         {
@@ -102451,7 +103364,9 @@
                 "city": "Excelsior",
                 "address": "350 Highway 7, Suite 210",
                 "address2": "Excelsior Office Center",
-                "zip": "55331"
+                "zip": "55331",
+                "lat": 44.8985,
+                "lng": -93.6256
             },
             "contact": {
                 "phone": "952-234-5311",
@@ -102477,6 +103392,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55407",
+                    "address": "1515 East Lake Street, Suite 200",
+                    "phone": "+19522345374",
+                    "lat": 44.9355,
+                    "lng": -93.2529
+                }
             ]
         },
         {
@@ -102495,7 +103421,9 @@
                 "city": "White Bear Lake",
                 "address": "4525 Allendale Drive",
                 "address2": null,
-                "zip": "55127"
+                "zip": "55127",
+                "lat": 45.0798,
+                "lng": -93.0883
             },
             "contact": {
                 "phone": "651-447-7057",
@@ -102543,7 +103471,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oleisky-oleisky-p-a",
@@ -102561,7 +103490,9 @@
                 "city": "Minnetonka",
                 "address": "10201 Wayzata Blvd.",
                 "address2": "Suite 260",
-                "zip": "55305"
+                "zip": "55305",
+                "lat": 44.952,
+                "lng": -93.4361
             },
             "contact": {
                 "phone": "612-332-3100",
@@ -102596,7 +103527,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "otten-law-offices",
@@ -102614,7 +103546,9 @@
                 "city": "Burnsville",
                 "address": "12400 Portland Avenue",
                 "address2": "Suite 175",
-                "zip": "55337"
+                "zip": "55337",
+                "lat": 44.7795,
+                "lng": -93.2756
             },
             "contact": {
                 "phone": "952-522-1076",
@@ -102657,7 +103591,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-dwi-guys",
@@ -102675,7 +103610,9 @@
                 "city": "Andover",
                 "address": "4024 151st Ave NW",
                 "address2": null,
-                "zip": "55304"
+                "zip": "55304",
+                "lat": 45.2549,
+                "lng": -93.2744
             },
             "contact": {
                 "phone": "612-249-6974",
@@ -102708,7 +103645,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "patterson-dahlberg-injury-lawyers",
@@ -102726,7 +103664,9 @@
                 "city": "Rochester",
                 "address": "3014 Allegro Park Ln SW",
                 "address2": null,
-                "zip": "55902"
+                "zip": "55902",
+                "lat": 43.9583,
+                "lng": -92.5203
             },
             "contact": {
                 "phone": "507-288-9122",
@@ -102777,7 +103717,8 @@
                 "Sex Crime",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "prescott-pearson-and-tande",
@@ -102795,7 +103736,9 @@
                 "city": "New Brighton",
                 "address": "443 Old Highway 8 Northwest",
                 "address2": "Suite 208",
-                "zip": "55112"
+                "zip": "55112",
+                "lat": 45.0792,
+                "lng": -93.1875
             },
             "contact": {
                 "phone": "651-633-2757",
@@ -102823,7 +103766,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "perron-law-office-llc",
@@ -102841,7 +103785,9 @@
                 "city": "White Bear Lake",
                 "address": "2150 Third St",
                 "address2": "Suite 11",
-                "zip": "55110"
+                "zip": "55110",
+                "lat": 45.0939,
+                "lng": -93.0001
             },
             "contact": {
                 "phone": null,
@@ -102854,7 +103800,8 @@
             "attorneys": [
                 "Mark William Perron"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "perry-perry-pllp",
@@ -102872,7 +103819,9 @@
                 "city": "Wayzata",
                 "address": "950 Wayzata Blvd. E.",
                 "address2": "Suite 103",
-                "zip": "55391"
+                "zip": "55391",
+                "lat": 44.9653,
+                "lng": -93.5432
             },
             "contact": {
                 "phone": "952-592-0087",
@@ -102903,7 +103852,8 @@
                 "Business and Commercial Law",
                 "Contracts",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peterson-law-office-llc",
@@ -102921,7 +103871,9 @@
                 "city": "Bloomington",
                 "address": "3601 Minnesota Dr",
                 "address2": "Suite 835",
-                "zip": "55435"
+                "zip": "55435",
+                "lat": 44.8744,
+                "lng": -93.3347
             },
             "contact": {
                 "phone": "952-592-4688",
@@ -102949,7 +103901,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jennifer-l-pradt",
@@ -102967,7 +103920,9 @@
                 "city": "St Paul",
                 "address": "1295 Bandana Blvd N",
                 "address2": "Ste 335",
-                "zip": "55108"
+                "zip": "55108",
+                "lat": 44.9797,
+                "lng": -93.1771
             },
             "contact": {
                 "phone": "651-235-6280",
@@ -102989,7 +103944,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-robert-w-reutiman-jr",
@@ -103007,7 +103963,9 @@
                 "city": "Wayzata",
                 "address": "305 East Rice Street",
                 "address2": "P.O. Box 367",
-                "zip": "55391"
+                "zip": "55391",
+                "lat": 44.9653,
+                "lng": -93.5432
             },
             "contact": {
                 "phone": "952-473-7328",
@@ -103039,7 +103997,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "natalie-anne-roberts",
@@ -103057,7 +104016,9 @@
                 "city": "Edina",
                 "address": "6712 West Trail",
                 "address2": null,
-                "zip": "55439"
+                "zip": "55439",
+                "lat": 44.8748,
+                "lng": -93.3748
             },
             "contact": {
                 "phone": "612-810-0339",
@@ -103070,7 +104031,8 @@
             "attorneys": [
                 "Natalie Anne Roberts"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "rolsch-law-offices",
@@ -103088,7 +104050,9 @@
                 "city": "Rochester",
                 "address": "423 Third Avenue SE",
                 "address2": "1st Floor",
-                "zip": "55904"
+                "zip": "55904",
+                "lat": 43.9532,
+                "lng": -92.4005
             },
             "contact": {
                 "phone": "507-280-1943",
@@ -103114,7 +104078,8 @@
                 "Divorce and Separation",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rosengren-law-office-llc",
@@ -103132,7 +104097,9 @@
                 "city": "North Mankato",
                 "address": "401 Sherman Street",
                 "address2": null,
-                "zip": "56003"
+                "zip": "56003",
+                "lat": 44.212,
+                "lng": -94.067
             },
             "contact": {
                 "phone": "507-387-7000",
@@ -103154,7 +104121,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vanderheyden-law-office-p-a",
@@ -103172,7 +104140,9 @@
                 "city": "Rochester",
                 "address": "302 Elton Hills Dr.",
                 "address2": "Suite 300",
-                "zip": "55901"
+                "zip": "55901",
+                "lat": 44.0751,
+                "lng": -92.5124
             },
             "contact": {
                 "phone": "855-470-3582",
@@ -103206,7 +104176,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sauber-legal-services-llc",
@@ -103224,7 +104195,9 @@
                 "city": "Eden Prairie",
                 "address": "7525 Mitchell Rd",
                 "address2": "Suite 301",
-                "zip": "55344"
+                "zip": "55344",
+                "lat": 44.8641,
+                "lng": -93.4417
             },
             "contact": {
                 "phone": "612-431-9465",
@@ -103252,7 +104225,8 @@
             ],
             "official_practice_area": [
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "midwest-military-veterans-law-pllc",
@@ -103270,7 +104244,9 @@
                 "city": "Minneapolis",
                 "address": "400 S. 4th St.",
                 "address2": "Suite 401-510",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "771-999-3604",
@@ -103293,7 +104269,8 @@
             ],
             "official_practice_area": [
                 "Military"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-schultz-law-firm",
@@ -103311,7 +104288,9 @@
                 "city": "Minneapolis",
                 "address": "330 S. 2nd Ave. S.",
                 "address2": "Suite 100",
-                "zip": "55401"
+                "zip": "55401",
+                "lat": 44.9848,
+                "lng": -93.2697
             },
             "contact": {
                 "phone": "612-614-2248",
@@ -103338,7 +104317,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schwartz-law-firm",
@@ -103356,7 +104336,9 @@
                 "city": "Oakdale",
                 "address": "988 Inwood Avenue North",
                 "address2": null,
-                "zip": "55128"
+                "zip": "55128",
+                "lat": 44.9923,
+                "lng": -92.9594
             },
             "contact": {
                 "phone": "651-528-6800",
@@ -103392,7 +104374,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "seanor-law-office-pllc",
@@ -103410,7 +104393,9 @@
                 "city": "Marshall",
                 "address": "1411 E College Dr",
                 "address2": "Suite 1",
-                "zip": "56258"
+                "zip": "56258",
+                "lat": 44.4712,
+                "lng": -95.746
             },
             "contact": {
                 "phone": "507-315-4672",
@@ -103432,7 +104417,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mottaz-sisk-injury-law",
@@ -103450,7 +104436,9 @@
                 "city": "Coon Rapids",
                 "address": "3340 Northdale Blvd.",
                 "address2": "NW #140",
-                "zip": "55448"
+                "zip": "55448",
+                "lat": 45.1704,
+                "lng": -93.3186
             },
             "contact": {
                 "phone": "763-447-3678",
@@ -103476,7 +104464,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "speas-law-firm-p-a",
@@ -103494,7 +104483,9 @@
                 "city": "Minneapolis",
                 "address": "310 4th Ave S",
                 "address2": "Suite 1050",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-425-0405",
@@ -103522,7 +104513,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stephens-law-p-a",
@@ -103540,7 +104532,9 @@
                 "city": "Duluth",
                 "address": "11 East Superior Street",
                 "address2": "Suite 562",
-                "zip": "55802"
+                "zip": "55802",
+                "lat": 46.7529,
+                "lng": -92.0692
             },
             "contact": {
                 "phone": "218-514-4043",
@@ -103568,6 +104562,17 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. Cloud",
+                    "state": "MN",
+                    "zip": "56303",
+                    "address": "14 7th Avenue N",
+                    "phone": "218-514-4043",
+                    "lat": 45.5808,
+                    "lng": -94.2152
+                }
             ]
         },
         {
@@ -103586,7 +104591,9 @@
                 "city": "Brainerd",
                 "address": "315 Hawkins Drive",
                 "address2": null,
-                "zip": "56401"
+                "zip": "56401",
+                "lat": 46.3217,
+                "lng": -94.1168
             },
             "contact": {
                 "phone": "218-330-4506",
@@ -103605,7 +104612,8 @@
             "attorneys": [
                 "Jerry B. Steinke"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "thole-law-firm",
@@ -103623,7 +104631,9 @@
                 "city": "Stillwater",
                 "address": "275 South 3rd Street",
                 "address2": "Suite 203",
-                "zip": "55082"
+                "zip": "55082",
+                "lat": 45.0663,
+                "lng": -92.8424
             },
             "contact": {
                 "phone": "651-368-7532",
@@ -103651,7 +104661,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mkt-law",
@@ -103669,7 +104680,9 @@
                 "city": "Minneapolis",
                 "address": "4927 South 34th Avenue",
                 "address2": null,
-                "zip": "55417"
+                "zip": "55417",
+                "lat": 44.9044,
+                "lng": -93.2307
             },
             "contact": {
                 "phone": "612-886-9591",
@@ -103697,7 +104710,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "titus-law-office-pllc",
@@ -103715,7 +104729,9 @@
                 "city": "Worthington",
                 "address": "1008 Fourth Avenue",
                 "address2": null,
-                "zip": "56187"
+                "zip": "56187",
+                "lat": 43.6526,
+                "lng": -95.5939
             },
             "contact": {
                 "phone": "507-366-9941",
@@ -103743,6 +104759,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Jackson",
+                    "state": "MN",
+                    "zip": "56143",
+                    "address": "311 Second Street",
+                    "phone": "+15073669941",
+                    "lat": 43.6745,
+                    "lng": -94.981
+                }
             ]
         },
         {
@@ -103761,7 +104788,9 @@
                 "city": "Princeton",
                 "address": "413 S. Rum River Drive",
                 "address2": "Suite 6",
-                "zip": "55371"
+                "zip": "55371",
+                "lat": 45.5802,
+                "lng": -93.6155
             },
             "contact": {
                 "phone": "952-545-9000",
@@ -103788,6 +104817,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55416",
+                    "address": "5881 Cedar Lake Road South",
+                    "phone": "(952) 545-9000",
+                    "lat": 44.9489,
+                    "lng": -93.3352
+                }
             ]
         },
         {
@@ -103806,7 +104846,9 @@
                 "city": "Winona",
                 "address": "111 Riverfront St.",
                 "address2": "Suite 105",
-                "zip": "55987"
+                "zip": "55987",
+                "lat": 43.9881,
+                "lng": -91.6029
             },
             "contact": {
                 "phone": "507-366-1984",
@@ -103833,7 +104875,8 @@
                 "DUI and DWI",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kimberly-t-walker-law-office-p-a",
@@ -103851,7 +104894,9 @@
                 "city": "St. Louis Park",
                 "address": "4500 Park Glen Road",
                 "address2": "Suite 220",
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "952-236-4721",
@@ -103871,7 +104916,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "yaeger-weiner-law",
@@ -103889,7 +104935,9 @@
                 "city": "Roseville",
                 "address": "2355 Highway 36 West",
                 "address2": "Suite 400",
-                "zip": "55113"
+                "zip": "55113",
+                "lat": 45.0121,
+                "lng": -93.1559
             },
             "contact": {
                 "phone": "612-887-1173",
@@ -103919,7 +104967,8 @@
                 "Mergers and Acquisitions",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wermerskirchen-law-office-p-a",
@@ -103937,7 +104986,9 @@
                 "city": "Willmar",
                 "address": "106 Minnesota Ave. S.W.",
                 "address2": null,
-                "zip": "56201"
+                "zip": "56201",
+                "lat": 45.1134,
+                "lng": -95.0217
             },
             "contact": {
                 "phone": "320-403-2386",
@@ -103973,7 +105024,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spencer-t-white-pllc",
@@ -103991,7 +105043,9 @@
                 "city": "Eagan",
                 "address": "3352 Sherman Court",
                 "address2": "Suite 103",
-                "zip": "55121"
+                "zip": "55121",
+                "lat": 44.8422,
+                "lng": -93.168
             },
             "contact": {
                 "phone": "651-454-8783",
@@ -104011,7 +105065,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kenneth-r-white-p-c",
@@ -104029,7 +105084,9 @@
                 "city": "Mankato",
                 "address": "212 Madison Avenue",
                 "address2": "Suite 200",
-                "zip": "56001"
+                "zip": "56001",
+                "lat": 44.1307,
+                "lng": -93.9938
             },
             "contact": {
                 "phone": "507-345-8811",
@@ -104060,7 +105117,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-ann-m-wilczynski-pllc",
@@ -104078,7 +105136,9 @@
                 "city": "St. Louis Park",
                 "address": "5775 Wayzata Boulevard",
                 "address2": "Suite 700",
-                "zip": "55416"
+                "zip": "55416",
+                "lat": 44.9489,
+                "lng": -93.3352
             },
             "contact": {
                 "phone": "952-525-2276",
@@ -104100,7 +105160,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williams-divorce-family-law",
@@ -104118,7 +105179,9 @@
                 "city": "Woodbury",
                 "address": "724 Bielenberg Drive, Suite 106",
                 "address2": null,
-                "zip": "55125"
+                "zip": "55125",
+                "lat": 44.9196,
+                "lng": -92.9439
             },
             "contact": {
                 "phone": "651-332-7650",
@@ -104159,7 +105222,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williamson-family-law-pllc",
@@ -104177,7 +105241,9 @@
                 "city": "Chaska",
                 "address": "1107 Hazeltine Blvd.",
                 "address2": "Ste. 493",
-                "zip": "55318"
+                "zip": "55318",
+                "lat": 44.8099,
+                "lng": -93.6249
             },
             "contact": {
                 "phone": "952-206-5036",
@@ -104200,7 +105266,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zajac-law-firm",
@@ -104218,7 +105285,9 @@
                 "city": "Minneapolis",
                 "address": "400 South Fourth Street",
                 "address2": "Suite 1025",
-                "zip": "55415"
+                "zip": "55415",
+                "lat": 44.9746,
+                "lng": -93.2567
             },
             "contact": {
                 "phone": "612-789-2300",
@@ -104240,7 +105309,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

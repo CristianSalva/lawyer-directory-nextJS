@@ -7099,7 +7099,9 @@
                 "city": "Hato Rey",
                 "address": "270 Munoz Rivera Avenue",
                 "address2": null,
-                "zip": "00918"
+                "zip": "00918",
+                "lat": 18.4237,
+                "lng": -66.0674
             },
             "contact": {
                 "phone": "787-759-9292",
@@ -7129,7 +7131,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilberto-oliver",
@@ -7147,7 +7150,9 @@
                 "city": "Carolina",
                 "address": "Avenida Campo Rico",
                 "address2": "Country Club Shopping Plaza, Local 18",
-                "zip": "00982"
+                "zip": "00982",
+                "lat": 18.4099,
+                "lng": -65.9976
             },
             "contact": {
                 "phone": "787-418-0406",
@@ -7168,7 +7173,8 @@
             "attorneys": [
                 "Gilberto Oliver Davila"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "marichal-hernandez-santiago-juarbe-llc",
@@ -7186,7 +7192,9 @@
                 "city": "Guaynabo",
                 "address": "Triple South Plaza Building",
                 "address2": "1510 FD Roosevelt Avenue, Suite 9B1",
-                "zip": "00968"
+                "zip": "00968",
+                "lat": 18.414,
+                "lng": -66.1084
             },
             "contact": {
                 "phone": "787-753-1565",
@@ -7216,7 +7224,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

@@ -19276,7 +19276,9 @@
                 "city": "Washington",
                 "address": "4301 Connecticut Avenue NW",
                 "address2": "Suite 434",
-                "zip": "20008"
+                "zip": "20008",
+                "lat": 38.9358,
+                "lng": -77.0592
             },
             "contact": {
                 "phone": "202-659-6500",
@@ -19301,7 +19303,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-donald-a-barnes",
@@ -19319,7 +19322,9 @@
                 "city": "Washington",
                 "address": "818 Connecticut Avenue, N.W.",
                 "address2": "Suite 900",
-                "zip": "20006"
+                "zip": "20006",
+                "lat": 38.8951,
+                "lng": -77.0398
             },
             "contact": {
                 "phone": "202-360-0275",
@@ -19339,7 +19344,8 @@
                 "Business Organizations",
                 "Business and Commercial Law",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-firm-of-olsson-frank-weeda-terman-matz-pc",
@@ -19357,7 +19363,9 @@
                 "city": "Washington",
                 "address": "OFW Law",
                 "address2": "600 New Hampshire Avenue, N.W., Suite 500",
-                "zip": "20037"
+                "zip": "20037",
+                "lat": 38.8987,
+                "lng": -77.054
             },
             "contact": {
                 "phone": "202-789-1212",
@@ -19387,7 +19395,8 @@
             ],
             "official_practice_area": [
                 "Agriculture"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bernabei-kabat-pllc",
@@ -19405,7 +19414,9 @@
                 "city": "Washington",
                 "address": "1400 16th Street, NW",
                 "address2": "Suite 500",
-                "zip": "20036"
+                "zip": "20036",
+                "lat": 38.9069,
+                "lng": -77.0414
             },
             "contact": {
                 "phone": "202-644-9935",
@@ -19433,7 +19444,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Whistleblower and Qui Tam"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sanford-heisler-sharp-mcknight-llp",
@@ -19451,7 +19463,9 @@
                 "city": "Washington",
                 "address": "700 Pennsylvania Avenue SE",
                 "address2": "Suite 300",
-                "zip": "20003"
+                "zip": "20003",
+                "lat": 38.8778,
+                "lng": -76.9865
             },
             "contact": {
                 "phone": "202-221-3152",
@@ -19529,7 +19543,8 @@
                 "Wage and Hour",
                 "Whistleblower and Qui Tam",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burakiewicz-depriest-pllc",
@@ -19547,7 +19562,9 @@
                 "city": "Washington",
                 "address": "5017 V Street NW",
                 "address2": null,
-                "zip": "20007"
+                "zip": "20007",
+                "lat": 38.9141,
+                "lng": -77.0774
             },
             "contact": {
                 "phone": "202-217-2599",
@@ -19562,7 +19579,8 @@
             "attorneys": [
                 "Heidi Rhodes Burakiewicz"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "clark-law-group-pllc",
@@ -19580,7 +19598,9 @@
                 "city": "Washington",
                 "address": "1100 Connecticut Ave. NW",
                 "address2": "Suite 920",
-                "zip": "20036"
+                "zip": "20036",
+                "lat": 38.9069,
+                "lng": -77.0414
             },
             "contact": {
                 "phone": "202-293-0015",
@@ -19603,7 +19623,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "federal-employee-legal-services-center",
@@ -19621,7 +19642,9 @@
                 "city": "Washington",
                 "address": "1629 K Street, N.W.",
                 "address2": "Suite 300",
-                "zip": "20006"
+                "zip": "20006",
+                "lat": 38.8951,
+                "lng": -77.0398
             },
             "contact": {
                 "phone": "771-251-7610",
@@ -19646,7 +19669,8 @@
             "official_practice_area": [
                 "Discrimination",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-dorothy-simpson-dickerson",
@@ -19664,7 +19688,9 @@
                 "city": "Washington",
                 "address": "5335 Wisconsin Avenue",
                 "address2": "Suite 440",
-                "zip": "20015"
+                "zip": "20015",
+                "lat": 38.9683,
+                "lng": -77.065
             },
             "contact": {
                 "phone": "202-628-2727",
@@ -19682,7 +19708,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pressler-senftle-wilhite-p-c",
@@ -19700,7 +19727,9 @@
                 "city": "Washington",
                 "address": "1432 K Street North West",
                 "address2": "12th Floor",
-                "zip": "20005"
+                "zip": "20005",
+                "lat": 38.9042,
+                "lng": -77.0318
             },
             "contact": {
                 "phone": "240-330-4259",
@@ -19724,7 +19753,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-gold-group-llc",
@@ -19742,7 +19772,9 @@
                 "city": "Washington",
                 "address": "1319 F. St. NW",
                 "address2": "Suite 1000",
-                "zip": "20004"
+                "zip": "20004",
+                "lat": 38.8924,
+                "lng": -77.0206
             },
             "contact": {
                 "phone": "202-744-8135",
@@ -19761,7 +19793,8 @@
             "official_practice_area": [
                 "Antitrust",
                 "Banking and Finance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-alfred-guillaume-iii-llc",
@@ -19779,7 +19812,9 @@
                 "city": "Washington",
                 "address": "1350 Connecticut Avenue NW",
                 "address2": "Ste 308",
-                "zip": "20036"
+                "zip": "20036",
+                "lat": 38.9069,
+                "lng": -77.0414
             },
             "contact": {
                 "phone": "202-695-1071",
@@ -19827,7 +19862,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "district-legal-group-pllc",
@@ -19845,7 +19881,9 @@
                 "city": "Washington",
                 "address": "700 Pennsylvania Ave SE",
                 "address2": "Suite 2098",
-                "zip": "20003"
+                "zip": "20003",
+                "lat": 38.8778,
+                "lng": -76.9865
             },
             "contact": {
                 "phone": null,
@@ -19858,7 +19896,8 @@
             "attorneys": [
                 "Dionna Maria Lewis"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "vanessa-carpenter-lourie-p-c",
@@ -19876,7 +19915,9 @@
                 "city": "Washington",
                 "address": "4400 MacArthur Blvd.",
                 "address2": "Suite 205",
-                "zip": "20007"
+                "zip": "20007",
+                "lat": 38.9141,
+                "lng": -77.0774
             },
             "contact": {
                 "phone": "202-798-8145",
@@ -19902,7 +19943,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "solomon-malech-cohen-p-c",
@@ -19920,7 +19962,9 @@
                 "city": "Washington",
                 "address": "1025 Connecticut Ave",
                 "address2": "Suite 1000",
-                "zip": "20036"
+                "zip": "20036",
+                "lat": 38.9069,
+                "lng": -77.0414
             },
             "contact": {
                 "phone": "301-913-0038",
@@ -19977,7 +20021,8 @@
                 "Real Estate",
                 "Sexual Harassment",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jeffrey-n-markowicz",
@@ -19995,7 +20040,9 @@
                 "city": "Washington",
                 "address": "700 12th Street, N.W.",
                 "address2": "Suite #700",
-                "zip": "20005"
+                "zip": "20005",
+                "lat": 38.9042,
+                "lng": -77.0318
             },
             "contact": {
                 "phone": "202-262-0646",
@@ -20014,7 +20061,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-john-e-mccullough-plc",
@@ -20032,7 +20080,9 @@
                 "city": "Washington",
                 "address": "1413 K Street NW",
                 "address2": "15th Floor",
-                "zip": "20005"
+                "zip": "20005",
+                "lat": 38.9042,
+                "lng": -77.0318
             },
             "contact": {
                 "phone": "202-265-8777",
@@ -20055,7 +20105,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scottvassell-leecc-law-firm",
@@ -20073,7 +20124,9 @@
                 "city": "Washington",
                 "address": "1629 K Street",
                 "address2": "Suite 300",
-                "zip": "20006"
+                "zip": "20006",
+                "lat": 38.8951,
+                "lng": -77.0398
             },
             "contact": {
                 "phone": "202-973-0156",
@@ -20102,7 +20155,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garris-horn-llp",
@@ -20120,7 +20174,9 @@
                 "city": "Washington",
                 "address": "1775 Eye St.",
                 "address2": "Suite 1150",
-                "zip": "20006"
+                "zip": "20006",
+                "lat": 38.8951,
+                "lng": -77.0398
             },
             "contact": {
                 "phone": "202-587-5670",
@@ -20150,7 +20206,8 @@
                 "Franchising",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ellyn-tanenberg-attorney-cpa",
@@ -20168,7 +20225,9 @@
                 "city": "Washington",
                 "address": "1717 Pennsylvania Avenue NW",
                 "address2": "Suite 1025",
-                "zip": "20006"
+                "zip": "20006",
+                "lat": 38.8951,
+                "lng": -77.0398
             },
             "contact": {
                 "phone": "202-387-7747",
@@ -20188,7 +20247,8 @@
             ],
             "official_practice_area": [
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rism-llc",
@@ -20206,7 +20266,9 @@
                 "city": "Washington",
                 "address": "1218 11th Street Northwest Suite 100",
                 "address2": null,
-                "zip": "20001"
+                "zip": "20001",
+                "lat": 38.9107,
+                "lng": -77.0167
             },
             "contact": {
                 "phone": "202-792-5850",
@@ -20228,7 +20290,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "solomon-l-wisenberg",
@@ -20246,7 +20309,9 @@
                 "city": "Washington",
                 "address": "1050 Connecticut Ave NW",
                 "address2": "Suite 500",
-                "zip": "20036"
+                "zip": "20036",
+                "lat": 38.9069,
+                "lng": -77.0414
             },
             "contact": {
                 "phone": "866-620-1146",
@@ -20273,7 +20338,8 @@
             "official_practice_area": [
                 "Federal and White Collar Crimes",
                 "Securities"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

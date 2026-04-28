@@ -50852,7 +50852,9 @@
                 "city": "Tucson",
                 "address": "70 West Franklin Street",
                 "address2": null,
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-756-9947",
@@ -50874,7 +50876,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "faith-law-plc",
@@ -50892,7 +50895,9 @@
                 "city": "Goodyear",
                 "address": "1360 N. Bullard Ave.",
                 "address2": "Ste. 201",
-                "zip": "85395"
+                "zip": "85395",
+                "lat": 33.4831,
+                "lng": -112.4012
             },
             "contact": {
                 "phone": "480-877-0187",
@@ -50932,6 +50937,17 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Surprise",
+                    "state": "AZ",
+                    "zip": "85374",
+                    "address": "15331 W. Bell Rd., #212, Ste. 10",
+                    "phone": "+14806302020",
+                    "lat": 33.6513,
+                    "lng": -112.3764
+                }
             ]
         },
         {
@@ -50950,7 +50966,9 @@
                 "city": "Oro Valley",
                 "address": "1846 East Innovation Park Drive",
                 "address2": null,
-                "zip": "85755"
+                "zip": "85755",
+                "lat": 32.4677,
+                "lng": -110.9849
             },
             "contact": {
                 "phone": "520-293-5300",
@@ -50972,7 +50990,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldberg-osborne",
@@ -50990,7 +51009,9 @@
                 "city": "Tucson",
                 "address": "7865 E Broadway Blvd",
                 "address2": "Ste 125",
-                "zip": "85710"
+                "zip": "85710",
+                "lat": 32.2138,
+                "lng": -110.8238
             },
             "contact": {
                 "phone": "-800-THE-EAGLE",
@@ -51014,6 +51035,17 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85705",
+                    "address": "698 E Wetmore Rd, Ste. 200",
+                    "phone": "800-THE-EAGLE",
+                    "lat": 32.2694,
+                    "lng": -111.004
+                }
             ]
         },
         {
@@ -51032,7 +51064,9 @@
                 "city": "Scottsdale",
                 "address": "16211 N. Scottsdale Road",
                 "address2": "Suite A6A-485",
-                "zip": "85254"
+                "zip": "85254",
+                "lat": 33.6192,
+                "lng": -111.9517
             },
             "contact": {
                 "phone": "480-626-0182",
@@ -51052,7 +51086,8 @@
             "official_practice_area": [
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bar-urness-plc",
@@ -51070,7 +51105,9 @@
                 "city": "Scottsdale",
                 "address": "14901 N. Scottsdale Road",
                 "address2": "Suite 302",
-                "zip": "85254"
+                "zip": "85254",
+                "lat": 33.6192,
+                "lng": -111.9517
             },
             "contact": {
                 "phone": "480-718-5803",
@@ -51090,7 +51127,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "deconcini-mcdonald-yetwin-lacy-p-c",
@@ -51108,7 +51146,9 @@
                 "city": "Phoenix",
                 "address": "7310 North 16th Street, Suite 205",
                 "address2": null,
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "602-282-0500",
@@ -51158,6 +51198,17 @@
                 "Natural Resources",
                 "Real Estate",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85716",
+                    "address": "2525 East Broadway Blvd, Suite 200",
+                    "phone": "(520) 322-5000",
+                    "lat": 32.2449,
+                    "lng": -110.9234
+                }
             ]
         },
         {
@@ -51176,7 +51227,9 @@
                 "city": "Scottsdale",
                 "address": "16427 North Scottsdale Road",
                 "address2": "Suite 410",
-                "zip": "85254"
+                "zip": "85254",
+                "lat": 33.6192,
+                "lng": -111.9517
             },
             "contact": {
                 "phone": "480-359-4119",
@@ -51195,7 +51248,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "glickstein-law-pllc",
@@ -51213,7 +51267,9 @@
                 "city": "Scottsdale",
                 "address": "7335 East Acoma Drive Suite 200",
                 "address2": null,
-                "zip": "85260"
+                "zip": "85260",
+                "lat": 33.611,
+                "lng": -111.8901
             },
             "contact": {
                 "phone": "602-916-1853",
@@ -51244,7 +51300,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-bednarz-p-c",
@@ -51262,7 +51319,9 @@
                 "city": "Gilbert",
                 "address": "28 West Juniper Avenue",
                 "address2": "Suite 201",
-                "zip": "85233"
+                "zip": "85233",
+                "lat": 33.3463,
+                "lng": -111.8154
             },
             "contact": {
                 "phone": "480-559-8199",
@@ -51293,7 +51352,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bishop-del-vecchio-beeks-law-office",
@@ -51311,7 +51371,9 @@
                 "city": "Phoenix",
                 "address": "7210 N. 16th St.",
                 "address2": null,
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "602-838-6543",
@@ -51347,6 +51409,17 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tempe",
+                    "state": "AZ",
+                    "zip": "85284",
+                    "address": "8747 S. Priest Dr., #102",
+                    "phone": "602-838-6543",
+                    "lat": 33.3347,
+                    "lng": -111.9325
+                }
             ]
         },
         {
@@ -51365,7 +51438,9 @@
                 "city": "Phoenix",
                 "address": "2999 N 44th St",
                 "address2": "Suite 215",
-                "zip": "85018"
+                "zip": "85018",
+                "lat": 33.5024,
+                "lng": -111.9782
             },
             "contact": {
                 "phone": "602-483-6352",
@@ -51393,6 +51468,17 @@
             ],
             "official_practice_area": [
                 "Construction"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87109",
+                    "address": "4801 Lang Avenue NE, Suite 110",
+                    "phone": "602-385-6776",
+                    "lat": 35.1512,
+                    "lng": -106.57
+                }
             ]
         },
         {
@@ -51411,7 +51497,9 @@
                 "city": "Tucson",
                 "address": "216 N. Main Avenue",
                 "address2": null,
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-622-1222",
@@ -51437,7 +51525,8 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arizona-law-group",
@@ -51455,7 +51544,9 @@
                 "city": "Phoenix",
                 "address": "202 E Earll Dr",
                 "address2": "Suite 160",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-562-2222",
@@ -51520,6 +51611,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85012",
+                    "address": "202 E. Earll Dr. Ste 160",
+                    "phone": "602-562-2222",
+                    "lat": 33.5093,
+                    "lng": -112.0694
+                }
             ]
         },
         {
@@ -51538,7 +51640,9 @@
                 "city": "Tucson",
                 "address": "7400 N. Oracle Road",
                 "address2": "Suite 143",
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-314-8954",
@@ -51564,7 +51668,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "beresky-fish-p-c",
@@ -51582,7 +51687,9 @@
                 "city": "Phoenix",
                 "address": "1421 E. Thomas Road",
                 "address2": null,
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-200-8183",
@@ -51603,7 +51710,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "warner-angle-hallam-jackson-formanek-plc",
@@ -51621,7 +51729,9 @@
                 "city": "Phoenix",
                 "address": "2555 East Camelback Road",
                 "address2": "Suite 800",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-264-7101",
@@ -51651,7 +51761,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-david-a-black-pllc",
@@ -51669,7 +51780,9 @@
                 "city": "Phoenix",
                 "address": "40 North Central Avenue",
                 "address2": "Suite 1850",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "480-243-9884",
@@ -51704,7 +51817,8 @@
                 "Federal and White Collar Crimes",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sherick-bleier-pllc",
@@ -51722,7 +51836,9 @@
                 "city": "Tucson",
                 "address": "2 East Congress",
                 "address2": "Suite 1000",
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-318-3939",
@@ -51744,7 +51860,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bogutz-gordon-pc",
@@ -51762,7 +51879,9 @@
                 "city": "Tucson",
                 "address": "3503 North Campbell Avenue",
                 "address2": "Suite 101",
-                "zip": "85719"
+                "zip": "85719",
+                "lat": 32.248,
+                "lng": -110.9474
             },
             "contact": {
                 "phone": "520-321-9700",
@@ -51790,7 +51909,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dm-cantor",
@@ -51808,7 +51928,9 @@
                 "city": "Phoenix",
                 "address": "40 N. Central Ave.",
                 "address2": "Ste. 2300",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-857-9440",
@@ -51838,7 +51960,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "branham-law-pllc",
@@ -51856,7 +51979,9 @@
                 "city": "Mesa",
                 "address": "101 W. Main St.",
                 "address2": null,
-                "zip": "85201"
+                "zip": "85201",
+                "lat": 33.4432,
+                "lng": -111.8553
             },
             "contact": {
                 "phone": "480-782-9700",
@@ -51877,6 +52002,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85006",
+                    "address": "2601 North 16 Street",
+                    "phone": "480-782-9700",
+                    "lat": 33.4658,
+                    "lng": -112.0477
+                }
             ]
         },
         {
@@ -51895,7 +52031,9 @@
                 "city": "Phoenix",
                 "address": "3840 E. Ray Road",
                 "address2": null,
-                "zip": "85044"
+                "zip": "85044",
+                "lat": 33.3417,
+                "lng": -111.9924
             },
             "contact": {
                 "phone": "480-588-8508",
@@ -51922,6 +52060,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85004",
+                    "address": "389 E. Palm Ln., Suite 11",
+                    "phone": "(928) 597-5645",
+                    "lat": 33.4506,
+                    "lng": -112.0694
+                }
             ]
         },
         {
@@ -51940,7 +52089,9 @@
                 "city": "Phoenix",
                 "address": "2800 North Central Avenue",
                 "address2": "Suite 1800",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-234-7800",
@@ -51973,7 +52124,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brentwood-law-group-pllc",
@@ -51991,7 +52143,9 @@
                 "city": "Tempe",
                 "address": "1222 E. Baseline Rd.",
                 "address2": "Suite 200",
-                "zip": "85283"
+                "zip": "85283",
+                "lat": 33.3639,
+                "lng": -111.9355
             },
             "contact": {
                 "phone": "480-939-3783",
@@ -52026,7 +52180,8 @@
                 "Litigation and Appeals",
                 "Mergers and Acquisitions",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "millar-law-p-l-l-c",
@@ -52044,7 +52199,9 @@
                 "city": "Gilbert",
                 "address": "633 East Ray Road",
                 "address2": "Suite 129",
-                "zip": "85296"
+                "zip": "85296",
+                "lat": 33.3356,
+                "lng": -111.7559
             },
             "contact": {
                 "phone": "602-926-7102",
@@ -52070,6 +52227,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chandler",
+                    "state": "AZ",
+                    "zip": "85226",
+                    "address": "3133 West Frye Road, Suite 101",
+                    "phone": "+16029267102",
+                    "lat": 33.2663,
+                    "lng": -111.943
+                }
             ]
         },
         {
@@ -52088,7 +52256,9 @@
                 "city": "Mesa",
                 "address": "1930 S Alma School Road",
                 "address2": "Suite A200",
-                "zip": "85210"
+                "zip": "85210",
+                "lat": 33.3861,
+                "lng": -111.8413
             },
             "contact": {
                 "phone": "602-704-0183",
@@ -52120,7 +52290,8 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "casey-on-your-side-schmitt-schneck-even-williams",
@@ -52138,7 +52309,9 @@
                 "city": "Phoenix",
                 "address": "1221 East Osborn Road",
                 "address2": "Suite 105",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-857-9275",
@@ -52186,7 +52359,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burguan-strickman-law-pllc",
@@ -52204,7 +52378,9 @@
                 "city": "Phoenix",
                 "address": "2910 North 7th Avenue",
                 "address2": null,
-                "zip": "85308"
+                "zip": "85308",
+                "lat": 33.6681,
+                "lng": -112.1862
             },
             "contact": {
                 "phone": "602-684-0829",
@@ -52227,7 +52403,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dana-law-group-llc",
@@ -52245,7 +52422,9 @@
                 "city": "Mesa",
                 "address": "7254 E. Southern Ave.",
                 "address2": "Suite 121",
-                "zip": "85209"
+                "zip": "85209",
+                "lat": 33.3761,
+                "lng": -111.6343
             },
             "contact": {
                 "phone": "480-382-8585",
@@ -52276,6 +52455,17 @@
                 "Estate Planning",
                 "Land Use and Zoning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gilbert",
+                    "state": "AZ",
+                    "zip": "85296",
+                    "address": "1425 S. Higley Rd., #101",
+                    "phone": "+14806843433",
+                    "lat": 33.3356,
+                    "lng": -111.7559
+                }
             ]
         },
         {
@@ -52294,7 +52484,9 @@
                 "city": "Phoenix",
                 "address": "4203 E Indian School Rd",
                 "address2": "Suite 300",
-                "zip": "85018"
+                "zip": "85018",
+                "lat": 33.5024,
+                "lng": -111.9782
             },
             "contact": {
                 "phone": "480-300-5405",
@@ -52336,6 +52528,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87110",
+                    "address": "6100 Indian School Rd NE, #201",
+                    "phone": "505-447-2777",
+                    "lat": 35.1091,
+                    "lng": -106.5775
+                }
             ]
         },
         {
@@ -52354,7 +52557,9 @@
                 "city": "Phoenix",
                 "address": "2600 N. Central Avenue",
                 "address2": "Suite 850",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-606-4680",
@@ -52380,7 +52585,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dwanecates-com-pllc",
@@ -52398,7 +52604,9 @@
                 "city": "85020 Phoenix",
                 "address": "7310 N 16th Street",
                 "address2": "#330A",
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "480-571-3679",
@@ -52423,7 +52631,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-charnesky-dieglio-l-l-c",
@@ -52441,7 +52650,9 @@
                 "city": "Tucson",
                 "address": "317 E. Convent Avenue",
                 "address2": null,
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-903-1422",
@@ -52469,7 +52680,8 @@
                 "DUI and DWI",
                 "Landlord and Tenant",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-christensen-law-firm",
@@ -52487,7 +52699,9 @@
                 "city": "Gilbert",
                 "address": "3303 South Lindsay Road",
                 "address2": "Suite 104",
-                "zip": "85297"
+                "zip": "85297",
+                "lat": 33.2793,
+                "lng": -111.7378
             },
             "contact": {
                 "phone": "623-257-1931",
@@ -52508,7 +52722,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hildebrand-law-pc",
@@ -52526,7 +52741,9 @@
                 "city": "Tempe",
                 "address": "1095 W Rio Salado Pkwy",
                 "address2": "#206",
-                "zip": "85281"
+                "zip": "85281",
+                "lat": 33.4357,
+                "lng": -111.9278
             },
             "contact": {
                 "phone": "480-305-8300",
@@ -52592,7 +52809,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morris-hall-pllc",
@@ -52610,7 +52828,9 @@
                 "city": "Phoenix",
                 "address": "7250 N. 16th St.",
                 "address2": "Suite 201",
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "844-316-8928",
@@ -52647,6 +52867,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Scottsdale",
+                    "state": "AZ",
+                    "zip": "85260",
+                    "address": "14300 North Northsight Blvd, Suite 202",
+                    "phone": "+18665010353",
+                    "lat": 33.611,
+                    "lng": -111.8901
+                }
             ]
         },
         {
@@ -52665,7 +52896,9 @@
                 "city": "Scottsdale",
                 "address": "3295 North Drinkwater Blvd",
                 "address2": "Suite 9",
-                "zip": "85251"
+                "zip": "85251",
+                "lat": 33.4941,
+                "lng": -111.9229
             },
             "contact": {
                 "phone": "480-571-0679",
@@ -52697,7 +52930,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-nathan-c-cooley-plc",
@@ -52715,7 +52949,9 @@
                 "city": "Mesa",
                 "address": "1744 S Val Vista Dr",
                 "address2": "Suite 201",
-                "zip": "85204"
+                "zip": "85204",
+                "lat": 33.3973,
+                "lng": -111.7858
             },
             "contact": {
                 "phone": "480-295-7235",
@@ -52737,7 +52973,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-jessica-m-cotter-p-l-l-c",
@@ -52755,7 +52992,9 @@
                 "city": "Peoria",
                 "address": "14050 N. 83rd Ave.",
                 "address2": "Suite 290",
-                "zip": "85381"
+                "zip": "85381",
+                "lat": 33.6106,
+                "lng": -112.2333
             },
             "contact": {
                 "phone": "602-843-3004",
@@ -52776,7 +53015,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "duenas-eden-cravatta-plc",
@@ -52794,7 +53034,9 @@
                 "city": "Phoenix",
                 "address": "10201 S 51st Street",
                 "address2": "Suite 104",
-                "zip": "85044"
+                "zip": "85044",
+                "lat": 33.3417,
+                "lng": -111.9924
             },
             "contact": {
                 "phone": "480-637-0668",
@@ -52837,7 +53079,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crossman-law-offices-pc",
@@ -52855,7 +53098,9 @@
                 "city": "Phoenix Arizona 85012",
                 "address": "Phoenix Arizona 85012, AZ",
                 "address2": "67 East Weldon Avenue, Suite 320",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-248-0380",
@@ -52878,7 +53123,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-tony-s-cullum-pllc",
@@ -52896,7 +53142,9 @@
                 "city": "Flagstaff",
                 "address": "14 E. Dale Avenue",
                 "address2": null,
-                "zip": "86001"
+                "zip": "86001",
+                "lat": 35.4749,
+                "lng": -111.7
             },
             "contact": {
                 "phone": "928-723-0198",
@@ -52920,7 +53168,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "donaldson-stewart-p-c",
@@ -52938,7 +53187,9 @@
                 "city": "Chandler",
                 "address": "3100 West Ray Road",
                 "address2": "Suite 115",
-                "zip": "85226"
+                "zip": "85226",
+                "lat": 33.2663,
+                "lng": -111.943
             },
             "contact": {
                 "phone": "480-792-9770",
@@ -52962,7 +53213,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harris-powers-cunningham-pllc",
@@ -52980,7 +53232,9 @@
                 "city": "Phoenix",
                 "address": "361 East Coronado Road",
                 "address2": "Suite 101",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "480-581-5796",
@@ -53025,7 +53279,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gage-mathers-law-group-pllc",
@@ -53043,7 +53298,9 @@
                 "city": "Phoenix",
                 "address": "2525 E Arizona Biltmore Cir",
                 "address2": "#A114",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-857-9161",
@@ -53095,7 +53352,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rita-a-daninger-attorney-at-law-pllc",
@@ -53113,7 +53371,9 @@
                 "city": "Sun City",
                 "address": "10451 W. Palmeras Dr.",
                 "address2": "Suite 140W",
-                "zip": "85373"
+                "zip": "85373",
+                "lat": 33.7831,
+                "lng": -112.3644
             },
             "contact": {
                 "phone": "623-304-1595",
@@ -53143,7 +53403,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "accident-justice",
@@ -53161,7 +53422,9 @@
                 "city": "Glendale",
                 "address": "5800 W Glenn Dr.",
                 "address2": "Suite #130",
-                "zip": "85301"
+                "zip": "85301",
+                "lat": 33.5382,
+                "lng": -112.1859
             },
             "contact": {
                 "phone": "602-512-1988",
@@ -53219,6 +53482,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85032",
+                    "address": "16448 N., 40th St",
+                    "phone": "+16025591363",
+                    "lat": 33.6254,
+                    "lng": -112.0059
+                }
             ]
         },
         {
@@ -53237,7 +53511,9 @@
                 "city": "Peoria",
                 "address": "8325 W. Happy Valley Road",
                 "address2": "Suite 115",
-                "zip": "85383"
+                "zip": "85383",
+                "lat": 33.7647,
+                "lng": -112.2771
             },
             "contact": {
                 "phone": "623-499-3607",
@@ -53258,6 +53534,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Peoria",
+                    "state": "AZ",
+                    "zip": "85383",
+                    "address": "10210 W. Happy Valley Pkwy., Ste. 150",
+                    "phone": "623-499-3607",
+                    "lat": 33.7647,
+                    "lng": -112.2771
+                }
             ]
         },
         {
@@ -53276,7 +53563,9 @@
                 "city": "Phoenix",
                 "address": "4105 N 20th Street",
                 "address2": "Suite 220",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-266-0531",
@@ -53311,7 +53600,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sudden-wealth-protection-law-plc",
@@ -53329,7 +53619,9 @@
                 "city": "Phoenix",
                 "address": "7600 N 15th St",
                 "address2": "Suite 150",
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "602-443-4888",
@@ -53349,7 +53641,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kadish-associates-law-group",
@@ -53367,7 +53660,9 @@
                 "city": "Phoenix",
                 "address": "4647 North 32nd Street",
                 "address2": "Suite 135",
-                "zip": "85018"
+                "zip": "85018",
+                "lat": 33.5024,
+                "lng": -111.9782
             },
             "contact": {
                 "phone": "800-431-5180",
@@ -53401,7 +53696,8 @@
                 "Ethics and Professional Responsibility",
                 "Labor Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ashley-donovan-law-pllc",
@@ -53419,7 +53715,9 @@
                 "city": "Tempe",
                 "address": "4015 S. McClintock Dr.",
                 "address2": "#102",
-                "zip": "85282"
+                "zip": "85282",
+                "lat": 33.3939,
+                "lng": -111.9291
             },
             "contact": {
                 "phone": "480-900-5334",
@@ -53457,7 +53755,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-chris-dutkiewicz-p-c",
@@ -53475,7 +53774,9 @@
                 "city": "Gilbert",
                 "address": "1425 S. Higley Road",
                 "address2": null,
-                "zip": "85296"
+                "zip": "85296",
+                "lat": 33.3356,
+                "lng": -111.7559
             },
             "contact": {
                 "phone": "480-505-1877",
@@ -53492,6 +53793,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85004",
+                    "address": "Satellite Office:, (By Appointment Only), 40 N Central Avenue, Suite #1400",
+                    "phone": "(480) 505-1877",
+                    "lat": 33.4506,
+                    "lng": -112.0694
+                }
             ]
         },
         {
@@ -53510,7 +53822,9 @@
                 "city": "Phoenix",
                 "address": "3737 North 7th Street, Suite 106",
                 "address2": null,
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-734-7410",
@@ -53541,7 +53855,8 @@
                 "Insurance Law",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sanders-parks-pc",
@@ -53559,7 +53874,9 @@
                 "city": "Phoenix",
                 "address": "3030 N. 3rd St.",
                 "address2": "Ste. 1300",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-532-5600",
@@ -53589,7 +53906,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kamper-estrada",
@@ -53607,7 +53925,9 @@
                 "city": "Phoenix",
                 "address": "3030 N. Third Street",
                 "address2": "Suite 770",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-230-1234",
@@ -53645,7 +53965,8 @@
                 "Truck Accident",
                 "Trusts",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lincoln-wenk-pllc",
@@ -53663,7 +53984,9 @@
                 "city": "Goodyear",
                 "address": "1616 North Litchfield Road",
                 "address2": "Suite 140",
-                "zip": "85395"
+                "zip": "85395",
+                "lat": 33.4831,
+                "lng": -112.4012
             },
             "contact": {
                 "phone": "623-288-2788",
@@ -53685,6 +54008,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Peoria",
+                    "state": "AZ",
+                    "zip": "85381",
+                    "address": "14050 N. 83rd Avenue, Suite 290",
+                    "phone": "+16232881467",
+                    "lat": 33.6106,
+                    "lng": -112.2333
+                }
             ]
         },
         {
@@ -53703,7 +54037,9 @@
                 "city": "Phoenix",
                 "address": "2810 North Third Street",
                 "address2": null,
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-606-2810",
@@ -53734,7 +54070,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "helene-s-fenlon-plc",
@@ -53752,7 +54089,9 @@
                 "city": "Scottsdale",
                 "address": "8585 East Hartford Drive",
                 "address2": "Suite 700",
-                "zip": "85255"
+                "zip": "85255",
+                "lat": 33.6636,
+                "lng": -111.8085
             },
             "contact": {
                 "phone": "480-584-3223",
@@ -53770,7 +54109,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-smith-fila-law-firm",
@@ -53788,7 +54128,9 @@
                 "city": "Yuma",
                 "address": "3970 West 24th Street",
                 "address2": "Suite 104",
-                "zip": "85364"
+                "zip": "85364",
+                "lat": 32.7074,
+                "lng": -114.6801
             },
             "contact": {
                 "phone": "928-328-1361",
@@ -53828,7 +54170,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "suzuki-law-offices-l-l-c",
@@ -53846,7 +54189,9 @@
                 "city": "Phoenix",
                 "address": "2929 E Camelback Road",
                 "address2": "Suite 224",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-635-1369",
@@ -53885,6 +54230,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85719",
+                    "address": "2200 E Speedway Blvd",
+                    "phone": "602-635-1369",
+                    "lat": 32.248,
+                    "lng": -110.9474
+                }
             ]
         },
         {
@@ -53903,7 +54259,9 @@
                 "city": "Tempe",
                 "address": "80 E Palomino Dr",
                 "address2": null,
-                "zip": "85284"
+                "zip": "85284",
+                "lat": 33.3347,
+                "lng": -111.9325
             },
             "contact": {
                 "phone": "602-512-9997",
@@ -53933,7 +54291,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-hope-e-fruchtman",
@@ -53951,7 +54310,9 @@
                 "city": "Scottsdale",
                 "address": "14301 N. 87th Street",
                 "address2": "Suite 211",
-                "zip": "85260"
+                "zip": "85260",
+                "lat": 33.611,
+                "lng": -111.8901
             },
             "contact": {
                 "phone": "480-209-1918",
@@ -53972,7 +54333,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "steve-german-a-law-firm",
@@ -53990,7 +54352,9 @@
                 "city": "Phoenix",
                 "address": "11201 N Tatum Blvd.",
                 "address2": "Suite 110",
-                "zip": "85028"
+                "zip": "85028",
+                "lat": 33.5758,
+                "lng": -112.009
             },
             "contact": {
                 "phone": "480-607-9166",
@@ -54012,7 +54376,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "israel-gerity-pllc",
@@ -54030,7 +54395,9 @@
                 "city": "Phoenix",
                 "address": "202 E Earll Dr",
                 "address2": "#440",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-916-1875",
@@ -54098,7 +54465,8 @@
                 "Toxic Torts",
                 "Trademarks",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hassett-glasser-p-c",
@@ -54116,7 +54484,9 @@
                 "city": "Phoenix",
                 "address": "1221 East Osborn Road",
                 "address2": "Suite 102A",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-264-7474",
@@ -54138,7 +54508,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parsons-goltry",
@@ -54156,7 +54527,9 @@
                 "city": "Scottsdale",
                 "address": "15615 North 71st Street",
                 "address2": "Suite 106",
-                "zip": "85254"
+                "zip": "85254",
+                "lat": 33.6192,
+                "lng": -111.9517
             },
             "contact": {
                 "phone": "480-991-3435",
@@ -54177,7 +54550,8 @@
             ],
             "official_practice_area": [
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-gonzales-poirier",
@@ -54195,7 +54569,9 @@
                 "city": "Chandler",
                 "address": "2697 E. Aloe Pl",
                 "address2": null,
-                "zip": "85206"
+                "zip": "85206",
+                "lat": 33.3974,
+                "lng": -111.7192
             },
             "contact": {
                 "phone": "928-491-3219",
@@ -54219,7 +54595,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmidt-mcelwee-gordon-pllc",
@@ -54237,7 +54614,9 @@
                 "city": "Phoenix",
                 "address": "3300 N. Central Avenue",
                 "address2": "Suite 2070",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-230-1118",
@@ -54266,7 +54645,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jessica-c-graves",
@@ -54284,7 +54664,9 @@
                 "city": "Tucson",
                 "address": "7400 N Oracle Rd",
                 "address2": "Ste 150-403",
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-468-6889",
@@ -54306,7 +54688,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "green-evans-schroeder-pllc",
@@ -54324,7 +54707,9 @@
                 "city": "Tucson",
                 "address": "130 W. Cushing Street",
                 "address2": null,
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-882-8852",
@@ -54353,6 +54738,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tempe",
+                    "state": "AZ",
+                    "zip": "85282",
+                    "address": "1414 W. Broadway Rd., Suite 223",
+                    "phone": "(520) 570-7020",
+                    "lat": 33.3939,
+                    "lng": -111.9291
+                }
             ]
         },
         {
@@ -54371,7 +54767,9 @@
                 "city": "Scottsdale",
                 "address": "9590 E. Ironwood Square Dr.",
                 "address2": "Suite 230 V3",
-                "zip": "85258"
+                "zip": "85258",
+                "lat": 33.5605,
+                "lng": -111.886
             },
             "contact": {
                 "phone": "480-864-2638",
@@ -54407,7 +54805,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morris-hall-pllc",
@@ -54425,7 +54824,9 @@
                 "city": "Mesa",
                 "address": "1129 S Oakland Dr",
                 "address2": "Suite 102",
-                "zip": "85206"
+                "zip": "85206",
+                "lat": 33.3974,
+                "lng": -111.7192
             },
             "contact": {
                 "phone": "844-316-8928",
@@ -54460,6 +54861,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Scottsdale",
+                    "state": "AZ",
+                    "zip": "85260",
+                    "address": "14300 North Northsight Blvd, Suite 202",
+                    "phone": "+18665010353",
+                    "lat": 33.611,
+                    "lng": -111.8901
+                }
             ]
         },
         {
@@ -54478,7 +54890,9 @@
                 "city": "Oro Valley",
                 "address": "1846 E. Innovation Park Dr.",
                 "address2": null,
-                "zip": "85755"
+                "zip": "85755",
+                "lat": 32.4677,
+                "lng": -110.9849
             },
             "contact": {
                 "phone": null,
@@ -54493,7 +54907,18 @@
             "attorneys": [
                 "Wendy W. Harn"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85711",
+                    "address": "5151 E Broadway Blvd., Suite 1600",
+                    "phone": "520-437-0030",
+                    "lat": 32.2142,
+                    "lng": -110.8838
+                }
+            ]
         },
         {
             "slug": "harris-injury-law",
@@ -54511,7 +54936,9 @@
                 "city": "Phoenix",
                 "address": "1136 E Campbell Ave",
                 "address2": null,
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "480-571-8792",
@@ -54532,7 +54959,8 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccarthy-family-law-pllc",
@@ -54550,7 +54978,9 @@
                 "city": "Tucson",
                 "address": "300 N. Main Ave.",
                 "address2": "#203",
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "502-623-0341",
@@ -54580,7 +55010,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hirsch-talcott-pllc",
@@ -54598,7 +55029,9 @@
                 "city": "Phoenix",
                 "address": "1212 East Osborn Road",
                 "address2": "Suite 200",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-975-5258",
@@ -54626,7 +55059,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "plattner-verderame-arizona-injury-lawyers",
@@ -54644,7 +55078,9 @@
                 "city": "Phoenix",
                 "address": "316 E. Flower St.",
                 "address2": null,
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-730-7436",
@@ -54679,6 +55115,17 @@
                 "Personal Injury",
                 "Whistleblower and Qui Tam",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tempe",
+                    "state": "AZ",
+                    "zip": "85283",
+                    "address": "5500 S Lakeshore Dr",
+                    "phone": "602-730-7436",
+                    "lat": 33.3639,
+                    "lng": -111.9355
+                }
             ]
         },
         {
@@ -54697,7 +55144,9 @@
                 "city": "Scottsdale",
                 "address": "10505 N. 69th Street",
                 "address2": "Suite 1400",
-                "zip": "85253"
+                "zip": "85253",
+                "lat": 33.546,
+                "lng": -111.9694
             },
             "contact": {
                 "phone": "602-336-2557",
@@ -54719,7 +55168,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "houk-employment-attorneys",
@@ -54737,7 +55187,9 @@
                 "city": "Phoenix",
                 "address": "1850 N. Central Ave",
                 "address2": "Suite 2030",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "480-569-2377",
@@ -54763,7 +55215,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-daniel-hutto-pllc",
@@ -54781,7 +55234,9 @@
                 "city": "Phoenix",
                 "address": "2375 E Camelback Rd",
                 "address2": "#600",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-857-9099",
@@ -54805,7 +55260,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "isaacson-law-firm-p-c",
@@ -54823,7 +55279,9 @@
                 "city": "Phoenix",
                 "address": "3101 N. Central Ave.",
                 "address2": "Suite 650",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-274-2200",
@@ -54849,7 +55307,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelly-law-team",
@@ -54867,7 +55326,9 @@
                 "city": "Phoenix",
                 "address": "1 E. Washington St.",
                 "address2": "Suite 1520",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-283-4122",
@@ -54896,7 +55357,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lasiter-jackson",
@@ -54914,7 +55376,9 @@
                 "city": "Phoenix",
                 "address": "3200 N. Central Ave.",
                 "address2": "#1100",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-234-5900",
@@ -54937,7 +55401,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kathryn-l-johnson-plc",
@@ -54955,7 +55420,9 @@
                 "city": "Tucson",
                 "address": "4337 E. Fifth Street",
                 "address2": null,
-                "zip": "85711"
+                "zip": "85711",
+                "lat": 32.2142,
+                "lng": -110.8838
             },
             "contact": {
                 "phone": "520-743-2257",
@@ -54974,6 +55441,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sierra Vista",
+                    "state": "AZ",
+                    "zip": "85650",
+                    "address": "3533 Canyon de Flores, Suite B",
+                    "phone": "(800) 239-4146",
+                    "lat": 31.4937,
+                    "lng": -110.2621
+                }
             ]
         },
         {
@@ -54992,7 +55470,9 @@
                 "city": "Tucson",
                 "address": "177 N Church Avenue",
                 "address2": "Suite 311",
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-834-8932",
@@ -55027,7 +55507,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-kristen-kaffer-pllc",
@@ -55045,7 +55526,9 @@
                 "city": "Phoenix",
                 "address": "7301 N 16th St.",
                 "address2": "#102",
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "602-926-1317",
@@ -55075,7 +55558,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kinerk-schmidt-sethi-pllc",
@@ -55093,7 +55577,9 @@
                 "city": "Tucson",
                 "address": "1790 East River Road",
                 "address2": "Suite 300",
-                "zip": "85718"
+                "zip": "85718",
+                "lat": 32.3133,
+                "lng": -110.918
             },
             "contact": {
                 "phone": "520-790-5600",
@@ -55118,7 +55604,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schneider-onofry-pc",
@@ -55136,7 +55623,9 @@
                 "city": "Phoenix",
                 "address": "365 East Coronado Road",
                 "address2": null,
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-230-8857",
@@ -55171,6 +55660,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85701",
+                    "address": "2 East Congress Street, Suite 900",
+                    "phone": "(602) 200-1281",
+                    "lat": 32.2179,
+                    "lng": -110.9686
+                }
             ]
         },
         {
@@ -55189,7 +55689,9 @@
                 "city": "Peoria",
                 "address": "9059 West Lake Pleasant Parkway",
                 "address2": "Suite C-300",
-                "zip": "85382"
+                "zip": "85382",
+                "lat": 33.6517,
+                "lng": -112.2462
             },
             "contact": {
                 "phone": "623-404-6637",
@@ -55214,7 +55716,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kruchek-law-pllc",
@@ -55232,7 +55735,9 @@
                 "city": "Tucson",
                 "address": "1926 E. Fort Lowell Rd.",
                 "address2": "Suite 103",
-                "zip": "85719"
+                "zip": "85719",
+                "lat": 32.248,
+                "lng": -110.9474
             },
             "contact": {
                 "phone": "520-276-4815",
@@ -55263,7 +55768,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laboy-law-office",
@@ -55281,7 +55787,9 @@
                 "city": "Phoenix",
                 "address": "40 N. Central Ave.",
                 "address2": "Suite 1400",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-828-2830",
@@ -55304,6 +55812,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Yuma",
+                    "state": "AZ",
+                    "zip": "85364",
+                    "address": "2554 W. 16th Street, Suite 405",
+                    "phone": "(602) 828-2830",
+                    "lat": 32.7074,
+                    "lng": -114.6801
+                }
             ]
         },
         {
@@ -55322,7 +55841,9 @@
                 "city": "Phoenix",
                 "address": "4539 N. 22nd Street",
                 "address2": "Suite 209",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-274-9662",
@@ -55351,6 +55872,44 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tucson",
+                    "state": "AZ",
+                    "zip": "85712",
+                    "address": "4023 E.Grant Road, Suite 101",
+                    "phone": "520-477-7777",
+                    "lat": 32.2548,
+                    "lng": -110.8836
+                },
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89101",
+                    "address": "300 S. 4th Street, #1400",
+                    "phone": "702-625-7777",
+                    "lat": 36.1736,
+                    "lng": -115.1264
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80203",
+                    "address": "1330 Logan Street, Suite B2",
+                    "phone": "303-800-8888",
+                    "lat": 39.732,
+                    "lng": -104.9825
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60604",
+                    "address": "141 West Jackson Boulevard, #4219",
+                    "phone": "312-757-7777",
+                    "lat": 41.8771,
+                    "lng": -87.6247
+                }
             ]
         },
         {
@@ -55369,7 +55928,9 @@
                 "city": "Tucson",
                 "address": "405 W. Cool Drive",
                 "address2": "Suite 107",
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-657-4535",
@@ -55401,7 +55962,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leonard-felker-plc",
@@ -55419,7 +55981,9 @@
                 "city": "Tucson",
                 "address": "P.O. Box 19101",
                 "address2": null,
-                "zip": "85731"
+                "zip": "85731",
+                "lat": 32.2217,
+                "lng": -110.9259
             },
             "contact": {
                 "phone": "323-433-0463",
@@ -55458,6 +56022,17 @@
                 "Litigation and Appeals",
                 "Professional Malpractice",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90036",
+                    "address": "161 S. Orange Drive",
+                    "phone": "+13234380878",
+                    "lat": 34.0704,
+                    "lng": -118.3505
+                }
             ]
         },
         {
@@ -55476,7 +56051,9 @@
                 "city": "Phoenix",
                 "address": "361 E. Coronado Rd",
                 "address2": "Suite 101",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-926-0185",
@@ -55520,7 +56097,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-valley-law-group",
@@ -55538,7 +56116,9 @@
                 "city": "Phoenix",
                 "address": "3101 N. Central Avenue",
                 "address2": "Ste. 1470",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "480-692-7419",
@@ -55567,6 +56147,17 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gilbert",
+                    "state": "AZ",
+                    "zip": "85233",
+                    "address": "1410 W. Guadalupe Rd, Ste. 101",
+                    "phone": "480-692-7419",
+                    "lat": 33.3463,
+                    "lng": -111.8154
+                }
             ]
         },
         {
@@ -55585,7 +56176,9 @@
                 "city": "Tucson",
                 "address": "6223 N. Yellow Wood Trail",
                 "address2": null,
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-336-7380",
@@ -55607,7 +56200,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gamesq-plc",
@@ -55625,7 +56219,9 @@
                 "city": "Phoenix",
                 "address": "2330 N. 75th Ave",
                 "address2": "Suite 211",
-                "zip": "85035"
+                "zip": "85035",
+                "lat": 33.4729,
+                "lng": -112.1948
             },
             "contact": {
                 "phone": "623-220-5594",
@@ -55655,7 +56251,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-michelle-s-michelson-pllc",
@@ -55673,7 +56270,9 @@
                 "city": "Tucson",
                 "address": "177 N. Church Ave.",
                 "address2": "Suite 877",
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-775-1717",
@@ -55696,7 +56295,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tucker-miller",
@@ -55714,7 +56314,9 @@
                 "city": "Phoenix",
                 "address": "1440 E. Missouri Avenue",
                 "address2": "Suite C150",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-870-5511",
@@ -55739,7 +56341,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robinson-law-offices",
@@ -55757,7 +56360,9 @@
                 "city": "Phoenix",
                 "address": "202 E., Earll Drive",
                 "address2": "Suite 490",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-888-8994",
@@ -55779,7 +56384,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "minore-law",
@@ -55797,7 +56403,9 @@
                 "city": "Scottsdale",
                 "address": "9375 E. Shea Boulevard",
                 "address2": "Suite 100",
-                "zip": "85260"
+                "zip": "85260",
+                "lat": 33.611,
+                "lng": -111.8901
             },
             "contact": {
                 "phone": "480-428-3229",
@@ -55820,7 +56428,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-patrick-alan-moran",
@@ -55838,7 +56447,9 @@
                 "city": "Tucson",
                 "address": "530 South Main Avenue",
                 "address2": "Suite B",
-                "zip": "85701"
+                "zip": "85701",
+                "lat": 32.2179,
+                "lng": -110.9686
             },
             "contact": {
                 "phone": "520-812-6987",
@@ -55860,7 +56471,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "francis-j-slavin-law-firm",
@@ -55878,7 +56490,9 @@
                 "city": "Phoenix",
                 "address": "2198 East Camelback Road",
                 "address2": "Suite 285",
-                "zip": "85016"
+                "zip": "85016",
+                "lat": 33.517,
+                "lng": -112.0214
             },
             "contact": {
                 "phone": "602-381-8700",
@@ -55917,7 +56531,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-karl-a-mueller-plc",
@@ -55935,7 +56550,9 @@
                 "city": "Gilbert",
                 "address": "1760 E. Pecos Road",
                 "address2": "Suite 332",
-                "zip": "85295"
+                "zip": "85295",
+                "lat": 33.3068,
+                "lng": -111.7432
             },
             "contact": {
                 "phone": "602-697-8761",
@@ -55958,6 +56575,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tempe",
+                    "state": "AZ",
+                    "zip": "85281",
+                    "address": "Hayden Ferry Lakeside, 60 E. Rio Salado Parkway, Suite 900",
+                    "phone": "(602) 730-7857",
+                    "lat": 33.4357,
+                    "lng": -111.9278
+                }
             ]
         },
         {
@@ -55976,7 +56604,9 @@
                 "city": "Scottsdale",
                 "address": "7537 E. McDonald Drive",
                 "address2": null,
-                "zip": "85250"
+                "zip": "85250",
+                "lat": 33.524,
+                "lng": -111.9036
             },
             "contact": {
                 "phone": "888-428-2609",
@@ -56003,7 +56633,8 @@
                 "Estate Planning",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doug-newborn-law-firm-pllc",
@@ -56021,7 +56652,9 @@
                 "city": "Tucson",
                 "address": "7315 N Oracle Rd",
                 "address2": "Suite 230",
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-657-4802",
@@ -56046,7 +56679,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ortega-ortega-pllc",
@@ -56064,7 +56698,9 @@
                 "city": "Phoenix",
                 "address": "7227 N. 16th Street",
                 "address2": "Suite 245",
-                "zip": "85020"
+                "zip": "85020",
+                "lat": 33.5711,
+                "lng": -112.0514
             },
             "contact": {
                 "phone": "480-637-0907",
@@ -56091,7 +56727,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "runion-personal-injury-lawyers",
@@ -56109,7 +56746,9 @@
                 "city": "Phoenix",
                 "address": "3200 N Central Ave",
                 "address2": "Suite 1100",
-                "zip": "85012"
+                "zip": "85012",
+                "lat": 33.5093,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-926-0736",
@@ -56133,7 +56772,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-craig-w-penrod-p-c",
@@ -56151,7 +56791,9 @@
                 "city": "Tempe",
                 "address": "4015 South McClintock",
                 "address2": "Suite 101",
-                "zip": "85282"
+                "zip": "85282",
+                "lat": 33.3939,
+                "lng": -111.9291
             },
             "contact": {
                 "phone": "480-900-4749",
@@ -56174,7 +56816,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pew-law-center-pllc",
@@ -56192,7 +56835,9 @@
                 "city": "Mesa",
                 "address": "1811 South Alma School Rd",
                 "address2": "Suite 260",
-                "zip": "85210"
+                "zip": "85210",
+                "lat": 33.3861,
+                "lng": -111.8413
             },
             "contact": {
                 "phone": "480-745-1770",
@@ -56215,7 +56860,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "singer-pistiner-p-c",
@@ -56233,7 +56879,9 @@
                 "city": "Scottsdale",
                 "address": "7502 E. Pinnacle Peak Rd.",
                 "address2": "Suite B118",
-                "zip": "85255"
+                "zip": "85255",
+                "lat": 33.6636,
+                "lng": -111.8085
             },
             "contact": {
                 "phone": "480-418-7011",
@@ -56256,7 +56904,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "steven-plitt-expert-insurance-consultant-witness",
@@ -56274,7 +56923,9 @@
                 "city": "Phoenix",
                 "address": "1850 North Central Avenue",
                 "address2": "Suite 1900",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-322-4000",
@@ -56300,7 +56951,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jaburg-wilk-law-firm",
@@ -56318,7 +56970,9 @@
                 "city": "Phoenix",
                 "address": "1850 N. Central Avenue",
                 "address2": "Suite 1200",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "602-248-1000",
@@ -56348,7 +57002,8 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "traffic-law-guys",
@@ -56366,7 +57021,9 @@
                 "city": "Scottsdale",
                 "address": "5635 N Scottsdale Rd.",
                 "address2": "#170",
-                "zip": "85250"
+                "zip": "85250",
+                "lat": 33.524,
+                "lng": -111.9036
             },
             "contact": {
                 "phone": "480-626-5415",
@@ -56391,7 +57048,8 @@
             ],
             "official_practice_area": [
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-john-r-bo-roberts-jr",
@@ -56409,7 +57067,9 @@
                 "city": "Scottsdale",
                 "address": "Suite 38",
                 "address2": "6615 N. Scottsdale Road",
-                "zip": "85250"
+                "zip": "85250",
+                "lat": 33.524,
+                "lng": -111.9036
             },
             "contact": {
                 "phone": "480-346-9020",
@@ -56430,7 +57090,8 @@
                 "Business and Commercial Law",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wade-nysather-az-accident-attorneys",
@@ -56448,7 +57109,9 @@
                 "city": "Scottsdale",
                 "address": "8961 E Bell Rd",
                 "address2": "#201",
-                "zip": "85260"
+                "zip": "85260",
+                "lat": 33.611,
+                "lng": -111.8901
             },
             "contact": {
                 "phone": "602-547-2222",
@@ -56488,6 +57151,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85016",
+                    "address": "2410 E Osborn Rd 100",
+                    "phone": "6025472222",
+                    "lat": 33.517,
+                    "lng": -112.0214
+                }
             ]
         },
         {
@@ -56506,7 +57180,9 @@
                 "city": "Tempe",
                 "address": "2151 East Broadway Road",
                 "address2": "Suite 216",
-                "zip": "85282"
+                "zip": "85282",
+                "lat": 33.3939,
+                "lng": -111.9291
             },
             "contact": {
                 "phone": "480-314-5505",
@@ -56527,6 +57203,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Glendale",
+                    "state": "AZ",
+                    "zip": "85308",
+                    "address": "20325 North 51st Avenue, Suite 134",
+                    "phone": "(480) 314-5505",
+                    "lat": 33.6681,
+                    "lng": -112.1862
+                }
             ]
         },
         {
@@ -56545,7 +57232,9 @@
                 "city": "Tucson",
                 "address": "2205 E. Speedway Blvd.",
                 "address2": null,
-                "zip": "85719"
+                "zip": "85719",
+                "lat": 32.248,
+                "lng": -110.9474
             },
             "contact": {
                 "phone": "520-812-6964",
@@ -56565,7 +57254,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-matthew-s-schultz-p-c",
@@ -56583,7 +57273,9 @@
                 "city": "Tempe",
                 "address": "401 W. Baseline Road",
                 "address2": "Suite 203",
-                "zip": "85283"
+                "zip": "85283",
+                "lat": 33.3639,
+                "lng": -111.9355
             },
             "contact": {
                 "phone": "480-730-5400",
@@ -56606,7 +57298,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "seiter-law",
@@ -56624,7 +57317,9 @@
                 "city": "Tempe",
                 "address": "960 W. Elliot Road",
                 "address2": "Suite 114",
-                "zip": "85284"
+                "zip": "85284",
+                "lat": 33.3347,
+                "lng": -111.9325
             },
             "contact": {
                 "phone": "480-900-5427",
@@ -56650,7 +57345,8 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-j-shew-ltd",
@@ -56668,7 +57364,9 @@
                 "city": "Phoenix",
                 "address": "15835 South 46th Street",
                 "address2": "Suite 136",
-                "zip": "85048"
+                "zip": "85048",
+                "lat": 33.3329,
+                "lng": -112.0686
             },
             "contact": {
                 "phone": "480-900-5069",
@@ -56694,7 +57392,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "treon-shook-p-l-l-c",
@@ -56712,7 +57411,9 @@
                 "city": "Phoenix",
                 "address": "4600 North 12th Street",
                 "address2": null,
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-265-7100",
@@ -56734,7 +57435,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-roger-h-sigal-l-l-c",
@@ -56752,7 +57454,9 @@
                 "city": "Oro Valle",
                 "address": "PO Box",
                 "address2": null,
-                "zip": "85704"
+                "zip": "85704",
+                "lat": 32.3407,
+                "lng": -110.9811
             },
             "contact": {
                 "phone": "520-777-1242",
@@ -56780,7 +57484,8 @@
                 "DUI and DWI",
                 "Federal and White Collar Crimes",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "silver-law-plc",
@@ -56798,7 +57503,9 @@
                 "city": "Scottsdale",
                 "address": "7033 E. Greenway Parkway Suite 200",
                 "address2": null,
-                "zip": "85254"
+                "zip": "85254",
+                "lat": 33.6192,
+                "lng": -111.9517
             },
             "contact": {
                 "phone": "480-429-3360",
@@ -56819,7 +57526,8 @@
             ],
             "official_practice_area": [
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-brian-d-sloan",
@@ -56837,7 +57545,9 @@
                 "city": "Phoenix",
                 "address": "2 N. Central Ave",
                 "address2": "Floor 18 Suite 1929",
-                "zip": "85004"
+                "zip": "85004",
+                "lat": 33.4506,
+                "lng": -112.0694
             },
             "contact": {
                 "phone": "480-720-7839",
@@ -56884,7 +57594,8 @@
             "official_practice_area": [
                 "Cannabis Law",
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "snyder-wenner-pc",
@@ -56902,7 +57613,9 @@
                 "city": "Scottsdale",
                 "address": "8800 N Gainey Center Dr",
                 "address2": "Suite 265",
-                "zip": "85258"
+                "zip": "85258",
+                "lat": 33.5605,
+                "lng": -111.886
             },
             "contact": {
                 "phone": "602-224-0005",
@@ -56928,7 +57641,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-roger-k-spencer-pllc",
@@ -56946,7 +57660,9 @@
                 "city": "Phoenix",
                 "address": "777 East Thomas Road",
                 "address2": "Suite 120",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-279-0101",
@@ -56967,7 +57683,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "starr-law-firm-plc",
@@ -56985,7 +57702,9 @@
                 "city": "Phoenix",
                 "address": "1110 East Missouri Avenue",
                 "address2": "Suite 160",
-                "zip": "85014"
+                "zip": "85014",
+                "lat": 33.5093,
+                "lng": -112.0563
             },
             "contact": {
                 "phone": "602-639-4618",
@@ -57007,7 +57726,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tondevold-law-plc",
@@ -57025,7 +57745,9 @@
                 "city": "Mesa",
                 "address": "1635 N. Greenfield Road",
                 "address2": "Suite 138",
-                "zip": "85205"
+                "zip": "85205",
+                "lat": 33.4336,
+                "lng": -111.7184
             },
             "contact": {
                 "phone": "480-447-0354",
@@ -57046,7 +57768,8 @@
             ],
             "official_practice_area": [
                 "Construction"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arizona-law-group-of-trezza-associates",
@@ -57064,7 +57787,9 @@
                 "city": "Tucson",
                 "address": "4011 E. Broadway Boulevard",
                 "address2": "Suite 200",
-                "zip": "85711"
+                "zip": "85711",
+                "lat": 32.2142,
+                "lng": -110.8838
             },
             "contact": {
                 "phone": "520-441-6047",
@@ -57088,7 +57813,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "viles-law-office-llc",
@@ -57106,7 +57832,9 @@
                 "city": "Scottsdale",
                 "address": "7702 East Doubletree Ranch Road",
                 "address2": "Suite 300",
-                "zip": "85258"
+                "zip": "85258",
+                "lat": 33.5605,
+                "lng": -111.886
             },
             "contact": {
                 "phone": "480-451-4344",
@@ -57126,6 +57854,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85028",
+                    "address": "4545 East Shea Blvd.",
+                    "phone": "(480) 451-4344",
+                    "lat": 33.5758,
+                    "lng": -112.009
+                }
             ]
         },
         {
@@ -57144,7 +57883,9 @@
                 "city": "Scottsdale",
                 "address": "6609 N. Scottsdale, Ste 101",
                 "address2": null,
-                "zip": "85250"
+                "zip": "85250",
+                "lat": 33.524,
+                "lng": -111.9036
             },
             "contact": {
                 "phone": "480-563-0422",
@@ -57165,7 +57906,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "aspey-watkins-diesel-pllc",
@@ -57183,7 +57925,9 @@
                 "city": "Flagstaff",
                 "address": "123 N. San Francisco St.",
                 "address2": null,
-                "zip": "86001"
+                "zip": "86001",
+                "lat": 35.4749,
+                "lng": -111.7
             },
             "contact": {
                 "phone": "928-433-6802",
@@ -57216,6 +57960,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sedona",
+                    "state": "AZ",
+                    "zip": "86336",
+                    "address": "120 Soldiers Pass Rd.",
+                    "phone": "(928) 433-6802",
+                    "lat": 34.6551,
+                    "lng": -111.4146
+                }
             ]
         },
         {
@@ -57234,7 +57989,9 @@
                 "city": "Tucson",
                 "address": "2730 E. Broadway Boulevard",
                 "address2": "Suite 160",
-                "zip": "85716"
+                "zip": "85716",
+                "lat": 32.2449,
+                "lng": -110.9234
             },
             "contact": {
                 "phone": "520-314-8779",
@@ -57260,7 +58017,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "natasha-wrae-p-c",
@@ -57278,7 +58036,9 @@
                 "city": "Tucson",
                 "address": "P.O. Box 3026",
                 "address2": null,
-                "zip": "85702"
+                "zip": "85702",
+                "lat": 32.2217,
+                "lng": -110.9259
             },
             "contact": {
                 "phone": "520-485-4645",
@@ -57299,7 +58059,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

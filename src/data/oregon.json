@@ -27522,7 +27522,9 @@
                 "city": "Baker City",
                 "address": "3370 10th Street",
                 "address2": "Suite B",
-                "zip": "97814"
+                "zip": "97814",
+                "lat": 44.8201,
+                "lng": -117.753
             },
             "contact": {
                 "phone": "541-523-6535",
@@ -27551,6 +27553,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fruitland",
+                    "state": "ID",
+                    "zip": "83619",
+                    "address": "2189 N Whitley Drive",
+                    "phone": "541-523-6535",
+                    "lat": 43.9749,
+                    "lng": -116.8923
+                }
             ]
         },
         {
@@ -27569,7 +27582,9 @@
                 "city": "Portland",
                 "address": "1000 SW Broadway",
                 "address2": "Suite 2300",
-                "zip": "97205"
+                "zip": "97205",
+                "lat": 45.5155,
+                "lng": -122.6988
             },
             "contact": {
                 "phone": "866-605-1906",
@@ -27594,7 +27609,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barnhart-legal",
@@ -27612,7 +27628,9 @@
                 "city": "Portland",
                 "address": "333 SW Taylor St.",
                 "address2": "Suite 400",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": "971-360-9396",
@@ -27639,7 +27657,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chenoweth-law-group-llc",
@@ -27657,7 +27676,9 @@
                 "city": "Portland",
                 "address": "510 SW Fifth Avenue",
                 "address2": "Fourth Floor",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": "503-388-3960",
@@ -27689,7 +27710,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cauble-furr-beguin-llp",
@@ -27707,7 +27729,9 @@
                 "city": "Grants Pass",
                 "address": "111 SE 6th St",
                 "address2": null,
-                "zip": "97526"
+                "zip": "97526",
+                "lat": 42.6012,
+                "lng": -123.5908
             },
             "contact": {
                 "phone": "541-646-7443",
@@ -27751,6 +27775,17 @@
                 "Probate",
                 "Real Estate",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97210",
+                    "address": "1205 NW 25th Ave",
+                    "phone": "+15039837224",
+                    "lat": 45.5515,
+                    "lng": -122.7351
+                }
             ]
         },
         {
@@ -27769,7 +27804,9 @@
                 "city": "Eugene",
                 "address": "800 Willamette Street",
                 "address2": "Suite 700",
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-685-1288",
@@ -27795,7 +27832,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brasier-law-llc",
@@ -27813,7 +27851,9 @@
                 "city": "Portland",
                 "address": "1001 SW 5th Ave.",
                 "address2": "Ste 1100",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": "503-855-4777",
@@ -27835,6 +27875,17 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Clackamas",
+                    "state": "OR",
+                    "zip": "97015",
+                    "address": "10365 SE Sunnyside Road, Suite 200",
+                    "phone": "(503) 855-4777",
+                    "lat": 45.4114,
+                    "lng": -122.5273
+                }
             ]
         },
         {
@@ -27853,7 +27904,9 @@
                 "city": "Portland",
                 "address": "1140 SW 11th Ave",
                 "address2": "Suite 110",
-                "zip": "97205"
+                "zip": "97205",
+                "lat": 45.5155,
+                "lng": -122.6988
             },
             "contact": {
                 "phone": "503-278-8322",
@@ -27886,7 +27939,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dwyer-williams-cherkoss-attorneys-pc",
@@ -27904,7 +27958,9 @@
                 "city": "Portland",
                 "address": "111 SW Columbia St.",
                 "address2": "Suite 710",
-                "zip": "97201"
+                "zip": "97201",
+                "lat": 45.5074,
+                "lng": -122.6898
             },
             "contact": {
                 "phone": "844-884-2396",
@@ -27951,6 +28007,17 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Eugene",
+                    "state": "OR",
+                    "zip": "97401",
+                    "address": "975 Oak Street, Suite 610",
+                    "phone": "(541) 341-1625",
+                    "lat": 44.0672,
+                    "lng": -123.0827
+                }
             ]
         },
         {
@@ -27969,7 +28036,9 @@
                 "city": "Portland",
                 "address": "10011 SE Division St",
                 "address2": "Suite 314",
-                "zip": "97266"
+                "zip": "97266",
+                "lat": 45.4817,
+                "lng": -122.5574
             },
             "contact": {
                 "phone": "503-339-3171",
@@ -28007,6 +28076,26 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Vancouver",
+                    "state": "WA",
+                    "zip": "98660",
+                    "address": "310 West 11th St, 2nd Floor",
+                    "phone": "541-204-0228",
+                    "lat": 45.6988,
+                    "lng": -122.7198
+                },
+                {
+                    "city": "Beaverton",
+                    "state": "OR",
+                    "zip": "97005",
+                    "address": "12275 SW 2nd St",
+                    "phone": "503-339-3171",
+                    "lat": 45.4965,
+                    "lng": -122.7999
+                }
             ]
         },
         {
@@ -28025,7 +28114,9 @@
                 "city": "Portland",
                 "address": "1318 Southwest 12th Avenue",
                 "address2": null,
-                "zip": "97201"
+                "zip": "97201",
+                "lat": 45.5074,
+                "lng": -122.6898
             },
             "contact": {
                 "phone": "503-307-2352",
@@ -28045,7 +28136,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paulson-coletti-trial-attorneys-pc",
@@ -28063,7 +28155,9 @@
                 "city": "Lake Oswego",
                 "address": "385 First Street",
                 "address2": "#217",
-                "zip": "97034"
+                "zip": "97034",
+                "lat": 45.4108,
+                "lng": -122.6795
             },
             "contact": {
                 "phone": "503-433-3524",
@@ -28093,7 +28187,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-kim-covington",
@@ -28111,7 +28206,9 @@
                 "city": "Eugene",
                 "address": "207 East 5th Ave., Suite 230",
                 "address2": null,
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-393-2790",
@@ -28133,7 +28230,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cronan-law-llc",
@@ -28151,7 +28249,9 @@
                 "city": "Portland",
                 "address": "1219 SE Lafayette St.",
                 "address2": "#104",
-                "zip": "97202"
+                "zip": "97202",
+                "lat": 45.4803,
+                "lng": -122.6451
             },
             "contact": {
                 "phone": "503-334-1499",
@@ -28189,7 +28289,8 @@
                 "Copyrights",
                 "Real Estate",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-michelle-d-da-rosa",
@@ -28207,7 +28308,9 @@
                 "city": "Portland",
                 "address": "205 SE Spokane Street",
                 "address2": "Suite 300",
-                "zip": "97202"
+                "zip": "97202",
+                "lat": 45.4803,
+                "lng": -122.6451
             },
             "contact": {
                 "phone": "503-220-2891",
@@ -28227,7 +28330,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-johnson-lucas-middleton",
@@ -28245,7 +28349,9 @@
                 "city": "Eugene",
                 "address": "975 Oak Street",
                 "address2": "Suite 1050",
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-622-0933",
@@ -28290,7 +28396,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fischer-family-law-pc",
@@ -28308,7 +28415,9 @@
                 "city": "Lake Oswego",
                 "address": "385 1st Street",
                 "address2": "Suite 221",
-                "zip": "97034"
+                "zip": "97034",
+                "lat": 45.4108,
+                "lng": -122.6795
             },
             "contact": {
                 "phone": "503-635-3548",
@@ -28334,7 +28443,8 @@
             "official_practice_area": [
                 "Education",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dubois-law-group-pdx-injury-law",
@@ -28352,7 +28462,9 @@
                 "city": "Portland",
                 "address": "1553 SE Tolman Street",
                 "address2": null,
-                "zip": "97202"
+                "zip": "97202",
+                "lat": 45.4803,
+                "lng": -122.6451
             },
             "contact": {
                 "phone": "503-222-4411",
@@ -28377,7 +28489,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "martin-elliott-snell-p-c",
@@ -28395,7 +28508,9 @@
                 "city": "Tualatin",
                 "address": "7070 SW Nyberg Street",
                 "address2": "Suite B, P.O. Box 575",
-                "zip": "97062"
+                "zip": "97062",
+                "lat": 45.3653,
+                "lng": -122.7602
             },
             "contact": {
                 "phone": "503-868-5057",
@@ -28439,7 +28554,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-laura-a-fine-p-c",
@@ -28457,7 +28573,9 @@
                 "city": "Veneta",
                 "address": "PO Box 1240",
                 "address2": null,
-                "zip": "97487"
+                "zip": "97487",
+                "lat": 43.9592,
+                "lng": -123.4444
             },
             "contact": {
                 "phone": "541-930-7506",
@@ -28478,7 +28596,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wright-van-handel-llp",
@@ -28496,7 +28615,9 @@
                 "city": "Bend",
                 "address": "1222 NE 4th St.",
                 "address2": null,
-                "zip": "97701"
+                "zip": "97701",
+                "lat": 44.0868,
+                "lng": -121.2574
             },
             "contact": {
                 "phone": "541-638-9473",
@@ -28521,7 +28642,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charles-vincent-associates",
@@ -28539,7 +28661,9 @@
                 "city": "Eugene",
                 "address": "1200 Executive Parkway",
                 "address2": "Suite 310",
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-500-6188",
@@ -28567,6 +28691,17 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Coos Bay",
+                    "state": "OR",
+                    "zip": "97420",
+                    "address": "590 Commercial Avenue",
+                    "phone": "541-888-9071",
+                    "lat": 43.3596,
+                    "lng": -124.1316
+                }
             ]
         },
         {
@@ -28585,7 +28720,9 @@
                 "city": "Portland",
                 "address": "111 SW 5th Ave.",
                 "address2": "Suite 3150",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": null,
@@ -28598,7 +28735,8 @@
             "attorneys": [
                 "Michael Fuller"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "southern-oregon-family-law-llc",
@@ -28616,7 +28754,9 @@
                 "city": "Medford",
                 "address": "1609 East Barnett Road",
                 "address2": null,
-                "zip": "97504"
+                "zip": "97504",
+                "lat": 42.3228,
+                "lng": -122.7934
             },
             "contact": {
                 "phone": "541-837-1465",
@@ -28659,7 +28799,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shelley-l-fuller-pc",
@@ -28677,7 +28818,9 @@
                 "city": "Beaverton",
                 "address": "4800 SW Griffith Drive",
                 "address2": "Suite 135",
-                "zip": "97005"
+                "zip": "97005",
+                "lat": 45.4965,
+                "lng": -122.7999
             },
             "contact": {
                 "phone": "866-951-4133",
@@ -28714,7 +28857,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kjglaw-p-c",
@@ -28732,7 +28876,9 @@
                 "city": "Medford",
                 "address": "132 West Main Street",
                 "address2": "Ste. 201-A",
-                "zip": "97501"
+                "zip": "97501",
+                "lat": 42.2569,
+                "lng": -122.8968
             },
             "contact": {
                 "phone": "541-215-4377",
@@ -28758,7 +28904,8 @@
                 "Family Law",
                 "Land Use and Zoning",
                 "Natural Resources"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "graves-swanson-llc",
@@ -28776,7 +28923,9 @@
                 "city": "Portland",
                 "address": "3630 S River Parkway",
                 "address2": null,
-                "zip": "97239"
+                "zip": "97239",
+                "lat": 45.488,
+                "lng": -122.6927
             },
             "contact": {
                 "phone": "503-208-6961",
@@ -28807,7 +28956,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-e-gutbezahl-llc",
@@ -28825,7 +28975,9 @@
                 "city": "Lake Oswego",
                 "address": "5 Centerpointe Dr.",
                 "address2": "Suite 400",
-                "zip": "97035"
+                "zip": "97035",
+                "lat": 45.4114,
+                "lng": -122.7241
             },
             "contact": {
                 "phone": "503-926-7891",
@@ -28847,7 +28999,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-law-p-c",
@@ -28865,7 +29018,9 @@
                 "city": "Hillsboro",
                 "address": "1323 NE Orenco Station Pkwy",
                 "address2": "#210",
-                "zip": "97124"
+                "zip": "97124",
+                "lat": 45.5905,
+                "lng": -122.9561
             },
             "contact": {
                 "phone": "971-900-4990",
@@ -28888,6 +29043,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97201",
+                    "address": "521 SW Clay Street, Suite 209",
+                    "phone": "971-900-4990",
+                    "lat": 45.5074,
+                    "lng": -122.6898
+                },
+                {
+                    "city": "Vancouver",
+                    "state": "WA",
+                    "zip": "98684",
+                    "address": "1004 NE 112th Ave., Suite #1",
+                    "phone": "971-900-4990",
+                    "lat": 45.6297,
+                    "lng": -122.51
+                }
             ]
         },
         {
@@ -28906,7 +29081,9 @@
                 "city": "Tualatin",
                 "address": "8215 SW Tualatin-Sherwood Road",
                 "address2": null,
-                "zip": "97062"
+                "zip": "97062",
+                "lat": 45.3653,
+                "lng": -122.7602
             },
             "contact": {
                 "phone": "503-983-7200",
@@ -28946,7 +29123,8 @@
                 "Military Divorce",
                 "Real Estate",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wealthestate-law",
@@ -28964,7 +29142,9 @@
                 "city": "Bend",
                 "address": "250 NW Franklin Ave.",
                 "address2": null,
-                "zip": "97701"
+                "zip": "97701",
+                "lat": 44.0868,
+                "lng": -121.2574
             },
             "contact": {
                 "phone": "541-646-7010",
@@ -28985,7 +29165,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hill-law-office",
@@ -29003,7 +29184,9 @@
                 "city": "Pendleton",
                 "address": "Sierra Professional Building",
                 "address2": "310 SE Second St, Ste 200, PO Box 339",
-                "zip": "97801"
+                "zip": "97801",
+                "lat": 45.6172,
+                "lng": -118.7409
             },
             "contact": {
                 "phone": "541-215-4092",
@@ -29025,7 +29208,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hirshon-lerner-hutchinson",
@@ -29043,7 +29227,9 @@
                 "city": "Portland",
                 "address": "919 SW Taylor St",
                 "address2": "Suite 250",
-                "zip": "97205"
+                "zip": "97205",
+                "lat": 45.5155,
+                "lng": -122.6988
             },
             "contact": {
                 "phone": null,
@@ -29059,7 +29245,8 @@
                 "David B. Hutchinson",
                 "Lauren Butz"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-judy-snyder",
@@ -29077,7 +29264,9 @@
                 "city": "Lake Oswego",
                 "address": "4248 Galewood Street",
                 "address2": null,
-                "zip": "97035"
+                "zip": "97035",
+                "lat": 45.4114,
+                "lng": -122.7241
             },
             "contact": {
                 "phone": "503-926-8162",
@@ -29119,7 +29308,8 @@
                 "Professional Malpractice",
                 "Wrongful Death",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-robert-a-miller",
@@ -29137,7 +29327,9 @@
                 "city": "Eugene",
                 "address": "2260 Oakmont Way",
                 "address2": "Suite 7",
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-500-3343",
@@ -29164,7 +29356,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "arneson-stewart-styarfyr-pc",
@@ -29182,7 +29375,9 @@
                 "city": "Roseburg",
                 "address": "318 S.E. Jackson Street",
                 "address2": null,
-                "zip": "97470"
+                "zip": "97470",
+                "lat": 43.2352,
+                "lng": -123.4159
             },
             "contact": {
                 "phone": "866-977-1385",
@@ -29219,7 +29414,8 @@
                 "DUI and DWI",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jacobson-thierolf-dickey-p-c",
@@ -29237,7 +29433,9 @@
                 "city": "Medford",
                 "address": "2 North Oakdale Avenue",
                 "address2": "P.O. Box 4687",
-                "zip": "97501"
+                "zip": "97501",
+                "lat": 42.2569,
+                "lng": -122.8968
             },
             "contact": {
                 "phone": "541-773-2727",
@@ -29262,7 +29460,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jensen-leiberan-attorneys-at-law",
@@ -29280,7 +29479,9 @@
                 "city": "Portland",
                 "address": "One Lincoln Center",
                 "address2": "10300 SW Greenburg Road, Suite 300",
-                "zip": "97223"
+                "zip": "97223",
+                "lat": 45.4469,
+                "lng": -122.7956
             },
             "contact": {
                 "phone": "503-641-7990",
@@ -29301,7 +29502,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-taylor",
@@ -29319,7 +29521,9 @@
                 "city": "Salem",
                 "address": "1193 Liberty St SE",
                 "address2": null,
-                "zip": "97302"
+                "zip": "97302",
+                "lat": 44.9032,
+                "lng": -123.0665
             },
             "contact": {
                 "phone": "971-200-1774",
@@ -29357,7 +29561,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-alexander-m-jones",
@@ -29375,7 +29580,9 @@
                 "city": "Salem",
                 "address": "117 Commercial St NE",
                 "address2": "Suite 280",
-                "zip": "97301"
+                "zip": "97301",
+                "lat": 44.9586,
+                "lng": -123.0026
             },
             "contact": {
                 "phone": "503-798-9795",
@@ -29394,7 +29601,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kelly-d-jones-attorney-at-law",
@@ -29412,7 +29620,9 @@
                 "city": "Portland",
                 "address": "819 SE Morrison St.",
                 "address2": "Suite 255",
-                "zip": "97214"
+                "zip": "97214",
+                "lat": 45.5139,
+                "lng": -122.6441
             },
             "contact": {
                 "phone": "503-847-4329",
@@ -29439,7 +29649,8 @@
                 "Class Actions",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jared-justice-attorney-at-law-p-c",
@@ -29457,7 +29668,9 @@
                 "city": "Oregon City",
                 "address": "409 Center St.",
                 "address2": null,
-                "zip": "97045"
+                "zip": "97045",
+                "lat": 45.3236,
+                "lng": -122.5232
             },
             "contact": {
                 "phone": "503-722-3981",
@@ -29494,6 +29707,17 @@
                 "Drug Crime",
                 "Family Law",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lake Oswego",
+                    "state": "OR",
+                    "zip": "97035",
+                    "address": "5200 Meadows Road, Suite 150",
+                    "phone": "503-722-3981",
+                    "lat": 45.4114,
+                    "lng": -122.7241
+                }
             ]
         },
         {
@@ -29512,7 +29736,9 @@
                 "city": "Lake Oswego",
                 "address": "5200 Meadows Rd",
                 "address2": "Suite 150",
-                "zip": "97035"
+                "zip": "97035",
+                "lat": 45.4114,
+                "lng": -122.7241
             },
             "contact": {
                 "phone": "503-974-7325",
@@ -29535,7 +29761,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "high-desert-law",
@@ -29553,7 +29780,9 @@
                 "city": "Bend",
                 "address": "716 NW Harriman Street",
                 "address2": null,
-                "zip": "97703"
+                "zip": "97703",
+                "lat": 44.0636,
+                "lng": -121.5256
             },
             "contact": {
                 "phone": "541-306-6553",
@@ -29605,7 +29834,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnston-law-firm-p-c",
@@ -29623,7 +29853,9 @@
                 "city": "Portland",
                 "address": "200 SW Market St",
                 "address2": "Suite 1900",
-                "zip": "97201"
+                "zip": "97201",
+                "lat": 45.5074,
+                "lng": -122.6898
             },
             "contact": {
                 "phone": "971-634-9825",
@@ -29663,7 +29895,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "levine-mchenry-llc",
@@ -29681,7 +29914,9 @@
                 "city": "Portland",
                 "address": "1050 SW 6th Ave",
                 "address2": "Suite 1414",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": "503-963-7916",
@@ -29721,7 +29956,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "motivate-law-llc",
@@ -29739,7 +29975,9 @@
                 "city": "Lake Oswego",
                 "address": "4800 Meadows Rd",
                 "address2": "Ste 300",
-                "zip": "97035"
+                "zip": "97035",
+                "lat": 45.4114,
+                "lng": -122.7241
             },
             "contact": {
                 "phone": "503-446-2667",
@@ -29777,7 +30015,8 @@
                 "Mergers and Acquisitions",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daniel-j-lounsbury-attorney-at-law-willamette-valley-legal",
@@ -29795,7 +30034,9 @@
                 "city": "Salem",
                 "address": "1585 Liberty St SE",
                 "address2": null,
-                "zip": "97302"
+                "zip": "97302",
+                "lat": 44.9032,
+                "lng": -123.0665
             },
             "contact": {
                 "phone": "503-983-7435",
@@ -29838,7 +30079,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-j-clay-mccaslin",
@@ -29856,7 +30098,9 @@
                 "city": "Portland",
                 "address": "50 SW Pine Street",
                 "address2": "Suite 401",
-                "zip": "97204"
+                "zip": "97204",
+                "lat": 45.5182,
+                "lng": -122.6742
             },
             "contact": {
                 "phone": "503-388-3395",
@@ -29880,7 +30124,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-david-m-mitchell-llc",
@@ -29898,7 +30143,9 @@
                 "city": "West Linn",
                 "address": "1785 Willamette Fls. Drive",
                 "address2": "Suite 2",
-                "zip": "97068"
+                "zip": "97068",
+                "lat": 45.3412,
+                "lng": -122.6624
             },
             "contact": {
                 "phone": "503-342-2389",
@@ -29926,7 +30173,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilroy-napoli-short-law-group-llc",
@@ -29944,7 +30192,9 @@
                 "city": "Salem",
                 "address": "530 Center Street NE",
                 "address2": "Suite 722",
-                "zip": "97301"
+                "zip": "97301",
+                "lat": 44.9586,
+                "lng": -123.0026
             },
             "contact": {
                 "phone": "971-245-2333",
@@ -29993,6 +30243,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Sexual Harassment"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97223",
+                    "address": "12755 SW 69th Avenue, Suite 200",
+                    "phone": "(503) 747-7198",
+                    "lat": 45.4469,
+                    "lng": -122.7956
+                }
             ]
         },
         {
@@ -30011,7 +30272,9 @@
                 "city": "Portland",
                 "address": "425 NW 10th Avenue",
                 "address2": "Suite 200",
-                "zip": "97209"
+                "zip": "97209",
+                "lat": 45.5335,
+                "lng": -122.6815
             },
             "contact": {
                 "phone": "503-417-7777",
@@ -30040,7 +30303,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "oliveros-law-group-pc",
@@ -30058,7 +30322,9 @@
                 "city": "Clackamas",
                 "address": "9200 S.E. Sunnybrook Blvd.",
                 "address2": "Suite 335",
-                "zip": "97015"
+                "zip": "97015",
+                "lat": 45.4114,
+                "lng": -122.5273
             },
             "contact": {
                 "phone": "503-446-4596",
@@ -30082,7 +30348,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pawlick-law-llc",
@@ -30100,7 +30367,9 @@
                 "city": "Salem",
                 "address": "223 Commercial Street NE",
                 "address2": "Suite 208",
-                "zip": "97301"
+                "zip": "97301",
+                "lat": 44.9586,
+                "lng": -123.0026
             },
             "contact": {
                 "phone": "971-917-3117",
@@ -30124,7 +30393,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peton-law",
@@ -30142,7 +30412,9 @@
                 "city": "Keizer",
                 "address": "711 Chemawa Rd NE",
                 "address2": null,
-                "zip": "97303"
+                "zip": "97303",
+                "lat": 45.0261,
+                "lng": -123.0175
             },
             "contact": {
                 "phone": "971-501-5484",
@@ -30175,7 +30447,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kerr-contractors-oregon-inc",
@@ -30193,7 +30466,9 @@
                 "city": "Woodburn",
                 "address": "395 Shenandoah Ln NE",
                 "address2": null,
-                "zip": "97071"
+                "zip": "97071",
+                "lat": 45.1406,
+                "lng": -122.8443
             },
             "contact": {
                 "phone": null,
@@ -30206,7 +30481,8 @@
             "attorneys": [
                 "Jason M. Pistacchio"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "owens-sneller-pinzelik-and-wood-pc",
@@ -30224,7 +30500,9 @@
                 "city": "Portland",
                 "address": "4380 SW Macadam Avenue",
                 "address2": "Suite 590",
-                "zip": "97239"
+                "zip": "97239",
+                "lat": 45.488,
+                "lng": -122.6927
             },
             "contact": {
                 "phone": "503-224-3100",
@@ -30246,6 +30524,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97215",
+                    "address": "Stark Building, 7831 SE Stark Street, Suite 208",
+                    "phone": "(503) 224-3100",
+                    "lat": 45.514,
+                    "lng": -122.5994
+                }
             ]
         },
         {
@@ -30264,7 +30553,9 @@
                 "city": "Tualatin",
                 "address": "8215 SW Tualatin-Sherwood Rd.",
                 "address2": "Suite 200",
-                "zip": "97062"
+                "zip": "97062",
+                "lat": 45.3653,
+                "lng": -122.7602
             },
             "contact": {
                 "phone": "503-505-0506",
@@ -30290,7 +30581,8 @@
                 "Litigation and Appeals",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-anna-p-sammons",
@@ -30308,7 +30600,9 @@
                 "city": "Eugene",
                 "address": "618 Lincoln St.",
                 "address2": null,
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "541-603-9518",
@@ -30332,7 +30626,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schoenfeld-schoenfeld-p-c",
@@ -30350,7 +30645,9 @@
                 "city": "Hood River",
                 "address": "212 Front Street",
                 "address2": null,
-                "zip": "97031"
+                "zip": "97031",
+                "lat": 45.5636,
+                "lng": -121.66
             },
             "contact": {
                 "phone": "503-926-8482",
@@ -30377,7 +30674,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-l-sepp-attorney-at-law",
@@ -30395,7 +30693,9 @@
                 "city": "West Linn",
                 "address": "1830 Blankenship Road",
                 "address2": "Ste. 240",
-                "zip": "97068"
+                "zip": "97068",
+                "lat": 45.3412,
+                "lng": -122.6624
             },
             "contact": {
                 "phone": "503-388-5382",
@@ -30421,7 +30721,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shimada-law",
@@ -30439,7 +30740,9 @@
                 "city": "Beaverton",
                 "address": "12725 SW Millikan Way",
                 "address2": "Suite 300",
-                "zip": "97005"
+                "zip": "97005",
+                "lat": 45.4965,
+                "lng": -122.7999
             },
             "contact": {
                 "phone": "503-863-2732",
@@ -30463,6 +30766,17 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oregon City",
+                    "state": "OR",
+                    "zip": "97045",
+                    "address": "516 High St.",
+                    "phone": "+15039837818",
+                    "lat": 45.3236,
+                    "lng": -122.5232
+                }
             ]
         },
         {
@@ -30481,7 +30795,9 @@
                 "city": "West Linn",
                 "address": "1754 Willamette Falls Drive",
                 "address2": null,
-                "zip": "97068"
+                "zip": "97068",
+                "lat": 45.3412,
+                "lng": -122.6624
             },
             "contact": {
                 "phone": "971-277-4047",
@@ -30516,7 +30832,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ringo-stuber-ensor-hadlock-smith-p-c",
@@ -30534,7 +30851,9 @@
                 "city": "Corvallis",
                 "address": "605 S.W. Jefferson Avenue",
                 "address2": null,
-                "zip": "97333"
+                "zip": "97333",
+                "lat": 44.4751,
+                "lng": -123.3291
             },
             "contact": {
                 "phone": "888-437-2950",
@@ -30554,7 +30873,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kevin-d-swartz-attorney-at-law-llc",
@@ -30572,7 +30892,9 @@
                 "city": "Salem",
                 "address": "110 Madrona Ave SE",
                 "address2": null,
-                "zip": "97302"
+                "zip": "97302",
+                "lat": 44.9032,
+                "lng": -123.0665
             },
             "contact": {
                 "phone": "971-319-2449",
@@ -30591,7 +30913,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-brian-m-thompson",
@@ -30609,7 +30932,9 @@
                 "city": "Eugene",
                 "address": "1200 Executive Parkway",
                 "address2": "Suite 110",
-                "zip": "97401"
+                "zip": "97401",
+                "lat": 44.0672,
+                "lng": -123.0827
             },
             "contact": {
                 "phone": "877-439-0479",
@@ -30633,7 +30958,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weimar-law-offices",
@@ -30651,7 +30977,9 @@
                 "city": "Beaverton",
                 "address": "16100 NW Cornell Road",
                 "address2": "Suite 240",
-                "zip": "97006"
+                "zip": "97006",
+                "lat": 45.5222,
+                "lng": -122.8592
             },
             "contact": {
                 "phone": "503-597-0091",
@@ -30672,7 +31000,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "evergreen-law-group-llc",
@@ -30690,7 +31019,9 @@
                 "city": "Ashland",
                 "address": "542 Washington Street",
                 "address2": "#103",
-                "zip": "97520"
+                "zip": "97520",
+                "lat": 42.2003,
+                "lng": -122.6382
             },
             "contact": {
                 "phone": "541-646-7636",
@@ -30719,7 +31050,8 @@
                 "Business and Commercial Law",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

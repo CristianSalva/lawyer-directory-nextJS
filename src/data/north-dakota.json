@@ -14977,7 +14977,9 @@
                 "city": "Fargo",
                 "address": "3431 4th Ave S",
                 "address2": "Ste 201",
-                "zip": "58103"
+                "zip": "58103",
+                "lat": 46.8547,
+                "lng": -96.8231
             },
             "contact": {
                 "phone": "701-353-7944",
@@ -15001,7 +15003,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "einarson-law-office-pc",
@@ -15019,7 +15022,9 @@
                 "city": "Grafton",
                 "address": "640 Hill Ave.",
                 "address2": null,
-                "zip": "58237"
+                "zip": "58237",
+                "lat": 48.3979,
+                "lng": -97.3831
             },
             "contact": {
                 "phone": "701-352-9311",
@@ -15048,7 +15053,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sand-law-pllc",
@@ -15066,7 +15072,9 @@
                 "city": "Minot",
                 "address": "24 Main St N Suite J",
                 "address2": null,
-                "zip": "58703"
+                "zip": "58703",
+                "lat": 48.3058,
+                "lng": -101.311
             },
             "contact": {
                 "phone": "701-609-1510",
@@ -15101,6 +15109,44 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Watford City",
+                    "state": "ND",
+                    "zip": "58854",
+                    "address": "340 Main St. N, Suite 209",
+                    "phone": "701-203-1721",
+                    "lat": 47.8537,
+                    "lng": -103.1632
+                },
+                {
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "zip": "55145",
+                    "address": "400 S 4th St, Suite 401-217",
+                    "phone": "651-291-7263",
+                    "lat": 44.9445,
+                    "lng": -93.0932
+                },
+                {
+                    "city": "McKinney",
+                    "state": "TX",
+                    "zip": "75071",
+                    "address": "6951 Virginia Pkwy, Suite 213",
+                    "phone": "651-291-7263",
+                    "lat": 33.2552,
+                    "lng": -96.6228
+                },
+                {
+                    "city": "Matthews",
+                    "state": "NC",
+                    "zip": "28105",
+                    "address": "1031 Matthews-Mint Hill Rd",
+                    "phone": "651-291-7263",
+                    "lat": 35.1104,
+                    "lng": -80.709
+                }
             ]
         },
         {
@@ -15119,7 +15165,9 @@
                 "city": "Fargo",
                 "address": "1712 Main Avenue",
                 "address2": "Suite 202 (east entrance)",
-                "zip": "58103"
+                "zip": "58103",
+                "lat": 46.8547,
+                "lng": -96.8231
             },
             "contact": {
                 "phone": "701-297-2501",
@@ -15147,7 +15195,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "conmy-feste-ltd",
@@ -15165,7 +15214,9 @@
                 "city": "Fargo",
                 "address": "3369 45th Street South",
                 "address2": null,
-                "zip": "58104"
+                "zip": "58104",
+                "lat": 46.7967,
+                "lng": -96.8827
             },
             "contact": {
                 "phone": "701-353-0454",
@@ -15193,7 +15244,8 @@
                 "Jack B. Blotsky",
                 "Rachel  B. Stallman"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "bolinske-law-firm",
@@ -15211,7 +15263,9 @@
                 "city": "Bismarck",
                 "address": "1400 43rd Ave NE",
                 "address2": "Ste 220",
-                "zip": "58503"
+                "zip": "58503",
+                "lat": 46.9105,
+                "lng": -100.76
             },
             "contact": {
                 "phone": "701-516-8105",
@@ -15236,7 +15290,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nilson-brand-law",
@@ -15254,7 +15309,9 @@
                 "city": "Fargo",
                 "address": "5141 44th St. S",
                 "address2": null,
-                "zip": "58104"
+                "zip": "58104",
+                "lat": 46.7967,
+                "lng": -96.8827
             },
             "contact": {
                 "phone": "701-581-5854",
@@ -15298,6 +15355,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mayville",
+                    "state": "ND",
+                    "zip": "58257",
+                    "address": "36 Main St W",
+                    "phone": "+17015813849",
+                    "lat": 47.4979,
+                    "lng": -97.2831
+                }
             ]
         },
         {
@@ -15316,7 +15384,9 @@
                 "city": "Fargo",
                 "address": "4201 38th St SW",
                 "address2": "Suite 105",
-                "zip": "58104"
+                "zip": "58104",
+                "lat": 46.7967,
+                "lng": -96.8827
             },
             "contact": {
                 "phone": "701-581-2995",
@@ -15339,7 +15409,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burckhard-law-pllc",
@@ -15357,7 +15428,9 @@
                 "city": "Minot",
                 "address": "7 3rd Street SE",
                 "address2": "Unit 110",
-                "zip": "58701"
+                "zip": "58701",
+                "lat": 48.0871,
+                "lng": -101.3179
             },
             "contact": {
                 "phone": "701-581-1678",
@@ -15383,7 +15456,8 @@
                 "Criminal Defense",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bulie-law-office",
@@ -15401,7 +15475,9 @@
                 "city": "Grand Forks",
                 "address": "305 S. 4th Street",
                 "address2": "Suite A",
-                "zip": "58201"
+                "zip": "58201",
+                "lat": 47.8722,
+                "lng": -97.1226
             },
             "contact": {
                 "phone": "701-800-2685",
@@ -15424,6 +15500,26 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fargo",
+                    "state": "ND",
+                    "zip": "58103",
+                    "address": "3523 45th St. S., Suite 102",
+                    "phone": "701-800-2685",
+                    "lat": 46.8547,
+                    "lng": -96.8231
+                },
+                {
+                    "city": "Winona",
+                    "state": "MN",
+                    "zip": "55987",
+                    "address": "50 West 2nd Street, Ste. 102",
+                    "phone": "701-800-2685",
+                    "lat": 43.9881,
+                    "lng": -91.6029
+                }
             ]
         },
         {
@@ -15442,7 +15538,9 @@
                 "city": "West Fargo",
                 "address": "3155 Bluestem Drive",
                 "address2": "#388",
-                "zip": "58078"
+                "zip": "58078",
+                "lat": 46.8699,
+                "lng": -96.9363
             },
             "contact": {
                 "phone": "701-232-5899",
@@ -15474,7 +15572,8 @@
                 "Litigation and Appeals",
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reichert-law-office",
@@ -15492,7 +15591,9 @@
                 "city": "Grand Forks",
                 "address": "118 Belmont Rd",
                 "address2": null,
-                "zip": "58201"
+                "zip": "58201",
+                "lat": 47.8722,
+                "lng": -97.1226
             },
             "contact": {
                 "phone": "701-353-1525",
@@ -15539,7 +15640,8 @@
                 "Sex Crime",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gjesdahl-law-p-c",
@@ -15557,7 +15659,9 @@
                 "city": "Fargo",
                 "address": "1375 21st Ave. N.",
                 "address2": null,
-                "zip": "58102"
+                "zip": "58102",
+                "lat": 46.9258,
+                "lng": -96.8289
             },
             "contact": {
                 "phone": "701-237-3009",
@@ -15612,7 +15716,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "curran-law-firm",
@@ -15630,7 +15735,9 @@
                 "city": "Grand Forks",
                 "address": "106 N 3rd Street",
                 "address2": "Suite 60",
-                "zip": "58203"
+                "zip": "58203",
+                "lat": 47.9871,
+                "lng": -97.1452
             },
             "contact": {
                 "phone": "701-746-9175",
@@ -15652,7 +15759,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "neff-law-p-c",
@@ -15670,7 +15778,9 @@
                 "city": "Williston",
                 "address": "111 E Broadway",
                 "address2": "Unit 1",
-                "zip": "58801"
+                "zip": "58801",
+                "lat": 48.2091,
+                "lng": -103.6612
             },
             "contact": {
                 "phone": "701-577-2000",
@@ -15699,7 +15809,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "demakis-law-pllc",
@@ -15717,7 +15828,9 @@
                 "city": "Minot",
                 "address": "1408 20th Ave SW, Suite 11",
                 "address2": "PO Box 1748",
-                "zip": "58701"
+                "zip": "58701",
+                "lat": 48.0871,
+                "lng": -101.3179
             },
             "contact": {
                 "phone": "701-800-2541",
@@ -15748,7 +15861,8 @@
                 "Oil Gas and Energy",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-fintan-l-dooley",
@@ -15766,7 +15880,9 @@
                 "city": "Bismarck",
                 "address": "140 Riverside Park Rd.",
                 "address2": null,
-                "zip": "58504"
+                "zip": "58504",
+                "lat": 46.7114,
+                "lng": -100.6494
             },
             "contact": {
                 "phone": "414-731-0520",
@@ -15788,7 +15904,8 @@
             ],
             "official_practice_area": [
                 "Civil Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "furuseth-olson-evert-p-c",
@@ -15806,7 +15923,9 @@
                 "city": "Williston",
                 "address": "107 Main Street",
                 "address2": "PO Box 417",
-                "zip": "58802"
+                "zip": "58802",
+                "lat": 48.1335,
+                "lng": -103.6335
             },
             "contact": {
                 "phone": "701-581-2232",
@@ -15839,7 +15958,8 @@
                 "Oil Gas and Energy",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goetz-fischer-llp",
@@ -15857,7 +15977,9 @@
                 "city": "Bismarck",
                 "address": "1400 43rd Ave NE",
                 "address2": "Suite 220",
-                "zip": "58503"
+                "zip": "58503",
+                "lat": 46.9105,
+                "lng": -100.76
             },
             "contact": {
                 "phone": "701-581-0917",
@@ -15885,7 +16007,8 @@
                 "Criminal Defense",
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kennelly-business-law",
@@ -15903,7 +16026,9 @@
                 "city": "Fargo",
                 "address": "1213 NP Ave",
                 "address2": "Suite 301",
-                "zip": "58102"
+                "zip": "58102",
+                "lat": 46.9258,
+                "lng": -96.8289
             },
             "contact": {
                 "phone": "701-581-3499",
@@ -15925,6 +16050,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Valley City",
+                    "state": "ND",
+                    "zip": "58072",
+                    "address": "253 Central Ave NE",
+                    "phone": "+17014917245",
+                    "lat": 46.9424,
+                    "lng": -98.0078
+                }
             ]
         },
         {
@@ -15943,7 +16079,9 @@
                 "city": "Grand Forks",
                 "address": "405 Bruce Avenue",
                 "address2": "Suite 100",
-                "zip": "58201"
+                "zip": "58201",
+                "lat": 47.8722,
+                "lng": -97.1226
             },
             "contact": {
                 "phone": "701-581-2247",
@@ -15968,7 +16106,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hanson-moen-law-pllc",
@@ -15986,7 +16125,9 @@
                 "city": "Fargo",
                 "address": "4072 53rd Ave S.",
                 "address2": null,
-                "zip": "58104"
+                "zip": "58104",
+                "lat": 46.7967,
+                "lng": -96.8827
             },
             "contact": {
                 "phone": "701-581-1983",
@@ -16009,7 +16150,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "knoll-leibel-llp",
@@ -16027,7 +16169,9 @@
                 "city": "Bismarck",
                 "address": "1915 N Kavaney Dr",
                 "address2": "#3",
-                "zip": "58501"
+                "zip": "58501",
+                "lat": 46.8225,
+                "lng": -100.719
             },
             "contact": {
                 "phone": "701-581-2587",
@@ -16061,7 +16205,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reitan-law-office-pllc",
@@ -16079,7 +16224,9 @@
                 "city": "Fargo",
                 "address": "Railyard Offices Building, PMB 29",
                 "address2": "1630 1st Ave. N., Ste B",
-                "zip": "58102"
+                "zip": "58102",
+                "lat": 46.9258,
+                "lng": -96.8289
             },
             "contact": {
                 "phone": "952-299-0741",
@@ -16104,6 +16251,17 @@
                 "Personal Injury",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chaska",
+                    "state": "MN",
+                    "zip": "55318",
+                    "address": "Grandview Office Park, 1454 White Oak Drive",
+                    "phone": "+19526419304",
+                    "lat": 44.8099,
+                    "lng": -93.6249
+                }
             ]
         },
         {
@@ -16122,7 +16280,9 @@
                 "city": "Minot",
                 "address": "1020 North Broadway",
                 "address2": null,
-                "zip": "58703"
+                "zip": "58703",
+                "lat": 48.3058,
+                "lng": -101.311
             },
             "contact": {
                 "phone": "800-660-5403",
@@ -16158,6 +16318,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bismarck",
+                    "state": "ND",
+                    "zip": "58503",
+                    "address": "3801 Lockport Street, Suite 2",
+                    "phone": "800-660-5403",
+                    "lat": 46.9105,
+                    "lng": -100.76
+                }
             ]
         },
         {
@@ -16176,7 +16347,9 @@
                 "city": "West Fargo",
                 "address": "730 13th Ave E.",
                 "address2": null,
-                "zip": "58078"
+                "zip": "58078",
+                "lat": 46.8699,
+                "lng": -96.9363
             },
             "contact": {
                 "phone": "701-581-3304",
@@ -16201,7 +16374,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "liedman-law-pllc",
@@ -16219,7 +16393,9 @@
                 "city": "Fargo",
                 "address": "3120 15th Street South",
                 "address2": "Unit 3",
-                "zip": "58103"
+                "zip": "58103",
+                "lat": 46.8547,
+                "lng": -96.8231
             },
             "contact": {
                 "phone": "701-552-7937",
@@ -16264,7 +16440,8 @@
                 "Family Law",
                 "Probate",
                 "Science and Technology Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "solberg-stewart-miller",
@@ -16282,7 +16459,9 @@
                 "city": "Fargo",
                 "address": "1123 Fifth Avenue South",
                 "address2": null,
-                "zip": "58103"
+                "zip": "58103",
+                "lat": 46.8547,
+                "lng": -96.8231
             },
             "contact": {
                 "phone": "701-581-2098",
@@ -16313,7 +16492,8 @@
                 "Car Accidents",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nyhus-law-firm",
@@ -16331,7 +16511,9 @@
                 "city": "Bismarck",
                 "address": "515 E Broadway Ave 1/2 Suite 101",
                 "address2": null,
-                "zip": "58501"
+                "zip": "58501",
+                "lat": 46.8225,
+                "lng": -100.719
             },
             "contact": {
                 "phone": "701-751-2262",
@@ -16362,6 +16544,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Harvey",
+                    "state": "ND",
+                    "zip": "58341",
+                    "address": "708 Lincoln Avenue",
+                    "phone": "701-829-2019",
+                    "lat": 47.7845,
+                    "lng": -99.7476
+                }
             ]
         },
         {
@@ -16380,7 +16573,9 @@
                 "city": "Fargo",
                 "address": "1630 1st Ave N",
                 "address2": "Suite B #109",
-                "zip": "58102"
+                "zip": "58102",
+                "lat": 46.9258,
+                "lng": -96.8289
             },
             "contact": {
                 "phone": "701-353-0989",
@@ -16412,7 +16607,8 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weikum-injury-law",
@@ -16430,7 +16626,9 @@
                 "city": "Bismarck",
                 "address": "2000 Schafer St",
                 "address2": "Suite C",
-                "zip": "58501"
+                "zip": "58501",
+                "lat": 46.8225,
+                "lng": -100.719
             },
             "contact": {
                 "phone": "701-354-2702",
@@ -16459,7 +16657,8 @@
                 "Oil Gas and Energy",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilking-law-firm",
@@ -16477,7 +16676,9 @@
                 "city": "Fargo",
                 "address": "3003 32nd Avenue S.",
                 "address2": "Suite 240",
-                "zip": "58103"
+                "zip": "58103",
+                "lat": 46.8547,
+                "lng": -96.8231
             },
             "contact": {
                 "phone": "701-297-2296",
@@ -16500,7 +16701,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "yunker-law",
@@ -16518,7 +16720,9 @@
                 "city": "Devils Lake",
                 "address": "424 5th St NE",
                 "address2": "Suite 203, PO Box 152",
-                "zip": "58301"
+                "zip": "58301",
+                "lat": 48.1625,
+                "lng": -98.8897
             },
             "contact": {
                 "phone": "701-581-0669",
@@ -16568,7 +16772,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

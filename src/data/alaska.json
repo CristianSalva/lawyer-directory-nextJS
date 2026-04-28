@@ -9762,7 +9762,9 @@
                 "city": "Anchorage",
                 "address": "1049 W. 5th Ave.",
                 "address2": "Suite 100",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-519-0668",
@@ -9823,7 +9825,8 @@
                 "State Local and Municipal Law",
                 "Tax Law",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flanigan-bataille",
@@ -9841,7 +9844,9 @@
                 "city": "Anchorage",
                 "address": "1007 West 3rd Avenue",
                 "address2": "Suite 206",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-279-9999",
@@ -9863,7 +9868,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "trueb-berne-beard-llp",
@@ -9881,7 +9887,9 @@
                 "city": "Anchorage",
                 "address": "330 L St.",
                 "address2": "Suite 101",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-802-4559",
@@ -9905,6 +9913,26 @@
             "official_practice_area": [
                 "Admiralty and Maritime",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98101",
+                    "address": "1700 Seventh Ave., Suite 2100",
+                    "phone": "907-802-4559",
+                    "lat": 47.611,
+                    "lng": -122.3335
+                },
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97204",
+                    "address": "209 SW Oak Street, Suite 500",
+                    "phone": "907-802-4559",
+                    "lat": 45.5182,
+                    "lng": -122.6742
+                }
             ]
         },
         {
@@ -9923,7 +9951,9 @@
                 "city": "Juneau",
                 "address": "9309 Glacier Highway",
                 "address2": "Suite A-201 Professional Plaza",
-                "zip": "99801"
+                "zip": "99801",
+                "lat": 58.3801,
+                "lng": -134.1775
             },
             "contact": {
                 "phone": "907-789-3166",
@@ -9964,7 +9994,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-guess-rudd-p-c",
@@ -9982,7 +10013,9 @@
                 "city": "Anchorage",
                 "address": "1029 W. 3rd Avenue",
                 "address2": "Suite 400",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-793-2200",
@@ -10014,7 +10047,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "clapp-peterson-tiemessen-thorsness",
@@ -10032,7 +10066,9 @@
                 "city": "Anchorage",
                 "address": "711 H Street",
                 "address2": "Suite 320",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-272-9272",
@@ -10066,6 +10102,17 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fairbanks",
+                    "state": "AK",
+                    "zip": "99701",
+                    "address": "411 Fourth Avenue, Suite 300",
+                    "phone": "907-479-7776",
+                    "lat": 64.5608,
+                    "lng": -147.6728
+                }
             ]
         },
         {
@@ -10084,7 +10131,9 @@
                 "city": "Anchorage",
                 "address": "845 F Street",
                 "address2": null,
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-276-8001",
@@ -10108,7 +10157,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "matthews-zahare-p-c",
@@ -10126,7 +10176,9 @@
                 "city": "Anchorage",
                 "address": "911 West 8th Ave.",
                 "address2": "Suite 400",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-276-1516",
@@ -10151,7 +10203,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kalamarides-lambert",
@@ -10169,7 +10222,9 @@
                 "city": "Anchorage",
                 "address": "750 W. 2nd Ave.",
                 "address2": "Suite 200",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-276-2135",
@@ -10191,7 +10246,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hozubin-moberly-associates",
@@ -10209,7 +10265,9 @@
                 "city": "Anchorage",
                 "address": "711 M Street",
                 "address2": "Suite 2",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-782-4728",
@@ -10231,7 +10289,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "libbey-law-offices-llc",
@@ -10249,7 +10308,9 @@
                 "city": "Anchorage",
                 "address": "604 West 2nd Avenue",
                 "address2": null,
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "907-268-4351",
@@ -10272,7 +10333,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-gregory-s-parvin",
@@ -10290,7 +10352,9 @@
                 "city": "Wasilla",
                 "address": "290 N. Willow St.",
                 "address2": null,
-                "zip": "99654"
+                "zip": "99654",
+                "lat": 61.4935,
+                "lng": -149.7675
             },
             "contact": {
                 "phone": "888-840-5371",
@@ -10314,7 +10378,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-herbert-m-pearce",
@@ -10332,7 +10397,9 @@
                 "city": "Anchorage",
                 "address": "731 I Street",
                 "address2": "Suite 203",
-                "zip": "99501"
+                "zip": "99501",
+                "lat": 61.2225,
+                "lng": -149.8677
             },
             "contact": {
                 "phone": "800-579-4214",
@@ -10355,7 +10422,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rehbock-wilson",
@@ -10373,7 +10441,9 @@
                 "city": "Anchorage",
                 "address": "401 E. Northern Lights Blvd.",
                 "address2": "Suite 210",
-                "zip": "99503"
+                "zip": "99503",
+                "lat": 61.1891,
+                "lng": -149.8862
             },
             "contact": {
                 "phone": "800-477-8574",
@@ -10395,7 +10465,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jason-skala-attorney-at-law",
@@ -10413,7 +10484,9 @@
                 "city": "Anchorage",
                 "address": "800 E. Dimond Boulevard",
                 "address2": "Suite 3-305",
-                "zip": "99515"
+                "zip": "99515",
+                "lat": 61.1104,
+                "lng": -149.9043
             },
             "contact": {
                 "phone": "855-447-8437",
@@ -10437,7 +10510,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

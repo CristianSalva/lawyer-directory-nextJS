@@ -88836,7 +88836,9 @@
                 "city": "Virginia Beach",
                 "address": "222 Central Park Avenue, Suite 400",
                 "address2": null,
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-571-9379",
@@ -88918,7 +88920,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wolfe-williams-austin",
@@ -88936,7 +88939,9 @@
                 "city": "Norton",
                 "address": "470 Park Avenue",
                 "address2": "P.O. Box 625",
-                "zip": "24273"
+                "zip": "24273",
+                "lat": 36.9679,
+                "lng": -82.6444
             },
             "contact": {
                 "phone": "276-325-1793",
@@ -88980,7 +88985,8 @@
                 "Social Security Disability",
                 "Veteran's Benefits",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-b-arthur-pc",
@@ -88998,7 +89004,9 @@
                 "city": "Lynchburg",
                 "address": "715 Court Street",
                 "address2": null,
-                "zip": "24504"
+                "zip": "24504",
+                "lat": 37.3651,
+                "lng": -79.0752
             },
             "contact": {
                 "phone": "434-810-6643",
@@ -89029,7 +89037,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-rebecca-l-evans",
@@ -89047,7 +89056,9 @@
                 "city": "Springfield",
                 "address": "7411 Alban Station Court",
                 "address2": "Suite B265",
-                "zip": "22150"
+                "zip": "22150",
+                "lat": 38.7611,
+                "lng": -77.186
             },
             "contact": {
                 "phone": "703-278-2028",
@@ -89082,7 +89093,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ashwell-ashwell-pllc",
@@ -89100,7 +89112,9 @@
                 "city": "Warrenton",
                 "address": "21 Culpeper Street",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-643-9475",
@@ -89160,6 +89174,17 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Culpeper",
+                    "state": "VA",
+                    "zip": "22701",
+                    "address": "139 W Davis Street, Suite 300",
+                    "phone": "540-643-9475",
+                    "lat": 38.44,
+                    "lng": -78.01
+                }
             ]
         },
         {
@@ -89178,7 +89203,9 @@
                 "city": "Salem",
                 "address": "209 South College Avenue",
                 "address2": null,
-                "zip": "24153"
+                "zip": "24153",
+                "lat": 37.2835,
+                "lng": -80.1193
             },
             "contact": {
                 "phone": "540-875-2982",
@@ -89230,7 +89257,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-caroline-ayres",
@@ -89248,7 +89276,9 @@
                 "city": "Charlottesville",
                 "address": "2029 Woodbrook Ct.",
                 "address2": null,
-                "zip": "22901"
+                "zip": "22901",
+                "lat": 38.0964,
+                "lng": -78.5569
             },
             "contact": {
                 "phone": "434-771-7472",
@@ -89282,7 +89312,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brooks-baez",
@@ -89300,7 +89331,9 @@
                 "city": "Richmond",
                 "address": "9100 Arboretum Parkway",
                 "address2": "Suite 190",
-                "zip": "23236"
+                "zip": "23236",
+                "lat": 37.4678,
+                "lng": -77.5885
             },
             "contact": {
                 "phone": "844-736-0151",
@@ -89335,7 +89368,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spotts-fain-pc",
@@ -89353,7 +89387,9 @@
                 "city": "Richmond",
                 "address": "411 E. Franklin Street",
                 "address2": "Suite 600",
-                "zip": "23219"
+                "zip": "23219",
+                "lat": 37.5408,
+                "lng": -77.4393
             },
             "contact": {
                 "phone": "804-697-2000",
@@ -89384,7 +89420,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sevila-saunders-huddleston-white-p-c",
@@ -89402,7 +89439,9 @@
                 "city": "Leesburg",
                 "address": "30 North King Street",
                 "address2": null,
-                "zip": "20176"
+                "zip": "20176",
+                "lat": 39.16,
+                "lng": -77.5219
             },
             "contact": {
                 "phone": "703-977-5739",
@@ -89457,7 +89496,8 @@
                 "Traffic Ticket",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cooper-hurley-injury-lawyers",
@@ -89475,7 +89515,9 @@
                 "city": "Norfolk",
                 "address": "125 St. Pauls Blvd.",
                 "address2": "Suite 510",
-                "zip": "23510"
+                "zip": "23510",
+                "lat": 36.8522,
+                "lng": -76.2942
             },
             "contact": {
                 "phone": "757-333-3333",
@@ -89503,6 +89545,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portsmouth",
+                    "state": "VA",
+                    "zip": "23704",
+                    "address": "355 Crawford Street, Suite 600-D",
+                    "phone": "757-905-4240",
+                    "lat": 36.822,
+                    "lng": -76.3171
+                }
             ]
         },
         {
@@ -89521,7 +89574,9 @@
                 "city": "Lynchburg",
                 "address": "1106 Commerce Street",
                 "address2": "Suite 3A",
-                "zip": "24504"
+                "zip": "24504",
+                "lat": 37.3651,
+                "lng": -79.0752
             },
             "contact": {
                 "phone": "434-219-5124",
@@ -89551,7 +89606,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williams-deloatche-p-c",
@@ -89569,7 +89625,9 @@
                 "city": "Virginia Beach",
                 "address": "4092 Foxwood Drive",
                 "address2": null,
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-828-2106",
@@ -89616,6 +89674,17 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Keller",
+                    "state": "VA",
+                    "zip": "23401",
+                    "address": "18249 First Street, P.O. Box 130",
+                    "phone": "+17578282106",
+                    "lat": 37.6271,
+                    "lng": -75.7791
+                }
             ]
         },
         {
@@ -89634,7 +89703,9 @@
                 "city": "Richmond",
                 "address": "3957 Westerre Parkway",
                 "address2": "Suite 105",
-                "zip": "23233"
+                "zip": "23233",
+                "lat": 37.6512,
+                "lng": -77.6197
             },
             "contact": {
                 "phone": "804-844-2835",
@@ -89684,7 +89755,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ballard-law-llc",
@@ -89702,7 +89774,9 @@
                 "city": "Pearisburg",
                 "address": "1409 Wenonah Ave",
                 "address2": null,
-                "zip": "24134"
+                "zip": "24134",
+                "lat": 37.2551,
+                "lng": -80.7516
             },
             "contact": {
                 "phone": "540-952-2639",
@@ -89733,7 +89807,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-baldwin-law-firm-llc",
@@ -89751,7 +89826,9 @@
                 "city": "Oakton",
                 "address": "2915 Hunter Mill Road",
                 "address2": "Suite 18",
-                "zip": "22124"
+                "zip": "22124",
+                "lat": 38.8931,
+                "lng": -77.3289
             },
             "contact": {
                 "phone": "703-281-0134",
@@ -89787,7 +89864,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nicholas-a-balland-attorney-at-law",
@@ -89805,7 +89883,9 @@
                 "city": "Arlington",
                 "address": "2300 Clarendon Boulevard",
                 "address2": "Suite 607",
-                "zip": "22201"
+                "zip": "22201",
+                "lat": 38.8866,
+                "lng": -77.0947
             },
             "contact": {
                 "phone": "703-522-0597",
@@ -89837,7 +89917,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legal-defense-center-matthew-barbero-p-l-c",
@@ -89855,7 +89936,9 @@
                 "city": "Virginia Beach",
                 "address": "3640 S Plaza Trl",
                 "address2": "Suite 202",
-                "zip": "23452"
+                "zip": "23452",
+                "lat": 36.8494,
+                "lng": -76.0955
             },
             "contact": {
                 "phone": "757-932-1216",
@@ -89881,7 +89964,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "erin-l-t-ranney-pllc",
@@ -89899,7 +89983,9 @@
                 "city": "Chesterfield",
                 "address": "9842 Lori Road",
                 "address2": "Suite 101",
-                "zip": "23832"
+                "zip": "23832",
+                "lat": 37.4088,
+                "lng": -77.6085
             },
             "contact": {
                 "phone": "804-212-5252",
@@ -89944,7 +90030,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spencer-meyer-koch-plc",
@@ -89962,7 +90049,9 @@
                 "city": "Fredericksburg",
                 "address": "660 Cambridge Street",
                 "address2": null,
-                "zip": "22405"
+                "zip": "22405",
+                "lat": 38.3198,
+                "lng": -77.4116
             },
             "contact": {
                 "phone": "540-372-4046",
@@ -89997,7 +90086,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barnes-diehl-p-c",
@@ -90015,7 +90105,9 @@
                 "city": "Richmond",
                 "address": "7401 Beaufont Springs Drive",
                 "address2": "Suite 200",
-                "zip": "23225"
+                "zip": "23225",
+                "lat": 37.5169,
+                "lng": -77.4994
             },
             "contact": {
                 "phone": "844-271-8253",
@@ -90058,6 +90150,17 @@
                 "Insurance Defense",
                 "Land Use and Zoning",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "23230",
+                    "address": "6806 Paragon Place, Suite 110",
+                    "phone": "+18333771400",
+                    "lat": 37.5866,
+                    "lng": -77.4899
+                }
             ]
         },
         {
@@ -90076,7 +90179,9 @@
                 "city": "Virginia Beach",
                 "address": "303 34th Street",
                 "address2": null,
-                "zip": "23451"
+                "zip": "23451",
+                "lat": 36.8572,
+                "lng": -76.0282
             },
             "contact": {
                 "phone": "757-796-4835",
@@ -90113,7 +90218,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tucker-griffin-barnes-p-c",
@@ -90131,7 +90237,9 @@
                 "city": "Charlottesville",
                 "address": "307 West Rio Road",
                 "address2": null,
-                "zip": "22901"
+                "zip": "22901",
+                "lat": 38.0964,
+                "lng": -78.5569
             },
             "contact": {
                 "phone": "434-326-0542",
@@ -90185,6 +90293,17 @@
                 "Real Estate",
                 "Traffic Ticket",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Palmyra",
+                    "state": "VA",
+                    "zip": "22963",
+                    "address": "265 Turkeysag Trail, Suite 111 Lake Monticello Jefferson Centre",
+                    "phone": "434-326-0542",
+                    "lat": 37.8357,
+                    "lng": -78.284
+                }
             ]
         },
         {
@@ -90203,7 +90322,9 @@
                 "city": "Gloucester",
                 "address": "6688 Main Street",
                 "address2": null,
-                "zip": "23061"
+                "zip": "23061",
+                "lat": 37.4409,
+                "lng": -76.5571
             },
             "contact": {
                 "phone": "757-315-8594",
@@ -90236,6 +90357,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hampton",
+                    "state": "VA",
+                    "zip": "23669",
+                    "address": "122 East Pembroke Avenue, Suite 2",
+                    "phone": "757-315-8594",
+                    "lat": 37.0506,
+                    "lng": -76.3492
+                }
             ]
         },
         {
@@ -90254,7 +90386,9 @@
                 "city": "Virginia Beach",
                 "address": "115 South Lynnhaven Road",
                 "address2": "Suite 100",
-                "zip": "23452"
+                "zip": "23452",
+                "lat": 36.8494,
+                "lng": -76.0955
             },
             "contact": {
                 "phone": "757-932-7594",
@@ -90292,7 +90426,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burnett-williams",
@@ -90310,7 +90445,9 @@
                 "city": "Leesburg",
                 "address": "105 Loudoun",
                 "address2": "Street SE",
-                "zip": "20175"
+                "zip": "20175",
+                "lat": 39.0523,
+                "lng": -77.6036
             },
             "contact": {
                 "phone": "804-924-4388",
@@ -90344,6 +90481,17 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Reston",
+                    "state": "VA",
+                    "zip": "20191",
+                    "address": "1900 Campus Commons Drive, Suite 100",
+                    "phone": "804-924-4388",
+                    "lat": 38.9311,
+                    "lng": -77.3514
+                }
             ]
         },
         {
@@ -90362,7 +90510,9 @@
                 "city": "Virginia Beach",
                 "address": "233 Business Park Dr.",
                 "address2": "Suite 200",
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-550-2075",
@@ -90421,7 +90571,8 @@
                 "Professional Malpractice",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scale-llp",
@@ -90439,7 +90590,9 @@
                 "city": "Fairfax",
                 "address": "8500 Arlington Blvd.",
                 "address2": null,
-                "zip": "22031"
+                "zip": "22031",
+                "lat": 38.8589,
+                "lng": -77.2614
             },
             "contact": {
                 "phone": "202-758-5778",
@@ -90454,7 +90607,8 @@
             "attorneys": [
                 "J. Andrew “Andy” Baxter"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "joseph-h-beale-attorney-at-law-pllc",
@@ -90472,7 +90626,9 @@
                 "city": "Aldie",
                 "address": "25817 Racing Sun Drive",
                 "address2": null,
-                "zip": "20105"
+                "zip": "20105",
+                "lat": 38.9608,
+                "lng": -77.6044
             },
             "contact": {
                 "phone": "571-335-1831",
@@ -90501,6 +90657,17 @@
                 "Personal Injury",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Herndon",
+                    "state": "VA",
+                    "zip": "20170",
+                    "address": "205 Van Buren Street, Suite 160",
+                    "phone": "571-335-1831",
+                    "lat": 38.9837,
+                    "lng": -77.3828
+                }
             ]
         },
         {
@@ -90519,7 +90686,9 @@
                 "city": "Hampton",
                 "address": "16 S. King Street",
                 "address2": null,
-                "zip": "23669"
+                "zip": "23669",
+                "lat": 37.0506,
+                "lng": -76.3492
             },
             "contact": {
                 "phone": "757-234-4650",
@@ -90577,6 +90746,17 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hampton",
+                    "state": "VA",
+                    "zip": "23669",
+                    "address": "16 S. King Street",
+                    "phone": "757-234-4650",
+                    "lat": 37.0506,
+                    "lng": -76.3492
+                }
             ]
         },
         {
@@ -90595,7 +90775,9 @@
                 "city": "Bristol",
                 "address": "230 Piedmont Avenue",
                 "address2": "Suite 300",
-                "zip": "24201"
+                "zip": "24201",
+                "lat": 36.6146,
+                "lng": -82.1748
             },
             "contact": {
                 "phone": "276-466-8400",
@@ -90668,7 +90850,8 @@
                 "Real Estate",
                 "State Local and Municipal Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walker-jones",
@@ -90686,7 +90869,9 @@
                 "city": "Warrenton",
                 "address": "Carter Hall",
                 "address2": "31 Winchester Street",
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-952-3909",
@@ -90723,6 +90908,17 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Washington",
+                    "state": "VA",
+                    "zip": "22747",
+                    "address": "257 Gay Street",
+                    "phone": "+15409342326",
+                    "lat": 38.7308,
+                    "lng": -78.172
+                }
             ]
         },
         {
@@ -90741,7 +90937,9 @@
                 "city": "Leesburg",
                 "address": "23 North King Street",
                 "address2": "2nd Floor",
-                "zip": "20176"
+                "zip": "20176",
+                "lat": 39.16,
+                "lng": -77.5219
             },
             "contact": {
                 "phone": "571-310-3616",
@@ -90763,7 +90961,8 @@
             ],
             "official_practice_area": [
                 "Assault and Battery (Plaintiff)"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berry-berry-pllc",
@@ -90781,7 +90980,9 @@
                 "city": "Reston",
                 "address": "Plaza America, 11700 Plaza America Drive",
                 "address2": "Suite 305",
-                "zip": "20190"
+                "zip": "20190",
+                "lat": 38.961,
+                "lng": -77.3425
             },
             "contact": {
                 "phone": "703-270-0150",
@@ -90810,7 +91011,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-bice-law-group",
@@ -90828,7 +91030,9 @@
                 "city": "Lynchburg",
                 "address": "6000 Boonsboro Road",
                 "address2": "Suite E",
-                "zip": "24503"
+                "zip": "24503",
+                "lat": 37.4488,
+                "lng": -79.2384
             },
             "contact": {
                 "phone": "434-771-5488",
@@ -90863,7 +91067,8 @@
                 "Divorce and Separation",
                 "Elder Law",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "opn-law",
@@ -90881,7 +91086,9 @@
                 "city": "Roanoke",
                 "address": "3140 Chaparral Drive",
                 "address2": "Suite 200C",
-                "zip": "24018"
+                "zip": "24018",
+                "lat": 37.2167,
+                "lng": -80.0386
             },
             "contact": {
                 "phone": "540-989-0000",
@@ -90927,7 +91134,8 @@
                 "Social Security Disability",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-firm-of-russell-r-johnson-iii-plc",
@@ -90945,7 +91153,9 @@
                 "city": "Haymarket",
                 "address": "14890 Washington St.",
                 "address2": "First Floor",
-                "zip": "20169"
+                "zip": "20169",
+                "lat": 38.8694,
+                "lng": -77.6398
             },
             "contact": {
                 "phone": "804-620-7133",
@@ -90969,7 +91179,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Debtor and Creditor"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "somireddy-law-group-pllc",
@@ -90987,7 +91198,9 @@
                 "city": "Ashburn",
                 "address": "One Loudoun",
                 "address2": "20745 Williamsport Place, Suite 390",
-                "zip": "20147"
+                "zip": "20147",
+                "lat": 39.0396,
+                "lng": -77.4816
             },
             "contact": {
                 "phone": "703-977-4294",
@@ -91015,6 +91228,35 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Princeton",
+                    "state": "NJ",
+                    "zip": "08540",
+                    "address": "5 Independence Way, Suite- 200",
+                    "phone": "+17039774294",
+                    "lat": 40.3782,
+                    "lng": -74.6622
+                },
+                {
+                    "city": "Durham",
+                    "state": "NC",
+                    "zip": "27713",
+                    "address": "2530 Meridian Pkwy, Suite # 300",
+                    "phone": "+17039774294",
+                    "lat": 35.8857,
+                    "lng": -78.9295
+                },
+                {
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "zip": "95051",
+                    "address": "285 Oakmead Pkwy",
+                    "phone": "+17039774294",
+                    "lat": 37.3504,
+                    "lng": -121.9848
+                }
             ]
         },
         {
@@ -91033,7 +91275,9 @@
                 "city": "Springfield",
                 "address": "5501 Backlick Road",
                 "address2": "Suite 220",
-                "zip": "22151"
+                "zip": "22151",
+                "lat": 38.8016,
+                "lng": -77.2109
             },
             "contact": {
                 "phone": "703-977-8565",
@@ -91065,7 +91309,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meyer-bowden-pllc",
@@ -91083,7 +91328,9 @@
                 "city": "Leesburg",
                 "address": "20 West Market Street",
                 "address2": null,
-                "zip": "20176"
+                "zip": "20176",
+                "lat": 39.16,
+                "lng": -77.5219
             },
             "contact": {
                 "phone": "703-722-6293",
@@ -91122,6 +91369,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fairfax",
+                    "state": "VA",
+                    "zip": "22030",
+                    "address": "11350 Random Hills Road, Suite 800",
+                    "phone": "703-722-6293",
+                    "lat": 38.8373,
+                    "lng": -77.342
+                }
             ]
         },
         {
@@ -91140,7 +91398,9 @@
                 "city": "Stafford",
                 "address": "385 Garrisonville Road",
                 "address2": "Suite 203",
-                "zip": "22554"
+                "zip": "22554",
+                "lat": 38.4328,
+                "lng": -77.3952
             },
             "contact": {
                 "phone": "540-288-9559",
@@ -91160,7 +91420,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thomas-r-breeden-p-c",
@@ -91178,7 +91439,9 @@
                 "city": "Manassas",
                 "address": "10326 Lomond Drive",
                 "address2": null,
-                "zip": "20109"
+                "zip": "20109",
+                "lat": 38.7937,
+                "lng": -77.5365
             },
             "contact": {
                 "phone": "703-202-8527",
@@ -91199,7 +91462,8 @@
             ],
             "official_practice_area": [
                 "Debtor and Creditor"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crandall-katt-attorneys-at-law",
@@ -91217,7 +91481,9 @@
                 "city": "Roanoke",
                 "address": "366 Elm Avenue SW",
                 "address2": null,
-                "zip": "24016"
+                "zip": "24016",
+                "lat": 37.2705,
+                "lng": -79.9593
             },
             "contact": {
                 "phone": "866-473-0451",
@@ -91261,7 +91527,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marquis-law-group",
@@ -91279,7 +91546,9 @@
                 "city": "Leesburg",
                 "address": "20 West Market Street",
                 "address2": null,
-                "zip": "20176"
+                "zip": "20176",
+                "lat": 39.16,
+                "lng": -77.5219
             },
             "contact": {
                 "phone": "703-951-6880",
@@ -91312,7 +91581,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "buckland-law-firm-pllc",
@@ -91330,7 +91600,9 @@
                 "city": "Pearisburg",
                 "address": "101 N. Main St.",
                 "address2": null,
-                "zip": "24134"
+                "zip": "24134",
+                "lat": 37.2551,
+                "lng": -80.7516
             },
             "contact": {
                 "phone": "540-921-0190",
@@ -91379,7 +91651,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burroughs-law-office-p-c",
@@ -91397,7 +91670,9 @@
                 "city": "Virginia Beach",
                 "address": "4445 Corporation Lane",
                 "address2": "Suite 142",
-                "zip": "23456"
+                "zip": "23456",
+                "lat": 36.6748,
+                "lng": -76.0115
             },
             "contact": {
                 "phone": "757-363-0077",
@@ -91419,7 +91694,8 @@
             ],
             "official_practice_area": [
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "big-valley-law",
@@ -91437,7 +91713,9 @@
                 "city": "Harrisonburg",
                 "address": "139 N Liberty Street",
                 "address2": "Suite 201",
-                "zip": "22802"
+                "zip": "22802",
+                "lat": 38.4863,
+                "lng": -78.8506
             },
             "contact": {
                 "phone": "540-934-7850",
@@ -91461,6 +91739,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Staunton",
+                    "state": "VA",
+                    "zip": "24401",
+                    "address": "1524 N Augusta Street",
+                    "phone": "+15409346691",
+                    "lat": 38.1413,
+                    "lng": -79.0647
+                }
             ]
         },
         {
@@ -91479,7 +91768,9 @@
                 "city": "Norfolk",
                 "address": "870 N. Military Hwy.",
                 "address2": "Suite 300",
-                "zip": "23502"
+                "zip": "23502",
+                "lat": 36.8567,
+                "lng": -76.2125
             },
             "contact": {
                 "phone": "855-880-8163",
@@ -91541,6 +91832,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newport News",
+                    "state": "VA",
+                    "zip": "23606",
+                    "address": "11719 JEFFERSON AVE",
+                    "phone": "(757) 802-3461",
+                    "lat": 37.0651,
+                    "lng": -76.5282
+                }
             ]
         },
         {
@@ -91559,7 +91861,9 @@
                 "city": "Fairfax",
                 "address": "4041 University Drive",
                 "address2": "Suite 103",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-865-5839",
@@ -91582,7 +91886,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "quinn-law-centers",
@@ -91600,7 +91905,9 @@
                 "city": "Richmond",
                 "address": "4901 Dickens Road",
                 "address2": "Suite 101",
-                "zip": "23230"
+                "zip": "23230",
+                "lat": 37.5866,
+                "lng": -77.4899
             },
             "contact": {
                 "phone": "804-409-7117",
@@ -91640,7 +91947,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hirsch-ehlenberger-p-c",
@@ -91658,7 +91966,9 @@
                 "city": "Reston",
                 "address": "12110 Sunset Hills Rd",
                 "address2": "#401",
-                "zip": "20190"
+                "zip": "20190",
+                "lat": 38.961,
+                "lng": -77.3425
             },
             "contact": {
                 "phone": "703-940-5967",
@@ -91685,7 +91995,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "slayton-clary",
@@ -91703,7 +92014,9 @@
                 "city": "Lawrenceville",
                 "address": "411 South Hicks Street",
                 "address2": "P.O. Box 580",
-                "zip": "23868"
+                "zip": "23868",
+                "lat": 36.7187,
+                "lng": -77.8145
             },
             "contact": {
                 "phone": "434-848-3632",
@@ -91734,7 +92047,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "freeman-dunn-lucy-coates-pc",
@@ -91752,7 +92066,9 @@
                 "city": "Lynchburg",
                 "address": "1045 Cottontown Road",
                 "address2": null,
-                "zip": "24503"
+                "zip": "24503",
+                "lat": 37.4488,
+                "lng": -79.2384
             },
             "contact": {
                 "phone": "434-234-8388",
@@ -91805,7 +92121,8 @@
                 "Probate",
                 "Tax Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cook-craig-francuzenko-pllc",
@@ -91823,7 +92140,9 @@
                 "city": "Fairfax",
                 "address": "3050 Chain Bridge Road",
                 "address2": "Suite 200",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "866-360-6611",
@@ -91876,7 +92195,8 @@
                 "Tax Law",
                 "Trademarks",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-locklin-coleman-pllc",
@@ -91894,7 +92214,9 @@
                 "city": "Manassas",
                 "address": "9253 Mosby Street",
                 "address2": "Suite 100",
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-202-8976",
@@ -91922,6 +92244,17 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fairfax",
+                    "state": "VA",
+                    "zip": "22030",
+                    "address": "4041 University Drive, Suite 404",
+                    "phone": "+17039725143",
+                    "lat": 38.8373,
+                    "lng": -77.342
+                }
             ]
         },
         {
@@ -91940,7 +92273,9 @@
                 "city": "Portsmouth",
                 "address": "5709 Churchland Blvd.",
                 "address2": "Suite A",
-                "zip": "23703"
+                "zip": "23703",
+                "lat": 36.8811,
+                "lng": -76.3745
             },
             "contact": {
                 "phone": "757-540-2265",
@@ -91973,7 +92308,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-john-w-lee-p-c",
@@ -91991,7 +92327,9 @@
                 "city": "Hampton",
                 "address": "22 Enterprise Parkway",
                 "address2": "Suite 390",
-                "zip": "23666"
+                "zip": "23666",
+                "lat": 37.0628,
+                "lng": -76.4052
             },
             "contact": {
                 "phone": "757-325-9309",
@@ -92020,6 +92358,17 @@
                 "Bankruptcy",
                 "Criminal Defense",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newport News",
+                    "state": "VA",
+                    "zip": "23606",
+                    "address": "Old Point Professional Park, 11747 Jefferson Ave - Suite 4B",
+                    "phone": "757-325-9309",
+                    "lat": 37.0651,
+                    "lng": -76.5282
+                }
             ]
         },
         {
@@ -92038,7 +92387,9 @@
                 "city": "Alexandria",
                 "address": "675 N. Washington St.",
                 "address2": "Suite 450",
-                "zip": "22314"
+                "zip": "22314",
+                "lat": 38.814,
+                "lng": -77.064
             },
             "contact": {
                 "phone": "703-836-9030",
@@ -92068,7 +92419,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jc-law-pllc",
@@ -92086,7 +92438,9 @@
                 "city": "Rocky Mount",
                 "address": "P.O. Box 889",
                 "address2": null,
-                "zip": "24151"
+                "zip": "24151",
+                "lat": 36.9622,
+                "lng": -79.8634
             },
             "contact": {
                 "phone": "540-443-1736",
@@ -92117,7 +92471,8 @@
                 "Business and Commercial Law",
                 "Collections",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "corder-law-pllc",
@@ -92135,7 +92490,9 @@
                 "city": "Harrisonburg",
                 "address": "374 E. Market St.",
                 "address2": "Suite 2",
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-418-3429",
@@ -92164,7 +92521,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nova-estate-planning-pllc",
@@ -92182,7 +92540,9 @@
                 "city": "Arlington",
                 "address": "4818 24th St. N.",
                 "address2": null,
-                "zip": "22207"
+                "zip": "22207",
+                "lat": 38.9098,
+                "lng": -77.1202
             },
             "contact": {
                 "phone": "703-988-7693",
@@ -92209,6 +92569,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Reston",
+                    "state": "VA",
+                    "zip": "20191",
+                    "address": "1900 Campus Commons Drive, Suite 600",
+                    "phone": "+15718998538",
+                    "lat": 38.9311,
+                    "lng": -77.3514
+                }
             ]
         },
         {
@@ -92227,7 +92598,9 @@
                 "city": "Arlington",
                 "address": "1550 Wilson Blvd.",
                 "address2": "#700",
-                "zip": "22209"
+                "zip": "22209",
+                "lat": 38.8929,
+                "lng": -77.0726
             },
             "contact": {
                 "phone": "703-791-9087",
@@ -92259,7 +92632,8 @@
                 "Insurance Defense",
                 "Labor Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "updike-nicely-crawford-plc",
@@ -92277,7 +92651,9 @@
                 "city": "Covington",
                 "address": "251 West Riverside Street",
                 "address2": "Post Office Box 510",
-                "zip": "24426"
+                "zip": "24426",
+                "lat": 37.7785,
+                "lng": -80.0497
             },
             "contact": {
                 "phone": "800-639-9038",
@@ -92317,7 +92693,8 @@
                 "Social Security Disability",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crowley-peritz-law",
@@ -92335,7 +92712,9 @@
                 "city": "Fairfax",
                 "address": "10560 Main St",
                 "address2": "#501",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "571-605-2932",
@@ -92372,7 +92751,8 @@
                 "Family Law",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dannenbaum-law-firm-pllc",
@@ -92390,7 +92770,9 @@
                 "city": "Arlington",
                 "address": "2300 Clarendon Blvd.",
                 "address2": "Suite 607",
-                "zip": "22201"
+                "zip": "22201",
+                "lat": 38.8866,
+                "lng": -77.0947
             },
             "contact": {
                 "phone": "703-661-9151",
@@ -92415,7 +92797,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dansby-fehrenbach",
@@ -92433,7 +92816,9 @@
                 "city": "Williamsburg",
                 "address": "1321 Jamestown Rd",
                 "address2": "Ste 103",
-                "zip": "23185"
+                "zip": "23185",
+                "lat": 37.234,
+                "lng": -76.7365
             },
             "contact": {
                 "phone": "757-828-4689",
@@ -92455,7 +92840,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kozak-davis-renninger-p-c",
@@ -92473,7 +92859,9 @@
                 "city": "Portsmouth",
                 "address": "355 Crawford Street",
                 "address2": "Suite 700",
-                "zip": "23704"
+                "zip": "23704",
+                "lat": 36.822,
+                "lng": -76.3171
             },
             "contact": {
                 "phone": "757-364-0923",
@@ -92498,6 +92886,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Suffolk",
+                    "state": "VA",
+                    "zip": "23434",
+                    "address": "434 North Main Street",
+                    "phone": "757-925-2121",
+                    "lat": 36.7041,
+                    "lng": -76.617
+                }
             ]
         },
         {
@@ -92516,7 +92915,9 @@
                 "city": "McLean",
                 "address": "1315 Vincent Place",
                 "address2": null,
-                "zip": "22101"
+                "zip": "22101",
+                "lat": 38.9359,
+                "lng": -77.1621
             },
             "contact": {
                 "phone": "703-977-2338",
@@ -92569,6 +92970,17 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manassas",
+                    "state": "VA",
+                    "zip": "20109",
+                    "address": "10432 Balls Ford Road, Suite 300",
+                    "phone": "+15718998316",
+                    "lat": 38.7937,
+                    "lng": -77.5365
+                }
             ]
         },
         {
@@ -92587,7 +92999,9 @@
                 "city": "Richmond",
                 "address": "1802 Bayberry Court",
                 "address2": "Suite 403",
-                "zip": "23226"
+                "zip": "23226",
+                "lat": 37.5844,
+                "lng": -77.518
             },
             "contact": {
                 "phone": "804-773-3206",
@@ -92626,7 +93040,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-t-dearborn-law-office",
@@ -92644,7 +93059,9 @@
                 "city": "Fairfax",
                 "address": "10523A West Drive",
                 "address2": null,
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-350-4804",
@@ -92672,7 +93089,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eagan-immigration",
@@ -92690,7 +93108,9 @@
                 "city": "McLean",
                 "address": "1750 Tysons Blvd",
                 "address2": "Ste 1500",
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "202-900-9160",
@@ -92740,7 +93160,8 @@
                 "Employment Rights",
                 "Immigration",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dischley-law-pllc",
@@ -92758,7 +93179,9 @@
                 "city": "Manassas",
                 "address": "9255 Center Street, Ste 300B",
                 "address2": null,
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-635-2424",
@@ -92793,6 +93216,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fairfax",
+                    "state": "VA",
+                    "zip": "22030",
+                    "address": "10509 Judicial Drive,, Suite 102A",
+                    "phone": "703-635-2424",
+                    "lat": 38.8373,
+                    "lng": -77.342
+                }
             ]
         },
         {
@@ -92811,7 +93245,9 @@
                 "city": "McLean",
                 "address": "1750 Tysons Boulevard",
                 "address2": "Suite 1500",
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "703-570-8353",
@@ -92838,7 +93274,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maddox-gerock-p-c",
@@ -92856,7 +93293,9 @@
                 "city": "Falls Church",
                 "address": "8111 Gatehouse Road",
                 "address2": "Suite 410",
-                "zip": "22042"
+                "zip": "22042",
+                "lat": 38.863,
+                "lng": -77.1939
             },
             "contact": {
                 "phone": "703-239-7006",
@@ -92892,7 +93331,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wiegandt-doubles-p-c",
@@ -92910,7 +93350,9 @@
                 "city": "Fincastle",
                 "address": "13 South Roanoke St.",
                 "address2": null,
-                "zip": "24090"
+                "zip": "24090",
+                "lat": 37.5142,
+                "lng": -79.8952
             },
             "contact": {
                 "phone": "540-443-3196",
@@ -92953,7 +93395,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doummar-law",
@@ -92971,7 +93414,9 @@
                 "city": "Virginia Beach",
                 "address": "The Doummar Building",
                 "address2": "1397 Laskin Road",
-                "zip": "23451"
+                "zip": "23451",
+                "lat": 36.8572,
+                "lng": -76.0282
             },
             "contact": {
                 "phone": "757-785-9970",
@@ -92992,7 +93437,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-2071-law",
@@ -93010,7 +93456,9 @@
                 "city": "Virginia Beach",
                 "address": "1206 Laskin Road",
                 "address2": "Suite 140B",
-                "zip": "23451"
+                "zip": "23451",
+                "lat": 36.8572,
+                "lng": -76.0282
             },
             "contact": {
                 "phone": "757-844-5362",
@@ -93041,7 +93489,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ferris-eakin-p-c",
@@ -93059,7 +93508,9 @@
                 "city": "Roanoke",
                 "address": "22 Luck Avenue SW",
                 "address2": null,
-                "zip": "24011"
+                "zip": "24011",
+                "lat": 37.2708,
+                "lng": -79.9414
             },
             "contact": {
                 "phone": "540-345-1000",
@@ -93097,7 +93548,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "easley-law-firm",
@@ -93115,7 +93567,9 @@
                 "city": "Fairfax",
                 "address": "10521 Judicial Drive",
                 "address2": "Suite 205",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-997-9942",
@@ -93147,7 +93601,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brian-v-ebert-p-c",
@@ -93165,7 +93620,9 @@
                 "city": "Fairfax",
                 "address": "10640 Page Avenue",
                 "address2": "Suite 240",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-281-9000",
@@ -93216,7 +93673,8 @@
                 "Science and Technology Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "elsayed-law-pllc",
@@ -93234,7 +93692,9 @@
                 "city": "Fairfax",
                 "address": "3955 Chain Bridge Road",
                 "address2": "Second Floor",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-763-2895",
@@ -93260,6 +93720,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Reston",
+                    "state": "VA",
+                    "zip": "20191",
+                    "address": "1900 Campus Commons Drive, #100",
+                    "phone": "703-763-2895",
+                    "lat": 38.9311,
+                    "lng": -77.3514
+                }
             ]
         },
         {
@@ -93278,7 +93749,9 @@
                 "city": "Richmond",
                 "address": "3315 West Broad Street",
                 "address2": null,
-                "zip": "23230"
+                "zip": "23230",
+                "lat": 37.5866,
+                "lng": -77.4899
             },
             "contact": {
                 "phone": "804-352-2453",
@@ -93314,7 +93787,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williams-mullen",
@@ -93332,7 +93806,9 @@
                 "city": "Virginia Beach",
                 "address": "222 Central Park Avenue",
                 "address2": "Suite 1700",
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-499-8800",
@@ -93362,6 +93838,35 @@
             ],
             "official_practice_area": [
                 "Antitrust"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Richmond",
+                    "state": "VA",
+                    "zip": "23219",
+                    "address": "Williams Mullen Center, 200 South 10th Street, Suite 1600",
+                    "phone": "(804) 420-6000",
+                    "lat": 37.5408,
+                    "lng": -77.4393
+                },
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27601",
+                    "address": "301 Fayetteville Street, Suite 1700",
+                    "phone": "(919) 981-4000",
+                    "lat": 35.7752,
+                    "lng": -78.6343
+                },
+                {
+                    "city": "Columbia",
+                    "state": "SC",
+                    "zip": "29201",
+                    "address": "First Citizens Bank Building, 1230 Main Street, Suite 330",
+                    "phone": "(803) 567-4600",
+                    "lat": 33.9866,
+                    "lng": -81.0248
+                }
             ]
         },
         {
@@ -93380,7 +93885,9 @@
                 "city": "Wytheville",
                 "address": "490 West Monroe Street",
                 "address2": "P.O. Box 1315",
-                "zip": "24382"
+                "zip": "24382",
+                "lat": 36.94,
+                "lng": -81.1365
             },
             "contact": {
                 "phone": "276-625-0222",
@@ -93401,6 +93908,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Christiansburg",
+                    "state": "VA",
+                    "zip": "24073",
+                    "address": "107 Roanoke Street",
+                    "phone": "276-200-2676",
+                    "lat": 37.1248,
+                    "lng": -80.4143
+                }
             ]
         },
         {
@@ -93419,7 +93937,9 @@
                 "city": "Vienna",
                 "address": "1806 Watervale Way",
                 "address2": null,
-                "zip": "22182"
+                "zip": "22182",
+                "lat": 38.9361,
+                "lng": -77.2676
             },
             "contact": {
                 "phone": "703-239-4931",
@@ -93442,7 +93962,8 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fox-moghul-attorneys-at-law",
@@ -93460,7 +93981,9 @@
                 "city": "Fairfax",
                 "address": "10509 Judicial Drive",
                 "address2": "Suite 300",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-688-9325",
@@ -93510,7 +94033,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-jack-m-h-frazier",
@@ -93528,7 +94052,9 @@
                 "city": "Fairfax",
                 "address": "4103 Chain Bridge Road",
                 "address2": "Suite 100",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-277-1051",
@@ -93548,6 +94074,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gaithersburg",
+                    "state": "MD",
+                    "zip": "20877",
+                    "address": "Allan Law Center, 301 South Frederick Avenue",
+                    "phone": "(703) 277-1051",
+                    "lat": 39.1393,
+                    "lng": -77.1805
+                }
             ]
         },
         {
@@ -93566,7 +94103,9 @@
                 "city": "McLean",
                 "address": "1364 Beverly Road",
                 "address2": "Suite 101",
-                "zip": "22101"
+                "zip": "22101",
+                "lat": 38.9359,
+                "lng": -77.1621
             },
             "contact": {
                 "phone": "703-289-0366",
@@ -93596,7 +94135,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greenspun-shapiro-ginsberg-yang-pc",
@@ -93614,7 +94154,9 @@
                 "city": "Fairfax",
                 "address": "3955 Chain Bridge Rd",
                 "address2": "Fl 2",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-352-0100",
@@ -93649,7 +94191,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "s-r-law-firm-pllc",
@@ -93667,7 +94210,9 @@
                 "city": "Fairfax",
                 "address": "4120 Leonard Dr",
                 "address2": "# A",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-273-6431",
@@ -93699,7 +94244,8 @@
                 "DUI and DWI",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reidgoodwin-plc",
@@ -93717,7 +94263,9 @@
                 "city": "Richmond",
                 "address": "4116 Fitzhugh Ave.",
                 "address2": null,
-                "zip": "23230"
+                "zip": "23230",
+                "lat": 37.5866,
+                "lng": -77.4899
             },
             "contact": {
                 "phone": "804-415-7800",
@@ -93746,6 +94294,17 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Roanoke",
+                    "state": "VA",
+                    "zip": "24001",
+                    "address": "10 Church Ave. SE",
+                    "phone": "804-415-7800",
+                    "lat": 37.2709,
+                    "lng": -79.9418
+                }
             ]
         },
         {
@@ -93764,7 +94323,9 @@
                 "city": "Harrisonburg",
                 "address": "510 East Market Street",
                 "address2": null,
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-208-0865",
@@ -93797,7 +94358,8 @@
                 "DUI and DWI",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "graves-law-offices",
@@ -93815,7 +94377,9 @@
                 "city": "Harrisonburg",
                 "address": "374 East Market Street",
                 "address2": null,
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-934-5553",
@@ -93847,7 +94411,8 @@
                 "Drug Crime",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greco-greco-p-c-securities-fraud-lawyers",
@@ -93865,7 +94430,9 @@
                 "city": "McLean",
                 "address": "1300 Old Chain Bridge Road",
                 "address2": null,
-                "zip": "22101"
+                "zip": "22101",
+                "lat": 38.9359,
+                "lng": -77.1621
             },
             "contact": {
                 "phone": "703-688-9647",
@@ -93897,7 +94464,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Securities"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ritchie-law-firm-plc",
@@ -93915,7 +94483,9 @@
                 "city": "Harrisonburg",
                 "address": "71 South Court Square",
                 "address2": "Suite A",
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-443-1691",
@@ -93954,6 +94524,26 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Staunton",
+                    "state": "VA",
+                    "zip": "24401",
+                    "address": "17 Imperial Drive, Suite 101",
+                    "phone": "+15404430978",
+                    "lat": 38.1413,
+                    "lng": -79.0647
+                },
+                {
+                    "city": "Martinsburg",
+                    "state": "WV",
+                    "zip": "25401",
+                    "address": "300 West Burke Street",
+                    "phone": "+15404430978",
+                    "lat": 39.4656,
+                    "lng": -77.9645
+                }
             ]
         },
         {
@@ -93972,7 +94562,9 @@
                 "city": "Alexandria",
                 "address": "515 King St",
                 "address2": "Suite 401",
-                "zip": "22314"
+                "zip": "22314",
+                "lat": 38.814,
+                "lng": -77.064
             },
             "contact": {
                 "phone": "703-977-5194",
@@ -94025,7 +94617,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hantzes-associates",
@@ -94043,7 +94636,9 @@
                 "city": "Fairfax",
                 "address": "10513 Judicial Dr.",
                 "address2": "#100",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-378-5000",
@@ -94078,7 +94673,8 @@
                 "Litigation and Appeals",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-d-hart-p-c",
@@ -94096,7 +94692,9 @@
                 "city": "Mechanicsville",
                 "address": "8109 Mechanicsville Turnpike",
                 "address2": "The Offices at The Windmill",
-                "zip": "23111"
+                "zip": "23111",
+                "lat": 37.6134,
+                "lng": -77.2572
             },
             "contact": {
                 "phone": "800-332-9736",
@@ -94125,6 +94723,17 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Foreclosure and Alternatives"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Roanoke",
+                    "state": "VA",
+                    "zip": "24011",
+                    "address": "308 2nd Street SW",
+                    "phone": "1-800-332-9736",
+                    "lat": 37.2708,
+                    "lng": -79.9414
+                }
             ]
         },
         {
@@ -94143,7 +94752,9 @@
                 "city": "Harrisonburg",
                 "address": "71 Court Square",
                 "address2": "Suite B",
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-418-7294",
@@ -94168,7 +94779,8 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "david-l-heilberg",
@@ -94186,7 +94798,9 @@
                 "city": "Charlottesville",
                 "address": "908 East Jefferson Street",
                 "address2": "Suite G3",
-                "zip": "22902"
+                "zip": "22902",
+                "lat": 37.9538,
+                "lng": -78.4695
             },
             "contact": {
                 "phone": "434-771-7433",
@@ -94224,7 +94838,8 @@
                 "Personal Injury",
                 "State Local and Municipal Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-earle-shanks-pllc",
@@ -94242,7 +94857,9 @@
                 "city": "Luray",
                 "address": "136 General Drive",
                 "address2": "Suite 200",
-                "zip": "22835"
+                "zip": "22835",
+                "lat": 38.6935,
+                "lng": -78.4802
             },
             "contact": {
                 "phone": "540-743-4511",
@@ -94296,6 +94913,17 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Front Royal",
+                    "state": "VA",
+                    "zip": "22630",
+                    "address": "115 Chester Street, Suite C",
+                    "phone": "540-743-4511",
+                    "lat": 38.9224,
+                    "lng": -78.1726
+                }
             ]
         },
         {
@@ -94314,7 +94942,9 @@
                 "city": "Fairfax",
                 "address": "9990 Fairfax Boulevard",
                 "address2": "Suite 430",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-879-6500",
@@ -94344,6 +94974,17 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Alexandria",
+                    "state": "VA",
+                    "zip": "22314",
+                    "address": "700 N. Fairfax Street, Suite 600",
+                    "phone": "703-879-6500",
+                    "lat": 38.814,
+                    "lng": -77.064
+                }
             ]
         },
         {
@@ -94362,7 +95003,9 @@
                 "city": "Roanoke",
                 "address": "3048 Brambleton Avenue SW",
                 "address2": null,
-                "zip": "24015"
+                "zip": "24015",
+                "lat": 37.2542,
+                "lng": -79.9765
             },
             "contact": {
                 "phone": "540-981-5471",
@@ -94420,7 +95063,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heuer-law-group",
@@ -94438,7 +95082,9 @@
                 "city": "Charlottesville",
                 "address": "2170 Lonicera Way",
                 "address2": null,
-                "zip": "22911"
+                "zip": "22911",
+                "lat": 38.0967,
+                "lng": -78.3994
             },
             "contact": {
                 "phone": "434-973-8883",
@@ -94466,7 +95112,8 @@
                 "Contracts",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "b-r-hicks-pc",
@@ -94484,7 +95131,9 @@
                 "city": "Fairfax",
                 "address": "10521 Judicial Drive",
                 "address2": "Suite 105-D",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "571-652-8643",
@@ -94524,7 +95173,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hodge-law-firm-plc",
@@ -94542,7 +95192,9 @@
                 "city": "Powhatan",
                 "address": "3810 Courthouse Tavern Lane",
                 "address2": "Suite 3",
-                "zip": "23139"
+                "zip": "23139",
+                "lat": 37.5529,
+                "lng": -77.9411
             },
             "contact": {
                 "phone": "804-396-2240",
@@ -94593,7 +95245,8 @@
                 "Traffic Ticket",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hogan-pritchard-pllc",
@@ -94611,7 +95264,9 @@
                 "city": "Fairfax",
                 "address": "4101 Chain Bridge Road",
                 "address2": "Suite 300",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-552-4014",
@@ -94650,7 +95305,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "holcomb-law-p-c",
@@ -94668,7 +95324,9 @@
                 "city": "Newport News",
                 "address": "720 Mall Parkway",
                 "address2": null,
-                "zip": "23602"
+                "zip": "23602",
+                "lat": 37.1141,
+                "lng": -76.5144
             },
             "contact": {
                 "phone": "757-656-1000",
@@ -94702,6 +95360,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newport News",
+                    "state": "VA",
+                    "zip": "23606",
+                    "address": "11815 Fountain Way, Suite 300",
+                    "phone": "(757) 387-1000",
+                    "lat": 37.0651,
+                    "lng": -76.5282
+                }
             ]
         },
         {
@@ -94720,7 +95389,9 @@
                 "city": "Tappahannock",
                 "address": "602 Church Ln",
                 "address2": null,
-                "zip": "22560"
+                "zip": "22560",
+                "lat": 37.9136,
+                "lng": -76.9777
             },
             "contact": {
                 "phone": "804-373-7349",
@@ -94743,6 +95414,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fredericksburg",
+                    "state": "VA",
+                    "zip": "22407",
+                    "address": "10209 Patriot Highway",
+                    "phone": "804-373-7349",
+                    "lat": 38.2634,
+                    "lng": -77.5982
+                }
             ]
         },
         {
@@ -94761,7 +95443,9 @@
                 "city": "Warrenton",
                 "address": "7 Hotel Street",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-340-3776",
@@ -94797,7 +95481,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-mark-f-hyson-plc",
@@ -94815,7 +95500,9 @@
                 "city": "Warrenton",
                 "address": "86 East Lee Street",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-347-3208",
@@ -94838,7 +95525,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-g-hyman-attorney-at-law",
@@ -94856,7 +95544,9 @@
                 "city": "Montross",
                 "address": "15885 Kings Highway",
                 "address2": null,
-                "zip": "22520"
+                "zip": "22520",
+                "lat": 38.1095,
+                "lng": -76.8077
             },
             "contact": {
                 "phone": "540-699-0746",
@@ -94881,6 +95571,17 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Stafford",
+                    "state": "VA",
+                    "zip": "22554",
+                    "address": "2102 Jefferson Davis Highway, First Floor",
+                    "phone": "540-699-0746",
+                    "lat": 38.4328,
+                    "lng": -77.3952
+                }
             ]
         },
         {
@@ -94899,7 +95600,9 @@
                 "city": "Henrico",
                 "address": "8100 Three Chopt Road",
                 "address2": "Suite 134",
-                "zip": "23229"
+                "zip": "23229",
+                "lat": 37.5939,
+                "lng": -77.5748
             },
             "contact": {
                 "phone": "804-728-0228",
@@ -94922,7 +95625,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "amaryllis-law",
@@ -94940,7 +95644,9 @@
                 "city": "Salem",
                 "address": "201. S College Ave",
                 "address2": null,
-                "zip": "24153"
+                "zip": "24153",
+                "lat": 37.2835,
+                "lng": -80.1193
             },
             "contact": {
                 "phone": "540-302-8897",
@@ -94970,7 +95676,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pikrallidas-probasco",
@@ -94988,7 +95695,9 @@
                 "city": "Fairfax",
                 "address": "10605 Judicial Drive",
                 "address2": "Suite A-4",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "571-648-6607",
@@ -95054,6 +95763,17 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manassas",
+                    "state": "VA",
+                    "zip": "20111",
+                    "address": "7290 Centreville Road, (By Appointment)",
+                    "phone": "+15716486607",
+                    "lat": 38.7532,
+                    "lng": -77.43
+                }
             ]
         },
         {
@@ -95072,7 +95792,9 @@
                 "city": "Roanoke",
                 "address": "120 Day Ave SW",
                 "address2": "#200",
-                "zip": "24016"
+                "zip": "24016",
+                "lat": 37.2705,
+                "lng": -79.9593
             },
             "contact": {
                 "phone": "540-443-0523",
@@ -95122,7 +95844,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "allen-allen-allen-allen-p-c",
@@ -95140,7 +95863,9 @@
                 "city": "Petersburg",
                 "address": "106 South Market St.",
                 "address2": null,
-                "zip": "23803"
+                "zip": "23803",
+                "lat": 37.206,
+                "lng": -77.4661
             },
             "contact": {
                 "phone": "804-376-9411",
@@ -95167,6 +95892,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Midlothian",
+                    "state": "VA",
+                    "zip": "23112",
+                    "address": "6123 Harbourside Centre Loop",
+                    "phone": "804-376-9411",
+                    "lat": 37.4381,
+                    "lng": -77.6725
+                }
             ]
         },
         {
@@ -95185,7 +95921,9 @@
                 "city": "Salem",
                 "address": "25 E. Main Street",
                 "address2": null,
-                "zip": "24153"
+                "zip": "24153",
+                "lat": 37.2835,
+                "lng": -80.1193
             },
             "contact": {
                 "phone": "540-384-1923",
@@ -95205,7 +95943,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garriott-maurer-pllc",
@@ -95223,7 +95962,9 @@
                 "city": "Virginia Beach",
                 "address": "5041 Corporate Woods Drive",
                 "address2": "Suite G180",
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": null,
@@ -95240,7 +95981,8 @@
                 "Richard E. Garriott Jr.",
                 "Patrick Maurer"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-patrick-j-kenney",
@@ -95258,7 +96000,9 @@
                 "city": "Roanoke",
                 "address": "1031 First Street S.W.",
                 "address2": null,
-                "zip": "24016"
+                "zip": "24016",
+                "lat": 37.2705,
+                "lng": -79.9593
             },
             "contact": {
                 "phone": "540-418-7058",
@@ -95285,7 +96029,8 @@
                 "DUI and DWI",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mehnaz-khan-law-pllc",
@@ -95303,7 +96048,9 @@
                 "city": "Fairfax",
                 "address": "10521 - A Braddock Road",
                 "address2": null,
-                "zip": "22032"
+                "zip": "22032",
+                "lat": 38.821,
+                "lng": -77.2889
             },
             "contact": {
                 "phone": "703-260-8005",
@@ -95335,7 +96082,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "k-page-kistler-p-c-family-law",
@@ -95353,7 +96101,9 @@
                 "city": "Virginia Beach",
                 "address": "909 First Colonial Road",
                 "address2": "Suite 101",
-                "zip": "23454"
+                "zip": "23454",
+                "lat": 36.8261,
+                "lng": -76.0261
             },
             "contact": {
                 "phone": "757-271-3279",
@@ -95395,7 +96145,8 @@
                 "Military Divorce",
                 "Same Sex",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-robin-n-krueger-plc",
@@ -95413,7 +96164,9 @@
                 "city": "Fredericksburg",
                 "address": "604A William Street",
                 "address2": null,
-                "zip": "22401"
+                "zip": "22401",
+                "lat": 38.2983,
+                "lng": -77.4914
             },
             "contact": {
                 "phone": "540-693-0201",
@@ -95437,7 +96190,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dulaney-lauer-thomas-llp",
@@ -95455,7 +96209,9 @@
                 "city": "Front Royal",
                 "address": "1516 N. Shenandoah Avenue",
                 "address2": "Suite C",
-                "zip": "22630"
+                "zip": "22630",
+                "lat": 38.9224,
+                "lng": -78.1726
             },
             "contact": {
                 "phone": "540-443-8625",
@@ -95482,6 +96238,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Warrenton",
+                    "state": "VA",
+                    "zip": "20186",
+                    "address": "28 Blackwell Park Lane, Suite 104",
+                    "phone": "540-905-7387",
+                    "lat": 38.7059,
+                    "lng": -77.8495
+                }
             ]
         },
         {
@@ -95500,7 +96267,9 @@
                 "city": "Arlington",
                 "address": "1100 N. Glebe Road",
                 "address2": "Suite 1010",
-                "zip": "22201"
+                "zip": "22201",
+                "lat": 38.8866,
+                "lng": -77.0947
             },
             "contact": {
                 "phone": "703-259-8731",
@@ -95529,7 +96298,8 @@
                 "Family Law",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "friedman-law-firm-pc",
@@ -95547,7 +96317,9 @@
                 "city": "Chesterfield",
                 "address": "9401 Courthouse Road",
                 "address2": "Suite A",
-                "zip": "23832"
+                "zip": "23832",
+                "lat": 37.4088,
+                "lng": -77.6085
             },
             "contact": {
                 "phone": "804-717-1969",
@@ -95564,7 +96336,8 @@
             "attorneys": [
                 "Harris W. Leiner"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "leitner-law-plc",
@@ -95582,7 +96355,9 @@
                 "city": "Harrisonburg",
                 "address": "2565 John Wayland Hwy",
                 "address2": "Suite 110",
-                "zip": "22801"
+                "zip": "22801",
+                "lat": 38.4142,
+                "lng": -78.8926
             },
             "contact": {
                 "phone": "540-442-7700",
@@ -95604,7 +96379,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-leiser-law-firm",
@@ -95622,7 +96398,9 @@
                 "city": "McLean",
                 "address": "1750 Tysons Blvd.",
                 "address2": "Suite 1500",
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "703-940-5916",
@@ -95657,7 +96435,8 @@
                 "Landlord and Tenant",
                 "Personal Injury",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "powell-radomsky-pllc",
@@ -95675,7 +96454,9 @@
                 "city": "Fairfax",
                 "address": "11350 Random Hills Rd.",
                 "address2": "Suite 420",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "866-368-2617",
@@ -95705,7 +96486,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williams-light",
@@ -95723,7 +96505,9 @@
                 "city": "Danville",
                 "address": "317 Patton Street",
                 "address2": null,
-                "zip": "24541"
+                "zip": "24541",
+                "lat": 36.6209,
+                "lng": -79.489
             },
             "contact": {
                 "phone": "434-483-5195",
@@ -95767,7 +96551,8 @@
                 "Professional Malpractice",
                 "Traffic Ticket",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "loeschen-law-firm-pllc",
@@ -95785,7 +96570,9 @@
                 "city": "Salem",
                 "address": "30 East Clay St. #210",
                 "address2": null,
-                "zip": "24153"
+                "zip": "24153",
+                "lat": 37.2835,
+                "lng": -80.1193
             },
             "contact": {
                 "phone": "877-645-0683",
@@ -95807,7 +96594,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lokker-law-plc",
@@ -95825,7 +96613,9 @@
                 "city": "Reston",
                 "address": "11710 Plaza America Drive",
                 "address2": "Suite 2000",
-                "zip": "20190"
+                "zip": "20190",
+                "lat": 38.961,
+                "lng": -77.3425
             },
             "contact": {
                 "phone": "703-860-4567",
@@ -95863,7 +96653,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-w-luxton-p-c",
@@ -95881,7 +96672,9 @@
                 "city": "Richmond",
                 "address": "100 W. Franklin Street",
                 "address2": "Suite 301",
-                "zip": "23220"
+                "zip": "23220",
+                "lat": 37.5513,
+                "lng": -77.4588
             },
             "contact": {
                 "phone": "804-643-0147",
@@ -95901,7 +96694,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lutins-pilgreen-pc",
@@ -95919,7 +96713,9 @@
                 "city": "Roanoke",
                 "address": "209 Mountain Avenue SW",
                 "address2": null,
-                "zip": "24016"
+                "zip": "24016",
+                "lat": 37.2705,
+                "lng": -79.9593
             },
             "contact": {
                 "phone": "540-934-4339",
@@ -95945,7 +96741,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "evolution-divorce-family-law",
@@ -95963,7 +96760,9 @@
                 "city": "Richmond",
                 "address": "1500 Forest Ave",
                 "address2": "Suite 117",
-                "zip": "23229"
+                "zip": "23229",
+                "lat": 37.5939,
+                "lng": -77.5748
             },
             "contact": {
                 "phone": null,
@@ -95976,7 +96775,8 @@
             "attorneys": [
                 "Christopher H. Macturk"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-simon-j-marle-pc",
@@ -95994,7 +96794,9 @@
                 "city": "Virginia Beach",
                 "address": "2697 International Parkway",
                 "address2": "Suite 106-2",
-                "zip": "23452"
+                "zip": "23452",
+                "lat": 36.8494,
+                "lng": -76.0955
             },
             "contact": {
                 "phone": "757-383-9915",
@@ -96033,7 +96835,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "anthony-martin-legal-pllc",
@@ -96051,7 +96854,9 @@
                 "city": "Charlottesville",
                 "address": "908 E Jefferson St",
                 "address2": "Suite G3",
-                "zip": "22902"
+                "zip": "22902",
+                "lat": 37.9538,
+                "lng": -78.4695
             },
             "contact": {
                 "phone": "434-317-9967",
@@ -96082,7 +96887,8 @@
                 "DUI and DWI",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mathis-mathis-the-disability-advocates",
@@ -96100,7 +96906,9 @@
                 "city": "Alexandria",
                 "address": "1650 King Street",
                 "address2": "Suite 650",
-                "zip": "22314"
+                "zip": "22314",
+                "lat": 38.814,
+                "lng": -77.064
             },
             "contact": {
                 "phone": "703-536-5000",
@@ -96123,7 +96931,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-d-mayoras-attorney-at-law-plc",
@@ -96141,7 +96950,9 @@
                 "city": "Fredericksburg",
                 "address": "614 Princess Anne Street",
                 "address2": null,
-                "zip": "22401"
+                "zip": "22401",
+                "lat": 38.2983,
+                "lng": -77.4914
             },
             "contact": {
                 "phone": "540-684-3834",
@@ -96171,7 +96982,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccormick-law-consulting",
@@ -96189,7 +97001,9 @@
                 "city": "Norfolk",
                 "address": "101 Granby Street",
                 "address2": "Suite 200",
-                "zip": "23510"
+                "zip": "23510",
+                "lat": 36.8522,
+                "lng": -76.2942
             },
             "contact": {
                 "phone": "757-317-2226",
@@ -96220,6 +97034,17 @@
                 "Real Estate",
                 "Trademarks",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27612",
+                    "address": "4801 Glenwood Avenue, Suite 200",
+                    "phone": "919-521-8820",
+                    "lat": 35.8519,
+                    "lng": -78.702
+                }
             ]
         },
         {
@@ -96238,7 +97063,9 @@
                 "city": "Lynchburg",
                 "address": "2482 Rivermont Avenue",
                 "address2": null,
-                "zip": "24503"
+                "zip": "24503",
+                "lat": 37.4488,
+                "lng": -79.2384
             },
             "contact": {
                 "phone": "434-845-4440",
@@ -96261,7 +97088,8 @@
                 "Dangerous Products",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcgrady-mcgrady-pllc",
@@ -96279,7 +97107,9 @@
                 "city": "Hillsville",
                 "address": "127 Mill Street",
                 "address2": "P.O. Box 605",
-                "zip": "24343"
+                "zip": "24343",
+                "lat": 36.7787,
+                "lng": -80.6712
             },
             "contact": {
                 "phone": "276-779-4451",
@@ -96310,7 +97140,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ryland-merchak-pc",
@@ -96328,7 +97159,9 @@
                 "city": "Woodbridge",
                 "address": "12728 Directors Loop",
                 "address2": null,
-                "zip": "22192"
+                "zip": "22192",
+                "lat": 38.6765,
+                "lng": -77.3171
             },
             "contact": {
                 "phone": "703-496-5273",
@@ -96357,7 +97190,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mersberger-criminal-defense-pllc",
@@ -96375,7 +97209,9 @@
                 "city": "Arlington",
                 "address": "1550 Wilson Blvd",
                 "address2": "Suite 700",
-                "zip": "22209"
+                "zip": "22209",
+                "lat": 38.8929,
+                "lng": -77.0726
             },
             "contact": {
                 "phone": "703-672-3174",
@@ -96396,7 +97232,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-daniel-j-miller",
@@ -96414,7 +97251,9 @@
                 "city": "Virginia Beach",
                 "address": "2725 Gator St.",
                 "address2": "Suite 100",
-                "zip": "23452"
+                "zip": "23452",
+                "lat": 36.8494,
+                "lng": -76.0955
             },
             "contact": {
                 "phone": "757-520-1500",
@@ -96440,7 +97279,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-webb-llp",
@@ -96458,7 +97298,9 @@
                 "city": "Roanoke",
                 "address": "1711 Grandin Road SW",
                 "address2": null,
-                "zip": "24015"
+                "zip": "24015",
+                "lat": 37.2542,
+                "lng": -79.9765
             },
             "contact": {
                 "phone": "540-443-0247",
@@ -96488,7 +97330,8 @@
                 "Family Law",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-peninsula-center-for-estate-and-lifelong-planning",
@@ -96506,7 +97349,9 @@
                 "city": "Williamsburg",
                 "address": "461 McLaws Circle",
                 "address2": "Suite 2",
-                "zip": "23185"
+                "zip": "23185",
+                "lat": 37.234,
+                "lng": -76.7365
             },
             "contact": {
                 "phone": "757-847-5596",
@@ -96527,7 +97372,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dominion-wealth-law-pllc",
@@ -96545,7 +97391,9 @@
                 "city": "Gainesville",
                 "address": "7420 Heritage Village Plaza",
                 "address2": "Suite 101",
-                "zip": "20155"
+                "zip": "20155",
+                "lat": 38.8133,
+                "lng": -77.6339
             },
             "contact": {
                 "phone": "703-753-2305",
@@ -96587,7 +97435,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "moheb-legal-defense-pllc",
@@ -96605,7 +97454,9 @@
                 "city": "Roanoke",
                 "address": "133 Salem Avenue SW",
                 "address2": "Suite 100",
-                "zip": "24011"
+                "zip": "24011",
+                "lat": 37.2708,
+                "lng": -79.9414
             },
             "contact": {
                 "phone": "540-627-5182",
@@ -96645,7 +97496,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ashley-f-morgan-law-pc",
@@ -96663,7 +97515,9 @@
                 "city": "Chantilly",
                 "address": "4100 Lafayette Center Dr",
                 "address2": "Suite 106",
-                "zip": "20151"
+                "zip": "20151",
+                "lat": 38.8862,
+                "lng": -77.451
             },
             "contact": {
                 "phone": "703-977-4711",
@@ -96696,6 +97550,17 @@
                 "Collections",
                 "Immigration",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manassas",
+                    "state": "VA",
+                    "zip": "20110",
+                    "address": "9071 Center St.",
+                    "phone": "+17039405973",
+                    "lat": 38.7462,
+                    "lng": -77.4891
+                }
             ]
         },
         {
@@ -96714,7 +97579,9 @@
                 "city": "Manassas",
                 "address": "9255 Lee Avenue",
                 "address2": null,
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-361-8246",
@@ -96740,7 +97607,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-krista-l-newton-pllc",
@@ -96758,7 +97626,9 @@
                 "city": "Manassas",
                 "address": "9238 B Mosby Street",
                 "address2": null,
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "571-659-4186",
@@ -96799,6 +97669,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Arlington",
+                    "state": "VA",
+                    "zip": "22201",
+                    "address": "2300 Wilson Blvd, Suite 700",
+                    "phone": "571-659-4186",
+                    "lat": 38.8866,
+                    "lng": -77.0947
+                }
             ]
         },
         {
@@ -96817,7 +97698,9 @@
                 "city": "McLean",
                 "address": "8200 Greensboro Drive",
                 "address2": "Suite 900",
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "703-291-4719",
@@ -96850,7 +97733,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-anthony-h-nourse",
@@ -96868,7 +97752,9 @@
                 "city": "Fairfax",
                 "address": "4151 Chain Bridge Road",
                 "address2": null,
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-881-9161",
@@ -96889,6 +97775,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manassas",
+                    "state": "VA",
+                    "zip": "20110",
+                    "address": "9315 Center Street, Suite 103",
+                    "phone": "(703) 659-2450",
+                    "lat": 38.7462,
+                    "lng": -77.4891
+                }
             ]
         },
         {
@@ -96907,7 +97804,9 @@
                 "city": "Manassas",
                 "address": "9116 Center Street",
                 "address2": "Suite 201",
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-940-5627",
@@ -96940,7 +97839,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spicer-olin-associates-p-c",
@@ -96958,7 +97858,9 @@
                 "city": "Blacksburg",
                 "address": "504 S Main St",
                 "address2": null,
-                "zip": "24060"
+                "zip": "24060",
+                "lat": 37.2668,
+                "lng": -80.4368
             },
             "contact": {
                 "phone": "540-934-0994",
@@ -97006,7 +97908,8 @@
                 "Professional Malpractice",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "park-park-p-c",
@@ -97024,7 +97927,9 @@
                 "city": "Fairfax",
                 "address": "10201 Fairfax Boulevard",
                 "address2": "Suite 450",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "703-997-9307",
@@ -97060,7 +97965,8 @@
                 "Real Estate",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whaley-paules-llc",
@@ -97078,7 +97984,9 @@
                 "city": "Richmond",
                 "address": "100 West Franklin Street",
                 "address2": "Suite 301",
-                "zip": "23220"
+                "zip": "23220",
+                "lat": 37.5513,
+                "lng": -77.4588
             },
             "contact": {
                 "phone": "804-857-0246",
@@ -97106,7 +98014,8 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "luis-a-perez-p-c-law-office",
@@ -97124,7 +98033,9 @@
                 "city": "Falls Church",
                 "address": "5881 Leesburg Pike",
                 "address2": "Suite B-2",
-                "zip": "22041"
+                "zip": "22041",
+                "lat": 38.8512,
+                "lng": -77.1448
             },
             "contact": {
                 "phone": "703-931-0804",
@@ -97144,7 +98055,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "e-gordon-peters-jr-attorney-at-law",
@@ -97162,7 +98074,9 @@
                 "city": "Lynchburg",
                 "address": "715 Court St",
                 "address2": null,
-                "zip": "24504"
+                "zip": "24504",
+                "lat": 37.3651,
+                "lng": -79.0752
             },
             "contact": {
                 "phone": "434-846-8737",
@@ -97184,6 +98098,17 @@
             ],
             "official_practice_area": [
                 "Adoption"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Blackstone",
+                    "state": "VA",
+                    "zip": "23824",
+                    "address": "203 S. Main St.",
+                    "phone": "434- 846-8737",
+                    "lat": 37.0848,
+                    "lng": -77.9543
+                }
             ]
         },
         {
@@ -97202,7 +98127,9 @@
                 "city": "Virginia Beach",
                 "address": "4417 Corporation Ln",
                 "address2": null,
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-932-6960",
@@ -97223,7 +98150,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-b-williams-associates-plc",
@@ -97241,7 +98169,9 @@
                 "city": "Warrenton",
                 "address": "27 Culpeper Street",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-952-3147",
@@ -97272,7 +98202,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "corey-pollard-law",
@@ -97290,7 +98221,9 @@
                 "city": "Richmond",
                 "address": "801 E Main St",
                 "address2": "#302a",
-                "zip": "23219"
+                "zip": "23219",
+                "lat": 37.5408,
+                "lng": -77.4393
             },
             "contact": {
                 "phone": "804-500-6915",
@@ -97335,7 +98268,8 @@
                 "Social Security Disability",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joseph-r-pricone-pllc",
@@ -97353,7 +98287,9 @@
                 "city": "Warrenton",
                 "address": "1 Wall St",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-934-0407",
@@ -97385,7 +98321,8 @@
                 "Federal and White Collar Crimes",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-joan-h-proper-pc",
@@ -97403,7 +98340,9 @@
                 "city": "Manassas",
                 "address": "9300 West Courthouse Road",
                 "address2": "Suite 306",
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-291-6660",
@@ -97430,7 +98369,8 @@
                 "Criminal Defense",
                 "Education",
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "russell-w-ray-pllc",
@@ -97448,7 +98388,9 @@
                 "city": "Springfield",
                 "address": "6225 Brandon Avenue",
                 "address2": "Suite #305",
-                "zip": "22150"
+                "zip": "22150",
+                "lat": 38.7611,
+                "lng": -77.186
             },
             "contact": {
                 "phone": "703-940-5836",
@@ -97484,7 +98426,8 @@
                 "Military",
                 "Military Divorce",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-mcgavock-reed-law-firm",
@@ -97502,7 +98445,9 @@
                 "city": "Alexandria",
                 "address": "277 S. Washington St.",
                 "address2": "Suite 210",
-                "zip": "22314"
+                "zip": "22314",
+                "lat": 38.814,
+                "lng": -77.064
             },
             "contact": {
                 "phone": "703-977-1859",
@@ -97530,7 +98475,8 @@
             ],
             "official_practice_area": [
                 "Ethics and Professional Responsibility"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jacqueline-m-reiner-pllc",
@@ -97548,7 +98494,9 @@
                 "city": "Glen Allen",
                 "address": "4860 Cox Road",
                 "address2": "Suite 200",
-                "zip": "23060"
+                "zip": "23060",
+                "lat": 37.6617,
+                "lng": -77.5313
             },
             "contact": {
                 "phone": "804-548-4457",
@@ -97572,7 +98520,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "renfro-renfro-pllc",
@@ -97590,7 +98539,9 @@
                 "city": "Richmond",
                 "address": "10710 Midlothian Tpke",
                 "address2": "Ste 202",
-                "zip": "23235"
+                "zip": "23235",
+                "lat": 37.5026,
+                "lng": -77.5694
             },
             "contact": {
                 "phone": "804-601-4433",
@@ -97618,6 +98569,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fredericksburg",
+                    "state": "VA",
+                    "zip": "22407",
+                    "address": "10333 Southpoint Landing Blvd, Ste 207",
+                    "phone": "804-601-4433",
+                    "lat": 38.2634,
+                    "lng": -77.5982
+                }
             ]
         },
         {
@@ -97636,7 +98598,9 @@
                 "city": "Alexandria",
                 "address": "620 Fort Williams Parkway",
                 "address2": null,
-                "zip": "22304"
+                "zip": "22304",
+                "lat": 38.8122,
+                "lng": -77.1264
             },
             "contact": {
                 "phone": "703-823-2292",
@@ -97653,7 +98617,8 @@
             ],
             "official_practice_area": [
                 "Environmental Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brien-roche-law",
@@ -97671,7 +98636,9 @@
                 "city": "Mclean",
                 "address": "8355-A Greensboro Drive",
                 "address2": null,
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "703-584-7210",
@@ -97710,6 +98677,17 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Alexandria",
+                    "state": "VA",
+                    "zip": "22304",
+                    "address": "4607 Newcombe Pl.",
+                    "phone": "703-584-7210",
+                    "lat": 38.8122,
+                    "lng": -77.1264
+                }
             ]
         },
         {
@@ -97728,7 +98706,9 @@
                 "city": "McLean",
                 "address": "8280 Greensboro Dr.",
                 "address2": "Suite 550",
-                "zip": "22102"
+                "zip": "22102",
+                "lat": 38.9599,
+                "lng": -77.2249
             },
             "contact": {
                 "phone": "703-749-6050",
@@ -97758,7 +98738,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ross-law",
@@ -97776,7 +98757,9 @@
                 "city": "Warrenton",
                 "address": "31 Garrett Street",
                 "address2": null,
-                "zip": "20186"
+                "zip": "20186",
+                "lat": 38.7059,
+                "lng": -77.8495
             },
             "contact": {
                 "phone": "540-952-3435",
@@ -97809,7 +98792,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bruce-h-russell-ii-p-c",
@@ -97827,7 +98811,9 @@
                 "city": "Lebanon",
                 "address": "29 East Main Street",
                 "address2": "P.O. Box 1420",
-                "zip": "24266"
+                "zip": "24266",
+                "lat": 36.8961,
+                "lng": -82.0254
             },
             "contact": {
                 "phone": "276-889-1750",
@@ -97847,6 +98833,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Abingdon",
+                    "state": "VA",
+                    "zip": "24210",
+                    "address": "851 French Moore Junior Boulevard",
+                    "phone": "276-889-1750",
+                    "lat": 36.7697,
+                    "lng": -82.0905
+                }
             ]
         },
         {
@@ -97865,7 +98862,9 @@
                 "city": "Vienna",
                 "address": "8045 Leesburg Pike",
                 "address2": "Fifth Floor",
-                "zip": "22182"
+                "zip": "22182",
+                "lat": 38.9361,
+                "lng": -77.2676
             },
             "contact": {
                 "phone": "703-790-1900",
@@ -97888,7 +98887,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "betty-russo-law-p-c",
@@ -97906,7 +98906,9 @@
                 "city": "Virginia Beach",
                 "address": "1 Columbus Center",
                 "address2": "Suite 600",
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-918-7862",
@@ -97935,7 +98937,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sabin-law-office-pc",
@@ -97953,7 +98956,9 @@
                 "city": "Martinsville",
                 "address": "21 Ellsworth St.",
                 "address2": "Mail: P.O. Box 1144",
-                "zip": "24112"
+                "zip": "24112",
+                "lat": 36.7397,
+                "lng": -79.8884
             },
             "contact": {
                 "phone": "276-226-4356",
@@ -97983,7 +98988,8 @@
                 "Family Law",
                 "Landlord and Tenant",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-gerald-a-schwartz",
@@ -98001,7 +99007,9 @@
                 "city": "Alexandria",
                 "address": "2827 Duke St",
                 "address2": null,
-                "zip": "22314"
+                "zip": "22314",
+                "lat": 38.814,
+                "lng": -77.064
             },
             "contact": {
                 "phone": "703-260-8896",
@@ -98027,7 +99035,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jamie-b-sexton-plc",
@@ -98045,7 +99054,9 @@
                 "city": "Richmond",
                 "address": "505 E Main St",
                 "address2": null,
-                "zip": "23219"
+                "zip": "23219",
+                "lat": 37.5408,
+                "lng": -77.4393
             },
             "contact": {
                 "phone": "804-644-0371",
@@ -98067,7 +99078,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cedar-law-center",
@@ -98085,7 +99097,9 @@
                 "city": "Virginia Beach",
                 "address": "1 Columbus Center",
                 "address2": "Suite 632",
-                "zip": "23462"
+                "zip": "23462",
+                "lat": 36.8357,
+                "lng": -76.1466
             },
             "contact": {
                 "phone": "757-490-7802",
@@ -98106,7 +99120,8 @@
                 "Divorce and Separation",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shevlin-smith-p-c",
@@ -98124,7 +99139,9 @@
                 "city": "Fairfax",
                 "address": "10513 Judicial Drive",
                 "address2": "Suite 200",
-                "zip": "22030"
+                "zip": "22030",
+                "lat": 38.8373,
+                "lng": -77.342
             },
             "contact": {
                 "phone": "571-562-6507",
@@ -98156,7 +99173,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shrader-goad",
@@ -98174,7 +99192,9 @@
                 "city": "Amherst",
                 "address": "330 South Main Street",
                 "address2": null,
-                "zip": "24521"
+                "zip": "24521",
+                "lat": 37.6235,
+                "lng": -79.0923
             },
             "contact": {
                 "phone": "434-946-5161",
@@ -98194,6 +99214,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Amherst",
+                    "state": "VA",
+                    "zip": "24521",
+                    "address": "Post Office Box 428",
+                    "phone": "434-946-5161",
+                    "lat": 37.6235,
+                    "lng": -79.0923
+                }
             ]
         },
         {
@@ -98212,7 +99243,9 @@
                 "city": "Virginia Beach",
                 "address": "317 30th Street",
                 "address2": null,
-                "zip": "23451"
+                "zip": "23451",
+                "lat": 36.8572,
+                "lng": -76.0282
             },
             "contact": {
                 "phone": "757-671-6000",
@@ -98243,7 +99276,8 @@
             ],
             "official_practice_area": [
                 "Aviation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hart-law-pllc",
@@ -98261,7 +99295,9 @@
                 "city": "Charlottesville",
                 "address": "1020 Ednam Center",
                 "address2": "Suite 002",
-                "zip": "22903"
+                "zip": "22903",
+                "lat": 38.0027,
+                "lng": -78.6089
             },
             "contact": {
                 "phone": "540-208-0907",
@@ -98281,6 +99317,26 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Harrisonburg",
+                    "state": "VA",
+                    "zip": "22801",
+                    "address": "590 Neff Avenue, Suite 2000",
+                    "phone": "(540) 574-0366",
+                    "lat": 38.4142,
+                    "lng": -78.8926
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10036",
+                    "address": "1501 Broadway, 12th Floor",
+                    "phone": "(540) 208-0907",
+                    "lat": 40.7595,
+                    "lng": -73.9899
+                }
             ]
         },
         {
@@ -98299,7 +99355,9 @@
                 "city": "Manassas",
                 "address": "7930 Donegan Drive",
                 "address2": null,
-                "zip": "20109"
+                "zip": "20109",
+                "lat": 38.7937,
+                "lng": -77.5365
             },
             "contact": {
                 "phone": "703-659-0477",
@@ -98333,7 +99391,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tiller-law-craig-p-tiller-esq-pllc",
@@ -98351,7 +99410,9 @@
                 "city": "Forest",
                 "address": "15421 Forest Road",
                 "address2": "Suite D",
-                "zip": "24551"
+                "zip": "24551",
+                "lat": 37.3649,
+                "lng": -79.3146
             },
             "contact": {
                 "phone": "434-338-7093",
@@ -98397,7 +99458,8 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cody-villalon",
@@ -98415,7 +99477,9 @@
                 "city": "Richmond",
                 "address": "100 W Franklin St.",
                 "address2": "Suite 301",
-                "zip": "23220"
+                "zip": "23220",
+                "lat": 37.5513,
+                "lng": -77.4588
             },
             "contact": {
                 "phone": "804-979-1122",
@@ -98440,7 +99504,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "radford-wandrei-p-c",
@@ -98458,7 +99523,9 @@
                 "city": "Bedford",
                 "address": "112 S. Bridge Street",
                 "address2": null,
-                "zip": "24523"
+                "zip": "24523",
+                "lat": 37.3399,
+                "lng": -79.5274
             },
             "contact": {
                 "phone": "540-999-4272",
@@ -98506,7 +99573,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kathleen-grace-walsh",
@@ -98524,7 +99592,9 @@
                 "city": "Occoquan",
                 "address": "206 Commerce Street",
                 "address2": null,
-                "zip": "22125"
+                "zip": "22125",
+                "lat": 38.6829,
+                "lng": -77.2589
             },
             "contact": {
                 "phone": "571-648-4046",
@@ -98550,7 +99620,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tucker-l-watson-p-c",
@@ -98568,7 +99639,9 @@
                 "city": "Eastville",
                 "address": "16414 Courthouse Rd.",
                 "address2": "Eastville, VA 23347, Mailing Address, P.O. Box 455",
-                "zip": "23347"
+                "zip": "23347",
+                "lat": 37.351,
+                "lng": -75.9394
             },
             "contact": {
                 "phone": "757-678-5470",
@@ -98602,7 +99675,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-weiland-firm-plc",
@@ -98620,7 +99694,9 @@
                 "city": "Richmond",
                 "address": "3437 W Cary St",
                 "address2": null,
-                "zip": "23221"
+                "zip": "23221",
+                "lat": 37.5521,
+                "lng": -77.5001
             },
             "contact": {
                 "phone": "804-533-1425",
@@ -98647,7 +99723,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whiting-injury-law",
@@ -98665,7 +99742,9 @@
                 "city": "Roanoke",
                 "address": "3603 Brambleton Ave.",
                 "address2": null,
-                "zip": "24018"
+                "zip": "24018",
+                "lat": 37.2167,
+                "lng": -80.0386
             },
             "contact": {
                 "phone": "540-443-2593",
@@ -98698,7 +99777,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitbeck-bennett",
@@ -98716,7 +99796,9 @@
                 "city": "Richmond",
                 "address": "8003 Franklin Farms Dr.",
                 "address2": "Suite 102",
-                "zip": "23229"
+                "zip": "23229",
+                "lat": 37.5939,
+                "lng": -77.5748
             },
             "contact": {
                 "phone": "888-480-3781",
@@ -98750,6 +99832,62 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tysons",
+                    "state": "VA",
+                    "zip": "22182",
+                    "address": "8300 Boone Blvd, Suite 250",
+                    "phone": "571-888-5903",
+                    "lat": 38.9361,
+                    "lng": -77.2676
+                },
+                {
+                    "city": "Rockville",
+                    "state": "MD",
+                    "zip": "20850",
+                    "address": "51 Monroe St., #1207",
+                    "phone": "+18553369848",
+                    "lat": 39.0892,
+                    "lng": -77.1909
+                },
+                {
+                    "city": "Wilmington",
+                    "state": "DE",
+                    "zip": "19806",
+                    "address": "1509 Gilpin Ave, #1",
+                    "phone": "+18553369848",
+                    "lat": 39.7619,
+                    "lng": -75.5642
+                },
+                {
+                    "city": "St Petersburg",
+                    "state": "FL",
+                    "zip": "33701",
+                    "address": "136 4th St. N., Ste. 201",
+                    "phone": "+18553369848",
+                    "lat": 27.7706,
+                    "lng": -82.6362
+                },
+                {
+                    "city": "Oklahoma City",
+                    "state": "OK",
+                    "zip": "73106",
+                    "address": "1901 N Classen Blvd, Suite 222-1",
+                    "phone": "+18553369848",
+                    "lat": 35.4824,
+                    "lng": -97.5367
+                },
+                {
+                    "city": "McKinney",
+                    "state": "TX",
+                    "zip": "75070",
+                    "address": "5900 S Lake Forest Dr, #415",
+                    "phone": "+18553369848",
+                    "lat": 33.1709,
+                    "lng": -96.6925
+                }
             ]
         },
         {
@@ -98768,7 +99906,9 @@
                 "city": "Manassas",
                 "address": "9252B Mosby Street",
                 "address2": null,
-                "zip": "20110"
+                "zip": "20110",
+                "lat": 38.7462,
+                "lng": -77.4891
             },
             "contact": {
                 "phone": "703-997-9156",
@@ -98798,7 +99938,8 @@
                 "Foreclosure and Alternatives",
                 "Traffic Ticket",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "zobrist-law-group-pllc",
@@ -98816,7 +99957,9 @@
                 "city": "Charlottesville",
                 "address": "1900 Arlington Boulevard",
                 "address2": "Suite B",
-                "zip": "22903"
+                "zip": "22903",
+                "lat": 38.0027,
+                "lng": -78.6089
             },
             "contact": {
                 "phone": "434-977-9666",
@@ -98842,7 +99985,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

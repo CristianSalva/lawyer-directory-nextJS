@@ -27804,7 +27804,9 @@
                 "city": "Henderson",
                 "address": "1057 Whitney Ranch Drive",
                 "address2": "Suite 350",
-                "zip": "89014"
+                "zip": "89014",
+                "lat": 36.0588,
+                "lng": -115.0574
             },
             "contact": {
                 "phone": "702-893-9500",
@@ -27865,6 +27867,17 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89134",
+                    "address": "1707 Village Center Circle, Suite 200",
+                    "phone": "702-893-9500",
+                    "lat": 36.1978,
+                    "lng": -115.3104
+                }
             ]
         },
         {
@@ -27883,7 +27896,9 @@
                 "city": "Las Vegas",
                 "address": "7881 W. Charleston Blvd.",
                 "address2": "Suite 165",
-                "zip": "89117"
+                "zip": "89117",
+                "lat": 36.1424,
+                "lng": -115.2793
             },
             "contact": {
                 "phone": "800-580-9167",
@@ -27904,7 +27919,8 @@
             ],
             "official_practice_area": [
                 "Education"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lerner-rowe",
@@ -27922,7 +27938,9 @@
                 "city": "Las Vegas",
                 "address": "4795 S Durango Dr",
                 "address2": null,
-                "zip": "89147"
+                "zip": "89147",
+                "lat": 36.1121,
+                "lng": -115.279
             },
             "contact": {
                 "phone": "602-977-1900",
@@ -27949,6 +27967,98 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "North Las Vegas",
+                    "state": "NV",
+                    "zip": "89032",
+                    "address": "3155 W Craig Rd #100",
+                    "phone": "602-977-1900",
+                    "lat": 36.2176,
+                    "lng": -115.173
+                },
+                {
+                    "city": "Bullhead City",
+                    "state": "AZ",
+                    "zip": "86442",
+                    "address": "1850 AZ-95",
+                    "phone": "602-977-1900",
+                    "lat": 35.0848,
+                    "lng": -114.5699
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90025",
+                    "address": "12400 Wilshire #1100",
+                    "phone": "310-INJURED",
+                    "lat": 34.0454,
+                    "lng": -118.4436
+                },
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87110",
+                    "address": "2711 Carlisle Blvd NE",
+                    "phone": "575-544-4444",
+                    "lat": 35.1091,
+                    "lng": -106.5775
+                },
+                {
+                    "city": "Houston",
+                    "state": "TX",
+                    "zip": "87109",
+                    "address": "100 Sun Avenue N.E., Ste 646",
+                    "phone": "281-222-2222",
+                    "lat": 35.1512,
+                    "lng": -106.57
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60616",
+                    "address": "114 E Cermak Rd",
+                    "phone": "708-222-2222",
+                    "lat": 41.8458,
+                    "lng": -87.6247
+                },
+                {
+                    "city": "Merrillville",
+                    "state": "IN",
+                    "zip": "46410",
+                    "address": "421 81st Ave",
+                    "phone": "219-999-0122",
+                    "lat": 41.481,
+                    "lng": -87.3164
+                },
+                {
+                    "city": "Franklin",
+                    "state": "TN",
+                    "zip": "37067",
+                    "address": "725 Cool Springs Blvd Suite 600",
+                    "phone": "615-333-8888",
+                    "lat": 35.9084,
+                    "lng": -86.7779
+                },
+                {
+                    "city": "Birmingham",
+                    "state": "AL",
+                    "zip": "35203",
+                    "address": "2224 1st Avenue North",
+                    "phone": "844-977-1900",
+                    "lat": 33.5193,
+                    "lng": -86.8075
+                },
+                {
+                    "city": "Bonita Springs",
+                    "state": "FL",
+                    "zip": "34135",
+                    "address": "27911 Crown Lake Blvd, Suite 219",
+                    "phone": "888-999-2222",
+                    "lat": 26.3683,
+                    "lng": -81.7328
+                }
             ]
         },
         {
@@ -27967,7 +28077,9 @@
                 "city": "Las Vegas",
                 "address": "710 S 7th Street",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-357-9977",
@@ -27997,7 +28109,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morris-sullivan-lemkul-llp",
@@ -28015,7 +28128,9 @@
                 "city": "Las Vegas",
                 "address": "3960 Howard Hughes Parkway",
                 "address2": "Suite 400",
-                "zip": "89169"
+                "zip": "89169",
+                "lat": 36.1225,
+                "lng": -115.1439
             },
             "contact": {
                 "phone": "702-405-8100",
@@ -28052,6 +28167,35 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Trademarks"
+            ],
+            "additional_locations": [
+                {
+                    "city": "San Diego",
+                    "state": "CA",
+                    "zip": "92131",
+                    "address": "9915 Mira Mesa Boulevard, Suite 300",
+                    "phone": "858-566-7600",
+                    "lat": 32.9154,
+                    "lng": -117.0836
+                },
+                {
+                    "city": "Austin",
+                    "state": "TX",
+                    "zip": "78738",
+                    "address": "2801 Flintrock Trace, Suite 2011",
+                    "phone": "512-566-7336",
+                    "lat": 30.3048,
+                    "lng": -97.9967
+                },
+                {
+                    "city": "Honolulu",
+                    "state": "HI",
+                    "zip": "96814",
+                    "address": "1050 Queen Street, Suite 100",
+                    "phone": "808-213-6113",
+                    "lat": 21.2939,
+                    "lng": -157.8467
+                }
             ]
         },
         {
@@ -28070,7 +28214,9 @@
                 "city": "Las Vegas",
                 "address": "6900 Westcliff Drive",
                 "address2": "Suite 500",
-                "zip": "89145"
+                "zip": "89145",
+                "lat": 36.1702,
+                "lng": -115.2838
             },
             "contact": {
                 "phone": "702-517-5687",
@@ -28090,7 +28236,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "behzadi-law",
@@ -28108,7 +28255,9 @@
                 "city": "Las Vegas",
                 "address": "7720 W Sahara Ave",
                 "address2": "#106",
-                "zip": "89117"
+                "zip": "89117",
+                "lat": 36.1424,
+                "lng": -115.2793
             },
             "contact": {
                 "phone": "702-356-7096",
@@ -28133,7 +28282,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edward-m-bernstein-associates-accident-and-injury-lawyers",
@@ -28151,7 +28301,9 @@
                 "city": "Las Vegas",
                 "address": "10801 W. Charleston Blvd.",
                 "address2": "Ste. 520",
-                "zip": "89135"
+                "zip": "89135",
+                "lat": 36.1211,
+                "lng": -115.3508
             },
             "contact": {
                 "phone": "702-240-0000",
@@ -28177,6 +28329,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89101",
+                    "address": "400 S. 4th Street, 3rd Floor",
+                    "phone": "702-240-0000",
+                    "lat": 36.1736,
+                    "lng": -115.1264
+                }
             ]
         },
         {
@@ -28195,7 +28358,9 @@
                 "city": "Las Vegas",
                 "address": "300 S 4th St #701",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-706-0727",
@@ -28238,6 +28403,17 @@
                 "Probate",
                 "Real Estate",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90025",
+                    "address": "12100 Wilshire Blvd, Suite 800",
+                    "phone": "310-220-0598",
+                    "lat": 34.0454,
+                    "lng": -118.4436
+                }
             ]
         },
         {
@@ -28256,7 +28432,9 @@
                 "city": "Las Vegas",
                 "address": "631 S. 9th St.",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-447-0080",
@@ -28281,7 +28459,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "friedman-throop",
@@ -28299,7 +28478,9 @@
                 "city": "Reno",
                 "address": "300 S. Arlington Ave.",
                 "address2": null,
-                "zip": "89501"
+                "zip": "89501",
+                "lat": 39.5285,
+                "lng": -119.8043
             },
             "contact": {
                 "phone": "775-322-6500",
@@ -28328,7 +28509,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "boyer-law-group",
@@ -28346,7 +28528,9 @@
                 "city": "Las Vegas",
                 "address": "5235 S. Durango Drive",
                 "address2": "Suite 103",
-                "zip": "89113"
+                "zip": "89113",
+                "lat": 36.0601,
+                "lng": -115.2644
             },
             "contact": {
                 "phone": "702-706-0921",
@@ -28383,7 +28567,8 @@
                 "Trusts",
                 "Veteran's Benefits",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "h-p-law",
@@ -28401,7 +28586,9 @@
                 "city": "Las Vegas",
                 "address": "710 S 9th St",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "725-677-1504",
@@ -28436,7 +28623,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keating-law-group",
@@ -28454,7 +28642,9 @@
                 "city": "Las Vegas",
                 "address": "9130 West Russell Road",
                 "address2": "Suite 200",
-                "zip": "89148"
+                "zip": "89148",
+                "lat": 36.0603,
+                "lng": -115.2972
             },
             "contact": {
                 "phone": "702-228-6800",
@@ -28506,7 +28696,8 @@
                 "Probate",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michaelson-law",
@@ -28524,7 +28715,9 @@
                 "city": "Henderson",
                 "address": "1746 W Horizon Ridge Pkwy",
                 "address2": null,
-                "zip": "89012"
+                "zip": "89012",
+                "lat": 36.0085,
+                "lng": -115.04
             },
             "contact": {
                 "phone": "725-696-6809",
@@ -28567,6 +28760,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89147",
+                    "address": "9930 W. Flamingo Rd, #105",
+                    "phone": "702-731-2333",
+                    "lat": 36.1121,
+                    "lng": -115.279
+                }
             ]
         },
         {
@@ -28585,7 +28789,9 @@
                 "city": "Las Vegas",
                 "address": "2810 W Charleston Boulevard",
                 "address2": "Suite F-58",
-                "zip": "89102"
+                "zip": "89102",
+                "lat": 36.1427,
+                "lng": -115.1809
             },
             "contact": {
                 "phone": "702-707-2069",
@@ -28624,7 +28830,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "calderon-law",
@@ -28642,7 +28849,9 @@
                 "city": "Las Vegas",
                 "address": "3909 S. Maryland Parkway",
                 "address2": "Suite 304",
-                "zip": "89119"
+                "zip": "89119",
+                "lat": 36.0895,
+                "lng": -115.1496
             },
             "contact": {
                 "phone": "702-932-7656",
@@ -28661,7 +28870,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carbajal-law",
@@ -28679,7 +28889,9 @@
                 "city": "Las Vegas",
                 "address": "10001 W. Park Run Dr.",
                 "address2": null,
-                "zip": "89145"
+                "zip": "89145",
+                "lat": 36.1702,
+                "lng": -115.2838
             },
             "contact": {
                 "phone": "702-707-6852",
@@ -28705,7 +28917,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cassady-law-offices-p-c",
@@ -28723,7 +28936,9 @@
                 "city": "Las Vegas",
                 "address": "10799 West Twain Avenue",
                 "address2": null,
-                "zip": "89135"
+                "zip": "89135",
+                "lat": 36.1211,
+                "lng": -115.3508
             },
             "contact": {
                 "phone": "702-744-8010",
@@ -28746,6 +28961,17 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Henderson",
+                    "state": "NV",
+                    "zip": "89052",
+                    "address": "2400 W. Horizon Ridge Parkway",
+                    "phone": "+17256771208",
+                    "lat": 35.9816,
+                    "lng": -115.1132
+                }
             ]
         },
         {
@@ -28764,7 +28990,9 @@
                 "city": "Las Vegas",
                 "address": "9950 W. Flamingo Rd.",
                 "address2": "#100",
-                "zip": "89147"
+                "zip": "89147",
+                "lat": 36.1121,
+                "lng": -115.279
             },
             "contact": {
                 "phone": "702-318-5060",
@@ -28792,7 +29020,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-park-law",
@@ -28810,7 +29039,9 @@
                 "city": "Las Vegas",
                 "address": "8930 W Sunset Rd",
                 "address2": "Suite 200",
-                "zip": "89148"
+                "zip": "89148",
+                "lat": 36.0603,
+                "lng": -115.2972
             },
             "contact": {
                 "phone": "702-637-4360",
@@ -28851,6 +29082,26 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cottonwood Heights",
+                    "state": "UT",
+                    "zip": "84047",
+                    "address": "6975 S Union Park Avenue, Suite 600",
+                    "phone": "+17259990949",
+                    "lat": 40.6128,
+                    "lng": -111.8848
+                },
+                {
+                    "city": "Pleasanton",
+                    "state": "CA",
+                    "zip": "94588",
+                    "address": "4900 Hopyard Road, West Lobby - Suite 100",
+                    "phone": "+17259990949",
+                    "lat": 37.6902,
+                    "lng": -121.9022
+                }
             ]
         },
         {
@@ -28869,7 +29120,9 @@
                 "city": "Las Vegas",
                 "address": "400 South 4th St",
                 "address2": "#500",
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "725-999-2720",
@@ -28901,7 +29154,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wooldridge-law-injury-lawyers",
@@ -28919,7 +29173,9 @@
                 "city": "Las Vegas",
                 "address": "400 S 7th St",
                 "address2": "Ste 490",
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "888-760-3491",
@@ -28945,6 +29201,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89101",
+                    "address": "400 S. 7th St., #401",
+                    "phone": "+18552635716",
+                    "lat": 36.1736,
+                    "lng": -115.1264
+                }
             ]
         },
         {
@@ -28963,7 +29230,9 @@
                 "city": "Las Vegas",
                 "address": "428 S. 4th Street",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-386-0000",
@@ -28994,7 +29263,8 @@
                 "Mergers and Acquisitions",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cogburn-davidson",
@@ -29012,7 +29282,9 @@
                 "city": "Henderson",
                 "address": "2580 St. Rose Parkway",
                 "address2": "Suite 330",
-                "zip": "89074"
+                "zip": "89074",
+                "lat": 36.0313,
+                "lng": -115.0739
             },
             "contact": {
                 "phone": "702-747-6000",
@@ -29046,7 +29318,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hawkins-melendrez-pc",
@@ -29064,7 +29337,9 @@
                 "city": "Las Vegas",
                 "address": "1645 Village Center Circle",
                 "address2": "Suite 160",
-                "zip": "89134"
+                "zip": "89134",
+                "lat": 36.1978,
+                "lng": -115.3104
             },
             "contact": {
                 "phone": "702-623-6614",
@@ -29087,7 +29362,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-dickerson-karacsonyi-law-group",
@@ -29105,7 +29381,9 @@
                 "city": "Las Vegas",
                 "address": "1645 Village Center Circle",
                 "address2": "Suite 161",
-                "zip": "89134"
+                "zip": "89134",
+                "lat": 36.1978,
+                "lng": -115.3104
             },
             "contact": {
                 "phone": "702-388-8600",
@@ -29145,7 +29423,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "diaz-galt-llc",
@@ -29163,7 +29442,9 @@
                 "city": "Las Vegas",
                 "address": "2820 West Charleston Boulevard",
                 "address2": "Suite 28",
-                "zip": "89102"
+                "zip": "89102",
+                "lat": 36.1427,
+                "lng": -115.1809
             },
             "contact": {
                 "phone": "877-324-6443",
@@ -29191,7 +29472,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grant-morris-dodds",
@@ -29209,7 +29491,9 @@
                 "city": "Las Vegas",
                 "address": "10161 W Park Run Dr",
                 "address2": "#230",
-                "zip": "89135"
+                "zip": "89135",
+                "lat": 36.1211,
+                "lng": -115.3508
             },
             "contact": {
                 "phone": "702-613-0633",
@@ -29248,6 +29532,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Henderson",
+                    "state": "NV",
+                    "zip": "89074",
+                    "address": "2520 St Rose Pkwy #319",
+                    "phone": "702-613-0633",
+                    "lat": 36.0313,
+                    "lng": -115.0739
+                }
             ]
         },
         {
@@ -29266,7 +29561,9 @@
                 "city": "Las Vegas",
                 "address": "9060 W. Cheyenne Avenue",
                 "address2": null,
-                "zip": "89129"
+                "zip": "89129",
+                "lat": 36.231,
+                "lng": -115.2902
             },
             "contact": {
                 "phone": "855-664-0615",
@@ -29296,7 +29593,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-thater-law-group-pc",
@@ -29314,7 +29612,9 @@
                 "city": "Las Vegas",
                 "address": "6390 W. Cheyenne Ave.",
                 "address2": "Ste. A",
-                "zip": "89108"
+                "zip": "89108",
+                "lat": 36.2144,
+                "lng": -115.2132
             },
             "contact": {
                 "phone": "702-839-5218",
@@ -29333,7 +29633,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fales-law-group",
@@ -29351,7 +29652,9 @@
                 "city": "Las Vegas",
                 "address": "8689 W Sahara Ave",
                 "address2": "Suite 200",
-                "zip": "89117"
+                "zip": "89117",
+                "lat": 36.1424,
+                "lng": -115.2793
             },
             "contact": {
                 "phone": "702-707-7478",
@@ -29376,7 +29679,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flake-flake-attorneys-at-law",
@@ -29394,7 +29698,9 @@
                 "city": "Henderson",
                 "address": "8905 S Pecos Road",
                 "address2": "Suite 23B",
-                "zip": "89074"
+                "zip": "89074",
+                "lat": 36.0313,
+                "lng": -115.0739
             },
             "contact": {
                 "phone": "702-818-1800",
@@ -29435,7 +29741,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pecos-law-group",
@@ -29453,7 +29760,9 @@
                 "city": "Henderson",
                 "address": "8925 S Pecos Road",
                 "address2": "Suite 14A",
-                "zip": "89074"
+                "zip": "89074",
+                "lat": 36.0313,
+                "lng": -115.0739
             },
             "contact": {
                 "phone": "725-245-7001",
@@ -29486,7 +29795,8 @@
                 "Family Law",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pitaro-fumo-chtd",
@@ -29504,7 +29814,9 @@
                 "city": "Las Vegas",
                 "address": "601 Las Vegas Blvd. South",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-744-4126",
@@ -29533,7 +29845,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldsmith-guymon-p-c",
@@ -29551,7 +29864,9 @@
                 "city": "Las Vegas",
                 "address": "2055 Village Center Circle",
                 "address2": null,
-                "zip": "89134"
+                "zip": "89134",
+                "lat": 36.1978,
+                "lng": -115.3104
             },
             "contact": {
                 "phone": "702-475-9463",
@@ -29579,7 +29894,8 @@
                 "Estate Planning",
                 "Probate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goodman-law-group",
@@ -29597,7 +29913,9 @@
                 "city": "Las Vegas",
                 "address": "520 S 4th St #200",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-744-5477",
@@ -29635,7 +29953,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hanratty-law-group",
@@ -29653,7 +29972,9 @@
                 "city": "Las Vegas",
                 "address": "1815 Village Center Circle",
                 "address2": "Ste 140",
-                "zip": "89134"
+                "zip": "89134",
+                "lat": 36.1978,
+                "lng": -115.3104
             },
             "contact": {
                 "phone": "702-637-2058",
@@ -29675,7 +29996,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jill-hanlon",
@@ -29693,7 +30015,9 @@
                 "city": "Las Vegas",
                 "address": "2620 Regatta Drive",
                 "address2": "Suite 102",
-                "zip": "89128"
+                "zip": "89128",
+                "lat": 36.198,
+                "lng": -115.2658
             },
             "contact": {
                 "phone": "877-321-1721",
@@ -29720,7 +30044,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jimmerson-hansen-p-c",
@@ -29738,7 +30063,9 @@
                 "city": "Las Vegas",
                 "address": "415 S 6th St. # 100",
                 "address2": "Suite 100",
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-388-7171",
@@ -29790,7 +30117,8 @@
                 "Professional Malpractice",
                 "Real Estate",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-defense-firm",
@@ -29808,7 +30136,9 @@
                 "city": "Las Vegas",
                 "address": "8180 Rafael Rivera Way",
                 "address2": "Suite 205",
-                "zip": "89113"
+                "zip": "89113",
+                "lat": 36.0601,
+                "lng": -115.2644
             },
             "contact": {
                 "phone": "725-293-5024",
@@ -29831,7 +30161,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the702firm-injury-attorneys",
@@ -29849,7 +30180,9 @@
                 "city": "Las Vegas",
                 "address": "8335 W. Flamingo Road",
                 "address2": null,
-                "zip": "89147"
+                "zip": "89147",
+                "lat": 36.1121,
+                "lng": -115.279
             },
             "contact": {
                 "phone": "702-776-3333",
@@ -29904,7 +30237,8 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-jain",
@@ -29922,7 +30256,9 @@
                 "city": "Henderson",
                 "address": "64 N. Pecos Rd.",
                 "address2": "Suite 100",
-                "zip": "89074"
+                "zip": "89074",
+                "lat": 36.0313,
+                "lng": -115.0739
             },
             "contact": {
                 "phone": "725-677-3711",
@@ -29957,7 +30293,8 @@
                 "Divorce and Separation",
                 "Education",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-janda-law-firm",
@@ -29975,7 +30312,9 @@
                 "city": "Las Vegas",
                 "address": "2020 Wellness Way",
                 "address2": "Suite #200",
-                "zip": "89106"
+                "zip": "89106",
+                "lat": 36.181,
+                "lng": -115.164
             },
             "contact": {
                 "phone": "702-744-2691",
@@ -30002,6 +30341,26 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60606",
+                    "address": "155 N Wacker Dr, #4250a",
+                    "phone": "+17027442691",
+                    "lat": 41.8829,
+                    "lng": -87.6368
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20009",
+                    "address": "1802 Vernon Street NW, PMB2415",
+                    "phone": "+17027442691",
+                    "lat": 38.9204,
+                    "lng": -77.0386
+                }
             ]
         },
         {
@@ -30020,7 +30379,9 @@
                 "city": "Las Vegas",
                 "address": "6980 S. Cimarron Rd.",
                 "address2": "Ste. 110",
-                "zip": "89113"
+                "zip": "89113",
+                "lat": 36.0601,
+                "lng": -115.2644
             },
             "contact": {
                 "phone": "702-829-7721",
@@ -30052,6 +30413,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lehi",
+                    "state": "UT",
+                    "zip": "84043",
+                    "address": "3381 W. Mayflower Ave., Suite 275",
+                    "phone": "801-988-5563",
+                    "lat": 40.4021,
+                    "lng": -111.878
+                }
             ]
         },
         {
@@ -30070,7 +30442,9 @@
                 "city": "Henderson",
                 "address": "2900 W Horizon Ridge Pkwy",
                 "address2": "Ste. 200",
-                "zip": "89052"
+                "zip": "89052",
+                "lat": 35.9816,
+                "lng": -115.1132
             },
             "contact": {
                 "phone": "702-608-0835",
@@ -30111,7 +30485,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "benson-bingham-car-accident-personal-injury-lawyers",
@@ -30129,7 +30504,9 @@
                 "city": "Las Vegas",
                 "address": "626 S 10th St",
                 "address2": null,
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "725-262-3479",
@@ -30184,6 +30561,17 @@
                 "Premises Liability",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89123",
+                    "address": "9230 S Eastern Ave, #155",
+                    "phone": "+17252625892",
+                    "lat": 36.0354,
+                    "lng": -115.1495
+                }
             ]
         },
         {
@@ -30202,7 +30590,9 @@
                 "city": "Las Vegas",
                 "address": "The Riley Building",
                 "address2": "4175 S. Riley St., Suite 102",
-                "zip": "89147"
+                "zip": "89147",
+                "lat": 36.1121,
+                "lng": -115.279
             },
             "contact": {
                 "phone": "702-829-7510",
@@ -30224,7 +30614,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-firm-of-laub-laub",
@@ -30242,7 +30633,9 @@
                 "city": "Reno",
                 "address": "630 E. Plumb Lane",
                 "address2": null,
-                "zip": "89502"
+                "zip": "89502",
+                "lat": 39.4896,
+                "lng": -119.7521
             },
             "contact": {
                 "phone": "775-333-5282",
@@ -30266,6 +30659,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Carson City",
+                    "state": "NV",
+                    "zip": "89701",
+                    "address": "711 S. Carson St., Suite 2",
+                    "phone": "(775) 333-5282",
+                    "lat": 39.1484,
+                    "lng": -119.6629
+                },
+                {
+                    "city": "Truckee",
+                    "state": "CA",
+                    "zip": "96161",
+                    "address": "10015 Palisades Drive, Suite 3",
+                    "phone": "(775) 333-5282",
+                    "lat": 39.334,
+                    "lng": -120.1942
+                }
             ]
         },
         {
@@ -30284,7 +30697,9 @@
                 "city": "Las Vegas",
                 "address": "Wells Fargo Tower",
                 "address2": "3800 Howard Hughes Parkway, Suite 1000",
-                "zip": "89169"
+                "zip": "89169",
+                "lat": 36.1225,
+                "lng": -115.1439
             },
             "contact": {
                 "phone": "702-257-1483",
@@ -30314,6 +30729,35 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90212",
+                    "address": "Beverly Hills Triangle 1, 9595 Wilshire Boulevard, Suite 900",
+                    "phone": "(424) 303-7700",
+                    "lat": 34.0611,
+                    "lng": -118.4021
+                },
+                {
+                    "city": "Peoria",
+                    "state": "IL",
+                    "zip": "61602",
+                    "address": "One Technology Plaza, 211 Fulton Street, Suite 600",
+                    "phone": "(309) 672-1483",
+                    "lat": 40.6828,
+                    "lng": -89.6054
+                },
+                {
+                    "city": "Ann Arbor",
+                    "state": "MI",
+                    "zip": "48104",
+                    "address": "115 West Huron Street, Suite 700",
+                    "phone": "(734) 222-1483",
+                    "lat": 42.2732,
+                    "lng": -83.7142
+                }
             ]
         },
         {
@@ -30332,7 +30776,9 @@
                 "city": "Las Vegas",
                 "address": "601 S. Rancho Drive",
                 "address2": "Suite C-26",
-                "zip": "89106"
+                "zip": "89106",
+                "lat": 36.181,
+                "lng": -115.164
             },
             "contact": {
                 "phone": "702-706-1149",
@@ -30366,6 +30812,26 @@
                 "Contracts",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85016",
+                    "address": "2211 E Highland Ave, Ste 100",
+                    "phone": "480-535-8797",
+                    "lat": 33.517,
+                    "lng": -112.0214
+                },
+                {
+                    "city": "Reno",
+                    "state": "NV",
+                    "zip": "89511",
+                    "address": "5470 Kietzke Ln, Suite 300",
+                    "phone": "(775) 710-3500",
+                    "lat": 39.3682,
+                    "lng": -119.8715
+                }
             ]
         },
         {
@@ -30384,7 +30850,9 @@
                 "city": "Henderson",
                 "address": "3333 E. Serene Avenue",
                 "address2": "Suite 220",
-                "zip": "89074"
+                "zip": "89074",
+                "lat": 36.0313,
+                "lng": -115.0739
             },
             "contact": {
                 "phone": "725-765-5779",
@@ -30411,7 +30879,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "naqvi-injury-law",
@@ -30429,7 +30898,9 @@
                 "city": "Las Vegas",
                 "address": "9500 W. Flamingo Rd.",
                 "address2": "#104",
-                "zip": "89147"
+                "zip": "89147",
+                "lat": 36.1121,
+                "lng": -115.279
             },
             "contact": {
                 "phone": "702-291-1182",
@@ -30455,6 +30926,17 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89149",
+                    "address": "7010 N Durango Dr, #130",
+                    "phone": "+17022911169",
+                    "lat": 36.2787,
+                    "lng": -115.2869
+                }
             ]
         },
         {
@@ -30473,7 +30955,9 @@
                 "city": "Las Vegas",
                 "address": "7220 S. Cimarron Rd.",
                 "address2": "Suite 205",
-                "zip": "89113"
+                "zip": "89113",
+                "lat": 36.0601,
+                "lng": -115.2644
             },
             "contact": {
                 "phone": "702-608-1713",
@@ -30508,6 +30992,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Henderson",
+                    "state": "NV",
+                    "zip": "89052",
+                    "address": "10120 S. Eastern Ave., Ste. 200",
+                    "phone": "702-608-1713",
+                    "lat": 35.9816,
+                    "lng": -115.1132
+                }
             ]
         },
         {
@@ -30526,7 +31021,9 @@
                 "city": "Las Vegas",
                 "address": "376 East Warm Springs Road",
                 "address2": "Suite 125",
-                "zip": "89119"
+                "zip": "89119",
+                "lat": 36.0895,
+                "lng": -115.1496
             },
             "contact": {
                 "phone": "702-450-6300",
@@ -30548,7 +31045,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "okano-injury-law",
@@ -30566,7 +31064,9 @@
                 "city": "Las Vegas",
                 "address": "6069 S Fort Apache Rd #100",
                 "address2": null,
-                "zip": "89148"
+                "zip": "89148",
+                "lat": 36.0603,
+                "lng": -115.2972
             },
             "contact": {
                 "phone": "702-566-3600",
@@ -30589,7 +31089,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-j-robert-parke-llc",
@@ -30607,7 +31108,9 @@
                 "city": "Reno",
                 "address": "232 Court Street",
                 "address2": null,
-                "zip": "89501"
+                "zip": "89501",
+                "lat": 39.5285,
+                "lng": -119.8043
             },
             "contact": {
                 "phone": "775-391-6494",
@@ -30628,7 +31131,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marta-l-presti-attorney-at-law",
@@ -30646,7 +31150,9 @@
                 "city": "Reno",
                 "address": "3500 Lakeside Court",
                 "address2": "Suite 150",
-                "zip": "89509"
+                "zip": "89509",
+                "lat": 39.497,
+                "lng": -119.8282
             },
             "contact": {
                 "phone": "775-323-7311",
@@ -30665,7 +31171,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greene-roberts-rasmussen-pllc",
@@ -30683,7 +31190,9 @@
                 "city": "Las Vegas",
                 "address": "8485 West Sunset Road",
                 "address2": "Suite 208",
-                "zip": "89113"
+                "zip": "89113",
+                "lat": 36.0601,
+                "lng": -115.2644
             },
             "contact": {
                 "phone": "702-369-2900",
@@ -30704,7 +31213,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-schnitzer-law-firm",
@@ -30722,7 +31232,9 @@
                 "city": "Las Vegas",
                 "address": "710 S. 9th Street",
                 "address2": "Suite 2",
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "702-707-9766",
@@ -30753,7 +31265,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeffrey-l-burr",
@@ -30771,7 +31284,9 @@
                 "city": "Las Vegas",
                 "address": "7881 W. Charleston Blvd.",
                 "address2": "Suite 240",
-                "zip": "89117"
+                "zip": "89117",
+                "lat": 36.1424,
+                "lng": -115.2793
             },
             "contact": {
                 "phone": "702-254-4455",
@@ -30802,6 +31317,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89134",
+                    "address": "Suite 141, 1645 Village Center Cir",
+                    "phone": "(702) 254-4455",
+                    "lat": 36.1978,
+                    "lng": -115.3104
+                }
             ]
         },
         {
@@ -30820,7 +31346,9 @@
                 "city": "Las Vegas",
                 "address": "900 Rancho Lane",
                 "address2": null,
-                "zip": "89106"
+                "zip": "89106",
+                "lat": 36.181,
+                "lng": -115.164
             },
             "contact": {
                 "phone": "702-462-5140",
@@ -30848,7 +31376,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-sander-s-straus-llc",
@@ -30866,7 +31395,9 @@
                 "city": "Las Vegas",
                 "address": "900 Rancho Lane",
                 "address2": null,
-                "zip": "89106"
+                "zip": "89106",
+                "lat": 36.181,
+                "lng": -115.164
             },
             "contact": {
                 "phone": "702-444-0808",
@@ -30904,7 +31435,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-david-a-straus-llc",
@@ -30922,7 +31454,9 @@
                 "city": "Las Vegas",
                 "address": "900 Rancho Lane",
                 "address2": null,
-                "zip": "89106"
+                "zip": "89106",
+                "lat": 36.181,
+                "lng": -115.164
             },
             "contact": {
                 "phone": "702-474-4500",
@@ -30954,7 +31488,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "temple-injury-law",
@@ -30972,7 +31507,9 @@
                 "city": "Las Vegas",
                 "address": "1300 S. Decatur Blvd",
                 "address2": null,
-                "zip": "89102"
+                "zip": "89102",
+                "lat": 36.1427,
+                "lng": -115.1809
             },
             "contact": {
                 "phone": "702-744-3914",
@@ -30997,6 +31534,17 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89178",
+                    "address": "8085 Blue Diamond Road, Unit 103",
+                    "phone": "+17027443914",
+                    "lat": 36.026,
+                    "lng": -115.2801
+                }
             ]
         },
         {
@@ -31015,7 +31563,9 @@
                 "city": "Reno",
                 "address": "6900 South McCarran Boulevard",
                 "address2": "Suite 2000",
-                "zip": "89509"
+                "zip": "89509",
+                "lat": 39.497,
+                "lng": -119.8282
             },
             "contact": {
                 "phone": "775-335-9999",
@@ -31041,7 +31591,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "george-o-west-iii-esq",
@@ -31059,7 +31610,9 @@
                 "city": "Las Vegas",
                 "address": "10161 Park Run Drive",
                 "address2": "Suite 150",
-                "zip": "89145"
+                "zip": "89145",
+                "lat": 36.1702,
+                "lng": -115.2838
             },
             "contact": {
                 "phone": "702-664-1168",
@@ -31085,7 +31638,8 @@
                 "Auto Dealer Fraud",
                 "Consumer Protection",
                 "Lemon Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lv-criminal-defense",
@@ -31103,7 +31657,9 @@
                 "city": "Las Vegas",
                 "address": "400 S. 7th St.",
                 "address2": "#401",
-                "zip": "89101"
+                "zip": "89101",
+                "lat": 36.1736,
+                "lng": -115.1264
             },
             "contact": {
                 "phone": "844-254-5636",
@@ -31128,6 +31684,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89101",
+                    "address": "400 S 7th St, Ste 490",
+                    "phone": "+18887603491",
+                    "lat": 36.1736,
+                    "lng": -115.1264
+                }
             ]
         }
     ]

@@ -15616,7 +15616,9 @@
                 "city": "Salt Lake City",
                 "address": "141 W. Pierpont Ave.",
                 "address2": null,
-                "zip": "84101"
+                "zip": "84101",
+                "lat": 40.7566,
+                "lng": -111.9012
             },
             "contact": {
                 "phone": "866-928-7962",
@@ -15673,7 +15675,8 @@
                 "Real Estate",
                 "Securities",
                 "Trademarks"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jenkins-bagley-sperry-pllc",
@@ -15691,7 +15694,9 @@
                 "city": "South Jordan",
                 "address": "10701 S. River Front Parkway",
                 "address2": "Ste. 225",
-                "zip": "84095"
+                "zip": "84095",
+                "lat": 40.5594,
+                "lng": -111.9824
             },
             "contact": {
                 "phone": "435-656-8200",
@@ -15727,6 +15732,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Richfield",
+                    "state": "UT",
+                    "zip": "84701",
+                    "address": "635 N Main Street, Ste. 669",
+                    "phone": "435-656-8200",
+                    "lat": 38.7188,
+                    "lng": -111.7637
+                }
             ]
         },
         {
@@ -15745,7 +15761,9 @@
                 "city": "Salt Lake City",
                 "address": "257 E 200 S",
                 "address2": "Suite 600",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-521-3773",
@@ -15786,7 +15804,8 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scalley-reading-bates-hansen-rasmussen-p-c",
@@ -15804,7 +15823,9 @@
                 "city": "Salt Lake City",
                 "address": "15 W South Temple",
                 "address2": "Suite 600",
-                "zip": "84101"
+                "zip": "84101",
+                "lat": 40.7566,
+                "lng": -111.9012
             },
             "contact": {
                 "phone": "844-918-0825",
@@ -15855,7 +15876,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "terry-jessop-bitner",
@@ -15873,7 +15895,9 @@
                 "city": "Salt Lake City",
                 "address": "311 S. State",
                 "address2": "Suite 450",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "385-715-4116",
@@ -15908,7 +15932,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burton-law-firm-p-c",
@@ -15926,7 +15951,9 @@
                 "city": "Ogden",
                 "address": "3785 Harrison Boulevard",
                 "address2": "Main Floor",
-                "zip": "84403"
+                "zip": "84403",
+                "lat": 41.1763,
+                "lng": -111.913
             },
             "contact": {
                 "phone": "801-393-1106",
@@ -15947,7 +15974,8 @@
             ],
             "official_practice_area": [
                 "Contracts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "keen-law-offices-llc",
@@ -15965,7 +15993,9 @@
                 "city": "Orem",
                 "address": "39 S. 400 W.",
                 "address2": null,
-                "zip": "84058"
+                "zip": "84058",
+                "lat": 40.2813,
+                "lng": -111.7695
             },
             "contact": {
                 "phone": "801-374-5336",
@@ -15989,7 +16019,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-sanchez",
@@ -16007,7 +16038,9 @@
                 "city": "Salt Lake City",
                 "address": "655 E 4500 S",
                 "address2": "STE 120",
-                "zip": "84107"
+                "zip": "84107",
+                "lat": 40.6566,
+                "lng": -111.8847
             },
             "contact": {
                 "phone": "801-899-9348",
@@ -16035,6 +16068,26 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Ogden",
+                    "state": "UT",
+                    "zip": "84401",
+                    "address": "205 E 26th St., Ste. 22",
+                    "phone": "801-899-9348",
+                    "lat": 41.2491,
+                    "lng": -111.9737
+                },
+                {
+                    "city": "Boise",
+                    "state": "ID",
+                    "zip": "83705",
+                    "address": "4696 W Overland Rd., #162",
+                    "phone": "801-899-9348",
+                    "lat": 43.5606,
+                    "lng": -116.2198
+                }
             ]
         },
         {
@@ -16053,7 +16106,9 @@
                 "city": "Salt Lake City",
                 "address": "545 East 300 South",
                 "address2": null,
-                "zip": "84102"
+                "zip": "84102",
+                "lat": 40.7596,
+                "lng": -111.8624
             },
             "contact": {
                 "phone": "801-363-6363",
@@ -16096,7 +16151,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ruesch-reeve-werrett-jones-pllc",
@@ -16114,7 +16170,9 @@
                 "city": "Hurricane",
                 "address": "86 N 3400 W",
                 "address2": "Bldg C Suite 101",
-                "zip": "84737"
+                "zip": "84737",
+                "lat": 37.2499,
+                "lng": -113.1946
             },
             "contact": {
                 "phone": "435-522-5089",
@@ -16173,7 +16231,8 @@
                 "Premises Liability",
                 "Real Estate",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heideman-associates",
@@ -16191,7 +16250,9 @@
                 "city": "Provo",
                 "address": "2696 N. University Ave.",
                 "address2": "Suite 180",
-                "zip": "84604"
+                "zip": "84604",
+                "lat": 40.3454,
+                "lng": -111.58
             },
             "contact": {
                 "phone": "801-528-1350",
@@ -16232,6 +16293,17 @@
                 "Probate",
                 "Securities",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "St. George",
+                    "state": "UT",
+                    "zip": "84770",
+                    "address": "134 North 200 East, Suite 302",
+                    "phone": "801-528-1350",
+                    "lat": 37.2655,
+                    "lng": -113.7913
+                }
             ]
         },
         {
@@ -16250,7 +16322,9 @@
                 "city": "West Jordan",
                 "address": "8833 South Redwood Road",
                 "address2": "Suite C",
-                "zip": "84088"
+                "zip": "84088",
+                "lat": 40.5953,
+                "lng": -111.9623
             },
             "contact": {
                 "phone": "801-676-5506",
@@ -16271,7 +16345,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "featherstone-family-law",
@@ -16289,7 +16364,9 @@
                 "city": "American Fork",
                 "address": "686 E. 110 S.",
                 "address2": "Suite 204A",
-                "zip": "84003"
+                "zip": "84003",
+                "lat": 40.406,
+                "lng": -111.829
             },
             "contact": {
                 "phone": "801-960-3359",
@@ -16311,7 +16388,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greenwood-black",
@@ -16329,7 +16407,9 @@
                 "city": "Provo",
                 "address": "3575 North 100 East",
                 "address2": "Suite 325",
-                "zip": "84604"
+                "zip": "84604",
+                "lat": 40.3454,
+                "lng": -111.58
             },
             "contact": {
                 "phone": "801-377-4652",
@@ -16349,7 +16429,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "susanne-gustin-attorney-at-law",
@@ -16367,7 +16448,9 @@
                 "city": "Salt Lake City",
                 "address": "299 S. Main St.",
                 "address2": "#1300",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-243-2814",
@@ -16387,7 +16470,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "handy-handy",
@@ -16405,7 +16489,9 @@
                 "city": "Salt Lake City",
                 "address": "2150 S 1300 East",
                 "address2": "Suite 300",
-                "zip": "84106"
+                "zip": "84106",
+                "lat": 40.7065,
+                "lng": -111.855
             },
             "contact": {
                 "phone": "801-264-6677",
@@ -16432,7 +16518,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-brent-j-huff",
@@ -16450,7 +16537,9 @@
                 "city": "Salt Lake City",
                 "address": "40 South 600 East",
                 "address2": null,
-                "zip": "84102"
+                "zip": "84102",
+                "lat": 40.7596,
+                "lng": -111.8624
             },
             "contact": {
                 "phone": "801-641-9620",
@@ -16473,7 +16562,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jardine-associates-pc",
@@ -16491,7 +16581,9 @@
                 "city": "Provo",
                 "address": "3651 N. 100 E.",
                 "address2": "Suite 350",
-                "zip": "84604"
+                "zip": "84604",
+                "lat": 40.3454,
+                "lng": -111.58
             },
             "contact": {
                 "phone": "801-921-4990",
@@ -16536,7 +16628,8 @@
                 "Land Use and Zoning",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcmullin-injury-law",
@@ -16554,7 +16647,9 @@
                 "city": "St George",
                 "address": "301 N. 200 E.",
                 "address2": "Ste 3C",
-                "zip": "84770"
+                "zip": "84770",
+                "lat": 37.2655,
+                "lng": -113.7913
             },
             "contact": {
                 "phone": "435-673-9990",
@@ -16594,6 +16689,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cedar City",
+                    "state": "UT",
+                    "zip": "84720",
+                    "address": "1289 S. Interstate Dr., Ste 2-I",
+                    "phone": "435-673-9990",
+                    "lat": 37.8114,
+                    "lng": -113.1721
+                }
             ]
         },
         {
@@ -16612,7 +16718,9 @@
                 "city": "Midvale",
                 "address": "7660 South Holden Street",
                 "address2": null,
-                "zip": "84047"
+                "zip": "84047",
+                "lat": 40.6128,
+                "lng": -111.8848
             },
             "contact": {
                 "phone": "801-871-8353",
@@ -16640,7 +16748,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Foreclosure and Alternatives"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nemeroff-law-firm-mesothelioma-asbestos-lawyers",
@@ -16658,7 +16767,9 @@
                 "city": "Park City",
                 "address": "5532 Lillehammer Lane",
                 "address2": "Suite 100",
-                "zip": "84098"
+                "zip": "84098",
+                "lat": 40.7174,
+                "lng": -111.5687
             },
             "contact": {
                 "phone": "877-834-1279",
@@ -16684,6 +16795,35 @@
             ],
             "official_practice_area": [
                 "Asbestos Mesothelioma"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "zip": "75225",
+                    "address": "Douglas Plaza, 8226 Douglas Avenue, Suite 740",
+                    "phone": "877-834-1279",
+                    "lat": 32.8635,
+                    "lng": -96.7917
+                },
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70170",
+                    "address": "201 St. Charles Avenue, Suite 2500",
+                    "phone": "877-834-1279",
+                    "lat": 29.9587,
+                    "lng": -90.0695
+                },
+                {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "zip": "15219",
+                    "address": "437 Grant Street, Suite 1301",
+                    "phone": "877-834-1279",
+                    "lat": 40.4433,
+                    "lng": -79.9973
+                }
             ]
         },
         {
@@ -16702,7 +16842,9 @@
                 "city": "Orem",
                 "address": "1149 West Center Street",
                 "address2": null,
-                "zip": "84057"
+                "zip": "84057",
+                "lat": 40.3128,
+                "lng": -111.7262
             },
             "contact": {
                 "phone": "866-520-0222",
@@ -16724,7 +16866,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-penniann-j-schumann-pllc",
@@ -16742,7 +16885,9 @@
                 "city": "Salt Lake City",
                 "address": "2150 South 1300 East",
                 "address2": "Suite 500",
-                "zip": "84106"
+                "zip": "84106",
+                "lat": 40.7065,
+                "lng": -111.855
             },
             "contact": {
                 "phone": "801-923-7398",
@@ -16770,7 +16915,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richards-brandt-miller-nelson",
@@ -16788,7 +16934,9 @@
                 "city": "Salt Lake City",
                 "address": "111 East Broadway",
                 "address2": "Suite 400",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-531-2000",
@@ -16820,7 +16968,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schmutz-mohlman-llc",
@@ -16838,7 +16987,9 @@
                 "city": "Tooele",
                 "address": "493 W. 400 N.",
                 "address2": null,
-                "zip": "84074"
+                "zip": "84074",
+                "lat": 40.572,
+                "lng": -112.4085
             },
             "contact": {
                 "phone": "435-882-4800",
@@ -16862,6 +17013,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bountiful",
+                    "state": "UT",
+                    "zip": "84010",
+                    "address": "533 W 2600 S Ste. 200",
+                    "phone": "(801) 298-4800",
+                    "lat": 40.8762,
+                    "lng": -111.8235
+                }
             ]
         },
         {
@@ -16880,7 +17042,9 @@
                 "city": "South Jordan",
                 "address": "1194 West South Jordan Parkway",
                 "address2": "Suite A",
-                "zip": "84095"
+                "zip": "84095",
+                "lat": 40.5594,
+                "lng": -111.9824
             },
             "contact": {
                 "phone": "801-505-9679",
@@ -16899,6 +17063,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Provo",
+                    "state": "UT",
+                    "zip": "84601",
+                    "address": "Provo Business Center, 86 North University Avenue, Suite 400",
+                    "phone": "(801) 505-9679",
+                    "lat": 40.2213,
+                    "lng": -111.7387
+                }
             ]
         },
         {
@@ -16917,7 +17092,9 @@
                 "city": "Salt Lake City",
                 "address": "215 South State Street",
                 "address2": "900 Parkside Tower",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-901-3470",
@@ -16944,7 +17121,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "blue-bee-bankruptcy-law",
@@ -16962,7 +17140,9 @@
                 "city": "Salt Lake City",
                 "address": "311 S State St",
                 "address2": "Suite 260",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-823-2736",
@@ -16989,7 +17169,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Collections"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bangerter-frazier-group-pc",
@@ -17007,7 +17188,9 @@
                 "city": "St. George",
                 "address": "912 W 1600 S",
                 "address2": "Suite A200",
-                "zip": "84770"
+                "zip": "84770",
+                "lat": 37.2655,
+                "lng": -113.7913
             },
             "contact": {
                 "phone": "435-628-7004",
@@ -17034,7 +17217,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-andrew-reichardt-pllc",
@@ -17052,7 +17236,9 @@
                 "city": "Salt Lake City",
                 "address": "5330 South 900 East",
                 "address2": "#115",
-                "zip": "84117"
+                "zip": "84117",
+                "lat": 40.6607,
+                "lng": -111.8338
             },
             "contact": {
                 "phone": "801-261-3400",
@@ -17075,7 +17261,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "salcido-law-firm",
@@ -17093,7 +17280,9 @@
                 "city": "Sandy",
                 "address": "43 W 9000 S",
                 "address2": null,
-                "zip": "84070"
+                "zip": "84070",
+                "lat": 40.5769,
+                "lng": -111.8952
             },
             "contact": {
                 "phone": "435-800-8949",
@@ -17135,6 +17324,17 @@
                 "Military",
                 "Military Divorce",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Provo",
+                    "state": "UT",
+                    "zip": "84604",
+                    "address": "2545 North Canyon Road",
+                    "phone": "+14355138897",
+                    "lat": 40.3454,
+                    "lng": -111.58
+                }
             ]
         },
         {
@@ -17153,7 +17353,9 @@
                 "city": "Murray",
                 "address": "111 East 5600 South",
                 "address2": "Suite 105",
-                "zip": "84107"
+                "zip": "84107",
+                "lat": 40.6566,
+                "lng": -111.8847
             },
             "contact": {
                 "phone": "801-651-1512",
@@ -17176,7 +17378,8 @@
             ],
             "official_practice_area": [
                 "Agriculture"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "swan-law-firm-pllc",
@@ -17194,7 +17397,9 @@
                 "city": "Sandy",
                 "address": "9350 South 150 East",
                 "address2": "Suite 820",
-                "zip": "84070"
+                "zip": "84070",
+                "lat": 40.5769,
+                "lng": -111.8952
             },
             "contact": {
                 "phone": "801-736-7222",
@@ -17227,7 +17432,8 @@
                 "Contracts",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-paul-toscano-p-c",
@@ -17245,7 +17451,9 @@
                 "city": "Salt Lake City",
                 "address": "10 Exchange Place",
                 "address2": "Suite 614",
-                "zip": "84111"
+                "zip": "84111",
+                "lat": 40.7561,
+                "lng": -111.8839
             },
             "contact": {
                 "phone": "801-359-1313",
@@ -17265,7 +17473,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weber-law-group-pllc",
@@ -17283,7 +17492,9 @@
                 "city": "American Fork",
                 "address": "62 N. Grant Avenue",
                 "address2": "Suite 100",
-                "zip": "84003"
+                "zip": "84003",
+                "lat": 40.406,
+                "lng": -111.829
             },
             "contact": {
                 "phone": "801-753-8084",
@@ -17303,6 +17514,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lehi",
+                    "state": "UT",
+                    "zip": "84043",
+                    "address": "2975 W. Executive Parkway, Suite 201",
+                    "phone": "801-653-0385",
+                    "lat": 40.4021,
+                    "lng": -111.878
+                }
             ]
         }
     ]

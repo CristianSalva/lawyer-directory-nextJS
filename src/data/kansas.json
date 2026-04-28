@@ -17637,7 +17637,9 @@
                 "city": "Overland Park",
                 "address": "PO Box 23508",
                 "address2": null,
-                "zip": "66283"
+                "zip": "66283",
+                "lat": 39.0186,
+                "lng": -94.6662
             },
             "contact": {
                 "phone": "913-258-1997",
@@ -17665,7 +17667,8 @@
                 "Construction",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-henry-law-firm-p-a",
@@ -17683,7 +17686,9 @@
                 "city": "Overland Park",
                 "address": "9225 Indian Creek Parkway",
                 "address2": "Suite 1150",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-738-5441",
@@ -17719,7 +17724,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lynn-bayes-weiner",
@@ -17737,7 +17743,9 @@
                 "city": "Overland Park",
                 "address": "10955 Lowell",
                 "address2": "Suite 710",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-871-1861",
@@ -17771,7 +17779,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stull-beverlin-nicolay-haas-llc",
@@ -17789,7 +17798,9 @@
                 "city": "Pratt",
                 "address": "420 S. Jackson",
                 "address2": "Suite 100",
-                "zip": "67124"
+                "zip": "67124",
+                "lat": 37.6529,
+                "lng": -98.7676
             },
             "contact": {
                 "phone": "800-731-3115",
@@ -17815,7 +17826,8 @@
             ],
             "official_practice_area": [
                 "Oil Gas and Energy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "biesterveld-crook-injury-attorneys",
@@ -17833,7 +17845,9 @@
                 "city": "Overland Park",
                 "address": "8801 Ballentine St",
                 "address2": "Ste 300",
-                "zip": "66214"
+                "zip": "66214",
+                "lat": 38.9641,
+                "lng": -94.7116
             },
             "contact": {
                 "phone": "913-399-5297",
@@ -17864,7 +17878,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cavanaugh-biggs-lemon-p-a",
@@ -17882,7 +17897,9 @@
                 "city": "Topeka",
                 "address": "3200 SW Huntoon Street",
                 "address2": null,
-                "zip": "66604"
+                "zip": "66604",
+                "lat": 39.0402,
+                "lng": -95.7278
             },
             "contact": {
                 "phone": "785-440-4000",
@@ -17916,7 +17933,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bors-law-pa",
@@ -17934,7 +17952,9 @@
                 "city": "Garden City",
                 "address": "118 West Pine",
                 "address2": null,
-                "zip": "67846"
+                "zip": "67846",
+                "lat": 38.0007,
+                "lng": -100.7947
             },
             "contact": {
                 "phone": "620-670-6005",
@@ -17975,7 +17995,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bretz-injury-law",
@@ -17993,7 +18014,9 @@
                 "city": "Hutchinson",
                 "address": "3 Compound Drive",
                 "address2": null,
-                "zip": "67502"
+                "zip": "67502",
+                "lat": 38.137,
+                "lng": -97.9226
             },
             "contact": {
                 "phone": "620-220-5553",
@@ -18019,6 +18042,17 @@
                 "Car Accidents",
                 "Motor Vehicle Defects",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wichita",
+                    "state": "KS",
+                    "zip": "67202",
+                    "address": "225 N Market St., Ste 345",
+                    "phone": "620-220-5553",
+                    "lat": 37.6861,
+                    "lng": -97.3349
+                }
             ]
         },
         {
@@ -18037,7 +18071,9 @@
                 "city": "Overland Park",
                 "address": "8101 College Blvd.",
                 "address2": "Suite 100",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "816-476-4452",
@@ -18064,7 +18100,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gyllenborg-brown-p-a",
@@ -18082,7 +18119,9 @@
                 "city": "Overland Park",
                 "address": "7450 W. 130th Street",
                 "address2": "Suite 310",
-                "zip": "66213"
+                "zip": "66213",
+                "lat": 38.8984,
+                "lng": -94.705
             },
             "contact": {
                 "phone": "913-529-5523",
@@ -18117,7 +18156,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hovey-williams-llp",
@@ -18135,7 +18175,9 @@
                 "city": "Overland Park",
                 "address": "10801 Mastin Street, Suite 1000",
                 "address2": "84 Corporate Woods",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-647-9050",
@@ -18167,7 +18209,8 @@
             ],
             "official_practice_area": [
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-james-m-brun-llc",
@@ -18185,7 +18228,9 @@
                 "city": "Overland Park",
                 "address": "7211 W 98th Terrace",
                 "address2": "Suite 140",
-                "zip": "66212"
+                "zip": "66212",
+                "lat": 38.9562,
+                "lng": -94.6811
             },
             "contact": {
                 "phone": "913-456-7531",
@@ -18215,7 +18260,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kennyhertz-perry",
@@ -18233,7 +18279,9 @@
                 "city": "Mission Woods",
                 "address": "2000 Shawnee Mission Pkwy",
                 "address2": "Ste. 210",
-                "zip": "66205"
+                "zip": "66205",
+                "lat": 39.0295,
+                "lng": -94.6283
             },
             "contact": {
                 "phone": "855-406-2261",
@@ -18267,6 +18315,17 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Gaming"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64111",
+                    "address": "1501 Westport Rd., Ste. 101",
+                    "phone": "855-406-2261",
+                    "lat": 39.0573,
+                    "lng": -94.5937
+                }
             ]
         },
         {
@@ -18285,7 +18344,9 @@
                 "city": "Overland Park",
                 "address": "7285 W 132nd St.",
                 "address2": "Suite 180",
-                "zip": "66213"
+                "zip": "66213",
+                "lat": 38.8984,
+                "lng": -94.705
             },
             "contact": {
                 "phone": "913-951-0450",
@@ -18307,7 +18368,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kennedy-berkley-p-a",
@@ -18325,7 +18387,9 @@
                 "city": "Salina",
                 "address": "119 W. Iron Ave.",
                 "address2": "7th Floor",
-                "zip": "67401"
+                "zip": "67401",
+                "lat": 38.8345,
+                "lng": -97.6412
             },
             "contact": {
                 "phone": "785-376-4644",
@@ -18349,6 +18413,17 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hays",
+                    "state": "KS",
+                    "zip": "67601",
+                    "address": "1200 Main Street, Suite 401",
+                    "phone": "785-376-4644",
+                    "lat": 38.8781,
+                    "lng": -99.357
+                }
             ]
         },
         {
@@ -18367,7 +18442,9 @@
                 "city": "Kansas City",
                 "address": "11006 Parallel Parkway",
                 "address2": "Suite 202 Country Club Bank Building",
-                "zip": "66109"
+                "zip": "66109",
+                "lat": 39.1713,
+                "lng": -94.8211
             },
             "contact": {
                 "phone": "913-721-6067",
@@ -18392,7 +18469,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carl-e-cornwell-attorney-at-law",
@@ -18410,7 +18488,9 @@
                 "city": "Olathe",
                 "address": "142 North Cherry Street",
                 "address2": "Suite 100",
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-258-1955",
@@ -18444,7 +18524,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crabtree-law-office",
@@ -18462,7 +18543,9 @@
                 "city": "Overland Park",
                 "address": "4460 W 107th St.",
                 "address2": null,
-                "zip": "66207"
+                "zip": "66207",
+                "lat": 38.9557,
+                "lng": -94.6443
             },
             "contact": {
                 "phone": "913-318-4492",
@@ -18492,7 +18575,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-damore-law-firm-llc",
@@ -18510,7 +18594,9 @@
                 "city": "Leawood",
                 "address": "College Corporate Centre",
                 "address2": "5330 College Boulevard, Suite 1",
-                "zip": "66211"
+                "zip": "66211",
+                "lat": 38.9256,
+                "lng": -94.6383
             },
             "contact": {
                 "phone": "913-890-2051",
@@ -18531,7 +18617,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dasenbrock-law-llc",
@@ -18549,7 +18636,9 @@
                 "city": "Paola",
                 "address": "131 S. Pearl Street",
                 "address2": null,
-                "zip": "66071"
+                "zip": "66071",
+                "lat": 38.5708,
+                "lng": -94.8801
             },
             "contact": {
                 "phone": "913-340-8516",
@@ -18574,6 +18663,17 @@
                 "Criminal Defense",
                 "Estate Planning",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lawrence",
+                    "state": "KS",
+                    "zip": "66044",
+                    "address": "925 Iowa Street",
+                    "phone": "+19137774667",
+                    "lat": 39.0394,
+                    "lng": -95.2031
+                }
             ]
         },
         {
@@ -18592,7 +18692,9 @@
                 "city": "Overland Park",
                 "address": "8900 Indian Creek Parkway, Suite 210",
                 "address2": null,
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "816-559-8877",
@@ -18633,7 +18735,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "joseph-a-dewoskin-p-c",
@@ -18651,7 +18754,9 @@
                 "city": "Kansas City",
                 "address": "827 Armstrong Ave.",
                 "address2": "Ste. 203",
-                "zip": "66101"
+                "zip": "66101",
+                "lat": 39.1175,
+                "lng": -94.6238
             },
             "contact": {
                 "phone": "913-624-9220",
@@ -18697,7 +18802,8 @@
                 "Social Security Disability",
                 "Traffic Ticket",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wallentine-injury-law-llc",
@@ -18715,7 +18821,9 @@
                 "city": "Olathe",
                 "address": "130 N Cherry St",
                 "address2": "Suite 100",
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-934-6333",
@@ -18750,6 +18858,26 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64105",
+                    "address": "720 Main Street",
+                    "phone": "816-934-6333",
+                    "lat": 39.1048,
+                    "lng": -94.5949
+                },
+                {
+                    "city": "Topeka",
+                    "state": "KS",
+                    "zip": "66614",
+                    "address": "2231 SW Wanamaker Rd, Suite 205",
+                    "phone": "913-934-6333",
+                    "lat": 39.0148,
+                    "lng": -95.8286
+                }
             ]
         },
         {
@@ -18768,7 +18896,9 @@
                 "city": "Overland Park",
                 "address": "8826 Santa Fe Drive",
                 "address2": "Suite 307",
-                "zip": "66212"
+                "zip": "66212",
+                "lat": 38.9562,
+                "lng": -94.6811
             },
             "contact": {
                 "phone": "913-717-0671",
@@ -18796,6 +18926,17 @@
                 "Employment Rights",
                 "Sexual Harassment",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64113",
+                    "address": "6320 Brookside Plaza, #243",
+                    "phone": "913-717-0671",
+                    "lat": 39.0137,
+                    "lng": -94.5955
+                }
             ]
         },
         {
@@ -18814,7 +18955,9 @@
                 "city": "Olathe",
                 "address": "303 E. Poplar",
                 "address2": null,
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-782-7072",
@@ -18843,7 +18986,8 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monnat-spurrier-chartered",
@@ -18861,7 +19005,9 @@
                 "city": "Wichita",
                 "address": "200 West Douglas",
                 "address2": "Suite 830, Olive W. Garvey Building",
-                "zip": "67202"
+                "zip": "67202",
+                "lat": 37.6861,
+                "lng": -97.3349
             },
             "contact": {
                 "phone": "316-448-8376",
@@ -18895,7 +19041,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "flick-truck-accident-law",
@@ -18913,7 +19060,9 @@
                 "city": "Overland Park",
                 "address": "7500 College Blvd #526",
                 "address2": null,
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-601-7621",
@@ -18934,6 +19083,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64105",
+                    "address": "107 West 9th Street, #216",
+                    "phone": "+19136017617",
+                    "lat": 39.1048,
+                    "lng": -94.5949
+                }
             ]
         },
         {
@@ -18952,7 +19112,9 @@
                 "city": "Prairie Village",
                 "address": "5301 W. 75th Street",
                 "address2": "Suite 100",
-                "zip": "66208"
+                "zip": "66208",
+                "lat": 39.0062,
+                "lng": -94.6329
             },
             "contact": {
                 "phone": "913-717-5319",
@@ -18979,7 +19141,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-firm-of-tenopir-huerter",
@@ -18997,7 +19160,9 @@
                 "city": "Topeka",
                 "address": "1610 SW Topeka Boulevard",
                 "address2": null,
-                "zip": "66612"
+                "zip": "66612",
+                "lat": 39.0407,
+                "lng": -95.6793
             },
             "contact": {
                 "phone": "785-379-3955",
@@ -19024,7 +19189,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goza-honnold-llc",
@@ -19042,7 +19208,9 @@
                 "city": "Overland Park",
                 "address": "9500 Nall Avenue",
                 "address2": "Suite 400",
-                "zip": "66207"
+                "zip": "66207",
+                "lat": 38.9557,
+                "lng": -94.6443
             },
             "contact": {
                 "phone": null,
@@ -19064,7 +19232,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grover-law-firm-llc",
@@ -19082,7 +19251,9 @@
                 "city": "Overland Park",
                 "address": "7221 W 79th St",
                 "address2": "Ste 100",
-                "zip": "66204"
+                "zip": "66204",
+                "lat": 38.9928,
+                "lng": -94.6774
             },
             "contact": {
                 "phone": "913-379-8584",
@@ -19114,6 +19285,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64106",
+                    "address": "221 E 11th St, Ste 200",
+                    "phone": "+19133798584",
+                    "lat": 39.1062,
+                    "lng": -94.5733
+                }
             ]
         },
         {
@@ -19132,7 +19314,9 @@
                 "city": "Overland Park",
                 "address": "7227 Metcalf Avenue",
                 "address2": "Suite 301",
-                "zip": "66204"
+                "zip": "66204",
+                "lat": 38.9928,
+                "lng": -94.6774
             },
             "contact": {
                 "phone": "913-563-6257",
@@ -19160,7 +19344,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kathleen-a-harvey-p-a",
@@ -19178,7 +19363,9 @@
                 "city": "Overland Park",
                 "address": "7011 West 121st Street",
                 "address2": "Suite 102",
-                "zip": "66209"
+                "zip": "66209",
+                "lat": 38.8984,
+                "lng": -94.6379
             },
             "contact": {
                 "phone": "913-491-6331",
@@ -19199,7 +19386,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "henderson-legal-defense-llc",
@@ -19217,7 +19405,9 @@
                 "city": "Overland Park",
                 "address": "7400 W. 130th Street",
                 "address2": "Suite 340",
-                "zip": "66213"
+                "zip": "66213",
+                "lat": 38.8984,
+                "lng": -94.705
             },
             "contact": {
                 "phone": "913-782-4030",
@@ -19243,6 +19433,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lawrence",
+                    "state": "KS",
+                    "zip": "66044",
+                    "address": "911 Massachusetts St, Suite B2-1",
+                    "phone": "913-782-4030",
+                    "lat": 39.0394,
+                    "lng": -95.2031
+                }
             ]
         },
         {
@@ -19261,7 +19462,9 @@
                 "city": "Garden City",
                 "address": "1519 East Fulton Terrace",
                 "address2": "P.O. Box 2010",
-                "zip": "67846"
+                "zip": "67846",
+                "lat": 38.0007,
+                "lng": -100.7947
             },
             "contact": {
                 "phone": "620-765-4269",
@@ -19285,7 +19488,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kenneth-jack",
@@ -19303,7 +19507,9 @@
                 "city": "Wichita",
                 "address": "2121 West Maple",
                 "address2": null,
-                "zip": "67213"
+                "zip": "67213",
+                "lat": 37.6653,
+                "lng": -97.3625
             },
             "contact": {
                 "phone": "316-945-8251",
@@ -19345,7 +19551,8 @@
                 "Science and Technology Law",
                 "Trademarks",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-tracey-d-johnson-llc",
@@ -19363,7 +19570,9 @@
                 "city": "Lenexa",
                 "address": "12760 West 87th Street Parkway",
                 "address2": "Suite 108",
-                "zip": "66215"
+                "zip": "66215",
+                "lat": 38.9506,
+                "lng": -94.7401
             },
             "contact": {
                 "phone": "913-499-0422",
@@ -19382,7 +19591,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-michael-j-joshi",
@@ -19400,7 +19610,9 @@
                 "city": "Lenexa",
                 "address": "Commerce Bank Building",
                 "address2": "8700 Monrovia, Suite 310",
-                "zip": "66215"
+                "zip": "66215",
+                "lat": 38.9506,
+                "lng": -94.7401
             },
             "contact": {
                 "phone": "913-428-0199",
@@ -19422,7 +19634,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-sally-g-kelsey",
@@ -19440,7 +19653,9 @@
                 "city": "Lawrence",
                 "address": "2601 S. Iowa Street",
                 "address2": "Suite B",
-                "zip": "66047"
+                "zip": "66047",
+                "lat": 38.8843,
+                "lng": -95.3485
             },
             "contact": {
                 "phone": "785-371-0536",
@@ -19468,7 +19683,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-r-laing-jr-attorney-at-law",
@@ -19486,7 +19702,9 @@
                 "city": "Kansas City",
                 "address": "2100 Hutton Road",
                 "address2": "Suite 102",
-                "zip": "66109"
+                "zip": "66109",
+                "lat": 39.1713,
+                "lng": -94.8211
             },
             "contact": {
                 "phone": "913-378-9111",
@@ -19506,7 +19724,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "landon-law-llc",
@@ -19524,7 +19743,9 @@
                 "city": "Olathe",
                 "address": "142 N. Cherry St.",
                 "address2": null,
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-355-1202",
@@ -19560,7 +19781,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "heartland-estate-law-llc",
@@ -19578,7 +19800,9 @@
                 "city": "Overland Park",
                 "address": "10955 Lowell Ave",
                 "address2": "Suite 512",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-399-5791",
@@ -19601,7 +19825,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mann-wyatt-tanksley-injury-attorneys",
@@ -19619,7 +19844,9 @@
                 "city": "Hutchinson",
                 "address": "201 East 1 st Avenue",
                 "address2": null,
-                "zip": "67501"
+                "zip": "67501",
+                "lat": 37.9593,
+                "lng": -97.904
             },
             "contact": {
                 "phone": "800-391-8257",
@@ -19652,6 +19879,26 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wichita",
+                    "state": "KS",
+                    "zip": "67202",
+                    "address": "801 E. Douglas Avenue, 2nd Floor",
+                    "phone": "800-391-8257",
+                    "lat": 37.6861,
+                    "lng": -97.3349
+                },
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64112",
+                    "address": "435 Nichols Road, Suite 200",
+                    "phone": "800-391-8257",
+                    "lat": 39.0361,
+                    "lng": -94.595
+                }
             ]
         },
         {
@@ -19670,7 +19917,9 @@
                 "city": "Leawood",
                 "address": "5280 W. 115th Place",
                 "address2": "Suite 115",
-                "zip": "66211"
+                "zip": "66211",
+                "lat": 38.9256,
+                "lng": -94.6383
             },
             "contact": {
                 "phone": "913-530-6490",
@@ -19702,7 +19951,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shea-stevens-law-llc",
@@ -19720,7 +19970,9 @@
                 "city": "Overland Park",
                 "address": "9393 West 110th Street",
                 "address2": "Suite #150",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-717-0797",
@@ -19759,7 +20011,8 @@
                 "Family Law",
                 "Father's Rights",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stern-mauck-llc",
@@ -19777,7 +20030,9 @@
                 "city": "Overland Park",
                 "address": "9225 Indian Creek Parkway",
                 "address2": "Suite 1170",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-399-7335",
@@ -19810,7 +20065,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mckee-law-l-l-c",
@@ -19828,7 +20084,9 @@
                 "city": "Olathe",
                 "address": "222 South Cherry Street",
                 "address2": null,
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-768-6400",
@@ -19850,7 +20108,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-trey-meyer-l-l-c",
@@ -19868,7 +20127,9 @@
                 "city": "Lawrence",
                 "address": "843 New Hampshire Street",
                 "address2": null,
-                "zip": "66044"
+                "zip": "66044",
+                "lat": 39.0394,
+                "lng": -95.2031
             },
             "contact": {
                 "phone": "785-856-1739",
@@ -19888,7 +20149,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monaco-sanders-racine-powell-reidy-l-c",
@@ -19906,7 +20168,9 @@
                 "city": "Leawood",
                 "address": "8700 State Line Road",
                 "address2": "Suite 110",
-                "zip": "66206"
+                "zip": "66206",
+                "lat": 38.9585,
+                "lng": -94.6192
             },
             "contact": {
                 "phone": "816-942-0006",
@@ -19935,6 +20199,17 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Chesterfield",
+                    "state": "MO",
+                    "zip": "63017",
+                    "address": "639 Sunbridge Drive",
+                    "phone": "",
+                    "lat": 38.6723,
+                    "lng": -90.5332
+                }
             ]
         },
         {
@@ -19953,7 +20228,9 @@
                 "city": "Prairie Village",
                 "address": "5301 W. 75th Street",
                 "address2": "Suite 200",
-                "zip": "66208"
+                "zip": "66208",
+                "lat": 39.0062,
+                "lng": -94.6329
             },
             "contact": {
                 "phone": "913-232-2480",
@@ -19974,7 +20251,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-mozingo-law-firm-llc",
@@ -19992,7 +20270,9 @@
                 "city": "Olathe",
                 "address": "115 E. Park Street",
                 "address2": "Suite C",
-                "zip": "66061"
+                "zip": "66061",
+                "lat": 38.8841,
+                "lng": -94.9016
             },
             "contact": {
                 "phone": "913-386-4402",
@@ -20023,7 +20303,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tahirkheli-premer-chavez-law-office-llc",
@@ -20041,7 +20322,9 @@
                 "city": "Liberal",
                 "address": "412 N. Washington Ave.",
                 "address2": null,
-                "zip": "67901"
+                "zip": "67901",
+                "lat": 37.1276,
+                "lng": -100.9589
             },
             "contact": {
                 "phone": "620-604-0455",
@@ -20065,6 +20348,17 @@
                 "Bankruptcy",
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lawrence",
+                    "state": "KS",
+                    "zip": "66044",
+                    "address": "1021 Massachusetts Ave, Suite 10",
+                    "phone": "913-549-9161",
+                    "lat": 39.0394,
+                    "lng": -95.2031
+                }
             ]
         },
         {
@@ -20083,7 +20377,9 @@
                 "city": "Overland Park",
                 "address": "11020 King St",
                 "address2": "Suite 300",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-289-5638",
@@ -20116,7 +20412,8 @@
                 "Divorce and Separation",
                 "Elder Law",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "schultz-law-office-p-a",
@@ -20134,7 +20431,9 @@
                 "city": "Garden City",
                 "address": "309 E. Walnut",
                 "address2": null,
-                "zip": "67846"
+                "zip": "67846",
+                "lat": 38.0007,
+                "lng": -100.7947
             },
             "contact": {
                 "phone": "620-277-3108",
@@ -20158,7 +20457,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-kelly-law-firm-l-l-c",
@@ -20176,7 +20476,9 @@
                 "city": "Lenexa",
                 "address": "11900 W. 87th St. Pkwy.",
                 "address2": "Suite 250",
-                "zip": "66215"
+                "zip": "66215",
+                "lat": 38.9506,
+                "lng": -94.7401
             },
             "contact": {
                 "phone": "913-521-3150",
@@ -20206,7 +20508,8 @@
                 "Family Law",
                 "Father's Rights",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kristen-shelley-mattox",
@@ -20224,7 +20527,9 @@
                 "city": "Shawnee",
                 "address": "11125 Johnson Drive",
                 "address2": "Ste. A",
-                "zip": "66203"
+                "zip": "66203",
+                "lat": 39.0185,
+                "lng": -94.6941
             },
             "contact": {
                 "phone": "913-354-4421",
@@ -20252,7 +20557,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-firm-of-michael-m-shultz",
@@ -20270,7 +20576,9 @@
                 "city": "Topeka",
                 "address": "214 SW 6th Avenue",
                 "address2": "Suite 302",
-                "zip": "66603"
+                "zip": "66603",
+                "lat": 39.0557,
+                "lng": -95.6733
             },
             "contact": {
                 "phone": "785-838-4300",
@@ -20291,7 +20599,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-linda-small-ltd",
@@ -20309,7 +20618,9 @@
                 "city": "Wichita",
                 "address": "727 N. Waco Ave.",
                 "address2": "Suite 150",
-                "zip": "67203"
+                "zip": "67203",
+                "lat": 37.7048,
+                "lng": -97.3639
             },
             "contact": {
                 "phone": "316-215-7657",
@@ -20341,7 +20652,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "snyder-law-firm-llc",
@@ -20359,7 +20671,9 @@
                 "city": "Overland Park",
                 "address": "10955 Lowell Ave.",
                 "address2": "Suite 710",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "913-735-1690",
@@ -20388,7 +20702,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stone-law-office",
@@ -20406,7 +20721,9 @@
                 "city": "Mission",
                 "address": "6405 Metcalf Avenue",
                 "address2": "Suite 420",
-                "zip": "66202"
+                "zip": "66202",
+                "lat": 39.0247,
+                "lng": -94.67
             },
             "contact": {
                 "phone": "913-229-9209",
@@ -20443,7 +20760,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-kc-traffic-lawyer-timothy-r-tompkins",
@@ -20461,7 +20779,9 @@
                 "city": "Overland Park",
                 "address": "7180 West 107th Street",
                 "address2": "Suite 22",
-                "zip": "66212"
+                "zip": "66212",
+                "lat": 38.9562,
+                "lng": -94.6811
             },
             "contact": {
                 "phone": "913-871-4541",
@@ -20485,6 +20805,17 @@
             "official_practice_area": [
                 "DUI and DWI",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64111",
+                    "address": "4101 Main Street",
+                    "phone": "913-871-4541",
+                    "lat": 39.0573,
+                    "lng": -94.5937
+                }
             ]
         },
         {
@@ -20503,7 +20834,9 @@
                 "city": "Overland Park",
                 "address": "9200 Indian Creek Parkway",
                 "address2": "Suite 430, Corporate Woods Building 9",
-                "zip": "66210"
+                "zip": "66210",
+                "lat": 38.9245,
+                "lng": -94.7049
             },
             "contact": {
                 "phone": "816-399-5510",
@@ -20524,7 +20857,8 @@
             ],
             "official_practice_area": [
                 "Consumer Protection"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-reed-walker-pa",
@@ -20542,7 +20876,9 @@
                 "city": "Overland Park",
                 "address": "Suite 207 | Cloverleaf Office Park Building 2",
                 "address2": "6901 Shawnee Mission Parkway",
-                "zip": "66202"
+                "zip": "66202",
+                "lat": 39.0247,
+                "lng": -94.67
             },
             "contact": {
                 "phone": "913-214-0235",
@@ -20564,6 +20900,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Overland Park",
+                    "state": "KS",
+                    "zip": "66210",
+                    "address": "Suite 700 │ Commerce Plaza I, 7300 West 110th Street",
+                    "phone": "913-214-0235",
+                    "lat": 38.9245,
+                    "lng": -94.7049
+                }
             ]
         },
         {
@@ -20582,7 +20929,9 @@
                 "city": "Pittsburg",
                 "address": "201 S. Broadway St",
                 "address2": "Suite C",
-                "zip": "66762"
+                "zip": "66762",
+                "lat": 37.3571,
+                "lng": -94.7522
             },
             "contact": {
                 "phone": "620-322-2428",
@@ -20608,7 +20957,8 @@
                 "Estate Planning",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "melinda-young-law",
@@ -20626,7 +20976,9 @@
                 "city": "Hutchinson",
                 "address": "1 E. 30th Ave.",
                 "address2": null,
-                "zip": "67502"
+                "zip": "67502",
+                "lat": 38.137,
+                "lng": -97.9226
             },
             "contact": {
                 "phone": "620-758-3601",
@@ -20654,7 +21006,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

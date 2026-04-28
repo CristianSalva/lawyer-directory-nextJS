@@ -64243,7 +64243,9 @@
                 "city": "Seattle",
                 "address": "705 2nd Ave #1111",
                 "address2": null,
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-737-9807",
@@ -64288,7 +64290,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "muth-atwood-pllc",
@@ -64306,7 +64309,9 @@
                 "city": "Seattle",
                 "address": "1000 Second Avenue",
                 "address2": "Suite 2530",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "855-907-4300",
@@ -64331,7 +64336,8 @@
             ],
             "official_practice_area": [
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeffers-danielson-sonn-aylward-p-s",
@@ -64349,7 +64355,9 @@
                 "city": "Wenatchee",
                 "address": "2600 Chester Kimm Rd.",
                 "address2": null,
-                "zip": "98801"
+                "zip": "98801",
+                "lat": 47.452,
+                "lng": -120.3308
             },
             "contact": {
                 "phone": "509-662-3685",
@@ -64408,7 +64416,8 @@
                 "Real Estate",
                 "State Local and Municipal Law",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "north-city-law",
@@ -64426,7 +64435,9 @@
                 "city": "Shoreline",
                 "address": "17713 15th Ave. NE",
                 "address2": "Ste. 101",
-                "zip": "98155"
+                "zip": "98155",
+                "lat": 47.7553,
+                "lng": -122.2959
             },
             "contact": {
                 "phone": "206-460-1045",
@@ -64460,6 +64471,17 @@
                 "Discrimination",
                 "Employment Rights",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Everett",
+                    "state": "WA",
+                    "zip": "98201",
+                    "address": "2906 Colby Ave, Suite 105",
+                    "phone": "206-460-1045",
+                    "lat": 47.9908,
+                    "lng": -122.199
+                }
             ]
         },
         {
@@ -64478,7 +64500,9 @@
                 "city": "Seattle",
                 "address": "Columbia Tower",
                 "address2": "701 5th Ave 42nd Floor",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "360-859-9239",
@@ -64506,6 +64530,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Everett",
+                    "state": "WA",
+                    "zip": "98201",
+                    "address": "2722 Colby Ave #105",
+                    "phone": "360-859-9239",
+                    "lat": 47.9908,
+                    "lng": -122.199
+                }
             ]
         },
         {
@@ -64524,7 +64559,9 @@
                 "city": "Seattle",
                 "address": "719 Second Ave.",
                 "address2": "Suite 520",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-447-7745",
@@ -64555,6 +64592,26 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kirkland",
+                    "state": "WA",
+                    "zip": "98033",
+                    "address": "Kirkland Office, 5400 Carillon Point, Building 5000, 4th Floor",
+                    "phone": "206-447-7745",
+                    "lat": 47.6732,
+                    "lng": -122.1976
+                },
+                {
+                    "city": "Santa Monica",
+                    "state": "CA",
+                    "zip": "90404",
+                    "address": "Santa Monica Office, 2500 Broadway, Suite F-125",
+                    "phone": "206-447-7745",
+                    "lat": 34.0268,
+                    "lng": -118.4718
+                }
             ]
         },
         {
@@ -64573,7 +64630,9 @@
                 "city": "Seattle",
                 "address": "1505 Westlake Ave N",
                 "address2": "Suite 725",
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": "206-796-5355",
@@ -64601,6 +64660,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Arlington",
+                    "state": "WA",
+                    "zip": "98223",
+                    "address": "104 South Olympic Ave, Suite 106",
+                    "phone": "+12067965355",
+                    "lat": 48.1806,
+                    "lng": -121.9513
+                }
             ]
         },
         {
@@ -64619,7 +64689,9 @@
                 "city": "Spokane",
                 "address": "4610 North Ash Street, Suite 203",
                 "address2": null,
-                "zip": "99205"
+                "zip": "99205",
+                "lat": 47.6961,
+                "lng": -117.4593
             },
             "contact": {
                 "phone": "509-328-3733",
@@ -64651,7 +64723,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berry-beckett-pllp",
@@ -64669,7 +64742,9 @@
                 "city": "Seattle",
                 "address": "1708 Bellevue Avenue",
                 "address2": null,
-                "zip": "98122"
+                "zip": "98122",
+                "lat": 47.6135,
+                "lng": -122.2973
             },
             "contact": {
                 "phone": "206-672-6003",
@@ -64694,7 +64769,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kurt-bennett-the-redemption-lawyer",
@@ -64712,7 +64788,9 @@
                 "city": "Normandy Park",
                 "address": "17837 1st Avenue South",
                 "address2": "Suite 413",
-                "zip": "98148"
+                "zip": "98148",
+                "lat": 47.4465,
+                "lng": -122.3218
             },
             "contact": {
                 "phone": "206-791-3870",
@@ -64738,7 +64816,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bernard-law-group",
@@ -64756,7 +64835,9 @@
                 "city": "Seattle",
                 "address": "900 Aurora Avenue North",
                 "address2": "Suite 100",
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": "206-895-6649",
@@ -64784,7 +64865,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berner-law-group-pllc",
@@ -64802,7 +64884,9 @@
                 "city": "Everett",
                 "address": "3112 Rockefeller Avenue",
                 "address2": null,
-                "zip": "98201"
+                "zip": "98201",
+                "lat": 47.9908,
+                "lng": -122.199
             },
             "contact": {
                 "phone": "425-998-1790",
@@ -64852,7 +64936,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sound-appeals",
@@ -64870,7 +64955,9 @@
                 "city": "Seattle",
                 "address": "110 Prefontaine Place South",
                 "address2": "Suite 304",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-791-3790",
@@ -64905,7 +64992,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "canfield-madow-law-group-pllc",
@@ -64923,7 +65011,9 @@
                 "city": "Everett",
                 "address": "3102 Rockefeller Avenue",
                 "address2": null,
-                "zip": "98201"
+                "zip": "98201",
+                "lat": 47.9908,
+                "lng": -122.199
             },
             "contact": {
                 "phone": "425-312-1870",
@@ -64947,7 +65037,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "levy-von-beck-comstock-chastain-ps",
@@ -64965,7 +65056,9 @@
                 "city": "Seattle",
                 "address": "1200 5th Ave.",
                 "address2": "Suite 1850",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-965-9028",
@@ -64993,7 +65086,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "borde-law-pllc",
@@ -65011,7 +65105,9 @@
                 "city": "Seattle",
                 "address": "1700 7th Ave.",
                 "address2": "Ste. 2100",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-558-9929",
@@ -65040,7 +65136,8 @@
                 "Debtor and Creditor",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bothwell-hamill-sutton-pllc",
@@ -65058,7 +65155,9 @@
                 "city": "Yakima",
                 "address": "1400 Summitview Ave.",
                 "address2": "#100A",
-                "zip": "98902"
+                "zip": "98902",
+                "lat": 46.5983,
+                "lng": -120.5275
             },
             "contact": {
                 "phone": "509-956-7988",
@@ -65085,6 +65184,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sunnyside",
+                    "state": "WA",
+                    "zip": "98944",
+                    "address": "2650 Yakima Valley Hwy",
+                    "phone": "+15099567611",
+                    "lat": 46.3894,
+                    "lng": -120.0173
+                }
             ]
         },
         {
@@ -65103,7 +65213,9 @@
                 "city": "Puyallup",
                 "address": "1011 East Main Street",
                 "address2": "Suite 455",
-                "zip": "98372"
+                "zip": "98372",
+                "lat": 47.2115,
+                "lng": -122.2549
             },
             "contact": {
                 "phone": "253-387-6923",
@@ -65125,7 +65237,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bricklin-newman-llp",
@@ -65143,7 +65256,9 @@
                 "city": "Seattle",
                 "address": "123 NW 36th Street",
                 "address2": "Suite 205",
-                "zip": "98107"
+                "zip": "98107",
+                "lat": 47.6648,
+                "lng": -122.3838
             },
             "contact": {
                 "phone": "206-690-8893",
@@ -65168,6 +65283,17 @@
             "official_practice_area": [
                 "ADR Arbitration and Mediation",
                 "Environmental Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Spokane",
+                    "state": "WA",
+                    "zip": "99201",
+                    "address": "25 West Main, Suite 234",
+                    "phone": "206-690-8893",
+                    "lat": 47.6648,
+                    "lng": -117.4375
+                }
             ]
         },
         {
@@ -65186,7 +65312,9 @@
                 "city": "Bremerton",
                 "address": "2135 6th St.",
                 "address2": "Suite 101",
-                "zip": "98312"
+                "zip": "98312",
+                "lat": 47.5772,
+                "lng": -122.7577
             },
             "contact": {
                 "phone": "206-445-6947",
@@ -65212,6 +65340,17 @@
                 "Employment Rights",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "318 6th Avenue, South Suite 126",
+                    "phone": "206-405-4520",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -65230,7 +65369,9 @@
                 "city": "Seattle",
                 "address": "2830 NW 56th Street",
                 "address2": "Suite 401",
-                "zip": "98107"
+                "zip": "98107",
+                "lat": 47.6648,
+                "lng": -122.3838
             },
             "contact": {
                 "phone": "360-474-3994",
@@ -65262,6 +65403,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Coupeville",
+                    "state": "WA",
+                    "zip": "98239",
+                    "address": "180 NW Coveland St.",
+                    "phone": "360-474-3994",
+                    "lat": 48.1778,
+                    "lng": -122.6696
+                }
             ]
         },
         {
@@ -65280,7 +65432,9 @@
                 "city": "Browns Point",
                 "address": "6716 East Side Drive NE",
                 "address2": "Suite 1-436",
-                "zip": "98422"
+                "zip": "98422",
+                "lat": 47.2895,
+                "lng": -122.3896
             },
             "contact": {
                 "phone": "253-466-7629",
@@ -65310,7 +65464,8 @@
                 "Construction",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-robert-d-butler",
@@ -65328,7 +65483,9 @@
                 "city": "Bellingham",
                 "address": "1303 Commercial St. #4",
                 "address2": null,
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "360-325-7242",
@@ -65352,7 +65509,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weinstein-caggiano-pllc",
@@ -65370,7 +65528,9 @@
                 "city": "Seattle",
                 "address": "600 University Street",
                 "address2": "Suite 1620",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-474-3595",
@@ -65394,7 +65554,8 @@
             ],
             "official_practice_area": [
                 "Asbestos Mesothelioma"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dixon-cannon-ltd",
@@ -65412,7 +65573,9 @@
                 "city": "Seattle",
                 "address": "601 Union Street",
                 "address2": "Suite 3230",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-315-5748",
@@ -65447,7 +65610,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carley-legal-services",
@@ -65465,7 +65629,9 @@
                 "city": "Vancouver",
                 "address": "2300 Main St",
                 "address2": null,
-                "zip": "98660"
+                "zip": "98660",
+                "lat": 45.6988,
+                "lng": -122.7198
             },
             "contact": {
                 "phone": "360-726-3571",
@@ -65507,7 +65673,8 @@
                 "Domestic Violence",
                 "Drug Crime",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "anthony-castelda-inc-p-s",
@@ -65525,7 +65692,9 @@
                 "city": "Tonasket",
                 "address": "204 Whitcomb Ave.",
                 "address2": null,
-                "zip": "98855"
+                "zip": "98855",
+                "lat": 48.6758,
+                "lng": -119.2898
             },
             "contact": {
                 "phone": "509-394-7687",
@@ -65559,7 +65728,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "causey-wright",
@@ -65577,7 +65747,9 @@
                 "city": "Seattle",
                 "address": "506 2nd Ave",
                 "address2": "Suite 310",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-792-0991",
@@ -65605,7 +65777,8 @@
             "official_practice_area": [
                 "Asbestos Mesothelioma",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doug-cloud-law-attorney-at-law",
@@ -65623,7 +65796,9 @@
                 "city": "Tacoma",
                 "address": "1008 S Yakima Ave",
                 "address2": "Ste 202",
-                "zip": "98405"
+                "zip": "98405",
+                "lat": 47.249,
+                "lng": -122.4729
             },
             "contact": {
                 "phone": "253-799-0028",
@@ -65661,7 +65836,8 @@
                 "Sexual Abuse",
                 "Sexual Harassment",
                 "Whistleblower and Qui Tam"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-peter-g-cogan-p-s",
@@ -65679,7 +65855,9 @@
                 "city": "Seattle",
                 "address": "318 Sixth Ave. S.",
                 "address2": "Suite 126",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-382-9896",
@@ -65701,7 +65879,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cochran-douglas",
@@ -65719,7 +65898,9 @@
                 "city": "Tacoma",
                 "address": "2501 Fawcett Ave",
                 "address2": null,
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-544-6509",
@@ -65759,7 +65940,8 @@
                 "Professional Malpractice",
                 "Sexual Abuse",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "colburn-law",
@@ -65777,7 +65959,9 @@
                 "city": "Issaquah",
                 "address": "22500 SE 64th Place",
                 "address2": "#200",
-                "zip": "98027"
+                "zip": "98027",
+                "lat": 47.4964,
+                "lng": -121.9909
             },
             "contact": {
                 "phone": "206-919-3215",
@@ -65822,7 +66006,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dean-standish-perkins-associates",
@@ -65840,7 +66025,9 @@
                 "city": "Issaquah",
                 "address": "1495 NW Gilman Blvd.",
                 "address2": "Suite 11",
-                "zip": "98027"
+                "zip": "98027",
+                "lat": 47.4964,
+                "lng": -121.9909
             },
             "contact": {
                 "phone": "206-785-2483",
@@ -65861,7 +66048,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gina-m-costello-associates-p-s",
@@ -65879,7 +66067,9 @@
                 "city": "Spokane",
                 "address": "101 W. Cataldo Ave.",
                 "address2": "Suite 301",
-                "zip": "99205"
+                "zip": "99205",
+                "lat": 47.6961,
+                "lng": -117.4593
             },
             "contact": {
                 "phone": "509-325-3227",
@@ -65898,7 +66088,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hanis-irvine-prothero-pllc",
@@ -65916,7 +66107,9 @@
                 "city": "Kent",
                 "address": "6703 South 234th Street",
                 "address2": "Suite 300",
-                "zip": "98032"
+                "zip": "98032",
+                "lat": 47.3923,
+                "lng": -122.2646
             },
             "contact": {
                 "phone": "877-391-5319",
@@ -65959,7 +66152,8 @@
                 "Personal Injury",
                 "Probate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crosta-law-office-pllc",
@@ -65977,7 +66171,9 @@
                 "city": "Normandy Park",
                 "address": "19743 1st Ave S",
                 "address2": "Suite 100",
-                "zip": "98148"
+                "zip": "98148",
+                "lat": 47.4465,
+                "lng": -122.3218
             },
             "contact": {
                 "phone": "206-388-5651",
@@ -66013,7 +66209,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crowley-law-offices-p-s",
@@ -66031,7 +66228,9 @@
                 "city": "Seattle",
                 "address": "600 University Street",
                 "address2": "Suite 1708",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-209-0456",
@@ -66067,7 +66266,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dc-law-group",
@@ -66085,7 +66285,9 @@
                 "city": "Burien",
                 "address": "126 SW 148th St",
                 "address2": "Ste C100-201",
-                "zip": "98166"
+                "zip": "98166",
+                "lat": 47.448,
+                "lng": -122.3584
             },
             "contact": {
                 "phone": "206-279-4347",
@@ -66127,6 +66329,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98125",
+                    "address": "12055 15th Ave NE, Suite B",
+                    "phone": "+12064324298",
+                    "lat": 47.7158,
+                    "lng": -122.2935
+                }
             ]
         },
         {
@@ -66145,7 +66358,9 @@
                 "city": "Olympia",
                 "address": "907 Legion Way SE",
                 "address2": null,
-                "zip": "98501"
+                "zip": "98501",
+                "lat": 46.978,
+                "lng": -122.8735
             },
             "contact": {
                 "phone": "360-703-9303",
@@ -66174,7 +66389,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "we-care-legal-pllc",
@@ -66192,7 +66408,9 @@
                 "city": "Spokane Valley",
                 "address": "920 N Argonne Rd",
                 "address2": "Ste 115",
-                "zip": "99212"
+                "zip": "99212",
+                "lat": 47.6672,
+                "lng": -117.3136
             },
             "contact": {
                 "phone": "509-730-8287",
@@ -66216,7 +66434,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lutz-associates-p-s",
@@ -66234,7 +66453,9 @@
                 "city": "Fircrest",
                 "address": "6314 19th Street W.",
                 "address2": "Suite 21",
-                "zip": "98466"
+                "zip": "98466",
+                "lat": 47.2289,
+                "lng": -122.5414
             },
             "contact": {
                 "phone": "253-453-8584",
@@ -66257,6 +66478,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kent",
+                    "state": "WA",
+                    "zip": "98032",
+                    "address": "604 W. Meeker Street, Suite 201",
+                    "phone": "253-453-8584",
+                    "lat": 47.3923,
+                    "lng": -122.2646
+                }
             ]
         },
         {
@@ -66275,7 +66507,9 @@
                 "city": "Federal Way",
                 "address": "33530 1st Way S.",
                 "address2": "Suite 102",
-                "zip": "98003"
+                "zip": "98003",
+                "lat": 47.3078,
+                "lng": -122.3112
             },
             "contact": {
                 "phone": "206-536-3144",
@@ -66306,7 +66540,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-alling-ps",
@@ -66324,7 +66559,9 @@
                 "city": "Tacoma",
                 "address": "1501 Dock St",
                 "address2": null,
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-235-9450",
@@ -66364,7 +66601,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dickson-frohlich-phillips-burgess",
@@ -66382,7 +66620,9 @@
                 "city": "Seattle",
                 "address": "2101 4th Avenue",
                 "address2": "#700",
-                "zip": "98121"
+                "zip": "98121",
+                "lat": 47.6135,
+                "lng": -122.3474
             },
             "contact": {
                 "phone": "253-358-2687",
@@ -66427,6 +66667,26 @@
                 "Probate",
                 "Real Estate",
                 "Trademarks"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tacoma",
+                    "state": "WA",
+                    "zip": "98421",
+                    "address": "1200 East D Street",
+                    "phone": "253-358-2687",
+                    "lat": 47.2594,
+                    "lng": -122.3969
+                },
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97220",
+                    "address": "8338 Northeast Alderwood Road, Suite 157",
+                    "phone": "253-358-2687",
+                    "lat": 45.5519,
+                    "lng": -122.5553
+                }
             ]
         },
         {
@@ -66445,7 +66705,9 @@
                 "city": "Renton",
                 "address": "451 SW 10th St.",
                 "address2": "Suite 215",
-                "zip": "98057"
+                "zip": "98057",
+                "lat": 47.4727,
+                "lng": -122.2183
             },
             "contact": {
                 "phone": "425-786-1728",
@@ -66485,7 +66747,8 @@
                 "Litigation and Appeals",
                 "State Local and Municipal Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fury-duarte-ps",
@@ -66503,7 +66766,9 @@
                 "city": "Bellevue",
                 "address": "1606 148th Avenue SE",
                 "address2": "Suite #200",
-                "zip": "98007"
+                "zip": "98007",
+                "lat": 47.6197,
+                "lng": -122.143
             },
             "contact": {
                 "phone": "425-329-8900",
@@ -66531,7 +66796,8 @@
             "official_practice_area": [
                 "Admiralty and Maritime",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sullivan-law-group-pllc",
@@ -66549,7 +66815,9 @@
                 "city": "Everett",
                 "address": "2932 Hoyt Avenue",
                 "address2": null,
-                "zip": "98201"
+                "zip": "98201",
+                "lat": 47.9908,
+                "lng": -122.199
             },
             "contact": {
                 "phone": "425-366-7240",
@@ -66578,7 +66846,8 @@
             "official_practice_area": [
                 "DUI and DWI",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-duran-law",
@@ -66596,7 +66865,9 @@
                 "city": "Tacoma",
                 "address": "1105 Tacoma Ave. S.",
                 "address2": null,
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "866-712-7160",
@@ -66621,6 +66892,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rochester",
+                    "state": "WA",
+                    "zip": "98579",
+                    "address": "10118 Highway 12 SW",
+                    "phone": "+18553826311",
+                    "lat": 46.8019,
+                    "lng": -123.1564
+                }
             ]
         },
         {
@@ -66639,7 +66921,9 @@
                 "city": "Tacoma",
                 "address": "713 St. Helens Ave.",
                 "address2": "Suite 209",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-666-8927",
@@ -66670,7 +66954,8 @@
                 "Criminal Defense",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "third-street-law",
@@ -66688,7 +66973,9 @@
                 "city": "Marysville",
                 "address": "1636 3rd Street",
                 "address2": "Suite A",
-                "zip": "98270"
+                "zip": "98270",
+                "lat": 48.0562,
+                "lng": -122.1615
             },
             "contact": {
                 "phone": "360-749-8430",
@@ -66711,7 +66998,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eckstrom-law-firm-pllc",
@@ -66729,7 +67017,9 @@
                 "city": "Mukilteo",
                 "address": "8490 Mukilteo Speedway",
                 "address2": "Suite 212",
-                "zip": "98275"
+                "zip": "98275",
+                "lat": 47.9131,
+                "lng": -122.3038
             },
             "contact": {
                 "phone": "425-366-8422",
@@ -66757,6 +67047,17 @@
                 "DUI and DWI",
                 "Domestic Violence",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "119 1st Ave. South, Suite 310",
+                    "phone": "425-366-8422",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -66775,7 +67076,9 @@
                 "city": "Seattle",
                 "address": "500 Denny Way",
                 "address2": null,
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": "425-243-5964",
@@ -66804,6 +67107,17 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mt Vernon",
+                    "state": "WA",
+                    "zip": "98273",
+                    "address": "820 S 2nd St",
+                    "phone": "+14252436143",
+                    "lat": 48.397,
+                    "lng": -122.3587
+                }
             ]
         },
         {
@@ -66822,7 +67136,9 @@
                 "city": "Seattle",
                 "address": "2120 1st Ave N",
                 "address2": "Suite 303",
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": null,
@@ -66835,7 +67151,8 @@
             "attorneys": [
                 "Shannon Ellmers"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "anderson-fields-mcilwain-inc-p-s",
@@ -66853,7 +67170,9 @@
                 "city": "Bothell",
                 "address": "12900 NE 180th Street",
                 "address2": "Suite 155",
-                "zip": "98011"
+                "zip": "98011",
+                "lat": 47.7503,
+                "lng": -122.2047
             },
             "contact": {
                 "phone": "425-223-3866",
@@ -66881,7 +67200,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Father's Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "everett-family-law",
@@ -66899,7 +67219,9 @@
                 "city": "Grandview",
                 "address": "1313 W. Wine Country Road",
                 "address2": "Suite 110",
-                "zip": "98930"
+                "zip": "98930",
+                "lat": 46.25,
+                "lng": -119.9311
             },
             "contact": {
                 "phone": "855-376-8717",
@@ -66942,6 +67264,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kennewick",
+                    "state": "WA",
+                    "zip": "99336",
+                    "address": "1030 N. Center Parkway",
+                    "phone": "+18553768717",
+                    "lat": 46.2193,
+                    "lng": -119.1781
+                }
             ]
         },
         {
@@ -66960,7 +67293,9 @@
                 "city": "Yakima",
                 "address": "123 E. Yakima Avenue",
                 "address2": "Suite 210",
-                "zip": "98901"
+                "zip": "98901",
+                "lat": 46.6748,
+                "lng": -120.3368
             },
             "contact": {
                 "phone": "509-240-9809",
@@ -66981,7 +67316,8 @@
             "official_practice_area": [
                 "ADR Arbitration and Mediation",
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-ferguson-firm-pllc",
@@ -66999,7 +67335,9 @@
                 "city": "Seattle",
                 "address": "321 First Ave. West",
                 "address2": null,
-                "zip": "98119"
+                "zip": "98119",
+                "lat": 47.639,
+                "lng": -122.3692
             },
             "contact": {
                 "phone": "206-624-5696",
@@ -67018,7 +67356,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hall-west-p-s-attorneys-at-law",
@@ -67036,7 +67375,9 @@
                 "city": "Bremerton",
                 "address": "2135 Sixth Street",
                 "address2": "Suite 101",
-                "zip": "98312"
+                "zip": "98312",
+                "lat": 47.5772,
+                "lng": -122.7577
             },
             "contact": {
                 "phone": "360-362-0822",
@@ -67062,7 +67403,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "legal-resolutions",
@@ -67080,7 +67422,9 @@
                 "city": "Tacoma",
                 "address": "1201 Pacific Ave.",
                 "address2": "Suite 600",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-203-1506",
@@ -67110,7 +67454,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fogarty-law-group-pllc",
@@ -67128,7 +67473,9 @@
                 "city": "Seattle",
                 "address": "Securities Building",
                 "address2": "1904 Third Avenue, Suite 933",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "866-579-3049",
@@ -67158,7 +67505,8 @@
                 "Legal Malpractice",
                 "Litigation and Appeals",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fong-law",
@@ -67176,7 +67524,9 @@
                 "city": "Port Orchard",
                 "address": "569 Division Street",
                 "address2": "Suite A",
-                "zip": "98366"
+                "zip": "98366",
+                "lat": 47.5449,
+                "lng": -122.5815
             },
             "contact": {
                 "phone": "360-876-8205",
@@ -67199,7 +67549,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "meridian-family-law",
@@ -67217,7 +67568,9 @@
                 "city": "Seattle",
                 "address": "901 5th Avenue",
                 "address2": "Suite 2800A",
-                "zip": "98164"
+                "zip": "98164",
+                "lat": 47.6061,
+                "lng": -122.3318
             },
             "contact": {
                 "phone": "206-710-2766",
@@ -67252,7 +67605,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "v-freitas-law-pllc",
@@ -67270,7 +67624,9 @@
                 "city": "Seattle",
                 "address": "544 29th Avenue",
                 "address2": null,
-                "zip": "98122"
+                "zip": "98122",
+                "lat": 47.6135,
+                "lng": -122.2973
             },
             "contact": {
                 "phone": "206-705-2615",
@@ -67306,7 +67662,8 @@
                 "Domestic Violence",
                 "Family Law",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bastion-law-pllc",
@@ -67324,7 +67681,9 @@
                 "city": "Bellevue",
                 "address": "1400 112th Ave. SE",
                 "address2": "Suite 100",
-                "zip": "98004"
+                "zip": "98004",
+                "lat": 47.6177,
+                "lng": -122.2108
             },
             "contact": {
                 "phone": "855-216-7728",
@@ -67353,6 +67712,17 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tacoma",
+                    "state": "WA",
+                    "zip": "98402",
+                    "address": "2367 Tacoma Ave. S.",
+                    "phone": "+18554893749",
+                    "lat": 47.2627,
+                    "lng": -122.4657
+                }
             ]
         },
         {
@@ -67371,7 +67741,9 @@
                 "city": "Bainbridge Island",
                 "address": "241 Madison Avenue North",
                 "address2": null,
-                "zip": "98110"
+                "zip": "98110",
+                "lat": 47.6476,
+                "lng": -122.5355
             },
             "contact": {
                 "phone": "206-536-2539",
@@ -67396,7 +67768,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "quick-law-group-pllc",
@@ -67414,7 +67787,9 @@
                 "city": "Bellevue",
                 "address": "1621 114th Ave SE",
                 "address2": "Ste 228",
-                "zip": "98004"
+                "zip": "98004",
+                "lat": 47.6177,
+                "lng": -122.2108
             },
             "contact": {
                 "phone": "425-728-1811",
@@ -67448,7 +67823,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vindicate-criminal-law-group",
@@ -67466,7 +67842,9 @@
                 "city": "Tacoma",
                 "address": "1201 Pacific Avenue",
                 "address2": "Suite 1503",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-904-0087",
@@ -67490,6 +67868,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98101",
+                    "address": "600 University Street, Suite 3010",
+                    "phone": "+13608458214",
+                    "lat": 47.611,
+                    "lng": -122.3335
+                }
             ]
         },
         {
@@ -67508,7 +67897,9 @@
                 "city": "Tacoma",
                 "address": "1105 Tacoma Ave",
                 "address2": "South Suite C",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-904-0328",
@@ -67533,7 +67924,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gsjones-law-group-p-s",
@@ -67551,7 +67943,9 @@
                 "city": "Port Orchard",
                 "address": "1155 Bethel Avenue",
                 "address2": null,
-                "zip": "98366"
+                "zip": "98366",
+                "lat": 47.5449,
+                "lng": -122.5815
             },
             "contact": {
                 "phone": "360-749-8914",
@@ -67609,7 +68003,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garguile-dui-traffic-lawyers",
@@ -67627,7 +68022,9 @@
                 "city": "Tacoma",
                 "address": "728 Pacific Ave",
                 "address2": "Suite 220",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-201-2001",
@@ -67657,6 +68054,17 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Olympia",
+                    "state": "WA",
+                    "zip": "98501",
+                    "address": "506 4th Ave E, Suite 202",
+                    "phone": "(253) 201-2001",
+                    "lat": 46.978,
+                    "lng": -122.8735
+                }
             ]
         },
         {
@@ -67675,7 +68083,9 @@
                 "city": "Kenmore",
                 "address": "6134 N.E. 203rd Street",
                 "address2": null,
-                "zip": "98028"
+                "zip": "98028",
+                "lat": 47.7549,
+                "lng": -122.2471
             },
             "contact": {
                 "phone": "425-398-2778",
@@ -67694,7 +68104,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nunn-vhan-lang-pllc",
@@ -67712,7 +68123,9 @@
                 "city": "Everett",
                 "address": "2707 Colby Ave.",
                 "address2": "Suite 1204",
-                "zip": "98201"
+                "zip": "98201",
+                "lat": 47.9908,
+                "lng": -122.199
             },
             "contact": {
                 "phone": "425-405-7832",
@@ -67741,6 +68154,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mt. Vernon",
+                    "state": "WA",
+                    "zip": "98273",
+                    "address": "725 S. First Street, Suite B",
+                    "phone": "425-405-7832",
+                    "lat": 48.397,
+                    "lng": -122.3587
+                }
             ]
         },
         {
@@ -67759,7 +68183,9 @@
                 "city": "Long Beach",
                 "address": "12305 Sandridge Rd.",
                 "address2": null,
-                "zip": "98631"
+                "zip": "98631",
+                "lat": 46.3889,
+                "lng": -124.0373
             },
             "contact": {
                 "phone": "360-644-1970",
@@ -67800,7 +68226,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-erin-bradley-mcaleer",
@@ -67818,7 +68245,9 @@
                 "city": "Vancouver",
                 "address": "3709 E. Fourth Plain Blvd.",
                 "address2": null,
-                "zip": "98661"
+                "zip": "98661",
+                "lat": 45.6432,
+                "lng": -122.635
             },
             "contact": {
                 "phone": "360-301-8180",
@@ -67853,7 +68282,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cascade-lawyers",
@@ -67871,7 +68301,9 @@
                 "city": "Seattle",
                 "address": "14900 Interurban Avenue South",
                 "address2": "Suite 261",
-                "zip": "98168"
+                "zip": "98168",
+                "lat": 47.4901,
+                "lng": -122.2915
             },
             "contact": {
                 "phone": "360-845-1645",
@@ -67893,7 +68325,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "herrig-vogt-l-l-p",
@@ -67911,7 +68344,9 @@
                 "city": "Redmond",
                 "address": "Redmond",
                 "address2": null,
-                "zip": "98052"
+                "zip": "98052",
+                "lat": 47.6805,
+                "lng": -122.1209
             },
             "contact": {
                 "phone": "425-881-3129",
@@ -67956,6 +68391,26 @@
                 "Probate",
                 "Real Estate",
                 "Toxic Torts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kennewick",
+                    "state": "WA",
+                    "zip": "99336",
+                    "address": "1030 N. Center Parkway",
+                    "phone": "(509) 943-6691",
+                    "lat": 46.2193,
+                    "lng": -119.1781
+                },
+                {
+                    "city": "Granite Bay",
+                    "state": "CA",
+                    "zip": "95746",
+                    "address": "4210 Douglas Boulevard, Suite 100",
+                    "phone": "(916) 960-1000",
+                    "lat": 38.7544,
+                    "lng": -121.1709
+                }
             ]
         },
         {
@@ -67974,7 +68429,9 @@
                 "city": "Kent",
                 "address": "203 Madison Avenue",
                 "address2": null,
-                "zip": "98302"
+                "zip": "98302",
+                "lat": 47.3809,
+                "lng": -122.2348
             },
             "contact": {
                 "phone": "253-236-0793",
@@ -67998,7 +68455,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-maria-t-greene-pllc",
@@ -68016,7 +68474,9 @@
                 "city": "Seattle",
                 "address": "119 1st Avenue South",
                 "address2": "Suite 310",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-800-7210",
@@ -68062,7 +68522,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mondress-monaco-parr-lockwood-pllc",
@@ -68080,7 +68541,9 @@
                 "city": "Seattle",
                 "address": "2101 Fourth Avenue",
                 "address2": "Suite 2170",
-                "zip": "98121"
+                "zip": "98121",
+                "lat": 47.6135,
+                "lng": -122.3474
             },
             "contact": {
                 "phone": "206-398-1500",
@@ -68106,7 +68569,8 @@
             "official_practice_area": [
                 "Employment Law (Employer)",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-steele-law-firm",
@@ -68124,7 +68588,9 @@
                 "city": "Tacoma",
                 "address": "950 Pacific Ave",
                 "address2": "Ste 900",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-799-4931",
@@ -68165,7 +68631,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jeff-hamilton-pllc",
@@ -68183,7 +68650,9 @@
                 "city": "Seattle",
                 "address": "600 1st Avenue",
                 "address2": "1st Floor",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-536-3058",
@@ -68209,7 +68678,8 @@
                 "Business and Commercial Law",
                 "Construction",
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hamrick-palmer-johansen",
@@ -68227,7 +68697,9 @@
                 "city": "Vancouver",
                 "address": "1200 NE 99th Street",
                 "address2": "Suite 110",
-                "zip": "98685"
+                "zip": "98685",
+                "lat": 45.7171,
+                "lng": -122.6938
             },
             "contact": {
                 "phone": "360-644-5310",
@@ -68255,7 +68727,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harpold-thomas-pc",
@@ -68273,7 +68746,9 @@
                 "city": "Bellevue",
                 "address": "1606 148th Ave. SE",
                 "address2": "Ste. 200",
-                "zip": "98007"
+                "zip": "98007",
+                "lat": 47.6197,
+                "lng": -122.143
             },
             "contact": {
                 "phone": "253-234-9520",
@@ -68298,6 +68773,17 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kent",
+                    "state": "WA",
+                    "zip": "98032",
+                    "address": "6703 S 234th St, Suite 300",
+                    "phone": "253-234-9520",
+                    "lat": 47.3923,
+                    "lng": -122.2646
+                }
             ]
         },
         {
@@ -68316,7 +68802,9 @@
                 "city": "Seattle",
                 "address": "600 First Avenue",
                 "address2": "Suite 410",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-519-5755",
@@ -68342,7 +68830,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "henderson-law-group-pllc",
@@ -68360,7 +68849,9 @@
                 "city": "Olympia",
                 "address": "1800 Cooper Point Road SW",
                 "address2": "Building 1",
-                "zip": "98508"
+                "zip": "98508",
+                "lat": 47.0153,
+                "lng": -122.8742
             },
             "contact": {
                 "phone": "360-464-2980",
@@ -68398,7 +68889,8 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "savage-law-firm",
@@ -68416,7 +68908,9 @@
                 "city": "Seattle",
                 "address": "P.O. Box 17718",
                 "address2": null,
-                "zip": "98127"
+                "zip": "98127",
+                "lat": 47.61,
+                "lng": -122.33
             },
             "contact": {
                 "phone": "206-207-0507",
@@ -68441,6 +68935,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lake Oswego",
+                    "state": "OR",
+                    "zip": "97034",
+                    "address": "501 Fourth Street, #490",
+                    "phone": "+19715017104",
+                    "lat": 45.4108,
+                    "lng": -122.6795
+                }
             ]
         },
         {
@@ -68459,7 +68964,9 @@
                 "city": "Vancouver",
                 "address": "300 W. 39th Street",
                 "address2": null,
-                "zip": "98660"
+                "zip": "98660",
+                "lat": 45.6988,
+                "lng": -122.7198
             },
             "contact": {
                 "phone": "360-934-4947",
@@ -68485,6 +68992,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Battle Ground",
+                    "state": "WA",
+                    "zip": "98604",
+                    "address": "105 N Parkway Ave., Ste 104",
+                    "phone": "360-205-9615",
+                    "lat": 45.801,
+                    "lng": -122.4842
+                }
             ]
         },
         {
@@ -68503,7 +69021,9 @@
                 "city": "Cle Elum",
                 "address": "P.O. Box 50",
                 "address2": null,
-                "zip": "98922"
+                "zip": "98922",
+                "lat": 47.3467,
+                "lng": -120.9987
             },
             "contact": {
                 "phone": "509-899-5375",
@@ -68532,7 +69052,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hickman-menashe-p-s",
@@ -68550,7 +69071,9 @@
                 "city": "Lynnwood",
                 "address": "4211 Alderwood Mall Blvd.",
                 "address2": "Suite 202",
-                "zip": "98036"
+                "zip": "98036",
+                "lat": 47.8048,
+                "lng": -122.2862
             },
             "contact": {
                 "phone": "425-744-5658",
@@ -68569,6 +69092,17 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98004",
+                    "address": "Key Center, 601 108th Avenue NE, Suite 1900",
+                    "phone": "(425) 744-5658",
+                    "lat": 47.6177,
+                    "lng": -122.2108
+                }
             ]
         },
         {
@@ -68587,7 +69121,9 @@
                 "city": "Bellevue",
                 "address": "500 108th Ave NE",
                 "address2": "Floor 11",
-                "zip": "98004"
+                "zip": "98004",
+                "lat": 47.6177,
+                "lng": -122.2108
             },
             "contact": {
                 "phone": "206-629-6372",
@@ -68628,6 +69164,26 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98109",
+                    "address": "1100 Dexter Ave N, Suite 100",
+                    "phone": "+14257285724",
+                    "lat": 47.6344,
+                    "lng": -122.3419
+                },
+                {
+                    "city": "Newport Beach",
+                    "state": "CA",
+                    "zip": "92660",
+                    "address": "1401 Dove Street, Suite 330",
+                    "phone": "+19493342161",
+                    "lat": 33.638,
+                    "lng": -117.8732
+                }
             ]
         },
         {
@@ -68646,7 +69202,9 @@
                 "city": "Tukwila",
                 "address": "16000 Christensen Rd.",
                 "address2": "#304A Tukwila, WA 98188",
-                "zip": "98188"
+                "zip": "98188",
+                "lat": 47.4482,
+                "lng": -122.2779
             },
             "contact": {
                 "phone": "833-908-2769",
@@ -68678,6 +69236,17 @@
                 "Child Support",
                 "Family Law",
                 "Military"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98006",
+                    "address": "14205 SE 36th St., #100B",
+                    "phone": "844-923-2645",
+                    "lat": 47.5528,
+                    "lng": -122.1506
+                }
             ]
         },
         {
@@ -68696,7 +69265,9 @@
                 "city": "Lynnwood",
                 "address": "7331 196th Street, SW",
                 "address2": "P.O. Box 1067",
-                "zip": "98046"
+                "zip": "98046",
+                "lat": 47.8213,
+                "lng": -122.3138
             },
             "contact": {
                 "phone": "425-390-4985",
@@ -68735,7 +69306,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wells-and-jarvis-p-s",
@@ -68753,7 +69325,9 @@
                 "city": "Seattle",
                 "address": "500 Union Street",
                 "address2": "Suite 502",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-624-0088",
@@ -68771,7 +69345,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cap-city-law-ps",
@@ -68789,7 +69364,9 @@
                 "city": "Olympia",
                 "address": "2401 Bristol Ct. SW",
                 "address2": "Suite A-103",
-                "zip": "98502"
+                "zip": "98502",
+                "lat": 47.1039,
+                "lng": -123.0524
             },
             "contact": {
                 "phone": "360-536-4692",
@@ -68857,7 +69434,8 @@
                 "Trademarks",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-teena-johnson",
@@ -68875,7 +69453,9 @@
                 "city": "Tacoma",
                 "address": "1120 Pacific Ave",
                 "address2": "Suite 102",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-387-5313",
@@ -68906,7 +69486,8 @@
                 "Collaborative Law",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jones-bankruptcy-law-firm",
@@ -68924,7 +69505,9 @@
                 "city": "Spokane",
                 "address": "100 North Howard Street",
                 "address2": null,
-                "zip": "99201"
+                "zip": "99201",
+                "lat": 47.6648,
+                "lng": -117.4375
             },
             "contact": {
                 "phone": "206-331-4585",
@@ -68946,6 +69529,35 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98101",
+                    "address": "1700 Seventh Avenue, Suite 2100",
+                    "phone": "206-331-4585",
+                    "lat": 47.611,
+                    "lng": -122.3335
+                },
+                {
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "zip": "95816",
+                    "address": "2108 N. Street, Suite 8640",
+                    "phone": "888-668-6384",
+                    "lat": 38.5759,
+                    "lng": -121.4644
+                },
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89119",
+                    "address": "1050 E. Flamingo Road, Suite 107, PMB 1035",
+                    "phone": "702-728-5958",
+                    "lat": 36.0895,
+                    "lng": -115.1496
+                }
             ]
         },
         {
@@ -68964,7 +69576,9 @@
                 "city": "Seattle",
                 "address": "600 Stewart Street",
                 "address2": "Suite 901",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-838-2504",
@@ -68998,6 +69612,80 @@
             ],
             "official_practice_area": [
                 "Discrimination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97205",
+                    "address": "621 SW Morrison St, Suite 510",
+                    "phone": "(503) 389-1130",
+                    "lat": 45.5155,
+                    "lng": -122.6988
+                },
+                {
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "zip": "89109",
+                    "address": "101 Convention Center Dr, Suite 600",
+                    "phone": "(702) 625-3893",
+                    "lat": 36.1225,
+                    "lng": -115.1586
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90013",
+                    "address": "453 S. Spring St., Suite 1008",
+                    "phone": "(213) 769-6522",
+                    "lat": 34.0456,
+                    "lng": -118.2416
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "518 17th Street, Suite 1100",
+                    "phone": "(303) 991-3075",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                },
+                {
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "zip": "64111",
+                    "address": "1501 Westport Road, Suite 100",
+                    "phone": "(816) 607-4691",
+                    "lat": 39.0573,
+                    "lng": -94.5937
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "zip": "60602",
+                    "address": "180 W. Washington St., Suite 401",
+                    "phone": "(312) 858-8228",
+                    "lat": 41.8832,
+                    "lng": -87.6273
+                },
+                {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "zip": "15219",
+                    "address": "220 Grant St., Suite 401",
+                    "phone": "(412) 308-9715",
+                    "lat": 40.4433,
+                    "lng": -79.9973
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20005",
+                    "address": "1325 G Street NW, Suite 558",
+                    "phone": "(202) 871-8188",
+                    "lat": 38.9042,
+                    "lng": -77.0318
+                }
             ]
         },
         {
@@ -69016,7 +69704,9 @@
                 "city": "Bellingham",
                 "address": "222 Grand Avenue",
                 "address2": "Suite \"A\"",
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "360-685-4221",
@@ -69037,7 +69727,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "styles-law",
@@ -69055,7 +69746,9 @@
                 "city": "Everett",
                 "address": "205 E. Casino Road",
                 "address2": "Suite B8",
-                "zip": "98208"
+                "zip": "98208",
+                "lat": 47.9008,
+                "lng": -122.1945
             },
             "contact": {
                 "phone": "425-553-4667",
@@ -69083,6 +69776,17 @@
                 "Family Law",
                 "Immigration",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Everett",
+                    "state": "WA",
+                    "zip": "98203",
+                    "address": "6320 Evergreen Way, Suite 203 A",
+                    "phone": "425-905-9691",
+                    "lat": 47.9455,
+                    "lng": -122.2397
+                }
             ]
         },
         {
@@ -69101,7 +69805,9 @@
                 "city": "Port Orchard",
                 "address": "817 Sidney Avenue",
                 "address2": null,
-                "zip": "98366"
+                "zip": "98366",
+                "lat": 47.5449,
+                "lng": -122.5815
             },
             "contact": {
                 "phone": "360-602-2864",
@@ -69123,7 +69829,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stanley-a-kempner-jr-attorney-at-law",
@@ -69141,7 +69848,9 @@
                 "city": "Spokane",
                 "address": "900 North Maple St.",
                 "address2": "Suite 200",
-                "zip": "99201"
+                "zip": "99201",
+                "lat": 47.6648,
+                "lng": -117.4375
             },
             "contact": {
                 "phone": "509-956-7767",
@@ -69163,7 +69872,8 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kimel-law-offices",
@@ -69181,7 +69891,9 @@
                 "city": "Yakima",
                 "address": "205 North 40th Avenue",
                 "address2": "Suite 205",
-                "zip": "98908"
+                "zip": "98908",
+                "lat": 46.6298,
+                "lng": -120.7053
             },
             "contact": {
                 "phone": "509-730-8887",
@@ -69205,7 +69917,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kai-law-group-p-s",
@@ -69223,7 +69936,9 @@
                 "city": "Tacoma",
                 "address": "2502 Tacoma Avenue S",
                 "address2": "Suite 100",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-584-1369",
@@ -69252,7 +69967,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "amity-legal-associates-ps",
@@ -69270,7 +69986,9 @@
                 "city": "Bellevue",
                 "address": "700 112th Ave NE",
                 "address2": "Ste 300",
-                "zip": "98004"
+                "zip": "98004",
+                "lat": 47.6177,
+                "lng": -122.2108
             },
             "contact": {
                 "phone": "206-424-7467",
@@ -69309,7 +70027,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-walthew-law-firm",
@@ -69327,7 +70046,9 @@
                 "city": "Seattle",
                 "address": "3000 1st Ave",
                 "address2": null,
-                "zip": "98121"
+                "zip": "98121",
+                "lat": 47.6135,
+                "lng": -122.3474
             },
             "contact": {
                 "phone": "206-623-5311",
@@ -69353,7 +70074,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "le-kittleson-personal-injury-attorneys",
@@ -69371,7 +70093,9 @@
                 "city": "Renton",
                 "address": "135 Park Ave N.",
                 "address2": null,
-                "zip": "98057"
+                "zip": "98057",
+                "lat": 47.4727,
+                "lng": -122.2183
             },
             "contact": {
                 "phone": "425-390-8945",
@@ -69399,6 +70123,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Gig Harbor",
+                    "state": "WA",
+                    "zip": "98332",
+                    "address": "5727 Baker Way NW, Suite 101",
+                    "phone": "+14259981523",
+                    "lat": 47.3649,
+                    "lng": -122.6053
+                }
             ]
         },
         {
@@ -69417,7 +70152,9 @@
                 "city": "North Bend",
                 "address": "118 Downing Ave. N.",
                 "address2": "Suite B",
-                "zip": "98045"
+                "zip": "98045",
+                "lat": 47.461,
+                "lng": -121.5447
             },
             "contact": {
                 "phone": "206-915-7177",
@@ -69448,6 +70185,26 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "600 1st Ave, Suite 330, #101887",
+                    "phone": "206-915-7177",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                },
+                {
+                    "city": "Naples",
+                    "state": "FL",
+                    "zip": "34113",
+                    "address": "4915 Rattlesnake Hammock Dr #5",
+                    "phone": "206-915-7177",
+                    "lat": 26.0374,
+                    "lng": -81.7415
+                }
             ]
         },
         {
@@ -69466,7 +70223,9 @@
                 "city": "Bainbridge Island",
                 "address": "298 Winslow Way West",
                 "address2": null,
-                "zip": "98110"
+                "zip": "98110",
+                "lat": 47.6476,
+                "lng": -122.5355
             },
             "contact": {
                 "phone": "206-889-5345",
@@ -69503,6 +70262,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "1000 2nd Ave., Suite 4050",
+                    "phone": "+12068895345",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -69521,7 +70291,9 @@
                 "city": "Seattle",
                 "address": "2608 Second Avenue",
                 "address2": "Apt 339",
-                "zip": "98121"
+                "zip": "98121",
+                "lat": 47.6135,
+                "lng": -122.3474
             },
             "contact": {
                 "phone": "877-989-7061",
@@ -69543,7 +70315,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brian-ladenburg",
@@ -69561,7 +70334,9 @@
                 "city": "Vashon",
                 "address": "17530 Vashon Highway SW",
                 "address2": null,
-                "zip": "98070"
+                "zip": "98070",
+                "lat": 47.4207,
+                "lng": -122.4509
             },
             "contact": {
                 "phone": "206-463-4408",
@@ -69581,7 +70356,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lacross-murphy-pllc",
@@ -69599,7 +70375,9 @@
                 "city": "Port Orchard",
                 "address": "559 Bay St.",
                 "address2": null,
-                "zip": "98366"
+                "zip": "98366",
+                "lat": 47.5449,
+                "lng": -122.5815
             },
             "contact": {
                 "phone": "360-895-1555",
@@ -69628,6 +70406,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bremerton",
+                    "state": "WA",
+                    "zip": "98337",
+                    "address": "550 Park Avenue",
+                    "phone": "(360) 895-1555",
+                    "lat": 47.5688,
+                    "lng": -122.6367
+                }
             ]
         },
         {
@@ -69646,7 +70435,9 @@
                 "city": "Seattle",
                 "address": "3703 S. Edmunds St. #115",
                 "address2": null,
-                "zip": "98118"
+                "zip": "98118",
+                "lat": 47.542,
+                "lng": -122.2676
             },
             "contact": {
                 "phone": "206-536-2830",
@@ -69674,6 +70465,17 @@
                 "Consumer Protection",
                 "Contracts",
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "119 1st Ave S Bridge, Suite 310",
+                    "phone": "206-536-2830",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -69692,7 +70494,9 @@
                 "city": "Indianola",
                 "address": "9395 NE Shore Drive",
                 "address2": null,
-                "zip": "98342"
+                "zip": "98342",
+                "lat": 47.7544,
+                "lng": -122.5281
             },
             "contact": {
                 "phone": "360-362-0857",
@@ -69716,6 +70520,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "119 1st Avenue S. #310",
+                    "phone": "360-362-0857",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -69734,7 +70549,9 @@
                 "city": "Redmond",
                 "address": "8201 164th Avenue NE",
                 "address2": "Suite 200",
-                "zip": "98052"
+                "zip": "98052",
+                "lat": 47.6805,
+                "lng": -122.1209
             },
             "contact": {
                 "phone": "866-337-7516",
@@ -69757,6 +70574,17 @@
             ],
             "official_practice_area": [
                 "Asbestos Mesothelioma"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Round Rock",
+                    "state": "TX",
+                    "zip": "78664",
+                    "address": "2704 Meister Pl.",
+                    "phone": "+18446481558",
+                    "lat": 30.5006,
+                    "lng": -97.6302
+                }
             ]
         },
         {
@@ -69775,7 +70603,9 @@
                 "city": "Spokane",
                 "address": "421 West Riverside Avenue",
                 "address2": "Suite 660",
-                "zip": "99201"
+                "zip": "99201",
+                "lat": 47.6648,
+                "lng": -117.4375
             },
             "contact": {
                 "phone": "509-456-2064",
@@ -69796,7 +70626,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "insight-law",
@@ -69814,7 +70645,9 @@
                 "city": "Seattle",
                 "address": "701 5th Avenue",
                 "address2": "Suite 4200",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-800-6187",
@@ -69840,6 +70673,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98004",
+                    "address": "10900 NE 4th St., Ste. 2312",
+                    "phone": "+12068006399",
+                    "lat": 47.6177,
+                    "lng": -122.2108
+                }
             ]
         },
         {
@@ -69858,7 +70702,9 @@
                 "city": "Seattle",
                 "address": "4826 California Ave. SW",
                 "address2": null,
-                "zip": "98116"
+                "zip": "98116",
+                "lat": 47.5763,
+                "lng": -122.4006
             },
             "contact": {
                 "phone": "866-248-3845",
@@ -69880,7 +70726,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "leonard-law-pllc",
@@ -69898,7 +70745,9 @@
                 "city": "Seattle",
                 "address": "9030 35th Avenue SW",
                 "address2": "Ste 100",
-                "zip": "98126"
+                "zip": "98126",
+                "lat": 47.5518,
+                "lng": -122.3722
             },
             "contact": {
                 "phone": "206-486-1176",
@@ -69929,7 +70778,8 @@
                 "Foreclosure and Alternatives",
                 "Sexual Harassment",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lepley-law-firm",
@@ -69947,7 +70797,9 @@
                 "city": "Bellevue",
                 "address": "3633 136th Place SE",
                 "address2": "Suite 120",
-                "zip": "98006"
+                "zip": "98006",
+                "lat": 47.5528,
+                "lng": -122.1506
             },
             "contact": {
                 "phone": "425-641-5353",
@@ -69978,7 +70830,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dubois-levias-law-group-pllc",
@@ -69996,7 +70849,9 @@
                 "city": "Seattle",
                 "address": "927 North Northlake Way",
                 "address2": "Suite 140",
-                "zip": "98103"
+                "zip": "98103",
+                "lat": 47.6703,
+                "lng": -122.3483
             },
             "contact": {
                 "phone": null,
@@ -70009,7 +70864,8 @@
             "attorneys": [
                 "Lucia Ramirez Levias"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "dal-law-firm",
@@ -70027,7 +70883,9 @@
                 "city": "Normandy Park",
                 "address": "19803 1st Avenue S.",
                 "address2": "Suite 200",
-                "zip": "98148"
+                "zip": "98148",
+                "lat": 47.4465,
+                "lng": -122.3218
             },
             "contact": {
                 "phone": "206-408-1688",
@@ -70052,7 +70910,8 @@
                 "Estate Planning",
                 "Real Estate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maloney-o-laughlin-pllc",
@@ -70070,7 +70929,9 @@
                 "city": "Seattle",
                 "address": "200 W. Mercer St.",
                 "address2": "Suite 506",
-                "zip": "98119"
+                "zip": "98119",
+                "lat": 47.639,
+                "lng": -122.3692
             },
             "contact": {
                 "phone": "206-536-2338",
@@ -70093,7 +70954,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bailey-duskin-peiffle-p-s",
@@ -70111,7 +70973,9 @@
                 "city": "Arlington",
                 "address": "103 North Street",
                 "address2": null,
-                "zip": "98223"
+                "zip": "98223",
+                "lat": 48.1806,
+                "lng": -121.9513
             },
             "contact": {
                 "phone": "360-474-4952",
@@ -70152,7 +71016,8 @@
                 "State Local and Municipal Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-anna-r-tseytlin-pllc",
@@ -70170,7 +71035,9 @@
                 "city": "Tukwila",
                 "address": "6720 Fort Dent Way",
                 "address2": "Suite 150",
-                "zip": "98188"
+                "zip": "98188",
+                "lat": 47.4482,
+                "lng": -122.2779
             },
             "contact": {
                 "phone": "425-524-4600",
@@ -70200,6 +71067,17 @@
                 "Family Law",
                 "Immigration",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98005",
+                    "address": "375 118th Avenue SE, Suite 203",
+                    "phone": "+14257282060",
+                    "lat": 47.6201,
+                    "lng": -122.1731
+                }
             ]
         },
         {
@@ -70218,7 +71096,9 @@
                 "city": "Vancouver",
                 "address": "2300 Main Street,",
                 "address2": "Suite 300",
-                "zip": "98660"
+                "zip": "98660",
+                "lat": 45.6988,
+                "lng": -122.7198
             },
             "contact": {
                 "phone": "360-861-6956",
@@ -70240,6 +71120,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Longview",
+                    "state": "WA",
+                    "zip": "98632",
+                    "address": "871 11th Ave., Ste. 2",
+                    "phone": "360-334-3360",
+                    "lat": 46.1922,
+                    "lng": -123.0542
+                }
             ]
         },
         {
@@ -70258,7 +71149,9 @@
                 "city": "Seattle",
                 "address": "600 1st Avenue",
                 "address2": "Suite 512, Pioneer Building",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-264-1590",
@@ -70280,7 +71173,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-tyler-l-merrill",
@@ -70298,7 +71192,9 @@
                 "city": "Seattle",
                 "address": "2565 4th Ave W",
                 "address2": null,
-                "zip": "98119"
+                "zip": "98119",
+                "lat": 47.639,
+                "lng": -122.3692
             },
             "contact": {
                 "phone": "206-627-4436",
@@ -70322,7 +71218,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-mark-w-muenster",
@@ -70340,7 +71237,9 @@
                 "city": "Vancouver",
                 "address": "1010 Esther Street",
                 "address2": null,
-                "zip": "98660"
+                "zip": "98660",
+                "lat": 45.6988,
+                "lng": -122.7198
             },
             "contact": {
                 "phone": "360-694-5085",
@@ -70359,7 +71258,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "trish-k-murphy",
@@ -70377,7 +71277,9 @@
                 "city": "Seattle",
                 "address": "1215 Fourth Avenue",
                 "address2": "Suite 1350",
-                "zip": "98161"
+                "zip": "98161",
+                "lat": 47.6015,
+                "lng": -122.3304
             },
             "contact": {
                 "phone": "425-686-7044",
@@ -70402,7 +71304,8 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Labor Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brian-murry-attorney-at-law-pllc",
@@ -70420,7 +71323,9 @@
                 "city": "Tacoma",
                 "address": "4301 South Pine Street",
                 "address2": "Suite 55",
-                "zip": "98409"
+                "zip": "98409",
+                "lat": 47.2137,
+                "lng": -122.4729
             },
             "contact": {
                 "phone": "253-904-0512",
@@ -70447,7 +71352,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-jason-s-newcombe",
@@ -70465,7 +71371,9 @@
                 "city": "Tukwila",
                 "address": "16000 Christensen Rd",
                 "address2": "#304B",
-                "zip": "98188"
+                "zip": "98188",
+                "lat": 47.4482,
+                "lng": -122.2779
             },
             "contact": {
                 "phone": "844-673-0019",
@@ -70494,6 +71402,17 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zip": "98006",
+                    "address": "14205 SE 36th St, #100A",
+                    "phone": "+18554962423",
+                    "lat": 47.5528,
+                    "lng": -122.1506
+                }
             ]
         },
         {
@@ -70512,7 +71431,9 @@
                 "city": "Bellingham",
                 "address": "1200 Old Fairhaven Pkwy",
                 "address2": "Ste 302",
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "360-364-5030",
@@ -70544,7 +71465,8 @@
                 "Estate Planning",
                 "Probate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cascadia-cross-border-law-group-llc",
@@ -70562,7 +71484,9 @@
                 "city": "Bellingham",
                 "address": "1305 11th Street",
                 "address2": "Suite 301",
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "907-242-5800",
@@ -70589,7 +71513,8 @@
                 "Immigration",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-sachter-law-office-pllc",
@@ -70607,7 +71532,9 @@
                 "city": "Seattle",
                 "address": "5413 Meridian Ave. N.",
                 "address2": "Suite A, Office D",
-                "zip": "98103"
+                "zip": "98103",
+                "lat": 47.6703,
+                "lng": -122.3483
             },
             "contact": {
                 "phone": "206-690-6318",
@@ -70632,7 +71559,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parr-price-law-ps",
@@ -70650,7 +71578,9 @@
                 "city": "Olympia",
                 "address": "1800 Cooper Point Rd SW",
                 "address2": "#20-A",
-                "zip": "98502"
+                "zip": "98502",
+                "lat": 47.1039,
+                "lng": -123.0524
             },
             "contact": {
                 "phone": "360-529-5523",
@@ -70672,7 +71602,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jack-peterson-attorney-at-law-p-c",
@@ -70690,7 +71621,9 @@
                 "city": "Vancouver",
                 "address": "1014 Franklin St",
                 "address2": "Suite 220",
-                "zip": "98660"
+                "zip": "98660",
+                "lat": 45.6988,
+                "lng": -122.7198
             },
             "contact": {
                 "phone": "360-859-5297",
@@ -70712,7 +71645,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "petrasek-law",
@@ -70730,7 +71664,9 @@
                 "city": "Mukilteo",
                 "address": "11700 Mukilteo Speedway",
                 "address2": "Suite 201-1006",
-                "zip": "98275"
+                "zip": "98275",
+                "lat": 47.9131,
+                "lng": -122.3038
             },
             "contact": {
                 "phone": "425-657-6448",
@@ -70756,7 +71692,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-theresa-petrey-pllc",
@@ -70774,7 +71711,9 @@
                 "city": "Ellensburg",
                 "address": "605 N. Main St.",
                 "address2": "Suite 2 & 3, Mailing Address:, PO Box 1341",
-                "zip": "98926"
+                "zip": "98926",
+                "lat": 47.0345,
+                "lng": -120.3914
             },
             "contact": {
                 "phone": "509-962-1250",
@@ -70795,6 +71734,17 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kittitas",
+                    "state": "WA",
+                    "zip": "98926",
+                    "address": "Corner of Main and Kittitas Highway",
+                    "phone": "(509) 962-1250",
+                    "lat": 47.0345,
+                    "lng": -120.3914
+                }
             ]
         },
         {
@@ -70813,7 +71763,9 @@
                 "city": "Vancouver",
                 "address": "750 Anderson St.",
                 "address2": "Ste B",
-                "zip": "98661"
+                "zip": "98661",
+                "lat": 45.6432,
+                "lng": -122.635
             },
             "contact": {
                 "phone": "360-356-7313",
@@ -70835,7 +71787,8 @@
             ],
             "official_practice_area": [
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-gregory-e-price-p-s",
@@ -70853,7 +71806,9 @@
                 "city": "Vancouver",
                 "address": "510 E McLoughlin Blvd",
                 "address2": null,
-                "zip": "98663"
+                "zip": "98663",
+                "lat": 45.6523,
+                "lng": -122.6638
             },
             "contact": {
                 "phone": "360-916-5766",
@@ -70886,7 +71841,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miracle-pruzan-pruzan",
@@ -70904,7 +71860,9 @@
                 "city": "Seattle",
                 "address": "1000 Second Avenue",
                 "address2": "Suite 1430",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "206-388-5038",
@@ -70928,7 +71886,8 @@
                 "ADR Arbitration and Mediation",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kathryn-d-resnick-attorney-at-law",
@@ -70946,7 +71905,9 @@
                 "city": "Bellingham",
                 "address": "1112 11th St.",
                 "address2": "Suite 307-B",
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "360-738-3636",
@@ -70968,7 +71929,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rios-immigration-defense-p-s",
@@ -70986,7 +71948,9 @@
                 "city": "Seattle",
                 "address": "1109 1st Ave.",
                 "address2": "Suite 212",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-970-2781",
@@ -71007,7 +71971,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "marine-view-law",
@@ -71025,7 +71990,9 @@
                 "city": "Tacoma",
                 "address": "6716 Eastside Dr NE",
                 "address2": "Suite 7",
-                "zip": "98422"
+                "zip": "98422",
+                "lat": 47.2895,
+                "lng": -122.3896
             },
             "contact": {
                 "phone": "360-525-2859",
@@ -71063,6 +72030,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Normandy Park",
+                    "state": "WA",
+                    "zip": "98148",
+                    "address": "19655 1st Avenue S., Suite 207",
+                    "phone": "+13605256354",
+                    "lat": 47.4465,
+                    "lng": -122.3218
+                }
             ]
         },
         {
@@ -71081,7 +72059,9 @@
                 "city": "Castle Rock",
                 "address": "209 Front Avenue Southwest",
                 "address2": "P.O. Box 600",
-                "zip": "98611"
+                "zip": "98611",
+                "lat": 46.2936,
+                "lng": -122.8635
             },
             "contact": {
                 "phone": "360-967-4268",
@@ -71111,7 +72091,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-rundle-law-firm",
@@ -71129,7 +72110,9 @@
                 "city": "Vancouver",
                 "address": "203 SE Park Plaza Drive",
                 "address2": "Suite 215",
-                "zip": "98684"
+                "zip": "98684",
+                "lat": 45.6297,
+                "lng": -122.51
             },
             "contact": {
                 "phone": "360-882-4488",
@@ -71153,6 +72136,26 @@
             "official_practice_area": [
                 "Legal Malpractice",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Portland",
+                    "state": "OR",
+                    "zip": "97205",
+                    "address": "1000 SW Broadway, Suite 2300",
+                    "phone": "503-234-1900",
+                    "lat": 45.5155,
+                    "lng": -122.6988
+                },
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98101",
+                    "address": "1111 Third Avenue, Suite 1850",
+                    "phone": "206-377-7100",
+                    "lat": 47.611,
+                    "lng": -122.3335
+                }
             ]
         },
         {
@@ -71171,7 +72174,9 @@
                 "city": "Tacoma",
                 "address": "950 Pacific Avenue",
                 "address2": "Suite 705",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-234-1934",
@@ -71208,6 +72213,17 @@
                 "Family Law",
                 "Personal Injury",
                 "Same Sex"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Seattle",
+                    "state": "WA",
+                    "zip": "98104",
+                    "address": "800 5th Avenue, Suite 4100",
+                    "phone": "206-258-6827",
+                    "lat": 47.6021,
+                    "lng": -122.3284
+                }
             ]
         },
         {
@@ -71226,7 +72242,9 @@
                 "city": "Yakima",
                 "address": "6 South 2nd Street",
                 "address2": "Suite 1118",
-                "zip": "98901"
+                "zip": "98901",
+                "lat": 46.6748,
+                "lng": -120.3368
             },
             "contact": {
                 "phone": "509-204-5473",
@@ -71251,7 +72269,8 @@
                 "Criminal Defense",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shaw-law-group-p-l-l-c",
@@ -71269,7 +72288,9 @@
                 "city": "Seattle",
                 "address": "323 1st Avenue West",
                 "address2": null,
-                "zip": "98119"
+                "zip": "98119",
+                "lat": 47.639,
+                "lng": -122.3692
             },
             "contact": {
                 "phone": "206-623-1225",
@@ -71288,6 +72309,17 @@
             ],
             "official_practice_area": [
                 "Education"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Redmond",
+                    "state": "WA",
+                    "zip": "98052",
+                    "address": "8201 164th Avenue NE, Suite 200",
+                    "phone": "(206) 623-1225",
+                    "lat": 47.6805,
+                    "lng": -122.1209
+                }
             ]
         },
         {
@@ -71306,7 +72338,9 @@
                 "city": "Spokane Valley",
                 "address": "16114 E. Indiana Ave.",
                 "address2": "Suite 205",
-                "zip": "99216"
+                "zip": "99216",
+                "lat": 47.6715,
+                "lng": -117.1981
             },
             "contact": {
                 "phone": "614-929-5183",
@@ -71328,7 +72362,8 @@
                 "Bankruptcy",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christina-t-sherman-pllc",
@@ -71346,7 +72381,9 @@
                 "city": "Fircrest",
                 "address": "1201 Regents Blvd",
                 "address2": "Suite B",
-                "zip": "98466"
+                "zip": "98466",
+                "lat": 47.2289,
+                "lng": -122.5414
             },
             "contact": {
                 "phone": "253-466-6203",
@@ -71376,7 +72413,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-smith-white-pllc",
@@ -71394,7 +72432,9 @@
                 "city": "Tacoma",
                 "address": "717 Tacoma Ave S",
                 "address2": "#C",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-203-1645",
@@ -71426,7 +72466,8 @@
                 "Domestic Violence",
                 "Drug Crime",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-sam-sommerman",
@@ -71444,7 +72485,9 @@
                 "city": "Everett",
                 "address": "1812 Hewitt Ave",
                 "address2": "Suite 204",
-                "zip": "98201"
+                "zip": "98201",
+                "lat": 47.9908,
+                "lng": -122.199
             },
             "contact": {
                 "phone": "425-998-2534",
@@ -71474,7 +72517,8 @@
                 "Criminal Defense",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weinrich-immigration-law",
@@ -71492,7 +72536,9 @@
                 "city": "Seattle",
                 "address": "1325 4th Avenue",
                 "address2": "Suite 1225",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-512-3597",
@@ -71515,7 +72561,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-alexis-squier-pllc",
@@ -71533,7 +72580,9 @@
                 "city": "Seattle",
                 "address": "7010 35th Avenue NE",
                 "address2": null,
-                "zip": "98115"
+                "zip": "98115",
+                "lat": 47.6836,
+                "lng": -122.278
             },
             "contact": {
                 "phone": null,
@@ -71546,7 +72595,8 @@
             "attorneys": [
                 "Alexis Squier"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-cassandra-stamm-pllc",
@@ -71564,7 +72614,9 @@
                 "city": "Seattle",
                 "address": "1001 Fourth Avenue",
                 "address2": "Suite 4400",
-                "zip": "98154"
+                "zip": "98154",
+                "lat": 47.6063,
+                "lng": -122.3336
             },
             "contact": {
                 "phone": "888-613-4404",
@@ -71588,6 +72640,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kapaa",
+                    "state": "HI",
+                    "zip": "96746",
+                    "address": "PO Box 1564",
+                    "phone": "888-613-4404",
+                    "lat": 22.1223,
+                    "lng": -159.3954
+                }
             ]
         },
         {
@@ -71606,7 +72669,9 @@
                 "city": "Vancouver",
                 "address": "1700 East Fourth Plain Boulevard",
                 "address2": null,
-                "zip": "98661"
+                "zip": "98661",
+                "lat": 45.6432,
+                "lng": -122.635
             },
             "contact": {
                 "phone": "360-695-4244",
@@ -71634,7 +72699,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-michael-austin-stewart",
@@ -71652,7 +72718,9 @@
                 "city": "Tacoma",
                 "address": "1105 Tacoma Ave. South",
                 "address2": "Suite A",
-                "zip": "98402"
+                "zip": "98402",
+                "lat": 47.2627,
+                "lng": -122.4657
             },
             "contact": {
                 "phone": "253-785-4786",
@@ -71674,7 +72742,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tario-associates-p-s",
@@ -71692,7 +72761,9 @@
                 "city": "Bellingham",
                 "address": "Bellingham Towers",
                 "address2": "119 N Commercial St., #1000",
-                "zip": "98225"
+                "zip": "98225",
+                "lat": 48.7477,
+                "lng": -122.5222
             },
             "contact": {
                 "phone": "866-942-1192",
@@ -71719,6 +72790,17 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mount Vernon",
+                    "state": "WA",
+                    "zip": "98273",
+                    "address": "414 Pine St",
+                    "phone": "866-942-1192",
+                    "lat": 48.397,
+                    "lng": -122.3587
+                }
             ]
         },
         {
@@ -71737,7 +72819,9 @@
                 "city": "Bainbridge Island",
                 "address": "175 Parfitt Way SW",
                 "address2": "Suite N270",
-                "zip": "98110"
+                "zip": "98110",
+                "lat": 47.6476,
+                "lng": -122.5355
             },
             "contact": {
                 "phone": "206-752-8081",
@@ -71762,7 +72846,8 @@
             "official_practice_area": [
                 "Environmental Law",
                 "Land Use and Zoning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kristina-c-udall-pllc",
@@ -71780,7 +72865,9 @@
                 "city": "Seattle",
                 "address": "588 Bell Unit 904",
                 "address2": null,
-                "zip": "91821"
+                "zip": "91821",
+                "lat": 47.6062,
+                "lng": -122.3321
             },
             "contact": {
                 "phone": "206-508-1099",
@@ -71806,7 +72893,8 @@
                 "Estate Planning",
                 "Probate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "waid-law-office-pllc",
@@ -71824,7 +72912,9 @@
                 "city": "Seattle",
                 "address": "PO Box 16737",
                 "address2": null,
-                "zip": "98116"
+                "zip": "98116",
+                "lat": 47.5763,
+                "lng": -122.4006
             },
             "contact": {
                 "phone": "206-462-4435",
@@ -71846,7 +72936,8 @@
             "official_practice_area": [
                 "Legal Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rossi-vucinovich-pc",
@@ -71864,7 +72955,9 @@
                 "city": "Seattle",
                 "address": "1000 2nd Avenue",
                 "address2": "Suite 1780",
-                "zip": "98104"
+                "zip": "98104",
+                "lat": 47.6021,
+                "lng": -122.3284
             },
             "contact": {
                 "phone": "425-646-8003",
@@ -71888,6 +72981,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80210",
+                    "address": "3801 E. Florida Ave.",
+                    "phone": "(425) 646-8003",
+                    "lat": 39.6754,
+                    "lng": -104.964
+                }
             ]
         },
         {
@@ -71906,7 +73010,9 @@
                 "city": "Seattle",
                 "address": "1700 Westlake Ave N",
                 "address2": "Suite 200",
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": "206-796-6583",
@@ -71941,6 +73047,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tacoma",
+                    "state": "WA",
+                    "zip": "98402",
+                    "address": "Antone Weber Law Office, 748 Market Street, Suite 147",
+                    "phone": "206-816-9110",
+                    "lat": 47.2627,
+                    "lng": -122.4657
+                }
             ]
         },
         {
@@ -71959,7 +73076,9 @@
                 "city": "Seattle",
                 "address": "1603 8th Ave N",
                 "address2": null,
-                "zip": "98109"
+                "zip": "98109",
+                "lat": 47.6344,
+                "lng": -122.3419
             },
             "contact": {
                 "phone": "888-763-7741",
@@ -71995,7 +73114,8 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wheat-legal-pllc",
@@ -72013,7 +73133,9 @@
                 "city": "Seattle",
                 "address": "1201 3rd Ave",
                 "address2": "Ste 22-120",
-                "zip": "98101"
+                "zip": "98101",
+                "lat": 47.611,
+                "lng": -122.3335
             },
             "contact": {
                 "phone": "206-866-0816",
@@ -72044,6 +73166,17 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mercer Island",
+                    "state": "WA",
+                    "zip": "98040",
+                    "address": "PO Box 1352",
+                    "phone": "206-866-0816",
+                    "lat": 47.5652,
+                    "lng": -122.2331
+                }
             ]
         },
         {
@@ -72062,7 +73195,9 @@
                 "city": "Bremerton",
                 "address": "400 Warren Ave.",
                 "address2": "Suite 415",
-                "zip": "98337"
+                "zip": "98337",
+                "lat": 47.5688,
+                "lng": -122.6367
             },
             "contact": {
                 "phone": "360-792-1000",
@@ -72105,6 +73240,17 @@
                 "Drug Crime",
                 "Personal Injury",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Poulsbo",
+                    "state": "WA",
+                    "zip": "98370",
+                    "address": "19793 Hamilton Court NE, Suite 101 B",
+                    "phone": "360-792-1000",
+                    "lat": 47.7543,
+                    "lng": -122.6203
+                }
             ]
         },
         {
@@ -72123,7 +73269,9 @@
                 "city": "Seattle",
                 "address": "FISHERMEN’S CENTER BUILDING",
                 "address2": "1900 West Nickerson Street, Suite 201",
-                "zip": "98119"
+                "zip": "98119",
+                "lat": 47.639,
+                "lng": -122.3692
             },
             "contact": {
                 "phone": "206-508-2029",
@@ -72144,7 +73292,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

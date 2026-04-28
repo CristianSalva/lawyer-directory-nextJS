@@ -6349,7 +6349,9 @@
                 "city": "Billings",
                 "address": "2825 3rd Avenue North",
                 "address2": "Suite 100",
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "406-248-3100",
@@ -6376,7 +6378,8 @@
             ],
             "official_practice_area": [
                 "Consumer Protection"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cunningham-law-office",
@@ -6394,7 +6397,9 @@
                 "city": "Missoula",
                 "address": "3700 S. Russell St.",
                 "address2": "Ste. 104",
-                "zip": "59801"
+                "zip": "59801",
+                "lat": 46.8578,
+                "lng": -114.015
             },
             "contact": {
                 "phone": "406-203-4678",
@@ -6419,7 +6424,8 @@
                 "ADR Arbitration and Mediation",
                 "Child Support",
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "knight-dahood",
@@ -6437,7 +6443,9 @@
                 "city": "Anaconda",
                 "address": "113 E. Third St.",
                 "address2": null,
-                "zip": "59711"
+                "zip": "59711",
+                "lat": 46.1255,
+                "lng": -113.0676
             },
             "contact": {
                 "phone": "406-563-3424",
@@ -6458,7 +6466,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morrison-sherwood-wilson-deola-pllp",
@@ -6476,7 +6485,9 @@
                 "city": "Helena",
                 "address": "401 North Last Chance Gulch Street",
                 "address2": null,
-                "zip": "59601"
+                "zip": "59601",
+                "lat": 46.529,
+                "lng": -112.1225
             },
             "contact": {
                 "phone": "406-998-2809",
@@ -6507,7 +6518,8 @@
             ],
             "official_practice_area": [
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dietrich-associates-p-c",
@@ -6525,7 +6537,9 @@
                 "city": "Billings",
                 "address": "404 N 31st St.",
                 "address2": "#213",
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "888-860-3464",
@@ -6553,7 +6567,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edwards-culver",
@@ -6571,7 +6586,9 @@
                 "city": "Billings",
                 "address": "1648 Poly Drive",
                 "address2": "Suite 206",
-                "zip": "59102"
+                "zip": "59102",
+                "lat": 45.7659,
+                "lng": -108.5772
             },
             "contact": {
                 "phone": "406-215-4735",
@@ -6598,7 +6615,8 @@
             ],
             "official_practice_area": [
                 "Agriculture"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "towe-fitzpatrick-pllc",
@@ -6616,7 +6634,9 @@
                 "city": "Missoula",
                 "address": "619 SW. Higgins",
                 "address2": "Suite O",
-                "zip": "59806"
+                "zip": "59806",
+                "lat": 46.8722,
+                "lng": -113.9932
             },
             "contact": {
                 "phone": "833-399-0963",
@@ -6651,7 +6671,8 @@
                 "Professional Malpractice",
                 "Railroad Worker Injury and FELA",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "immigration-law-of-montana-p-c",
@@ -6669,7 +6690,9 @@
                 "city": "Shepherd",
                 "address": "8400 Clark Road",
                 "address2": null,
-                "zip": "59079"
+                "zip": "59079",
+                "lat": 46.0834,
+                "lng": -108.3793
             },
             "contact": {
                 "phone": "406-540-1315",
@@ -6688,7 +6711,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harshbarger-law-firm",
@@ -6706,7 +6730,9 @@
                 "city": "Twin Bridges",
                 "address": "204 S Main St",
                 "address2": null,
-                "zip": "59754"
+                "zip": "59754",
+                "lat": 45.5057,
+                "lng": -112.4617
             },
             "contact": {
                 "phone": "406-794-0095",
@@ -6740,7 +6766,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hansen-law-practice-pllc",
@@ -6758,7 +6785,9 @@
                 "city": "Missoula",
                 "address": "210 North Higgins Avenue",
                 "address2": "Suite 234",
-                "zip": "59802"
+                "zip": "59802",
+                "lat": 46.9912,
+                "lng": -113.8699
             },
             "contact": {
                 "phone": "406-303-7585",
@@ -6787,6 +6816,17 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Billings",
+                    "state": "MT",
+                    "zip": "59101",
+                    "address": "2817 2nd Avenue N., Suite 205",
+                    "phone": "406-303-7585",
+                    "lat": 45.6603,
+                    "lng": -108.3843
+                }
             ]
         },
         {
@@ -6805,7 +6845,9 @@
                 "city": "Missoula",
                 "address": "690 SW Higgins",
                 "address2": "Suite D",
-                "zip": "59803"
+                "zip": "59803",
+                "lat": 46.767,
+                "lng": -113.9726
             },
             "contact": {
                 "phone": "406-409-3783",
@@ -6831,7 +6873,8 @@
                 "Oil Gas and Energy",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "crist-krogh-nord-pllc",
@@ -6849,7 +6892,9 @@
                 "city": "Billings",
                 "address": "2708 First Avenue North",
                 "address2": "Suite 300",
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "406-255-0400",
@@ -6871,7 +6916,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sol-lovas-lawyer-p-c",
@@ -6889,7 +6935,9 @@
                 "city": "Billings",
                 "address": "2817 2nd Ave., Suite 207",
                 "address2": null,
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "406-252-7522",
@@ -6913,7 +6961,8 @@
                 "Elder Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "murphy-law-firm-p-c",
@@ -6931,7 +6980,9 @@
                 "city": "Great Falls",
                 "address": "619 2nd Ave. S.",
                 "address2": null,
-                "zip": "59401"
+                "zip": "59401",
+                "lat": 47.5162,
+                "lng": -111.2777
             },
             "contact": {
                 "phone": "406-205-7956",
@@ -6969,7 +7020,8 @@
                 "Social Security Disability",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "odegaard-injury-lawyers",
@@ -6987,7 +7039,9 @@
                 "city": "Billings",
                 "address": "550 N 31st Street",
                 "address2": "Ste. 200",
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "406-222-2222",
@@ -7010,6 +7064,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Helena",
+                    "state": "MT",
+                    "zip": "59601",
+                    "address": "845 Great Northern Blvd.",
+                    "phone": "406-222-2222",
+                    "lat": 46.529,
+                    "lng": -112.1225
+                }
             ]
         },
         {
@@ -7028,7 +7093,9 @@
                 "city": "Missoula",
                 "address": "257 West Front St., Suite A",
                 "address2": null,
-                "zip": "59802"
+                "zip": "59802",
+                "lat": 46.9912,
+                "lng": -113.8699
             },
             "contact": {
                 "phone": "800-332-4308",
@@ -7062,7 +7129,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "p-mars-scott-law-offices",
@@ -7080,7 +7148,9 @@
                 "city": "Missoula",
                 "address": "2300 Regent Street",
                 "address2": "Suite 207",
-                "zip": "59801"
+                "zip": "59801",
+                "lat": 46.8578,
+                "lng": -114.015
             },
             "contact": {
                 "phone": "406-794-0128",
@@ -7105,7 +7175,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "woodward-law-firm-pllc",
@@ -7123,7 +7194,9 @@
                 "city": "Billings",
                 "address": "49 North 15th Street",
                 "address2": "Suite 1",
-                "zip": "59101"
+                "zip": "59101",
+                "lat": 45.6603,
+                "lng": -108.3843
             },
             "contact": {
                 "phone": "406-384-5197",
@@ -7157,7 +7230,8 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "angela-zielinski-pllc-attorney-at-law",
@@ -7175,7 +7249,9 @@
                 "city": "Missoula",
                 "address": "1207 S. Higgins Ave.",
                 "address2": null,
-                "zip": "59801"
+                "zip": "59801",
+                "lat": 46.8578,
+                "lng": -114.015
             },
             "contact": {
                 "phone": "406-794-0955",
@@ -7197,7 +7273,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

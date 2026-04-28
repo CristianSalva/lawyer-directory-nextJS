@@ -55561,7 +55561,9 @@
                 "city": "Louisville",
                 "address": "Waterfront Plaza Building",
                 "address2": "Suite 1808, 325 West Main Street",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-496-6835",
@@ -55585,7 +55587,8 @@
             "official_practice_area": [
                 "Contracts",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gerner-kearns-co-l-p-a",
@@ -55603,7 +55606,9 @@
                 "city": "Florence",
                 "address": "7900 Tanners Gate Lane",
                 "address2": null,
-                "zip": "41042"
+                "zip": "41042",
+                "lat": 38.9822,
+                "lng": -84.6482
             },
             "contact": {
                 "phone": "513-241-7722",
@@ -55629,7 +55634,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stein-whatley-astorino-pllc",
@@ -55647,7 +55653,9 @@
                 "city": "Louisville",
                 "address": "2525 Bardstown Rd.",
                 "address2": "#101",
-                "zip": "40205"
+                "zip": "40205",
+                "lat": 38.2215,
+                "lng": -85.6758
             },
             "contact": {
                 "phone": "502-553-4750",
@@ -55677,7 +55685,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gatlin-voelker",
@@ -55695,7 +55704,9 @@
                 "city": "Covington",
                 "address": "50 E Rivercenter Blvd",
                 "address2": "Suite 1275",
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-972-9604",
@@ -55773,6 +55784,17 @@
                 "Traffic Ticket",
                 "Wage and Hour",
                 "Wrongful Termination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "zip": "45202",
+                    "address": "720 E Pete Rose Way, Suite 300",
+                    "phone": "+18599729108",
+                    "lat": 39.1094,
+                    "lng": -84.4885
+                }
             ]
         },
         {
@@ -55791,7 +55813,9 @@
                 "city": "Louisville",
                 "address": "401 West Main Street",
                 "address2": "Suite 1400",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-513-0600",
@@ -55821,7 +55845,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "true-guarnieri-ayer-llp",
@@ -55839,7 +55864,9 @@
                 "city": "Frankfort",
                 "address": "124 Clinton St",
                 "address2": null,
-                "zip": "40601"
+                "zip": "40601",
+                "lat": 38.2326,
+                "lng": -84.8983
             },
             "contact": {
                 "phone": "502-537-3881",
@@ -55886,7 +55913,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "matthew-j-baker-attorney",
@@ -55904,7 +55932,9 @@
                 "city": "Bowling Green",
                 "address": "561 E Main Ave",
                 "address2": null,
-                "zip": "42101"
+                "zip": "42101",
+                "lat": 37.0182,
+                "lng": -86.463
             },
             "contact": {
                 "phone": "270-746-2385",
@@ -55928,7 +55958,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barber-law",
@@ -55946,7 +55977,9 @@
                 "city": "Goshen",
                 "address": "12340 W Hwy 42",
                 "address2": null,
-                "zip": "40026"
+                "zip": "40026",
+                "lat": 38.4303,
+                "lng": -85.529
             },
             "contact": {
                 "phone": "502-819-3375",
@@ -55969,7 +56002,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barth-law-firm-p-s-c",
@@ -55987,7 +56021,9 @@
                 "city": "Louisville",
                 "address": "9200 Shelbyville Road",
                 "address2": "Suite 611",
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "800-481-1336",
@@ -56009,7 +56045,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-jeremy-a-bartley-psc",
@@ -56027,7 +56064,9 @@
                 "city": "Somerset",
                 "address": "35 Public Sq",
                 "address2": null,
-                "zip": "42501"
+                "zip": "42501",
+                "lat": 37.0554,
+                "lng": -84.439
             },
             "contact": {
                 "phone": "606-509-5166",
@@ -56052,7 +56091,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "evensen-law-office",
@@ -56070,7 +56110,9 @@
                 "city": "Louisville",
                 "address": "6011 Brownsboro Park Blvd.",
                 "address2": "Suite A",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-309-3636",
@@ -56095,7 +56137,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-brien-batten-kirtley-coomer-pllc",
@@ -56113,7 +56156,9 @@
                 "city": "Lexington",
                 "address": "501 Darby Creek Rd",
                 "address2": "Unit 54",
-                "zip": "40509"
+                "zip": "40509",
+                "lat": 37.9785,
+                "lng": -84.3688
             },
             "contact": {
                 "phone": "859-267-6696",
@@ -56157,7 +56202,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ackerson-yann-pllc",
@@ -56175,7 +56221,9 @@
                 "city": "Louisville",
                 "address": "One Riverfront Plaza",
                 "address2": "401 West Main Street, Suite 1200",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-583-7400",
@@ -56203,6 +56251,17 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Louisville",
+                    "state": "KY",
+                    "zip": "40222",
+                    "address": "6520 Glenridge Park Place, Suite 8",
+                    "phone": "(502) 425-5598",
+                    "lat": 38.278,
+                    "lng": -85.6269
+                }
             ]
         },
         {
@@ -56221,7 +56280,9 @@
                 "city": "Versailles",
                 "address": "P.O. Box 15",
                 "address2": null,
-                "zip": "40383"
+                "zip": "40383",
+                "lat": 38.007,
+                "lng": -84.725
             },
             "contact": {
                 "phone": "833-505-2362",
@@ -56246,7 +56307,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "foreman-watson-holtrey-llp",
@@ -56264,7 +56326,9 @@
                 "city": "Owensboro",
                 "address": "530 Frederica Street",
                 "address2": null,
-                "zip": "42301"
+                "zip": "42301",
+                "lat": 37.762,
+                "lng": -87.2598
             },
             "contact": {
                 "phone": "270-689-2412",
@@ -56356,6 +56420,26 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Evansville",
+                    "state": "IN",
+                    "zip": "47715",
+                    "address": "7412 Eagle Crest Blvd",
+                    "phone": "270-689-2412",
+                    "lat": 37.9708,
+                    "lng": -87.4848
+                },
+                {
+                    "city": "Hartford",
+                    "state": "KY",
+                    "zip": "42347",
+                    "address": "127 East Washington Street",
+                    "phone": "270-298-7435",
+                    "lat": 37.5191,
+                    "lng": -86.9048
+                }
             ]
         },
         {
@@ -56374,7 +56458,9 @@
                 "city": "Lexington",
                 "address": "120 Kentucky Avenue",
                 "address2": "Suite 220",
-                "zip": "40502"
+                "zip": "40502",
+                "lat": 38.016,
+                "lng": -84.4879
             },
             "contact": {
                 "phone": "833-905-0814",
@@ -56407,7 +56493,8 @@
                 "Health Care Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bolus-law-offices",
@@ -56425,7 +56512,9 @@
                 "city": "Louisville",
                 "address": "600 West Main Street, Suite 500",
                 "address2": null,
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "855-430-3866",
@@ -56479,7 +56568,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcgehee-gerughty-law-firm",
@@ -56497,7 +56587,9 @@
                 "city": "Bowling Green",
                 "address": "996 Wilkinson Trace",
                 "address2": "Suite B-1",
-                "zip": "42103"
+                "zip": "42103",
+                "lat": 36.946,
+                "lng": -86.3342
             },
             "contact": {
                 "phone": "270-495-0647",
@@ -56529,7 +56621,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hicks-funfsinn-pllc",
@@ -56547,7 +56640,9 @@
                 "city": "Lexington",
                 "address": "209 E High Street",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-544-2363",
@@ -56581,6 +56676,17 @@
                 "Litigation and Appeals",
                 "Nursing Home Abuse",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Harrodsburg",
+                    "state": "KY",
+                    "zip": "40330",
+                    "address": "111 Short Street, Lawyer's Row",
+                    "phone": "+18595442394",
+                    "lat": 37.8018,
+                    "lng": -84.8787
+                }
             ]
         },
         {
@@ -56599,7 +56705,9 @@
                 "city": "Fort Mitchell",
                 "address": "300 Buttermilk Pike",
                 "address2": "Suite 100",
-                "zip": "41017"
+                "zip": "41017",
+                "lat": 39.0241,
+                "lng": -84.5627
             },
             "contact": {
                 "phone": "859-578-5410",
@@ -56624,7 +56732,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "conliffe-sandmann-sullivan-pllc",
@@ -56642,7 +56751,9 @@
                 "city": "Louisville",
                 "address": "325 West Main Street",
                 "address2": "Suite 250",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-934-5287",
@@ -56679,6 +56790,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Securities"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Louisville",
+                    "state": "KY",
+                    "zip": "40222",
+                    "address": "1215 Herr Lane, Suite 210",
+                    "phone": "+15029345287",
+                    "lat": 38.278,
+                    "lng": -85.6269
+                }
             ]
         },
         {
@@ -56697,7 +56819,9 @@
                 "city": "Winchester",
                 "address": "125 South Main Street",
                 "address2": "Suite 201",
-                "zip": "40391"
+                "zip": "40391",
+                "lat": 37.9684,
+                "lng": -84.146
             },
             "contact": {
                 "phone": "859-744-2551",
@@ -56733,7 +56857,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bamberger-brancato-psc",
@@ -56751,7 +56876,9 @@
                 "city": "Owensboro",
                 "address": "111 W Second ST",
                 "address2": null,
-                "zip": "42303"
+                "zip": "42303",
+                "lat": 37.762,
+                "lng": -87.0423
             },
             "contact": {
                 "phone": "270-926-5050",
@@ -56774,7 +56901,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dan-carman-attorney-at-law-pllc",
@@ -56792,7 +56920,9 @@
                 "city": "Lexington",
                 "address": "111 Church Street",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-838-4158",
@@ -56815,7 +56945,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brooks-law-offices-pllc",
@@ -56833,7 +56964,9 @@
                 "city": "Lexington",
                 "address": "111 Church Street",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-267-1086",
@@ -56867,7 +57000,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "debra-l-broz-attorneys-at-law-plc",
@@ -56885,7 +57019,9 @@
                 "city": "Bowling Green",
                 "address": "130 East Professional Park",
                 "address2": null,
-                "zip": "42104"
+                "zip": "42104",
+                "lat": 36.8806,
+                "lng": -86.4596
             },
             "contact": {
                 "phone": "270-782-8184",
@@ -56908,7 +57044,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-e-bruce-jr-attorney-at-law",
@@ -56926,7 +57063,9 @@
                 "city": "Hopkinsville",
                 "address": "1724 South Virginia Street",
                 "address2": null,
-                "zip": "42240"
+                "zip": "42240",
+                "lat": 36.9163,
+                "lng": -87.4667
             },
             "contact": {
                 "phone": "270-632-4477",
@@ -56947,7 +57086,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burbank-collins-p-s-c",
@@ -56965,7 +57105,9 @@
                 "city": "Louisville",
                 "address": "PO BOX 1027",
                 "address2": null,
-                "zip": "40059"
+                "zip": "40059",
+                "lat": 38.378,
+                "lng": -85.5831
             },
             "contact": {
                 "phone": "502-785-8215",
@@ -56989,7 +57131,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burnett-griffin-pllc",
@@ -57007,7 +57150,9 @@
                 "city": "Elizabethtown",
                 "address": "2403 Ring Road",
                 "address2": null,
-                "zip": "42701"
+                "zip": "42701",
+                "lat": 37.6903,
+                "lng": -85.8652
             },
             "contact": {
                 "phone": "270-506-0246",
@@ -57037,7 +57182,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-t-burns-pllc",
@@ -57055,7 +57201,9 @@
                 "city": "Louisville",
                 "address": "9850 Von Allmen Court",
                 "address2": "Suite 201",
-                "zip": "40241"
+                "zip": "40241",
+                "lat": 38.3023,
+                "lng": -85.5845
             },
             "contact": {
                 "phone": "502-586-2436",
@@ -57090,7 +57238,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gartland-thacker-delcotto-pllc",
@@ -57108,7 +57257,9 @@
                 "city": "Lexington",
                 "address": "200 North Upper Street",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "844-573-6232",
@@ -57142,7 +57293,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carrithers-law-office-pllc",
@@ -57160,7 +57312,9 @@
                 "city": "Louisville",
                 "address": "2950 Breckenridge Lane",
                 "address2": "Suite 10",
-                "zip": "40220"
+                "zip": "40220",
+                "lat": 38.2152,
+                "lng": -85.6207
             },
             "contact": {
                 "phone": "502-452-1233",
@@ -57192,6 +57346,17 @@
                 "Patents",
                 "Real Estate",
                 "Trademarks"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bardstown",
+                    "state": "KY",
+                    "zip": "40004",
+                    "address": "120 West Stephen Foster Avenue, Suite 101",
+                    "phone": "502-452-1233",
+                    "lat": 37.7853,
+                    "lng": -85.4834
+                }
             ]
         },
         {
@@ -57210,7 +57375,9 @@
                 "city": "Monticello",
                 "address": "56 Court St",
                 "address2": null,
-                "zip": "42633"
+                "zip": "42633",
+                "lat": 36.7929,
+                "lng": -84.8112
             },
             "contact": {
                 "phone": "606-653-5276",
@@ -57268,7 +57435,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gary-c-johnson-p-s-c",
@@ -57286,7 +57454,9 @@
                 "city": "Pikeville",
                 "address": "110 Caroline Ave",
                 "address2": null,
-                "zip": "41501"
+                "zip": "41501",
+                "lat": 37.4912,
+                "lng": -82.5085
             },
             "contact": {
                 "phone": "800-337-4002",
@@ -57342,6 +57512,17 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hazard",
+                    "state": "KY",
+                    "zip": "41701",
+                    "address": "100 Citizens Lane, Suite A",
+                    "phone": "800-337-4002",
+                    "lat": 37.2869,
+                    "lng": -83.1836
+                }
             ]
         },
         {
@@ -57360,7 +57541,9 @@
                 "city": "Lexington",
                 "address": "161 North Eagle Creek Drive",
                 "address2": "Suite 210",
-                "zip": "40509"
+                "zip": "40509",
+                "lat": 37.9785,
+                "lng": -84.3688
             },
             "contact": {
                 "phone": "606-444-6899",
@@ -57386,7 +57569,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brian-e-clare-attorney-at-law",
@@ -57404,7 +57588,9 @@
                 "city": "Louisville",
                 "address": "600 West Main Street",
                 "address2": "Suite 300",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-589-6190",
@@ -57424,7 +57610,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peterson-law-office",
@@ -57442,7 +57629,9 @@
                 "city": "Lexington",
                 "address": "2424 Harrodsburg Rd",
                 "address2": "Suite 205",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-452-7999",
@@ -57485,7 +57674,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "colyer-law-firm-pllc",
@@ -57503,7 +57693,9 @@
                 "city": "Louisville",
                 "address": "11921 Brinley Avenue",
                 "address2": "Suite 202",
-                "zip": "40243"
+                "zip": "40243",
+                "lat": 38.2407,
+                "lng": -85.5333
             },
             "contact": {
                 "phone": "502-768-5817",
@@ -57531,7 +57723,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dolt-thompson-shepherd-conway-stanton-psc",
@@ -57549,7 +57742,9 @@
                 "city": "Louisville",
                 "address": "13800 Lake Point Circle",
                 "address2": null,
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "844-504-2139",
@@ -57605,7 +57800,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cooper-cooper-law-offices-pllc",
@@ -57623,7 +57819,9 @@
                 "city": "Elizabethtown",
                 "address": "215 N Mulberry St.",
                 "address2": null,
-                "zip": "42701"
+                "zip": "42701",
+                "lat": 37.6903,
+                "lng": -85.8652
             },
             "contact": {
                 "phone": "270-679-3387",
@@ -57659,7 +57857,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "couch-law-office-pllc",
@@ -57677,7 +57876,9 @@
                 "city": "Louisville",
                 "address": "149 Westwind Rd",
                 "address2": null,
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-537-3723",
@@ -57706,7 +57907,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Premises Liability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edwards-kautz-pllc",
@@ -57724,7 +57926,9 @@
                 "city": "Paducah",
                 "address": "222 Walter Jetton Blvd",
                 "address2": null,
-                "zip": "42003"
+                "zip": "42003",
+                "lat": 37.0184,
+                "lng": -88.5806
             },
             "contact": {
                 "phone": "270-971-6532",
@@ -57794,7 +57998,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cox-cox-law-office-pllc",
@@ -57812,7 +58017,9 @@
                 "city": "Louisville",
                 "address": "635 West Main Street",
                 "address2": "Suite 300B",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-750-9142",
@@ -57876,7 +58083,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "russell-ireland-law-group-llc",
@@ -57894,7 +58102,9 @@
                 "city": "Covington",
                 "address": "726 Greenup Street",
                 "address2": null,
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-535-0180",
@@ -57921,7 +58131,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-craig-firm",
@@ -57939,7 +58150,9 @@
                 "city": "Louisville",
                 "address": "Waterfront Plaza Building",
                 "address2": "325 West Main Street, Suite 1808",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-823-5810",
@@ -57973,7 +58186,8 @@
                 "Foreclosure and Alternatives",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "braxton-crenshaw-attorney-at-law",
@@ -57991,7 +58205,9 @@
                 "city": "Lexington",
                 "address": "230 North Limestone",
                 "address2": "Suite 200",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-455-3339",
@@ -58013,7 +58229,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frye-troxler-davis-psc",
@@ -58031,7 +58248,9 @@
                 "city": "Russell",
                 "address": "400 Ferry Street",
                 "address2": null,
-                "zip": "41169"
+                "zip": "41169",
+                "lat": 38.5182,
+                "lng": -82.7196
             },
             "contact": {
                 "phone": "606-509-5478",
@@ -58073,7 +58292,8 @@
                 "Personal Injury",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "golden-law-office",
@@ -58091,7 +58311,9 @@
                 "city": "Lexington",
                 "address": "771 Corporate Drive",
                 "address2": "#800",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "844-949-2210",
@@ -58134,7 +58356,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "desantis-family-law",
@@ -58152,7 +58375,9 @@
                 "city": "Covington",
                 "address": "614 Main Street",
                 "address2": null,
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "513-854-4603",
@@ -58181,6 +58406,17 @@
                 "Collaborative Law",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "zip": "45255",
+                    "address": "4030 Mt Carmel-Tobasco Rd, Suite 219",
+                    "phone": "+15138544603",
+                    "lat": 39.0568,
+                    "lng": -84.3436
+                }
             ]
         },
         {
@@ -58199,7 +58435,9 @@
                 "city": "Louisville",
                 "address": "2527 Nelson Miller Pkwy",
                 "address2": "Ste. 103",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-805-9838",
@@ -58233,7 +58471,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dodd-dodd-attorneys-pllc",
@@ -58251,7 +58490,9 @@
                 "city": "Louisville",
                 "address": "12004 LaGrange Rd",
                 "address2": null,
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-584-1108",
@@ -58270,7 +58511,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nellie-draus-stallings",
@@ -58288,7 +58530,9 @@
                 "city": "Louisville",
                 "address": "730 W. Market St.",
                 "address2": "Suite 400",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-750-8834",
@@ -58334,7 +58578,8 @@
                 "Military",
                 "Military Divorce",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ecton-shannon-pllc",
@@ -58352,7 +58597,9 @@
                 "city": "Richmond",
                 "address": "127 South Third Street",
                 "address2": null,
-                "zip": "40475"
+                "zip": "40475",
+                "lat": 37.7702,
+                "lng": -84.3073
             },
             "contact": {
                 "phone": "859-544-2754",
@@ -58379,7 +58626,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "miller-edwards-rambicure-pllc",
@@ -58397,7 +58645,9 @@
                 "city": "Lexington",
                 "address": "300 E Main St",
                 "address2": "Suite 360",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-452-7400",
@@ -58430,7 +58680,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eisenmenger-family-law",
@@ -58448,7 +58699,9 @@
                 "city": "Louisville",
                 "address": "9720 Park Plaza Ave.",
                 "address2": "Suite 201",
-                "zip": "40241"
+                "zip": "40241",
+                "lat": 38.3023,
+                "lng": -85.5845
             },
             "contact": {
                 "phone": "502-694-9494",
@@ -58470,7 +58723,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gannott-law-group-pllc",
@@ -58488,7 +58742,9 @@
                 "city": "Louisville",
                 "address": "10230 Shelbyville Rd",
                 "address2": "Suite 6",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-996-9424",
@@ -58514,7 +58770,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "strause-law-group-pllc",
@@ -58532,7 +58789,9 @@
                 "city": "Louisville",
                 "address": "804 Stone Creek Parkway",
                 "address2": "Suite 1",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-677-1625",
@@ -58571,6 +58830,26 @@
                 "Health Care Law",
                 "Real Estate",
                 "State Local and Municipal Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lexington",
+                    "state": "KY",
+                    "zip": "40507",
+                    "address": "271 W Short Street, Suite 409",
+                    "phone": "+15026771625",
+                    "lat": 38.0459,
+                    "lng": -84.497
+                },
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29464",
+                    "address": "200 Bayfront Drive, #508",
+                    "phone": "+15026771625",
+                    "lat": 32.8215,
+                    "lng": -79.8524
+                }
             ]
         },
         {
@@ -58589,7 +58868,9 @@
                 "city": "Richmond",
                 "address": "225 West Irvine Street",
                 "address2": null,
-                "zip": "40475"
+                "zip": "40475",
+                "lat": 37.7702,
+                "lng": -84.3073
             },
             "contact": {
                 "phone": "859-972-8735",
@@ -58625,7 +58906,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-zoppoth-law-firm",
@@ -58643,7 +58925,9 @@
                 "city": "Louisville",
                 "address": "6510 Glenridge Park Place",
                 "address2": "Suite 1",
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "502-953-0517",
@@ -58671,7 +58955,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "minner-vines-injury-lawyers-pllc",
@@ -58689,7 +58974,9 @@
                 "city": "Lexington",
                 "address": "325 W Main St",
                 "address2": "#210",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "888-762-0268",
@@ -58725,6 +59012,26 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bowling Green",
+                    "state": "KY",
+                    "zip": "42102",
+                    "address": "814 State Street",
+                    "phone": "+18887620268",
+                    "lat": 36.9906,
+                    "lng": -86.4437
+                },
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37203",
+                    "address": "49 Music Square West, Suite 504",
+                    "phone": "+18887620268",
+                    "lat": 36.1504,
+                    "lng": -86.7913
+                }
             ]
         },
         {
@@ -58743,7 +59050,9 @@
                 "city": "Fort Mitchell",
                 "address": "301 Artillery Park Drive",
                 "address2": "Suite 201",
-                "zip": "41017"
+                "zip": "41017",
+                "lat": 39.0241,
+                "lng": -84.5627
             },
             "contact": {
                 "phone": "859-972-8472",
@@ -58786,7 +59095,8 @@
                 "Premises Liability",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilbert-law-group-pllc",
@@ -58804,7 +59114,9 @@
                 "city": "Lexington",
                 "address": "2808 Palumbo Dr.",
                 "address2": "STE 101",
-                "zip": "40509"
+                "zip": "40509",
+                "lat": 37.9785,
+                "lng": -84.3688
             },
             "contact": {
                 "phone": "859-908-1274",
@@ -58828,7 +59140,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lange-quill-powers-plc",
@@ -58846,7 +59159,9 @@
                 "city": "Newport",
                 "address": "4 West Fourth Street",
                 "address2": "Suite 200",
-                "zip": "41071"
+                "zip": "41071",
+                "lat": 39.0753,
+                "lng": -84.4804
             },
             "contact": {
                 "phone": "859-279-0003",
@@ -58876,7 +59191,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fessler-schneider-grimme",
@@ -58894,7 +59210,9 @@
                 "city": "Fort Thomas",
                 "address": "20 N. Grand Ave.",
                 "address2": "Suite 8",
-                "zip": "41075"
+                "zip": "41075",
+                "lat": 39.0786,
+                "lng": -84.4515
             },
             "contact": {
                 "phone": "859-452-7333",
@@ -58933,7 +59251,8 @@
                 "Sex Crime",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "finn-yeoman",
@@ -58951,7 +59270,9 @@
                 "city": "Louisville",
                 "address": "401 West Main Street",
                 "address2": "Suite 1702",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-694-0565",
@@ -58983,7 +59304,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vickerstaff-law-office-psc",
@@ -59001,7 +59323,9 @@
                 "city": "Louisville",
                 "address": "1941 Bishop Lane",
                 "address2": "Suite 713",
-                "zip": "40218"
+                "zip": "40218",
+                "lat": 38.1915,
+                "lng": -85.6573
             },
             "contact": {
                 "phone": "502-890-1272",
@@ -59024,7 +59348,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fleenor-law-firm-pllc",
@@ -59042,7 +59367,9 @@
                 "city": "London",
                 "address": "108 Carter Drive",
                 "address2": null,
-                "zip": "40741"
+                "zip": "40741",
+                "lat": 37.1445,
+                "lng": -84.0909
             },
             "contact": {
                 "phone": "606-653-5695",
@@ -59080,7 +59407,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-fleck-firm-pllc",
@@ -59098,7 +59426,9 @@
                 "city": "Elizabethtown",
                 "address": "2413 Ring Road",
                 "address2": "Suite 117",
-                "zip": "42701"
+                "zip": "42701",
+                "lat": 37.6903,
+                "lng": -85.8652
             },
             "contact": {
                 "phone": "270-446-7000",
@@ -59128,7 +59458,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "c-ed-massey-associates-pllc",
@@ -59146,7 +59477,9 @@
                 "city": "Erlanger",
                 "address": "504 Erlanger Road",
                 "address2": null,
-                "zip": "41018"
+                "zip": "41018",
+                "lat": 39.0169,
+                "lng": -84.6088
             },
             "contact": {
                 "phone": "859-267-6078",
@@ -59181,7 +59514,8 @@
                 "Personal Injury",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "deitz-shields-freeburger-l-l-p",
@@ -59199,7 +59533,9 @@
                 "city": "Henderson",
                 "address": "101 First Street",
                 "address2": null,
-                "zip": "42420"
+                "zip": "42420",
+                "lat": 37.8227,
+                "lng": -87.5331
             },
             "contact": {
                 "phone": "270-830-0830",
@@ -59221,7 +59557,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "garmer-prather-pllc",
@@ -59239,7 +59576,9 @@
                 "city": "Lexington",
                 "address": "141 N Broadway",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-475-1568",
@@ -59281,7 +59620,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gayheart-law-pllc",
@@ -59299,7 +59639,9 @@
                 "city": "Lexington",
                 "address": "2201 Regency Road",
                 "address2": "Suite 704",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-440-3163",
@@ -59318,7 +59660,8 @@
             ],
             "official_practice_area": [
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gibson-law-offices",
@@ -59336,7 +59679,9 @@
                 "city": "Louisville",
                 "address": "3339 Taylorsville Road",
                 "address2": null,
-                "zip": "40205"
+                "zip": "40205",
+                "lat": 38.2215,
+                "lng": -85.6758
             },
             "contact": {
                 "phone": "888-471-2808",
@@ -59375,7 +59720,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "king-schickli-pllc",
@@ -59393,7 +59739,9 @@
                 "city": "Lexington",
                 "address": "800 Corporate Drive",
                 "address2": "Suite 200",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-252-0889",
@@ -59421,7 +59769,8 @@
             ],
             "official_practice_area": [
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gray-law-pllc",
@@ -59439,7 +59788,9 @@
                 "city": "Louisville",
                 "address": "10200 Forest Green Blvd",
                 "address2": "Suite 112",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-362-7988",
@@ -59477,7 +59828,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-greene-law-firm-pllc",
@@ -59495,7 +59847,9 @@
                 "city": "Louisville",
                 "address": "6004 Brownsboro Park Blvd.",
                 "address2": "Suite E",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-754-1914",
@@ -59521,7 +59875,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sweat-griffee-law-firm",
@@ -59539,7 +59894,9 @@
                 "city": "Shepherdsville",
                 "address": "318 S. Buckman Street",
                 "address2": null,
-                "zip": "40165"
+                "zip": "40165",
+                "lat": 37.9643,
+                "lng": -85.7182
             },
             "contact": {
                 "phone": "502-750-9002",
@@ -59573,7 +59930,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grossman-green-pllc",
@@ -59591,7 +59949,9 @@
                 "city": "Louisville",
                 "address": "2000 Warrington Way",
                 "address2": "Suite 170",
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "502-657-7100",
@@ -59615,7 +59975,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "haden-law-office",
@@ -59633,7 +59994,9 @@
                 "city": "Louisville",
                 "address": "1041 Goss Avenue",
                 "address2": "Suite 4",
-                "zip": "40217"
+                "zip": "40217",
+                "lat": 38.217,
+                "lng": -85.7338
             },
             "contact": {
                 "phone": "502-999-9329",
@@ -59656,7 +60019,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mark-g-hall-attorney-pllc",
@@ -59674,7 +60038,9 @@
                 "city": "Louisville",
                 "address": "517 West Ormsby Ave",
                 "address2": null,
-                "zip": "40203"
+                "zip": "40203",
+                "lat": 38.2514,
+                "lng": -85.763
             },
             "contact": {
                 "phone": "502-791-9254",
@@ -59696,7 +60062,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hamilton-law-offices-pllc",
@@ -59714,7 +60081,9 @@
                 "city": "Lexington",
                 "address": "3030 Windermere Rd",
                 "address2": "Suite 100",
-                "zip": "40502"
+                "zip": "40502",
+                "lat": 38.016,
+                "lng": -84.4879
             },
             "contact": {
                 "phone": "859-440-4135",
@@ -59735,7 +60104,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "curt-hamilton-injury-law",
@@ -59753,7 +60123,9 @@
                 "city": "Henderson",
                 "address": "110 North Main Street",
                 "address2": null,
-                "zip": "42420"
+                "zip": "42420",
+                "lat": 37.8227,
+                "lng": -87.5331
             },
             "contact": {
                 "phone": "270-679-3802",
@@ -59784,6 +60156,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Evansville",
+                    "state": "IN",
+                    "zip": "47712",
+                    "address": "5225 Pearl Drive, Suite D",
+                    "phone": "+12706793956",
+                    "lat": 37.9442,
+                    "lng": -87.6611
+                }
             ]
         },
         {
@@ -59802,7 +60185,9 @@
                 "city": "Louisville",
                 "address": "401 West Main Street",
                 "address2": "Suite 1950",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "844-247-2368",
@@ -59836,6 +60221,26 @@
                 "Contracts",
                 "Employment Rights",
                 "Securities"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Treasure Island",
+                    "state": "FL",
+                    "zip": "33706",
+                    "address": "11700 5th Street East",
+                    "phone": "+18442472368",
+                    "lat": 27.7345,
+                    "lng": -82.7543
+                },
+                {
+                    "city": "Boulder",
+                    "state": "CO",
+                    "zip": "80302",
+                    "address": "1434 Spruce Street, Suite 100",
+                    "phone": "+18442472368",
+                    "lat": 40.0481,
+                    "lng": -105.3802
+                }
             ]
         },
         {
@@ -59854,7 +60259,9 @@
                 "city": "Somerset",
                 "address": "106 College St",
                 "address2": null,
-                "zip": "42501"
+                "zip": "42501",
+                "lat": 37.0554,
+                "lng": -84.439
             },
             "contact": {
                 "phone": "606-727-9852",
@@ -59875,7 +60282,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morgan-pottinger-p-s-c",
@@ -59893,7 +60301,9 @@
                 "city": "Lexington",
                 "address": "133 West Short Street",
                 "address2": null,
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-253-1900",
@@ -59936,6 +60346,35 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Louisville",
+                    "state": "KY",
+                    "zip": "40202",
+                    "address": "401 South Fourth Street, Suite 1200",
+                    "phone": "(502) 589-2780",
+                    "lat": 38.258,
+                    "lng": -85.7541
+                },
+                {
+                    "city": "New Albany",
+                    "state": "IN",
+                    "zip": "47150",
+                    "address": "120 East Market Street, P.O. Box 77",
+                    "phone": "(812) 948-0008",
+                    "lat": 38.2812,
+                    "lng": -85.841
+                },
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37211",
+                    "address": "5543 Edmondson Pike, Suite 25",
+                    "phone": "(615) 452-4755",
+                    "lat": 36.0684,
+                    "lng": -86.7239
+                }
             ]
         },
         {
@@ -59954,7 +60393,9 @@
                 "city": "Russell",
                 "address": "105 Thompson Road",
                 "address2": null,
-                "zip": "41169"
+                "zip": "41169",
+                "lat": 38.5182,
+                "lng": -82.7196
             },
             "contact": {
                 "phone": "606-836-3117",
@@ -59975,7 +60416,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paul-hershberg-law-pllc",
@@ -59993,7 +60435,9 @@
                 "city": "Louisville",
                 "address": "Wright Tower (formerly Kaden Tower), Suite 1100",
                 "address2": "6100 Dutchmans Lane",
-                "zip": "40205"
+                "zip": "40205",
+                "lat": 38.2215,
+                "lng": -85.6758
             },
             "contact": {
                 "phone": "502-736-7040",
@@ -60023,7 +60467,8 @@
                 "Insurance Defense",
                 "Insurance Law",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccoy-hiestand-plc",
@@ -60041,7 +60486,9 @@
                 "city": "Louisville",
                 "address": "108 Browns Lane",
                 "address2": null,
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-233-7781",
@@ -60065,6 +60512,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Bardstown",
+                    "state": "KY",
+                    "zip": "40004",
+                    "address": "114 South Third Street",
+                    "phone": "502-233-7781",
+                    "lat": 37.7853,
+                    "lng": -85.4834
+                }
             ]
         },
         {
@@ -60083,7 +60541,9 @@
                 "city": "Louisville",
                 "address": "1009 South 4th St",
                 "address2": null,
-                "zip": "40203"
+                "zip": "40203",
+                "lat": 38.2514,
+                "lng": -85.763
             },
             "contact": {
                 "phone": "502-934-7844",
@@ -60114,7 +60574,8 @@
                 "DUI and DWI",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hp-law",
@@ -60132,7 +60593,9 @@
                 "city": "Louisville",
                 "address": "231 South Fifth Street",
                 "address2": "Third Floor Suite",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-823-5541",
@@ -60160,7 +60623,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "satterley-kelley-pllc",
@@ -60178,7 +60642,9 @@
                 "city": "Louisville",
                 "address": "8700 Westport Road",
                 "address2": "Suite 202",
-                "zip": "40242"
+                "zip": "40242",
+                "lat": 38.2782,
+                "lng": -85.594
             },
             "contact": {
                 "phone": "844-415-2405",
@@ -60204,7 +60670,8 @@
             "official_practice_area": [
                 "Asbestos Mesothelioma",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "izzo-law-office",
@@ -60222,7 +60689,9 @@
                 "city": "Frankfort",
                 "address": "109 Consumer Lane",
                 "address2": null,
-                "zip": "40601"
+                "zip": "40601",
+                "lat": 38.2326,
+                "lng": -84.8983
             },
             "contact": {
                 "phone": "502-276-4271",
@@ -60261,7 +60730,8 @@
                 "Personal Injury Defense",
                 "Premises Liability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lisa-l-johnson-attorney-at-law",
@@ -60279,7 +60749,9 @@
                 "city": "Lexington",
                 "address": "201 E Main Street",
                 "address2": "Suite 350",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-554-4691",
@@ -60305,7 +60777,8 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "james-c-jones-ii-attorney-at-law",
@@ -60323,7 +60796,9 @@
                 "city": "Bowling Green",
                 "address": "719 A Dishman Lane Extension",
                 "address2": null,
-                "zip": "42104"
+                "zip": "42104",
+                "lat": 36.8806,
+                "lng": -86.4596
             },
             "contact": {
                 "phone": "270-679-1798",
@@ -60345,7 +60820,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "powell-klausing-pllc",
@@ -60363,7 +60839,9 @@
                 "city": "Louisville",
                 "address": "130 Saint Matthews Avenue",
                 "address2": "Suite 301",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "888-658-0778",
@@ -60389,7 +60867,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hoffman-walker-knauff",
@@ -60407,7 +60886,9 @@
                 "city": "Florence",
                 "address": "7348 US Highway 42",
                 "address2": "Suite 202",
-                "zip": "41042"
+                "zip": "41042",
+                "lat": 38.9822,
+                "lng": -84.6482
             },
             "contact": {
                 "phone": "859-535-0264",
@@ -60435,7 +60916,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-marvin-knorr-associates",
@@ -60453,7 +60935,9 @@
                 "city": "Covington",
                 "address": "7 West 7th Street",
                 "address2": null,
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-267-5604",
@@ -60490,7 +60974,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hay-knight-pllc",
@@ -60508,7 +60993,9 @@
                 "city": "Somerset",
                 "address": "203 W. Columbia Street",
                 "address2": "P.O. Box 1124",
-                "zip": "42501"
+                "zip": "42501",
+                "lat": 37.0554,
+                "lng": -84.439
             },
             "contact": {
                 "phone": "606-679-2214",
@@ -60529,7 +61016,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "roark-korus-pllc",
@@ -60547,7 +61035,9 @@
                 "city": "Lexington",
                 "address": "401 Lewis Hargett Circle",
                 "address2": "Suite 210",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-534-7672",
@@ -60584,7 +61074,8 @@
                 "Sexual Harassment",
                 "Wage and Hour",
                 "Wrongful Termination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kevin-p-laumas-psc",
@@ -60602,7 +61093,9 @@
                 "city": "Owensboro",
                 "address": "227 St. Ann Street",
                 "address2": "Ste. 208",
-                "zip": "42303"
+                "zip": "42303",
+                "lat": 37.762,
+                "lng": -87.0423
             },
             "contact": {
                 "phone": "270-971-3293",
@@ -60624,7 +61117,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "trimble-lindsay-shea",
@@ -60642,7 +61136,9 @@
                 "city": "Henderson",
                 "address": "1 S. Main Street",
                 "address2": null,
-                "zip": "42420"
+                "zip": "42420",
+                "lat": 37.8227,
+                "lng": -87.5331
             },
             "contact": {
                 "phone": "270-854-9966",
@@ -60677,7 +61173,8 @@
                 "Probate",
                 "Traffic Ticket",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ramona-c-little-attorney-at-law",
@@ -60695,7 +61192,9 @@
                 "city": "Danville",
                 "address": "116 N 3rd Street",
                 "address2": "Suite 203",
-                "zip": "40422"
+                "zip": "40422",
+                "lat": 37.6347,
+                "lng": -84.8094
             },
             "contact": {
                 "phone": "859-209-4210",
@@ -60726,7 +61225,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lowder-mcgill-pllc",
@@ -60744,7 +61244,9 @@
                 "city": "Bowling Green",
                 "address": "537 E. 10th Avenue",
                 "address2": "#100",
-                "zip": "42101"
+                "zip": "42101",
+                "lat": 37.0182,
+                "lng": -86.463
             },
             "contact": {
                 "phone": "270-971-3343",
@@ -60783,7 +61285,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "visar-maliqi-attorney-at-law",
@@ -60801,7 +61304,9 @@
                 "city": "Louisville",
                 "address": "600 West Main Street",
                 "address2": "Suite 100",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-934-3643",
@@ -60829,7 +61334,8 @@
                 "Animal and Dog Bites",
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcclain-law-group-pllc",
@@ -60847,7 +61353,9 @@
                 "city": "Louisville",
                 "address": "6008 Brownsboro Park Blvd",
                 "address2": "Suite G",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "561-717-4035",
@@ -60867,6 +61375,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boca Raton",
+                    "state": "FL",
+                    "zip": "33487",
+                    "address": "7700 Congress Avenue, Suite 3108",
+                    "phone": "561-717-4035",
+                    "lat": 26.4086,
+                    "lng": -80.0923
+                }
             ]
         },
         {
@@ -60885,7 +61404,9 @@
                 "city": "Smithland",
                 "address": "115 East Adair Street",
                 "address2": null,
-                "zip": "42081"
+                "zip": "42081",
+                "lat": 37.237,
+                "lng": -88.3909
             },
             "contact": {
                 "phone": "270-971-5119",
@@ -60912,6 +61433,17 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Paducah",
+                    "state": "KY",
+                    "zip": "42001",
+                    "address": "2520 New Holt Road, Suite C",
+                    "phone": "+12706790332",
+                    "lat": 37.0428,
+                    "lng": -88.7078
+                }
             ]
         },
         {
@@ -60930,7 +61462,9 @@
                 "city": "Hyden",
                 "address": "21946 Main St",
                 "address2": null,
-                "zip": "41749"
+                "zip": "41749",
+                "lat": 37.2026,
+                "lng": -83.4349
             },
             "contact": {
                 "phone": "606-672-5150",
@@ -60950,7 +61484,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "megerle-law",
@@ -60968,7 +61503,9 @@
                 "city": "Covington",
                 "address": "421 Madison Ave.",
                 "address2": null,
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-982-2025",
@@ -60990,7 +61527,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "darren-k-mexic-attorney-at-law",
@@ -61008,7 +61546,9 @@
                 "city": "Bowling Green",
                 "address": "1797 Creason St.",
                 "address2": "#1",
-                "zip": "42101"
+                "zip": "42101",
+                "lat": 37.0182,
+                "lng": -86.463
             },
             "contact": {
                 "phone": "270-418-9633",
@@ -61030,7 +61570,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "omega-law-pllc",
@@ -61048,7 +61589,9 @@
                 "city": "Florence",
                 "address": "7415 Burlington Pike",
                 "address2": "Suite c",
-                "zip": "41042"
+                "zip": "41042",
+                "lat": 38.9822,
+                "lng": -84.6482
             },
             "contact": {
                 "phone": "859-905-0814",
@@ -61076,7 +61619,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "moore-law-office",
@@ -61094,7 +61638,9 @@
                 "city": "Versailles",
                 "address": "100 United Drive",
                 "address2": "Suite 3A",
-                "zip": "40383"
+                "zip": "40383",
+                "lat": 38.007,
+                "lng": -84.725
             },
             "contact": {
                 "phone": "859-972-9281",
@@ -61140,7 +61686,8 @@
                 "Personal Injury",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "morris-player-pllc",
@@ -61158,7 +61705,9 @@
                 "city": "Louisville",
                 "address": "1211 Herr Lane",
                 "address2": "Suite 205",
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "800-501-0431",
@@ -61194,7 +61743,8 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mussetter-law",
@@ -61212,7 +61762,9 @@
                 "city": "Louisville",
                 "address": "600 West Main St",
                 "address2": "Suite 500",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "606-637-8920",
@@ -61244,7 +61796,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "naiser-law-office",
@@ -61262,7 +61815,9 @@
                 "city": "Louisville",
                 "address": "100 Mallard Creek Rd",
                 "address2": "Suite 404",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-882-5183",
@@ -61304,7 +61859,8 @@
                 "Professional Malpractice",
                 "Transportation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nevels-associates",
@@ -61322,7 +61878,9 @@
                 "city": "Covington",
                 "address": "618 Washington Street",
                 "address2": "Suite B",
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-279-0873",
@@ -61346,7 +61904,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "derek-p-o-bryan-psc",
@@ -61364,7 +61923,9 @@
                 "city": "Louisville",
                 "address": "100 Mallard Creek Road",
                 "address2": "Suite 404",
-                "zip": "40207"
+                "zip": "40207",
+                "lat": 38.2641,
+                "lng": -85.662
             },
             "contact": {
                 "phone": "502-537-3467",
@@ -61400,7 +61961,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "olsen-oliver-pllc",
@@ -61418,7 +61980,9 @@
                 "city": "Paducah",
                 "address": "806 Clark Street",
                 "address2": null,
-                "zip": "42003"
+                "zip": "42003",
+                "lat": 37.0184,
+                "lng": -88.5806
             },
             "contact": {
                 "phone": "270-575-3500",
@@ -61441,7 +62005,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-toole-williams-law",
@@ -61459,7 +62024,9 @@
                 "city": "Lexington",
                 "address": "3080 Harrodsburg Rd.",
                 "address2": "Suite 101",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-972-9170",
@@ -61498,6 +62065,17 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Richmond",
+                    "state": "KY",
+                    "zip": "40475",
+                    "address": "114 N. 2nd St., Ste. A",
+                    "phone": "+18593149647",
+                    "lat": 37.7702,
+                    "lng": -84.3073
+                }
             ]
         },
         {
@@ -61516,7 +62094,9 @@
                 "city": "Lexington",
                 "address": "424 Lewis Hargett Circle",
                 "address2": "Suite 250",
-                "zip": "40503"
+                "zip": "40503",
+                "lat": 38.0063,
+                "lng": -84.5345
             },
             "contact": {
                 "phone": "859-263-1111",
@@ -61543,6 +62123,17 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Harlan",
+                    "state": "KY",
+                    "zip": "40831",
+                    "address": "107 S. Main St.",
+                    "phone": "859-263-1111",
+                    "lat": 36.7696,
+                    "lng": -83.3536
+                }
             ]
         },
         {
@@ -61561,7 +62152,9 @@
                 "city": "Fort Mitchell",
                 "address": "334 Beechwood Rd",
                 "address2": "Suite 550",
-                "zip": "41017"
+                "zip": "41017",
+                "lat": 39.0241,
+                "lng": -84.5627
             },
             "contact": {
                 "phone": "502-805-9428",
@@ -61600,6 +62193,17 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Louisville",
+                    "state": "KY",
+                    "zip": "40220",
+                    "address": "2821 S Hurstbourne Pkwy, Suite 9",
+                    "phone": "+15028269300",
+                    "lat": 38.2152,
+                    "lng": -85.6207
+                }
             ]
         },
         {
@@ -61618,7 +62222,9 @@
                 "city": "Oak Grove",
                 "address": "15744 Fort Campbell Blvd.",
                 "address2": null,
-                "zip": "42262"
+                "zip": "42262",
+                "lat": 36.6977,
+                "lng": -87.4381
             },
             "contact": {
                 "phone": "270-605-0441",
@@ -61668,7 +62274,8 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thompson-legal-llc",
@@ -61686,7 +62293,9 @@
                 "city": "Louisville",
                 "address": "1230 S Hurstbourne Pkwy",
                 "address2": "Suite 210",
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "502-885-6808",
@@ -61715,6 +62324,17 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "zip": "45202",
+                    "address": "250 E 5th St., 15th Floor",
+                    "phone": "+15028856858",
+                    "lat": 39.1094,
+                    "lng": -84.4885
+                }
             ]
         },
         {
@@ -61733,7 +62353,9 @@
                 "city": "Ashland",
                 "address": "1544 Winchester Ave",
                 "address2": "Ste 1101",
-                "zip": "41101"
+                "zip": "41101",
+                "lat": 38.4818,
+                "lng": -82.6588
             },
             "contact": {
                 "phone": "606-325-1154",
@@ -61763,6 +62385,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Ashland",
+                    "state": "KY",
+                    "zip": "41105",
+                    "address": "P.O. Box 2557",
+                    "phone": "606-325-1154",
+                    "lat": 38.4785,
+                    "lng": -82.6381
+                }
             ]
         },
         {
@@ -61781,7 +62414,9 @@
                 "city": "Bowling Green",
                 "address": "941 Lehman Ave.",
                 "address2": "Ste. 105",
-                "zip": "42101"
+                "zip": "42101",
+                "lat": 37.0182,
+                "lng": -86.463
             },
             "contact": {
                 "phone": "270-745-1933",
@@ -61806,7 +62441,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nathan-d-williams-attorney-at-law",
@@ -61824,7 +62460,9 @@
                 "city": "Campbellsville",
                 "address": "1510 East Broadway Street",
                 "address2": null,
-                "zip": "42718"
+                "zip": "42718",
+                "lat": 37.3776,
+                "lng": -85.3825
             },
             "contact": {
                 "phone": "270-971-7566",
@@ -61864,7 +62502,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carrie-d-ritsert-attorney-at-law",
@@ -61882,7 +62521,9 @@
                 "city": "Louisville",
                 "address": "209 Old Harrods Creek Road",
                 "address2": "Suite 100",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-750-9103",
@@ -61908,7 +62549,8 @@
                 "Bankruptcy",
                 "Divorce and Separation",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "scott-t-roby-law-office-p-s-c",
@@ -61926,7 +62568,9 @@
                 "city": "Louisville",
                 "address": "600 West Main Street",
                 "address2": null,
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-777-4738",
@@ -61949,7 +62593,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-robinson-law-firm-pllc",
@@ -61967,7 +62612,9 @@
                 "city": "Shelbyville",
                 "address": "931 Main Street",
                 "address2": "Suite 101",
-                "zip": "40066"
+                "zip": "40066",
+                "lat": 38.2117,
+                "lng": -85.2236
             },
             "contact": {
                 "phone": "502-826-0725",
@@ -61996,6 +62643,17 @@
                 "Personal Injury",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Frankfort",
+                    "state": "KY",
+                    "zip": "40601",
+                    "address": "306 West Main St, Suite 605",
+                    "phone": "+15027806330",
+                    "lat": 38.2326,
+                    "lng": -84.8983
+                }
             ]
         },
         {
@@ -62014,7 +62672,9 @@
                 "city": "Barbourville",
                 "address": "220 Court Square",
                 "address2": null,
-                "zip": "40906"
+                "zip": "40906",
+                "lat": 36.8424,
+                "lng": -83.9393
             },
             "contact": {
                 "phone": "606-444-0412",
@@ -62052,7 +62712,8 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilson-stavros-rowsey-thomas",
@@ -62070,7 +62731,9 @@
                 "city": "Ashland",
                 "address": "1916 Carter Ave.",
                 "address2": "PO Box 807",
-                "zip": "41105"
+                "zip": "41105",
+                "lat": 38.4785,
+                "lng": -82.6381
             },
             "contact": {
                 "phone": "606-637-8717",
@@ -62114,7 +62777,8 @@
                 "Personal Injury",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "russell-smith-attorneys",
@@ -62132,7 +62796,9 @@
                 "city": "Louisville",
                 "address": "611 W. Main Street",
                 "address2": "Suite 202",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-915-2360",
@@ -62156,7 +62822,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "salyers-law-pllc",
@@ -62174,7 +62841,9 @@
                 "city": "Shelbyville",
                 "address": "316 Main Street",
                 "address2": "Suite 201",
-                "zip": "40065"
+                "zip": "40065",
+                "lat": 38.2144,
+                "lng": -85.1768
             },
             "contact": {
                 "phone": "502-255-8106",
@@ -62203,6 +62872,17 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Frankfort",
+                    "state": "KY",
+                    "zip": "40601",
+                    "address": "306 W Main Street, Suite 407",
+                    "phone": "502-255-8106",
+                    "lat": 38.2326,
+                    "lng": -84.8983
+                }
             ]
         },
         {
@@ -62221,7 +62901,9 @@
                 "city": "Louisville",
                 "address": "3715 Bardstown Road",
                 "address2": "Suite 313",
-                "zip": "40218"
+                "zip": "40218",
+                "lat": 38.1915,
+                "lng": -85.6573
             },
             "contact": {
                 "phone": "502-439-0175",
@@ -62247,7 +62929,8 @@
                 "Criminal Defense",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fox-scott-p-l-l-c",
@@ -62265,7 +62948,9 @@
                 "city": "Covington",
                 "address": "517 Madison Avenue",
                 "address2": null,
-                "zip": "41011"
+                "zip": "41011",
+                "lat": 39.0652,
+                "lng": -84.5295
             },
             "contact": {
                 "phone": "859-291-1000",
@@ -62288,7 +62973,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "t-j-smith-attorney-at-law",
@@ -62306,7 +62992,9 @@
                 "city": "Louisville",
                 "address": "600 W. Main Street",
                 "address2": "Suite 100",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-890-1885",
@@ -62329,7 +63017,8 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "spalding-evan-g-attorney-at-law",
@@ -62347,7 +63036,9 @@
                 "city": "Elizabethtown",
                 "address": "102 West Dixie Avenue",
                 "address2": null,
-                "zip": "42701"
+                "zip": "42701",
+                "lat": 37.6903,
+                "lng": -85.8652
             },
             "contact": {
                 "phone": "270-505-4912",
@@ -62369,7 +63060,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hance-srinivasan-p-l-l-c",
@@ -62387,7 +63079,9 @@
                 "city": "Louisville",
                 "address": "8700 Westport Road",
                 "address2": "Suite 101",
-                "zip": "40242"
+                "zip": "40242",
+                "lat": 38.2782,
+                "lng": -85.594
             },
             "contact": {
                 "phone": "502-426-4301",
@@ -62409,7 +63103,8 @@
             ],
             "official_practice_area": [
                 "Class Actions"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stevenson-law-group",
@@ -62427,7 +63122,9 @@
                 "city": "Louisville",
                 "address": "9115 Leesgate Road",
                 "address2": null,
-                "zip": "40222"
+                "zip": "40222",
+                "lat": 38.278,
+                "lng": -85.6269
             },
             "contact": {
                 "phone": "502-305-6207",
@@ -62457,7 +63154,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gary-stewart-attorney-at-law",
@@ -62475,7 +63173,9 @@
                 "city": "Louisville",
                 "address": "500 West Jefferson St",
                 "address2": "Ste 1100",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-901-3865",
@@ -62505,7 +63205,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ray-h-stoess-jr-p-s-c-attorney-at-law",
@@ -62523,7 +63224,9 @@
                 "city": "Louisville",
                 "address": "600 W Main St.",
                 "address2": "Suite 100",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "502-305-1387",
@@ -62547,7 +63250,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "taylor-injury-law-office-pllc",
@@ -62565,7 +63269,9 @@
                 "city": "Lexington",
                 "address": "175 East Main Street",
                 "address2": "Suite 201",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-814-1981",
@@ -62591,7 +63297,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "qdro-premier-services-pllc",
@@ -62609,7 +63316,9 @@
                 "city": "Louisville",
                 "address": "802 Lily Creek Road",
                 "address2": "Suite 101",
-                "zip": "40243"
+                "zip": "40243",
+                "lat": 38.2407,
+                "lng": -85.5333
             },
             "contact": {
                 "phone": "502-677-1308",
@@ -62630,7 +63339,8 @@
                 "Divorce and Separation",
                 "Domestic Violence",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thompson-law-office",
@@ -62648,7 +63358,9 @@
                 "city": "Lexington",
                 "address": "219 North Upper Street",
                 "address2": "Suite 110",
-                "zip": "40507"
+                "zip": "40507",
+                "lat": 38.0459,
+                "lng": -84.497
             },
             "contact": {
                 "phone": "859-280-2222",
@@ -62686,7 +63398,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tillman-law-office-pllc",
@@ -62704,7 +63417,9 @@
                 "city": "Louisville",
                 "address": "8604 Smyrna Parkway",
                 "address2": "Suite 300",
-                "zip": "40228"
+                "zip": "40228",
+                "lat": 38.1417,
+                "lng": -85.627
             },
             "contact": {
                 "phone": "502-968-7554",
@@ -62727,7 +63442,8 @@
             ],
             "official_practice_area": [
                 "Car Accidents"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bluegrass-lawyers-pllc",
@@ -62745,7 +63461,9 @@
                 "city": "Louisville",
                 "address": "4612 Chamberlain Lane",
                 "address2": "Suite 210",
-                "zip": "40241"
+                "zip": "40241",
+                "lat": 38.3023,
+                "lng": -85.5845
             },
             "contact": {
                 "phone": "502-576-2666",
@@ -62766,7 +63484,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-tucker-law-firm-pllc",
@@ -62784,7 +63503,9 @@
                 "city": "Louisville",
                 "address": "517 W. Ormsby Avenue",
                 "address2": null,
-                "zip": "40203"
+                "zip": "40203",
+                "lat": 38.2514,
+                "lng": -85.763
             },
             "contact": {
                 "phone": "502-915-2561",
@@ -62825,6 +63546,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Edmonds",
+                    "state": "WA",
+                    "zip": "98020",
+                    "address": "144 Railroad Ave, Suite 220",
+                    "phone": "888-607-4246",
+                    "lat": 47.8061,
+                    "lng": -122.3755
+                }
             ]
         },
         {
@@ -62843,7 +63575,9 @@
                 "city": "Florence",
                 "address": "223 Main St.",
                 "address2": null,
-                "zip": "41022"
+                "zip": "41022",
+                "lat": 38.9989,
+                "lng": -84.6267
             },
             "contact": {
                 "phone": "859-479-2783",
@@ -62868,6 +63602,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Prestonsburg",
+                    "state": "KY",
+                    "zip": "41653",
+                    "address": "140 South Lake Drive",
+                    "phone": "859-479-2783",
+                    "lat": 37.6184,
+                    "lng": -82.7548
+                }
             ]
         },
         {
@@ -62886,7 +63631,9 @@
                 "city": "Middletown",
                 "address": "12701 Townepark Way",
                 "address2": "Suite 202",
-                "zip": "40243"
+                "zip": "40243",
+                "lat": 38.2407,
+                "lng": -85.5333
             },
             "contact": {
                 "phone": "502-220-4236",
@@ -62910,7 +63657,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "liddell-vaughn-attorney-at-law",
@@ -62928,7 +63676,9 @@
                 "city": "London",
                 "address": "761 N Laurel Road",
                 "address2": null,
-                "zip": "40741"
+                "zip": "40741",
+                "lat": 37.1445,
+                "lng": -84.0909
             },
             "contact": {
                 "phone": "606-653-1361",
@@ -62953,7 +63703,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "vidmer-law-office",
@@ -62971,7 +63722,9 @@
                 "city": "Paducah",
                 "address": "508 Broadway",
                 "address2": null,
-                "zip": "42001"
+                "zip": "42001",
+                "lat": 37.0428,
+                "lng": -88.7078
             },
             "contact": {
                 "phone": "270-933-1728",
@@ -63000,6 +63753,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Murray",
+                    "state": "KY",
+                    "zip": "42071",
+                    "address": "309 North 4th Street, Suite A",
+                    "phone": "(270) 753-1752",
+                    "lat": 36.6395,
+                    "lng": -88.2775
+                }
             ]
         },
         {
@@ -63018,7 +63782,9 @@
                 "city": "Louisville",
                 "address": "600 W Main St.",
                 "address2": "Ste 200",
-                "zip": "40202"
+                "zip": "40202",
+                "lat": 38.258,
+                "lng": -85.7541
             },
             "contact": {
                 "phone": "859-578-4444",
@@ -63044,7 +63810,8 @@
             "attorneys": [
                 "Jay R. Vaughn"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "pearson-paris-p-s-c",
@@ -63062,7 +63829,9 @@
                 "city": "La Grange",
                 "address": "306 W Jefferson St.",
                 "address2": null,
-                "zip": "40031"
+                "zip": "40031",
+                "lat": 38.4284,
+                "lng": -85.3926
             },
             "contact": {
                 "phone": "844-275-5064",
@@ -63133,6 +63902,17 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lakewood",
+                    "state": "CO",
+                    "zip": "80401",
+                    "address": "14142 Denver West Parkway, Building 51, Suite 200",
+                    "phone": "+13039270283",
+                    "lat": 39.714,
+                    "lng": -105.2441
+                }
             ]
         },
         {
@@ -63151,7 +63931,9 @@
                 "city": "Crestwood",
                 "address": "6506 W Hwy 22",
                 "address2": null,
-                "zip": "40014"
+                "zip": "40014",
+                "lat": 38.3464,
+                "lng": -85.4297
             },
             "contact": {
                 "phone": "502-443-0497",
@@ -63178,7 +63960,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whonsetler-law-pllc",
@@ -63196,7 +63979,9 @@
                 "city": "Louisville",
                 "address": "10200 Forest Green Blvd.",
                 "address2": "Suite 112",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-895-2297",
@@ -63220,7 +64005,8 @@
             "official_practice_area": [
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilhoit-law-office",
@@ -63238,7 +64024,9 @@
                 "city": "Grayson",
                 "address": "103 South Hord Street",
                 "address2": null,
-                "zip": "41143"
+                "zip": "41143",
+                "lat": 38.3264,
+                "lng": -82.9963
             },
             "contact": {
                 "phone": "888-815-7968",
@@ -63280,7 +64068,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wilt-injury-lawyers",
@@ -63298,7 +64087,9 @@
                 "city": "Louisville",
                 "address": "13113 Eastpoint Park Blvd.",
                 "address2": "Suite A",
-                "zip": "40223"
+                "zip": "40223",
+                "lat": 38.2601,
+                "lng": -85.5452
             },
             "contact": {
                 "phone": "502-253-9110",
@@ -63336,6 +64127,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lexington",
+                    "state": "KY",
+                    "zip": "40503",
+                    "address": "196 W Lowry Lane, Suite 1",
+                    "phone": "859-263‑8818",
+                    "lat": 38.0063,
+                    "lng": -84.5345
+                }
             ]
         }
     ]

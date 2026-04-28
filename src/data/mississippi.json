@@ -33669,7 +33669,9 @@
                 "city": "Pearl",
                 "address": "4205 HWY 80 E",
                 "address2": "Building B",
-                "zip": "39208"
+                "zip": "39208",
+                "lat": 32.256,
+                "lng": -90.1001
             },
             "contact": {
                 "phone": "601-345-4355",
@@ -33694,7 +33696,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "suzanne-baker-steele-attorney-at-law-p-l-l-c",
@@ -33712,7 +33715,9 @@
                 "city": "Biloxi",
                 "address": "187 Lameuse Street",
                 "address2": "Suite A, PO Box 1287",
-                "zip": "39530"
+                "zip": "39530",
+                "lat": 30.4081,
+                "lng": -88.8956
             },
             "contact": {
                 "phone": "228-374-8827",
@@ -33731,7 +33736,8 @@
             ],
             "official_practice_area": [
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dunbarmonroe-pllc",
@@ -33749,7 +33755,9 @@
                 "city": "Ridgeland",
                 "address": "270 Trace Colony Park",
                 "address2": "Suite A",
-                "zip": "39157"
+                "zip": "39157",
+                "lat": 32.4286,
+                "lng": -90.1534
             },
             "contact": {
                 "phone": "601-898-2073",
@@ -33783,6 +33791,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Personal Injury Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oxford",
+                    "state": "MS",
+                    "zip": "38655",
+                    "address": "1415 University Avenue",
+                    "phone": "601-898-2073",
+                    "lat": 34.3491,
+                    "lng": -89.4836
+                }
             ]
         },
         {
@@ -33801,7 +33820,9 @@
                 "city": "Jackson",
                 "address": "503 South State Street",
                 "address2": null,
-                "zip": "39201"
+                "zip": "39201",
+                "lat": 32.2889,
+                "lng": -90.1843
             },
             "contact": {
                 "phone": "601-208-0137",
@@ -33824,7 +33845,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burns-associates-pllc",
@@ -33842,7 +33864,9 @@
                 "city": "Jackson",
                 "address": "629 N. Jefferson Street",
                 "address2": null,
-                "zip": "39202"
+                "zip": "39202",
+                "lat": 32.3057,
+                "lng": -90.1716
             },
             "contact": {
                 "phone": "601-500-7021",
@@ -33868,7 +33892,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wood-carlton-p-c",
@@ -33886,7 +33911,9 @@
                 "city": "Corinth",
                 "address": "516 Cruise St",
                 "address2": null,
-                "zip": "38835"
+                "zip": "38835",
+                "lat": 34.9357,
+                "lng": -88.5157
             },
             "contact": {
                 "phone": "662-350-7238",
@@ -33909,6 +33936,17 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Tupelo",
+                    "state": "MS",
+                    "zip": "38804",
+                    "address": "1150 S Green St, Bldg 2 Ste F1",
+                    "phone": "662-350-7238",
+                    "lat": 34.2868,
+                    "lng": -88.6712
+                }
             ]
         },
         {
@@ -33927,7 +33965,9 @@
                 "city": "Clarksdale",
                 "address": "30 Delta Avenue",
                 "address2": null,
-                "zip": "38614"
+                "zip": "38614",
+                "lat": 34.2045,
+                "lng": -90.6938
             },
             "contact": {
                 "phone": "662-627-9641",
@@ -33978,6 +34018,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oxford",
+                    "state": "MS",
+                    "zip": "38655",
+                    "address": "2090 Old Taylor Road, Suite 207",
+                    "phone": "662-627-9641",
+                    "lat": 34.3491,
+                    "lng": -89.4836
+                }
             ]
         },
         {
@@ -33996,7 +34047,9 @@
                 "city": "Jackson",
                 "address": "4316 Old Canton Rd",
                 "address2": "Suite 200-A",
-                "zip": "39211"
+                "zip": "39211",
+                "lat": 32.3657,
+                "lng": -90.1151
             },
             "contact": {
                 "phone": "601-313-9180",
@@ -34027,7 +34080,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "witherspoon-compton-llc",
@@ -34045,7 +34099,9 @@
                 "city": "Meridian",
                 "address": "1100 23rd Avenue",
                 "address2": "P.O. Box 845",
-                "zip": "39301"
+                "zip": "39301",
+                "lat": 32.2998,
+                "lng": -88.6055
             },
             "contact": {
                 "phone": "601-207-0333",
@@ -34079,7 +34135,8 @@
                 "Drug Crime",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "farese-farese-farese-p-a",
@@ -34097,7 +34154,9 @@
                 "city": "Ashland",
                 "address": "122 Church Avenue",
                 "address2": null,
-                "zip": "38603"
+                "zip": "38603",
+                "lat": 34.8208,
+                "lng": -89.1583
             },
             "contact": {
                 "phone": "855-405-1867",
@@ -34186,6 +34245,17 @@
                 "Trusts",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Oxford",
+                    "state": "MS",
+                    "zip": "38655",
+                    "address": "720B N Lamar Blvd.",
+                    "phone": "+18559553889",
+                    "lat": 34.3491,
+                    "lng": -89.4836
+                }
             ]
         },
         {
@@ -34204,7 +34274,9 @@
                 "city": "Canton",
                 "address": "129 East Peace Street",
                 "address2": null,
-                "zip": "39046"
+                "zip": "39046",
+                "lat": 32.6268,
+                "lng": -90.0229
             },
             "contact": {
                 "phone": "601-859-2573",
@@ -34245,7 +34317,8 @@
                 "Personal Injury",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-w-davis-jr-attorney-at-law",
@@ -34263,7 +34336,9 @@
                 "city": "Tupelo",
                 "address": "542 Jefferson St.",
                 "address2": null,
-                "zip": "38804"
+                "zip": "38804",
+                "lat": 34.2868,
+                "lng": -88.6712
             },
             "contact": {
                 "phone": "855-459-0730",
@@ -34293,7 +34368,8 @@
                 "Federal and White Collar Crimes",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davis-morris-law-firm",
@@ -34311,7 +34387,9 @@
                 "city": "Hattiesburg",
                 "address": "804 West Pine Street",
                 "address2": null,
-                "zip": "39401"
+                "zip": "39401",
+                "lat": 31.2411,
+                "lng": -89.2723
             },
             "contact": {
                 "phone": "601-812-2619",
@@ -34336,7 +34414,8 @@
                 "Estate Planning",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "delgado-law-firm-pllc",
@@ -34354,7 +34433,9 @@
                 "city": "Southaven",
                 "address": "5779 Getwell Rd.",
                 "address2": "Bldg. D #5",
-                "zip": "38672"
+                "zip": "38672",
+                "lat": 34.9483,
+                "lng": -89.9553
             },
             "contact": {
                 "phone": "662-253-7169",
@@ -34376,7 +34457,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barnes-bailey-janoush-dick-p-a",
@@ -34394,7 +34476,9 @@
                 "city": "Flowood",
                 "address": "5 River Bend Place",
                 "address2": "Suite A",
-                "zip": "39232"
+                "zip": "39232",
+                "lat": 32.3178,
+                "lng": -90.097
             },
             "contact": {
                 "phone": "601-981-6336",
@@ -34409,7 +34493,18 @@
             "attorneys": [
                 "Henry N. Dick III"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": [
+                {
+                    "city": "Biloxi",
+                    "state": "MS",
+                    "zip": "39530",
+                    "address": "181 Main Street",
+                    "phone": "601-981-6336",
+                    "lat": 30.4081,
+                    "lng": -88.8956
+                }
+            ]
         },
         {
             "slug": "lake-tindall-llp",
@@ -34427,7 +34522,9 @@
                 "city": "Greenville",
                 "address": "127 South Poplar Street",
                 "address2": null,
-                "zip": "38701"
+                "zip": "38701",
+                "lat": 33.2396,
+                "lng": -91.0032
             },
             "contact": {
                 "phone": "662-378-2121",
@@ -34481,7 +34578,8 @@
                 "Trusts",
                 "Wills",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "page-mannino-peresich-mcdermott",
@@ -34499,7 +34597,9 @@
                 "city": "Biloxi",
                 "address": "759 Howard Ave.",
                 "address2": null,
-                "zip": "39530"
+                "zip": "39530",
+                "lat": 30.4081,
+                "lng": -88.8956
             },
             "contact": {
                 "phone": "228-374-2100",
@@ -34544,7 +34644,8 @@
                 "Probate",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "espy-law-pllc",
@@ -34562,7 +34663,9 @@
                 "city": "Jackson",
                 "address": "320A Edgewood Terrace Drive",
                 "address2": null,
-                "zip": "39206"
+                "zip": "39206",
+                "lat": 32.3709,
+                "lng": -90.1736
             },
             "contact": {
                 "phone": "601-812-5300",
@@ -34583,7 +34686,8 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "perry-griffin-pc-attorneys-at-law",
@@ -34601,7 +34705,9 @@
                 "city": "Southaven",
                 "address": "5699 Getwell Road",
                 "address2": "G5",
-                "zip": "38672"
+                "zip": "38672",
+                "lat": 34.9483,
+                "lng": -89.9553
             },
             "contact": {
                 "phone": "662-586-9710",
@@ -34664,7 +34770,8 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-james-d-franks",
@@ -34682,7 +34789,9 @@
                 "city": "Hernando",
                 "address": "2584 Highway 51 S., Suite 1",
                 "address2": null,
-                "zip": "38632"
+                "zip": "38632",
+                "lat": 34.7955,
+                "lng": -89.9779
             },
             "contact": {
                 "phone": "662-298-4296",
@@ -34706,7 +34815,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "philip-w-gaines-attorney-at-law",
@@ -34724,7 +34834,9 @@
                 "city": "Jackson",
                 "address": "1675 Lakeland Drive",
                 "address2": "Suite 306",
-                "zip": "39216"
+                "zip": "39216",
+                "lat": 32.3356,
+                "lng": -90.1578
             },
             "contact": {
                 "phone": "601-487-2020",
@@ -34746,7 +34858,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-craig-m-geno-pllc",
@@ -34764,7 +34877,9 @@
                 "city": "Ridgeland",
                 "address": "601 Renaissance Way",
                 "address2": "Suite A",
-                "zip": "39157"
+                "zip": "39157",
+                "lat": 32.4286,
+                "lng": -90.1534
             },
             "contact": {
                 "phone": "601-812-2945",
@@ -34787,7 +34902,8 @@
             "official_practice_area": [
                 "ADR Arbitration and Mediation",
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "d-scott-gibson-attorney-at-law",
@@ -34805,7 +34921,9 @@
                 "city": "Gulfport",
                 "address": "11530 Highway 49",
                 "address2": "Suite E",
-                "zip": "39503"
+                "zip": "39503",
+                "lat": 30.473,
+                "lng": -89.1577
             },
             "contact": {
                 "phone": "228-863-0900",
@@ -34824,7 +34942,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gibson-mullennix-pllc",
@@ -34842,7 +34961,9 @@
                 "city": "Jackson",
                 "address": "1640 Lelia Drive",
                 "address2": "Suite 200",
-                "zip": "39216"
+                "zip": "39216",
+                "lat": 32.3356,
+                "lng": -90.1578
             },
             "contact": {
                 "phone": "601-586-5386",
@@ -34874,7 +34995,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grillo-law-firm",
@@ -34892,7 +35014,9 @@
                 "city": "Hattiesburg",
                 "address": "607 Corinne St",
                 "address2": "Suite A3",
-                "zip": "39401"
+                "zip": "39401",
+                "lat": 31.2411,
+                "lng": -89.2723
             },
             "contact": {
                 "phone": "769-869-0916",
@@ -34917,7 +35041,8 @@
                 "Bankruptcy",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "perry-law-firm-llc",
@@ -34935,7 +35060,9 @@
                 "city": "Gulfport",
                 "address": "1520 29th Avenue",
                 "address2": "Suite 6",
-                "zip": "39501"
+                "zip": "39501",
+                "lat": 30.391,
+                "lng": -89.0729
             },
             "contact": {
                 "phone": "228-820-1876",
@@ -34959,6 +35086,17 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Probate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Diamondhead",
+                    "state": "MS",
+                    "zip": "39525",
+                    "address": "4405 East Aloha Dr., Suite F",
+                    "phone": "+12288201754",
+                    "lat": 30.3825,
+                    "lng": -89.3739
+                }
             ]
         },
         {
@@ -34977,7 +35115,9 @@
                 "city": "Hattiesburg",
                 "address": "915 West Pine Street",
                 "address2": null,
-                "zip": "39401"
+                "zip": "39401",
+                "lat": 31.2411,
+                "lng": -89.2723
             },
             "contact": {
                 "phone": "601-550-6001",
@@ -35003,7 +35143,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hornsby-watts-pllc",
@@ -35021,7 +35162,9 @@
                 "city": "Biloxi",
                 "address": "1025 Howard Avenue",
                 "address2": null,
-                "zip": "39530"
+                "zip": "39530",
+                "lat": 30.4081,
+                "lng": -88.8956
             },
             "contact": {
                 "phone": "228-207-2990",
@@ -35046,7 +35189,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kilpatrick-philley-attorneys-at-law",
@@ -35064,7 +35208,9 @@
                 "city": "Ridgeland",
                 "address": "216 W Jackson St",
                 "address2": null,
-                "zip": "39157"
+                "zip": "39157",
+                "lat": 32.4286,
+                "lng": -90.1534
             },
             "contact": {
                 "phone": "601-812-2381",
@@ -35108,7 +35254,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-giles-w-king",
@@ -35126,7 +35273,9 @@
                 "city": "Southaven",
                 "address": "5699 Getwell Road",
                 "address2": "Bldg. F, Suite 1",
-                "zip": "38672"
+                "zip": "38672",
+                "lat": 34.9483,
+                "lng": -89.9553
             },
             "contact": {
                 "phone": "662-349-3111",
@@ -35147,7 +35296,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jones-walker-llp",
@@ -35165,7 +35315,9 @@
                 "city": "Gulfport",
                 "address": "Suite 1125",
                 "address2": "2510 14th St.",
-                "zip": "39501"
+                "zip": "39501",
+                "lat": 30.391,
+                "lng": -89.0729
             },
             "contact": {
                 "phone": "228-864-3094",
@@ -35188,6 +35340,107 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70170",
+                    "address": "201 St. Charles Ave.",
+                    "phone": "(504) 582-8000",
+                    "lat": 29.9587,
+                    "lng": -90.0695
+                },
+                {
+                    "city": "Mobile",
+                    "state": "AL",
+                    "zip": "36602",
+                    "address": "Suite 1200, 11 North Water Street",
+                    "phone": "(251) 432-1414",
+                    "lat": 30.6883,
+                    "lng": -88.033
+                },
+                {
+                    "city": "Jackson",
+                    "state": "MS",
+                    "zip": "39201",
+                    "address": "Suite 800, 190 East Capitol Street",
+                    "phone": "(601) 949-4900",
+                    "lat": 32.2889,
+                    "lng": -90.1843
+                },
+                {
+                    "city": "Tallahassee",
+                    "state": "FL",
+                    "zip": "32301",
+                    "address": "215 S Monroe St, Suite 130",
+                    "phone": "(850) 425-7800",
+                    "lat": 30.4261,
+                    "lng": -84.2517
+                },
+                {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "zip": "30309",
+                    "address": "Suite 1030, 1360 Peachtree Street NorthEast",
+                    "phone": "(404) 870-7500",
+                    "lat": 33.7985,
+                    "lng": -84.3883
+                },
+                {
+                    "city": "Houston",
+                    "state": "TX",
+                    "zip": "77002",
+                    "address": "Suite 2900, 811 Main Street",
+                    "phone": "(713) 437-1800",
+                    "lat": 29.7502,
+                    "lng": -95.3677
+                },
+                {
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "zip": "45202",
+                    "address": "250 E. 5th St., 15th Floor",
+                    "phone": "(513) 562-1280",
+                    "lat": 39.1094,
+                    "lng": -84.4885
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20037",
+                    "address": "Suite 200 W, 1227 25th St. NW",
+                    "phone": "(202) 434-4660",
+                    "lat": 38.8987,
+                    "lng": -77.054
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10118",
+                    "address": "350 5th Avenue, Suite 5200",
+                    "phone": "(646) 735-6900",
+                    "lat": 40.7486,
+                    "lng": -73.9904
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90036",
+                    "address": "5900 Wilshire Blvd., Suite 2600",
+                    "phone": "(323) 303-3500",
+                    "lat": 34.0704,
+                    "lng": -118.3505
+                },
+                {
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "zip": "85004",
+                    "address": "333 N Central Ave.",
+                    "phone": "(602) 366-7889",
+                    "lat": 33.4506,
+                    "lng": -112.0694
+                }
             ]
         },
         {
@@ -35206,7 +35459,9 @@
                 "city": "Gulfport",
                 "address": "Hewes Building",
                 "address2": "2505 14th Street, Suite 500",
-                "zip": "39501"
+                "zip": "39501",
+                "lat": 30.391,
+                "lng": -89.0729
             },
             "contact": {
                 "phone": "228-867-6050",
@@ -35228,7 +35483,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-little-law-firm-pllc",
@@ -35246,7 +35502,9 @@
                 "city": "Gulfport",
                 "address": "2505 14th St",
                 "address2": "Suite 212",
-                "zip": "39501"
+                "zip": "39501",
+                "lat": 30.391,
+                "lng": -89.0729
             },
             "contact": {
                 "phone": "228-837-8741",
@@ -35267,7 +35525,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-maggio-law-firm-pc",
@@ -35285,7 +35544,9 @@
                 "city": "Gulfport",
                 "address": "2201 24th Avenue",
                 "address2": null,
-                "zip": "39501"
+                "zip": "39501",
+                "lat": 30.391,
+                "lng": -89.0729
             },
             "contact": {
                 "phone": "228-206-6637",
@@ -35310,7 +35571,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williams-newman-williams-pllc",
@@ -35328,7 +35590,9 @@
                 "city": "Jackson",
                 "address": "640 N State Street",
                 "address2": null,
-                "zip": "39202"
+                "zip": "39202",
+                "lat": 32.3057,
+                "lng": -90.1716
             },
             "contact": {
                 "phone": "601-949-5080",
@@ -35361,6 +35625,26 @@
                 "Nursing Home Abuse",
                 "Personal Injury",
                 "Truck Accident"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Little Rock",
+                    "state": "AZ",
+                    "zip": "72201",
+                    "address": "400 West Capitol Avenue, Suite 1700",
+                    "phone": "501-289-5553",
+                    "lat": 34.7467,
+                    "lng": -92.2801
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90067",
+                    "address": "2029 Century Park East, Suite 400N",
+                    "phone": "424-347-8897",
+                    "lat": 34.0578,
+                    "lng": -118.4138
+                }
             ]
         },
         {
@@ -35379,7 +35663,9 @@
                 "city": "Ridgeland",
                 "address": "751 Avignon Drive, Suite B",
                 "address2": null,
-                "zip": "39157"
+                "zip": "39157",
+                "lat": 32.4286,
+                "lng": -90.1534
             },
             "contact": {
                 "phone": "601-790-1651",
@@ -35402,7 +35688,8 @@
                 "Estate Planning",
                 "Immigration",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeffrey-pierce-law-pllc",
@@ -35420,7 +35707,9 @@
                 "city": "Ocean Springs",
                 "address": "1101 Iberville Drive",
                 "address2": null,
-                "zip": "39564"
+                "zip": "39564",
+                "lat": 30.4006,
+                "lng": -88.7583
             },
             "contact": {
                 "phone": "866-473-8275",
@@ -35442,7 +35731,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-law-firm",
@@ -35460,7 +35750,9 @@
                 "city": "Booneville",
                 "address": "1700 North 2nd Street",
                 "address2": null,
-                "zip": "38829"
+                "zip": "38829",
+                "lat": 34.6359,
+                "lng": -88.5712
             },
             "contact": {
                 "phone": "662-728-6276",
@@ -35481,7 +35773,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-george-b-ready",
@@ -35499,7 +35792,9 @@
                 "city": "Hernando",
                 "address": "175 East Commerce Street",
                 "address2": null,
-                "zip": "38632"
+                "zip": "38632",
+                "lat": 34.7955,
+                "lng": -89.9779
             },
             "contact": {
                 "phone": "662-429-7088",
@@ -35520,7 +35815,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kyle-robertson-pllc",
@@ -35538,7 +35834,9 @@
                 "city": "Laurel",
                 "address": "523 Commerce Street",
                 "address2": null,
-                "zip": "39440"
+                "zip": "39440",
+                "lat": 31.6943,
+                "lng": -89.1504
             },
             "contact": {
                 "phone": "601-812-2725",
@@ -35576,7 +35874,8 @@
                 "Social Security Disability",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "silin-law-firm-pllc",
@@ -35594,7 +35893,9 @@
                 "city": "Ocean Springs",
                 "address": "1147 Robinson St.",
                 "address2": null,
-                "zip": "39564"
+                "zip": "39564",
+                "lat": 30.4006,
+                "lng": -88.7583
             },
             "contact": {
                 "phone": "228-820-1806",
@@ -35619,7 +35920,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cynthia-a-stewart-p-a",
@@ -35637,7 +35939,9 @@
                 "city": "Madison",
                 "address": "118 Homestead Dr.",
                 "address2": "Suite C",
-                "zip": "39110"
+                "zip": "39110",
+                "lat": 32.5041,
+                "lng": -90.092
             },
             "contact": {
                 "phone": "601-427-9667",
@@ -35670,7 +35974,8 @@
                 "Employment Rights",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sumrall-welch-pllc",
@@ -35688,7 +35993,9 @@
                 "city": "Jackson",
                 "address": "401 East Capitol Street",
                 "address2": "100m",
-                "zip": "39201"
+                "zip": "39201",
+                "lat": 32.2889,
+                "lng": -90.1843
             },
             "contact": {
                 "phone": "601-387-0043",
@@ -35718,7 +36025,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lancaster-taylor",
@@ -35736,7 +36044,9 @@
                 "city": "Winona",
                 "address": "126 N. Quitman Street",
                 "address2": "P. O. Box 645",
-                "zip": "38967"
+                "zip": "38967",
+                "lat": 33.5058,
+                "lng": -89.7378
             },
             "contact": {
                 "phone": "662-548-3297",
@@ -35768,7 +36078,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "turnage-law-office",
@@ -35786,7 +36097,9 @@
                 "city": "Monticello",
                 "address": "181 Green Street S.",
                 "address2": null,
-                "zip": "39654"
+                "zip": "39654",
+                "lat": 31.4913,
+                "lng": -90.1212
             },
             "contact": {
                 "phone": "601-756-2301",
@@ -35819,7 +36132,8 @@
                 "Social Security Disability",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "paulette-turner-attorney-at-law",
@@ -35837,7 +36151,9 @@
                 "city": "Pascagoula",
                 "address": "3106 Canty Street",
                 "address2": null,
-                "zip": "39567"
+                "zip": "39567",
+                "lat": 30.3644,
+                "lng": -88.5666
             },
             "contact": {
                 "phone": "228-205-2099",
@@ -35870,7 +36186,8 @@
                 "Probate",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-rob-tyner",
@@ -35888,7 +36205,9 @@
                 "city": "Sumner",
                 "address": "111 East Court Street",
                 "address2": null,
-                "zip": "38957"
+                "zip": "38957",
+                "lat": 33.9799,
+                "lng": -90.3401
             },
             "contact": {
                 "phone": "662-375-8756",
@@ -35912,7 +36231,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "m-darin-vance-attorney-at-law",
@@ -35930,7 +36250,9 @@
                 "city": "Hernando",
                 "address": "2584 Hwy. 51 S.",
                 "address2": "Ste. 3",
-                "zip": "38632"
+                "zip": "38632",
+                "lat": 34.7955,
+                "lng": -89.9779
             },
             "contact": {
                 "phone": "662-469-5829",
@@ -35966,7 +36288,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Military"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "van-every-law",
@@ -35984,7 +36307,9 @@
                 "city": "Columbus",
                 "address": "516 2nd Ave. North",
                 "address2": null,
-                "zip": "39701"
+                "zip": "39701",
+                "lat": 33.4195,
+                "lng": -88.4869
             },
             "contact": {
                 "phone": "662-327-4065",
@@ -36027,7 +36352,8 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walsh-law-firm-p-l-l-c",
@@ -36045,7 +36371,9 @@
                 "city": "Olive Branch",
                 "address": "6831 Crumpler Blvd.",
                 "address2": "Suite 200",
-                "zip": "38654"
+                "zip": "38654",
+                "lat": 34.911,
+                "lng": -89.8127
             },
             "contact": {
                 "phone": "662-205-6546",
@@ -36068,7 +36396,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "watt-firm-pllc",
@@ -36086,7 +36415,9 @@
                 "city": "Flowood",
                 "address": "265 Market St.",
                 "address2": null,
-                "zip": "39232"
+                "zip": "39232",
+                "lat": 32.3178,
+                "lng": -90.097
             },
             "contact": {
                 "phone": "769-869-0941",
@@ -36121,7 +36452,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harlow-law-firm",
@@ -36139,7 +36471,9 @@
                 "city": "Grenada",
                 "address": "850 Lakeview Drive",
                 "address2": null,
-                "zip": "38901"
+                "zip": "38901",
+                "lat": 33.7798,
+                "lng": -89.7827
             },
             "contact": {
                 "phone": "662-298-7068",
@@ -36162,7 +36496,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bailey-womble-yelton",
@@ -36180,7 +36515,9 @@
                 "city": "Batesville",
                 "address": "357 Highway 51 North",
                 "address2": null,
-                "zip": "38606"
+                "zip": "38606",
+                "lat": 34.3022,
+                "lng": -89.9466
             },
             "contact": {
                 "phone": "662-267-1776",
@@ -36211,7 +36548,8 @@
                 "Estate Planning",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "yarborough-law-firm-pllc",
@@ -36229,7 +36567,9 @@
                 "city": "Bay Saint Louis",
                 "address": "854 Highway 90",
                 "address2": null,
-                "zip": "39520"
+                "zip": "39520",
+                "lat": 30.3341,
+                "lng": -89.497
             },
             "contact": {
                 "phone": "228-342-7987",
@@ -36257,7 +36597,8 @@
                 "Class Actions",
                 "Personal Injury",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

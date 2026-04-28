@@ -100220,7 +100220,9 @@
                 "city": "Westwood",
                 "address": "355 Providence Highway (Route 1)",
                 "address2": "Suite 100",
-                "zip": "02090"
+                "zip": "02090",
+                "lat": 42.2212,
+                "lng": -71.1994
             },
             "contact": {
                 "phone": "888-651-2150",
@@ -100261,7 +100263,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "susan-a-atlas-esq-ll-m",
@@ -100279,7 +100282,9 @@
                 "city": "Chelmsford",
                 "address": "41 Village Square",
                 "address2": null,
-                "zip": "01824"
+                "zip": "01824",
+                "lat": 42.5878,
+                "lng": -71.3518
             },
             "contact": {
                 "phone": "978-244-9292",
@@ -100304,6 +100309,26 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Trusts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Nashua",
+                    "state": "NH",
+                    "zip": "03063",
+                    "address": "20 Trafalgar Square, Suite 415",
+                    "phone": "603-465-2700",
+                    "lat": 42.7713,
+                    "lng": -71.527
+                },
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02131",
+                    "address": "4238 Washington Street, Unit B",
+                    "phone": "978-244-9292",
+                    "lat": 42.2835,
+                    "lng": -71.1218
+                }
             ]
         },
         {
@@ -100322,7 +100347,9 @@
                 "city": "Stoneham",
                 "address": "106 Main Street",
                 "address2": "Suite #7",
-                "zip": "02180"
+                "zip": "02180",
+                "lat": 42.4731,
+                "lng": -71.0971
             },
             "contact": {
                 "phone": "781-438-0777",
@@ -100341,7 +100368,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sheehan-phinney",
@@ -100359,7 +100387,9 @@
                 "city": "Boston",
                 "address": "28 State Street",
                 "address2": "22nd Floor",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "603-215-5659",
@@ -100419,6 +100449,26 @@
                 "Litigation and Appeals",
                 "Oil Gas and Energy",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Manchester",
+                    "state": "NH",
+                    "zip": "03101",
+                    "address": "1000 Elm Street, 17th Floor",
+                    "phone": "+16032155659",
+                    "lat": 42.9884,
+                    "lng": -71.4655
+                },
+                {
+                    "city": "White River Junction",
+                    "state": "VT",
+                    "zip": "05001",
+                    "address": "35 Railroad Row, 4th Floor",
+                    "phone": "+16032155659",
+                    "lat": 43.6698,
+                    "lng": -72.3858
+                }
             ]
         },
         {
@@ -100437,7 +100487,9 @@
                 "city": "Boston",
                 "address": "44 School St",
                 "address2": "Suite 1000B",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-500-0252",
@@ -100460,7 +100512,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barach-law-group-llc",
@@ -100478,7 +100531,9 @@
                 "city": "Framingham",
                 "address": "40 Speen Street",
                 "address2": "Suite 205",
-                "zip": "01701"
+                "zip": "01701",
+                "lat": 42.3232,
+                "lng": -71.4352
             },
             "contact": {
                 "phone": "617-819-1805",
@@ -100501,7 +100556,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-c-bardi-associates-llc",
@@ -100519,7 +100575,9 @@
                 "city": "Boston",
                 "address": "6 Beacon Street",
                 "address2": "Suite 800",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-227-4040",
@@ -100551,7 +100609,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gallant-ervin-l-l-c",
@@ -100569,7 +100628,9 @@
                 "city": "Chelmsford",
                 "address": "One Olde North Road",
                 "address2": "Suite 103",
-                "zip": "01824"
+                "zip": "01824",
+                "lat": 42.5878,
+                "lng": -71.3518
             },
             "contact": {
                 "phone": "978-256-6041",
@@ -100600,7 +100661,8 @@
                 "Car Accidents",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smolak-vaughan-llp",
@@ -100618,7 +100680,9 @@
                 "city": "North Andover",
                 "address": "21 High Street",
                 "address2": "Suite 301",
-                "zip": "01845"
+                "zip": "01845",
+                "lat": 42.673,
+                "lng": -71.088
             },
             "contact": {
                 "phone": "978-954-6134",
@@ -100647,7 +100711,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "honig-barnes-llp",
@@ -100665,7 +100730,9 @@
                 "city": "Haverhill",
                 "address": "55 Wingate Street",
                 "address2": null,
-                "zip": "01832"
+                "zip": "01832",
+                "lat": 42.7912,
+                "lng": -71.1293
             },
             "contact": {
                 "phone": "978-361-0895",
@@ -100705,6 +100772,17 @@
                 "Insurance Defense",
                 "Landlord and Tenant",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "South Natick",
+                    "state": "MA",
+                    "zip": "01760",
+                    "address": "21 Eliot Street, Suite 1",
+                    "phone": "978-361-0895",
+                    "lat": 42.2872,
+                    "lng": -71.3523
+                }
             ]
         },
         {
@@ -100723,7 +100801,9 @@
                 "city": "Peabody",
                 "address": "One Essex Green Drive",
                 "address2": null,
-                "zip": "01960"
+                "zip": "01960",
+                "lat": 42.5326,
+                "lng": -70.9737
             },
             "contact": {
                 "phone": "978-532-0795",
@@ -100746,7 +100826,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "princi-mills-law-pc",
@@ -100764,7 +100845,9 @@
                 "city": "Hyannis",
                 "address": "300 Barnstable Road",
                 "address2": null,
-                "zip": "02601"
+                "zip": "02601",
+                "lat": 41.6568,
+                "lng": -70.2938
             },
             "contact": {
                 "phone": "508-665-2310",
@@ -100800,7 +100883,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "davagian-grillo-semple-llp",
@@ -100818,7 +100902,9 @@
                 "city": "Lexington",
                 "address": "80 Hayden Ave.",
                 "address2": "Suite 110",
-                "zip": "02421"
+                "zip": "02421",
+                "lat": 42.443,
+                "lng": -71.2349
             },
             "contact": {
                 "phone": "978-791-3750",
@@ -100853,7 +100939,8 @@
                 "Contracts",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "benzaken-maguire-sheehan-wood-llp",
@@ -100871,7 +100958,9 @@
                 "city": "Brockton",
                 "address": "1342 Belmont Street",
                 "address2": "Suite 102",
-                "zip": "02301"
+                "zip": "02301",
+                "lat": 42.0785,
+                "lng": -71.0384
             },
             "contact": {
                 "phone": "508-969-1267",
@@ -100902,7 +100991,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "baskin-kershner-thorp-llc",
@@ -100920,7 +101010,9 @@
                 "city": "Newton",
                 "address": "One Gateway Center",
                 "address2": "300 Washington Street, Suite 450",
-                "zip": "02458"
+                "zip": "02458",
+                "lat": 42.3534,
+                "lng": -71.1836
             },
             "contact": {
                 "phone": "617-266-1820",
@@ -100951,7 +101043,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tetzel-law-llc",
@@ -100969,7 +101062,9 @@
                 "city": "Boston",
                 "address": "Two Center Plaza",
                 "address2": "Suite 610",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-933-3858",
@@ -100985,7 +101080,8 @@
                 "Jordan Belliveau",
                 "John Malone"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "surprenant-beneski-p-c",
@@ -101003,7 +101099,9 @@
                 "city": "New Bedford",
                 "address": "35 Arnold Street",
                 "address2": null,
-                "zip": "02740"
+                "zip": "02740",
+                "lat": 41.6322,
+                "lng": -70.9406
             },
             "contact": {
                 "phone": "508-484-8015",
@@ -101030,6 +101128,17 @@
             "official_practice_area": [
                 "Elder Law",
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Plymouth",
+                    "state": "MA",
+                    "zip": "02360",
+                    "address": "20 North Park Avenue, Suite #5",
+                    "phone": "508-484-8015",
+                    "lat": 41.8734,
+                    "lng": -70.6397
+                }
             ]
         },
         {
@@ -101048,7 +101157,9 @@
                 "city": "Wakefield",
                 "address": "649 Main Street",
                 "address2": null,
-                "zip": "01880"
+                "zip": "01880",
+                "lat": 42.5013,
+                "lng": -71.0667
             },
             "contact": {
                 "phone": "781-245-4545",
@@ -101081,6 +101192,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newburyport",
+                    "state": "MA",
+                    "zip": "01950",
+                    "address": "One Inn Street",
+                    "phone": "978-462-9008",
+                    "lat": 42.8142,
+                    "lng": -70.8745
+                }
             ]
         },
         {
@@ -101099,7 +101221,9 @@
                 "city": "Needham",
                 "address": "200 Highland Ave",
                 "address2": "# 302",
-                "zip": "02494"
+                "zip": "02494",
+                "lat": 42.2997,
+                "lng": -71.2298
             },
             "contact": {
                 "phone": "617-430-4992",
@@ -101129,7 +101253,8 @@
                 "Car Accidents",
                 "Employment Rights",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "commonwealth-legal-group-llc",
@@ -101147,7 +101272,9 @@
                 "city": "Medway",
                 "address": "89 Main Street",
                 "address2": "Suite 204",
-                "zip": "02053"
+                "zip": "02053",
+                "lat": 42.1529,
+                "lng": -71.427
             },
             "contact": {
                 "phone": "508-988-8804",
@@ -101202,6 +101329,17 @@
                 "Probate",
                 "Same Sex",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Westford",
+                    "state": "MA",
+                    "zip": "01886",
+                    "address": "234 Littleton Road",
+                    "phone": "+15089888773",
+                    "lat": 42.589,
+                    "lng": -71.4417
+                }
             ]
         },
         {
@@ -101220,7 +101358,9 @@
                 "city": "Boston",
                 "address": "Schrafft Center",
                 "address2": "529 Main St., #128",
-                "zip": "02129"
+                "zip": "02129",
+                "lat": 42.3817,
+                "lng": -71.0641
             },
             "contact": {
                 "phone": "617-225-2100",
@@ -101251,6 +101391,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cambridge",
+                    "state": "MA",
+                    "zip": "02141",
+                    "address": "The Barrister Building, 189 Cambridge St.",
+                    "phone": "617-420-3664",
+                    "lat": 42.3702,
+                    "lng": -71.0807
+                }
             ]
         },
         {
@@ -101269,7 +101420,9 @@
                 "city": "Boston",
                 "address": "Two Seaport Lane",
                 "address2": "10th Floor",
-                "zip": "02210"
+                "zip": "02210",
+                "lat": 42.3466,
+                "lng": -71.0396
             },
             "contact": {
                 "phone": "617-217-5500",
@@ -101299,7 +101452,8 @@
             ],
             "official_practice_area": [
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-gerald-f-blair",
@@ -101317,7 +101471,9 @@
                 "city": "Sharon",
                 "address": "Two Commercial Street",
                 "address2": "Suite 5, Second Floor",
-                "zip": "02067"
+                "zip": "02067",
+                "lat": 42.1111,
+                "lng": -71.1858
             },
             "contact": {
                 "phone": "508-660-9599",
@@ -101336,6 +101492,17 @@
             ],
             "official_practice_area": [
                 "Land Use and Zoning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02111",
+                    "address": "33 Kingston Street",
+                    "phone": "(508) 660-9599",
+                    "lat": 42.3503,
+                    "lng": -71.0588
+                }
             ]
         },
         {
@@ -101354,7 +101521,9 @@
                 "city": "Westford",
                 "address": "2 Lan Drive",
                 "address2": "Suite 120",
-                "zip": "01886"
+                "zip": "01886",
+                "lat": 42.589,
+                "lng": -71.4417
             },
             "contact": {
                 "phone": "978-320-3400",
@@ -101383,7 +101552,8 @@
                 "ADR Arbitration and Mediation",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bletzer-bletzer-p-c",
@@ -101401,7 +101571,9 @@
                 "city": "Brighton",
                 "address": "300 Market Street",
                 "address2": null,
-                "zip": "02135"
+                "zip": "02135",
+                "lat": 42.3488,
+                "lng": -71.1551
             },
             "contact": {
                 "phone": "617-254-8900",
@@ -101430,6 +101602,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wellesley",
+                    "state": "MA",
+                    "zip": "02482",
+                    "address": "148 Linden Street B-1",
+                    "phone": "(617) 254-8900",
+                    "lat": 42.2935,
+                    "lng": -71.2993
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02906",
+                    "address": "97 Hope Street",
+                    "phone": "(617) 254-8900",
+                    "lat": 41.8382,
+                    "lng": -71.3931
+                }
             ]
         },
         {
@@ -101448,7 +101640,9 @@
                 "city": "Boston",
                 "address": "121 High Street",
                 "address2": "Third Floor",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "857-400-9636",
@@ -101473,7 +101667,8 @@
                 "Business and Commercial Law",
                 "Collections",
                 "Employment Rights"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldmark-partners-llp",
@@ -101491,7 +101686,9 @@
                 "city": "Needham",
                 "address": "300 1st Ave Ste 200",
                 "address2": null,
-                "zip": "02494"
+                "zip": "02494",
+                "lat": 42.2997,
+                "lng": -71.2298
             },
             "contact": {
                 "phone": "781-755-8870",
@@ -101524,7 +101721,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-richard-j-boudreau",
@@ -101542,7 +101740,9 @@
                 "city": "Andover",
                 "address": "10 New England Business Ctr Dr",
                 "address2": "Suite 204",
-                "zip": "01810"
+                "zip": "01810",
+                "lat": 42.6496,
+                "lng": -71.166
             },
             "contact": {
                 "phone": "978-970-6740",
@@ -101571,7 +101771,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jesse-bousquet-jr-esq-attorney-at-law",
@@ -101589,7 +101790,9 @@
                 "city": "Boston",
                 "address": "434 Massachusetts Ave.",
                 "address2": "Suite 401",
-                "zip": "02118"
+                "zip": "02118",
+                "lat": 42.337,
+                "lng": -71.072
             },
             "contact": {
                 "phone": "781-731-1108",
@@ -101612,7 +101815,8 @@
             ],
             "official_practice_area": [
                 "Landlord and Tenant"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-meridith-a-gregory-llc",
@@ -101630,7 +101834,9 @@
                 "city": "North Andover",
                 "address": "871 Turnpike Street",
                 "address2": "Suite #205",
-                "zip": "01845"
+                "zip": "01845",
+                "lat": 42.673,
+                "lng": -71.088
             },
             "contact": {
                 "phone": "978-655-4787",
@@ -101655,6 +101861,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Methuen",
+                    "state": "MA",
+                    "zip": "01844",
+                    "address": "126A Pleasant Street",
+                    "phone": "603-589-9629",
+                    "lat": 42.7319,
+                    "lng": -71.1858
+                }
             ]
         },
         {
@@ -101673,7 +101890,9 @@
                 "city": "Lowell",
                 "address": "9 Central Street",
                 "address2": "Suite 300",
-                "zip": "01852"
+                "zip": "01852",
+                "lat": 42.6285,
+                "lng": -71.2965
             },
             "contact": {
                 "phone": "978-452-4100",
@@ -101700,7 +101919,8 @@
                 "Divorce and Separation",
                 "Estate Planning",
                 "Land Use and Zoning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-george-e-bourguignon-jr",
@@ -101718,7 +101938,9 @@
                 "city": "Worcester",
                 "address": "37 Mechanic Street",
                 "address2": "Suite 200",
-                "zip": "01608"
+                "zip": "01608",
+                "lat": 42.2586,
+                "lng": -71.803
             },
             "contact": {
                 "phone": "508-769-1359",
@@ -101747,6 +101969,17 @@
                 "Defamation",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Windsor",
+                    "state": "CT",
+                    "zip": "06095",
+                    "address": "360 Bloomfield Avenue, Suite 301",
+                    "phone": "860-689-7001",
+                    "lat": 41.8632,
+                    "lng": -72.6795
+                }
             ]
         },
         {
@@ -101765,7 +101998,9 @@
                 "city": "Attleboro",
                 "address": "144 Bank St",
                 "address2": "PO Box 2320",
-                "zip": "02703"
+                "zip": "02703",
+                "lat": 41.9383,
+                "lng": -71.2942
             },
             "contact": {
                 "phone": "508-827-1973",
@@ -101810,7 +102045,8 @@
                 "Personal Injury",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "thornton-law-firm-llp",
@@ -101828,7 +102064,9 @@
                 "city": "Boston",
                 "address": "84 State Street",
                 "address2": "4th Fl.",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "617-540-5937",
@@ -101874,6 +102112,17 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Toxic Torts"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90067",
+                    "address": "2121 Avenue of the Stars, Suite 800",
+                    "phone": "+16175405937",
+                    "lat": 34.0578,
+                    "lng": -118.4138
+                }
             ]
         },
         {
@@ -101892,7 +102141,9 @@
                 "city": "Salem",
                 "address": "26 Lynde Street",
                 "address2": null,
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-607-1150",
@@ -101917,7 +102168,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-michael-j-brothers",
@@ -101935,7 +102187,9 @@
                 "city": "Milford",
                 "address": "Main Street",
                 "address2": null,
-                "zip": "01757"
+                "zip": "01757",
+                "lat": 42.1538,
+                "lng": -71.5258
             },
             "contact": {
                 "phone": "508-944-3397",
@@ -101958,7 +102212,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brown-brown-p-c",
@@ -101976,7 +102231,9 @@
                 "city": "Bedford",
                 "address": "110 Great Road",
                 "address2": "Suite 100",
-                "zip": "01730"
+                "zip": "01730",
+                "lat": 42.4999,
+                "lng": -71.2753
             },
             "contact": {
                 "phone": "781-275-7267",
@@ -102015,7 +102272,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "consigli-and-brucato-pc",
@@ -102033,7 +102291,9 @@
                 "city": "Milford",
                 "address": "189 Main Street",
                 "address2": "3rd Floor",
-                "zip": "01757"
+                "zip": "01757",
+                "lat": 42.1538,
+                "lng": -71.5258
             },
             "contact": {
                 "phone": "508-665-2526",
@@ -102066,7 +102326,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "curley-law-firm-llp",
@@ -102084,7 +102345,9 @@
                 "city": "Wakefield",
                 "address": "1 Common Street",
                 "address2": null,
-                "zip": "01880"
+                "zip": "01880",
+                "lat": 42.5013,
+                "lng": -71.0667
             },
             "contact": {
                 "phone": "855-924-4951",
@@ -102121,7 +102384,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sugarman",
@@ -102139,7 +102403,9 @@
                 "city": "Boston",
                 "address": "31 St. James Avenue",
                 "address2": "10th Floor",
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "617-453-3283",
@@ -102201,7 +102467,8 @@
                 "Truck Accident",
                 "Whistleblower and Qui Tam",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sullivan-associates-llc",
@@ -102219,7 +102486,9 @@
                 "city": "Woburn",
                 "address": "500 W Cummings Park",
                 "address2": "Suite #4700",
-                "zip": "01801"
+                "zip": "01801",
+                "lat": 42.4895,
+                "lng": -71.1589
             },
             "contact": {
                 "phone": "781-939-5840",
@@ -102250,7 +102519,8 @@
                 "Insurance Law",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cafarelli-law-llc",
@@ -102268,7 +102538,9 @@
                 "city": "Waltham",
                 "address": "633 Trapelo Road",
                 "address2": "Suite 102",
-                "zip": "02452"
+                "zip": "02452",
+                "lat": 42.3948,
+                "lng": -71.2169
             },
             "contact": {
                 "phone": "781-703-5833",
@@ -102289,7 +102561,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "working-solutions-law-firm",
@@ -102307,7 +102580,9 @@
                 "city": "Boston",
                 "address": "132 Lincoln St",
                 "address2": "Suite 5R-A",
-                "zip": "02111"
+                "zip": "02111",
+                "lat": 42.3503,
+                "lng": -71.0588
             },
             "contact": {
                 "phone": "646-699-3083",
@@ -102336,6 +102611,26 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10017",
+                    "address": "11 Grand Central East, Floor 16",
+                    "phone": "646-699-3083",
+                    "lat": 40.7525,
+                    "lng": -73.9731
+                },
+                {
+                    "city": "Livingston",
+                    "state": "NJ",
+                    "zip": "07039",
+                    "address": "354 Eisenhower Parkway, Building 2 - Suite 2775",
+                    "phone": "646-699-3083",
+                    "lat": 40.7876,
+                    "lng": -74.33
+                }
             ]
         },
         {
@@ -102354,7 +102649,9 @@
                 "city": "Hingham",
                 "address": "350 Lincoln St.",
                 "address2": "Suite 2400A",
-                "zip": "02043"
+                "zip": "02043",
+                "lat": 42.2158,
+                "lng": -70.8792
             },
             "contact": {
                 "phone": "781-908-0551",
@@ -102404,6 +102701,26 @@
                 "Real Estate",
                 "Same Sex",
                 "Wrongful Termination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02109",
+                    "address": "2 Oliver Street, Suite 302A",
+                    "phone": "617-795-3611",
+                    "lat": 42.3632,
+                    "lng": -71.0538
+                },
+                {
+                    "city": "Temecula",
+                    "state": "CA",
+                    "zip": "92591",
+                    "address": "27555 Ynez Road, Suite 214",
+                    "phone": "951-397-0012",
+                    "lat": 33.5279,
+                    "lng": -117.1019
+                }
             ]
         },
         {
@@ -102422,7 +102739,9 @@
                 "city": "Boston",
                 "address": "101 Federal Street",
                 "address2": "Suite 650",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-468-2276",
@@ -102454,7 +102773,8 @@
                 "Federal and White Collar Crimes",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "carney-gaudet-carney",
@@ -102472,7 +102792,9 @@
                 "city": "Boston",
                 "address": "20 Park Plaza",
                 "address2": "#614",
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "617-404-9683",
@@ -102539,7 +102861,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "casartello-murphy-llc",
@@ -102557,7 +102880,9 @@
                 "city": "Springfield",
                 "address": "121 State Street",
                 "address2": "Suite 203",
-                "zip": "01103"
+                "zip": "01103",
+                "lat": 42.1034,
+                "lng": -72.5906
             },
             "contact": {
                 "phone": "413-351-0915",
@@ -102587,7 +102912,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-malley-harvey-and-brosnan-llc",
@@ -102605,7 +102931,9 @@
                 "city": "Waltham",
                 "address": "135 Beaver Street",
                 "address2": "Suite 201",
-                "zip": "02452"
+                "zip": "02452",
+                "lat": 42.3948,
+                "lng": -71.2169
             },
             "contact": {
                 "phone": "617-357-5544",
@@ -102634,7 +102962,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cashman-law-firm",
@@ -102652,7 +102981,9 @@
                 "city": "Salem",
                 "address": "27 Congress Street",
                 "address2": "#401",
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-848-4964",
@@ -102677,6 +103008,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02109",
+                    "address": "75 State Street, #100",
+                    "phone": "+19788484613",
+                    "lat": 42.3632,
+                    "lng": -71.0538
+                }
             ]
         },
         {
@@ -102695,7 +103037,9 @@
                 "city": "Franklin",
                 "address": "1000 Franklin Village Drive",
                 "address2": "Suite 207",
-                "zip": "02038"
+                "zip": "02038",
+                "lat": 42.087,
+                "lng": -71.4078
             },
             "contact": {
                 "phone": "508-570-2025",
@@ -102720,6 +103064,17 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wellesley",
+                    "state": "MA",
+                    "zip": "02481",
+                    "address": "20 William Street, #130",
+                    "phone": "508-528-2400",
+                    "lat": 42.3093,
+                    "lng": -71.2724
+                }
             ]
         },
         {
@@ -102738,7 +103093,9 @@
                 "city": "Beverly",
                 "address": "900 Cummings Center",
                 "address2": "Suite 216-U",
-                "zip": "01915"
+                "zip": "01915",
+                "lat": 42.5678,
+                "lng": -70.8581
             },
             "contact": {
                 "phone": "978-955-2647",
@@ -102762,7 +103119,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-nelson-chang",
@@ -102780,7 +103138,9 @@
                 "city": "Saugus",
                 "address": "47 Jackson Street",
                 "address2": null,
-                "zip": "01906"
+                "zip": "01906",
+                "lat": 42.4675,
+                "lng": -71.0129
             },
             "contact": {
                 "phone": "833-300-4909",
@@ -102812,7 +103172,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sheehan-schiavoni-jutras-magliocchetti-llp",
@@ -102830,7 +103191,9 @@
                 "city": "Haverhill",
                 "address": "70 Bailey Boulevard",
                 "address2": null,
-                "zip": "01830"
+                "zip": "01830",
+                "lat": 42.7952,
+                "lng": -71.0556
             },
             "contact": {
                 "phone": "978-373-9161",
@@ -102874,6 +103237,17 @@
                 "Probate",
                 "Trusts",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Woburn",
+                    "state": "MA",
+                    "zip": "01801",
+                    "address": "629 Main Street",
+                    "phone": "978-373-9161",
+                    "lat": 42.4895,
+                    "lng": -71.1589
+                }
             ]
         },
         {
@@ -102892,7 +103266,9 @@
                 "city": "North Reading",
                 "address": "348 Park Street",
                 "address2": "Suite 104 East",
-                "zip": "01864"
+                "zip": "01864",
+                "lat": 42.5805,
+                "lng": -71.087
             },
             "contact": {
                 "phone": "781-944-2260",
@@ -102922,7 +103298,8 @@
                 "Probate",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cifra-dougan-llp",
@@ -102940,7 +103317,9 @@
                 "city": "Burlington",
                 "address": "1 Mountain Road",
                 "address2": "2nd Floor",
-                "zip": "01803"
+                "zip": "01803",
+                "lat": 42.506,
+                "lng": -71.2045
             },
             "contact": {
                 "phone": "866-440-0103",
@@ -102962,6 +103341,62 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02109",
+                    "address": "8 Faneuil Hall Marketplace, 3rd Floor",
+                    "phone": "617-973-6456",
+                    "lat": 42.3632,
+                    "lng": -71.0538
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "One Center Place",
+                    "phone": "(617) 973-6456",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                },
+                {
+                    "city": "Portland",
+                    "state": "ME",
+                    "zip": "04101",
+                    "address": "477 Congress Street, 5th Floor",
+                    "phone": "(617) 973-6456",
+                    "lat": 43.6608,
+                    "lng": -70.2613
+                },
+                {
+                    "city": "Plainville",
+                    "state": "CT",
+                    "zip": "06062",
+                    "address": "C/O Jainchill & Beckert, LLC, 144 West Main Street",
+                    "phone": "617-973-6456",
+                    "lat": 41.6738,
+                    "lng": -72.8542
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10036",
+                    "address": "1501 Broadway, Times Square, Suite 1200",
+                    "phone": "(617) 973-6456",
+                    "lat": 40.7595,
+                    "lng": -73.9899
+                },
+                {
+                    "city": "Boca Raton",
+                    "state": "FL",
+                    "zip": "33431",
+                    "address": "2255 Glades Road, Suite 324A",
+                    "phone": "(617) 973-6456",
+                    "lat": 26.3781,
+                    "lng": -80.102
+                }
             ]
         },
         {
@@ -102980,7 +103415,9 @@
                 "city": "Framingham",
                 "address": "600 Worcester Rd",
                 "address2": "Suite 203",
-                "zip": "01702"
+                "zip": "01702",
+                "lat": 42.2787,
+                "lng": -71.4436
             },
             "contact": {
                 "phone": "508-834-3683",
@@ -103008,7 +103445,8 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Collections"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-casey-l-cochran-llc",
@@ -103026,7 +103464,9 @@
                 "city": "Danvers",
                 "address": "175 Andover Street",
                 "address2": "Suite 205",
-                "zip": "01923"
+                "zip": "01923",
+                "lat": 42.5768,
+                "lng": -70.9514
             },
             "contact": {
                 "phone": "978-767-2166",
@@ -103058,7 +103498,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jeremy-cohen-esq",
@@ -103076,7 +103517,9 @@
                 "city": "Salem",
                 "address": "10 Federal Street",
                 "address2": "Suite 12",
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-867-7251",
@@ -103096,7 +103539,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-colonna-doyle-simeola",
@@ -103114,7 +103558,9 @@
                 "city": "Lynnfield",
                 "address": "26 Main Street",
                 "address2": "3rd Floor",
-                "zip": "01940"
+                "zip": "01940",
+                "lat": 42.5382,
+                "lng": -71.0305
             },
             "contact": {
                 "phone": "781-469-0785",
@@ -103147,7 +103593,8 @@
                 "Personal Injury",
                 "Professional Malpractice",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-james-f-connors",
@@ -103165,7 +103612,9 @@
                 "city": "Fitchburg",
                 "address": "58 Oliver Street",
                 "address2": null,
-                "zip": "01420"
+                "zip": "01420",
+                "lat": 42.5828,
+                "lng": -71.8066
             },
             "contact": {
                 "phone": "978-345-2671",
@@ -103184,7 +103633,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-connors-attorney-at-law",
@@ -103202,7 +103652,9 @@
                 "city": "Lynn",
                 "address": "583 Chestnut Street",
                 "address2": "Suite 10",
-                "zip": "01904"
+                "zip": "01904",
+                "lat": 42.4892,
+                "lng": -70.9689
             },
             "contact": {
                 "phone": "781-469-0070",
@@ -103225,7 +103677,8 @@
             "official_practice_area": [
                 "Landlord and Tenant",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "connors-connors-llp",
@@ -103243,7 +103696,9 @@
                 "city": "Waltham",
                 "address": "689 Main Street",
                 "address2": null,
-                "zip": "02451"
+                "zip": "02451",
+                "lat": 42.3973,
+                "lng": -71.2594
             },
             "contact": {
                 "phone": "781-894-6000",
@@ -103264,7 +103719,8 @@
             ],
             "official_practice_area": [
                 "Land Use and Zoning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-o-connor-law-firm",
@@ -103282,7 +103738,9 @@
                 "city": "Topsfield",
                 "address": "16 S. Main Street",
                 "address2": null,
-                "zip": "01983"
+                "zip": "01983",
+                "lat": 42.6356,
+                "lng": -70.9443
             },
             "contact": {
                 "phone": "978-887-5580",
@@ -103306,7 +103764,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fields-and-dennis-llp",
@@ -103324,7 +103783,9 @@
                 "city": "Wellesley",
                 "address": "80 William Street",
                 "address2": "Suite 210",
-                "zip": "02481"
+                "zip": "02481",
+                "lat": 42.3093,
+                "lng": -71.2724
             },
             "contact": {
                 "phone": "781-731-9838",
@@ -103377,7 +103838,8 @@
                 "Probate",
                 "Real Estate",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laredo-smith-llp",
@@ -103395,7 +103857,9 @@
                 "city": "Boston",
                 "address": "101 Federal Street",
                 "address2": "Suite 650",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-443-1100",
@@ -103416,7 +103880,8 @@
                 "Jose P. Sierra",
                 "Mark D. Smith"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "ravosa-law-offices-pc",
@@ -103434,7 +103899,9 @@
                 "city": "Boston",
                 "address": "300 Commercial Street",
                 "address2": "Ste. 2",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "617-720-1101",
@@ -103472,6 +103939,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Natick",
+                    "state": "MA",
+                    "zip": "01760",
+                    "address": "One South Avenue",
+                    "phone": "508-655-3013",
+                    "lat": 42.2872,
+                    "lng": -71.3523
+                }
             ]
         },
         {
@@ -103490,7 +103968,9 @@
                 "city": "Haverhill",
                 "address": "546 Main Street",
                 "address2": null,
-                "zip": "01830"
+                "zip": "01830",
+                "lat": 42.7952,
+                "lng": -71.0556
             },
             "contact": {
                 "phone": "978-791-3467",
@@ -103520,6 +104000,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Salem",
+                    "state": "MA",
+                    "zip": "01970",
+                    "address": "10 Federal Street, Suite 401",
+                    "phone": "(978) 740-0700",
+                    "lat": 42.5147,
+                    "lng": -70.9075
+                }
             ]
         },
         {
@@ -103538,7 +104029,9 @@
                 "city": "Salem",
                 "address": "10 Federal St",
                 "address2": "Suite 401",
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-594-6919",
@@ -103568,7 +104061,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-michael-f-cuddy",
@@ -103586,7 +104080,9 @@
                 "city": "Dedham",
                 "address": "601 High Street, Suite 103",
                 "address2": null,
-                "zip": "02026"
+                "zip": "02026",
+                "lat": 42.2446,
+                "lng": -71.1812
             },
             "contact": {
                 "phone": "781-536-5255",
@@ -103622,7 +104118,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grimaldi-pesiridis-llc",
@@ -103640,7 +104137,9 @@
                 "city": "Woburn",
                 "address": "12 Gill Street",
                 "address2": "Suite 1600",
-                "zip": "01801"
+                "zip": "01801",
+                "lat": 42.4895,
+                "lng": -71.1589
             },
             "contact": {
                 "phone": "781-925-7610",
@@ -103665,7 +104164,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "farber-lindley-llc",
@@ -103683,7 +104183,9 @@
                 "city": "Barre",
                 "address": "7 Exchange Street",
                 "address2": null,
-                "zip": "01005"
+                "zip": "01005",
+                "lat": 42.4208,
+                "lng": -72.1062
             },
             "contact": {
                 "phone": "978-546-4997",
@@ -103718,6 +104220,17 @@
                 "Landlord and Tenant",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Amherst",
+                    "state": "MA",
+                    "zip": "01002",
+                    "address": "30 Boltwood Walk",
+                    "phone": "978-546-4997",
+                    "lat": 42.3729,
+                    "lng": -72.4509
+                }
             ]
         },
         {
@@ -103736,7 +104249,9 @@
                 "city": "Somerville",
                 "address": "424 Broadway",
                 "address2": null,
-                "zip": "02145"
+                "zip": "02145",
+                "lat": 42.3914,
+                "lng": -71.0927
             },
             "contact": {
                 "phone": "617-666-2600",
@@ -103761,7 +104276,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "daviau-law-offices-pc",
@@ -103779,7 +104295,9 @@
                 "city": "Worcester",
                 "address": "255 Park Avenue",
                 "address2": "Suite 1000",
-                "zip": "01609"
+                "zip": "01609",
+                "lat": 42.2876,
+                "lng": -71.8307
             },
             "contact": {
                 "phone": "508-425-4270",
@@ -103809,7 +104327,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "s-de-oliveira-law-llc",
@@ -103827,7 +104346,9 @@
                 "city": "Westborough",
                 "address": "1900 West Park Drive",
                 "address2": "Suite 280",
-                "zip": "01581"
+                "zip": "01581",
+                "lat": 42.2662,
+                "lng": -71.6092
             },
             "contact": {
                 "phone": "508-620-1529",
@@ -103847,6 +104368,17 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Westborough",
+                    "state": "MA",
+                    "zip": "01581",
+                    "address": "1900 West Park Drive, Suite 280",
+                    "phone": "(508) 458-5203",
+                    "lat": 42.2662,
+                    "lng": -71.6092
+                }
             ]
         },
         {
@@ -103865,7 +104397,9 @@
                 "city": "Boston",
                 "address": "30 Federal Street",
                 "address2": "6th Floor",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-286-5052",
@@ -103906,7 +104440,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "duddy-goodwin-pollard",
@@ -103924,7 +104459,9 @@
                 "city": "Boston",
                 "address": "2 Center Plaza #610",
                 "address2": null,
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "508-665-1789",
@@ -103974,6 +104511,35 @@
                 "Whistleblower and Qui Tam",
                 "Wrongful Death",
                 "Wrongful Termination"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Worcester",
+                    "state": "MA",
+                    "zip": "01608",
+                    "address": "446 Main Street 16th FL",
+                    "phone": "+15086652695",
+                    "lat": 42.2586,
+                    "lng": -71.803
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "1 Park Row 5th FL",
+                    "phone": "+15086652695",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                },
+                {
+                    "city": "Hartford",
+                    "state": "CT",
+                    "zip": "06106",
+                    "address": "39 Russ Street",
+                    "phone": "+15086652695",
+                    "lat": 41.745,
+                    "lng": -72.6857
+                }
             ]
         },
         {
@@ -103992,7 +104558,9 @@
                 "city": "Newburyport",
                 "address": "30 Green Street",
                 "address2": null,
-                "zip": "01950"
+                "zip": "01950",
+                "lat": 42.8142,
+                "lng": -70.8745
             },
             "contact": {
                 "phone": "978-462-1514",
@@ -104018,7 +104586,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whitney-law-group-llc",
@@ -104036,7 +104605,9 @@
                 "city": "Marblehead",
                 "address": "11 State Street",
                 "address2": null,
-                "zip": "01945"
+                "zip": "01945",
+                "lat": 42.5002,
+                "lng": -70.8649
             },
             "contact": {
                 "phone": "781-908-3202",
@@ -104062,6 +104633,35 @@
             "official_practice_area": [
                 "Employment Law (Employer)",
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Burlington",
+                    "state": "MA",
+                    "zip": "01803",
+                    "address": "67 South Bedford Street, Suite 400 West",
+                    "phone": "781-908-3202",
+                    "lat": 42.506,
+                    "lng": -71.2045
+                },
+                {
+                    "city": "Portsmouth",
+                    "state": "NH",
+                    "zip": "03801",
+                    "address": "155 Fleet Street",
+                    "phone": "781-908-3202",
+                    "lat": 43.0675,
+                    "lng": -70.7998
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10005",
+                    "address": "48 Wall Street, 11th Floor",
+                    "phone": "781-908-3202",
+                    "lat": 40.7062,
+                    "lng": -74.0086
+                }
             ]
         },
         {
@@ -104080,7 +104680,9 @@
                 "city": "Worcester",
                 "address": "306 Main Street",
                 "address2": "2nd Floor",
-                "zip": "01608"
+                "zip": "01608",
+                "lat": 42.2586,
+                "lng": -71.803
             },
             "contact": {
                 "phone": "508-791-9400",
@@ -104105,6 +104707,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newton Center",
+                    "state": "MA",
+                    "zip": "02459",
+                    "address": "1320 Centre Street, Suite 303",
+                    "phone": "617-600-4882",
+                    "lat": 42.3122,
+                    "lng": -71.1947
+                }
             ]
         },
         {
@@ -104123,7 +104736,9 @@
                 "city": "Boston",
                 "address": "Prudential Tower, 27th Floor",
                 "address2": "800 Boylston Street",
-                "zip": "02199"
+                "zip": "02199",
+                "lat": 42.3474,
+                "lng": -71.0823
             },
             "contact": {
                 "phone": "617-865-6040",
@@ -104152,7 +104767,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "difonte-law-group-llc",
@@ -104170,7 +104786,9 @@
                 "city": "North Andover",
                 "address": "790 Turnpike Street",
                 "address2": "Suite 304",
-                "zip": "01835"
+                "zip": "01835",
+                "lat": 42.7535,
+                "lng": -71.0867
             },
             "contact": {
                 "phone": "978-346-5045",
@@ -104191,7 +104809,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "richard-dinjian-attorney-at-law",
@@ -104209,7 +104828,9 @@
                 "city": "Auburndale",
                 "address": "287 Auburn Street",
                 "address2": null,
-                "zip": "02466"
+                "zip": "02466",
+                "lat": 42.3451,
+                "lng": -71.2472
             },
             "contact": {
                 "phone": "617-855-8115",
@@ -104237,7 +104858,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "j-m-discenza-law-llc",
@@ -104255,7 +104877,9 @@
                 "city": "Holyoke",
                 "address": "330 Whitney Ave",
                 "address2": "Suite 430",
-                "zip": "01040"
+                "zip": "01040",
+                "lat": 42.2227,
+                "lng": -72.6405
             },
             "contact": {
                 "phone": "413-567-8411",
@@ -104278,7 +104902,8 @@
                 "Estate Planning",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maclean-holloway-doherty-sheehan-p-c",
@@ -104296,7 +104921,9 @@
                 "city": "Peabody",
                 "address": "8 Essex Center Drive",
                 "address2": null,
-                "zip": "01960"
+                "zip": "01960",
+                "lat": 42.5326,
+                "lng": -70.9737
             },
             "contact": {
                 "phone": "978-774-7123",
@@ -104346,7 +104973,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "doran-doran-p-c",
@@ -104364,7 +104992,9 @@
                 "city": "Natick",
                 "address": "20 Main Street",
                 "address2": null,
-                "zip": "01760"
+                "zip": "01760",
+                "lat": 42.2872,
+                "lng": -71.3523
             },
             "contact": {
                 "phone": "508-653-1761",
@@ -104395,7 +105025,8 @@
                 "DUI and DWI",
                 "Federal and White Collar Crimes",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "michael-p-doolin",
@@ -104413,7 +105044,9 @@
                 "city": "Dorchester",
                 "address": "50 Redfield St. Ste. 206",
                 "address2": null,
-                "zip": "02122"
+                "zip": "02122",
+                "lat": 42.297,
+                "lng": -71.0546
             },
             "contact": {
                 "phone": "617-436-3819",
@@ -104434,7 +105067,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "benjamin-h-dowling-attorney-at-law",
@@ -104452,7 +105086,9 @@
                 "city": "Plainville",
                 "address": "6 Wilkins Drive",
                 "address2": "Unit 101",
-                "zip": "02762"
+                "zip": "02762",
+                "lat": 42.0148,
+                "lng": -71.3338
             },
             "contact": {
                 "phone": "617-758-1602",
@@ -104487,7 +105123,8 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "o-neil-hauser-mansfield-p-c",
@@ -104505,7 +105142,9 @@
                 "city": "Charlestown",
                 "address": "105 Main St",
                 "address2": null,
-                "zip": "02129"
+                "zip": "02129",
+                "lat": 42.3817,
+                "lng": -71.0641
             },
             "contact": {
                 "phone": "617-665-8188",
@@ -104530,7 +105169,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tcf-law-group-pllc",
@@ -104548,7 +105188,9 @@
                 "city": "Boston",
                 "address": "101 Federal Street",
                 "address2": "Suite 1900",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-812-9945",
@@ -104587,7 +105229,8 @@
                 "Business Organizations",
                 "Business and Commercial Law",
                 "Mergers and Acquisitions"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-william-m-driscoll",
@@ -104605,7 +105248,9 @@
                 "city": "Pepperell",
                 "address": "Law Office od William M. Driscoll",
                 "address2": "41 Lowell Road #483",
-                "zip": "01463"
+                "zip": "01463",
+                "lat": 42.6655,
+                "lng": -71.5994
             },
             "contact": {
                 "phone": "978-846-5184",
@@ -104629,7 +105274,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "driscoll-driscoll-p-c",
@@ -104647,7 +105293,9 @@
                 "city": "Boston",
                 "address": "By Appointment Only",
                 "address2": null,
-                "zip": "02130"
+                "zip": "02130",
+                "lat": 42.3105,
+                "lng": -71.1174
             },
             "contact": {
                 "phone": "508-674-0020",
@@ -104675,7 +105323,8 @@
             "official_practice_area": [
                 "Employment Rights",
                 "Landlord and Tenant"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcguire-mcguire-p-c",
@@ -104693,7 +105342,9 @@
                 "city": "Worcester",
                 "address": "14 Harvard Street",
                 "address2": null,
-                "zip": "01609"
+                "zip": "01609",
+                "lat": 42.2876,
+                "lng": -71.8307
             },
             "contact": {
                 "phone": "508-754-3291",
@@ -104723,7 +105374,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-carmen-l-durso",
@@ -104741,7 +105393,9 @@
                 "city": "Boston",
                 "address": "101 Federal Street",
                 "address2": null,
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-728-9123",
@@ -104762,6 +105416,17 @@
             ],
             "official_practice_area": [
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Framingham",
+                    "state": "MA",
+                    "zip": "01702",
+                    "address": "276 Union Avenue",
+                    "phone": "617-728-9123",
+                    "lat": 42.2787,
+                    "lng": -71.4436
+                }
             ]
         },
         {
@@ -104780,7 +105445,9 @@
                 "city": "New Bedford",
                 "address": "New Bedford Office",
                 "address2": "1015 Kempton Street",
-                "zip": "02740"
+                "zip": "02740",
+                "lat": 41.6322,
+                "lng": -70.9406
             },
             "contact": {
                 "phone": "508-999-2000",
@@ -104803,6 +105470,26 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fall River",
+                    "state": "MA",
+                    "zip": "02720",
+                    "address": "Fall River Office, 191 Bedford St., MELCOR Building, Suite 301",
+                    "phone": "(508) 999-2000",
+                    "lat": 41.7316,
+                    "lng": -71.109
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "Providence Office, 199 North Main Street",
+                    "phone": "(508) 999-2000",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -104821,7 +105508,9 @@
                 "city": "Westborough",
                 "address": "276 Turnpike Road",
                 "address2": "Suite 219",
-                "zip": "01581"
+                "zip": "01581",
+                "lat": 42.2662,
+                "lng": -71.6092
             },
             "contact": {
                 "phone": "508-475-5502",
@@ -104845,7 +105534,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ellis-law-offices-llp",
@@ -104863,7 +105553,9 @@
                 "city": "Worcester",
                 "address": "33 Pleasant Street",
                 "address2": "Suite 2",
-                "zip": "01609"
+                "zip": "01609",
+                "lat": 42.2876,
+                "lng": -71.8307
             },
             "contact": {
                 "phone": "508-665-2783",
@@ -104900,7 +105592,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-john-c-manoog-iii",
@@ -104918,7 +105611,9 @@
                 "city": "Hyannis",
                 "address": "450 South St.",
                 "address2": null,
-                "zip": "02601"
+                "zip": "02601",
+                "lat": 41.6568,
+                "lng": -70.2938
             },
             "contact": {
                 "phone": "877-821-6968",
@@ -104958,6 +105653,17 @@
                 "Premises Liability",
                 "Professional Malpractice",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Plymouth",
+                    "state": "MA",
+                    "zip": "02360",
+                    "address": "18 Main Street Extension, #201",
+                    "phone": "877-821-6968",
+                    "lat": 41.8734,
+                    "lng": -70.6397
+                }
             ]
         },
         {
@@ -104976,7 +105682,9 @@
                 "city": "Boston",
                 "address": "155 Federal Street, 9th Floor",
                 "address2": null,
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-422-0200",
@@ -105022,7 +105730,8 @@
                 "Litigation and Appeals",
                 "Real Estate",
                 "Tax Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "krasnoo-klehm-falkner-llp",
@@ -105040,7 +105749,9 @@
                 "city": "Andover",
                 "address": "28 Andover Street",
                 "address2": "Suite 240",
-                "zip": "01810"
+                "zip": "01810",
+                "lat": 42.6496,
+                "lng": -71.166
             },
             "contact": {
                 "phone": "978-475-9955",
@@ -105081,7 +105792,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fein-law-office",
@@ -105099,7 +105811,9 @@
                 "city": "Braintree",
                 "address": "50 Braintree Hill Office Park",
                 "address2": "Suite 302",
-                "zip": "02184"
+                "zip": "02184",
+                "lat": 42.2034,
+                "lng": -71.0048
             },
             "contact": {
                 "phone": "800-580-9173",
@@ -105144,7 +105858,8 @@
                 "Probate",
                 "Professional Malpractice",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "feinman-law-offices",
@@ -105162,7 +105877,9 @@
                 "city": "Andover",
                 "address": "The Cambridge Trust Bank Building",
                 "address2": "69 Park Street, Second Floor",
-                "zip": "01810"
+                "zip": "01810",
+                "lat": 42.6496,
+                "lng": -71.166
             },
             "contact": {
                 "phone": "978-494-6669",
@@ -105188,7 +105905,8 @@
                 "Bankruptcy",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "goldstein-and-feuer",
@@ -105206,7 +105924,9 @@
                 "city": "Cambridge",
                 "address": "678 Massachusetts Ave",
                 "address2": "Ste 600",
-                "zip": "02139"
+                "zip": "02139",
+                "lat": 42.3644,
+                "lng": -71.1012
             },
             "contact": {
                 "phone": "617-492-8473",
@@ -105264,7 +105984,8 @@
                 "Tax Law",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-erica-m-foster",
@@ -105282,7 +106003,9 @@
                 "city": "Danvers",
                 "address": "491 Maple Street",
                 "address2": "Suite 204",
-                "zip": "01923"
+                "zip": "01923",
+                "lat": 42.5768,
+                "lng": -70.9514
             },
             "contact": {
                 "phone": "978-881-7858",
@@ -105315,6 +106038,17 @@
                 "Estate Planning",
                 "Family Law",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Woburn",
+                    "state": "MA",
+                    "zip": "01801",
+                    "address": "400 Tradecenter, Suite 5900",
+                    "phone": "978-881-7858",
+                    "lat": 42.4895,
+                    "lng": -71.1589
+                }
             ]
         },
         {
@@ -105333,7 +106067,9 @@
                 "city": "Boston",
                 "address": "88 Broad Street, Suite 101",
                 "address2": null,
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "978-208-3975",
@@ -105356,7 +106092,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-joseph-j-cariglia-p-c",
@@ -105374,7 +106111,9 @@
                 "city": "Worcester",
                 "address": "188 Lincoln Street",
                 "address2": null,
-                "zip": "01605"
+                "zip": "01605",
+                "lat": 42.2889,
+                "lng": -71.7958
             },
             "contact": {
                 "phone": "508-834-3554",
@@ -105406,7 +106145,8 @@
                 "Car Accidents",
                 "Insurance Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kushner-marano-p-c",
@@ -105424,7 +106164,9 @@
                 "city": "Newton",
                 "address": "450 Lexington St.",
                 "address2": "Suite 101",
-                "zip": "02466"
+                "zip": "02466",
+                "lat": 42.3451,
+                "lng": -71.2472
             },
             "contact": {
                 "phone": "617-380-1970",
@@ -105465,7 +106207,8 @@
                 "Premises Liability",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "frontiero-law-office-p-c",
@@ -105483,7 +106226,9 @@
                 "city": "Gloucester",
                 "address": "46 Middle Street",
                 "address2": "1st Floor",
-                "zip": "01930"
+                "zip": "01930",
+                "lat": 42.631,
+                "lng": -70.6834
             },
             "contact": {
                 "phone": "978-955-9464",
@@ -105514,7 +106259,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-michael-fulton-p-c",
@@ -105532,7 +106278,9 @@
                 "city": "Bedford",
                 "address": "133 Great Road",
                 "address2": "Suite 101",
-                "zip": "01730"
+                "zip": "01730",
+                "lat": 42.4999,
+                "lng": -71.2753
             },
             "contact": {
                 "phone": "781-325-8703",
@@ -105559,7 +106307,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "geary-geary-llp",
@@ -105577,7 +106326,9 @@
                 "city": "Lowell",
                 "address": "32 Church Street",
                 "address2": null,
-                "zip": "01852"
+                "zip": "01852",
+                "lat": 42.6285,
+                "lng": -71.2965
             },
             "contact": {
                 "phone": "844-233-4825",
@@ -105601,7 +106352,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "healey-deshaies-gagliardi-woelfel-pc",
@@ -105619,7 +106371,9 @@
                 "city": "Amesbury",
                 "address": "24 Market Street",
                 "address2": null,
-                "zip": "01913"
+                "zip": "01913",
+                "lat": 42.8532,
+                "lng": -70.9518
             },
             "contact": {
                 "phone": "978-388-1787",
@@ -105643,7 +106397,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "center-for-elder-law-estate-planning",
@@ -105661,7 +106416,9 @@
                 "city": "Weymouth",
                 "address": "1221 Main Street",
                 "address2": "Suite 301",
-                "zip": "02190"
+                "zip": "02190",
+                "lat": 42.165,
+                "lng": -70.9502
             },
             "contact": {
                 "phone": "339-499-4306",
@@ -105694,6 +106451,17 @@
                 "Probate",
                 "Social Security",
                 "Social Security Disability"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Brockton",
+                    "state": "MA",
+                    "zip": "02301",
+                    "address": "1322 Belmont Street, Suite 201-A",
+                    "phone": "339-499-4306",
+                    "lat": 42.0785,
+                    "lng": -71.0384
+                }
             ]
         },
         {
@@ -105712,7 +106480,9 @@
                 "city": "Newton",
                 "address": "246 Walnut Street",
                 "address2": "Suite 301",
-                "zip": "02460"
+                "zip": "02460",
+                "lat": 42.3523,
+                "lng": -71.2073
             },
             "contact": {
                 "phone": "617-553-1556",
@@ -105733,7 +106503,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "claudette-jean-girard-attorney-at-law",
@@ -105751,7 +106522,9 @@
                 "city": "Springfield",
                 "address": "1380 Main Street",
                 "address2": "Suite 302",
-                "zip": "01103"
+                "zip": "01103",
+                "lat": 42.1034,
+                "lng": -72.5906
             },
             "contact": {
                 "phone": "413-315-5518",
@@ -105777,7 +106550,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mg-m-the-law-firm",
@@ -105795,7 +106569,9 @@
                 "city": "Boston",
                 "address": "Oliver Street Tower",
                 "address2": "125 High Street, 6th Floor",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-670-8800",
@@ -105828,6 +106604,53 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "One Center Place, Suite 620",
+                    "phone": "(401) 427-0391",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                },
+                {
+                    "city": "Barnstable",
+                    "state": "MA",
+                    "zip": "02630",
+                    "address": "3180 Main Street",
+                    "phone": "(508) 535-0054",
+                    "lat": 41.6966,
+                    "lng": -70.2954
+                },
+                {
+                    "city": "Wilmington",
+                    "state": "DE",
+                    "zip": "19801",
+                    "address": "1007 North Orange Street, 10th Floor",
+                    "phone": "(302) 657-2100",
+                    "lat": 39.7205,
+                    "lng": -75.5175
+                },
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70130",
+                    "address": "One Canal Place, 365 Canal Street, Suite 3000",
+                    "phone": "(504) 535-2880",
+                    "lat": 29.9388,
+                    "lng": -90.0724
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "zip": "90071",
+                    "address": "444 South Flower Street, Suite 2150",
+                    "phone": "(213) 622-7300",
+                    "lat": 34.0525,
+                    "lng": -118.2553
+                }
             ]
         },
         {
@@ -105846,7 +106669,9 @@
                 "city": "Boston",
                 "address": "529 Main Street",
                 "address2": "Suite P200",
-                "zip": "02129"
+                "zip": "02129",
+                "lat": 42.3817,
+                "lng": -71.0641
             },
             "contact": {
                 "phone": "617-540-0021",
@@ -105869,7 +106694,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-diana-stasia-gondek-esq",
@@ -105887,7 +106713,9 @@
                 "city": "Dracut",
                 "address": "430 Aiken Avenue",
                 "address2": null,
-                "zip": "01826"
+                "zip": "01826",
+                "lat": 42.6926,
+                "lng": -71.309
             },
             "contact": {
                 "phone": "978-453-4935",
@@ -105923,7 +106751,8 @@
                 "Constitutional Law",
                 "Discrimination",
                 "Education"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "g-mez-martinez-llc",
@@ -105941,7 +106770,9 @@
                 "city": "Lawrence",
                 "address": "286 Essex Street",
                 "address2": null,
-                "zip": "01840"
+                "zip": "01840",
+                "lat": 42.7059,
+                "lng": -71.1598
             },
             "contact": {
                 "phone": "888-995-6804",
@@ -105966,7 +106797,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-catherine-becker-good",
@@ -105984,7 +106816,9 @@
                 "city": "Dedham",
                 "address": "858 Washington St.",
                 "address2": "Suite 103",
-                "zip": "02026"
+                "zip": "02026",
+                "lat": 42.2446,
+                "lng": -71.1812
             },
             "contact": {
                 "phone": "781-816-2484",
@@ -106009,7 +106843,8 @@
                 "ADR Arbitration and Mediation",
                 "Collaborative Law",
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "greene-llp",
@@ -106027,7 +106862,9 @@
                 "city": "Boston",
                 "address": "75 Park Plaza",
                 "address2": "2nd Floor",
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "855-718-4726",
@@ -106064,7 +106901,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jordana-roubicek-greenman-attorney-at-law",
@@ -106082,7 +106920,9 @@
                 "city": "Boston",
                 "address": "185 Devonshire St.",
                 "address2": "Suite 302",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-379-6669",
@@ -106106,6 +106946,17 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Watertown",
+                    "state": "MA",
+                    "zip": "02472",
+                    "address": "134 Main St.",
+                    "phone": "617-829-9907",
+                    "lat": 42.3721,
+                    "lng": -71.1786
+                }
             ]
         },
         {
@@ -106124,7 +106975,9 @@
                 "city": "Cambridge",
                 "address": "875 Massachusetts Avenue",
                 "address2": "Suite 31",
-                "zip": "02139"
+                "zip": "02139",
+                "lat": 42.3644,
+                "lng": -71.1012
             },
             "contact": {
                 "phone": "617-802-9589",
@@ -106151,6 +107004,17 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02110",
+                    "address": "185 Devonshire Street, Suite 302",
+                    "phone": "617-802-9589",
+                    "lat": 42.3582,
+                    "lng": -71.0541
+                }
             ]
         },
         {
@@ -106169,7 +107033,9 @@
                 "city": "Boston",
                 "address": "One Center Plaza",
                 "address2": "Suite 420",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-802-6517",
@@ -106198,7 +107064,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "gilman-mclaughlin-hanrahan-llp",
@@ -106216,7 +107083,9 @@
                 "city": "Boston",
                 "address": "101 Merrimac Street",
                 "address2": "Suite 810, P.O. Box 9601",
-                "zip": "02114"
+                "zip": "02114",
+                "lat": 42.3623,
+                "lng": -71.0673
             },
             "contact": {
                 "phone": "617-580-3180",
@@ -106241,7 +107110,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kazarian-law",
@@ -106259,7 +107129,9 @@
                 "city": "Boston",
                 "address": "10 High Street",
                 "address2": "Suite 1002",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-830-1066",
@@ -106293,7 +107165,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harris-associates-p-c",
@@ -106311,7 +107184,9 @@
                 "city": "Boston",
                 "address": "100 State Street",
                 "address2": "10th Floor",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "617-523-1100",
@@ -106333,7 +107208,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "adler-cohen-harvey-wakeman-and-guekguezian-l-l-p",
@@ -106351,7 +107227,9 @@
                 "city": "Boston",
                 "address": "75 Federal Street",
                 "address2": "10th Floor",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-423-6674",
@@ -106382,6 +107260,17 @@
             "official_practice_area": [
                 "Employment Law (Employer)",
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "170 Westminster Street",
+                    "phone": "(617) 423-6674",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -106400,7 +107289,9 @@
                 "city": "Charlestown",
                 "address": "529 Main St",
                 "address2": "Suite 214",
-                "zip": "02129"
+                "zip": "02129",
+                "lat": 42.3817,
+                "lng": -71.0641
             },
             "contact": {
                 "phone": "617-665-8761",
@@ -106423,7 +107314,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "helinski-law-offices",
@@ -106441,7 +107333,9 @@
                 "city": "Wellesley",
                 "address": "111 Parker Road",
                 "address2": null,
-                "zip": "02482"
+                "zip": "02482",
+                "lat": 42.2935,
+                "lng": -71.2993
             },
             "contact": {
                 "phone": "617-468-2183",
@@ -106478,6 +107372,17 @@
                 "Divorce and Separation",
                 "Drug Crime",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Wellesley",
+                    "state": "MA",
+                    "zip": "02482",
+                    "address": "111 Parker Road",
+                    "phone": "+16174682183",
+                    "lat": 42.2935,
+                    "lng": -71.2993
+                }
             ]
         },
         {
@@ -106496,7 +107401,9 @@
                 "city": "Braintree",
                 "address": "100 Grandview Road",
                 "address2": "Suite 304",
-                "zip": "02184"
+                "zip": "02184",
+                "lat": 42.2034,
+                "lng": -71.0048
             },
             "contact": {
                 "phone": "781-664-9331",
@@ -106527,7 +107434,8 @@
                 "Elder Law",
                 "Estate Planning",
                 "Trusts"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-milligan-higgins",
@@ -106545,7 +107453,9 @@
                 "city": "Rockland",
                 "address": "300 Ledgewood Place",
                 "address2": "Suite 201",
-                "zip": "02370"
+                "zip": "02370",
+                "lat": 42.1288,
+                "lng": -70.9124
             },
             "contact": {
                 "phone": "617-802-9549",
@@ -106573,6 +107483,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "DUI and DWI"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02116",
+                    "address": "867 Boylston Street, Suite 500",
+                    "phone": "+16178027650",
+                    "lat": 42.3506,
+                    "lng": -71.0769
+                }
             ]
         },
         {
@@ -106591,7 +107512,9 @@
                 "city": "Boston",
                 "address": "P.O. Box 322",
                 "address2": "Charles Street Station",
-                "zip": "02114"
+                "zip": "02114",
+                "lat": 42.3623,
+                "lng": -71.0673
             },
             "contact": {
                 "phone": "617-430-5846",
@@ -106618,6 +107541,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Beverly",
+                    "state": "MA",
+                    "zip": "01915",
+                    "address": "900 Cummings Center, Suite 210U",
+                    "phone": "+16174305031",
+                    "lat": 42.5678,
+                    "lng": -70.8581
+                }
             ]
         },
         {
@@ -106636,7 +107570,9 @@
                 "city": "Boston",
                 "address": "92 State Street",
                 "address2": "4th Floor",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "617-444-9626",
@@ -106660,7 +107596,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-david-jellinek",
@@ -106678,7 +107615,9 @@
                 "city": "Newton",
                 "address": "1163 Walnut St. #1",
                 "address2": null,
-                "zip": "02461"
+                "zip": "02461",
+                "lat": 42.314,
+                "lng": -71.2085
             },
             "contact": {
                 "phone": "857-203-0900",
@@ -106721,7 +107660,8 @@
                 "Sex Crime",
                 "Sexual Abuse",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "yannetti-johnson",
@@ -106739,7 +107679,9 @@
                 "city": "Boston",
                 "address": "44 School St",
                 "address2": "#1000A",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-798-1167",
@@ -106774,6 +107716,17 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Dedham",
+                    "state": "MA",
+                    "zip": "02026",
+                    "address": "105 Eastern Avenue, #215A",
+                    "phone": "+16176658317",
+                    "lat": 42.2446,
+                    "lng": -71.1812
+                }
             ]
         },
         {
@@ -106792,7 +107745,9 @@
                 "city": "Worcester",
                 "address": "238 Shrewsbury Street",
                 "address2": null,
-                "zip": "01604"
+                "zip": "01604",
+                "lat": 42.2492,
+                "lng": -71.7649
             },
             "contact": {
                 "phone": "508-969-1807",
@@ -106818,7 +107773,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kenney-kenney-attorneys-at-law",
@@ -106836,7 +107792,9 @@
                 "city": "Medway",
                 "address": "181 Village Street",
                 "address2": null,
-                "zip": "02053"
+                "zip": "02053",
+                "lat": 42.1529,
+                "lng": -71.427
             },
             "contact": {
                 "phone": "508-570-2063",
@@ -106859,7 +107817,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "regan-kiely-llp",
@@ -106877,7 +107836,9 @@
                 "city": "Quincy",
                 "address": "40 Willard Street",
                 "address2": "Suite 304",
-                "zip": "02169"
+                "zip": "02169",
+                "lat": 42.2429,
+                "lng": -71.01
             },
             "contact": {
                 "phone": "617-723-0901",
@@ -106901,7 +107862,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-matthew-j-kimball-p-c",
@@ -106919,7 +107881,9 @@
                 "city": "Middleton",
                 "address": "135 Boston Street",
                 "address2": null,
-                "zip": "01949"
+                "zip": "01949",
+                "lat": 42.6026,
+                "lng": -71.0137
             },
             "contact": {
                 "phone": "781-691-0556",
@@ -106947,7 +107911,8 @@
                 "Estate Planning",
                 "Probate",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "percy-law-group-pc",
@@ -106965,7 +107930,9 @@
                 "city": "Taunton",
                 "address": "4 Court Street",
                 "address2": null,
-                "zip": "02780"
+                "zip": "02780",
+                "lat": 41.9099,
+                "lng": -71.1189
             },
             "contact": {
                 "phone": "508-828-1900",
@@ -106995,6 +107962,17 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Fall River",
+                    "state": "MA",
+                    "zip": "02720",
+                    "address": "570 Robeson Street",
+                    "phone": "(508) 828-1900",
+                    "lat": 41.7316,
+                    "lng": -71.109
+                }
             ]
         },
         {
@@ -107013,7 +107991,9 @@
                 "city": "Barre",
                 "address": "21 Summer Street",
                 "address2": null,
-                "zip": "01005"
+                "zip": "01005",
+                "lat": 42.4208,
+                "lng": -72.1062
             },
             "contact": {
                 "phone": "978-355-2289",
@@ -107044,6 +108024,17 @@
                 "Litigation and Appeals",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Spencer",
+                    "state": "MA",
+                    "zip": "01562",
+                    "address": "160B Main Street",
+                    "phone": "978-355-2289",
+                    "lat": 42.248,
+                    "lng": -71.9907
+                }
             ]
         },
         {
@@ -107062,7 +108053,9 @@
                 "city": "Townsend",
                 "address": "176 Fitchburg Road",
                 "address2": null,
-                "zip": "01469"
+                "zip": "01469",
+                "lat": 42.6596,
+                "lng": -71.7023
             },
             "contact": {
                 "phone": "978-755-1965",
@@ -107086,7 +108079,8 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-renee-lazar",
@@ -107104,7 +108098,9 @@
                 "city": "Stoneham",
                 "address": "225A Fallon Rd",
                 "address2": "#315",
-                "zip": "02180"
+                "zip": "02180",
+                "lat": 42.4731,
+                "lng": -71.0971
             },
             "contact": {
                 "phone": "978-844-4095",
@@ -107151,7 +108147,8 @@
                 "Landlord and Tenant",
                 "Military",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jennifer-leahy",
@@ -107169,7 +108166,9 @@
                 "city": "Lynn",
                 "address": "P.O. Box 8078",
                 "address2": null,
-                "zip": "01904"
+                "zip": "01904",
+                "lat": 42.4892,
+                "lng": -70.9689
             },
             "contact": {
                 "phone": "781-964-6593",
@@ -107191,7 +108190,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "levin-and-levin-llp",
@@ -107209,7 +108209,9 @@
                 "city": "Quincy",
                 "address": "875 Southern Artery",
                 "address2": "Suite 1",
-                "zip": "02169"
+                "zip": "02169",
+                "lat": 42.2429,
+                "lng": -71.01
             },
             "contact": {
                 "phone": "617-221-3342",
@@ -107252,6 +108254,17 @@
                 "Personal Injury",
                 "Real Estate",
                 "Wills"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Marshfield",
+                    "state": "MA",
+                    "zip": "02050",
+                    "address": "490 Plain Street",
+                    "phone": "617-221-3342",
+                    "lat": 42.1111,
+                    "lng": -70.7131
+                }
             ]
         },
         {
@@ -107270,7 +108283,9 @@
                 "city": "Framingham",
                 "address": "1671 Worcester Road",
                 "address2": "Suite 304",
-                "zip": "01701"
+                "zip": "01701",
+                "lat": 42.3232,
+                "lng": -71.4352
             },
             "contact": {
                 "phone": "508-435-0118",
@@ -107287,6 +108302,17 @@
             ],
             "official_practice_area": [
                 "Tax Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02116",
+                    "address": "38 Newbury Street, 6th Floor",
+                    "phone": "866-485-7019",
+                    "lat": 42.3506,
+                    "lng": -71.0769
+                }
             ]
         },
         {
@@ -107305,7 +108331,9 @@
                 "city": "Sturbridge",
                 "address": "P.O. Box 797",
                 "address2": null,
-                "zip": "01566"
+                "zip": "01566",
+                "lat": 42.1016,
+                "lng": -72.0798
             },
             "contact": {
                 "phone": "508-644-1962",
@@ -107334,7 +108362,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "juan-liu",
@@ -107352,7 +108381,9 @@
                 "city": "N. Billerica",
                 "address": "P.O. Box 290",
                 "address2": null,
-                "zip": "01862"
+                "zip": "01862",
+                "lat": 42.5683,
+                "lng": -71.2923
             },
             "contact": {
                 "phone": "978-670-0718",
@@ -107393,7 +108424,8 @@
                 "Real Estate",
                 "Trademarks",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-terrence-a-low-and-anthony-j-canata",
@@ -107411,7 +108443,9 @@
                 "city": "Northampton",
                 "address": "4 Market Street",
                 "address2": null,
-                "zip": "01060"
+                "zip": "01060",
+                "lat": 42.3296,
+                "lng": -72.6251
             },
             "contact": {
                 "phone": "413-727-8312",
@@ -107431,7 +108465,8 @@
             ],
             "official_practice_area": [
                 "ERISA"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-heather-j-lynham-p-c",
@@ -107449,7 +108484,9 @@
                 "city": "Fairhaven",
                 "address": "51 Alden Road",
                 "address2": null,
-                "zip": "02719"
+                "zip": "02719",
+                "lat": 41.6313,
+                "lng": -70.8671
             },
             "contact": {
                 "phone": "508-525-4805",
@@ -107488,7 +108525,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mackinnon-law-offices",
@@ -107506,7 +108544,9 @@
                 "city": "East Longmeadow",
                 "address": "264 North Main Street",
                 "address2": "Suite 1",
-                "zip": "01028"
+                "zip": "01028",
+                "lat": 42.0617,
+                "lng": -72.4988
             },
             "contact": {
                 "phone": "413-642-2736",
@@ -107539,7 +108579,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "laura-mannion-law-llc",
@@ -107557,7 +108598,9 @@
                 "city": "Quincy",
                 "address": "15 Cottage Ave.",
                 "address2": "Fourth Floor",
-                "zip": "02169"
+                "zip": "02169",
+                "lat": 42.2429,
+                "lng": -71.01
             },
             "contact": {
                 "phone": "617-774-7883",
@@ -107582,7 +108625,8 @@
                 "Criminal Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stramer-law-offices",
@@ -107600,7 +108644,9 @@
                 "city": "Milford",
                 "address": "134 Main Street",
                 "address2": null,
-                "zip": "01757"
+                "zip": "01757",
+                "lat": 42.1538,
+                "lng": -71.5258
             },
             "contact": {
                 "phone": "508-923-7104",
@@ -107625,7 +108671,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-ryan-j-matthews",
@@ -107643,7 +108690,9 @@
                 "city": "Plymouth",
                 "address": "115 Sandwich Street",
                 "address2": "2nd Floor",
-                "zip": "02360"
+                "zip": "02360",
+                "lat": 41.8734,
+                "lng": -70.6397
             },
             "contact": {
                 "phone": "508-988-8777",
@@ -107671,7 +108720,8 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "suzanne-b-matthews",
@@ -107689,7 +108739,9 @@
                 "city": "Canton",
                 "address": "776R Washington St.",
                 "address2": null,
-                "zip": "02021"
+                "zip": "02021",
+                "lat": 42.1827,
+                "lng": -71.1221
             },
             "contact": {
                 "phone": "781-828-0989",
@@ -107721,7 +108773,8 @@
                 "Insurance Defense",
                 "Land Use and Zoning",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mccarthy-law-offices",
@@ -107739,7 +108792,9 @@
                 "city": "East Boston",
                 "address": "15 Seaview Ave.",
                 "address2": null,
-                "zip": "02128"
+                "zip": "02128",
+                "lat": 42.3733,
+                "lng": -71.0155
             },
             "contact": {
                 "phone": "617-665-8171",
@@ -107764,7 +108819,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcevoy-stuntz-llp",
@@ -107782,7 +108838,9 @@
                 "city": "Concord",
                 "address": "1732 Main Street",
                 "address2": "Suite 2",
-                "zip": "01742"
+                "zip": "01742",
+                "lat": 42.4606,
+                "lng": -71.3642
             },
             "contact": {
                 "phone": "978-287-4440",
@@ -107805,7 +108863,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pierce-pierce-napolitano",
@@ -107823,7 +108882,9 @@
                 "city": "Salem",
                 "address": "Shetland Office Park",
                 "address2": "27 Congress St, Ste 301",
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-848-4773",
@@ -107855,7 +108916,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-emmanuel-v-meimaris",
@@ -107873,7 +108935,9 @@
                 "city": "Westwood",
                 "address": "355 Providence Highway",
                 "address2": null,
-                "zip": "02090"
+                "zip": "02090",
+                "lat": 42.2212,
+                "lng": -71.1994
             },
             "contact": {
                 "phone": "781-636-3636",
@@ -107894,7 +108958,8 @@
             ],
             "official_practice_area": [
                 "Immigration"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-amy-s-mello-llc",
@@ -107912,7 +108977,9 @@
                 "city": "Mattapoisett",
                 "address": "42 Main Street",
                 "address2": "P.O. Box 152",
-                "zip": "02739"
+                "zip": "02739",
+                "lat": 41.6648,
+                "lng": -70.8108
             },
             "contact": {
                 "phone": "508-504-7226",
@@ -107935,7 +109002,8 @@
             "official_practice_area": [
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "menard-lawyers-llc",
@@ -107953,7 +109021,9 @@
                 "city": "Barnstable",
                 "address": "3261 Main Street",
                 "address2": "P.O. Box 485",
-                "zip": "02630"
+                "zip": "02630",
+                "lat": 41.6966,
+                "lng": -70.2954
             },
             "contact": {
                 "phone": "508-318-5250",
@@ -107982,6 +109052,17 @@
                 "Divorce and Separation",
                 "Employment Rights",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Falmouth",
+                    "state": "MA",
+                    "zip": "02540",
+                    "address": "536 Main Street",
+                    "phone": "508-318-5250",
+                    "lat": 41.5783,
+                    "lng": -70.6251
+                }
             ]
         },
         {
@@ -108000,7 +109081,9 @@
                 "city": "Boston",
                 "address": "185 Devonshire Street",
                 "address2": "Suite 1100",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-348-0988",
@@ -108024,6 +109107,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greenfield",
+                    "state": "MA",
+                    "zip": "01301",
+                    "address": "393 Main Street",
+                    "phone": "617-348-0988",
+                    "lat": 42.6319,
+                    "lng": -72.5974
+                }
             ]
         },
         {
@@ -108042,7 +109136,9 @@
                 "city": "Saugus",
                 "address": "999 Broadway",
                 "address2": "Suite 301",
-                "zip": "01906"
+                "zip": "01906",
+                "lat": 42.4675,
+                "lng": -71.0129
             },
             "contact": {
                 "phone": "781-231-4332",
@@ -108066,7 +109162,8 @@
             ],
             "official_practice_area": [
                 "Education"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-james-a-miller-p-c",
@@ -108084,7 +109181,9 @@
                 "city": "Burlington",
                 "address": "1500 District Avenue",
                 "address2": null,
-                "zip": "01803"
+                "zip": "01803",
+                "lat": 42.506,
+                "lng": -71.2045
             },
             "contact": {
                 "phone": "508-471-3012",
@@ -108103,6 +109202,17 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Worcestor",
+                    "state": "MA",
+                    "zip": "01605",
+                    "address": "108 Grove Street, Suite 2",
+                    "phone": "(508) 471-3012",
+                    "lat": 42.2889,
+                    "lng": -71.7958
+                }
             ]
         },
         {
@@ -108121,7 +109231,9 @@
                 "city": "Billerica",
                 "address": "630 Boston Road",
                 "address2": null,
-                "zip": "01821"
+                "zip": "01821",
+                "lat": 42.5491,
+                "lng": -71.2559
             },
             "contact": {
                 "phone": "978-419-2963",
@@ -108148,7 +109260,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-sandra-serra",
@@ -108166,7 +109279,9 @@
                 "city": "Leominster",
                 "address": "P.O. Box 762",
                 "address2": null,
-                "zip": "01453"
+                "zip": "01453",
+                "lat": 42.5245,
+                "lng": -71.7722
             },
             "contact": {
                 "phone": "978-300-7365",
@@ -108188,7 +109303,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monteforte-law-p-c",
@@ -108206,7 +109322,9 @@
                 "city": "Woburn",
                 "address": "300 TradeCenter",
                 "address2": "Suite 6750",
-                "zip": "01801"
+                "zip": "01801",
+                "lat": 42.4895,
+                "lng": -71.1589
             },
             "contact": {
                 "phone": "978-622-2810",
@@ -108240,7 +109358,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-kathleen-morrissey",
@@ -108258,7 +109377,9 @@
                 "city": "Braintree",
                 "address": "25 Braintree Hill Office Park",
                 "address2": "Suite #208",
-                "zip": "02184"
+                "zip": "02184",
+                "lat": 42.2034,
+                "lng": -71.0048
             },
             "contact": {
                 "phone": "781-519-2526",
@@ -108277,7 +109398,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "louison-costello-condon-pfaff-llp",
@@ -108295,7 +109417,9 @@
                 "city": "Boston",
                 "address": "101 Summer Street",
                 "address2": "Fourth Floor",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-439-0305",
@@ -108326,7 +109450,8 @@
             "official_practice_area": [
                 "Administrative Law",
                 "State Local and Municipal Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-merril-s-chin-llc",
@@ -108344,7 +109469,9 @@
                 "city": "Peabody",
                 "address": "1 Newbury Street",
                 "address2": "Suite 303A",
-                "zip": "01960"
+                "zip": "01960",
+                "lat": 42.5326,
+                "lng": -70.9737
             },
             "contact": {
                 "phone": "978-777-1212",
@@ -108366,7 +109493,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "naumes-law-group",
@@ -108384,7 +109512,9 @@
                 "city": "Milton",
                 "address": "2 Granite Ave",
                 "address2": "#425",
-                "zip": "02186"
+                "zip": "02186",
+                "lat": 42.2396,
+                "lng": -71.0811
             },
             "contact": {
                 "phone": "617-758-1236",
@@ -108426,7 +109556,8 @@
                 "Toxic Torts",
                 "Transportation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "natoli-associates",
@@ -108444,7 +109575,9 @@
                 "city": "Taunton",
                 "address": "4 Court Street",
                 "address2": "Suite 204",
-                "zip": "02780"
+                "zip": "02780",
+                "lat": 41.9099,
+                "lng": -71.1189
             },
             "contact": {
                 "phone": "508-233-2118",
@@ -108469,7 +109602,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "neelon-international-law-llc",
@@ -108487,7 +109621,9 @@
                 "city": "Norwell",
                 "address": "200 Cordwainer Drive",
                 "address2": "Suite 201",
-                "zip": "02061"
+                "zip": "02061",
+                "lat": 42.1514,
+                "lng": -70.8214
             },
             "contact": {
                 "phone": "781-691-2808",
@@ -108510,6 +109646,17 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Marstons Mills",
+                    "state": "MA",
+                    "zip": "02648",
+                    "address": "325 Route 149",
+                    "phone": "+17816912808",
+                    "lat": 41.6704,
+                    "lng": -70.4134
+                }
             ]
         },
         {
@@ -108528,7 +109675,9 @@
                 "city": "Braintree",
                 "address": "10 Forbes Rd.",
                 "address2": "#410",
-                "zip": "02184"
+                "zip": "02184",
+                "lat": 42.2034,
+                "lng": -71.0048
             },
             "contact": {
                 "phone": "781-514-7078",
@@ -108560,6 +109709,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02136",
+                    "address": "11 Fairmount Ave., #107",
+                    "phone": "781-514-7078",
+                    "lat": 42.2529,
+                    "lng": -71.1293
+                }
             ]
         },
         {
@@ -108578,7 +109738,9 @@
                 "city": "Reading",
                 "address": "34 Salem Street",
                 "address2": "Suite 202",
-                "zip": "01867"
+                "zip": "01867",
+                "lat": 42.5333,
+                "lng": -71.1036
             },
             "contact": {
                 "phone": "781-731-1069",
@@ -108603,7 +109765,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-george-n-panas-p-c",
@@ -108621,7 +109784,9 @@
                 "city": "Dracut",
                 "address": "1141 Lakeview Ave.",
                 "address2": "1st Floor",
-                "zip": "01826"
+                "zip": "01826",
+                "lat": 42.6926,
+                "lng": -71.309
             },
             "contact": {
                 "phone": "978-454-4066",
@@ -108641,7 +109806,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "partridge-family-law-llc",
@@ -108659,7 +109825,9 @@
                 "city": "Boston",
                 "address": "745 Boylston Street",
                 "address2": "Suite 202",
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "617-665-7093",
@@ -108682,7 +109850,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "peck-law-offices",
@@ -108700,7 +109869,9 @@
                 "city": "Braintree",
                 "address": "506 Washington Street",
                 "address2": null,
-                "zip": "02184"
+                "zip": "02184",
+                "lat": 42.2034,
+                "lng": -71.0048
             },
             "contact": {
                 "phone": "781-843-2295",
@@ -108723,7 +109894,8 @@
             ],
             "official_practice_area": [
                 "Discrimination"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "george-e-pember-attorney-at-law",
@@ -108741,7 +109913,9 @@
                 "city": "Northborough",
                 "address": "2 Brigham Street",
                 "address2": null,
-                "zip": "01532"
+                "zip": "01532",
+                "lat": 42.3301,
+                "lng": -71.6352
             },
             "contact": {
                 "phone": "508-919-6448",
@@ -108774,7 +109948,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-lorenzo-perez",
@@ -108792,7 +109967,9 @@
                 "city": "Boston",
                 "address": "One Boston Place",
                 "address2": "201 Washington St., Suite 2600",
-                "zip": "02108"
+                "zip": "02108",
+                "lat": 42.3573,
+                "lng": -71.0645
             },
             "contact": {
                 "phone": "617-468-4249",
@@ -108818,7 +109995,8 @@
                 "Criminal Defense",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "edward-w-pietnik-jr-p-c",
@@ -108836,7 +110014,9 @@
                 "city": "Raynham",
                 "address": "180 Paramount Drive, Suite 3",
                 "address2": null,
-                "zip": "02767"
+                "zip": "02767",
+                "lat": 41.9386,
+                "lng": -71.0585
             },
             "contact": {
                 "phone": "508-824-2000",
@@ -108895,7 +110075,8 @@
                 "Probate",
                 "Real Estate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "general-counsel-law-llc",
@@ -108913,7 +110094,9 @@
                 "city": "Boston",
                 "address": "20 Park Plaza",
                 "address2": "#498",
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "617-758-1646",
@@ -108947,6 +110130,17 @@
                 "Employment Rights",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Sudbury",
+                    "state": "MA",
+                    "zip": "01776",
+                    "address": "27 Crystal Lake Drive",
+                    "phone": "617-784-8306",
+                    "lat": 42.3888,
+                    "lng": -71.423
+                }
             ]
         },
         {
@@ -108965,7 +110159,9 @@
                 "city": "Hingham",
                 "address": "99 Derby St",
                 "address2": "Suite 200",
-                "zip": "02043"
+                "zip": "02043",
+                "lat": 42.2158,
+                "lng": -70.8792
             },
             "contact": {
                 "phone": "617-812-7440",
@@ -108987,6 +110183,17 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02110",
+                    "address": "101 Arch Street, 8th Floor",
+                    "phone": "617-470-1558",
+                    "lat": 42.3582,
+                    "lng": -71.0541
+                }
             ]
         },
         {
@@ -109005,7 +110212,9 @@
                 "city": "Dedham",
                 "address": "30 Eastbrook Road",
                 "address2": "Suite 203",
-                "zip": "02026"
+                "zip": "02026",
+                "lat": 42.2446,
+                "lng": -71.1812
             },
             "contact": {
                 "phone": "781-613-8809",
@@ -109036,7 +110245,8 @@
                 "Estate Planning",
                 "Family Law",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reservitz-law-group",
@@ -109054,7 +110264,9 @@
                 "city": "Newton",
                 "address": "Riverside Center",
                 "address2": "275 Grove Street, Suite 2-400",
-                "zip": "02466"
+                "zip": "02466",
+                "lat": 42.3451,
+                "lng": -71.2472
             },
             "contact": {
                 "phone": "833-687-3051",
@@ -109091,6 +110303,17 @@
                 "Trusts",
                 "Wills",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02114",
+                    "address": "76 Canal Street",
+                    "phone": "+18442387004",
+                    "lat": 42.3623,
+                    "lng": -71.0673
+                }
             ]
         },
         {
@@ -109109,7 +110332,9 @@
                 "city": "Charlestown",
                 "address": "C2 Shipway Pl #C2",
                 "address2": null,
-                "zip": "02129"
+                "zip": "02129",
+                "lat": 42.3817,
+                "lng": -71.0641
             },
             "contact": {
                 "phone": "617-812-1643",
@@ -109138,7 +110363,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-rosario-mario-f-rizzo",
@@ -109156,7 +110382,9 @@
                 "city": "Concord",
                 "address": "801 Main Street",
                 "address2": "Suite 2",
-                "zip": "01742"
+                "zip": "01742",
+                "lat": 42.4606,
+                "lng": -71.3642
             },
             "contact": {
                 "phone": "978-371-2500",
@@ -109201,7 +110429,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-jeffrey-l-roelofs-p-c",
@@ -109219,7 +110448,9 @@
                 "city": "Newburyport",
                 "address": "44 Merrimac Street",
                 "address2": null,
-                "zip": "01950"
+                "zip": "01950",
+                "lat": 42.8142,
+                "lng": -70.8745
             },
             "contact": {
                 "phone": "978-462-7600",
@@ -109240,7 +110471,8 @@
             "official_practice_area": [
                 "Environmental Law",
                 "Land Use and Zoning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-f-rossi-attorney-at-law",
@@ -109258,7 +110490,9 @@
                 "city": "Boston",
                 "address": "101 Federal Street",
                 "address2": "Suite 1900",
-                "zip": "02110"
+                "zip": "02110",
+                "lat": 42.3582,
+                "lng": -71.0541
             },
             "contact": {
                 "phone": "617-812-9775",
@@ -109294,7 +110528,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rousseau-marino-p-c",
@@ -109312,7 +110547,9 @@
                 "city": "Sturbridge",
                 "address": "49 Main Street",
                 "address2": null,
-                "zip": "01566"
+                "zip": "01566",
+                "lat": 42.1016,
+                "lng": -72.0798
             },
             "contact": {
                 "phone": "508-347-5669",
@@ -109334,6 +110571,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Worcester",
+                    "state": "MA",
+                    "zip": "01608",
+                    "address": "446 Main Street, 11th Floor",
+                    "phone": "(508) 347-5669",
+                    "lat": 42.2586,
+                    "lng": -71.803
+                }
             ]
         },
         {
@@ -109352,7 +110600,9 @@
                 "city": "Wellesley",
                 "address": "27 Mica Lane",
                 "address2": "Suite 101",
-                "zip": "02481"
+                "zip": "02481",
+                "lat": 42.3093,
+                "lng": -71.2724
             },
             "contact": {
                 "phone": "781-489-3759",
@@ -109374,7 +110624,8 @@
             "official_practice_area": [
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "berid-schutzbank-llc",
@@ -109392,7 +110643,9 @@
                 "city": "North Andover",
                 "address": "800 Turnpike Street",
                 "address2": "#304",
-                "zip": "01845"
+                "zip": "01845",
+                "lat": 42.673,
+                "lng": -71.088
             },
             "contact": {
                 "phone": "978-419-9362",
@@ -109419,7 +110672,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-ira-c-yellin-llc",
@@ -109437,7 +110691,9 @@
                 "city": "Franklin",
                 "address": "13 Main Street",
                 "address2": "Suite 4A",
-                "zip": "02038"
+                "zip": "02038",
+                "lat": 42.087,
+                "lng": -71.4078
             },
             "contact": {
                 "phone": "508-570-4111",
@@ -109491,7 +110747,8 @@
                 "Professional Malpractice",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "brody-hardoon-perkins-kesten-llp",
@@ -109509,7 +110766,9 @@
                 "city": "Boston",
                 "address": "699 Boylston Street",
                 "address2": null,
-                "zip": "02116"
+                "zip": "02116",
+                "lat": 42.3506,
+                "lng": -71.0769
             },
             "contact": {
                 "phone": "617-880-7100",
@@ -109539,7 +110798,8 @@
             ],
             "official_practice_area": [
                 "Aviation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-daniel-r-seigenberg",
@@ -109557,7 +110817,9 @@
                 "city": "Wrentham",
                 "address": "155 South Street",
                 "address2": null,
-                "zip": "02093"
+                "zip": "02093",
+                "lat": 42.0553,
+                "lng": -71.3716
             },
             "contact": {
                 "phone": "508-384-0080",
@@ -109579,7 +110841,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sheridan-law",
@@ -109597,7 +110860,9 @@
                 "city": "Medway",
                 "address": "149 Main Street",
                 "address2": "Suite 1",
-                "zip": "02053"
+                "zip": "02053",
+                "lat": 42.1529,
+                "lng": -71.427
             },
             "contact": {
                 "phone": "508-205-9019",
@@ -109619,7 +110884,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-sam-b-shiff",
@@ -109637,7 +110903,9 @@
                 "city": "Brockton",
                 "address": "1342 Belmont Street",
                 "address2": "Suite 304",
-                "zip": "02301"
+                "zip": "02301",
+                "lat": 42.0785,
+                "lng": -71.0384
             },
             "contact": {
                 "phone": "781-691-3787",
@@ -109669,7 +110937,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-a-shuman-associates-p-c",
@@ -109687,7 +110956,9 @@
                 "city": "Sharon",
                 "address": "10 East Chestnut Street",
                 "address2": "Suite A1",
-                "zip": "02067"
+                "zip": "02067",
+                "lat": 42.1111,
+                "lng": -71.1858
             },
             "contact": {
                 "phone": "781-793-1111",
@@ -109708,6 +110979,26 @@
             ],
             "official_practice_area": [
                 "Nursing Home Abuse"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02110",
+                    "address": "30 Rowes Wharf, Suite 530",
+                    "phone": "(781) 793-1111",
+                    "lat": 42.3582,
+                    "lng": -71.0541
+                },
+                {
+                    "city": "Providence",
+                    "state": "RI",
+                    "zip": "02903",
+                    "address": "Providence Office, 369 South Main Street",
+                    "phone": "(781) 793-1111",
+                    "lat": 41.8182,
+                    "lng": -71.4097
+                }
             ]
         },
         {
@@ -109726,7 +111017,9 @@
                 "city": "Fall River",
                 "address": "469 Locust Street",
                 "address2": null,
-                "zip": "02720"
+                "zip": "02720",
+                "lat": 41.7316,
+                "lng": -71.109
             },
             "contact": {
                 "phone": "508-504-9678",
@@ -109748,7 +111041,8 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-shane-w-surrette",
@@ -109766,7 +111060,9 @@
                 "city": "Worcester",
                 "address": "51 Union St",
                 "address2": "#324",
-                "zip": "01608"
+                "zip": "01608",
+                "lat": 42.2586,
+                "lng": -71.803
             },
             "contact": {
                 "phone": "774-847-2005",
@@ -109797,7 +111093,8 @@
                 "Drug Crime",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "swartz-law-llc",
@@ -109815,7 +111112,9 @@
                 "city": "Boston",
                 "address": "100 State Street",
                 "address2": "Ste. 900",
-                "zip": "02109"
+                "zip": "02109",
+                "lat": 42.3632,
+                "lng": -71.0538
             },
             "contact": {
                 "phone": "617-892-4275",
@@ -109859,6 +111158,17 @@
                 "Family Law",
                 "Sexual Harassment",
                 "Wage and Hour"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Overland Land",
+                    "state": "KS",
+                    "zip": "66213",
+                    "address": "12022 Blue Valley Parkway, Suite 505",
+                    "phone": "617-892-4275",
+                    "lat": 38.8984,
+                    "lng": -94.705
+                }
             ]
         },
         {
@@ -109877,7 +111187,9 @@
                 "city": "Winchendon",
                 "address": "70 Pleasant Street",
                 "address2": null,
-                "zip": "01475"
+                "zip": "01475",
+                "lat": 42.6609,
+                "lng": -72.0489
             },
             "contact": {
                 "phone": "978-788-2927",
@@ -109902,7 +111214,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-lefteris-k-travayiakis-p-c",
@@ -109920,7 +111233,9 @@
                 "city": "West Roxbury",
                 "address": "1842 Centre St",
                 "address2": "#200",
-                "zip": "02132"
+                "zip": "02132",
+                "lat": 42.2793,
+                "lng": -71.1659
             },
             "contact": {
                 "phone": "617-657-2333",
@@ -109953,7 +111268,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mchugh-law",
@@ -109971,7 +111287,9 @@
                 "city": "Chelmsford",
                 "address": "2 Chelmsford Street",
                 "address2": null,
-                "zip": "01824"
+                "zip": "01824",
+                "lat": 42.5878,
+                "lng": -71.3518
             },
             "contact": {
                 "phone": "978-419-9425",
@@ -109995,7 +111313,8 @@
             ],
             "official_practice_area": [
                 "Estate Planning"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stern-keilty-wall-llc",
@@ -110013,7 +111332,9 @@
                 "city": "Salem",
                 "address": "70 Washington St.",
                 "address2": "Unit 405B",
-                "zip": "01970"
+                "zip": "01970",
+                "lat": 42.5147,
+                "lng": -70.9075
             },
             "contact": {
                 "phone": "978-219-9932",
@@ -110040,7 +111361,8 @@
                 "Estate Planning",
                 "Probate",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-judith-a-wayne-and-associates",
@@ -110058,7 +111380,9 @@
                 "city": "Lynn",
                 "address": "330 Lynnway",
                 "address2": "Clock Tower Business Center, Suite 470",
-                "zip": "09101"
+                "zip": "09101",
+                "lat": 0.0,
+                "lng": 0.0
             },
             "contact": {
                 "phone": "781-691-9104",
@@ -110077,6 +111401,17 @@
             ],
             "official_practice_area": [
                 "Divorce and Separation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Marblehead",
+                    "state": "MA",
+                    "zip": "01945",
+                    "address": "57 Auburndale Road",
+                    "phone": "(781) 691-9104",
+                    "lat": 42.5002,
+                    "lng": -70.8649
+                }
             ]
         },
         {
@@ -110095,7 +111430,9 @@
                 "city": "West Springfield",
                 "address": "16 South Boulevard",
                 "address2": null,
-                "zip": "01089"
+                "zip": "01089",
+                "lat": 42.1257,
+                "lng": -72.6417
             },
             "contact": {
                 "phone": "413-789-1003",
@@ -110115,6 +111452,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lee",
+                    "state": "MA",
+                    "zip": "01238",
+                    "address": "21 High St., Suite D.",
+                    "phone": "413-693-2632",
+                    "lat": 42.288,
+                    "lng": -73.2069
+                }
             ]
         },
         {
@@ -110133,7 +111481,9 @@
                 "city": "Carlisle",
                 "address": "79 Chestnut Lane",
                 "address2": null,
-                "zip": "01741"
+                "zip": "01741",
+                "lat": 42.5321,
+                "lng": -71.3525
             },
             "contact": {
                 "phone": "888-340-7432",
@@ -110169,6 +111519,17 @@
                 "Family Law",
                 "Litigation and Appeals",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Albuquerque",
+                    "state": "NM",
+                    "zip": "87102",
+                    "address": "500 Marquette Ave NW, Suite 1200",
+                    "phone": "+18883407432",
+                    "lat": 35.0783,
+                    "lng": -106.6455
+                }
             ]
         },
         {
@@ -110187,7 +111548,9 @@
                 "city": "Northborough",
                 "address": "290 W. Main Street",
                 "address2": "Suite 7",
-                "zip": "01532"
+                "zip": "01532",
+                "lat": 42.3301,
+                "lng": -71.6352
             },
             "contact": {
                 "phone": "508-986-9406",
@@ -110221,7 +111584,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Same Sex"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "betcher-yunes-llp-attorneys-at-law",
@@ -110239,7 +111603,9 @@
                 "city": "Lexington",
                 "address": "70 Westview St.",
                 "address2": "Suite 220",
-                "zip": "02421"
+                "zip": "02421",
+                "lat": 42.443,
+                "lng": -71.2349
             },
             "contact": {
                 "phone": "781-674-2800",
@@ -110259,7 +111625,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-david-b-zirlen",
@@ -110277,7 +111644,9 @@
                 "city": "Natick",
                 "address": "20 Main Street",
                 "address2": "Suite 302",
-                "zip": "01760"
+                "zip": "01760",
+                "lat": 42.2872,
+                "lng": -71.3523
             },
             "contact": {
                 "phone": "508-988-8547",
@@ -110319,7 +111688,8 @@
                 "Personal Injury",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

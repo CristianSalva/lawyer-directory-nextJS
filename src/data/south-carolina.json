@@ -48932,7 +48932,9 @@
                 "city": "Camden",
                 "address": "708 Lafayette Avenue",
                 "address2": "Camden, SC 29020, P.O. Drawer 100",
-                "zip": "29021"
+                "zip": "29021",
+                "lat": 34.56,
+                "lng": -80.58
             },
             "contact": {
                 "phone": "803-432-6034",
@@ -48954,6 +48956,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Lancaster",
+                    "state": "SC",
+                    "zip": "29721",
+                    "address": "104 North Catawba Street, Lancaster, SC 29720, P.O. Box 1778",
+                    "phone": "(803) 432-6034",
+                    "lat": 34.7206,
+                    "lng": -80.7711
+                }
             ]
         },
         {
@@ -48972,7 +48985,9 @@
                 "city": "Sumter",
                 "address": "17 East Calhoun Street",
                 "address2": "PO Box 2038",
-                "zip": "29150"
+                "zip": "29150",
+                "lat": 33.8746,
+                "lng": -80.3541
             },
             "contact": {
                 "phone": "803-775-1263",
@@ -49007,7 +49022,8 @@
                 "Social Security",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "stewart-law-offices",
@@ -49025,7 +49041,9 @@
                 "city": "Rock Hill",
                 "address": "1242 Ebenezer Rd",
                 "address2": null,
-                "zip": "29732"
+                "zip": "29732",
+                "lat": 34.9659,
+                "lng": -81.0776
             },
             "contact": {
                 "phone": "803-828-5493",
@@ -49069,6 +49087,26 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28208",
+                    "address": "2427 Tuckaseegee Rd, Suite A",
+                    "phone": "803-828-5493",
+                    "lat": 35.2359,
+                    "lng": -80.9085
+                },
+                {
+                    "city": "Spartanburg",
+                    "state": "SC",
+                    "zip": "29302",
+                    "address": "409 S Pine St.",
+                    "phone": "803-828-5493",
+                    "lat": 34.8847,
+                    "lng": -81.8505
+                }
             ]
         },
         {
@@ -49087,7 +49125,9 @@
                 "city": "Mount Pleasant",
                 "address": "858 W. Lowcountry Blvd.",
                 "address2": "Ste. 101",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-412-9507",
@@ -49115,7 +49155,8 @@
                 "Child Support",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "barker-family-law",
@@ -49133,7 +49174,9 @@
                 "city": "Mount Pleasant",
                 "address": "1051 Chuck Dawley Boulevard",
                 "address2": null,
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-640-0532",
@@ -49171,7 +49214,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "drennan-law-firm",
@@ -49189,7 +49233,9 @@
                 "city": "Mt Pleasant",
                 "address": "900 bowman Rd #304",
                 "address2": null,
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-969-2711",
@@ -49232,6 +49278,17 @@
                 "Premises Liability",
                 "Traffic Ticket",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Goose Creek",
+                    "state": "SC",
+                    "zip": "29445",
+                    "address": "100 Crowfield Blvd",
+                    "phone": "+18439692711",
+                    "lat": 32.9891,
+                    "lng": -79.9934
+                }
             ]
         },
         {
@@ -49250,7 +49307,9 @@
                 "city": "Conway",
                 "address": "1200 Main St.",
                 "address2": null,
-                "zip": "29526"
+                "zip": "29526",
+                "lat": 33.8702,
+                "lng": -78.9848
             },
             "contact": {
                 "phone": "843-248-4321",
@@ -49269,7 +49328,8 @@
             ],
             "official_practice_area": [
                 "ADR Arbitration and Mediation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bernstein-bernstein-p-a",
@@ -49287,7 +49347,9 @@
                 "city": "Mt. Pleasant",
                 "address": "1156 Bowman Road",
                 "address2": "Suite 200",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-972-7809",
@@ -49312,7 +49374,8 @@
                 "Business and Commercial Law",
                 "Construction",
                 "Debtor and Creditor"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bice-law-llc",
@@ -49330,7 +49393,9 @@
                 "city": "Fort Mill",
                 "address": "406 Tom Hall St",
                 "address2": null,
-                "zip": "29715"
+                "zip": "29715",
+                "lat": 35.0226,
+                "lng": -80.9262
             },
             "contact": {
                 "phone": "803-639-8777",
@@ -49372,6 +49437,26 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rock Hill",
+                    "state": "SC",
+                    "zip": "29732",
+                    "address": "2237 Celanese Rd",
+                    "phone": "803-630-5144",
+                    "lat": 34.9659,
+                    "lng": -81.0776
+                },
+                {
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "zip": "28210",
+                    "address": "6000 Fairview Rd #1200",
+                    "phone": "704-243-8778",
+                    "lat": 35.131,
+                    "lng": -80.8512
+                }
             ]
         },
         {
@@ -49390,7 +49475,9 @@
                 "city": "Greenville",
                 "address": "3453 Pelham Road",
                 "address2": "Suite 205",
-                "zip": "29615"
+                "zip": "29615",
+                "lat": 34.8598,
+                "lng": -82.294
             },
             "contact": {
                 "phone": "910-489-2178",
@@ -49413,7 +49500,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rosen-hagood",
@@ -49431,7 +49519,9 @@
                 "city": "Charleston",
                 "address": "40 Calhoun St",
                 "address2": "Suite 450",
-                "zip": "29401"
+                "zip": "29401",
+                "lat": 32.7776,
+                "lng": -79.9419
             },
             "contact": {
                 "phone": "843-577-6726",
@@ -49462,7 +49552,8 @@
             "official_practice_area": [
                 "Bad Faith Insurance",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bleecker-family-law",
@@ -49480,7 +49571,9 @@
                 "city": "Charleston",
                 "address": "519 Savannah Highway",
                 "address2": null,
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "843-969-2373",
@@ -49505,7 +49598,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bluestein-johnson-burke-llc",
@@ -49523,7 +49617,9 @@
                 "city": "Mt. Pleasant",
                 "address": "1024 eWall Street",
                 "address2": "Suite 101",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-571-7161",
@@ -49546,7 +49642,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bluestein-law-firm-p-a",
@@ -49564,7 +49661,9 @@
                 "city": "Mt. Pleasant",
                 "address": "266 West Coleman Blvd.",
                 "address2": "Suite 103",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-577-3092",
@@ -49632,6 +49731,17 @@
                 "Personal Injury",
                 "Real Estate",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Myrtle Beach",
+                    "state": "SC",
+                    "zip": "29577",
+                    "address": "Grand Strand Business Center, 1293 Professional Drive",
+                    "phone": "(843) 577-3092",
+                    "lat": 33.6981,
+                    "lng": -78.9033
+                }
             ]
         },
         {
@@ -49650,7 +49760,9 @@
                 "city": "Mt. Pleasant",
                 "address": "266 W. Coleman Boulevard",
                 "address2": "Suite 205",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-769-0311",
@@ -49680,7 +49792,8 @@
                 "Collaborative Law",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bluestein-attorneys",
@@ -49698,7 +49811,9 @@
                 "city": "Columbia",
                 "address": "1614 Taylor St.",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-904-7494",
@@ -49732,7 +49847,8 @@
                 "Car Accidents",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rogers-patrick-westbrook-brickman-llc",
@@ -49750,7 +49866,9 @@
                 "city": "Mount Pleasant",
                 "address": "1037 Chuck Dawley Boulevard",
                 "address2": "Building A, P.O. Box 1007",
-                "zip": "29465"
+                "zip": "29465",
+                "lat": 32.7939,
+                "lng": -79.8628
             },
             "contact": {
                 "phone": "843-779-2161",
@@ -49786,6 +49904,17 @@
             "official_practice_area": [
                 "Asbestos Mesothelioma",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29402",
+                    "address": "174 East Bay Street, P.O. Box 879",
+                    "phone": "+18438233199",
+                    "lat": 32.7765,
+                    "lng": -79.9312
+                }
             ]
         },
         {
@@ -49804,7 +49933,9 @@
                 "city": "Florence",
                 "address": "181 East Evans Street",
                 "address2": "Suite 409",
-                "zip": "29506"
+                "zip": "29506",
+                "lat": 34.1918,
+                "lng": -79.6415
             },
             "contact": {
                 "phone": "843-669-8787",
@@ -49834,7 +49965,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "whetstone-perkins-fulda-llc",
@@ -49852,7 +49984,9 @@
                 "city": "Columbia",
                 "address": "1303 Blanding St.",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-973-7207",
@@ -49884,6 +50018,17 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Kingstree",
+                    "state": "SC",
+                    "zip": "29556",
+                    "address": "112 N. Jackson St.",
+                    "phone": "+18039738471",
+                    "lat": 33.685,
+                    "lng": -79.7781
+                }
             ]
         },
         {
@@ -49902,7 +50047,9 @@
                 "city": "Mount Pleasant",
                 "address": "1501 Belle Isle Avenue",
                 "address2": "Suite 110",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-800-8663",
@@ -49956,6 +50103,17 @@
                 "Wills",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Myrtle Beach",
+                    "state": "SC",
+                    "zip": "29577",
+                    "address": "1341 44th Ave N, Suite 200",
+                    "phone": "843-283-2495",
+                    "lat": 33.6981,
+                    "lng": -78.9033
+                }
             ]
         },
         {
@@ -49974,7 +50132,9 @@
                 "city": "Greenville",
                 "address": "650 E Washington St",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-6015",
@@ -50007,7 +50167,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cavanaugh-thickens-llc",
@@ -50025,7 +50186,9 @@
                 "city": "Columbia",
                 "address": "1717 Marion Street",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-973-0557",
@@ -50072,6 +50235,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Mt Pleasant",
+                    "state": "SC",
+                    "zip": "29464",
+                    "address": "1127 Queensborough Blvd, #102",
+                    "phone": "+18038888411",
+                    "lat": 32.8215,
+                    "lng": -79.8524
+                }
             ]
         },
         {
@@ -50090,7 +50264,9 @@
                 "city": "Lexington",
                 "address": "200 East Main Street",
                 "address2": null,
-                "zip": "29072"
+                "zip": "29072",
+                "lat": 33.9883,
+                "lng": -81.2837
             },
             "contact": {
                 "phone": "803-359-9000",
@@ -50115,7 +50291,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "winslow-law-llc",
@@ -50133,7 +50310,9 @@
                 "city": "Pawleys Island",
                 "address": "11019 Ocean Hwy",
                 "address2": null,
-                "zip": "29585"
+                "zip": "29585",
+                "lat": 33.4627,
+                "lng": -79.1148
             },
             "contact": {
                 "phone": "843-214-2387",
@@ -50167,7 +50346,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maguire-law-firm",
@@ -50185,7 +50365,9 @@
                 "city": "Myrtle Beach",
                 "address": "1600 North Oak Street",
                 "address2": "Suite B",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": "843-733-7009",
@@ -50213,7 +50395,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mcgowan-hood-felder-phillips-llc",
@@ -50231,7 +50414,9 @@
                 "city": "Columbia",
                 "address": "1517 Hampton St.",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-999-4120",
@@ -50284,6 +50469,17 @@
                 "Sexual Abuse",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rock Hill",
+                    "state": "SC",
+                    "zip": "29732",
+                    "address": "1539 Health Care Drive",
+                    "phone": "+18039994091",
+                    "lat": 34.9659,
+                    "lng": -81.0776
+                }
             ]
         },
         {
@@ -50302,7 +50498,9 @@
                 "city": "Anderson",
                 "address": "2124 Highway 81 North",
                 "address2": null,
-                "zip": "29621"
+                "zip": "29621",
+                "lat": 34.4909,
+                "lng": -82.6086
             },
             "contact": {
                 "phone": "864-642-2800",
@@ -50332,7 +50530,8 @@
                 "Personal Injury",
                 "Truck Accident",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "burnside-law-firm-llc",
@@ -50350,7 +50549,9 @@
                 "city": "West Columbia",
                 "address": "1538 Sunset Blvd",
                 "address2": "Suite A",
-                "zip": "29169"
+                "zip": "29169",
+                "lat": 33.991,
+                "lng": -81.1009
             },
             "contact": {
                 "phone": "803-746-8283",
@@ -50382,7 +50583,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "lanier-burroughs",
@@ -50400,7 +50602,9 @@
                 "city": "Orangeburg",
                 "address": "1325 St. Matthews Road",
                 "address2": null,
-                "zip": "29115"
+                "zip": "29115",
+                "lat": 33.4863,
+                "lng": -80.8739
             },
             "contact": {
                 "phone": "803-988-9115",
@@ -50463,7 +50667,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "butler-law",
@@ -50481,7 +50686,9 @@
                 "city": "Myrtle Beach",
                 "address": "4420 Oleander Drive",
                 "address2": "Suite 203",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": "843-213-6343",
@@ -50509,7 +50716,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "curtis-croft-l-l-c",
@@ -50527,7 +50735,9 @@
                 "city": "Sumter",
                 "address": "325 W. Calhoun Street",
                 "address2": null,
-                "zip": "29150"
+                "zip": "29150",
+                "lat": 33.8746,
+                "lng": -80.3541
             },
             "contact": {
                 "phone": "803-778-7404",
@@ -50563,6 +50773,17 @@
                 "Real Estate",
                 "Tax Law",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Cayce",
+                    "state": "SC",
+                    "zip": "29033",
+                    "address": "1524 Lafayette Ave",
+                    "phone": "803-778-7404",
+                    "lat": 33.9597,
+                    "lng": -81.0601
+                }
             ]
         },
         {
@@ -50581,7 +50802,9 @@
                 "city": "Myrtle Beach",
                 "address": "4603 Oleander Drive",
                 "address2": "Suite 10",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": "866-623-7040",
@@ -50617,7 +50840,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cash-law-firm-llc",
@@ -50635,7 +50859,9 @@
                 "city": "Mount Pleasant",
                 "address": "755 Johnnie Dodds",
                 "address2": "Suite 100",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": null,
@@ -50648,7 +50874,8 @@
             "attorneys": [
                 "Alex B. Cash"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "christian-christian",
@@ -50666,7 +50893,9 @@
                 "city": "Greenville",
                 "address": "1007 E. Washington Street",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-696-2198",
@@ -50691,7 +50920,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-clardy-law-firm-p-a",
@@ -50709,7 +50939,9 @@
                 "city": "Greenville",
                 "address": "872 S Pleasantburg Dr",
                 "address2": null,
-                "zip": "29607"
+                "zip": "29607",
+                "lat": 34.8038,
+                "lng": -82.3215
             },
             "contact": {
                 "phone": "864-233-8888",
@@ -50739,7 +50971,8 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-lauren-clark-l-l-c",
@@ -50757,7 +50990,9 @@
                 "city": "Charleston",
                 "address": "925 D Wappoo Rd.",
                 "address2": null,
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "803-386-8868",
@@ -50789,7 +51024,8 @@
                 "Debtor and Creditor",
                 "Foreclosure and Alternatives",
                 "Wage and Hour"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "charlie-condon-law-firm-llc",
@@ -50807,7 +51043,9 @@
                 "city": "Mount Pleasant",
                 "address": "880 Johnnie Dodds Boulevard",
                 "address2": "Suite 1",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-352-3148",
@@ -50840,7 +51078,8 @@
                 "DUI and DWI",
                 "Drug Crime",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "koon-cook-walters",
@@ -50858,7 +51097,9 @@
                 "city": "Columbia",
                 "address": "2016 Gadsden St.",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-973-7564",
@@ -50893,7 +51134,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-hughes-cooper-p-c",
@@ -50911,7 +51153,9 @@
                 "city": "Mount Pleasant",
                 "address": "1476 Ben Sawyer Blvd.",
                 "address2": "Ste. 7",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-883-9099",
@@ -50929,7 +51173,8 @@
             ],
             "official_practice_area": [
                 "Admiralty and Maritime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cyrus-corbett-attorney-at-law",
@@ -50947,7 +51192,9 @@
                 "city": "Chester",
                 "address": "813 Davis Dr",
                 "address2": null,
-                "zip": "29706"
+                "zip": "29706",
+                "lat": 34.6986,
+                "lng": -81.2585
             },
             "contact": {
                 "phone": "803-999-7940",
@@ -50973,7 +51220,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "parham-law-firm-llc",
@@ -50991,7 +51239,9 @@
                 "city": "Florence",
                 "address": "541 W Evans St",
                 "address2": null,
-                "zip": "29501"
+                "zip": "29501",
+                "lat": 34.2134,
+                "lng": -79.8206
             },
             "contact": {
                 "phone": "843-407-7757",
@@ -51044,6 +51294,17 @@
                 "Traffic Ticket",
                 "Truck Accident",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Georgetown",
+                    "state": "SC",
+                    "zip": "29440",
+                    "address": "402 Church Street",
+                    "phone": "843-407-7757",
+                    "lat": 33.387,
+                    "lng": -79.3814
+                }
             ]
         },
         {
@@ -51062,7 +51323,9 @@
                 "city": "Greenville",
                 "address": "143 Ware St",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-999-2019",
@@ -51085,7 +51348,8 @@
             "official_practice_area": [
                 "Family Law",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-perry-b-deloach-jr",
@@ -51103,7 +51367,9 @@
                 "city": "Greenville",
                 "address": "1225 South Church Street",
                 "address2": null,
-                "zip": "29605"
+                "zip": "29605",
+                "lat": 34.7771,
+                "lng": -82.3776
             },
             "contact": {
                 "phone": "864-520-5575",
@@ -51126,7 +51392,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-offices-of-r-scott-dover",
@@ -51144,7 +51411,9 @@
                 "city": "Pickens",
                 "address": "221 Hampton Avenue",
                 "address2": null,
-                "zip": "29671"
+                "zip": "29671",
+                "lat": 34.9349,
+                "lng": -82.7133
             },
             "contact": {
                 "phone": "864-693-1653",
@@ -51186,7 +51455,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "taylor-law-firm-llc",
@@ -51204,7 +51474,9 @@
                 "city": "West Columbia",
                 "address": "3227 Sunset Boulevard",
                 "address2": "Building E, Suite 101",
-                "zip": "29169"
+                "zip": "29169",
+                "lat": 33.991,
+                "lng": -81.1009
             },
             "contact": {
                 "phone": "803-926-2205",
@@ -51228,7 +51500,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "duffy-young-llc",
@@ -51246,7 +51519,9 @@
                 "city": "Charleston",
                 "address": "96 Broad Street",
                 "address2": null,
-                "zip": "29401"
+                "zip": "29401",
+                "lat": 32.7776,
+                "lng": -79.9419
             },
             "contact": {
                 "phone": "843-790-7534",
@@ -51280,7 +51555,8 @@
                 "Litigation and Appeals",
                 "Medical Malpractice",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pierce-sloan-kennedy-early-llc",
@@ -51298,7 +51574,9 @@
                 "city": "Charleston",
                 "address": "321 East Bay Street",
                 "address2": null,
-                "zip": "29401"
+                "zip": "29401",
+                "lat": 32.7776,
+                "lng": -79.9419
             },
             "contact": {
                 "phone": "888-570-7339",
@@ -51335,7 +51613,8 @@
                 "Brain Injury",
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ellis-hinton-llc",
@@ -51353,7 +51632,9 @@
                 "city": "Greenville",
                 "address": "21 Augusta Street",
                 "address2": "Suite C",
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-693-1795",
@@ -51380,7 +51661,8 @@
                 "Criminal Defense",
                 "Drug Crime",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "eppes-plumblee-p-a",
@@ -51398,7 +51680,9 @@
                 "city": "Greenville",
                 "address": "1225 S. Church Street",
                 "address2": null,
-                "zip": "29605"
+                "zip": "29605",
+                "lat": 34.7771,
+                "lng": -82.3776
             },
             "contact": {
                 "phone": "864-693-1726",
@@ -51428,7 +51712,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fayssoux-landis-attorneys-at-law-p-a",
@@ -51446,7 +51731,9 @@
                 "city": "Greenville",
                 "address": "209 E Washington St",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-7157",
@@ -51473,7 +51760,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kinard-law-group",
@@ -51491,7 +51779,9 @@
                 "city": "Lexington",
                 "address": "808 South Lake Drive",
                 "address2": null,
-                "zip": "29072"
+                "zip": "29072",
+                "lat": 33.9883,
+                "lng": -81.2837
             },
             "contact": {
                 "phone": "855-787-3926",
@@ -51517,7 +51807,8 @@
                 "Criminal Defense",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "henderson-henderson-llc",
@@ -51535,7 +51826,9 @@
                 "city": "Charleston",
                 "address": "578-A East Bay Street",
                 "address2": null,
-                "zip": "29403"
+                "zip": "29403",
+                "lat": 32.8002,
+                "lng": -79.9428
             },
             "contact": {
                 "phone": "843-969-2641",
@@ -51566,7 +51859,8 @@
                 "Business and Commercial Law",
                 "DUI and DWI",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harris-gasser-llc",
@@ -51584,7 +51878,9 @@
                 "city": "Columbia",
                 "address": "1529 Laurel Street",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-779-7080",
@@ -51603,7 +51899,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Federal and White Collar Crimes"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopher-j-geier-attorney-at-law-llc",
@@ -51621,7 +51918,9 @@
                 "city": "Beaufort",
                 "address": "2048 Pearl Street",
                 "address2": null,
-                "zip": "29902"
+                "zip": "29902",
+                "lat": 32.3732,
+                "lng": -80.7006
             },
             "contact": {
                 "phone": "843-986-9449",
@@ -51654,7 +51953,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "cosmich-simmons-brown-pllc",
@@ -51672,7 +51972,9 @@
                 "city": "Columbia",
                 "address": "701 Gervais Street",
                 "address2": "Suite 150, PO Box 109",
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "601-863-2100",
@@ -51694,6 +51996,71 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Covington",
+                    "state": "KY",
+                    "zip": "41011",
+                    "address": "Technology Towers Office Building II, 100 East RiverCenter Boulevard, Suite 480",
+                    "phone": "601-863-2100",
+                    "lat": 39.0652,
+                    "lng": -84.5295
+                },
+                {
+                    "city": "Hattiesburg",
+                    "state": "MS",
+                    "zip": "39402",
+                    "address": "34 Millbranch Road, Suite #70",
+                    "phone": "601-863-2100",
+                    "lat": 31.3451,
+                    "lng": -89.4127
+                },
+                {
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "zip": "70130",
+                    "address": "650 Poydras Street, Suite 2215",
+                    "phone": "601-863-2100",
+                    "lat": 29.9388,
+                    "lng": -90.0724
+                },
+                {
+                    "city": "St Louis",
+                    "state": "MO",
+                    "zip": "63110",
+                    "address": "4220 Duncan Ave., Suite 201",
+                    "phone": "601-863-2100",
+                    "lat": 38.6266,
+                    "lng": -90.2694
+                },
+                {
+                    "city": "Grand Rapids",
+                    "state": "MI",
+                    "zip": "49544",
+                    "address": "1950 Waldorf Street NW, Suite 200",
+                    "phone": "601-863-2100",
+                    "lat": 43.0512,
+                    "lng": -85.7331
+                },
+                {
+                    "city": "Scottsdale",
+                    "state": "AZ",
+                    "zip": "85258",
+                    "address": "8140 North Hayden Road, Suite H-110",
+                    "phone": "601-863-2100",
+                    "lat": 33.5605,
+                    "lng": -111.886
+                },
+                {
+                    "city": "Novato",
+                    "state": "CA",
+                    "zip": "94945",
+                    "address": "7250 Redwood Blvd., Suite 300",
+                    "phone": "601-863-2100",
+                    "lat": 38.1311,
+                    "lng": -122.5528
+                }
             ]
         },
         {
@@ -51712,7 +52079,9 @@
                 "city": "Greenville",
                 "address": "1212 Haywood Road",
                 "address2": "Suite 400A",
-                "zip": "29615"
+                "zip": "29615",
+                "lat": 34.8598,
+                "lng": -82.294
             },
             "contact": {
                 "phone": "864-241-2883",
@@ -51729,7 +52098,8 @@
             ],
             "official_practice_area": [
                 "Adoption"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "grooms-law-firm",
@@ -51747,7 +52117,9 @@
                 "city": "Charleston",
                 "address": "4 Carriage Lane",
                 "address2": "Suite 301",
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "843-790-7732",
@@ -51778,7 +52150,8 @@
                 "Personal Injury",
                 "Premises Liability",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-rick-hall-law-firm",
@@ -51796,7 +52169,9 @@
                 "city": "Lexington",
                 "address": "301 Gibson Rd.",
                 "address2": null,
-                "zip": "29072"
+                "zip": "29072",
+                "lat": 33.9883,
+                "lng": -81.2837
             },
             "contact": {
                 "phone": "803-973-8454",
@@ -51822,7 +52197,8 @@
             "official_practice_area": [
                 "Personal Injury",
                 "Truck Accident"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-jonathan-m-harvey",
@@ -51840,7 +52216,9 @@
                 "city": "Columbia",
                 "address": "1701 Richland Street",
                 "address2": null,
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-779-3363",
@@ -51857,7 +52235,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "john-price-law-firm-llc",
@@ -51875,7 +52254,9 @@
                 "city": "Summerville",
                 "address": "307 Old Trolley Road",
                 "address2": null,
-                "zip": "29485"
+                "zip": "29485",
+                "lat": 32.9479,
+                "lng": -80.1892
             },
             "contact": {
                 "phone": "843-552-6011",
@@ -51903,6 +52284,17 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "North Charleston",
+                    "state": "SC",
+                    "zip": "29418",
+                    "address": "3045 Ashley Phosphate Road",
+                    "phone": "(843) 552-6011",
+                    "lat": 32.8901,
+                    "lng": -80.0589
+                }
             ]
         },
         {
@@ -51921,7 +52313,9 @@
                 "city": "Daniel Island",
                 "address": "297 Seven Farms Drive #302",
                 "address2": null,
-                "zip": "29492"
+                "zip": "29492",
+                "lat": 32.9131,
+                "lng": -79.864
             },
             "contact": {
                 "phone": "843-969-2639",
@@ -51951,6 +52345,17 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Morgantown",
+                    "state": "WV",
+                    "zip": "26505",
+                    "address": "1281 Suncrest Towne Centre Drive",
+                    "phone": "+18439692636",
+                    "lat": 39.6496,
+                    "lng": -79.9458
+                }
             ]
         },
         {
@@ -51969,7 +52374,9 @@
                 "city": "Georgetown",
                 "address": "219 North Ridge Street",
                 "address2": null,
-                "zip": "29440"
+                "zip": "29440",
+                "lat": 33.387,
+                "lng": -79.3814
             },
             "contact": {
                 "phone": "888-691-1335",
@@ -52004,6 +52411,17 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Georgetown",
+                    "state": "SC",
+                    "zip": "29440",
+                    "address": "232 King Street",
+                    "phone": "843-546-2408",
+                    "lat": 33.387,
+                    "lng": -79.3814
+                }
             ]
         },
         {
@@ -52022,7 +52440,9 @@
                 "city": "Charleston",
                 "address": "1565 Sam Rittenberg Blvd.",
                 "address2": "Suite 103",
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "843-829-1711",
@@ -52047,7 +52467,8 @@
                 "Business and Commercial Law",
                 "Estate Planning",
                 "Real Estate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hinnant-medical-law-offices-llc",
@@ -52065,7 +52486,9 @@
                 "city": "Anderson",
                 "address": "112 Essex Drive",
                 "address2": null,
-                "zip": "29621"
+                "zip": "29621",
+                "lat": 34.4909,
+                "lng": -82.6086
             },
             "contact": {
                 "phone": "864-202-6122",
@@ -52084,7 +52507,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-n-bruce-holland",
@@ -52102,7 +52526,9 @@
                 "city": "Columbia",
                 "address": "Suite 103",
                 "address2": "6334 St. Andrews Road",
-                "zip": "29212"
+                "zip": "29212",
+                "lat": 34.088,
+                "lng": -81.1987
             },
             "contact": {
                 "phone": null,
@@ -52115,7 +52541,8 @@
             "attorneys": [
                 "N. Bruce Holland"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "holland-law",
@@ -52133,7 +52560,9 @@
                 "city": "Fort Mill",
                 "address": "852 Gold Hill Rd",
                 "address2": "Suite 103",
-                "zip": "29708"
+                "zip": "29708",
+                "lat": 35.0478,
+                "lng": -80.9864
             },
             "contact": {
                 "phone": "803-590-2917",
@@ -52157,6 +52586,17 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rock Hill",
+                    "state": "SC",
+                    "zip": "29730",
+                    "address": "128 Oakland Ave",
+                    "phone": "803-590-2917",
+                    "lat": 34.8857,
+                    "lng": -81.0209
+                }
             ]
         },
         {
@@ -52175,7 +52615,9 @@
                 "city": "Greenville",
                 "address": "310 Mills Avenue",
                 "address2": "Suite 201",
-                "zip": "29605"
+                "zip": "29605",
+                "lat": 34.7771,
+                "lng": -82.3776
             },
             "contact": {
                 "phone": "864-832-2015",
@@ -52205,7 +52647,8 @@
                 "Divorce and Separation",
                 "Family Law",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harris-and-huge-llc",
@@ -52223,7 +52666,9 @@
                 "city": "Charleston",
                 "address": "180 Spring Street",
                 "address2": null,
-                "zip": "29403"
+                "zip": "29403",
+                "lat": 32.8002,
+                "lng": -79.9428
             },
             "contact": {
                 "phone": "843-814-8770",
@@ -52245,7 +52690,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-hudson-law-llc",
@@ -52263,7 +52709,9 @@
                 "city": "Greenville",
                 "address": "200 N. Main St.",
                 "address2": "Suite 301-C",
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-6622",
@@ -52289,7 +52737,8 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hurley-law-pa",
@@ -52307,7 +52756,9 @@
                 "city": "Greenville",
                 "address": "15 S Main St",
                 "address2": "Suite 501",
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-693-8722",
@@ -52333,7 +52784,8 @@
                 "Business and Commercial Law",
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "weeks-irvine-llc",
@@ -52351,7 +52803,9 @@
                 "city": "North Charleston",
                 "address": "8086-B Rivers Avenue",
                 "address2": null,
-                "zip": "29406"
+                "zip": "29406",
+                "lat": 32.9289,
+                "lng": -80.0153
             },
             "contact": {
                 "phone": "843-553-9800",
@@ -52374,6 +52828,17 @@
             ],
             "official_practice_area": [
                 "Foreclosure and Alternatives"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Goose Creek",
+                    "state": "SC",
+                    "zip": "29445",
+                    "address": "567 Crowfield Blvd.",
+                    "phone": "(843) 553-9100",
+                    "lat": 32.9891,
+                    "lng": -79.9934
+                }
             ]
         },
         {
@@ -52392,7 +52857,9 @@
                 "city": "West Columbia",
                 "address": "1905 Sunset Blvd.",
                 "address2": "Suite F",
-                "zip": "29169"
+                "zip": "29169",
+                "lat": 33.991,
+                "lng": -81.1009
             },
             "contact": {
                 "phone": "803-973-3067",
@@ -52441,7 +52908,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-office-of-roger-johnson",
@@ -52459,7 +52927,9 @@
                 "city": "Conway",
                 "address": "607 Main St",
                 "address2": null,
-                "zip": "29526"
+                "zip": "29526",
+                "lat": 33.8702,
+                "lng": -78.9848
             },
             "contact": {
                 "phone": "843-438-1484",
@@ -52482,7 +52952,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reed-law-firm-p-a",
@@ -52500,7 +52971,9 @@
                 "city": "Columbia",
                 "address": "220 Stoneridge Drive",
                 "address2": "Suite 301",
-                "zip": "29210"
+                "zip": "29210",
+                "lat": 34.0385,
+                "lng": -81.113
             },
             "contact": {
                 "phone": "803-807-2565",
@@ -52529,6 +53002,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Florence",
+                    "state": "SC",
+                    "zip": "29501",
+                    "address": "1807 West Evans Street, Suite B",
+                    "phone": "803-807-2565",
+                    "lat": 34.2134,
+                    "lng": -79.8206
+                }
             ]
         },
         {
@@ -52547,7 +53031,9 @@
                 "city": "Greenville",
                 "address": "650 East Washington St.",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-7584",
@@ -52575,7 +53061,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ashby-jones-associates-llc",
@@ -52593,7 +53080,9 @@
                 "city": "Lexington",
                 "address": "220 East Main Street",
                 "address2": null,
-                "zip": "29072"
+                "zip": "29072",
+                "lat": 33.9883,
+                "lng": -81.2837
             },
             "contact": {
                 "phone": "803-973-6419",
@@ -52634,6 +53123,17 @@
                 "Family Law",
                 "Federal and White Collar Crimes",
                 "Sex Crime"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29401",
+                    "address": "90 Queen Street, Suite 2",
+                    "phone": "+18039736419",
+                    "lat": 32.7776,
+                    "lng": -79.9419
+                }
             ]
         },
         {
@@ -52652,7 +53152,9 @@
                 "city": "Greenville",
                 "address": "304 N Church St",
                 "address2": "Suite 100",
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-936-0440",
@@ -52693,7 +53195,8 @@
                 "Professional Malpractice",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jordan-law-firm-pc",
@@ -52711,7 +53214,9 @@
                 "city": "Rock Hill",
                 "address": "546 E Main St",
                 "address2": null,
-                "zip": "29730"
+                "zip": "29730",
+                "lat": 34.8857,
+                "lng": -81.0209
             },
             "contact": {
                 "phone": "803-973-5259",
@@ -52766,6 +53271,17 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29407",
+                    "address": "60 Markfield Drive, Suite 2",
+                    "phone": "+18039735259",
+                    "lat": 32.8012,
+                    "lng": -79.9948
+                }
             ]
         },
         {
@@ -52784,7 +53300,9 @@
                 "city": "Greenville",
                 "address": "619 N Main St",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-7521",
@@ -52806,7 +53324,8 @@
             ],
             "official_practice_area": [
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-kasen-law-firm-llc",
@@ -52824,7 +53343,9 @@
                 "city": "Charleston",
                 "address": "768 Saint Andrews Boulevard",
                 "address2": null,
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "843-821-6800",
@@ -52845,6 +53366,17 @@
             ],
             "official_practice_area": [
                 "Immigration"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Flushing",
+                    "state": "NY",
+                    "zip": "11354",
+                    "address": "136-20 38th Avenue, Suite 3C",
+                    "phone": "718-337-8012",
+                    "lat": 40.7665,
+                    "lng": -73.827
+                }
             ]
         },
         {
@@ -52863,7 +53395,9 @@
                 "city": "Anderson",
                 "address": "300 South Towers Street",
                 "address2": null,
-                "zip": "29624"
+                "zip": "29624",
+                "lat": 34.4321,
+                "lng": -82.6274
             },
             "contact": {
                 "phone": "833-324-2568",
@@ -52889,7 +53423,8 @@
             "official_practice_area": [
                 "Bankruptcy",
                 "Veteran's Benefits"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "knie-law-offices",
@@ -52907,7 +53442,9 @@
                 "city": "Spartanburg",
                 "address": "250 Magnolia St",
                 "address2": null,
-                "zip": "29306"
+                "zip": "29306",
+                "lat": 34.8995,
+                "lng": -81.9261
             },
             "contact": {
                 "phone": "864-693-1731",
@@ -52948,6 +53485,17 @@
                 "Professional Malpractice",
                 "Truck Accident",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Greenville",
+                    "state": "SC",
+                    "zip": "29601",
+                    "address": "100 Williams St",
+                    "phone": "+18646931676",
+                    "lat": 34.848,
+                    "lng": -82.401
+                }
             ]
         },
         {
@@ -52966,7 +53514,9 @@
                 "city": "Conway",
                 "address": "1400 Church Street",
                 "address2": "Ste 300d",
-                "zip": "29526"
+                "zip": "29526",
+                "lat": 33.8702,
+                "lng": -78.9848
             },
             "contact": {
                 "phone": "843-488-0778",
@@ -52999,7 +53549,8 @@
                 "Federal and White Collar Crimes",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "salley-law-firm-p-a",
@@ -53017,7 +53568,9 @@
                 "city": "Lexington",
                 "address": "129 East Main Street",
                 "address2": null,
-                "zip": "29072"
+                "zip": "29072",
+                "lat": 33.9883,
+                "lng": -81.2837
             },
             "contact": {
                 "phone": "803-356-5000",
@@ -53054,7 +53607,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "robert-e-lee-attorney-at-law",
@@ -53072,7 +53626,9 @@
                 "city": "Marion",
                 "address": "111 Witcover Street",
                 "address2": null,
-                "zip": "29571"
+                "zip": "29571",
+                "lat": 34.1322,
+                "lng": -79.4222
             },
             "contact": {
                 "phone": "843-423-1313",
@@ -53093,7 +53649,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "finkel-law-firm-llc",
@@ -53111,7 +53668,9 @@
                 "city": "North Charleston",
                 "address": "4000 Faber Place Drive",
                 "address2": "Suite 450",
-                "zip": "29405"
+                "zip": "29405",
+                "lat": 32.8505,
+                "lng": -79.982
             },
             "contact": {
                 "phone": "843-593-0399",
@@ -53140,6 +53699,17 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Columbia",
+                    "state": "SC",
+                    "zip": "29201",
+                    "address": "1201 Main Street, Suite 1800",
+                    "phone": "(803) 765-2935",
+                    "lat": 33.9866,
+                    "lng": -81.0248
+                }
             ]
         },
         {
@@ -53158,7 +53728,9 @@
                 "city": "Greenville",
                 "address": "1415 Augusta Street",
                 "address2": null,
-                "zip": "29605"
+                "zip": "29605",
+                "lat": 34.7771,
+                "lng": -82.3776
             },
             "contact": {
                 "phone": "864-808-3315",
@@ -53193,7 +53765,8 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-l-morgan-martin-p-a",
@@ -53211,7 +53784,9 @@
                 "city": "Conway",
                 "address": "1121 3rd Avenue",
                 "address2": null,
-                "zip": "29526"
+                "zip": "29526",
+                "lat": 33.8702,
+                "lng": -78.9848
             },
             "contact": {
                 "phone": "843-484-0993",
@@ -53244,7 +53819,8 @@
                 "Personal Injury",
                 "Real Estate",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "maybank-law-firm-llc",
@@ -53262,7 +53838,9 @@
                 "city": "Charleston",
                 "address": "P.O. Box 12579",
                 "address2": null,
-                "zip": "29422"
+                "zip": "29422",
+                "lat": 32.7765,
+                "lng": -79.9312
             },
             "contact": {
                 "phone": "843-766-8101",
@@ -53285,7 +53863,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-melonakos-law-firm",
@@ -53303,7 +53882,9 @@
                 "city": "Greenville",
                 "address": "1310 Augusta St",
                 "address2": null,
-                "zip": "29605"
+                "zip": "29605",
+                "lat": 34.7771,
+                "lng": -82.3776
             },
             "contact": {
                 "phone": "864-485-9027",
@@ -53339,7 +53920,8 @@
                 "Premises Liability",
                 "Truck Accident",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-nick-mermiges-llc",
@@ -53357,7 +53939,9 @@
                 "city": "Columbia",
                 "address": "1720 Main Street",
                 "address2": "Suite 202",
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-956-1087",
@@ -53379,7 +53963,8 @@
             ],
             "official_practice_area": [
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "southeastern-law-group-pa",
@@ -53397,7 +53982,9 @@
                 "city": "Greenville",
                 "address": "1427 Laurens Rd",
                 "address2": "Suite J",
-                "zip": "29607"
+                "zip": "29607",
+                "lat": 34.8038,
+                "lng": -82.3215
             },
             "contact": {
                 "phone": "864-707-0186",
@@ -53432,6 +54019,17 @@
                 "Truck Accident",
                 "Wills",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Boiling Springs",
+                    "state": "SC",
+                    "zip": "29316",
+                    "address": "3409 Boiling Springs Rd,",
+                    "phone": "864-707-0186",
+                    "lat": 35.042,
+                    "lng": -81.9759
+                }
             ]
         },
         {
@@ -53450,7 +54048,9 @@
                 "city": "Greenville",
                 "address": "12 Whitsett Street",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-808-8937",
@@ -53485,7 +54085,8 @@
                 "Federal and White Collar Crimes",
                 "Personal Injury",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-marion-moses",
@@ -53503,7 +54104,9 @@
                 "city": "Columbia",
                 "address": "2909 Devine Street",
                 "address2": null,
-                "zip": "29205"
+                "zip": "29205",
+                "lat": 33.986,
+                "lng": -80.9975
             },
             "contact": {
                 "phone": "803-999-2585",
@@ -53527,7 +54130,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nelson-law-firm",
@@ -53545,7 +54149,9 @@
                 "city": "Bluffton",
                 "address": "5796 Guilford Place",
                 "address2": null,
-                "zip": "29910"
+                "zip": "29910",
+                "lat": 32.2279,
+                "lng": -80.8876
             },
             "contact": {
                 "phone": "843-548-0157",
@@ -53576,7 +54182,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Probate"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nixon-law-firm-llc",
@@ -53594,7 +54201,9 @@
                 "city": "Charleston",
                 "address": "One Cool Blow Street",
                 "address2": "Suite 201",
-                "zip": "29403"
+                "zip": "29403",
+                "lat": 32.8002,
+                "lng": -79.9428
             },
             "contact": {
                 "phone": "843-414-5450",
@@ -53621,7 +54230,8 @@
                 "Criminal Defense",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "nelson-mullins-riley-scarborough-llp",
@@ -53639,7 +54249,9 @@
                 "city": "Myrtle Beach",
                 "address": "Pinnacle Corporate Center",
                 "address2": "3751 Robert M. Grissom Parkway, Suite 300",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": "843-448-3500",
@@ -53671,6 +54283,134 @@
             "official_practice_area": [
                 "Business and Commercial Law",
                 "Securities"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Charleston",
+                    "state": "SC",
+                    "zip": "29401",
+                    "address": "Liberty Center, 151 Meeting Street, Suite 600",
+                    "phone": "(843) 853-5200",
+                    "lat": 32.7776,
+                    "lng": -79.9419
+                },
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "zip": "27612",
+                    "address": "GlenLake One, 4140 Parklake Avenue, Suite 200",
+                    "phone": "(919) 329-3800",
+                    "lat": 35.8519,
+                    "lng": -78.702
+                },
+                {
+                    "city": "Jacksonville",
+                    "state": "FL",
+                    "zip": "32202",
+                    "address": "50 North Laura Street, 41st Floor",
+                    "phone": "(904) 665-3600",
+                    "lat": 30.328,
+                    "lng": -81.6469
+                },
+                {
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "zip": "30363",
+                    "address": "Atlantic Station, 201 17th Street NorthWest, Suite 1700",
+                    "phone": "(404) 322-6000",
+                    "lat": 33.7931,
+                    "lng": -84.3961
+                },
+                {
+                    "city": "Washington",
+                    "state": "DC",
+                    "zip": "20001",
+                    "address": "101 Constitution Avenue, NorthWest, Suite 900",
+                    "phone": "(202) 689-2800",
+                    "lat": 38.9107,
+                    "lng": -77.0167
+                },
+                {
+                    "city": "Huntington",
+                    "state": "WV",
+                    "zip": "25701",
+                    "address": "949 Third Avenue, Suite 200",
+                    "phone": "(304) 526-3500",
+                    "lat": 38.3689,
+                    "lng": -82.4128
+                },
+                {
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "zip": "21201",
+                    "address": "100 South Charles Street, Suite 1200",
+                    "phone": "(443) 392-9400",
+                    "lat": 39.2954,
+                    "lng": -76.6239
+                },
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zip": "37219",
+                    "address": "One Nashville Place, 150 Fourth Avenue, North, Suite 1100",
+                    "phone": "(615) 664-5300",
+                    "lat": 36.1676,
+                    "lng": -86.7839
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10017",
+                    "address": "280 Park Avenue, 15th Floor West",
+                    "phone": "(646) 428-2600",
+                    "lat": 40.7525,
+                    "lng": -73.9731
+                },
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "zip": "02109",
+                    "address": "One Post Office Square, 30th Floor",
+                    "phone": "(617) 217-4700",
+                    "lat": 42.3632,
+                    "lng": -71.0538
+                },
+                {
+                    "city": "Houston",
+                    "state": "TX",
+                    "zip": "77002",
+                    "address": "Heritage Plaza 1111 Bagby Street, Suite 2100",
+                    "phone": "(803) 799-2000",
+                    "lat": 29.7502,
+                    "lng": -95.3677
+                },
+                {
+                    "city": "St. Louis Park",
+                    "state": "MN",
+                    "zip": "55416",
+                    "address": "1600 Utica Ave S, Suite 600",
+                    "phone": "(803) 799-2000",
+                    "lat": 44.9489,
+                    "lng": -93.3352
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80202",
+                    "address": "1400 Wewatta Street, Suite 500",
+                    "phone": "(303) 583-9900",
+                    "lat": 39.7526,
+                    "lng": -104.9981
+                },
+                {
+                    "city": "Torrance",
+                    "state": "CA",
+                    "zip": "90502",
+                    "address": "Pacific Gateway, 19191 South Vermont Avenue, Suite 900",
+                    "phone": "(424) 221-7400",
+                    "lat": 33.834,
+                    "lng": -118.2923
+                }
             ]
         },
         {
@@ -53689,7 +54429,9 @@
                 "city": "Charleston",
                 "address": "60 Markfield Drive",
                 "address2": "Suite 2",
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "803-973-5298",
@@ -53726,6 +54468,17 @@
                 "Social Security",
                 "Social Security Disability",
                 "Workers' Compensation"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Rock Hill",
+                    "state": "SC",
+                    "zip": "29730",
+                    "address": "546 E Main St",
+                    "phone": "+18039735259",
+                    "lat": 34.8857,
+                    "lng": -81.0209
+                }
             ]
         },
         {
@@ -53744,7 +54497,9 @@
                 "city": "Hilton Head Island",
                 "address": "11 Marina Side Drive",
                 "address2": null,
-                "zip": "29938"
+                "zip": "29938",
+                "lat": 32.2161,
+                "lng": -80.7525
             },
             "contact": {
                 "phone": "843-548-4039",
@@ -53778,6 +54533,17 @@
                 "Collaborative Law",
                 "Divorce and Separation",
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Newberry",
+                    "state": "SC",
+                    "zip": "29108",
+                    "address": "1201 Boyce St., Suite 1",
+                    "phone": "803-405-0009",
+                    "lat": 34.2685,
+                    "lng": -81.6393
+                }
             ]
         },
         {
@@ -53796,7 +54562,9 @@
                 "city": "Greenville",
                 "address": "115 Broadus Ave.",
                 "address2": null,
-                "zip": "29601"
+                "zip": "29601",
+                "lat": 34.848,
+                "lng": -82.401
             },
             "contact": {
                 "phone": "864-326-9527",
@@ -53824,7 +54592,8 @@
             "official_practice_area": [
                 "Car Accidents",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "pilzer-klein",
@@ -53842,7 +54611,9 @@
                 "city": "Greenville",
                 "address": "509 West Butler Road",
                 "address2": null,
-                "zip": "29607"
+                "zip": "29607",
+                "lat": 34.8038,
+                "lng": -82.3215
             },
             "contact": {
                 "phone": "864-693-1550",
@@ -53868,7 +54639,8 @@
             "official_practice_area": [
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "rigney-law-firm",
@@ -53886,7 +54658,9 @@
                 "city": "Surfside Beach",
                 "address": "1500 Highway 17 North",
                 "address2": "Suite 212 The Courtyard",
-                "zip": "29575"
+                "zip": "29575",
+                "lat": 33.6279,
+                "lng": -78.9673
             },
             "contact": {
                 "phone": "843-790-0829",
@@ -53914,7 +54688,8 @@
                 "DUI and DWI",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "the-law-offices-of-s-harrison-saunders-vi-llc",
@@ -53932,7 +54707,9 @@
                 "city": "Columbia",
                 "address": "3104 Devine Street",
                 "address2": null,
-                "zip": "29205"
+                "zip": "29205",
+                "lat": 33.986,
+                "lng": -80.9975
             },
             "contact": {
                 "phone": "803-779-6333",
@@ -53952,7 +54729,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "query-sautter-associates-llc",
@@ -53970,7 +54748,9 @@
                 "city": "Charleston",
                 "address": "147 Wappoo Creek Drive",
                 "address2": "#202",
-                "zip": "29412"
+                "zip": "29412",
+                "lat": 32.7038,
+                "lng": -79.9431
             },
             "contact": {
                 "phone": "843-795-9500",
@@ -53994,6 +54774,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "North Charleston",
+                    "state": "SC",
+                    "zip": "29405",
+                    "address": "3842 Leeds Avenue",
+                    "phone": "843-795-9500",
+                    "lat": 32.8505,
+                    "lng": -79.982
+                }
             ]
         },
         {
@@ -54012,7 +54803,9 @@
                 "city": "Spartanburg",
                 "address": "184 N. Daniel Morgan Ave.",
                 "address2": null,
-                "zip": "29306"
+                "zip": "29306",
+                "lat": 34.8995,
+                "lng": -81.9261
             },
             "contact": {
                 "phone": "864-808-7518",
@@ -54046,7 +54839,8 @@
                 "Federal and White Collar Crimes",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "skipper-law-firm-llc",
@@ -54064,7 +54858,9 @@
                 "city": "Mount Pleasant",
                 "address": "613 Longpoint Rd",
                 "address2": "Suite 100",
-                "zip": "29464"
+                "zip": "29464",
+                "lat": 32.8215,
+                "lng": -79.8524
             },
             "contact": {
                 "phone": "843-969-2495",
@@ -54099,7 +54895,8 @@
                 "Personal Injury",
                 "Traffic Ticket",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sligh-law-firm-p-a",
@@ -54117,7 +54914,9 @@
                 "city": "Conway",
                 "address": "1303 3rd Avenue",
                 "address2": null,
-                "zip": "29526"
+                "zip": "29526",
+                "lat": 33.8702,
+                "lng": -78.9848
             },
             "contact": {
                 "phone": "843-804-7045",
@@ -54168,7 +54967,8 @@
                 "Probate",
                 "Same Sex",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "indigo-family-law",
@@ -54186,7 +54986,9 @@
                 "city": "Surfside Beach",
                 "address": "2055 Glenns Bay Road",
                 "address2": null,
-                "zip": "29575"
+                "zip": "29575",
+                "lat": 33.6279,
+                "lng": -78.9673
             },
             "contact": {
                 "phone": "843-215-6100",
@@ -54209,6 +55011,17 @@
             ],
             "official_practice_area": [
                 "Family Law"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Georgetown",
+                    "state": "SC",
+                    "zip": "29440",
+                    "address": "604 Front Street, Suite 201",
+                    "phone": "843-215-6100",
+                    "lat": 33.387,
+                    "lng": -79.3814
+                }
             ]
         },
         {
@@ -54227,7 +55040,9 @@
                 "city": "Columbia",
                 "address": "125 Executive Pointe Blvd.",
                 "address2": "Suite 205",
-                "zip": "29210"
+                "zip": "29210",
+                "lat": 34.0385,
+                "lng": -81.113
             },
             "contact": {
                 "phone": "803-764-9905",
@@ -54278,7 +55093,8 @@
                 "Military",
                 "Military Divorce",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "jack-b-swerling",
@@ -54296,7 +55112,9 @@
                 "city": "Columbia",
                 "address": "1720 Main St",
                 "address2": "#301",
-                "zip": "29201"
+                "zip": "29201",
+                "lat": 33.9866,
+                "lng": -81.0248
             },
             "contact": {
                 "phone": "803-306-5801",
@@ -54332,7 +55150,8 @@
                 "Litigation and Appeals",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-thomas-c-taylor-llc",
@@ -54350,7 +55169,9 @@
                 "city": "Hilton Head",
                 "address": "22 Bow Circle",
                 "address2": "Suite A",
-                "zip": "29928"
+                "zip": "29928",
+                "lat": 32.1728,
+                "lng": -80.7487
             },
             "contact": {
                 "phone": "843-785-5050",
@@ -54371,6 +55192,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hilton Head",
+                    "state": "SC",
+                    "zip": "29928",
+                    "address": "22 Bow Circle, Suite A",
+                    "phone": "(843) 785-5050",
+                    "lat": 32.1728,
+                    "lng": -80.7487
+                }
             ]
         },
         {
@@ -54389,7 +55221,9 @@
                 "city": "Summerville",
                 "address": "1668 Old Trolley Rd",
                 "address2": "Ste 104",
-                "zip": "29485"
+                "zip": "29485",
+                "lat": 32.9479,
+                "lng": -80.1892
             },
             "contact": {
                 "phone": "843-619-3855",
@@ -54418,7 +55252,8 @@
                 "Probate",
                 "Social Security",
                 "Social Security Disability"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "tweng-twombley-law-firm",
@@ -54436,7 +55271,9 @@
                 "city": "Beaufort",
                 "address": "311 Carteret Street",
                 "address2": null,
-                "zip": "29902"
+                "zip": "29902",
+                "lat": 32.3732,
+                "lng": -80.7006
             },
             "contact": {
                 "phone": "843-593-0377",
@@ -54461,7 +55298,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "christopher-a-wellborn-p-a",
@@ -54479,7 +55317,9 @@
                 "city": "Rock Hill",
                 "address": "1169 Ebenezer Road",
                 "address2": null,
-                "zip": "29732"
+                "zip": "29732",
+                "lat": 34.9659,
+                "lng": -81.0776
             },
             "contact": {
                 "phone": "803-929-7523",
@@ -54514,7 +55354,8 @@
                 "Federal and White Collar Crimes",
                 "Sex Crime",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wetmore-law-firm",
@@ -54532,7 +55373,9 @@
                 "city": "Charleston",
                 "address": "78 Ashley Point Drive",
                 "address2": "Suite 201",
-                "zip": "29407"
+                "zip": "29407",
+                "lat": 32.8012,
+                "lng": -79.9948
             },
             "contact": {
                 "phone": "843-720-4003",
@@ -54565,7 +55408,8 @@
                 "Personal Injury",
                 "Probate",
                 "Traffic Ticket"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "bacon-law-firm",
@@ -54583,7 +55427,9 @@
                 "city": "Myrtle Beach",
                 "address": "1297 Professional Drive",
                 "address2": "Suite 101",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": "843-839-8013",
@@ -54604,7 +55450,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "williamson-law-office",
@@ -54622,7 +55469,9 @@
                 "city": "Summerville",
                 "address": "1801 Old Trolley Rd.",
                 "address2": "Suite 102",
-                "zip": "29485"
+                "zip": "29485",
+                "lat": 32.9479,
+                "lng": -80.1892
             },
             "contact": {
                 "phone": "843-821-8884",
@@ -54640,7 +55489,8 @@
             "official_practice_area": [
                 "Business Organizations",
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "wright-injury-law",
@@ -54658,7 +55508,9 @@
                 "city": "Myrtle Beach",
                 "address": "4214 Mayfair St",
                 "address2": "Unit A",
-                "zip": "29577"
+                "zip": "29577",
+                "lat": 33.6981,
+                "lng": -78.9033
             },
             "contact": {
                 "phone": null,
@@ -54673,7 +55525,8 @@
             "attorneys": [
                 "P. Brooke Eaves Wright"
             ],
-            "official_practice_area": []
+            "official_practice_area": [],
+            "additional_locations": []
         },
         {
             "slug": "young-young-attorneys-at-law",
@@ -54691,7 +55544,9 @@
                 "city": "Charleston",
                 "address": "689 King Street",
                 "address2": null,
-                "zip": "29403"
+                "zip": "29403",
+                "lat": 32.8002,
+                "lng": -79.9428
             },
             "contact": {
                 "phone": "843-779-6351",
@@ -54715,7 +55570,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }

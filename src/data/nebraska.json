@@ -24156,7 +24156,9 @@
                 "city": "Lincoln",
                 "address": "575 Fallbrook Boulevard",
                 "address2": "Suite 206",
-                "zip": "68521"
+                "zip": "68521",
+                "lat": 40.8607,
+                "lng": -96.7203
             },
             "contact": {
                 "phone": "402-817-2717",
@@ -24196,6 +24198,26 @@
                 "Personal Injury",
                 "Workers' Compensation",
                 "Wrongful Death"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Omaha",
+                    "state": "NE",
+                    "zip": "68154",
+                    "address": "14301 First National Bank Parkway, Suite 100",
+                    "phone": "800-655-9606",
+                    "lat": 41.2631,
+                    "lng": -96.1171
+                },
+                {
+                    "city": "Des Moines",
+                    "state": "IA",
+                    "zip": "50309",
+                    "address": "699 Walnut Street, Suite 415",
+                    "phone": "515-513-4008",
+                    "lat": 41.5848,
+                    "lng": -93.6208
+                }
             ]
         },
         {
@@ -24214,7 +24236,9 @@
                 "city": "Omaha",
                 "address": "319 South 17th Street",
                 "address2": "Suite 420",
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-971-6866",
@@ -24252,7 +24276,8 @@
                 "Criminal Defense",
                 "Divorce and Separation",
                 "Elder Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mchenry-haszard-law",
@@ -24270,7 +24295,9 @@
                 "city": "Lincoln",
                 "address": "1220 Lincoln Mall",
                 "address2": "Suite 250",
-                "zip": "68508"
+                "zip": "68508",
+                "lat": 40.8179,
+                "lng": -96.709
             },
             "contact": {
                 "phone": "402-858-4263",
@@ -24302,7 +24329,8 @@
                 "Family Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "smith-pauley-llp",
@@ -24320,7 +24348,9 @@
                 "city": "Omaha",
                 "address": "3555 Farnam Street",
                 "address2": "Suite 1000",
-                "zip": "68131"
+                "zip": "68131",
+                "lat": 41.2636,
+                "lng": -95.9649
             },
             "contact": {
                 "phone": "402-971-5450",
@@ -24363,6 +24393,17 @@
                 "Mergers and Acquisitions",
                 "Probate",
                 "Real Estate"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Hastings",
+                    "state": "NE",
+                    "zip": "68901",
+                    "address": "2727 W. 2nd Street, Suite 225",
+                    "phone": "+14029715450",
+                    "lat": 40.5895,
+                    "lng": -98.3876
+                }
             ]
         },
         {
@@ -24381,7 +24422,9 @@
                 "city": "Lincoln",
                 "address": "1133 H Street",
                 "address2": null,
-                "zip": "68508"
+                "zip": "68508",
+                "lat": 40.8179,
+                "lng": -96.709
             },
             "contact": {
                 "phone": "402-477-8188",
@@ -24419,7 +24462,8 @@
                 "Federal and White Collar Crimes",
                 "Immigration",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "reisinger-booth-associates-p-c-l-l-o",
@@ -24437,7 +24481,9 @@
                 "city": "Omaha",
                 "address": "7602 Pacific Street",
                 "address2": "Suite 222",
-                "zip": "68114"
+                "zip": "68114",
+                "lat": 41.2633,
+                "lng": -96.0544
             },
             "contact": {
                 "phone": "402-200-5610",
@@ -24490,7 +24536,8 @@
                 "Real Estate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "fiedler-law-firm-p-l-c",
@@ -24508,7 +24555,9 @@
                 "city": "Omaha",
                 "address": "17330 Wright St",
                 "address2": "Suite 102",
-                "zip": "68130"
+                "zip": "68130",
+                "lat": 41.2337,
+                "lng": -96.1938
             },
             "contact": {
                 "phone": "402-200-4806",
@@ -24535,6 +24584,17 @@
             ],
             "official_practice_area": [
                 "Employment Rights"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Johnston",
+                    "state": "IA",
+                    "zip": "50131",
+                    "address": "8831 Windsor Pkwy",
+                    "phone": "+14022003924",
+                    "lat": 41.7176,
+                    "lng": -93.7117
+                }
             ]
         },
         {
@@ -24553,7 +24613,9 @@
                 "city": "Omaha",
                 "address": "260 Regency Parkway Drive",
                 "address2": "Suite 200",
-                "zip": "68114"
+                "zip": "68114",
+                "lat": 41.2633,
+                "lng": -96.0544
             },
             "contact": {
                 "phone": "402-390-1112",
@@ -24582,6 +24644,17 @@
                 "Business and Commercial Law",
                 "Insurance Defense",
                 "Litigation and Appeals"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Scottsdale",
+                    "state": "AZ",
+                    "zip": "85260",
+                    "address": "8360 E. Raintree Drive, Suite 140",
+                    "phone": "480-664-4144",
+                    "lat": 33.611,
+                    "lng": -111.8901
+                }
             ]
         },
         {
@@ -24600,7 +24673,9 @@
                 "city": "Kearney",
                 "address": "3915 Avenue N",
                 "address2": "Suite C",
-                "zip": "68847"
+                "zip": "68847",
+                "lat": 40.7498,
+                "lng": -99.0172
             },
             "contact": {
                 "phone": "308-224-2823",
@@ -24622,7 +24697,8 @@
             ],
             "official_practice_area": [
                 "Bankruptcy"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "law-office-of-matt-catlett",
@@ -24640,7 +24716,9 @@
                 "city": "Lincoln",
                 "address": "701 P Street",
                 "address2": "Suite 207",
-                "zip": "68508"
+                "zip": "68508",
+                "lat": 40.8179,
+                "lng": -96.709
             },
             "contact": {
                 "phone": "866-653-5415",
@@ -24661,7 +24739,8 @@
             ],
             "official_practice_area": [
                 "Business and Commercial Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "chandler-conway-pc-llo",
@@ -24679,7 +24758,9 @@
                 "city": "Omaha",
                 "address": "1018 Dodge Street",
                 "address2": "Suite 5",
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-933-6858",
@@ -24722,7 +24803,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "friedman-law-offices",
@@ -24740,7 +24822,9 @@
                 "city": "Lincoln",
                 "address": "3800 Normal Boulevard",
                 "address2": "Suite 200",
-                "zip": "68506"
+                "zip": "68506",
+                "lat": 40.7835,
+                "lng": -96.6413
             },
             "contact": {
                 "phone": "888-419-6876",
@@ -24771,7 +24855,8 @@
                 "Medical Malpractice",
                 "Personal Injury",
                 "Professional Malpractice"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dowd-corrigan-llc",
@@ -24789,7 +24874,9 @@
                 "city": "Omaha",
                 "address": "6700 Mercy Road",
                 "address2": "Suite 501",
-                "zip": "68106"
+                "zip": "68106",
+                "lat": 41.2396,
+                "lng": -96.002
             },
             "contact": {
                 "phone": "402-971-2287",
@@ -24818,7 +24905,8 @@
                 "Litigation and Appeals",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "dunn-stockmann-attorneys-at-law",
@@ -24836,7 +24924,9 @@
                 "city": "Omaha",
                 "address": "1411 Harney Street",
                 "address2": null,
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-346-7367",
@@ -24854,7 +24944,8 @@
             ],
             "official_practice_area": [
                 "DUI and DWI"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "ewalt-law-office-p-c-l-l-o",
@@ -24872,7 +24963,9 @@
                 "city": "Norfolk",
                 "address": "1105 S. 13th Street",
                 "address2": "Suite 210",
-                "zip": "68701"
+                "zip": "68701",
+                "lat": 42.0254,
+                "lng": -97.4438
             },
             "contact": {
                 "phone": "402-644-1089",
@@ -24893,7 +24986,8 @@
             ],
             "official_practice_area": [
                 "Criminal Defense"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "mooney-lenaghan-westberg-dorn-l-l-c",
@@ -24911,7 +25005,9 @@
                 "city": "Omaha",
                 "address": "15858 W. Dodge Road",
                 "address2": "Suite 200",
-                "zip": "68118"
+                "zip": "68118",
+                "lat": 41.263,
+                "lng": -96.18
             },
             "contact": {
                 "phone": "402-200-3272",
@@ -24937,7 +25033,8 @@
             "official_practice_area": [
                 "Insurance Defense",
                 "Insurance Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "johnson-flodman-guenzel-wasserburger-llp",
@@ -24955,7 +25052,9 @@
                 "city": "Lincoln",
                 "address": "1227 Lincoln Mall",
                 "address2": null,
-                "zip": "68508"
+                "zip": "68508",
+                "lat": 40.8179,
+                "lng": -96.709
             },
             "contact": {
                 "phone": "402-817-6721",
@@ -24984,7 +25083,8 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "harris-law-offices-pc-llo",
@@ -25002,7 +25102,9 @@
                 "city": "Lincoln",
                 "address": "3400 \"O\" Street",
                 "address2": null,
-                "zip": "68510"
+                "zip": "68510",
+                "lat": 40.8062,
+                "lng": -96.6506
             },
             "contact": {
                 "phone": "888-339-7938",
@@ -25028,7 +25130,8 @@
                 "Insurance Defense",
                 "Litigation and Appeals",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "higgins-law",
@@ -25046,7 +25149,9 @@
                 "city": "Omaha",
                 "address": "209 S.19th St.",
                 "address2": "Douglas Building, Suite 440",
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-933-7600",
@@ -25072,7 +25177,8 @@
                 "Child Custody",
                 "Divorce and Separation",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "walz-law-offices-p-c-l-l-o",
@@ -25090,7 +25196,9 @@
                 "city": "Omaha",
                 "address": "6519 Sunshine Dr",
                 "address2": null,
-                "zip": "68107"
+                "zip": "68107",
+                "lat": 41.2113,
+                "lng": -95.9506
             },
             "contact": {
                 "phone": "402-971-5511",
@@ -25124,7 +25232,8 @@
                 "Family Law",
                 "Personal Injury",
                 "Workers' Compensation"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "hug-and-jacobs-llc",
@@ -25142,7 +25251,9 @@
                 "city": "Omaha",
                 "address": "209 S 19th St",
                 "address2": "Ste 340",
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-971-7736",
@@ -25180,7 +25291,8 @@
                 "Drug Crime",
                 "Federal and White Collar Crimes",
                 "Litigation and Appeals"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "kellogg-palzer-p-c",
@@ -25198,7 +25310,9 @@
                 "city": "Omaha",
                 "address": "3555 Faram Street",
                 "address2": "Suite 1000",
-                "zip": "68131"
+                "zip": "68131",
+                "lat": 41.2636,
+                "lng": -95.9649
             },
             "contact": {
                 "phone": "402-971-0403",
@@ -25240,7 +25354,8 @@
                 "Probate",
                 "Trusts",
                 "Wills"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shively-law-group-p-c-l-l-o",
@@ -25258,7 +25373,9 @@
                 "city": "Lincoln",
                 "address": "4400 South 86th Street",
                 "address2": "Suite 100",
-                "zip": "68526"
+                "zip": "68526",
+                "lat": 40.7335,
+                "lng": -96.5829
             },
             "contact": {
                 "phone": "402-488-5044",
@@ -25283,7 +25400,8 @@
             "official_practice_area": [
                 "ADR Arbitration and Mediation",
                 "Personal Injury"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "london-law-office-p-c-l-l-o",
@@ -25301,7 +25419,9 @@
                 "city": "Lincoln",
                 "address": "1701 South 17th Street",
                 "address2": "Suite 2C",
-                "zip": "68502"
+                "zip": "68502",
+                "lat": 40.785,
+                "lng": -96.7002
             },
             "contact": {
                 "phone": "402-817-2890",
@@ -25324,7 +25444,8 @@
             "official_practice_area": [
                 "Criminal Defense",
                 "Family Law"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "melialaw-llc",
@@ -25342,7 +25463,9 @@
                 "city": "Omaha",
                 "address": "209 S 19th St Ste 525",
                 "address2": null,
-                "zip": "68102"
+                "zip": "68102",
+                "lat": 41.2633,
+                "lng": -95.9305
             },
             "contact": {
                 "phone": "402-200-3433",
@@ -25374,7 +25497,8 @@
                 "Criminal Defense",
                 "DUI and DWI",
                 "Drug Crime"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "monte-l-neilan",
@@ -25392,7 +25516,9 @@
                 "city": "Scottsbluff",
                 "address": "1721 Broadway",
                 "address2": "Suite 225",
-                "zip": "69361"
+                "zip": "69361",
+                "lat": 41.9605,
+                "lng": -103.6319
             },
             "contact": {
                 "phone": "308-737-4988",
@@ -25435,7 +25561,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "shefren-law-office-p-c-l-l-o",
@@ -25453,7 +25580,9 @@
                 "city": "Omaha",
                 "address": "212 South 74 St.",
                 "address2": "#203",
-                "zip": "68114"
+                "zip": "68114",
+                "lat": 41.2633,
+                "lng": -96.0544
             },
             "contact": {
                 "phone": "402-200-3654",
@@ -25489,7 +25618,8 @@
                 "Truck Accident",
                 "Workers' Compensation",
                 "Wrongful Death"
-            ]
+            ],
+            "additional_locations": []
         },
         {
             "slug": "sibbernsen-strigenz-sibbernsen-p-c",
@@ -25507,7 +25637,9 @@
                 "city": "Omaha",
                 "address": "444 Regency Parkway Drive",
                 "address2": "Suite 300",
-                "zip": "68114"
+                "zip": "68114",
+                "lat": 41.2633,
+                "lng": -96.0544
             },
             "contact": {
                 "phone": "402-493-7221",
@@ -25531,6 +25663,17 @@
             ],
             "official_practice_area": [
                 "Personal Injury"
+            ],
+            "additional_locations": [
+                {
+                    "city": "Papillion",
+                    "state": "NE",
+                    "zip": "68046",
+                    "address": "304 Olson Drive, Suite 211",
+                    "phone": "(402) 913-3039",
+                    "lat": 41.1176,
+                    "lng": -96.0685
+                }
             ]
         },
         {
@@ -25549,7 +25692,9 @@
                 "city": "Omaha",
                 "address": "3138 Cuming Street",
                 "address2": null,
-                "zip": "68131"
+                "zip": "68131",
+                "lat": 41.2636,
+                "lng": -95.9649
             },
             "contact": {
                 "phone": "402-971-7486",
@@ -25590,7 +25735,8 @@
                 "Family Law",
                 "Real Estate",
                 "Sex Crime"
-            ]
+            ],
+            "additional_locations": []
         }
     ]
 }
