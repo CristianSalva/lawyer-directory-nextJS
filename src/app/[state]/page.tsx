@@ -125,7 +125,7 @@ export default async function StatePage({ params, searchParams }: Props) {
   const citiesWithData = Array.from(new Set([
     ...data.attorneys.map(a => a.location.city).filter(Boolean),
     ...data.firms.map(f => f.location.city).filter(Boolean),
-    ...data.firms.flatMap(f => f.additional_locations.map(l => l.city)).filter(Boolean),
+    ...data.firms.flatMap(f => f.additional_locations?.map(l => l.city) ?? []).filter(Boolean),
   ])).filter(c => !/^\d/.test(c as string)).sort() as string[]
 
   // Show landing until both area AND city are selected
@@ -156,7 +156,7 @@ export default async function StatePage({ params, searchParams }: Props) {
     if (f.location.city?.toLowerCase() === cityQ && f.location.lat && f.location.lng) {
       refLat = f.location.lat; refLng = f.location.lng; break outer
     }
-    for (const l of f.additional_locations) {
+    for (const l of f.additional_locations ?? []) {
       if (l.city?.toLowerCase() === cityQ && l.lat && l.lng) {
         refLat = l.lat; refLng = l.lng; break outer
       }
@@ -169,14 +169,14 @@ export default async function StatePage({ params, searchParams }: Props) {
 
   const isExactMatch = (f: typeof practiceFiltered[0]) =>
     f.location.city?.toLowerCase() === cityQ ||
-    f.additional_locations.some(l => l.city?.toLowerCase() === cityQ)
+    (f.additional_locations ?? []).some(l => l.city?.toLowerCase() === cityQ)
 
   const isWithinRadius = (f: typeof practiceFiltered[0]) => {
     if (refLat === null || refLng === null) return false
     if (f.location.lat && f.location.lng &&
         haversinemiles(refLat, refLng, f.location.lat, f.location.lng) <= RADIUS_MILES)
       return true
-    return f.additional_locations.some(l =>
+    return (f.additional_locations ?? []).some(l =>
       l.lat && l.lng &&
       haversinemiles(refLat!, refLng!, l.lat, l.lng) <= RADIUS_MILES
     )
