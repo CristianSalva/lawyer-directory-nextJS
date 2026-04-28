@@ -79,7 +79,7 @@ function FirmCard({ firm, stateSlug, avatarClass }: { firm: Firm; stateSlug: str
             {firm.name}
           </Link>
           {firm.free_consultation && <span className="llc-badge llc-badge--free">Free Consultation</span>}
-          {firm.super_lawyers && <span className="llc-badge llc-badge--sl">Super Lawyers®</span>}
+          {firm.super_lawyers > 0 && <span className="llc-badge llc-badge--sl">Super Lawyers®</span>}
         </div>
         {firm.practice_type && <p className="llc-firm">{firm.practice_type}</p>}
         <p className="llc-location">

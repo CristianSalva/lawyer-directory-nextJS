@@ -118,7 +118,7 @@ export default async function AttorneyPage({ params }: Props) {
           <div className="sp-hero-info">
             <div className="sp-hero-top">
               <h1>{name}</h1>
-              {super_lawyers && <span className="sp-badge sp-badge--sl">Super Lawyers®</span>}
+              {super_lawyers > 0 && <span className="sp-badge sp-badge--sl">Super Lawyers®</span>}
               {free_consultation && <span className="sp-badge">Free Consultation</span>}
             </div>
 
