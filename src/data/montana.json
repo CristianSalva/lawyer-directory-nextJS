@@ -7288,11 +7288,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MT",
+        "city": "Helena",
         "address": "Helena, MT",
         "address2": "Diamond Block Building, 44 West 6th Avenue, Suite 200",
-        "zip": null,
+        "zip": "59601",
         "lat": null,
         "lng": null
       },
@@ -7333,11 +7333,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4976944/pid_1/christensen_prezeau_pllp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MT",
+        "city": "Helena",
         "address": "Helena, MT",
         "address2": "24 W. 6th Ave., Fifth Floor",
-        "zip": null,
+        "zip": "59601",
         "lat": null,
         "lng": null
       },
@@ -7374,11 +7374,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2125361/pid_1/luebeck_hammar_mccarty_goldwarg.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MT",
+        "city": "Bozeman",
         "address": "Bozeman, MT",
         "address2": "200 Highland Blvd., Suite 203",
-        "zip": null,
+        "zip": "59715",
         "lat": null,
         "lng": null
       },
@@ -7433,11 +7433,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5007945/pid_1/garden_city_law_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MT",
+        "city": "Missoula",
         "address": "Missoula, MT",
         "address2": "1917 South Higgins Avenue",
-        "zip": null,
+        "zip": "59801",
         "lat": null,
         "lng": null
       },
@@ -7475,11 +7475,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1332602/pid_1/ramler_law_office_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MT",
+        "city": "Belgrade",
         "address": "Belgrade, MT",
         "address2": "202 West Madison Avenue",
-        "zip": null,
+        "zip": "59714",
         "lat": null,
         "lng": null
       },

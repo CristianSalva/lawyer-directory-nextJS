@@ -4372,11 +4372,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4371998/pid_1/kirkpatrick_goldsborough_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "VT",
+        "city": "South Burlington",
         "address": "South Burlington, VT",
         "address2": "1233 Shelburne Road, Suite E-1",
-        "zip": null,
+        "zip": "05403",
         "lat": null,
         "lng": null
       },
@@ -4414,11 +4414,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "VT",
+        "city": "Woodstock",
         "address": "Woodstock, VT",
         "address2": "19 Central Street, P.O. Box 270",
-        "zip": null,
+        "zip": "05091",
         "lat": null,
         "lng": null
       },

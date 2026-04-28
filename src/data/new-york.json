@@ -340359,11 +340359,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Smithtown",
         "address": "Smithtown, NY",
         "address2": "50 Route 111, Suite 314",
-        "zip": null,
+        "zip": "11787",
         "lat": null,
         "lng": null
       },
@@ -340410,11 +340410,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3736972/pid_1/westermann_sheehy_keenan_samaan_aydelott_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "222 Bloomingdale Road, Suite 305",
-        "zip": null,
+        "zip": "10605",
         "lat": null,
         "lng": null
       },
@@ -340461,11 +340461,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1912269/pid_1/mccoyd_parkas_ronan_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "1100 Franklin Avenue, Suite 401",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -340511,11 +340511,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4579060/pid_1/ginsburg_redmond_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Hawthorne",
         "address": "Hawthorne, NY",
         "address2": "245 Saw Mill River Road, 2nd Floor",
-        "zip": null,
+        "zip": "10532",
         "lat": null,
         "lng": null
       },
@@ -340553,11 +340553,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "1825 Park Avenue",
-        "zip": null,
+        "zip": "10035",
         "lat": null,
         "lng": null
       },
@@ -340602,11 +340602,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4484383/pid_1/gary_s_basso_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Bronx",
         "address": "Bronx, NY",
         "address2": "1937 Williamsbridge Road",
-        "zip": null,
+        "zip": "10461",
         "lat": null,
         "lng": null
       },
@@ -340644,11 +340644,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2528671/pid_1/lipsitz_green_scime_cambria_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Buffalo",
         "address": "Buffalo, NY",
         "address2": "42 Delaware Avenue, Suite 120",
-        "zip": null,
+        "zip": "14202",
         "lat": null,
         "lng": null
       },
@@ -340704,11 +340704,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "600 3rd Avenue, 11th Floor",
-        "zip": null,
+        "zip": "10016",
         "lat": null,
         "lng": null
       },
@@ -340753,11 +340753,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3656478/pid_1/youman_madeo_fasano_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "299 Broadway, Suite 810",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -340796,11 +340796,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4315893/pid_1/white_and_williams_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Pleasantville",
         "address": "Pleasantville, NY",
         "address2": "427 Bedford Road, Suite 250",
-        "zip": null,
+        "zip": "10570",
         "lat": null,
         "lng": null
       },
@@ -340882,11 +340882,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Hudson",
         "address": "Hudson, NY",
         "address2": "436 Union Street",
-        "zip": null,
+        "zip": "12534",
         "lat": null,
         "lng": null
       },
@@ -340927,11 +340927,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4403036/pid_1/fitapelli_schaffer_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "28 Liberty Street",
-        "zip": null,
+        "zip": "10015",
         "lat": null,
         "lng": null
       },
@@ -340988,11 +340988,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1676480/pid_1/lynn_law_firm_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Syracuse",
         "address": "Syracuse, NY",
         "address2": "M&T Bank Building, 101 South Salina Street, Suite 802",
-        "zip": null,
+        "zip": "13202",
         "lat": null,
         "lng": null
       },
@@ -341033,11 +341033,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2100588/pid_1/keith_shapiro_ford.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "Suite 509, 666 Old Country Road",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -341074,11 +341074,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2514479/pid_1/graubard_miller.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "The Chrysler Building, 405 Lexington Avenue, 44th Floor",
-        "zip": null,
+        "zip": "10174",
         "lat": null,
         "lng": null
       },
@@ -341133,11 +341133,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2187356/pid_1/nesenoff_miltenberg_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "363 Seventh Avenue, 5th Floor",
-        "zip": null,
+        "zip": "10001",
         "lat": null,
         "lng": null
       },
@@ -341209,11 +341209,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3414758/pid_1/the_ruth_e_bernstein_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "450 Seventh Avenue, Suite 2205",
-        "zip": null,
+        "zip": "10123",
         "lat": null,
         "lng": null
       },
@@ -341251,11 +341251,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1054566/pid_1/law_offices_of_alison_berry_esq.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "300 Hamilton Ave., Suite 410",
-        "zip": null,
+        "zip": "10601",
         "lat": null,
         "lng": null
       },
@@ -341289,11 +341289,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2378016/pid_1/russo_law_group_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "100 Quentin Roosevelt Blvd., Ste. 102",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -341347,11 +341347,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Malone",
         "address": "Malone, NY",
         "address2": "43 Golf Course Rd, PO Box 420",
-        "zip": null,
+        "zip": "12953",
         "lat": null,
         "lng": null
       },
@@ -341391,11 +341391,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1317223/pid_1/hagelin_spencer_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Buffalo",
         "address": "Buffalo, NY",
         "address2": "135 Delaware Ave., Ste. 200",
-        "zip": null,
+        "zip": "14202",
         "lat": null,
         "lng": null
       },
@@ -341445,11 +341445,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "200 Garden City Plaza, Suite 201",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -341484,11 +341484,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1672758/pid_1/bottar_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Syracuse",
         "address": "Syracuse, NY",
         "address2": "120 Madison St., Suite 1600",
-        "zip": null,
+        "zip": "13202",
         "lat": null,
         "lng": null
       },
@@ -341529,11 +341529,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Mineola",
         "address": "Mineola, NY",
         "address2": "330 Old Country Road, Suite 201",
-        "zip": null,
+        "zip": "11501",
         "lat": null,
         "lng": null
       },
@@ -341575,11 +341575,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2748493/pid_1/busson_sikorski_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "381 Park Avenue South, Suite 615",
-        "zip": null,
+        "zip": "10016",
         "lat": null,
         "lng": null
       },
@@ -341616,11 +341616,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "120 Bloomingdale Rd., Suite 400",
-        "zip": null,
+        "zip": "10601",
         "lat": null,
         "lng": null
       },
@@ -341666,11 +341666,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "244 Westchester Avenue, Suite 410",
-        "zip": null,
+        "zip": "10604",
         "lat": null,
         "lng": null
       },
@@ -341704,11 +341704,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1720351/pid_1/the_lambos_firm_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Tarrytown",
         "address": "Tarrytown, NY",
         "address2": "303 South Broadway, Suite 410",
-        "zip": null,
+        "zip": "10591",
         "lat": null,
         "lng": null
       },
@@ -341759,11 +341759,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4025102/pid_1/lawyers247com.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Bronx",
         "address": "Bronx, NY",
         "address2": "1 Fordham Plaza, Suite 1002",
-        "zip": null,
+        "zip": "10458",
         "lat": null,
         "lng": null
       },
@@ -341812,11 +341812,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Geneseo",
         "address": "Geneseo, NY",
         "address2": "31 Main Street",
-        "zip": null,
+        "zip": "14454",
         "lat": null,
         "lng": null
       },
@@ -341853,11 +341853,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "One Barker Avenue, Suite 675",
-        "zip": null,
+        "zip": "10601",
         "lat": null,
         "lng": null
       },
@@ -341904,11 +341904,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2077653/pid_1/white_cirrito_nally_lynch_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Hempstead",
         "address": "Hempstead, NY",
         "address2": "64 Hilton Ave.",
-        "zip": null,
+        "zip": "11550",
         "lat": null,
         "lng": null
       },
@@ -341949,11 +341949,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1162549/pid_1/peter_d_clark_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Fredonia",
         "address": "Fredonia, NY",
         "address2": "2 West Main Street",
-        "zip": null,
+        "zip": "14063",
         "lat": null,
         "lng": null
       },
@@ -341991,11 +341991,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Orangeburg",
         "address": "Orangeburg, NY",
         "address2": "30 Ramland Road, Suite 201",
-        "zip": null,
+        "zip": "10962",
         "lat": null,
         "lng": null
       },
@@ -342034,11 +342034,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Bronx",
         "address": "Bronx, NY",
         "address2": "778 Castle Hill Avenue",
-        "zip": null,
+        "zip": "10473",
         "lat": null,
         "lng": null
       },
@@ -342072,11 +342072,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3204024/pid_1/masch_coffey_associates_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New City",
         "address": "New City, NY",
         "address2": "254 South Main Street, Second Floor",
-        "zip": null,
+        "zip": "10956",
         "lat": null,
         "lng": null
       },
@@ -342117,11 +342117,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Bronx",
         "address": "Bronx, NY",
         "address2": "2344 Eastchester Road",
-        "zip": null,
+        "zip": "10469",
         "lat": null,
         "lng": null
       },
@@ -342158,11 +342158,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "5919 20th Avenue",
-        "zip": null,
+        "zip": "11204",
         "lat": null,
         "lng": null
       },
@@ -342198,11 +342198,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1192407/pid_1/sanocki_newman_turret_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "225 Broadway, 8th Floor",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -342254,11 +342254,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2214966/pid_1/jane_k_cristal_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Mineola",
         "address": "Mineola, NY",
         "address2": "200 Old Country Road, #400",
-        "zip": null,
+        "zip": "11501",
         "lat": null,
         "lng": null
       },
@@ -342301,11 +342301,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1431262/pid_1/cuccia_justine_g.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "Lobby Suite, 325 Broadway",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -342335,11 +342335,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Miller Place",
         "address": "Miller Place, NY",
         "address2": "85 Echo Avenue, Suite 1",
-        "zip": null,
+        "zip": "11764",
         "lat": null,
         "lng": null
       },
@@ -342374,11 +342374,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1798669/pid_1/joseph_f_defelice.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Kew Gardens",
         "address": "Kew Gardens, NY",
         "address2": "12510 Queens Blvd, Ste 302",
-        "zip": null,
+        "zip": "11415",
         "lat": null,
         "lng": null
       },
@@ -342417,11 +342417,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3312322/pid_1/singer_deutsch_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "555 Fifth Avenue, 17th Floor",
-        "zip": null,
+        "zip": "10017",
         "lat": null,
         "lng": null
       },
@@ -342457,11 +342457,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "488 Madison Avenue, 12th Floor",
-        "zip": null,
+        "zip": "10022",
         "lat": null,
         "lng": null
       },
@@ -342503,11 +342503,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4979642/pid_1/copps_dipaola_silverman_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Albany",
         "address": "Albany, NY",
         "address2": "126 State St., 6th Floor",
-        "zip": null,
+        "zip": "12207",
         "lat": null,
         "lng": null
       },
@@ -342547,11 +342547,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Freeport",
         "address": "Freeport, NY",
         "address2": "72 Guy Lombardo Avenue, Suite 5",
-        "zip": null,
+        "zip": "11520",
         "lat": null,
         "lng": null
       },
@@ -342587,11 +342587,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Albany",
         "address": "Albany, NY",
         "address2": "75 Columbia Street",
-        "zip": null,
+        "zip": "12210",
         "lat": null,
         "lng": null
       },
@@ -342634,11 +342634,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4431210/pid_1/the_law_offices_of_alexander_m_dudelson.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "26 Court Street, Suite 2306",
-        "zip": null,
+        "zip": "11242",
         "lat": null,
         "lng": null
       },
@@ -342681,11 +342681,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4507632/pid_1/eades_militello_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Fredonia",
         "address": "Fredonia, NY",
         "address2": "11 E Main St",
-        "zip": null,
+        "zip": "14063",
         "lat": null,
         "lng": null
       },
@@ -342727,11 +342727,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4571427/pid_1/ballon_stoll_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "233 Broadway, Suite 2205",
-        "zip": null,
+        "zip": "10279",
         "lat": null,
         "lng": null
       },
@@ -342772,11 +342772,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "20 Vesey Street, Suite 700",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -342814,11 +342814,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1824814/pid_1/fanning_and_hughes_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Forest Hills",
         "address": "Forest Hills, NY",
         "address2": "108-18 Queens Boulevard, 4th Floor",
-        "zip": null,
+        "zip": "11375",
         "lat": null,
         "lng": null
       },
@@ -342855,11 +342855,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2034568/pid_1/law_offices_of_howard_b_felcher_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "745 Fifth Ave, 5th Floor",
-        "zip": null,
+        "zip": "10151",
         "lat": null,
         "lng": null
       },
@@ -342899,11 +342899,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "50 Main Street, Suite 1275",
-        "zip": null,
+        "zip": "10606",
         "lat": null,
         "lng": null
       },
@@ -342937,11 +342937,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Middletown",
         "address": "Middletown, NY",
         "address2": "1 Dolson Avenue",
-        "zip": null,
+        "zip": "10940",
         "lat": null,
         "lng": null
       },
@@ -342989,11 +342989,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1643793/pid_1/librett_friedland_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "1225 Franklin Avenue, Suite 450",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -343032,11 +343032,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4878428/pid_1/the_law_office_of_dena_ghobashy_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Poughkeepsie",
         "address": "Poughkeepsie, NY",
         "address2": "3 Neptune Road, Suite A24",
-        "zip": null,
+        "zip": "12601",
         "lat": null,
         "lng": null
       },
@@ -343075,11 +343075,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3432705/pid_1/bryan_l_salamone_associates_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Melville",
         "address": "Melville, NY",
         "address2": "1145 Walt Whitman Road",
-        "zip": null,
+        "zip": "11747",
         "lat": null,
         "lng": null
       },
@@ -343135,11 +343135,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New Paltz",
         "address": "New Paltz, NY",
         "address2": "124 Main Street",
-        "zip": null,
+        "zip": "12561",
         "lat": null,
         "lng": null
       },
@@ -343174,11 +343174,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "300 Cadman Plaza West, 12th floor",
-        "zip": null,
+        "zip": "11201",
         "lat": null,
         "lng": null
       },
@@ -343218,11 +343218,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2537774/pid_1/jacobson_goldberg_kulb_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "585 Stewart Avenue, Suite 500",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -343264,11 +343264,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "90 Broad Street, Floor 6",
-        "zip": null,
+        "zip": "10004",
         "lat": null,
         "lng": null
       },
@@ -343305,11 +343305,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "20 Vesey Street, Suite 300",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -343350,11 +343350,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Albany",
         "address": "Albany, NY",
         "address2": "100 Great Oaks Boulevard, Suite 124",
-        "zip": null,
+        "zip": "12203",
         "lat": null,
         "lng": null
       },
@@ -343393,11 +343393,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Smithtown",
         "address": "Smithtown, NY",
         "address2": "99 Smithtown Boulevard",
-        "zip": null,
+        "zip": "11787",
         "lat": null,
         "lng": null
       },
@@ -343433,11 +343433,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1362848/pid_1/david_i_grauer_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "50 Main Street, Suite 480",
-        "zip": null,
+        "zip": "10606",
         "lat": null,
         "lng": null
       },
@@ -343475,11 +343475,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "363 7th Avenue, Suite 400",
-        "zip": null,
+        "zip": "10001",
         "lat": null,
         "lng": null
       },
@@ -343514,11 +343514,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New Windsor",
         "address": "New Windsor, NY",
         "address2": "1161 Little Britain Road, Suite B",
-        "zip": null,
+        "zip": "12553",
         "lat": null,
         "lng": null
       },
@@ -343556,11 +343556,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Buffalo",
         "address": "Buffalo, NY",
         "address2": "8226 Main Street",
-        "zip": null,
+        "zip": "14221",
         "lat": null,
         "lng": null
       },
@@ -343595,11 +343595,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Stone Ridge",
         "address": "Stone Ridge, NY",
         "address2": "3605 Atwood Road, Unit 1",
-        "zip": null,
+        "zip": "12484",
         "lat": null,
         "lng": null
       },
@@ -343631,11 +343631,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Ithaca",
         "address": "Ithaca, NY",
         "address2": "317 North Tioga Street",
-        "zip": null,
+        "zip": "14850",
         "lat": null,
         "lng": null
       },
@@ -343673,11 +343673,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3312881/pid_1/hanson_law_firm_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Schenectady",
         "address": "Schenectady, NY",
         "address2": "1801 Altamont Ave., Suite 2",
-        "zip": null,
+        "zip": "12303",
         "lat": null,
         "lng": null
       },
@@ -343717,11 +343717,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "Paul O’Dwyer Way, 52 Duane Street, 5th Floor",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -343767,11 +343767,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Bellmore",
         "address": "Bellmore, NY",
         "address2": "254 Pettit Avenue",
-        "zip": null,
+        "zip": "11710",
         "lat": null,
         "lng": null
       },
@@ -343809,11 +343809,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1722954/pid_1/koldin_law_center_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "East Syracuse",
         "address": "East Syracuse, NY",
         "address2": "6661 Kirkville Road, P.O. Box 279",
-        "zip": null,
+        "zip": "13057",
         "lat": null,
         "lng": null
       },
@@ -343866,11 +343866,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Melville",
         "address": "Melville, NY",
         "address2": "225 Broad Hollow Road, Suite 105E",
-        "zip": null,
+        "zip": "11747",
         "lat": null,
         "lng": null
       },
@@ -343917,11 +343917,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Levittown",
         "address": "Levittown, NY",
         "address2": "2950 Hempstead Tpke., Suite 201",
-        "zip": null,
+        "zip": "11756",
         "lat": null,
         "lng": null
       },
@@ -343958,11 +343958,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Utica",
         "address": "Utica, NY",
         "address2": "2045 Genesee Street",
-        "zip": null,
+        "zip": "13501",
         "lat": null,
         "lng": null
       },
@@ -344002,11 +344002,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Katonah",
         "address": "Katonah, NY",
         "address2": "200 Katonah Avenue",
-        "zip": null,
+        "zip": "10536",
         "lat": null,
         "lng": null
       },
@@ -344043,11 +344043,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Pittsford",
         "address": "Pittsford, NY",
         "address2": "31 N. Main Street",
-        "zip": null,
+        "zip": "14534",
         "lat": null,
         "lng": null
       },
@@ -344084,11 +344084,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1851353/pid_1/cyrus_d_mehta_associates_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "2 Wall Street, 6th Floor",
-        "zip": null,
+        "zip": "10005",
         "lat": null,
         "lng": null
       },
@@ -344125,11 +344125,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1377011/pid_1/the_law_offices_of_michael_n_kalil.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Utica",
         "address": "Utica, NY",
         "address2": "1602 Sunset Ave.",
-        "zip": null,
+        "zip": "13502",
         "lat": null,
         "lng": null
       },
@@ -344167,11 +344167,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "445 Park Avenue, 17th Floor",
-        "zip": null,
+        "zip": "10022",
         "lat": null,
         "lng": null
       },
@@ -344211,11 +344211,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5073858/pid_1/law_office_of_andrew_kehrer.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Silver Creek",
         "address": "Silver Creek, NY",
         "address2": "71 Main Street",
-        "zip": null,
+        "zip": "14136",
         "lat": null,
         "lng": null
       },
@@ -344258,11 +344258,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "360 Lexington Avenue, Suite 1200",
-        "zip": null,
+        "zip": "10017",
         "lat": null,
         "lng": null
       },
@@ -344310,11 +344310,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "707 Westchester Avenue",
-        "zip": null,
+        "zip": "10604",
         "lat": null,
         "lng": null
       },
@@ -344349,11 +344349,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "150 Broadway, Suite 1920",
-        "zip": null,
+        "zip": "10038",
         "lat": null,
         "lng": null
       },
@@ -344388,11 +344388,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3408331/pid_1/michael_s_lamonsoff.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "32 Old Slip, 8th Floor",
-        "zip": null,
+        "zip": "10005",
         "lat": null,
         "lng": null
       },
@@ -344430,11 +344430,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1382730/pid_1/kennedy_lillis_schmidt_english.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "125 Maiden Lane, Suite 5C",
-        "zip": null,
+        "zip": "10038",
         "lat": null,
         "lng": null
       },
@@ -344478,11 +344478,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "20 Vesey St.",
-        "zip": null,
+        "zip": "10007",
         "lat": null,
         "lng": null
       },
@@ -344519,11 +344519,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4744650/pid_1/geoffrey_long_esq.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Staten Island",
         "address": "Staten Island, NY",
         "address2": "1942 Victory Boulevard",
-        "zip": null,
+        "zip": "10314",
         "lat": null,
         "lng": null
       },
@@ -344565,11 +344565,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "235 Main St",
-        "zip": null,
+        "zip": "10601",
         "lat": null,
         "lng": null
       },
@@ -344608,11 +344608,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Forest Hills",
         "address": "Forest Hills, NY",
         "address2": "11821 Queens Boulevard, Suite 614",
-        "zip": null,
+        "zip": "11375",
         "lat": null,
         "lng": null
       },
@@ -344650,11 +344650,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1081500/pid_1/judd_moss_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Ronkonkoma",
         "address": "Ronkonkoma, NY",
         "address2": "3505 Veterans Memorial Hwy., Suite S2",
-        "zip": null,
+        "zip": "11779",
         "lat": null,
         "lng": null
       },
@@ -344699,11 +344699,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "26 Court Street, Suite 700",
-        "zip": null,
+        "zip": "11242",
         "lat": null,
         "lng": null
       },
@@ -344737,11 +344737,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4864251/pid_1/james_i_myers_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Williamsville",
         "address": "Williamsville, NY",
         "address2": "5500 Main St., Suite 312",
-        "zip": null,
+        "zip": "14221",
         "lat": null,
         "lng": null
       },
@@ -344778,11 +344778,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "420 Lexington Avenue, Suite 2601",
-        "zip": null,
+        "zip": "10170",
         "lat": null,
         "lng": null
       },
@@ -344829,11 +344829,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Hicksville",
         "address": "Hicksville, NY",
         "address2": "16 East Old Country Road",
-        "zip": null,
+        "zip": "11801",
         "lat": null,
         "lng": null
       },
@@ -344872,11 +344872,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Pearl River",
         "address": "Pearl River, NY",
         "address2": "One Blue Hill Plaza, Suite 1006",
-        "zip": null,
+        "zip": "10965",
         "lat": null,
         "lng": null
       },
@@ -344911,11 +344911,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3713266/pid_1/schwartz_ponterio_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "134 West 29th Street, Suite 1001",
-        "zip": null,
+        "zip": "10001",
         "lat": null,
         "lng": null
       },
@@ -344964,11 +344964,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "Midtown Manhattan, 255 West 36th Street, 8th Floor",
-        "zip": null,
+        "zip": "10018",
         "lat": null,
         "lng": null
       },
@@ -345003,11 +345003,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1511193/pid_1/michael_g_putter_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Rome",
         "address": "Rome, NY",
         "address2": "8703 Turin Road, P.O. Box 509",
-        "zip": null,
+        "zip": "13442",
         "lat": null,
         "lng": null
       },
@@ -345043,11 +345043,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1626248/pid_1/frank_j_raso.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Nyack",
         "address": "Nyack, NY",
         "address2": "3 Main Street, Suite 1",
-        "zip": null,
+        "zip": "10960",
         "lat": null,
         "lng": null
       },
@@ -345093,11 +345093,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3509866/pid_1/deborah_g_rosenthal.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Great Neck",
         "address": "Great Neck, NY",
         "address2": "336 Northern Blvd.",
-        "zip": null,
+        "zip": "11021",
         "lat": null,
         "lng": null
       },
@@ -345135,11 +345135,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Albany",
         "address": "Albany, NY",
         "address2": "110 Great Oaks Boulevard",
-        "zip": null,
+        "zip": "12203",
         "lat": null,
         "lng": null
       },
@@ -345177,11 +345177,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5205176/pid_1/lee_a_rubenstein_attorney.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "450 Fashion Ave., Suite 1400",
-        "zip": null,
+        "zip": "10123",
         "lat": null,
         "lng": null
       },
@@ -345218,11 +345218,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Olean",
         "address": "Olean, NY",
         "address2": "235 North Union Street",
-        "zip": null,
+        "zip": "14760",
         "lat": null,
         "lng": null
       },
@@ -345258,11 +345258,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1476479/pid_1/howard_r_sanders_esq.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "60 East 42nd Street, 47th Floor",
-        "zip": null,
+        "zip": "10165",
         "lat": null,
         "lng": null
       },
@@ -345302,11 +345302,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "270 Madison Avenue",
-        "zip": null,
+        "zip": "10016",
         "lat": null,
         "lng": null
       },
@@ -345351,11 +345351,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1631591/pid_1/law_offices_of_douglas_scheinman.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Valley Stream",
         "address": "Valley Stream, NY",
         "address2": "104 South Central Avenue, Suite 14",
-        "zip": null,
+        "zip": "11580",
         "lat": null,
         "lng": null
       },
@@ -345396,11 +345396,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "80 Wall Street, Suite 1214",
-        "zip": null,
+        "zip": "10005",
         "lat": null,
         "lng": null
       },
@@ -345434,11 +345434,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Staten Island",
         "address": "Staten Island, NY",
         "address2": "801 Castleton Avenue",
-        "zip": null,
+        "zip": "10310",
         "lat": null,
         "lng": null
       },
@@ -345472,11 +345472,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "26 Court Street, Suite 1809",
-        "zip": null,
+        "zip": "11242",
         "lat": null,
         "lng": null
       },
@@ -345508,11 +345508,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5219206/pid_1/the_steckler_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Oceanside",
         "address": "Oceanside, NY",
         "address2": "656 Dacosta Ave.",
-        "zip": null,
+        "zip": "11572",
         "lat": null,
         "lng": null
       },
@@ -345548,11 +345548,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Geneseo",
         "address": "Geneseo, NY",
         "address2": "131 Main Street, PO Box 546",
-        "zip": null,
+        "zip": "14454",
         "lat": null,
         "lng": null
       },
@@ -345586,11 +345586,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "White Plains",
         "address": "White Plains, NY",
         "address2": "333 Westchester Avenue",
-        "zip": null,
+        "zip": "10604",
         "lat": null,
         "lng": null
       },
@@ -345622,11 +345622,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Garden City",
         "address": "Garden City, NY",
         "address2": "666 Old Country Road, Suite 303",
-        "zip": null,
+        "zip": "11530",
         "lat": null,
         "lng": null
       },
@@ -345665,11 +345665,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1678867/pid_1/law_offices_of_joseph_j_tock.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Mahopac",
         "address": "Mahopac, NY",
         "address2": "963 Route 6",
-        "zip": null,
+        "zip": "10541",
         "lat": null,
         "lng": null
       },
@@ -345707,11 +345707,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3271100/pid_1/gary_j_wachtel_esq.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "New York",
         "address": "New York, NY",
         "address2": "450 Seventh Avenue, Suite 1905",
-        "zip": null,
+        "zip": "10123",
         "lat": null,
         "lng": null
       },
@@ -345758,11 +345758,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Mineola",
         "address": "Mineola, NY",
         "address2": "1565 Franklin Avenue, Suite 200",
-        "zip": null,
+        "zip": "11501",
         "lat": null,
         "lng": null
       },
@@ -345794,11 +345794,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1947624/pid_1/the_witecki_law_office.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Schenectady",
         "address": "Schenectady, NY",
         "address2": "8 S. Church St.",
-        "zip": null,
+        "zip": "12305",
         "lat": null,
         "lng": null
       },
@@ -345838,11 +345838,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Brooklyn",
         "address": "Brooklyn, NY",
         "address2": "394 - 396 Waverly Avenue",
-        "zip": null,
+        "zip": "11238",
         "lat": null,
         "lng": null
       },
@@ -345877,11 +345877,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NY",
+        "city": "Syracuse",
         "address": "Syracuse, NY",
         "address2": "269 W. Jefferson Street, 2nd Floor",
-        "zip": null,
+        "zip": "13202",
         "lat": null,
         "lng": null
       },

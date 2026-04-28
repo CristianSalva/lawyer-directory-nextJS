@@ -2190,11 +2190,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1347635/pid_1/the_fitzgerald_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WY",
+        "city": "Cheyenne",
         "address": "Cheyenne, WY",
         "address2": "2108 Warren Avenue",
-        "zip": null,
+        "zip": "82001",
         "lat": null,
         "lng": null
       },
@@ -2229,11 +2229,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2244192/pid_1/donald_l_fuller_attorney_at_law_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WY",
+        "city": "Casper",
         "address": "Casper, WY",
         "address2": "242 South Grant Street",
-        "zip": null,
+        "zip": "82601",
         "lat": null,
         "lng": null
       },

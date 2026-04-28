@@ -29840,11 +29840,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1844392/pid_1/germaine_blaszka_pa.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Derry",
         "address": "Derry, NH",
         "address2": "23 Birch Street",
-        "zip": null,
+        "zip": "03038",
         "lat": null,
         "lng": null
       },
@@ -29893,11 +29893,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Nashua",
         "address": "Nashua, NH",
         "address2": "30 Temple Street, Suite 201",
-        "zip": null,
+        "zip": "03060",
         "lat": null,
         "lng": null
       },
@@ -29932,11 +29932,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4984273/pid_1/dennehy_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Nashua",
         "address": "Nashua, NH",
         "address2": "127 Main Street, Suite 1",
-        "zip": null,
+        "zip": "03060",
         "lat": null,
         "lng": null
       },
@@ -29974,11 +29974,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4276337/pid_1/durbin_law_offices_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Portsmouth",
         "address": "Portsmouth, NH",
         "address2": "144 Washington Street",
-        "zip": null,
+        "zip": "03801",
         "lat": null,
         "lng": null
       },
@@ -30029,11 +30029,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4926852/pid_1/hoover_flynn_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Portsmouth",
         "address": "Portsmouth, NH",
         "address2": "100 International Drive, Suite 365",
-        "zip": null,
+        "zip": "03801",
         "lat": null,
         "lng": null
       },
@@ -30073,11 +30073,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Manchester",
         "address": "Manchester, NH",
         "address2": "722 Pine Street",
-        "zip": null,
+        "zip": "03104",
         "lat": null,
         "lng": null
       },
@@ -30113,11 +30113,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Portsmouth",
         "address": "Portsmouth, NH",
         "address2": "507 State Street",
-        "zip": null,
+        "zip": "03801",
         "lat": null,
         "lng": null
       },
@@ -30152,11 +30152,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3434981/pid_1/plymouth_law_center.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Plymouth",
         "address": "Plymouth, NH",
         "address2": "66 Highland St.",
-        "zip": null,
+        "zip": "03264",
         "lat": null,
         "lng": null
       },
@@ -30193,11 +30193,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Salem",
         "address": "Salem, NH",
         "address2": "45 Stiles Road, Suite 104",
-        "zip": null,
+        "zip": "03079",
         "lat": null,
         "lng": null
       },
@@ -30231,11 +30231,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5187608/pid_1/the_law_office_of_bainbridge_d_testa_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "NH",
+        "city": "Lee",
         "address": "Lee, NH",
         "address2": "62 Calef Hwy",
-        "zip": null,
+        "zip": "03861",
         "lat": null,
         "lng": null
       },

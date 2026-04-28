@@ -11845,11 +11845,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2392150/pid_1/law_offices_of_bonnie_m_benson_pa.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Camden",
         "address": "Camden, DE",
         "address2": "2116 S Dupont Hwy, Ste 2",
-        "zip": null,
+        "zip": "19934",
         "lat": null,
         "lng": null
       },
@@ -11893,11 +11893,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4984158/pid_1/law_offices_of_amanda_l_h_brinton_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Wilmington",
         "address": "Wilmington, DE",
         "address2": "521 North West Street",
-        "zip": null,
+        "zip": "19801",
         "lat": null,
         "lng": null
       },
@@ -11936,11 +11936,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Dover",
         "address": "Dover, DE",
         "address2": "426 South State St.",
-        "zip": null,
+        "zip": "19901",
         "lat": null,
         "lng": null
       },
@@ -11975,11 +11975,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4953309/pid_1/horner_law_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Wilmington",
         "address": "Wilmington, DE",
         "address2": "1225 N. King St, FL11",
-        "zip": null,
+        "zip": "19801",
         "lat": null,
         "lng": null
       },
@@ -12013,11 +12013,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1587520/pid_1/law_office_of_kevin_a_obrien.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Greenville",
         "address": "Greenville, DE",
         "address2": "3801 Kennett Pike, Suite C-204",
-        "zip": null,
+        "zip": "19807",
         "lat": null,
         "lng": null
       },
@@ -12056,11 +12056,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Wilmington",
         "address": "Wilmington, DE",
         "address2": "1201 North King Street",
-        "zip": null,
+        "zip": "19801",
         "lat": null,
         "lng": null
       },
@@ -12095,11 +12095,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2119628/pid_1/wahl_family_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "DE",
+        "city": "Wilmington",
         "address": "Wilmington, DE",
         "address2": "WSFS Building, Fairfax Center, 2005 Concord Pike, Suite 203",
-        "zip": null,
+        "zip": "19803",
         "lat": null,
         "lng": null
       },

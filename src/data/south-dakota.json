@@ -9621,11 +9621,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "SD",
+        "city": "Sioux Falls",
         "address": "Sioux Falls, SD",
         "address2": "101 South Main Avenue, Suite 100, Security National Bank Centre",
-        "zip": null,
+        "zip": "57104",
         "lat": null,
         "lng": null
       },
@@ -9669,11 +9669,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4694722/pid_1/grey_law_office_prof_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "SD",
+        "city": "Rapid City",
         "address": "Rapid City, SD",
         "address2": "909 Saint Joseph Street",
-        "zip": null,
+        "zip": "57701",
         "lat": null,
         "lng": null
       },
@@ -9718,11 +9718,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4859947/pid_1/george_nelson_law_office.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "SD",
+        "city": "Rapid City",
         "address": "Rapid City, SD",
         "address2": "2640 Jackson Boulevard",
-        "zip": null,
+        "zip": "57702",
         "lat": null,
         "lng": null
       },
@@ -9764,11 +9764,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "SD",
+        "city": "Yankton",
         "address": "Yankton, SD",
         "address2": "200 West Third Street",
-        "zip": null,
+        "zip": "57078",
         "lat": null,
         "lng": null
       },

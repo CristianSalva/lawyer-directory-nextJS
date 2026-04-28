@@ -803,11 +803,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2513657/pid_1/boltnagi_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "VI",
+        "city": "St Thomas",
         "address": "St Thomas, VI",
         "address2": "Suite 202, Tutu Park Mall",
-        "zip": null,
+        "zip": "00802",
         "lat": null,
         "lng": null
       },

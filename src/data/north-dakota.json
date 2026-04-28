@@ -16787,11 +16787,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1022881/pid_1/bossart_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ND",
+        "city": "Fargo",
         "address": "Fargo, ND",
         "address2": "1220 Main Avenue, Suite 123",
-        "zip": null,
+        "zip": "58103",
         "lat": null,
         "lng": null
       },
@@ -16832,11 +16832,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4884786/pid_1/kellington_oster_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ND",
+        "city": "Bismarck",
         "address": "Bismarck, ND",
         "address2": "619 Riverwood Drive, Ste 202",
-        "zip": null,
+        "zip": "58504",
         "lat": null,
         "lng": null
       },
@@ -16878,11 +16878,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4991663/pid_1/martens_pllc_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ND",
+        "city": "West Fargo",
         "address": "West Fargo, ND",
         "address2": "PO Box 744",
-        "zip": null,
+        "zip": "58078",
         "lat": null,
         "lng": null
       },
@@ -16924,11 +16924,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5210052/pid_1/pagel_hager_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ND",
+        "city": "Bismarck",
         "address": "Bismarck, ND",
         "address2": "1715 Burnt Boat Drive",
-        "zip": null,
+        "zip": "58503",
         "lat": null,
         "lng": null
       },

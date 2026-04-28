@@ -10525,11 +10525,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "P.O. Box 112070",
-        "zip": null,
+        "zip": "99511",
         "lat": null,
         "lng": null
       },
@@ -10563,11 +10563,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2421229/pid_1/jason_weiner_and_associates_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Fairbanks",
         "address": "Fairbanks, AK",
         "address2": "1008 16th Ave, Ste 200",
-        "zip": null,
+        "zip": "99701",
         "lat": null,
         "lng": null
       },
@@ -10612,7 +10612,7 @@
         "Chris Bodle",
         "Kenneth L. Covell"
       ],
-      "official_practice_area": [],
+      "official_practice_area": ["Criminal Defense"],
       "additional_locations": []
     },
     {
@@ -10627,11 +10627,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3391286/pid_1/farley_graves_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "807 G Street, Suite 250",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10675,11 +10675,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "880 N. Street, Suite 203",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10715,11 +10715,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1922502/pid_1/cook_schuhmann_groseclose_inc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Fairbanks",
         "address": "Fairbanks, AK",
         "address2": "714 Fourth Avenue, Suite 200",
-        "zip": null,
+        "zip": "99701",
         "lat": null,
         "lng": null
       },
@@ -10768,7 +10768,7 @@
         "Barbara L. Schuhmann",
         "Zane D. Wilson"
       ],
-      "official_practice_area": [],
+      "official_practice_area": ["Criminal Defense"],
       "additional_locations": []
     },
     {
@@ -10783,11 +10783,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "2600 Denali Street, Suite 460",
-        "zip": null,
+        "zip": "99503",
         "lat": null,
         "lng": null
       },
@@ -10823,11 +10823,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4804183/pid_1/sandberg_pace_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "101 E 9th Ave, Ste 7A",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10870,11 +10870,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "The Seventh & E Building, 431 West Seventh Avenue, Suite 107",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10910,11 +10910,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "810 West 2nd Avenue",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10947,11 +10947,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "745 W. 4th Avenue, Suite 200",
-        "zip": null,
+        "zip": "99501",
         "lat": null,
         "lng": null
       },
@@ -10985,11 +10985,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "AK",
+        "city": "Anchorage",
         "address": "Anchorage, AK",
         "address2": "2525 Blueberry Road, Suite 102",
-        "zip": null,
+        "zip": "99503",
         "lat": null,
         "lng": null
       },

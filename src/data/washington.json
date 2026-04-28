@@ -73307,11 +73307,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "801 Second Avenue, Suite 700",
-        "zip": null,
+        "zip": "98104",
         "lat": null,
         "lng": null
       },
@@ -73356,11 +73356,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2032201/pid_1/balsam_quinlan_ps.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Tacoma",
         "address": "Tacoma, WA",
         "address2": "911 South I Street",
-        "zip": null,
+        "zip": "98405",
         "lat": null,
         "lng": null
       },
@@ -73402,11 +73402,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2234941/pid_1/reinig_barber_henry.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kennewick",
         "address": "Kennewick, WA",
         "address2": "114-A Vista Way",
-        "zip": null,
+        "zip": "99336",
         "lat": null,
         "lng": null
       },
@@ -73455,11 +73455,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2123950/pid_1/michele_beaujon.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "2400 Elliott Ave",
-        "zip": null,
+        "zip": "98121",
         "lat": null,
         "lng": null
       },
@@ -73492,11 +73492,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kent",
         "address": "Kent, WA",
         "address2": "333 5th Avenue South",
-        "zip": null,
+        "zip": "98032",
         "lat": null,
         "lng": null
       },
@@ -73528,11 +73528,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3405016/pid_1/peryea_silver_taylor.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "1200 Fifth Avenue, Suite 1550",
-        "zip": null,
+        "zip": "98101",
         "lat": null,
         "lng": null
       },
@@ -73578,11 +73578,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "3731 Colby Avenue",
-        "zip": null,
+        "zip": "98201",
         "lat": null,
         "lng": null
       },
@@ -73616,11 +73616,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Olympia",
         "address": "Olympia, WA",
         "address2": "State & Sawyer Building, 2120 State Avenue N.E., Suite 201",
-        "zip": null,
+        "zip": "98506",
         "lat": null,
         "lng": null
       },
@@ -73656,11 +73656,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1633585/pid_1/tuell_young_ps.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Tacoma",
         "address": "Tacoma, WA",
         "address2": "1457 South Union Ave.",
-        "zip": null,
+        "zip": "98405",
         "lat": null,
         "lng": null
       },
@@ -73704,11 +73704,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kent",
         "address": "Kent, WA",
         "address2": "20415 72nd Avenue South, Suite 270",
-        "zip": null,
+        "zip": "98032",
         "lat": null,
         "lng": null
       },
@@ -73740,11 +73740,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Pasco",
         "address": "Pasco, WA",
         "address2": "1915 Sun Willows Blvd., Ste. A",
-        "zip": null,
+        "zip": "99301",
         "lat": null,
         "lng": null
       },
@@ -73783,11 +73783,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Renton",
         "address": "Renton, WA",
         "address2": "947 Powell Avenue SW, Suite 105",
-        "zip": null,
+        "zip": "98057",
         "lat": null,
         "lng": null
       },
@@ -73827,11 +73827,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "7100 Evergreen Way, Suite E",
-        "zip": null,
+        "zip": "98203",
         "lat": null,
         "lng": null
       },
@@ -73865,11 +73865,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2477095/pid_1/carl_j_gaul.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "Bank of America Building, Suite 302, 1604 Hewitt Avenue",
-        "zip": null,
+        "zip": "98201",
         "lat": null,
         "lng": null
       },
@@ -73913,11 +73913,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4550811/pid_1/gilbert_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Moses Lake",
         "address": "Moses Lake, WA",
         "address2": "100 East Broadway Avenue, P.O Box 2149",
-        "zip": null,
+        "zip": "98837",
         "lat": null,
         "lng": null
       },
@@ -73957,11 +73957,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Vancouver",
         "address": "Vancouver, WA",
         "address2": "7700 Northeast 26th Avenue",
-        "zip": null,
+        "zip": "98665",
         "lat": null,
         "lng": null
       },
@@ -73997,11 +73997,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "2825 Colby Avenue, Suite 304",
-        "zip": null,
+        "zip": "98201",
         "lat": null,
         "lng": null
       },
@@ -74035,11 +74035,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Edmonds",
         "address": "Edmonds, WA",
         "address2": "420 Bell Street",
-        "zip": null,
+        "zip": "98020",
         "lat": null,
         "lng": null
       },
@@ -74073,11 +74073,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Port Orchard",
         "address": "Port Orchard, WA",
         "address2": "904 Dwight St.",
-        "zip": null,
+        "zip": "98366",
         "lat": null,
         "lng": null
       },
@@ -74113,11 +74113,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellevue",
         "address": "Bellevue, WA",
         "address2": "2050 112th Aveune NE, Suite 230",
-        "zip": null,
+        "zip": "98004",
         "lat": null,
         "lng": null
       },
@@ -74153,11 +74153,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Renton",
         "address": "Renton, WA",
         "address2": "15 S. Grady Way, Suite 249",
-        "zip": null,
+        "zip": "98057",
         "lat": null,
         "lng": null
       },
@@ -74191,11 +74191,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4485108/pid_1/timothy_g_krell_real_estate_law_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellingham",
         "address": "Bellingham, WA",
         "address2": "805 Dupont Street, Suite 1",
-        "zip": null,
+        "zip": "98225",
         "lat": null,
         "lng": null
       },
@@ -74235,11 +74235,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5140674/pid_1/erm_immigration_law_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "105 14th Ave., Suite 110",
-        "zip": null,
+        "zip": "98122",
         "lat": null,
         "lng": null
       },
@@ -74276,11 +74276,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "1000 Second Avenue, Suite 3500",
-        "zip": null,
+        "zip": "98104",
         "lat": null,
         "lng": null
       },
@@ -74322,11 +74322,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kent",
         "address": "Kent, WA",
         "address2": "655 West Smith Street, Suite 210",
-        "zip": null,
+        "zip": "98032",
         "lat": null,
         "lng": null
       },
@@ -74367,11 +74367,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kent",
         "address": "Kent, WA",
         "address2": "555 West Smith Street, Suite 104",
-        "zip": null,
+        "zip": "98032",
         "lat": null,
         "lng": null
       },
@@ -74405,11 +74405,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Lynnwood",
         "address": "Lynnwood, WA",
         "address2": "21327 44th Avenue West, P.O. Box 1001",
-        "zip": null,
+        "zip": "98046",
         "lat": null,
         "lng": null
       },
@@ -74445,11 +74445,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "7742 14th Avenue NW",
-        "zip": null,
+        "zip": "98117",
         "lat": null,
         "lng": null
       },
@@ -74483,11 +74483,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Issaquah",
         "address": "Issaquah, WA",
         "address2": "175 NE Gilman Boulevard",
-        "zip": null,
+        "zip": "98027",
         "lat": null,
         "lng": null
       },
@@ -74534,11 +74534,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Spokane",
         "address": "Spokane, WA",
         "address2": "900 North Maple Street",
-        "zip": null,
+        "zip": "99201",
         "lat": null,
         "lng": null
       },
@@ -74575,11 +74575,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2613303/pid_1/retacco_law_offices_inc_ps.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Federal Way",
         "address": "Federal Way, WA",
         "address2": "30640 Pacific Hwy S, Suite C",
-        "zip": null,
+        "zip": "98003",
         "lat": null,
         "lng": null
       },
@@ -74616,11 +74616,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellevue",
         "address": "Bellevue, WA",
         "address2": "11004 NE 11th Street, Suite 119",
-        "zip": null,
+        "zip": "98004",
         "lat": null,
         "lng": null
       },
@@ -74654,11 +74654,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Silverdale",
         "address": "Silverdale, WA",
         "address2": "9657 Levin Road N.W., Suite 240",
-        "zip": null,
+        "zip": "98383",
         "lat": null,
         "lng": null
       },
@@ -74700,11 +74700,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "12360 Lake City Way NE, Suite 420",
-        "zip": null,
+        "zip": "98125",
         "lat": null,
         "lng": null
       },
@@ -74738,11 +74738,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "2015 33rd Street",
-        "zip": null,
+        "zip": "98201",
         "lat": null,
         "lng": null
       },
@@ -74776,11 +74776,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4927166/pid_1/marc_l_silverman_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellevue",
         "address": "Bellevue, WA",
         "address2": "2223 112th Ave. NE, Suite 202",
-        "zip": null,
+        "zip": "98004",
         "lat": null,
         "lng": null
       },
@@ -74821,11 +74821,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2466406/pid_1/james_l_sorenson.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "929 North 130th Street, Suite 14",
-        "zip": null,
+        "zip": "98133",
         "lat": null,
         "lng": null
       },
@@ -74863,11 +74863,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Everett",
         "address": "Everett, WA",
         "address2": "2825 Colby Avenue, Suite 304",
-        "zip": null,
+        "zip": "98201",
         "lat": null,
         "lng": null
       },
@@ -74899,11 +74899,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Spokane",
         "address": "Spokane, WA",
         "address2": "1403 West Boone Avenue",
-        "zip": null,
+        "zip": "99201",
         "lat": null,
         "lng": null
       },
@@ -74937,11 +74937,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4827270/pid_1/stratton_immigration_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "811 1ST Ave, STE 261",
-        "zip": null,
+        "zip": "98104",
         "lat": null,
         "lng": null
       },
@@ -74979,11 +74979,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Gig Harbor",
         "address": "Gig Harbor, WA",
         "address2": "5800 Soundview Dr., Suite C101",
-        "zip": null,
+        "zip": "98335",
         "lat": null,
         "lng": null
       },
@@ -75020,11 +75020,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "701 5th Avenue, Suite 3510",
-        "zip": null,
+        "zip": "98104",
         "lat": null,
         "lng": null
       },
@@ -75058,11 +75058,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Kennewick",
         "address": "Kennewick, WA",
         "address2": "5724 W. Clearwater Ave.",
-        "zip": null,
+        "zip": "99336",
         "lat": null,
         "lng": null
       },
@@ -75100,11 +75100,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "600 1st Avenue, Suite 307",
-        "zip": null,
+        "zip": "98104",
         "lat": null,
         "lng": null
       },
@@ -75139,11 +75139,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Tacoma",
         "address": "Tacoma, WA",
         "address2": "705 South 9th St., Ste. 301",
-        "zip": null,
+        "zip": "98405",
         "lat": null,
         "lng": null
       },
@@ -75178,11 +75178,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4156103/pid_1/law_office_of_steven_g_toole_ps.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellevue",
         "address": "Bellevue, WA",
         "address2": "Post Box 50008",
-        "zip": null,
+        "zip": "98015",
         "lat": null,
         "lng": null
       },
@@ -75218,11 +75218,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2049246/pid_1/richard_j_troberman.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Seattle",
         "address": "Seattle, WA",
         "address2": "1215 4th Ave, Suite 910",
-        "zip": null,
+        "zip": "98161",
         "lat": null,
         "lng": null
       },
@@ -75262,11 +75262,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3522043/pid_1/marie_white_attorney_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Burien",
         "address": "Burien, WA",
         "address2": "415 SW 152nd Street",
-        "zip": null,
+        "zip": "98166",
         "lat": null,
         "lng": null
       },
@@ -75310,11 +75310,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "WA",
+        "city": "Bellevue",
         "address": "Bellevue, WA",
         "address2": "9 Lake Bellevue Drive, Suite 104",
-        "zip": null,
+        "zip": "98005",
         "lat": null,
         "lng": null
       },

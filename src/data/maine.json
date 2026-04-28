@@ -4660,11 +4660,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2135058/pid_1/the_boulos_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ME",
+        "city": "Saco",
         "address": "Saco, ME",
         "address2": "75 North Street, P.O. Box 856",
-        "zip": null,
+        "zip": "04072",
         "lat": null,
         "lng": null
       },
@@ -4699,11 +4699,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4037007/pid_1/law_offices_of_peter_j_cyr.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ME",
+        "city": "Portland",
         "address": "Portland, ME",
         "address2": "85 Brackett Street",
-        "zip": null,
+        "zip": "04102",
         "lat": null,
         "lng": null
       },
@@ -4750,11 +4750,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ME",
+        "city": "Bangor",
         "address": "Bangor, ME",
         "address2": "88 Hammond Street, Suite 321",
-        "zip": null,
+        "zip": "04402",
         "lat": null,
         "lng": null
       },
@@ -4790,11 +4790,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1421303/pid_1/law_offices_of_joanne_e_mattiace.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ME",
+        "city": "Westbrook",
         "address": "Westbrook, ME",
         "address2": "58 Stroudwater Place",
-        "zip": null,
+        "zip": "04092",
         "lat": null,
         "lng": null
       },
@@ -4830,11 +4830,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ME",
+        "city": "Old Orchard Beach",
         "address": "Old Orchard Beach, ME",
         "address2": "32 Saco Avenue",
-        "zip": null,
+        "zip": "04064",
         "lat": null,
         "lng": null
       },

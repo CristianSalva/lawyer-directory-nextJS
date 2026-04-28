@@ -90054,11 +90054,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2509058/pid_1/barton_hall_schnieders_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Oak Grove",
         "address": "Oak Grove, MO",
         "address2": "1117 South Broadway Street",
-        "zip": null,
+        "zip": "64075",
         "lat": null,
         "lng": null
       },
@@ -90123,11 +90123,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3257306/pid_1/dollar_burns_becker_hershewe_lc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "1100 Main Street, Suite 2600",
-        "zip": null,
+        "zip": "64105",
         "lat": null,
         "lng": null
       },
@@ -90178,11 +90178,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "2600 Grand Boulevard, Suite 550",
-        "zip": null,
+        "zip": "64108",
         "lat": null,
         "lng": null
       },
@@ -90225,11 +90225,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "Saint Louis Place, 200 North Broadway, Suite 700",
-        "zip": null,
+        "zip": "63102",
         "lat": null,
         "lng": null
       },
@@ -90265,11 +90265,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2365522/pid_1/thurman_howald_weber_senkel_norrick_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Hillsboro",
         "address": "Hillsboro, MO",
         "address2": "One Thurman Court, 301 Main Street",
-        "zip": null,
+        "zip": "63050",
         "lat": null,
         "lng": null
       },
@@ -90321,11 +90321,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3058811/pid_1/hamilton_weber_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Saint Charles",
         "address": "Saint Charles, MO",
         "address2": "200 North Third Street",
-        "zip": null,
+        "zip": "63301",
         "lat": null,
         "lng": null
       },
@@ -90375,11 +90375,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Columbia",
         "address": "Columbia, MO",
         "address2": "2000 E. Broadway, Box 288",
-        "zip": null,
+        "zip": "65201",
         "lat": null,
         "lng": null
       },
@@ -90416,11 +90416,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Joplin",
         "address": "Joplin, MO",
         "address2": "902 E. 4th St, Suite 101",
-        "zip": null,
+        "zip": "64801",
         "lat": null,
         "lng": null
       },
@@ -90454,11 +90454,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "9300 Olive Boulevard",
-        "zip": null,
+        "zip": "63132",
         "lat": null,
         "lng": null
       },
@@ -90492,11 +90492,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2527829/pid_1/thornberry_brown_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "4550 Main Street, Suite 205",
-        "zip": null,
+        "zip": "64111",
         "lat": null,
         "lng": null
       },
@@ -90545,11 +90545,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Jefferson City",
         "address": "Jefferson City, MO",
         "address2": "305 E. McCarty Street, Suite 300",
-        "zip": null,
+        "zip": "65101",
         "lat": null,
         "lng": null
       },
@@ -90584,11 +90584,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Springfield",
         "address": "Springfield, MO",
         "address2": "901 E Saint Louis Street, Suite 1600",
-        "zip": null,
+        "zip": "65806",
         "lat": null,
         "lng": null
       },
@@ -90628,11 +90628,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Bridgeton",
         "address": "Bridgeton, MO",
         "address2": "12800 Boenker Lane",
-        "zip": null,
+        "zip": "63044",
         "lat": null,
         "lng": null
       },
@@ -90669,11 +90669,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Saint Louis",
         "address": "Saint Louis, MO",
         "address2": "8866 Ladue Road, Suite 250",
-        "zip": null,
+        "zip": "63124",
         "lat": null,
         "lng": null
       },
@@ -90708,11 +90708,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2240039/pid_1/stewart_cook_constance_minton_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Independence",
         "address": "Independence, MO",
         "address2": "501 W. Lexington Ave.",
-        "zip": null,
+        "zip": "64050",
         "lat": null,
         "lng": null
       },
@@ -90761,11 +90761,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Columbia",
         "address": "Columbia, MO",
         "address2": "1103 East Walnut Street, Suite 203",
-        "zip": null,
+        "zip": "65201",
         "lat": null,
         "lng": null
       },
@@ -90801,11 +90801,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4780561/pid_1/the_cox_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "1609 W. 92nd Street",
-        "zip": null,
+        "zip": "64114",
         "lat": null,
         "lng": null
       },
@@ -90842,11 +90842,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3180898/pid_1/cripps_simmons_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Columbia",
         "address": "Columbia, MO",
         "address2": "1109 Club Village Dr., Suite 101, PO Box 7068",
-        "zip": null,
+        "zip": "65205",
         "lat": null,
         "lng": null
       },
@@ -90890,11 +90890,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1636515/pid_1/steelman_gaunt_crowley.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Rolla",
         "address": "Rolla, MO",
         "address2": "901 N. Pine Street, Suite 110",
-        "zip": null,
+        "zip": "65401",
         "lat": null,
         "lng": null
       },
@@ -90963,11 +90963,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2361930/pid_1/alan_e_dewoskin_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St Louis",
         "address": "St Louis, MO",
         "address2": "225 South Meramec Avenue, Suite 511",
-        "zip": null,
+        "zip": "63105",
         "lat": null,
         "lng": null
       },
@@ -91028,11 +91028,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Florissant",
         "address": "Florissant, MO",
         "address2": "330 Rue St Francois",
-        "zip": null,
+        "zip": "63031",
         "lat": null,
         "lng": null
       },
@@ -91067,11 +91067,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis (Clayton)",
         "address": "St. Louis (Clayton), MO",
         "address2": "7905 Forsyth Boulevard",
-        "zip": null,
+        "zip": "63105",
         "lat": null,
         "lng": null
       },
@@ -91111,11 +91111,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_5065404/pid_1/faber_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Columbia",
         "address": "Columbia, MO",
         "address2": "1001 Cherry St, # 104",
-        "zip": null,
+        "zip": "65201",
         "lat": null,
         "lng": null
       },
@@ -91158,11 +91158,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Nevada",
         "address": "Nevada, MO",
         "address2": "110 East Cherry Street",
-        "zip": null,
+        "zip": "64772",
         "lat": null,
         "lng": null
       },
@@ -91196,11 +91196,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "2531 Hampton Avenue",
-        "zip": null,
+        "zip": "63139",
         "lat": null,
         "lng": null
       },
@@ -91237,11 +91237,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Independence",
         "address": "Independence, MO",
         "address2": "4200 Little Blue Parkway, Suite 630",
-        "zip": null,
+        "zip": "64057",
         "lat": null,
         "lng": null
       },
@@ -91279,11 +91279,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "701 Market Street, Suite 800",
-        "zip": null,
+        "zip": "63101",
         "lat": null,
         "lng": null
       },
@@ -91331,11 +91331,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2362961/pid_1/aull_giorza_worthington_hamilton_heimsoth_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Lexington",
         "address": "Lexington, MO",
         "address2": "108 South 11th Street, Suite 280",
-        "zip": null,
+        "zip": "64067",
         "lat": null,
         "lng": null
       },
@@ -91393,11 +91393,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "4700 Belleview Avenue, Suite 215",
-        "zip": null,
+        "zip": "64112",
         "lat": null,
         "lng": null
       },
@@ -91430,11 +91430,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4840157/pid_1/grundy_disability_group_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Liberty",
         "address": "Liberty, MO",
         "address2": "134 N. Water St.",
-        "zip": null,
+        "zip": "64068",
         "lat": null,
         "lng": null
       },
@@ -91471,11 +91471,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Town And Country",
         "address": "Town And Country, MO",
         "address2": "13321 N. Outer 40 Rd, Suite 300",
-        "zip": null,
+        "zip": "63017",
         "lat": null,
         "lng": null
       },
@@ -91510,11 +91510,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3746795/pid_1/burt_harriman_attorney_at_law_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Lexington",
         "address": "Lexington, MO",
         "address2": "1101 Main Street",
-        "zip": null,
+        "zip": "64067",
         "lat": null,
         "lng": null
       },
@@ -91551,11 +91551,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Saint Louis",
         "address": "Saint Louis, MO",
         "address2": "1108 Olive Street, 4th Floor",
-        "zip": null,
+        "zip": "63101",
         "lat": null,
         "lng": null
       },
@@ -91589,11 +91589,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "Kansas City Livestock Exchange Building, 1600 Genessee Street, Suite 842",
-        "zip": null,
+        "zip": "64102",
         "lat": null,
         "lng": null
       },
@@ -91630,11 +91630,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Town and Country",
         "address": "Town and Country, MO",
         "address2": "13321 North Outer Forty Road, Suite 100",
-        "zip": null,
+        "zip": "63017",
         "lat": null,
         "lng": null
       },
@@ -91672,11 +91672,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2359851/pid_1/kempton_russell.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Sedalia",
         "address": "Sedalia, MO",
         "address2": "114 E 5th St",
-        "zip": null,
+        "zip": "65301",
         "lat": null,
         "lng": null
       },
@@ -91717,11 +91717,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4003494/pid_1/probate_law_center_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "12300 Old Tesson Road, Suite 100-B",
-        "zip": null,
+        "zip": "63128",
         "lat": null,
         "lng": null
       },
@@ -91759,11 +91759,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4286585/pid_1/lee_g_kline_attorney_and_counselor_at_law.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Saint Louis",
         "address": "Saint Louis, MO",
         "address2": "7777 Bonhomme Avenue, Suite 1910",
-        "zip": null,
+        "zip": "63105",
         "lat": null,
         "lng": null
       },
@@ -91857,11 +91857,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Saint Louis",
         "address": "Saint Louis, MO",
         "address2": "1010 Market Street, Suite 1540",
-        "zip": null,
+        "zip": "63101",
         "lat": null,
         "lng": null
       },
@@ -91899,11 +91899,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "9001 State Line Rd., Ste. 220",
-        "zip": null,
+        "zip": "64114",
         "lat": null,
         "lng": null
       },
@@ -91942,11 +91942,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Jefferson City",
         "address": "Jefferson City, MO",
         "address2": "515 East High Street, Suite 301",
-        "zip": null,
+        "zip": "65101",
         "lat": null,
         "lng": null
       },
@@ -91991,11 +91991,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Clayton",
         "address": "Clayton, MO",
         "address2": "222 South Meramec, Suite 300",
-        "zip": null,
+        "zip": "63105",
         "lat": null,
         "lng": null
       },
@@ -92030,11 +92030,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "4520 Main Street, Suite 1570",
-        "zip": null,
+        "zip": "64111",
         "lat": null,
         "lng": null
       },
@@ -92075,11 +92075,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1310643/pid_1/the_schnaare_law_firm_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Hillsboro",
         "address": "Hillsboro, MO",
         "address2": "321 Main St., Courthouse Sq., PO Box 440",
-        "zip": null,
+        "zip": "63050",
         "lat": null,
         "lng": null
       },
@@ -92132,11 +92132,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1336375/pid_1/nigro_law_firm.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "606 West 39th Street",
-        "zip": null,
+        "zip": "64111",
         "lat": null,
         "lng": null
       },
@@ -92179,11 +92179,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Thayer",
         "address": "Thayer, MO",
         "address2": "304 E. Walnut Street",
-        "zip": null,
+        "zip": "65791",
         "lat": null,
         "lng": null
       },
@@ -92219,11 +92219,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Springfield",
         "address": "Springfield, MO",
         "address2": "1200 East Woodhurst, Suite T-200",
-        "zip": null,
+        "zip": "65804",
         "lat": null,
         "lng": null
       },
@@ -92260,11 +92260,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "St. Louis",
         "address": "St. Louis, MO",
         "address2": "Bank of America Plaza, 800 Market Street, Suite 1100",
-        "zip": null,
+        "zip": "63101",
         "lat": null,
         "lng": null
       },
@@ -92310,11 +92310,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Warrensburg",
         "address": "Warrensburg, MO",
         "address2": "311 North Holden Street",
-        "zip": null,
+        "zip": "64093",
         "lat": null,
         "lng": null
       },
@@ -92351,11 +92351,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Independence",
         "address": "Independence, MO",
         "address2": "233 West Walnut Street",
-        "zip": null,
+        "zip": "64050",
         "lat": null,
         "lng": null
       },
@@ -92394,11 +92394,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2519404/pid_1/collins_webster_and_rouse_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Joplin",
         "address": "Joplin, MO",
         "address2": "5957 East 20th Street",
-        "zip": null,
+        "zip": "64801",
         "lat": null,
         "lng": null
       },
@@ -92437,11 +92437,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "4520 Main Street, Suite 700",
-        "zip": null,
+        "zip": "64111",
         "lat": null,
         "lng": null
       },
@@ -92486,11 +92486,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "712 Broadway, Suite 100",
-        "zip": null,
+        "zip": "64105",
         "lat": null,
         "lng": null
       },
@@ -92529,11 +92529,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_3357341/pid_1/law_offices_of_michael_s_shipley_llc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Liberty",
         "address": "Liberty, MO",
         "address2": "204 A East Kansas",
-        "zip": null,
+        "zip": "64068",
         "lat": null,
         "lng": null
       },
@@ -92588,11 +92588,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Frontenac",
         "address": "Frontenac, MO",
         "address2": "745 Old Frontenac Square, Suite 202",
-        "zip": null,
+        "zip": "63131",
         "lat": null,
         "lng": null
       },
@@ -92626,11 +92626,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Springfield",
         "address": "Springfield, MO",
         "address2": "419 N. Boonville Avenue",
-        "zip": null,
+        "zip": "65806",
         "lat": null,
         "lng": null
       },
@@ -92664,11 +92664,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Kansas City",
         "address": "Kansas City, MO",
         "address2": "460 Nichols Road, Suite 200",
-        "zip": null,
+        "zip": "64112",
         "lat": null,
         "lng": null
       },
@@ -92713,11 +92713,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2384077/pid_1/vanpelt_vanpelt_pc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Springfield",
         "address": "Springfield, MO",
         "address2": "Suite A, 1524 E. Primrose",
-        "zip": null,
+        "zip": "65804",
         "lat": null,
         "lng": null
       },
@@ -92760,11 +92760,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4926359/pid_1/the_law_office_of_adam_woody.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "MO",
+        "city": "Springfield",
         "address": "Springfield, MO",
         "address2": "2121 S Eastgate Ave.",
-        "zip": null,
+        "zip": "65809",
         "lat": null,
         "lng": null
       },

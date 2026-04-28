@@ -10912,11 +10912,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_1987587/pid_1/james_vernon_weeks_pa.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Coeur d'Alene",
         "address": "Coeur d'Alene, ID",
         "address2": "1626 Lincoln Way",
-        "zip": null,
+        "zip": "83814",
         "lat": null,
         "lng": null
       },
@@ -10963,11 +10963,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_2205229/pid_1/ramsden_marfice_ealy_de_smet_llp.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Coeur d'Alene",
         "address": "Coeur d'Alene, ID",
         "address2": "700 Northwest Blvd.",
-        "zip": null,
+        "zip": "83814",
         "lat": null,
         "lng": null
       },
@@ -11026,11 +11026,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Coeur d'Alene",
         "address": "Coeur d'Alene, ID",
         "address2": "233 East Harrison Avenue",
-        "zip": null,
+        "zip": "83814",
         "lat": null,
         "lng": null
       },
@@ -11065,11 +11065,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Nampa",
         "address": "Nampa, ID",
         "address2": "1008 west Sanetta Street",
-        "zip": null,
+        "zip": "83651",
         "lat": null,
         "lng": null
       },
@@ -11107,11 +11107,11 @@
       "photo": null,
       "profile_image_url": "https://lawyers.findlaw.com/static/c/images/env_prod/type_profile/firmwld_4821054/pid_1/robinson_law_pllc.jpg",
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Coeur D'Alene",
         "address": "Coeur D'Alene, ID",
         "address2": "2005 N. Ironwood Pkwy, Ste. 140",
-        "zip": null,
+        "zip": "83814",
         "lat": null,
         "lng": null
       },
@@ -11154,11 +11154,11 @@
       "photo": null,
       "profile_image_url": null,
       "location": {
-        "state": null,
-        "city": null,
+        "state": "ID",
+        "city": "Coeur D Alene",
         "address": "Coeur D Alene, ID",
         "address2": "250 Northwest Boulevard, Suite 107A",
-        "zip": null,
+        "zip": "83814",
         "lat": null,
         "lng": null
       },
