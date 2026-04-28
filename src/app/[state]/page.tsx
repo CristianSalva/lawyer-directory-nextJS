@@ -185,7 +185,7 @@ export default async function StatePage({ params, searchParams }: Props) {
   const exactFirms  = practiceFiltered.filter(f => isExactMatch(f))
   const nearbyFirms = practiceFiltered.filter(f => !isExactMatch(f) && isWithinRadius(f))
   const farFirms    = practiceFiltered.filter(f => !isExactMatch(f) && !isWithinRadius(f))
-  const totalCount  = exactFirms.length + nearbyFirms.length
+  const totalCount  = exactFirms.length + nearbyFirms.length + farFirms.length
 
   const title = `${area} Law Firms in ${city}, ${data.state_abbr}`
   const areaParam = `area=${encodeURIComponent(area)}`
