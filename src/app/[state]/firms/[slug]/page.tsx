@@ -1,7 +1,30 @@
+import fs from 'fs'
+import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getFirm, getStateData, getAllFirmSlugs } from '@/lib/data'
 import ContactForm from '@/components/ContactForm'
+
+function resolveFirmPhoto(stateSlug: string, city: string | null, slug: string, name: string | null): string | null {
+  const citySlug = (city || '').toLowerCase().replace(/\s+/g, '-').replace(/,/g, '')
+  const dir = path.join(process.cwd(), 'firm_photos')
+
+  const direct = `${stateSlug}-${citySlug}-${slug}.jpg`
+  if (fs.existsSync(path.join(dir, direct))) return `/firm-photos/${direct}`
+
+  if (name) {
+    const ns = name.toLowerCase()
+      .replace(/\s*&\s*/g, '--')
+      .replace(/\./g, '')
+      .replace(/,\s*/g, '-')
+      .replace(/\s+/g, '-')
+      .replace(/-{3,}/g, '--')
+      .replace(/^-|-$/g, '')
+    const named = `${stateSlug}-${citySlug}-${ns}.jpg`
+    if (fs.existsSync(path.join(dir, named))) return `/firm-photos/${named}`
+  }
+  return null
+}
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
@@ -66,8 +89,10 @@ export default async function FirmPage({ params }: Props) {
   ].filter(Boolean) as string[]
   const fullAddress = addressParts.join(', ')
 
-  const hasPhoto = Boolean((profile_image_url || photo) && (profile_image_url || photo)?.startsWith('http'))
-  const photoUrl = profile_image_url || photo
+  const localPhoto = resolveFirmPhoto(stateSlug, location.city, slug, name)
+  const remotePhoto = (profile_image_url || photo)?.startsWith('http') ? (profile_image_url || photo) : null
+  const photoUrl = localPhoto ?? remotePhoto
+  const hasPhoto = Boolean(photoUrl)
 
   const displayFeatures = [...contact.features]
   if (free_consultation && !displayFeatures.includes('Free Consultations')) {

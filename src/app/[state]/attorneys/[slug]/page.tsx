@@ -1,8 +1,19 @@
+import fs from 'fs'
+import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getAttorney, getStateData, getAllAttorneySlugs } from '@/lib/data'
 import type { AttorneySection } from '@/types'
 import ContactForm from '@/components/ContactForm'
+
+function resolveAttorneyPhotos(slug: string): { photo: string | null; map: string | null } {
+  const first = slug[0]?.toLowerCase() ?? ''
+  const folder = /^\d/.test(slug) ? 'missing' : first
+  const base = path.join(process.cwd(), 'photos_backup', folder)
+  const photo = fs.existsSync(path.join(base, `${slug}.jpg`)) ? `/attorney-photos/${folder}/${slug}.jpg` : null
+  const map   = fs.existsSync(path.join(base, `${slug}-map.jpg`)) ? `/attorney-photos/${folder}/${slug}-map.jpg` : null
+  return { photo, map }
+}
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
@@ -83,18 +94,9 @@ export default async function AttorneyPage({ params }: Props) {
   ].filter(Boolean) as string[]
   const fullAddress = addressParts.join(', ')
 
-  function resolvePhoto(p: string | null | undefined): string | null {
-    if (!p) return null
-    if (p.startsWith('http')) return p
-    if (p.startsWith('/photos/attorneys/')) {
-      const filename = p.split('/').pop()!
-      const letter = filename[0].toLowerCase()
-      return `/photos/attorneys/${letter}/${filename}`
-    }
-    return null
-  }
-
-  const hasPhoto = Boolean(resolvePhoto(photo))
+  const { photo: localPhoto, map: mapPhoto } = resolveAttorneyPhotos(slug)
+  const resolvedPhoto = localPhoto ?? (photo?.startsWith('http') ? photo : null)
+  const hasPhoto = Boolean(resolvedPhoto)
   const firstName = name.trim().split(/\s+/)[0]
 
   const displayFeatures = [...contact.features]
@@ -128,7 +130,7 @@ export default async function AttorneyPage({ params }: Props) {
         <div className="container sp-hero-inner">
           <div className="sp-photo-wrap">
             {hasPhoto ? (
-              <img src={resolvePhoto(photo)!} alt={name} className="sp-photo" />
+              <img src={resolvedPhoto!} alt={name} className="sp-photo" />
             ) : (
               <div className={`sp-avatar ${avatarClass(name)}`}>{initials(name)}</div>
             )}
@@ -248,7 +250,8 @@ export default async function AttorneyPage({ params }: Props) {
                 <h3>Similar Attorneys</h3>
                 <div className="sp-similar">
                   {similar.map(a => {
-                    const simPhotoUrl = resolvePhoto(a.photo)
+                    const { photo: simPhoto } = resolveAttorneyPhotos(a.slug)
+                    const simPhotoUrl = a.photo?.startsWith('http') ? a.photo : simPhoto
                     return (
                       <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
                         {simPhotoUrl ? (
@@ -265,6 +268,12 @@ export default async function AttorneyPage({ params }: Props) {
                     )
                   })}
                 </div>
+              </div>
+            )}
+            {mapPhoto && (
+              <div className="sp-sidebar-card">
+                <h3>Office Location</h3>
+                <img src={mapPhoto} alt={`${name} office location map`} className="sp-map-img" />
               </div>
             )}
           </aside>

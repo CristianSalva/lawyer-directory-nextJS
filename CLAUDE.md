@@ -53,6 +53,13 @@ lawyer-directory-nextjs/
 │   │   └── data.ts                           All data access functions (server-side)
 │   └── types/
 │       └── index.ts                          TypeScript interfaces
+├── firm_photos/                              Firm profile images (flat, 10,669 files)
+├── photos_backup/                            Attorney photos + map images (by first letter)
+│   ├── a/ … z/                              {slug}.jpg and {slug}-map.jpg
+│   └── missing/                             Numeric-slug attorneys (e.g. 1001127_1.jpg)
+└── public/
+    ├── firm-photos  →  ../firm_photos        Symlink — served at /firm-photos/
+    └── attorney-photos  →  ../photos_backup  Symlink — served at /attorney-photos/
 ```
 
 ---
@@ -377,9 +384,68 @@ The site is deployed on **Render.com** as a persistent Node.js server (not stati
 
 ---
 
+## Photo System
+
+### Firm photos (`firm_photos/`)
+
+Flat directory. Naming convention: `{state-slug}-{city-slug}-{firm-slug}.jpg`
+
+Two slug variants exist — try both via `resolveFirmPhoto()` in the firm profile page:
+1. **Data slug** — direct match using `firm.slug` from JSON
+2. **Name slug** — derived from `firm.name`:
+   - `&` → `--` (double dash)
+   - Dots removed (`P.C.` → `pc`)
+   - Commas → single dash
+
+**Coverage:** ~7,493 / 10,700 firms (70%)
+
+### Attorney photos (`photos_backup/`)
+
+Organized by first letter of attorney slug. Numeric slugs go in `missing/`.
+
+Each attorney has two files:
+- `{letter}/{slug}.jpg` — profile headshot → shown in hero + "Attorneys at this Firm" card
+- `{letter}/{slug}-map.jpg` — Google Maps screenshot → shown in "Office Location" sidebar card
+
+Resolved via `resolveAttorneyPhotos(slug)` in the attorney profile page and `resolveAttorneyPhoto(slug)` in the state results page.
+
+**Coverage:** 6,442 / 41,072 attorneys (15.7%) — the remaining 84.3% have no photo in any source and will show the initials avatar. Filling the gap requires scraping profile images from FindLaw for the missing attorneys.
+
+### Photo resolution priority
+
+**Attorneys** (all pages):
+1. `photos_backup/{letter}/{slug}.jpg` — local folder, highest priority
+2. `attorney.photo` http URL — remote fallback (currently 0 attorneys have this)
+
+**Firms** (all pages):
+1. `firm_photos/{state}-{city}-{slug}.jpg` — local folder, try data slug then name slug
+2. `firm.profile_image_url` http URL — remote fallback
+
+### Where photos are used
+
+| Page | Attorney photo | Firm photo | Map image |
+|---|---|---|---|
+| Attorney profile hero | ✓ | — | ✓ sidebar |
+| Attorney profile — Similar Attorneys | ✓ | — | — |
+| Firm profile — Attorneys at this Firm | ✓ | — | — |
+| Firm profile hero | — | ✓ | — |
+| State results — attorney cards | ✓ | — | — |
+| State results — firm cards | — | ✓ | — |
+
+### CSS classes
+
+| Class | Used for |
+|---|---|
+| `.sp-photo` | Hero profile photo (150×150, circular) |
+| `.sp-sim-photo` | Circular photo in list/firm cards (44×44) |
+| `.llc-photo` | Photo in state results cards |
+| `.sp-map-img` | Full-width map image in sidebar card |
+
+---
+
 ## Known Gaps / Future Work
 
-- **Attorney photos**: The `Attorney.photo` field may contain a remote URL. Profile pages show the photo if it starts with `http`, otherwise show the initial avatar. Photos are not bundled in this project.
+- **Attorney photo coverage**: Only 6,442 / 41,072 attorneys (15.7%) have a photo in `photos_backup/`. The remaining 34,630 will always show the initials avatar until photos are scraped from FindLaw and added to the folder.
 - **Pagination**: The results page currently caps at 20 attorneys and 10 firms. Pagination UI exists in `globals.css` (`.ld-pagination`) but is not yet wired up.
 - **`<img>` vs `next/image`**: Profile pages use a plain `<img>` for external photo URLs. Switching to `next/image` with `unoptimized={true}` would silence the lint warning.
 - **Static export compatibility**: The `?area=&city=` query-param flow on state pages requires a server (or dynamic rendering). If deploying as a pure static export, the filter flow would need to be redesigned.

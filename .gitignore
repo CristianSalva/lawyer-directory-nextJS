@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large photo asset folders (serve via CDN in production)
+/firm_photos
+/photos_backup

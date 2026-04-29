@@ -1,8 +1,32 @@
+import fs from 'fs'
+import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getStateData, getAllStateSlugs } from '@/lib/data'
 import StateLanding from '@/components/StateLanding'
 import type { Firm, Attorney } from '@/types'
+
+function resolveAttorneyPhoto(slug: string): string | null {
+  const first = slug[0]?.toLowerCase() ?? ''
+  const folder = /^\d/.test(slug) ? 'missing' : first
+  const file = path.join(process.cwd(), 'photos_backup', folder, `${slug}.jpg`)
+  return fs.existsSync(file) ? `/attorney-photos/${folder}/${slug}.jpg` : null
+}
+
+function resolveFirmPhoto(stateSlug: string, city: string | null, slug: string, name: string | null): string | null {
+  const citySlug = (city || '').toLowerCase().replace(/\s+/g, '-').replace(/,/g, '')
+  const dir = path.join(process.cwd(), 'firm_photos')
+  const direct = `${stateSlug}-${citySlug}-${slug}.jpg`
+  if (fs.existsSync(path.join(dir, direct))) return `/firm-photos/${direct}`
+  if (name) {
+    const ns = name.toLowerCase()
+      .replace(/\s*&\s*/g, '--').replace(/\./g, '').replace(/,\s*/g, '-')
+      .replace(/\s+/g, '-').replace(/-{3,}/g, '--').replace(/^-|-$/g, '')
+    const named = `${stateSlug}-${citySlug}-${ns}.jpg`
+    if (fs.existsSync(path.join(dir, named))) return `/firm-photos/${named}`
+  }
+  return null
+}
 
 interface Props {
   params: Promise<{ state: string }>
@@ -64,10 +88,12 @@ function avatarClass(name: string) {
 }
 
 function FirmCard({ firm, stateSlug, avatarClass }: { firm: Firm; stateSlug: string; avatarClass: (name: string) => string }) {
+  const photoUrl = resolveFirmPhoto(stateSlug, firm.location.city, firm.slug, firm.name ?? null)
+    ?? (firm.profile_image_url?.startsWith('http') ? firm.profile_image_url : null)
   return (
     <div className="lawyer-card">
-      {firm.profile_image_url ? (
-        <img src={firm.profile_image_url} alt={firm.name ?? ''} className="llc-photo" />
+      {photoUrl ? (
+        <img src={photoUrl} alt={firm.name ?? ''} className="llc-photo" />
       ) : (
         <div className={`llc-avatar ${avatarClass(firm.name ?? '')}`}>
           {(firm.name ?? '?').charAt(0)}
@@ -114,11 +140,11 @@ function FirmCard({ firm, stateSlug, avatarClass }: { firm: Firm; stateSlug: str
 }
 
 function AttorneyCard({ attorney, stateSlug, avatarClass }: { attorney: Attorney; stateSlug: string; avatarClass: (name: string) => string }) {
-  const hasPhoto = Boolean(attorney.photo && attorney.photo.startsWith('http'))
+  const photoUrl = resolveAttorneyPhoto(attorney.slug) ?? (attorney.photo?.startsWith('http') ? attorney.photo : null)
   return (
     <div className="lawyer-card">
-      {hasPhoto ? (
-        <img src={attorney.photo} alt={attorney.name} className="llc-photo" />
+      {photoUrl ? (
+        <img src={photoUrl} alt={attorney.name} className="llc-photo" />
       ) : (
         <div className={`llc-avatar ${avatarClass(attorney.name)}`}>
           {attorney.name.charAt(0)}
