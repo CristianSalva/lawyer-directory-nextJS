@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getStateData, getAllStateSlugs } from '@/lib/data'
 import StateLanding from '@/components/StateLanding'
-import type { Firm } from '@/types'
+import type { Firm, Attorney } from '@/types'
 
 interface Props {
   params: Promise<{ state: string }>
@@ -113,6 +113,58 @@ function FirmCard({ firm, stateSlug, avatarClass }: { firm: Firm; stateSlug: str
   )
 }
 
+function AttorneyCard({ attorney, stateSlug, avatarClass }: { attorney: Attorney; stateSlug: string; avatarClass: (name: string) => string }) {
+  const hasPhoto = Boolean(attorney.photo && attorney.photo.startsWith('http'))
+  return (
+    <div className="lawyer-card">
+      {hasPhoto ? (
+        <img src={attorney.photo} alt={attorney.name} className="llc-photo" />
+      ) : (
+        <div className={`llc-avatar ${avatarClass(attorney.name)}`}>
+          {attorney.name.charAt(0)}
+        </div>
+      )}
+      <div className="llc-body">
+        <div className="llc-name-row">
+          <Link href={`/${stateSlug}/attorneys/${attorney.slug}`} className="llc-name">
+            {attorney.name}
+          </Link>
+          {attorney.free_consultation && <span className="llc-badge llc-badge--free">Free Consultation</span>}
+          {!!attorney.super_lawyers && <span className="llc-badge llc-badge--sl">Super Lawyers®</span>}
+        </div>
+        {attorney.firm_name && <p className="llc-firm">{attorney.firm_name}</p>}
+        {attorney.practice_type && <p className="llc-firm">{attorney.practice_type}</p>}
+        <p className="llc-location">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#777"/>
+          </svg>
+          {attorney.location.city}{attorney.location.state ? `, ${attorney.location.state}` : ''}
+        </p>
+        {attorney.practice_areas.length > 0 && (
+          <div className="llc-areas">
+            {attorney.practice_areas.slice(0, 4).map(a => (
+              <span key={a} className="llc-area-tag">{a}</span>
+            ))}
+          </div>
+        )}
+        <div className="llc-foot">
+          {attorney.contact.phones[0] && (
+            <a href={`tel:${attorney.contact.phones[0]}`} className="llc-phone">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" fill="#424A5B"/>
+              </svg>
+              {attorney.contact.phones[0]}
+            </a>
+          )}
+          <Link href={`/${stateSlug}/attorneys/${attorney.slug}`} className="llc-view-btn">
+            View Profile
+          </Link>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default async function StatePage({ params, searchParams }: Props) {
   const { state: stateSlug } = await params
   const { area, city } = await searchParams
@@ -163,6 +215,12 @@ export default async function StatePage({ params, searchParams }: Props) {
     }
   }
 
+  // Filter attorneys by practice area (case-insensitive partial match) and city
+  const exactAttorneys = data.attorneys.filter(a =>
+    a.location.city?.toLowerCase() === cityQ &&
+    a.practice_areas.some(p => p.toLowerCase().includes(areaQ) || areaQ.includes(p.toLowerCase()))
+  )
+
   const practiceFiltered = data.firms.filter(f =>
     f.official_practice_area.some(p => p.toLowerCase() === areaQ)
   )
@@ -185,9 +243,11 @@ export default async function StatePage({ params, searchParams }: Props) {
   const exactFirms  = practiceFiltered.filter(f => isExactMatch(f))
   const nearbyFirms = practiceFiltered.filter(f => !isExactMatch(f) && isWithinRadius(f))
   const farFirms    = practiceFiltered.filter(f => !isExactMatch(f) && !isWithinRadius(f))
-  const totalCount  = exactFirms.length + nearbyFirms.length + farFirms.length
+  const totalAttorneys = exactAttorneys.length
+  const totalFirms  = exactFirms.length + nearbyFirms.length + farFirms.length
+  const totalCount  = totalAttorneys + totalFirms
 
-  const title = `${area} Law Firms in ${city}, ${data.state_abbr}`
+  const title = `${area} Attorneys & Law Firms in ${city}, ${data.state_abbr}`
   const areaParam = `area=${encodeURIComponent(area)}`
   const cityParam = `city=${encodeURIComponent(city)}`
 
@@ -206,7 +266,7 @@ export default async function StatePage({ params, searchParams }: Props) {
           </nav>
           <h1>{title}</h1>
           <p className="archive-header-sub">
-            {totalCount.toLocaleString()} law firms
+            {totalAttorneys.toLocaleString()} attorneys · {totalFirms.toLocaleString()} law firms
           </p>
 
           <div className="sl-filter-bar">
@@ -263,7 +323,7 @@ export default async function StatePage({ params, searchParams }: Props) {
             <div>
               {totalCount === 0 ? (
                 <div className="attorneys-no-results">
-                  <p>No law firms found for <strong>{area}</strong> in <strong>{city}</strong>.</p>
+                  <p>No attorneys or law firms found for <strong>{area}</strong> in <strong>{city}</strong>.</p>
                   <br />
                   <Link href={`/${stateSlug}?${areaParam}`} className="btn-notfound-primary">Try a different city</Link>
                 </div>
@@ -271,22 +331,40 @@ export default async function StatePage({ params, searchParams }: Props) {
                 <>
                   <div className="archive-results-header">
                     <p className="arc-count">
-                      <strong>{totalCount.toLocaleString()}</strong> law firms · {area} · {city}, {data.state_abbr}
+                      <strong>{totalAttorneys.toLocaleString()}</strong> attorneys · <strong>{totalFirms.toLocaleString()}</strong> law firms · {area} · {city}, {data.state_abbr}
                     </p>
                   </div>
 
+                  {exactAttorneys.length > 0 && (
+                    <>
+                      <div className="results-separator">
+                        <span>Attorneys in {city}</span>
+                      </div>
+                      <div className="lawyer-list">
+                        {exactAttorneys.slice(0, 20).map(attorney => (
+                          <AttorneyCard key={attorney.slug} attorney={attorney} stateSlug={stateSlug} avatarClass={avatarClass} />
+                        ))}
+                      </div>
+                    </>
+                  )}
+
                   {exactFirms.length > 0 && (
-                    <div className="lawyer-list">
-                      {exactFirms.slice(0, 10).map(firm => (
-                        <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
-                      ))}
-                    </div>
+                    <>
+                      <div className="results-separator">
+                        <span>Law Firms in {city}</span>
+                      </div>
+                      <div className="lawyer-list">
+                        {exactFirms.slice(0, 10).map(firm => (
+                          <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
+                        ))}
+                      </div>
+                    </>
                   )}
 
                   {nearbyFirms.length > 0 && (
                     <>
                       <div className="results-separator">
-                        <span>Also within {RADIUS_MILES} miles of {city}</span>
+                        <span>Law Firms within {RADIUS_MILES} miles of {city}</span>
                       </div>
                       <div className="lawyer-list">
                         {nearbyFirms.slice(0, 10).map(firm => (
@@ -299,7 +377,7 @@ export default async function StatePage({ params, searchParams }: Props) {
                   {farFirms.length > 0 && (
                     <>
                       <div className="results-separator">
-                        <span>Additional results over {RADIUS_MILES} miles away</span>
+                        <span>Additional law firms over {RADIUS_MILES} miles away</span>
                       </div>
                       <div className="lawyer-list">
                         {farFirms.slice(0, 10).map(firm => (
