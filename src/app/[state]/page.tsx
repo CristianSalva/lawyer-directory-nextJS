@@ -217,10 +217,10 @@ export default async function StatePage({ params, searchParams }: Props) {
     }
   }
 
-  // Filter attorneys by practice area (case-insensitive partial match) and city
+  // Filter attorneys by official_practice_area (exact match) and city
   const exactAttorneys = data.attorneys.filter(a =>
     a.location.city?.toLowerCase() === cityQ &&
-    a.practice_areas.some(p => p.toLowerCase().includes(areaQ) || areaQ.includes(p.toLowerCase()))
+    a.official_practice_area.some(p => p.toLowerCase() === areaQ)
   )
 
   const practiceFiltered = data.firms.filter(f =>

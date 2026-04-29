@@ -36,6 +36,7 @@ export interface Attorney {
   location: AttorneyLocation
   contact: AttorneyContact
   practice_areas: string[]
+  official_practice_area: string[]
   sections: AttorneySection[]
 }
 
