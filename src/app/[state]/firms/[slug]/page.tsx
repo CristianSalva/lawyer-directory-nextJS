@@ -40,6 +40,21 @@ export default async function FirmPage({ params }: Props) {
     .filter(f => f.slug !== slug && f.practice_areas.some(pa => firm.practice_areas.includes(pa)))
     .slice(0, 3) ?? []
 
+  const attorneyByName = Object.fromEntries(
+    (stateData?.attorneys ?? []).map(a => [a.name.trim().toLowerCase(), a])
+  )
+
+  function resolvePhoto(p: string | null | undefined): string | null {
+    if (!p) return null
+    if (p.startsWith('http')) return p
+    if (p.startsWith('/photos/attorneys/')) {
+      const filename = p.split('/').pop()!
+      const letter = filename[0].toLowerCase()
+      return `/photos/attorneys/${letter}/${filename}`
+    }
+    return null
+  }
+
   const { name, practice_type, years_experience, free_consultation, super_lawyers,
           photo, profile_image_url, location, contact, practice_areas, attorneys } = firm
 
@@ -160,15 +175,30 @@ export default async function FirmPage({ params }: Props) {
                 <h2>Attorneys at this Firm</h2>
                 <div className="sp-card-body">
                   <div className="sp-similar">
-                    {attorneys.map((attyName, i) => (
-                      <div key={i} className="sp-sim-item">
-                        <div className={`sp-sim-avatar ${avatarClass(attyName)}`}>{initials(attyName)}</div>
-                        <div className="sp-sim-info">
-                          <strong className="sp-sim-name">{attyName}</strong>
-                          <span className="sp-sim-loc">{locationStr}</span>
-                        </div>
-                      </div>
-                    ))}
+                    {attorneys.map((attyName, i) => {
+                      const atty = attorneyByName[attyName.trim().toLowerCase()]
+                      const photoUrl = resolvePhoto(atty?.photo)
+                      const inner = (
+                        <>
+                          {photoUrl ? (
+                            <img src={photoUrl} alt={attyName} className="sp-sim-photo" />
+                          ) : (
+                            <div className={`sp-sim-avatar ${avatarClass(attyName)}`}>{initials(attyName)}</div>
+                          )}
+                          <div className="sp-sim-info">
+                            <strong className="sp-sim-name">{attyName}</strong>
+                            <span className="sp-sim-loc">{locationStr}</span>
+                          </div>
+                        </>
+                      )
+                      return atty ? (
+                        <Link key={i} href={`/${stateSlug}/attorneys/${atty.slug}`} className="sp-sim-item">
+                          {inner}
+                        </Link>
+                      ) : (
+                        <div key={i} className="sp-sim-item">{inner}</div>
+                      )
+                    })}
                   </div>
                 </div>
               </div>

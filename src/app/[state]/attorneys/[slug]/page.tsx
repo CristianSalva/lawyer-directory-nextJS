@@ -83,7 +83,18 @@ export default async function AttorneyPage({ params }: Props) {
   ].filter(Boolean) as string[]
   const fullAddress = addressParts.join(', ')
 
-  const hasPhoto = Boolean(photo && photo.startsWith('http'))
+  function resolvePhoto(p: string | null | undefined): string | null {
+    if (!p) return null
+    if (p.startsWith('http')) return p
+    if (p.startsWith('/photos/attorneys/')) {
+      const filename = p.split('/').pop()!
+      const letter = filename[0].toLowerCase()
+      return `/photos/attorneys/${letter}/${filename}`
+    }
+    return null
+  }
+
+  const hasPhoto = Boolean(resolvePhoto(photo))
   const firstName = name.trim().split(/\s+/)[0]
 
   const displayFeatures = [...contact.features]
@@ -117,7 +128,7 @@ export default async function AttorneyPage({ params }: Props) {
         <div className="container sp-hero-inner">
           <div className="sp-photo-wrap">
             {hasPhoto ? (
-              <img src={photo} alt={name} className="sp-photo" />
+              <img src={resolvePhoto(photo)!} alt={name} className="sp-photo" />
             ) : (
               <div className={`sp-avatar ${avatarClass(name)}`}>{initials(name)}</div>
             )}
@@ -237,11 +248,11 @@ export default async function AttorneyPage({ params }: Props) {
                 <h3>Similar Attorneys</h3>
                 <div className="sp-similar">
                   {similar.map(a => {
-                    const simHasPhoto = Boolean(a.photo && a.photo.startsWith('http'))
+                    const simPhotoUrl = resolvePhoto(a.photo)
                     return (
                       <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
-                        {simHasPhoto ? (
-                          <img src={a.photo} alt={a.name} className="sp-sim-photo" />
+                        {simPhotoUrl ? (
+                          <img src={simPhotoUrl} alt={a.name} className="sp-sim-photo" />
                         ) : (
                           <div className={`sp-sim-avatar ${avatarClass(a.name)}`}>{initials(a.name)}</div>
                         )}

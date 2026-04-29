@@ -117,16 +117,25 @@ A Python script (`data/generate-state-json.py` in the WordPress project root) co
 | URL pattern | Page | Notes |
 |---|---|---|
 | `/` | Homepage | Static |
-| `/attorneys` | Browse attorneys by state | Accepts `?location=` / `?area=` |
-| `/firms` | Browse firms by state | Accepts `?location=` / `?area=` |
+| `/attorneys` | Browse attorneys by state | Accepts `?area=` — links append `&type=attorney` |
+| `/firms` | Browse firms by state | Accepts `?area=` — links append `&type=firm` |
 | `/{state}` | State landing page | Two-step flow (see below) |
+| `/{state}?type={type}` | State landing — typed flow | Carries attorney or firm context |
 | `/{state}?area={area}` | State — step 2 (pick city) | Partial selection |
 | `/{state}?city={city}` | State — step 2 (pick area) | Partial selection |
-| `/{state}?area={area}&city={city}` | State results | Shows filtered attorneys + firms |
+| `/{state}?area={area}&city={city}&type={type}` | State results | Filtered attorneys OR firms based on type |
 | `/{state}/attorneys/{slug}` | Attorney profile | Static |
 | `/{state}/firms/{slug}` | Firm profile | Static |
 
 State slugs are lowercased state names with spaces replaced by hyphens (e.g. `new-york`, `district-of-columbia`).
+
+### Attorney vs. Firm flow separation
+
+The `type` query param (`attorney` or `firm`) threads through the entire two-step flow:
+- `HeroSearch.tsx` appends `&type=attorney` to all navigation URLs
+- `attorneys/page.tsx` appends `&type=attorney`; `firms/page.tsx` appends `&type=firm`
+- `StateLanding.tsx` accepts a `type?: string` prop and appends `&type={type}` to every `router.push()` call
+- `[state]/page.tsx` reads `type` from `searchParams`, sets `isAttorneyFlow = type === 'attorney'`, and renders **only** attorneys or **only** firms in results — never both
 
 ---
 
@@ -164,10 +173,11 @@ const citiesWithData = Array.from(new Set([
 ### Results page
 
 When both `area` and `city` are present:
-- Attorneys filtered by: `practice_areas` includes `area` (case-insensitive) AND `location.city` matches `city` (case-insensitive)
-- Firms filtered the same way
+- **Attorney flow** (`type=attorney`): filters by `official_practice_area` exact match (case-insensitive) AND `location.city` match. Falls back to `practice_areas` if `official_practice_area` is empty.
+- **Firm flow** (`type=firm`): filters firms by `official_practice_area` AND `location.city`. Proximity section shows nearby firms within 150-mile radius using Haversine formula.
 - Active filter tags shown in the header (each has a × to remove that single filter)
 - Sidebar shows "Change Legal Issue" and "Change City" lists for quick pivoting
+- All filter/sidebar links preserve the `&type=` param
 
 ---
 
@@ -186,9 +196,17 @@ Hover darkens to `var(--orange)` (`#F9593A`).
 
 ## Homepage Search (`HeroSearch.tsx`)
 
-Client component. On submit:
-- If the location input exactly matches a state name, abbreviation, or slug → `router.push('/{state}')` (goes to state landing)
-- Otherwise → `router.push('/attorneys?location=…&area=…')` (goes to browse page)
+Client component with two `<select>` dropdowns (not text inputs):
+1. **State dropdown** — all 53 states, value is the state slug
+2. **Legal Issue dropdown** — 120 official practice area categories (the `PRACTICE_AREAS` constant defined in the component)
+
+On submit navigation:
+- State + area selected → `/{stateSlug}?area={area}&type=attorney`
+- State only → `/{stateSlug}?type=attorney`
+- Area only → `/attorneys?area={area}`
+- Neither → `/attorneys`
+
+The empty-state placeholder styling uses `.hsf-select--empty` (gray text color) applied dynamically when value is `''`.
 
 ---
 
@@ -212,7 +230,7 @@ Client component. On submit:
 
 | Prefix | Used for |
 |---|---|
-| `.hero-*`, `.hsf-*` | Homepage hero section + search form |
+| `.hero-*`, `.hsf-*` | Homepage hero section + search form (dropdowns) |
 | `.archive-*`, `.asf-*` | Archive page header + search form |
 | `.lawyer-card`, `.llc-*` | Attorney/firm cards in listing pages |
 | `.sp-*` | Single profile pages (hero, body, sidebar, contact form) |
@@ -224,6 +242,12 @@ Client component. On submit:
 | `.map-module-*` | Interactive US map section |
 | `.states-grid`, `.state-card` | Browse attorneys/firms by state grids |
 | `.notfound-*`, `.btn-notfound-*` | 404 page |
+| `.hsf-select` | Dropdown select inside hero search form |
+| `.hsf-select--empty` | Gray placeholder color when no value selected |
+| `.sp-photo-wrap` | Flex wrapper around profile hero photo/avatar |
+| `.sp-practice-type` | Italic subtitle under attorney name in hero |
+| `.sp-sim-photo` | Circular photo in "Similar Attorneys" sidebar cards |
+| `.sp-check` | Green checkmark style in Attorney Details table |
 
 ### Breadcrumbs on dark backgrounds
 
@@ -313,9 +337,50 @@ Then copy the output JSON files into `src/data/` and rebuild.
 
 ---
 
+## `official_practice_area` Data Enrichment
+
+Attorneys have two practice area fields:
+
+| Field | Description |
+|---|---|
+| `practice_areas` | Raw strings from the source data — inconsistent, non-standard |
+| `official_practice_area` | Normalized to the 120 official categories — used for filtering |
+
+**Filtering always uses `official_practice_area`** (exact match, case-insensitive).
+
+### Current coverage (as of last enrichment run)
+
+| Status | Count |
+|---|---|
+| Attorneys with `official_practice_area` filled | 36,310 (88.4%) |
+| Empty — both fields empty (no source data) | 4,713 |
+| Empty — `practice_areas` has only junk strings | 49 |
+
+### Re-enrichment
+
+If new attorney data is imported with empty `official_practice_area`, run the mapping script:
+
+```bash
+python3 /tmp/apply_practice_areas.py
+```
+
+The script at `/tmp/apply_practice_areas.py` contains a `MAPPING` dict of 1,418 raw strings → official categories. Update `DATA_DIR` to the absolute path of `src/data/` before running. The script skips attorneys that already have `official_practice_area` set.
+
+---
+
+## Deployment
+
+The site is deployed on **Render.com** as a persistent Node.js server (not static export). Pushes to `main` on GitHub trigger an automatic redeploy.
+
+- **Live URL**: configured in Render dashboard
+- **Free tier note**: the server spins down after 15 min of inactivity; first request after sleep takes ~30s to wake up
+
+---
+
 ## Known Gaps / Future Work
 
 - **Attorney photos**: The `Attorney.photo` field may contain a remote URL. Profile pages show the photo if it starts with `http`, otherwise show the initial avatar. Photos are not bundled in this project.
 - **Pagination**: The results page currently caps at 20 attorneys and 10 firms. Pagination UI exists in `globals.css` (`.ld-pagination`) but is not yet wired up.
 - **`<img>` vs `next/image`**: Profile pages use a plain `<img>` for external photo URLs. Switching to `next/image` with `unoptimized={true}` would silence the lint warning.
 - **Static export compatibility**: The `?area=&city=` query-param flow on state pages requires a server (or dynamic rendering). If deploying as a pure static export, the filter flow would need to be redesigned.
+- **49 attorneys with unmappable practice areas**: Their `practice_areas` contain only junk strings (e.g. "Retired", "See Practice Areas Above") — these attorneys will never appear in filtered search results.

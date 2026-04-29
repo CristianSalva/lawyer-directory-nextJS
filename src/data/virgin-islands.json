@@ -235,7 +235,13 @@
       },
       "practice_areas": [],
       "sections": [],
-      "official_practice_area": []
+      "official_practice_area": [
+        "Immigration",
+        "International Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Estate Planning"
+      ]
     },
     {
       "slug": "steven-k-hardy",
@@ -274,7 +280,13 @@
       },
       "practice_areas": [],
       "sections": [],
-      "official_practice_area": []
+      "official_practice_area": [
+        "Immigration",
+        "International Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Estate Planning"
+      ]
     },
     {
       "slug": "adam-marinelli",
@@ -313,7 +325,13 @@
       },
       "practice_areas": [],
       "sections": [],
-      "official_practice_area": []
+      "official_practice_area": [
+        "Immigration",
+        "International Law",
+        "Litigation and Appeals",
+        "Real Estate",
+        "Estate Planning"
+      ]
     },
     {
       "slug": "ravinder-s-nagi",
@@ -452,7 +470,9 @@
       },
       "practice_areas": [],
       "sections": [],
-      "official_practice_area": []
+      "official_practice_area": [
+        "Insurance Defense"
+      ]
     },
     {
       "slug": "andrew-c-simpson",
