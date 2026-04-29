@@ -6,7 +6,7 @@ import type { Firm, Attorney } from '@/types'
 
 interface Props {
   params: Promise<{ state: string }>
-  searchParams: Promise<{ area?: string; city?: string }>
+  searchParams: Promise<{ area?: string; city?: string; type?: string }>
 }
 
 export async function generateStaticParams() {
@@ -167,7 +167,8 @@ function AttorneyCard({ attorney, stateSlug, avatarClass }: { attorney: Attorney
 
 export default async function StatePage({ params, searchParams }: Props) {
   const { state: stateSlug } = await params
-  const { area, city } = await searchParams
+  const { area, city, type } = await searchParams
+  const isAttorneyFlow = type === 'attorney'
   const data = getStateData(stateSlug)
   if (!data) notFound()
 
@@ -193,6 +194,7 @@ export default async function StatePage({ params, searchParams }: Props) {
         firmCount={data.firms.length}
         selectedArea={area}
         selectedCity={city}
+        type={type}
       />
     )
   }
@@ -245,9 +247,12 @@ export default async function StatePage({ params, searchParams }: Props) {
   const farFirms    = practiceFiltered.filter(f => !isExactMatch(f) && !isWithinRadius(f))
   const totalAttorneys = exactAttorneys.length
   const totalFirms  = exactFirms.length + nearbyFirms.length + farFirms.length
-  const totalCount  = totalAttorneys + totalFirms
+  const totalCount  = isAttorneyFlow ? totalAttorneys : totalFirms
 
-  const title = `${area} Attorneys & Law Firms in ${city}, ${data.state_abbr}`
+  const title = isAttorneyFlow
+    ? `${area} Attorneys in ${city}, ${data.state_abbr}`
+    : `${area} Law Firms in ${city}, ${data.state_abbr}`
+  const typeParam = isAttorneyFlow ? '&type=attorney' : '&type=firm'
   const areaParam = `area=${encodeURIComponent(area)}`
   const cityParam = `city=${encodeURIComponent(city)}`
 
@@ -266,19 +271,19 @@ export default async function StatePage({ params, searchParams }: Props) {
           </nav>
           <h1>{title}</h1>
           <p className="archive-header-sub">
-            {totalAttorneys.toLocaleString()} attorneys · {totalFirms.toLocaleString()} law firms
+            {totalCount.toLocaleString()} {isAttorneyFlow ? 'attorneys' : 'law firms'}
           </p>
 
           <div className="sl-filter-bar">
             <span className="sl-filter-tag">
               {area}
-              <Link href={`/${stateSlug}?${cityParam}`} className="sl-filter-remove" aria-label="Remove area filter">×</Link>
+              <Link href={`/${stateSlug}?${cityParam}${typeParam}`} className="sl-filter-remove" aria-label="Remove area filter">×</Link>
             </span>
             <span className="sl-filter-tag">
               {city}
-              <Link href={`/${stateSlug}?${areaParam}`} className="sl-filter-remove" aria-label="Remove city filter">×</Link>
+              <Link href={`/${stateSlug}?${areaParam}${typeParam}`} className="sl-filter-remove" aria-label="Remove city filter">×</Link>
             </span>
-            <Link href={`/${stateSlug}`} className="sl-clear-all">Clear all</Link>
+            <Link href={`/${stateSlug}?${typeParam.slice(1)}`} className="sl-clear-all">Clear all</Link>
           </div>
         </div>
       </div>
@@ -294,7 +299,7 @@ export default async function StatePage({ params, searchParams }: Props) {
                   {allAreas.map(a => (
                     <li key={a} className="sidebar-list-item">
                       <Link
-                        href={`/${stateSlug}?area=${encodeURIComponent(a)}&${cityParam}`}
+                        href={`/${stateSlug}?area=${encodeURIComponent(a)}&${cityParam}${typeParam}`}
                         className="sidebar-filter-link"
                       >
                         {a}
@@ -309,7 +314,7 @@ export default async function StatePage({ params, searchParams }: Props) {
                   {citiesWithData.map(c => (
                     <li key={c} className="sidebar-list-item">
                       <Link
-                        href={`/${stateSlug}?${areaParam}&city=${encodeURIComponent(c)}`}
+                        href={`/${stateSlug}?${areaParam}&city=${encodeURIComponent(c)}${typeParam}`}
                         className="sidebar-filter-link"
                       >
                         {c}
@@ -323,67 +328,59 @@ export default async function StatePage({ params, searchParams }: Props) {
             <div>
               {totalCount === 0 ? (
                 <div className="attorneys-no-results">
-                  <p>No attorneys or law firms found for <strong>{area}</strong> in <strong>{city}</strong>.</p>
+                  <p>No {isAttorneyFlow ? 'attorneys' : 'law firms'} found for <strong>{area}</strong> in <strong>{city}</strong>.</p>
                   <br />
-                  <Link href={`/${stateSlug}?${areaParam}`} className="btn-notfound-primary">Try a different city</Link>
+                  <Link href={`/${stateSlug}?${areaParam}${typeParam}`} className="btn-notfound-primary">Try a different city</Link>
                 </div>
               ) : (
                 <>
                   <div className="archive-results-header">
                     <p className="arc-count">
-                      <strong>{totalAttorneys.toLocaleString()}</strong> attorneys · <strong>{totalFirms.toLocaleString()}</strong> law firms · {area} · {city}, {data.state_abbr}
+                      <strong>{totalCount.toLocaleString()}</strong> {isAttorneyFlow ? 'attorneys' : 'law firms'} · {area} · {city}, {data.state_abbr}
                     </p>
                   </div>
 
-                  {exactAttorneys.length > 0 && (
+                  {isAttorneyFlow ? (
+                    <div className="lawyer-list">
+                      {exactAttorneys.slice(0, 20).map(attorney => (
+                        <AttorneyCard key={attorney.slug} attorney={attorney} stateSlug={stateSlug} avatarClass={avatarClass} />
+                      ))}
+                    </div>
+                  ) : (
                     <>
-                      <div className="results-separator">
-                        <span>Attorneys in {city}</span>
-                      </div>
-                      <div className="lawyer-list">
-                        {exactAttorneys.slice(0, 20).map(attorney => (
-                          <AttorneyCard key={attorney.slug} attorney={attorney} stateSlug={stateSlug} avatarClass={avatarClass} />
-                        ))}
-                      </div>
-                    </>
-                  )}
+                      {exactFirms.length > 0 && (
+                        <div className="lawyer-list">
+                          {exactFirms.slice(0, 10).map(firm => (
+                            <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
+                          ))}
+                        </div>
+                      )}
 
-                  {exactFirms.length > 0 && (
-                    <>
-                      <div className="results-separator">
-                        <span>Law Firms in {city}</span>
-                      </div>
-                      <div className="lawyer-list">
-                        {exactFirms.slice(0, 10).map(firm => (
-                          <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
-                        ))}
-                      </div>
-                    </>
-                  )}
+                      {nearbyFirms.length > 0 && (
+                        <>
+                          <div className="results-separator">
+                            <span>Also within {RADIUS_MILES} miles of {city}</span>
+                          </div>
+                          <div className="lawyer-list">
+                            {nearbyFirms.slice(0, 10).map(firm => (
+                              <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
+                            ))}
+                          </div>
+                        </>
+                      )}
 
-                  {nearbyFirms.length > 0 && (
-                    <>
-                      <div className="results-separator">
-                        <span>Law Firms within {RADIUS_MILES} miles of {city}</span>
-                      </div>
-                      <div className="lawyer-list">
-                        {nearbyFirms.slice(0, 10).map(firm => (
-                          <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
-                        ))}
-                      </div>
-                    </>
-                  )}
-
-                  {farFirms.length > 0 && (
-                    <>
-                      <div className="results-separator">
-                        <span>Additional law firms over {RADIUS_MILES} miles away</span>
-                      </div>
-                      <div className="lawyer-list">
-                        {farFirms.slice(0, 10).map(firm => (
-                          <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
-                        ))}
-                      </div>
+                      {farFirms.length > 0 && (
+                        <>
+                          <div className="results-separator">
+                            <span>Additional results over {RADIUS_MILES} miles away</span>
+                          </div>
+                          <div className="lawyer-list">
+                            {farFirms.slice(0, 10).map(firm => (
+                              <FirmCard key={firm.slug} firm={firm} stateSlug={stateSlug} avatarClass={avatarClass} />
+                            ))}
+                          </div>
+                        </>
+                      )}
                     </>
                   )}
                 </>

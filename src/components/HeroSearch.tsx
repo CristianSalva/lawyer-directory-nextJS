@@ -45,9 +45,9 @@ export default function HeroSearch({ states }: { states: StateEntry[] }) {
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (stateSlug && area) {
-      router.push(`/${stateSlug}?area=${encodeURIComponent(area)}`)
+      router.push(`/${stateSlug}?area=${encodeURIComponent(area)}&type=attorney`)
     } else if (stateSlug) {
-      router.push(`/${stateSlug}`)
+      router.push(`/${stateSlug}?type=attorney`)
     } else if (area) {
       router.push(`/attorneys?area=${encodeURIComponent(area)}`)
     } else {

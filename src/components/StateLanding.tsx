@@ -18,6 +18,7 @@ interface Props {
   firmCount: number
   selectedArea?: string
   selectedCity?: string
+  type?: string
 }
 
 export default function StateLanding({
@@ -25,7 +26,9 @@ export default function StateLanding({
   practiceAreas, cities,
   attorneyCount, firmCount,
   selectedArea, selectedCity,
+  type,
 }: Props) {
+  const typeParam = type ? `&type=${type}` : ''
   const router = useRouter()
 
   const isPickingLocation = Boolean(selectedArea && !selectedCity)
@@ -43,13 +46,13 @@ export default function StateLanding({
   const displayAreas = showAllAreas ? sorted : sorted.slice(0, 12)
 
   function pickArea(area: string) {
-    if (selectedCity) return router.push(`/${stateSlug}?area=${encodeURIComponent(area)}&city=${encodeURIComponent(selectedCity)}`)
-    router.push(`/${stateSlug}?area=${encodeURIComponent(area)}`)
+    if (selectedCity) return router.push(`/${stateSlug}?area=${encodeURIComponent(area)}&city=${encodeURIComponent(selectedCity)}${typeParam}`)
+    router.push(`/${stateSlug}?area=${encodeURIComponent(area)}${typeParam}`)
   }
 
   function pickCity(city: string) {
-    if (selectedArea) return router.push(`/${stateSlug}?area=${encodeURIComponent(selectedArea)}&city=${encodeURIComponent(city)}`)
-    router.push(`/${stateSlug}?city=${encodeURIComponent(city)}`)
+    if (selectedArea) return router.push(`/${stateSlug}?area=${encodeURIComponent(selectedArea)}&city=${encodeURIComponent(city)}${typeParam}`)
+    router.push(`/${stateSlug}?city=${encodeURIComponent(city)}${typeParam}`)
   }
 
   return (
@@ -142,7 +145,7 @@ export default function StateLanding({
                       <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="#196AC8" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                     </svg>
                     City selected: <strong>{selectedCity}</strong> —
-                    <a href={`/${stateSlug}`} className="sl-change-link">Change</a>
+                    <a href={`/${stateSlug}${type ? `?type=${type}` : ''}`} className="sl-change-link">Change</a>
                   </div>
                 )}
                 <p className="sl-section-label">
@@ -182,7 +185,7 @@ export default function StateLanding({
                       <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" stroke="#196AC8" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                     </svg>
                     Legal issue selected: <strong>{selectedArea}</strong> —
-                    <a href={`/${stateSlug}`} className="sl-change-link">Change</a>
+                    <a href={`/${stateSlug}${type ? `?type=${type}` : ''}`} className="sl-change-link">Change</a>
                   </div>
                 )}
                 <p className="sl-section-label">

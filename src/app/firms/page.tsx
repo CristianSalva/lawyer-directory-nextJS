@@ -19,7 +19,7 @@ export default async function FirmsPage({ searchParams }: Props) {
     return matchesLoc
   })
 
-  const areaParam = areaQuery ? `?area=${encodeURIComponent(area!)}` : ''
+  const areaParam = areaQuery ? `?area=${encodeURIComponent(area!)}&type=firm` : '?type=firm'
   const hasFilters = Boolean(locQuery || areaQuery)
 
   return (
