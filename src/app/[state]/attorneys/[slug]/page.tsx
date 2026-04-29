@@ -70,7 +70,7 @@ export default async function AttorneyPage({ params }: Props) {
     .filter(a => a.slug !== slug && a.practice_areas.some(pa => attorney.practice_areas.includes(pa)))
     .slice(0, 3) ?? []
 
-  const { name, firm_name, practice_type, years_experience, free_consultation,
+  const { name, firm_name, practice_type, free_consultation,
           super_lawyers, photo, bio, location, contact, practice_areas, sections } = attorney
 
   const overviewSection = sections.find(s => s.title === 'Overview' && s.type === 'text')
@@ -93,12 +93,18 @@ export default async function AttorneyPage({ params }: Props) {
   displayFeatures.push('Available 24/7 for Emergencies', 'Virtual Meetings Available')
   const uniqueFeatures = [...new Set(displayFeatures)]
 
+  const practiceTypeStr = practice_type && locationStr
+    ? `${practice_type} in ${locationStr}`
+    : practice_type || null
+
   return (
     <div>
       {/* Breadcrumb */}
       <nav className="breadcrumb">
         <div className="breadcrumb-inner">
           <Link href="/">Home</Link>
+          <span className="bc-sep">/</span>
+          <Link href="/attorneys">Find a Lawyer</Link>
           <span className="bc-sep">/</span>
           <Link href={`/${stateSlug}`}>{location.state || stateSlug}</Link>
           <span className="bc-sep">/</span>
@@ -109,11 +115,13 @@ export default async function AttorneyPage({ params }: Props) {
       {/* Hero */}
       <section className="sp-hero">
         <div className="container sp-hero-inner">
-          {hasPhoto ? (
-            <img src={photo} alt={name} className="sp-photo" />
-          ) : (
-            <div className={`sp-avatar ${avatarClass(name)}`}>{initials(name)}</div>
-          )}
+          <div className="sp-photo-wrap">
+            {hasPhoto ? (
+              <img src={photo} alt={name} className="sp-photo" />
+            ) : (
+              <div className={`sp-avatar ${avatarClass(name)}`}>{initials(name)}</div>
+            )}
+          </div>
 
           <div className="sp-hero-info">
             <div className="sp-hero-top">
@@ -123,7 +131,7 @@ export default async function AttorneyPage({ params }: Props) {
             </div>
 
             {firm_name && <p className="sp-title">{firm_name}</p>}
-            {practice_type && <p className="sp-title">{practice_type}</p>}
+            {practiceTypeStr && <p className="sp-practice-type">{practiceTypeStr}</p>}
 
             <div className="sp-hero-meta">
               {locationStr && (
@@ -132,22 +140,10 @@ export default async function AttorneyPage({ params }: Props) {
                   {locationStr}
                 </span>
               )}
-              {years_experience && (
-                <span>
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-2 .89-2 2v11c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/></svg>
-                  {years_experience} yrs experience
-                </span>
-              )}
               {contact.phones[0] && (
                 <span>
                   <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
                   {contact.phones[0]}
-                </span>
-              )}
-              {contact.hours && (
-                <span>
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/></svg>
-                  {contact.hours}
                 </span>
               )}
             </div>
@@ -189,7 +185,6 @@ export default async function AttorneyPage({ params }: Props) {
                   <tbody>
                     <tr><td className="sp-dt-label">Full Name</td><td>{name}</td></tr>
                     {firm_name && <tr><td className="sp-dt-label">Firm</td><td>{firm_name}</td></tr>}
-                    {years_experience && <tr><td className="sp-dt-label">Experience</td><td>{years_experience} years</td></tr>}
                     {fullAddress && <tr><td className="sp-dt-label">Address</td><td>{fullAddress}</td></tr>}
                     {contact.phones.map((p, i) => (
                       <tr key={`ph-${i}`}><td className="sp-dt-label">Phone</td><td><a href={`tel:${p.replace(/[^0-9+]/g, '')}`}>{p}</a></td></tr>
@@ -197,9 +192,8 @@ export default async function AttorneyPage({ params }: Props) {
                     {contact.websites.map((w, i) => (
                       <tr key={`web-${i}`}><td className="sp-dt-label">Website</td><td><a href={w} target="_blank" rel="noopener noreferrer">{w.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a></td></tr>
                     ))}
-                    {contact.hours && <tr><td className="sp-dt-label">Hours</td><td>{contact.hours}</td></tr>}
-                    <tr><td className="sp-dt-label">New Clients</td><td>✓ Currently accepting</td></tr>
-                    {free_consultation && <tr><td className="sp-dt-label">Consultation</td><td>✓ Free initial consultation</td></tr>}
+                    <tr><td className="sp-dt-label">New Clients</td><td><span className="sp-check">✓</span> Currently accepting</td></tr>
+                    {free_consultation && <tr><td className="sp-dt-label">Consultation</td><td><span className="sp-check">✓</span> Free initial consultation</td></tr>}
                   </tbody>
                 </table>
               </div>
@@ -242,16 +236,23 @@ export default async function AttorneyPage({ params }: Props) {
               <div className="sp-sidebar-card">
                 <h3>Similar Attorneys</h3>
                 <div className="sp-similar">
-                  {similar.map(a => (
-                    <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
-                      <div className={`sp-sim-avatar ${avatarClass(a.name)}`}>{initials(a.name)}</div>
-                      <div className="sp-sim-info">
-                        <strong className="sp-sim-name">{a.name}</strong>
-                        {a.firm_name && <span className="sp-sim-firm">{a.firm_name}</span>}
-                        {a.location.city && <span className="sp-sim-loc">{a.location.city}</span>}
-                      </div>
-                    </Link>
-                  ))}
+                  {similar.map(a => {
+                    const simHasPhoto = Boolean(a.photo && a.photo.startsWith('http'))
+                    return (
+                      <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
+                        {simHasPhoto ? (
+                          <img src={a.photo} alt={a.name} className="sp-sim-photo" />
+                        ) : (
+                          <div className={`sp-sim-avatar ${avatarClass(a.name)}`}>{initials(a.name)}</div>
+                        )}
+                        <div className="sp-sim-info">
+                          <strong className="sp-sim-name">{a.name}</strong>
+                          {a.firm_name && <span className="sp-sim-firm">{a.firm_name}</span>}
+                          {a.location.city && <span className="sp-sim-loc">{a.location.city}</span>}
+                        </div>
+                      </Link>
+                    )
+                  })}
                 </div>
               </div>
             )}
