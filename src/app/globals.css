@@ -97,6 +97,10 @@ ul { margin: 0; padding: 0; list-style: none; }
 .hsf-field:last-of-type { border-right: none; }
 .hsf-field input { border: none; background: transparent; font-size: 15px; color: var(--dark); outline: none; width: 100%; font-family: inherit; }
 .hsf-field input::placeholder { color: var(--gray-text); }
+.hsf-select { border: none; background: transparent; font-size: 15px; color: var(--dark); outline: none; width: 100%; font-family: inherit; cursor: pointer; appearance: none; -webkit-appearance: none; }
+.hsf-select.hsf-select--empty { color: var(--gray-text); }
+.hsf-select option { color: var(--dark); }
+.hsf-select option[value=""] { color: var(--gray-text); }
 .hsf-btn { background: var(--orange); color: #fff; font-weight: 700; font-size: 16px; padding: 14px 44px; border-radius: 6px; margin: 4px; border: none; cursor: pointer; font-family: inherit; white-space: nowrap; transition: background 200ms; }
 .hsf-btn:hover { background: var(--orange-hover); }
 .hero-cards { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 920px; margin: 48px auto 0; }
