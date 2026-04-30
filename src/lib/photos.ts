@@ -20,7 +20,7 @@ const CDN = process.env.CDN_URL ?? ''
 
 function attorneyFolder(slug: string): string {
   if (/^\d/.test(slug)) return 'missing'
-  const parts = slug.split('-')
+  const parts = slug.split('-').filter(Boolean)
   const lastName = parts.length > 1 ? parts[parts.length - 1] : parts[0]
   return lastName[0].toLowerCase()
 }
