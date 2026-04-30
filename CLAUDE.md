@@ -54,12 +54,12 @@ lawyer-directory-nextjs/
 │   └── types/
 │       └── index.ts                          TypeScript interfaces
 ├── firm_photos/                              Firm profile images (flat, 10,669 files)
-├── photos_backup/                            Attorney photos + map images (by first letter)
+├── attorney_photos/                            Attorney photos + map images (by first letter)
 │   ├── a/ … z/                              {slug}.jpg and {slug}-map.jpg
 │   └── missing/                             Numeric-slug attorneys (e.g. 1001127_1.jpg)
 └── public/
     ├── firm-photos  →  ../firm_photos        Symlink — served at /firm-photos/
-    └── attorney-photos  →  ../photos_backup  Symlink — served at /attorney-photos/
+    └── attorney-photos  →  ../attorney_photos   Symlink — served at /attorney-photos/
 ```
 
 ---
@@ -399,7 +399,7 @@ Two slug variants exist — try both via `resolveFirmPhoto()` in the firm profil
 
 **Coverage:** ~7,493 / 10,700 firms (70%)
 
-### Attorney photos (`photos_backup/`)
+### Attorney photos (`attorney_photos/`)
 
 Organized by first letter of attorney slug. Numeric slugs go in `missing/`.
 
@@ -414,7 +414,7 @@ Resolved via `resolveAttorneyPhotos(slug)` in the attorney profile page and `res
 ### Photo resolution priority
 
 **Attorneys** (all pages):
-1. `photos_backup/{letter}/{slug}.jpg` — local folder, highest priority
+1. `attorney_photos/{letter}/{slug}.jpg` — local folder, highest priority
 2. `attorney.photo` http URL — remote fallback (currently 0 attorneys have this)
 
 **Firms** (all pages):
@@ -445,7 +445,7 @@ Resolved via `resolveAttorneyPhotos(slug)` in the attorney profile page and `res
 
 ## Known Gaps / Future Work
 
-- **Attorney photo coverage**: Only 6,442 / 41,072 attorneys (15.7%) have a photo in `photos_backup/`. The remaining 34,630 will always show the initials avatar until photos are scraped from FindLaw and added to the folder.
+- **Attorney photo coverage**: Only 6,442 / 41,072 attorneys (15.7%) have a photo in `attorney_photos/`. The remaining 34,630 will always show the initials avatar until photos are scraped from FindLaw and added to the folder.
 - **Pagination**: The results page currently caps at 20 attorneys and 10 firms. Pagination UI exists in `globals.css` (`.ld-pagination`) but is not yet wired up.
 - **`<img>` vs `next/image`**: Profile pages use a plain `<img>` for external photo URLs. Switching to `next/image` with `unoptimized={true}` would silence the lint warning.
 - **Static export compatibility**: The `?area=&city=` query-param flow on state pages requires a server (or dynamic rendering). If deploying as a pure static export, the filter flow would need to be redesigned.

@@ -1,30 +1,8 @@
-import fs from 'fs'
-import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getFirm, getStateData, getAllFirmSlugs } from '@/lib/data'
+import { resolveFirmPhoto, resolveAttorneyPhoto } from '@/lib/photos'
 import ContactForm from '@/components/ContactForm'
-
-function resolveFirmPhoto(stateSlug: string, city: string | null, slug: string, name: string | null): string | null {
-  const citySlug = (city || '').toLowerCase().replace(/\s+/g, '-').replace(/,/g, '')
-  const dir = path.join(process.cwd(), 'firm_photos')
-
-  const direct = `${stateSlug}-${citySlug}-${slug}.jpg`
-  if (fs.existsSync(path.join(dir, direct))) return `/firm-photos/${direct}`
-
-  if (name) {
-    const ns = name.toLowerCase()
-      .replace(/\s*&\s*/g, '--')
-      .replace(/\./g, '')
-      .replace(/,\s*/g, '-')
-      .replace(/\s+/g, '-')
-      .replace(/-{3,}/g, '--')
-      .replace(/^-|-$/g, '')
-    const named = `${stateSlug}-${citySlug}-${ns}.jpg`
-    if (fs.existsSync(path.join(dir, named))) return `/firm-photos/${named}`
-  }
-  return null
-}
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
@@ -67,18 +45,7 @@ export default async function FirmPage({ params }: Props) {
     (stateData?.attorneys ?? []).map(a => [a.name.trim().toLowerCase(), a])
   )
 
-  function resolvePhoto(p: string | null | undefined): string | null {
-    if (!p) return null
-    if (p.startsWith('http')) return p
-    if (p.startsWith('/photos/attorneys/')) {
-      const filename = p.split('/').pop()!
-      const letter = filename[0].toLowerCase()
-      return `/photos/attorneys/${letter}/${filename}`
-    }
-    return null
-  }
-
-  const { name, practice_type, years_experience, free_consultation, super_lawyers,
+const { name, practice_type, years_experience, free_consultation, super_lawyers,
           photo, profile_image_url, location, contact, practice_areas, attorneys } = firm
 
   const firmName = name ?? 'Law Firm'
@@ -202,7 +169,7 @@ export default async function FirmPage({ params }: Props) {
                   <div className="sp-similar">
                     {attorneys.map((attyName, i) => {
                       const atty = attorneyByName[attyName.trim().toLowerCase()]
-                      const photoUrl = resolvePhoto(atty?.photo)
+                      const photoUrl = atty ? resolveAttorneyPhoto(atty.slug) : null
                       const inner = (
                         <>
                           {photoUrl ? (

@@ -1,19 +1,9 @@
-import fs from 'fs'
-import path from 'path'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getAttorney, getStateData, getAllAttorneySlugs } from '@/lib/data'
+import { resolveAttorneyPhoto, resolveAttorneyMap } from '@/lib/photos'
 import type { AttorneySection } from '@/types'
 import ContactForm from '@/components/ContactForm'
-
-function resolveAttorneyPhotos(slug: string): { photo: string | null; map: string | null } {
-  const first = slug[0]?.toLowerCase() ?? ''
-  const folder = /^\d/.test(slug) ? 'missing' : first
-  const base = path.join(process.cwd(), 'photos_backup', folder)
-  const photo = fs.existsSync(path.join(base, `${slug}.jpg`)) ? `/attorney-photos/${folder}/${slug}.jpg` : null
-  const map   = fs.existsSync(path.join(base, `${slug}-map.jpg`)) ? `/attorney-photos/${folder}/${slug}-map.jpg` : null
-  return { photo, map }
-}
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
@@ -94,8 +84,8 @@ export default async function AttorneyPage({ params }: Props) {
   ].filter(Boolean) as string[]
   const fullAddress = addressParts.join(', ')
 
-  const { photo: localPhoto, map: mapPhoto } = resolveAttorneyPhotos(slug)
-  const resolvedPhoto = localPhoto ?? (photo?.startsWith('http') ? photo : null)
+  const resolvedPhoto = resolveAttorneyPhoto(slug) ?? (photo?.startsWith('http') ? photo : null)
+  const mapPhoto = resolveAttorneyMap(slug)
   const hasPhoto = Boolean(resolvedPhoto)
   const firstName = name.trim().split(/\s+/)[0]
 
@@ -250,8 +240,7 @@ export default async function AttorneyPage({ params }: Props) {
                 <h3>Similar Attorneys</h3>
                 <div className="sp-similar">
                   {similar.map(a => {
-                    const { photo: simPhoto } = resolveAttorneyPhotos(a.slug)
-                    const simPhotoUrl = a.photo?.startsWith('http') ? a.photo : simPhoto
+                    const simPhotoUrl = resolveAttorneyPhoto(a.slug) ?? (a.photo?.startsWith('http') ? a.photo : null)
                     return (
                       <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
                         {simPhotoUrl ? (
