@@ -18,10 +18,17 @@ function getIndex(): PhotoIndex {
 
 const CDN = process.env.CDN_URL ?? ''
 
+function attorneyFolder(slug: string): string {
+  if (/^\d/.test(slug)) return 'missing'
+  const parts = slug.split('-')
+  const lastName = parts.length > 1 ? parts[parts.length - 1] : parts[0]
+  return lastName[0].toLowerCase()
+}
+
 export function resolveAttorneyPhoto(slug: string): string | null {
   const { attorney_photos } = getIndex()
   if (!attorney_photos.includes(slug)) return null
-  const folder = /^\d/.test(slug) ? 'missing' : slug[0].toLowerCase()
+  const folder = attorneyFolder(slug)
   return CDN
     ? `${CDN}/attorney-photos/${folder}/${slug}.jpg`
     : `/attorney-photos/${folder}/${slug}.jpg`
@@ -30,7 +37,7 @@ export function resolveAttorneyPhoto(slug: string): string | null {
 export function resolveAttorneyMap(slug: string): string | null {
   const { attorney_maps } = getIndex()
   if (!attorney_maps.includes(slug)) return null
-  const folder = /^\d/.test(slug) ? 'missing' : slug[0].toLowerCase()
+  const folder = attorneyFolder(slug)
   return CDN
     ? `${CDN}/attorney-photos/${folder}/${slug}-map.jpg`
     : `/attorney-photos/${folder}/${slug}-map.jpg`

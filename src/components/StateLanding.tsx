@@ -35,8 +35,8 @@ export default function StateLanding({
   const isPickingArea     = Boolean(selectedCity && !selectedArea)
   const isStep1           = !isPickingLocation && !isPickingArea
 
-  const defaultTab = isPickingLocation ? 'cities' : 'issues'
-  const [activeTab, setActiveTab] = useState<'issues' | 'cities'>(defaultTab)
+  const [activeTab, setActiveTab] = useState<'issues' | 'cities'>('issues')
+  const effectiveTab: 'issues' | 'cities' = isPickingLocation ? 'cities' : isPickingArea ? 'issues' : activeTab
   const [showAllAreas, setShowAllAreas] = useState(false)
 
   const sorted = [
@@ -120,7 +120,7 @@ export default function StateLanding({
               {(isStep1 || isPickingArea) && (
                 <button
                   type="button"
-                  className={`sl-tab-btn${activeTab === 'issues' ? ' sl-tab-btn--active' : ''}`}
+                  className={`sl-tab-btn${effectiveTab === 'issues' ? ' sl-tab-btn--active' : ''}`}
                   onClick={() => setActiveTab('issues')}
                 >
                   Legal Issues
@@ -129,7 +129,7 @@ export default function StateLanding({
               {(isStep1 || isPickingLocation) && (
                 <button
                   type="button"
-                  className={`sl-tab-btn${activeTab === 'cities' ? ' sl-tab-btn--active' : ''}`}
+                  className={`sl-tab-btn${effectiveTab === 'cities' ? ' sl-tab-btn--active' : ''}`}
                   onClick={() => setActiveTab('cities')}
                 >
                   {stateName} Cities
@@ -137,7 +137,7 @@ export default function StateLanding({
               )}
             </div>
 
-            {activeTab === 'issues' && (
+            {effectiveTab === 'issues' && (
               <div className="sl-tab-content">
                 {selectedCity && (
                   <div className="sl-selected-notice">
@@ -177,7 +177,7 @@ export default function StateLanding({
               </div>
             )}
 
-            {activeTab === 'cities' && (
+            {effectiveTab === 'cities' && (
               <div className="sl-tab-content">
                 {selectedArea && (
                   <div className="sl-selected-notice">
