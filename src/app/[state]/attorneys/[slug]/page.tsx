@@ -71,7 +71,7 @@ export default async function AttorneyPage({ params }: Props) {
     .filter(a => a.slug !== slug && a.practice_areas.some(pa => attorney.practice_areas.includes(pa)))
     .slice(0, 3) ?? []
 
-  const { name, firm_name, practice_type, free_consultation,
+  const { name, firm_name, firm_slug, practice_type, free_consultation,
           super_lawyers, photo, bio, location, contact, practice_areas, sections } = attorney
 
   const overviewSection = sections.find(s => s.title === 'Overview' && s.type === 'text')
@@ -133,7 +133,13 @@ export default async function AttorneyPage({ params }: Props) {
               {free_consultation && <span className="sp-badge">Free Consultation</span>}
             </div>
 
-            {firm_name && <p className="sp-title">{firm_name}</p>}
+            {firm_name && (
+              <p className="sp-title">
+                {firm_slug
+                  ? <Link href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
+                  : firm_name}
+              </p>
+            )}
             {practiceTypeStr && <p className="sp-practice-type">{practiceTypeStr}</p>}
 
             <div className="sp-hero-meta">
@@ -187,7 +193,13 @@ export default async function AttorneyPage({ params }: Props) {
                 <table className="sp-details-table">
                   <tbody>
                     <tr><td className="sp-dt-label">Full Name</td><td>{name}</td></tr>
-                    {firm_name && <tr><td className="sp-dt-label">Firm</td><td>{firm_name}</td></tr>}
+                    {firm_name && (
+                      <tr><td className="sp-dt-label">Firm</td><td>
+                        {firm_slug
+                          ? <Link href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
+                          : firm_name}
+                      </td></tr>
+                    )}
                     {fullAddress && <tr><td className="sp-dt-label">Address</td><td>{fullAddress}</td></tr>}
                     {contact.phones.map((p, i) => (
                       <tr key={`ph-${i}`}><td className="sp-dt-label">Phone</td><td><a href={`tel:${p.replace(/[^0-9+]/g, '')}`}>{p}</a></td></tr>

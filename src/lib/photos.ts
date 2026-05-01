@@ -18,11 +18,27 @@ function getIndex(): PhotoIndex {
 
 const CDN = process.env.CDN_URL ?? ''
 
+const NAME_SUFFIXES = new Set([
+  'jr', 'sr', 'ii', 'iii', 'iv', 'v', 'vi',
+  'esq', 'phd', 'md', 'dds', 'dvm', 'cpa', 'jd', 'llm', 'ret', 'pe',
+])
+
 function attorneyFolder(slug: string): string {
   if (/^\d/.test(slug)) return 'missing'
-  const parts = slug.split('-').filter(Boolean)
-  const lastName = parts.length > 1 ? parts[parts.length - 1] : parts[0]
-  return lastName[0].toLowerCase()
+  let parts = slug.split('-').filter(Boolean)
+
+  // Strip trailing name suffixes (jr, sr, ii, esq, phd, etc.)
+  while (parts.length > 1 && NAME_SUFFIXES.has(parts[parts.length - 1])) {
+    parts.pop()
+  }
+
+  // With 3+ parts, strip single-char middle initials (e.g. "algert-s-agricola" → "algert-agricola")
+  if (parts.length > 2) {
+    const withoutInitials = [parts[0], ...parts.slice(1).filter(p => p.length > 1)]
+    if (withoutInitials.length > 1) parts = withoutInitials
+  }
+
+  return parts[parts.length - 1][0].toLowerCase()
 }
 
 export function resolveAttorneyPhoto(slug: string): string | null {
