@@ -1,13 +1,15 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getFirm, getStateData, getAllFirmSlugs } from '@/lib/data'
+import { getFirm, getStateData } from '@/lib/data'
 import { resolveFirmPhoto, resolveAttorneyPhoto } from '@/lib/photos'
 import ContactForm from '@/components/ContactForm'
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
+export const dynamicParams = true
+
 export async function generateStaticParams() {
-  return getAllFirmSlugs()
+  return []
 }
 
 const avatarClasses = ['llc-av-1','llc-av-2','llc-av-3','llc-av-4','llc-av-5','llc-av-6','llc-av-7','llc-av-8']
