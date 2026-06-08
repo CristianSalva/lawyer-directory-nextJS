@@ -43,3 +43,8 @@ next-env.d.ts
 # large photo asset folders (serve via CDN in production)
 /firm_photos
 /attorney_photos
+
+# local-only photo symlinks (absolute Mac paths — break deploys; photos come from CDN_URL in prod)
+/public/attorney-photos
+/public/firm-photos
+/public/photos/attorneys
