@@ -1,0 +1,97 @@
+// Serves the static-exported site from R2. Hashed build assets (/_next/*,
+// icons) are served by Workers static assets before this code runs; only
+// HTML pages, /data/*.json, and photos reach the worker.
+
+const TYPES = {
+  html: 'text/html; charset=utf-8',
+  css: 'text/css',
+  js: 'application/javascript',
+  mjs: 'application/javascript',
+  json: 'application/json',
+  txt: 'text/plain',
+  xml: 'application/xml',
+  svg: 'image/svg+xml',
+  ico: 'image/x-icon',
+  jpg: 'image/jpeg',
+  jpeg: 'image/jpeg',
+  png: 'image/png',
+  gif: 'image/gif',
+  webp: 'image/webp',
+  avif: 'image/avif',
+  woff: 'font/woff',
+  woff2: 'font/woff2',
+  ttf: 'font/ttf',
+  wasm: 'application/wasm',
+}
+
+function contentType(key) {
+  const ext = key.split('.').pop()?.toLowerCase()
+  return TYPES[ext] ?? 'application/octet-stream'
+}
+
+function cacheControl(key) {
+  // Photos and hashed assets never change; HTML/data change on redeploy.
+  if (key.endsWith('.html') || key.endsWith('.json')) {
+    return 'public, max-age=0, s-maxage=3600'
+  }
+  return 'public, max-age=31536000, immutable'
+}
+
+async function lookup(bucket, pathname) {
+  let key = decodeURIComponent(pathname).replace(/^\/+/, '').replace(/\/+$/, '')
+  if (key === '') key = 'index.html'
+  const candidates = key.includes('.') ? [key] : [`${key}.html`, key, `${key}/index.html`]
+  for (const k of candidates) {
+    const obj = await bucket.get(k)
+    if (obj) return { key: k, obj }
+  }
+  return null
+}
+
+export default {
+  async fetch(request, env, ctx) {
+    if (request.method !== 'GET' && request.method !== 'HEAD') {
+      return new Response('Method not allowed', { status: 405 })
+    }
+
+    const cache = caches.default
+    // The site is fully static — query strings never change the response
+    // (?area=&city= filtering is client-side). Cache on the bare path so
+    // cache-busting params (e.g. PageSpeed's) still hit the edge cache.
+    const keyUrl = new URL(request.url)
+    keyUrl.search = ''
+    const cacheKey = new Request(keyUrl.toString())
+    const cached = await cache.match(cacheKey)
+    if (cached) {
+      return request.method === 'HEAD'
+        ? new Response(null, { status: cached.status, headers: cached.headers })
+        : cached
+    }
+
+    const url = new URL(request.url)
+    const found = await lookup(env.SITE, url.pathname)
+
+    let response
+    if (found) {
+      const { key, obj } = found
+      response = new Response(obj.body, {
+        headers: {
+          'Content-Type': obj.httpMetadata?.contentType ?? contentType(key),
+          'Cache-Control': cacheControl(key),
+          'ETag': obj.httpEtag,
+        },
+      })
+    } else {
+      const nf = await env.SITE.get('404.html')
+      response = new Response(nf ? nf.body : 'Not found', {
+        status: 404,
+        headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=0, s-maxage=300' },
+      })
+    }
+
+    ctx.waitUntil(cache.put(cacheKey, response.clone()))
+    return request.method === 'HEAD'
+      ? new Response(null, { status: response.status, headers: response.headers })
+      : response
+  },
+}

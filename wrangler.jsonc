@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "lawyer-directory",
+  "main": "cloudflare/worker.js",
+  "compatibility_date": "2026-06-07",
+  // Hashed Next build output (/_next/*, root icons) — served directly as
+  // static assets (free, no worker invocation). HTML/data/photos live in R2
+  // because they exceed the free plan's 20k static-asset file cap.
+  "assets": {
+    "directory": "./cloudflare/assets"
+  },
+  "r2_buckets": [
+    { "binding": "SITE", "bucket_name": "lawyer-directory", "remote": true }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

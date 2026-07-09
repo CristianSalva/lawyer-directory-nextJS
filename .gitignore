@@ -48,3 +48,8 @@ next-env.d.ts
 /public/attorney-photos
 /public/firm-photos
 /public/photos/attorneys
+
+# cloudflare deploy artifacts
+/cloudflare/assets/
+/.wrangler/
+/.upload-token
