@@ -1,15 +1,15 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getFirm, getStateData } from '@/lib/data'
+import { getFirm, getStateData, getAllFirmSlugs } from '@/lib/data'
 import { resolveFirmPhoto, resolveAttorneyPhoto } from '@/lib/photos'
 import ContactForm from '@/components/ContactForm'
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
-export const dynamicParams = true
+export const dynamicParams = false
 
 export async function generateStaticParams() {
-  return []
+  return getAllFirmSlugs().map(({ state, slug }) => ({ state, slug }))
 }
 
 const avatarClasses = ['llc-av-1','llc-av-2','llc-av-3','llc-av-4','llc-av-5','llc-av-6','llc-av-7','llc-av-8']
@@ -75,9 +75,9 @@ const { name, practice_type, years_experience, free_consultation, super_lawyers,
       {/* Breadcrumb */}
       <nav className="breadcrumb">
         <div className="breadcrumb-inner">
-          <Link href="/">Home</Link>
+          <Link prefetch={false} href="/">Home</Link>
           <span className="bc-sep">/</span>
-          <Link href={`/${stateSlug}`}>{location.state || stateSlug}</Link>
+          <Link prefetch={false} href={`/${stateSlug}`}>{location.state || stateSlug}</Link>
           <span className="bc-sep">/</span>
           <span className="bc-current">{firmName}</span>
         </div>
@@ -87,7 +87,7 @@ const { name, practice_type, years_experience, free_consultation, super_lawyers,
       <section className="sp-hero">
         <div className="container sp-hero-inner">
           {hasPhoto ? (
-            <img src={photoUrl!} alt={firmName} className="sp-photo" />
+            <img src={photoUrl!} alt={firmName} className="sp-photo" width="150" height="150" fetchPriority="high" />
           ) : (
             <div className={`sp-avatar ${avatarClass(firmName)}`}>{initials(firmName)}</div>
           )}
@@ -175,7 +175,7 @@ const { name, practice_type, years_experience, free_consultation, super_lawyers,
                       const inner = (
                         <>
                           {photoUrl ? (
-                            <img src={photoUrl} alt={attyName} className="sp-sim-photo" />
+                            <img src={photoUrl} alt={attyName} className="sp-sim-photo" width="44" height="44" loading="lazy" />
                           ) : (
                             <div className={`sp-sim-avatar ${avatarClass(attyName)}`}>{initials(attyName)}</div>
                           )}
@@ -186,7 +186,7 @@ const { name, practice_type, years_experience, free_consultation, super_lawyers,
                         </>
                       )
                       return atty ? (
-                        <Link key={i} href={`/${stateSlug}/attorneys/${atty.slug}`} className="sp-sim-item">
+                        <Link prefetch={false} key={i} href={`/${stateSlug}/attorneys/${atty.slug}`} className="sp-sim-item">
                           {inner}
                         </Link>
                       ) : (
@@ -247,7 +247,7 @@ const { name, practice_type, years_experience, free_consultation, super_lawyers,
                 <h3>Similar Firms</h3>
                 <div className="sp-similar">
                   {similar.map(f => (
-                    <Link key={f.slug} href={`/${stateSlug}/firms/${f.slug}`} className="sp-sim-item">
+                    <Link prefetch={false} key={f.slug} href={`/${stateSlug}/firms/${f.slug}`} className="sp-sim-item">
                       <div className={`sp-sim-avatar ${avatarClass(f.name ?? '')}`}>{initials(f.name ?? '?')}</div>
                       <div className="sp-sim-info">
                         <strong className="sp-sim-name">{f.name}</strong>

@@ -112,3 +112,48 @@ export interface Index {
   state_count: number
   states: StateIndex[]
 }
+
+// Slim card-level records served as static /data/{state}.json for
+// client-side filtering on the exported (serverless) site.
+export interface SlimAttorney {
+  slug: string
+  name: string
+  firm_name: string | null
+  practice_type: string | null
+  free_consultation: boolean
+  super_lawyers: number | null
+  city: string | null
+  state: string | null
+  areas: string[]
+  official: string[]
+  phone: string | null
+  photo: string | null
+}
+
+export interface SlimFirmLocation {
+  city: string | null
+  lat: number | null
+  lng: number | null
+}
+
+export interface SlimFirm {
+  slug: string
+  name: string | null
+  practice_type: string | null
+  free_consultation: boolean
+  super_lawyers: number | null
+  city: string | null
+  state: string | null
+  lat: number | null
+  lng: number | null
+  locs: SlimFirmLocation[]
+  areas: string[]
+  official: string[]
+  phone: string | null
+  photo: string | null
+}
+
+export interface SlimStateData {
+  attorneys: SlimAttorney[]
+  firms: SlimFirm[]
+}

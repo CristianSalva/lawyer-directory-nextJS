@@ -1,16 +1,16 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getAttorney, getStateData } from '@/lib/data'
+import { getAttorney, getStateData, getAllAttorneySlugs } from '@/lib/data'
 import { resolveAttorneyPhoto, resolveAttorneyMap } from '@/lib/photos'
 import type { AttorneySection } from '@/types'
 import ContactForm from '@/components/ContactForm'
 
 interface Props { params: Promise<{ state: string; slug: string }> }
 
-export const dynamicParams = true
+export const dynamicParams = false
 
 export async function generateStaticParams() {
-  return []
+  return getAllAttorneySlugs().map(({ state, slug }) => ({ state, slug }))
 }
 
 const avatarClasses = ['llc-av-1','llc-av-2','llc-av-3','llc-av-4','llc-av-5','llc-av-6','llc-av-7','llc-av-8']
@@ -107,11 +107,11 @@ export default async function AttorneyPage({ params }: Props) {
       {/* Breadcrumb */}
       <nav className="breadcrumb">
         <div className="breadcrumb-inner">
-          <Link href="/">Home</Link>
+          <Link prefetch={false} href="/">Home</Link>
           <span className="bc-sep">/</span>
-          <Link href="/attorneys">Find a Lawyer</Link>
+          <Link prefetch={false} href="/attorneys">Find a Lawyer</Link>
           <span className="bc-sep">/</span>
-          <Link href={`/${stateSlug}`}>{location.state || stateSlug}</Link>
+          <Link prefetch={false} href={`/${stateSlug}`}>{location.state || stateSlug}</Link>
           <span className="bc-sep">/</span>
           <span className="bc-current">{name}</span>
         </div>
@@ -122,7 +122,7 @@ export default async function AttorneyPage({ params }: Props) {
         <div className="container sp-hero-inner">
           <div className="sp-photo-wrap">
             {hasPhoto ? (
-              <img src={resolvedPhoto!} alt={name} className="sp-photo" />
+              <img src={resolvedPhoto!} alt={name} className="sp-photo" width="150" height="150" fetchPriority="high" />
             ) : (
               <div className={`sp-avatar ${avatarClass(name)}`}>{initials(name)}</div>
             )}
@@ -138,7 +138,7 @@ export default async function AttorneyPage({ params }: Props) {
             {firm_name && (
               <p className="sp-title">
                 {firm_slug
-                  ? <Link href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
+                  ? <Link prefetch={false} href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
                   : firm_name}
               </p>
             )}
@@ -198,7 +198,7 @@ export default async function AttorneyPage({ params }: Props) {
                     {firm_name && (
                       <tr><td className="sp-dt-label">Firm</td><td>
                         {firm_slug
-                          ? <Link href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
+                          ? <Link prefetch={false} href={`/${stateSlug}/firms/${firm_slug}`}>{firm_name}</Link>
                           : firm_name}
                       </td></tr>
                     )}
@@ -256,9 +256,9 @@ export default async function AttorneyPage({ params }: Props) {
                   {similar.map(a => {
                     const simPhotoUrl = resolveAttorneyPhoto(a.slug) ?? (a.photo?.startsWith('http') ? a.photo : null)
                     return (
-                      <Link key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
+                      <Link prefetch={false} key={a.slug} href={`/${stateSlug}/attorneys/${a.slug}`} className="sp-sim-item">
                         {simPhotoUrl ? (
-                          <img src={simPhotoUrl} alt={a.name} className="sp-sim-photo" />
+                          <img src={simPhotoUrl} alt={a.name} className="sp-sim-photo" width="44" height="44" loading="lazy" />
                         ) : (
                           <div className={`sp-sim-avatar ${avatarClass(a.name)}`}>{initials(a.name)}</div>
                         )}
@@ -276,7 +276,7 @@ export default async function AttorneyPage({ params }: Props) {
             {mapPhoto && (
               <div className="sp-sidebar-card">
                 <h3>Office Location</h3>
-                <img src={mapPhoto} alt={`${name} office location map`} className="sp-map-img" />
+                <img src={mapPhoto} alt={`${name} office location map`} className="sp-map-img" loading="lazy" />
               </div>
             )}
           </aside>
