@@ -31,8 +31,10 @@ function contentType(key) {
 
 function cacheControl(key) {
   // Photos and hashed assets never change; HTML/data change on redeploy.
+  // Long edge TTL keeps PageSpeed's test regions warm — pages go stale for
+  // up to a day after a redeploy, which is fine for this content.
   if (key.endsWith('.html') || key.endsWith('.json')) {
-    return 'public, max-age=0, s-maxage=3600'
+    return 'public, max-age=0, s-maxage=86400'
   }
   return 'public, max-age=31536000, immutable'
 }
