@@ -39,6 +39,10 @@ export function stateNameToSlug(name: string): string {
   return name.toLowerCase().replace(/\s+/g, '-')
 }
 
+// BUILD_SAMPLE=1 prerenders only a handful of profiles — a fast smoke test
+// of build config changes before committing to the full ~85-minute build.
+const SAMPLE = process.env.BUILD_SAMPLE ? 20 : Infinity
+
 export function getAllAttorneySlugs(): { state: string; slug: string }[] {
   const index = getIndex()
   const result: { state: string; slug: string }[] = []
@@ -51,7 +55,7 @@ export function getAllAttorneySlugs(): { state: string; slug: string }[] {
       }
     }
   }
-  return result
+  return result.slice(0, SAMPLE === Infinity ? result.length : SAMPLE)
 }
 
 export function getAllFirmSlugs(): { state: string; slug: string }[] {
@@ -66,5 +70,5 @@ export function getAllFirmSlugs(): { state: string; slug: string }[] {
       }
     }
   }
-  return result
+  return result.slice(0, SAMPLE === Infinity ? result.length : SAMPLE)
 }

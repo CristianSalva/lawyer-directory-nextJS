@@ -9,6 +9,17 @@ const nextConfig: NextConfig = {
   // ponytail: no experimental.inlineCss — it copies the whole stylesheet into
   // every page's HTML *and* RSC segment files (~+16 GB build output for a
   // 150 ms est. saving). The 9.4 KiB cached stylesheet stays a separate file.
+
+  // Build with `next build --webpack` (see package.json): merged client
+  // chunks are a hard requirement from management — Pingdom's YSlow rules
+  // deduct per script file, and Turbopack has no chunk-merging controls.
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.optimization.splitChunks = false;
+      config.optimization.runtimeChunk = false;
+    }
+    return config;
+  },
 };
 
 export default nextConfig;

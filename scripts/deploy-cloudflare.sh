@@ -33,4 +33,6 @@ node scripts/inline-css.mjs
 
 node scripts/r2-upload.mjs out
 
-npx wrangler deploy
+# Fresh DEPLOY_ID namespaces the worker's edge cache so the new content
+# serves immediately (cached pages otherwise persist up to their s-maxage).
+npx wrangler deploy --var "DEPLOY_ID:$(date +%s)"

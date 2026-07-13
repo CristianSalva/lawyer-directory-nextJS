@@ -5,11 +5,13 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises'
 import path from 'node:path'
 
-const cssFiles = (await readdir('.next/static/chunks')).filter(f => f.endsWith('.css'))
-if (cssFiles.length !== 1) throw new Error(`expected 1 css chunk, found: ${cssFiles}`)
-const cssName = cssFiles[0]
-const css = await readFile(`.next/static/chunks/${cssName}`, 'utf-8')
-const linkTag = `<link rel="stylesheet" href="/_next/static/chunks/${cssName}" data-precedence="next"/>`
+// Turbopack emits static/chunks/*.css; webpack emits static/css/*.css.
+const cssFiles = (await readdir('.next/static', { recursive: true }))
+  .filter(f => f.endsWith('.css'))
+if (cssFiles.length !== 1) throw new Error(`expected 1 css file, found: ${cssFiles}`)
+const cssName = cssFiles[0].split(path.sep).join('/')
+const css = await readFile(`.next/static/${cssName}`, 'utf-8')
+const linkTag = `<link rel="stylesheet" href="/_next/static/${cssName}" data-precedence="next"/>`
 const styleTag = `<style data-precedence="next">${css}</style>`
 
 const files = (await readdir('out', { recursive: true, withFileTypes: true }))

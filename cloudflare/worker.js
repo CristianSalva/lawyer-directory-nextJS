@@ -74,8 +74,10 @@ export default {
     // The site is fully static — query strings never change the response
     // (?area=&city= filtering is client-side). Cache on the bare path so
     // cache-busting params (e.g. PageSpeed's) still hit the edge cache.
+    // DEPLOY_ID (set by scripts/deploy-cloudflare.sh) namespaces the cache
+    // per deploy so stale pages die immediately instead of at TTL expiry.
     const keyUrl = new URL(request.url)
-    keyUrl.search = ''
+    keyUrl.search = `?v=${env.DEPLOY_ID ?? '0'}`
     const cacheKey = new Request(keyUrl.toString())
     const cached = await cache.match(cacheKey)
     if (cached) {
