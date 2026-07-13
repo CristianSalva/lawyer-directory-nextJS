@@ -39,6 +39,20 @@ function cacheControl(key) {
   return 'public, max-age=31536000, immutable'
 }
 
+// Graded by WebPageTest/securityheaders.com and friends. script/style need
+// 'unsafe-inline' (Next inlines RSC bootstrap scripts and we inline the CSS);
+// img-src allows https: for the remote photo fallbacks. No includeSubDomains
+// on HSTS — the zone may host unrelated subdomains.
+const SECURITY_HEADERS = {
+  'Strict-Transport-Security': 'max-age=31536000',
+  'Content-Security-Policy':
+    "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self'",
+  'X-Content-Type-Options': 'nosniff',
+  'X-Frame-Options': 'SAMEORIGIN',
+  'Referrer-Policy': 'strict-origin-when-cross-origin',
+  'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
+}
+
 async function lookup(bucket, pathname) {
   let key = decodeURIComponent(pathname).replace(/^\/+/, '').replace(/\/+$/, '')
   if (key === '') key = 'index.html'
@@ -65,9 +79,13 @@ export default {
     const cacheKey = new Request(keyUrl.toString())
     const cached = await cache.match(cacheKey)
     if (cached) {
+      // Re-apply on hits too: entries stored before a header change would
+      // otherwise serve stale headers for up to their full TTL.
+      const headers = new Headers(cached.headers)
+      for (const [k, v] of Object.entries(SECURITY_HEADERS)) headers.set(k, v)
       return request.method === 'HEAD'
-        ? new Response(null, { status: cached.status, headers: cached.headers })
-        : cached
+        ? new Response(null, { status: cached.status, headers })
+        : new Response(cached.body, { status: cached.status, headers })
     }
 
     const url = new URL(request.url)
@@ -81,13 +99,14 @@ export default {
           'Content-Type': obj.httpMetadata?.contentType ?? contentType(key),
           'Cache-Control': cacheControl(key),
           'ETag': obj.httpEtag,
+          ...SECURITY_HEADERS,
         },
       })
     } else {
       const nf = await env.SITE.get('404.html')
       response = new Response(nf ? nf.body : 'Not found', {
         status: 404,
-        headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=0, s-maxage=300' },
+        headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=0, s-maxage=300', ...SECURITY_HEADERS },
       })
     }
 
