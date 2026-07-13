@@ -1,0 +1,16 @@
+# Cache rules for Worker static assets (the assets layer ignores worker.js).
+# Hashed chunks and versioned fonts never change; the rest is cheap to refresh.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/us-map.svg
+  Cache-Control: public, max-age=86400
+
+/favicon.ico
+  Cache-Control: public, max-age=86400
+
+/*.svg
+  Cache-Control: public, max-age=86400
