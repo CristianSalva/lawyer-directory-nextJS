@@ -1,21 +1,30 @@
 'use client'
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 // The 146 KB map SVG lives in /us-map.svg (cached static asset) and is
-// injected after hydration — shipping it inline doubled the homepage HTML
-// (once as markup, once in the RSC payload) and tanked mobile PageSpeed.
-// .map-module-img reserves the aspect ratio so injection causes no CLS.
+// fetched + injected only when the map scrolls near the viewport — parsing
+// that much SVG during page load showed up as long tasks/forced reflow in
+// PageSpeed traces. .map-module-img reserves the aspect ratio (no CLS).
 export default function USMap() {
   const [svg, setSvg] = useState('')
+  const ref = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
-    fetch('/us-map.svg')
-      .then(r => (r.ok ? r.text() : ''))
-      .then(setSvg)
-      .catch(() => {})
+    const el = ref.current
+    if (!el) return
+    const io = new IntersectionObserver(([entry]) => {
+      if (!entry.isIntersecting) return
+      io.disconnect()
+      fetch('/us-map.svg')
+        .then(r => (r.ok ? r.text() : ''))
+        .then(setSvg)
+        .catch(() => {})
+    }, { rootMargin: '600px' })
+    io.observe(el)
+    return () => io.disconnect()
   }, [])
 
   return (
-    <div className="map-module-img" dangerouslySetInnerHTML={{ __html: svg }} />
+    <div ref={ref} className="map-module-img" dangerouslySetInnerHTML={{ __html: svg }} />
   )
 }
