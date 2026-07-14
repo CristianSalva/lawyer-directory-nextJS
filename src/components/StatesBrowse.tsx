@@ -1,6 +1,7 @@
 'use client'
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
+import { toSlug } from '@/lib/slugs'
 import type { Index } from '@/types'
 
 interface Props {
@@ -33,9 +34,8 @@ export function StatesBrowse({ index, kind, location, area }: Props & { location
     return matchesLoc
   })
 
-  const areaParam = areaQuery
-    ? `?area=${encodeURIComponent(area!)}&type=${kind}`
-    : `?type=${kind}`
+  // Area-filtered state links go to the prerendered /state/area SEO pages.
+  const areaParam = areaQuery ? `/${toSlug(area!)}` : `?type=${kind}`
   const hasFilters = Boolean(locQuery || areaQuery)
 
   return (

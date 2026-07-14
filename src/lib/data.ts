@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs'
 import path from 'path'
+import { toSlug } from '@/lib/slugs'
 import type { StateData, Index, Attorney, Firm } from '@/types'
 
 const DATA_DIR = path.join(process.cwd(), 'src/data')
@@ -71,4 +72,56 @@ export function getAllFirmSlugs(): { state: string; slug: string }[] {
     }
   }
   return result.slice(0, SAMPLE === Infinity ? result.length : SAMPLE)
+}
+
+// Params for the prerendered SEO pages: /{state}/{area} and
+// /{state}/{area}/{city}, emitted only for combinations with ≥1 attorney or
+// firm so no thin/empty pages get indexed. Computed once per build.
+let _areaParams: { state: string; area: string }[] | null = null
+let _areaCityParams: { state: string; area: string; city: string }[] | null = null
+
+function computeSeoParams() {
+  const areaSet = new Map<string, { state: string; area: string }>()
+  const citySet = new Map<string, { state: string; area: string; city: string }>()
+  for (const stateSlug of getAllStateSlugs()) {
+    const data = getStateData(stateSlug)
+    if (!data) continue
+    for (const rec of [...data.attorneys, ...data.firms]) {
+      const city = rec.location.city
+      const citySlugged = city && !/^\d/.test(city) ? toSlug(city) : null
+      for (const area of rec.official_practice_area) {
+        const a = toSlug(area)
+        areaSet.set(`${stateSlug}/${a}`, { state: stateSlug, area: a })
+        if (citySlugged) {
+          citySet.set(`${stateSlug}/${a}/${citySlugged}`, { state: stateSlug, area: a, city: citySlugged })
+        }
+      }
+    }
+  }
+  _areaParams = [...areaSet.values()]
+  _areaCityParams = [...citySet.values()]
+}
+
+export function getAreaParams(): { state: string; area: string }[] {
+  if (!_areaParams) computeSeoParams()
+  return _areaParams!.slice(0, SAMPLE === Infinity ? undefined : SAMPLE)
+}
+
+export function getAreaCityParams(): { state: string; area: string; city: string }[] {
+  if (!_areaCityParams) computeSeoParams()
+  return _areaCityParams!.slice(0, SAMPLE === Infinity ? undefined : SAMPLE)
+}
+
+// Resolve a city slug back to its display name within a state.
+export function cityFromSlug(data: StateData, citySlug: string): string | null {
+  for (const rec of [...data.attorneys, ...data.firms]) {
+    const c = rec.location.city
+    if (c && toSlug(c) === citySlug) return c
+  }
+  for (const f of data.firms) {
+    for (const l of f.additional_locations ?? []) {
+      if (l.city && toSlug(l.city) === citySlug) return l.city
+    }
+  }
+  return null
 }

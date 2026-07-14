@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
+import { toSlug } from '@/lib/slugs'
 
 interface StateEntry { state: string; state_abbr: string; slug: string }
 
@@ -45,7 +46,7 @@ export default function HeroSearch({ states }: { states: StateEntry[] }) {
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (stateSlug && area) {
-      router.push(`/${stateSlug}?area=${encodeURIComponent(area)}&type=attorney`)
+      router.push(`/${stateSlug}/${toSlug(area)}`)
     } else if (stateSlug) {
       router.push(`/${stateSlug}?type=attorney`)
     } else if (area) {

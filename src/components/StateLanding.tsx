@@ -1,6 +1,8 @@
 'use client'
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
+import Link from 'next/link'
+import { toSlug } from '@/lib/slugs'
 
 const COMMON_AREAS = [
   'Car Accidents', 'Criminal Defense', 'Personal Injury', 'Family Law', 'DUI and DWI',
@@ -45,14 +47,17 @@ export default function StateLanding({
   ]
   const displayAreas = showAllAreas ? sorted : sorted.slice(0, 12)
 
-  function pickArea(area: string) {
-    if (selectedCity) return router.push(`/${stateSlug}?area=${encodeURIComponent(area)}&city=${encodeURIComponent(selectedCity)}${typeParam}`)
-    router.push(`/${stateSlug}?area=${encodeURIComponent(area)}${typeParam}`)
+  // Final destinations use the prerendered SEO paths (/state/area[/city]);
+  // only the intermediate city-first step still uses a query param.
+  function pickCity(city: string) {
+    if (selectedArea) return router.push(`/${stateSlug}/${toSlug(selectedArea)}/${toSlug(city)}`)
+    router.push(`/${stateSlug}?city=${encodeURIComponent(city)}${typeParam}`)
   }
 
-  function pickCity(city: string) {
-    if (selectedArea) return router.push(`/${stateSlug}?area=${encodeURIComponent(selectedArea)}&city=${encodeURIComponent(city)}${typeParam}`)
-    router.push(`/${stateSlug}?city=${encodeURIComponent(city)}${typeParam}`)
+  function areaHref(area: string) {
+    return selectedCity
+      ? `/${stateSlug}/${toSlug(area)}/${toSlug(selectedCity)}`
+      : `/${stateSlug}/${toSlug(area)}`
   }
 
   return (
@@ -60,7 +65,7 @@ export default function StateLanding({
       <div className="sl-hero">
         <div className="container">
           <nav className="sl-breadcrumb" aria-label="Breadcrumb">
-            <a href="/" className="sl-breadcrumb-link">Lawyer Directory</a>
+            <a href="/" className="sl-breadcrumb-link">US Lawyer List</a>
             <span className="sl-breadcrumb-sep">/</span>
             <a href={`/${stateSlug}`} className="sl-breadcrumb-link">{stateName}</a>
             {selectedArea && <><span className="sl-breadcrumb-sep">/</span><span>{selectedArea}</span></>}
@@ -153,17 +158,17 @@ export default function StateLanding({
                 </p>
                 <div className="sl-issues-grid">
                   {displayAreas.map(area => (
-                    <button
+                    <Link
                       key={area}
-                      type="button"
+                      prefetch={false}
+                      href={areaHref(area)}
                       className="sl-issue-card"
-                      onClick={() => pickArea(area)}
                     >
                       <svg className="sl-chevron" viewBox="0 0 24 24" fill="none" aria-hidden="true">
                         <path d="M9 18l6-6-6-6" stroke="#196AC8" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
                       </svg>
                       {area}
-                    </button>
+                    </Link>
                   ))}
                 </div>
                 {!showAllAreas && sorted.length > 12 && (
@@ -192,7 +197,19 @@ export default function StateLanding({
                   {isPickingLocation ? 'NOW SELECT A CITY' : `${stateName.toUpperCase()} CITIES`}
                 </p>
                 <div className="sl-location-grid">
-                  {cities.map(city => (
+                  {cities.map(city => selectedArea ? (
+                    <Link
+                      key={city}
+                      prefetch={false}
+                      href={`/${stateSlug}/${toSlug(selectedArea)}/${toSlug(city)}`}
+                      className="sl-location-item"
+                    >
+                      <svg className="sl-chevron" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                        <path d="M9 18l6-6-6-6" stroke="#196AC8" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
+                      </svg>
+                      {city}
+                    </Link>
+                  ) : (
                     <button
                       key={city}
                       type="button"
