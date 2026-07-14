@@ -27,7 +27,7 @@ export default function Footer() {
                   <path d="M18 7L7 13v10l11 6 11-6V13L18 7z" fill="#196AC8"/>
                   <path d="M18 7v22M7 13l11 6 11-6" stroke="#fff" strokeWidth="1.5" strokeLinejoin="round"/>
                 </svg>
-                <span className="footer-brand-text">Lawyer Directory</span>
+                <span className="footer-brand-text">US Lawyer List</span>
               </div>
               <p className="footer-brand-desc">
                 Connecting people with qualified attorneys across the United States. Find the right legal help for your needs.
@@ -55,7 +55,7 @@ export default function Footer() {
       </div>
 
       <div className="copyright-bar">
-        <p>© {new Date().getFullYear()} Lawyer Directory. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} US Lawyer List. All rights reserved.</p>
       </div>
     </footer>
   )

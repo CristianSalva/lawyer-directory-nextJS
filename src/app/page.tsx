@@ -115,7 +115,7 @@ export default function HomePage() {
       {/* Features */}
       <section className="features-section">
         <div className="container">
-          <h2 className="section-heading">Why Use Lawyer Directory?</h2>
+          <h2 className="section-heading">Why Use US Lawyer List?</h2>
           <p className="section-subtitle">We make finding qualified legal help simple, fast, and completely free.</p>
           <div className="features-grid">
             {features.map(f => (

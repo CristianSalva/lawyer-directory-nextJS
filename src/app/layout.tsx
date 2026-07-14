@@ -4,7 +4,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Lawyer Directory – Find Attorneys Near You',
+  title: 'US Lawyer List – Find Attorneys Near You',
   description: 'Find qualified attorneys and law firms across the United States.',
 }
 

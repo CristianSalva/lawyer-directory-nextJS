@@ -22,7 +22,7 @@ export default function Header() {
             <path d="M18 7L7 13v10l11 6 11-6V13L18 7z" fill="#196AC8"/>
             <path d="M18 7v22M7 13l11 6 11-6" stroke="#fff" strokeWidth="1.5" strokeLinejoin="round"/>
           </svg>
-          <span className="logo-text">Lawyer Directory</span>
+          <span className="logo-text">US Lawyer List</span>
         </Link>
 
         <nav className="main-nav">
