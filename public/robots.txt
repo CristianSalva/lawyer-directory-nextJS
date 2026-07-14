@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uslawyerlist.com/sitemap.xml

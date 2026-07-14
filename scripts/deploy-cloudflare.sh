@@ -31,6 +31,10 @@ cp .next/server/app/favicon.ico.body cloudflare/assets/favicon.ico
 # still referenced in the RSC payload), which is async and harmless.
 node scripts/inline-css.mjs
 
+# Sitemap index + chunks, derived from the assembled pages (served as
+# worker static assets alongside robots.txt).
+node scripts/generate-sitemap.mjs
+
 node scripts/r2-upload.mjs out
 
 # Fresh DEPLOY_ID namespaces the worker's edge cache so the new content
