@@ -12,7 +12,11 @@
   "r2_buckets": [
     { "binding": "SITE", "bucket_name": "lawyer-directory", "remote": true }
   ],
+  // Workers Logs disabled — they were eating the account's log budget.
   "observability": {
-    "enabled": true
+    "logs": {
+      "enabled": false,
+      "invocation_logs": true
+    }
   }
 }
