@@ -1,16 +1,19 @@
 import Link from 'next/link'
+import { toSlug } from '@/lib/slugs'
 import { getIndex } from '@/lib/data'
 import FaqSection from '@/components/FaqSection'
 import HeroSearch from '@/components/HeroSearch'
 import USMap from '@/components/USMap'
 
+// `area` must be one of the 120 OFFICIAL_PRACTICE_AREAS — it builds the
+// /attorneys/{area} URL. `label` is display copy only.
 const practiceCards = [
-  { label: 'Personal Injury', icon: '⚖️' },
-  { label: 'Family Law', icon: '👨‍👩‍👧' },
-  { label: 'Criminal Defense', icon: '🛡️' },
-  { label: 'Business Law', icon: '💼' },
-  { label: 'Real Estate', icon: '🏠' },
-  { label: 'Bankruptcy', icon: '📋' },
+  { label: 'Personal Injury', area: 'Personal Injury', icon: '⚖️' },
+  { label: 'Family Law', area: 'Family Law', icon: '👨‍👩‍👧' },
+  { label: 'Criminal Defense', area: 'Criminal Defense', icon: '🛡️' },
+  { label: 'Business Law', area: 'Business and Commercial Law', icon: '💼' },
+  { label: 'Real Estate', area: 'Real Estate', icon: '🏠' },
+  { label: 'Bankruptcy', area: 'Bankruptcy', icon: '📋' },
 ]
 
 const features = [
@@ -34,10 +37,10 @@ const steps = [
 ]
 
 const practiceRows = [
-  { title: 'Personal\nInjury Law', desc: "Were you injured due to someone else's negligence? Our personal injury attorneys fight for the compensation you deserve — from car accidents to medical malpractice.", rowClass: 'category-row--pi', icon: '⚖️', alt: false },
-  { title: 'Family\nLaw', desc: "Navigate life's most sensitive legal matters with compassion. Our family law attorneys handle divorce, custody, adoption, and more with care and expertise.", rowClass: 'category-row--fl', icon: '👨‍👩‍👧', alt: true },
-  { title: 'Real Estate\nLaw', desc: 'Whether buying, selling, or disputing property, our real estate attorneys protect your interests and guide you through every transaction and dispute.', rowClass: 'category-row--re', icon: '🏠', alt: false },
-  { title: 'Criminal\nDefense', desc: 'Facing criminal charges can be overwhelming. Our experienced criminal defense attorneys provide aggressive representation to protect your rights and freedom.', rowClass: 'category-row--cd', icon: '🛡️', alt: true },
+  { title: 'Personal\nInjury Law', area: 'Personal Injury', desc: "Were you injured due to someone else's negligence? Our personal injury attorneys fight for the compensation you deserve — from car accidents to medical malpractice.", rowClass: 'category-row--pi', icon: '⚖️', alt: false },
+  { title: 'Family\nLaw', area: 'Family Law', desc: "Navigate life's most sensitive legal matters with compassion. Our family law attorneys handle divorce, custody, adoption, and more with care and expertise.", rowClass: 'category-row--fl', icon: '👨‍👩‍👧', alt: true },
+  { title: 'Real Estate\nLaw', area: 'Real Estate', desc: 'Whether buying, selling, or disputing property, our real estate attorneys protect your interests and guide you through every transaction and dispute.', rowClass: 'category-row--re', icon: '🏠', alt: false },
+  { title: 'Criminal\nDefense', area: 'Criminal Defense', desc: 'Facing criminal charges can be overwhelming. Our experienced criminal defense attorneys provide aggressive representation to protect your rights and freedom.', rowClass: 'category-row--cd', icon: '🛡️', alt: true },
 ]
 
 const faqs = [
@@ -68,7 +71,7 @@ export default function HomePage() {
 
           <div className="hero-cards">
             {practiceCards.map(card => (
-              <Link key={card.label} href={`/attorneys?area=${encodeURIComponent(card.label)}`} className="hero-card-item">
+              <Link key={card.label} href={`/attorneys/${toSlug(card.area)}`} className="hero-card-item">
                 <span className="hero-card-icon">{card.icon}</span>
                 <span className="hero-card-label">{card.label}</span>
               </Link>
@@ -200,7 +203,7 @@ export default function HomePage() {
               <div className="category-content">
                 <h3>{row.title}</h3>
                 <p>{row.desc}</p>
-                <Link href={`/attorneys?area=${encodeURIComponent(row.title.replace('\n', ' '))}`} className="btn-cta">
+                <Link href={`/attorneys/${toSlug(row.area)}`} className="btn-cta">
                   Find an Attorney →
                 </Link>
               </div>

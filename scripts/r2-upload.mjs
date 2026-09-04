@@ -9,7 +9,7 @@
 import { readFile, readdir, stat } from 'node:fs/promises'
 import path from 'node:path'
 
-const UPLOAD_URL = process.env.UPLOAD_URL ?? 'https://lawyer-directory-uploader.noel-a02.workers.dev'
+const UPLOAD_URL = process.env.UPLOAD_URL ?? 'https://lawyer-directory-uploader.noel-33f.workers.dev'
 const MAX_BATCH_FILES = 25
 const MAX_BATCH_BYTES = 8 * 1024 * 1024
 const CONCURRENCY = 6

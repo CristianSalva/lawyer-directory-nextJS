@@ -14,3 +14,10 @@ const AREA_BY_SLUG = new Map(OFFICIAL_PRACTICE_AREAS.map(a => [toSlug(a), a]))
 export function areaFromSlug(slug: string): string | null {
   return AREA_BY_SLUG.get(slug) ?? null
 }
+
+// Source records spell the same city inconsistently ("St. Louis" / "St Louis",
+// "McKinney" / "Mckinney") — 35 city slugs have more than one spelling. Match
+// on the slug so no records get dropped from a city's pages.
+export function cityMatchesSlug(city: string | null | undefined, citySlug: string): boolean {
+  return Boolean(city) && toSlug(city as string) === citySlug
+}

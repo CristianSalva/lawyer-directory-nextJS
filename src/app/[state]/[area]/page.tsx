@@ -1,24 +1,39 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import { getStateData, getAreaParams } from '@/lib/data'
+import { getStateData, getAreaParams, getCityParams, cityFromSlug } from '@/lib/data'
 import { toSlug, areaFromSlug } from '@/lib/slugs'
 import { toSlimAttorney, toSlimFirm } from '@/lib/slim'
 import { AttorneyCard, FirmCard } from '@/components/ResultCards'
+import CityPage from '@/components/CityPage'
 
+// The [area] segment carries either a practice-area slug (/texas/dui-and-dwi)
+// or a city slug (/texas/austin) — no city slug collides with the 120 official
+// area slugs, so areaFromSlug() alone decides which page to render.
 interface Props { params: Promise<{ state: string; area: string }> }
 
 export const dynamicParams = false
 
 export async function generateStaticParams() {
-  return getAreaParams()
+  return [
+    ...getAreaParams(),
+    ...getCityParams().map(({ state, city }) => ({ state, area: city })),
+  ]
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { state, area } = await params
-  const areaName = areaFromSlug(area)
   const data = getStateData(state)
-  if (!areaName || !data) return {}
+  if (!data) return {}
+  const areaName = areaFromSlug(area)
+  if (!areaName) {
+    const cityName = cityFromSlug(data, area)
+    if (!cityName) return {}
+    return {
+      title: `Lawyers in ${cityName}, ${data.state_abbr} | US Lawyer List`,
+      description: `Find attorneys and law firms in ${cityName}, ${data.state}. Browse by legal issue, compare profiles, and get contact details on US Lawyer List.`,
+    }
+  }
   return {
     title: `${areaName} Lawyers in ${data.state} | US Lawyer List`,
     description: `Find ${areaName.toLowerCase()} attorneys and law firms in ${data.state}. Browse profiles, contact details, and reviews on US Lawyer List.`,
@@ -27,9 +42,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function StateAreaPage({ params }: Props) {
   const { state: stateSlug, area: areaSlug } = await params
-  const areaName = areaFromSlug(areaSlug)
   const data = getStateData(stateSlug)
-  if (!areaName || !data) notFound()
+  if (!data) notFound()
+
+  const areaName = areaFromSlug(areaSlug)
+  if (!areaName) {
+    const cityName = cityFromSlug(data, areaSlug)
+    if (!cityName) notFound()
+    return <CityPage stateSlug={stateSlug} data={data} citySlug={areaSlug} cityName={cityName} />
+  }
 
   const attorneys = data.attorneys
     .filter(a => a.official_practice_area.includes(areaName))

@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getStateData, getAreaCityParams, cityFromSlug } from '@/lib/data'
-import { toSlug, areaFromSlug } from '@/lib/slugs'
+import { toSlug, areaFromSlug, cityMatchesSlug } from '@/lib/slugs'
 import { toSlimAttorney, toSlimFirm } from '@/lib/slim'
 import { AttorneyCard, FirmCard } from '@/components/ResultCards'
 import { OFFICIAL_PRACTICE_AREAS } from '@/lib/practice-areas'
@@ -48,11 +48,9 @@ export default async function StateAreaCityPage({ params }: Props) {
   const cityName = cityFromSlug(data, citySlug)
   if (!cityName) notFound()
 
-  const cityQ = cityName.toLowerCase()
-
   const attorneys = data.attorneys
     .filter(a => a.official_practice_area.includes(areaName) &&
-                 a.location.city?.toLowerCase() === cityQ)
+                 cityMatchesSlug(a.location.city, citySlug))
     .map(toSlimAttorney)
 
   const practiceFirms = data.firms
@@ -63,17 +61,17 @@ export default async function StateAreaCityPage({ params }: Props) {
   let refLat: number | null = null
   let refLng: number | null = null
   outer: for (const f of practiceFirms) {
-    if (f.city?.toLowerCase() === cityQ && f.lat && f.lng) {
+    if (cityMatchesSlug(f.city, citySlug) && f.lat && f.lng) {
       refLat = f.lat; refLng = f.lng; break outer
     }
     for (const l of f.locs) {
-      if (l.city?.toLowerCase() === cityQ && l.lat && l.lng) {
+      if (cityMatchesSlug(l.city, citySlug) && l.lat && l.lng) {
         refLat = l.lat; refLng = l.lng; break outer
       }
     }
   }
   const isExact = (f: SlimFirm) =>
-    f.city?.toLowerCase() === cityQ || f.locs.some(l => l.city?.toLowerCase() === cityQ)
+    cityMatchesSlug(f.city, citySlug) || f.locs.some(l => cityMatchesSlug(l.city, citySlug))
   const isNearby = (f: SlimFirm) => {
     if (refLat === null || refLng === null) return false
     if (f.lat && f.lng && haversinemiles(refLat, refLng, f.lat, f.lng) <= RADIUS_MILES) return true

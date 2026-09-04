@@ -53,6 +53,40 @@ const SECURITY_HEADERS = {
   'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
 }
 
+// Mirrors toSlug() in src/lib/slugs.ts.
+function toSlug(name) {
+  return name.toLowerCase().replace(/['\u2018\u2019]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+}
+
+// Every filter combination now has a prerendered path, so the retired query
+// params are 301'd onto it: /{state}?city=Foo → /{state}/foo,
+// /{state}?area=A&city=C → /{state}/a/c, and a bare ?type= is dropped.
+// /attorneys?area=… is handled in the page instead — only it knows which
+// strings are real practice areas. Exported for scripts/check-seo-urls.mjs.
+export function seoRedirect(url) {
+  const path = url.pathname
+  const q = url.searchParams
+  const dest = (p) => new URL(p, url.origin).toString()
+
+  // /attorneys and /firms match the state-slug shape but are section paths:
+  // whether their ?area= names a real practice area is decided in the page.
+  if (/^\/[a-z][a-z-]*$/.test(path) && path !== '/attorneys' && path !== '/firms') {
+    const city = q.get('city')
+    const area = q.get('area')
+    const parts = [area && toSlug(area), city && toSlug(city)].filter(Boolean)
+    if (parts.length && parts.every(Boolean)) return dest(`${path}/${parts.join('/')}`)
+  }
+
+  if (q.has('type')) {
+    const rest = new URLSearchParams(q)
+    rest.delete('type')
+    const s = rest.toString()
+    return dest(path + (s ? `?${s}` : ''))
+  }
+
+  return null
+}
+
 async function lookup(bucket, pathname) {
   let key = decodeURIComponent(pathname).replace(/^\/+/, '').replace(/\/+$/, '')
   if (key === '') key = 'index.html'
@@ -70,9 +104,17 @@ export default {
       return new Response('Method not allowed', { status: 405 })
     }
 
+    const redirect = seoRedirect(new URL(request.url))
+    if (redirect) {
+      return new Response(null, {
+        status: 301,
+        headers: { Location: redirect, 'Cache-Control': 'public, max-age=0, s-maxage=86400', ...SECURITY_HEADERS },
+      })
+    }
+
     const cache = caches.default
     // The site is fully static — query strings never change the response
-    // (?area=&city= filtering is client-side). Cache on the bare path so
+    // (the filter params are 301'd above). Cache on the bare path so
     // cache-busting params (e.g. PageSpeed's) still hit the edge cache.
     // DEPLOY_ID (set by scripts/deploy-cloudflare.sh) namespaces the cache
     // per deploy so stale pages die immediately instead of at TTL expiry.

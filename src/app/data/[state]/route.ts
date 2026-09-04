@@ -3,8 +3,9 @@ import { toSlimAttorney, toSlimFirm } from '@/lib/slim'
 import type { SlimStateData } from '@/types'
 
 // Emitted at build time as static /data/{state}.json files consumed by the
-// client-side filter flow (StateResults). The full per-state JSON is far too
-// large to ship to browsers; this carries card-level fields only.
+// retired client-side filter flow. Now unused: every filter combination has
+// a prerendered page instead. Kept only because scripts/assemble.sh and
+// deploy-cloudflare.sh copy out/data/*.json — delete all three together.
 export const dynamic = 'force-static'
 
 export async function generateStaticParams() {

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import type { SlimAttorney, SlimFirm } from '@/types'
 
-// Shared by the client-side filter results (StateResults) and the
+// Shared by the
 // prerendered /{state}/{area}[/{city}] SEO pages. Server-compatible.
 
 const avatarClasses = ['llc-av-1','llc-av-2','llc-av-3','llc-av-4','llc-av-5','llc-av-6','llc-av-7','llc-av-8']

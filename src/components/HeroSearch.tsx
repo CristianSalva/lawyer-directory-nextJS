@@ -48,9 +48,9 @@ export default function HeroSearch({ states }: { states: StateEntry[] }) {
     if (stateSlug && area) {
       router.push(`/${stateSlug}/${toSlug(area)}`)
     } else if (stateSlug) {
-      router.push(`/${stateSlug}?type=attorney`)
+      router.push(`/${stateSlug}`)
     } else if (area) {
-      router.push(`/attorneys?area=${encodeURIComponent(area)}`)
+      router.push(`/attorneys/${toSlug(area)}`)
     } else {
       router.push('/attorneys')
     }
